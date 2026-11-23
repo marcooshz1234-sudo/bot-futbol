@@ -1,7 +1,7 @@
 # Torreense – Celtic
 **Europa League** · League Stage - 5 · 26/11/2026 21:00 (hora España) · Estadio Algarve
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 20:34_
@@ -60,53 +60,53 @@ _Actualizadas: 22/11 20:34_
 ## Estadísticas de equipo
 | | Torreense (total) | Torreense en casa | Celtic (total) | Celtic fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 7 | 6 | 2 |
-| Forma (últimos 5) | DVEVD | DVVDE | VDDDD | DD |
-| Balance | 4V 4E 6D | 2V 2E 3D | 2V 0E 4D | 0V 0E 2D |
-| Goles a favor / partido | 1,21 | 1,29 | 1,67 | 1,00 |
-| Goles en contra / partido | 1,57 | 1,71 | 2,67 | 4,50 |
-| Goles a favor 1ª parte | 0,50 | 0,57 | 0,67 | 0,50 |
-| Goles a favor 2ª parte | 0,71 | 0,71 | 1,00 | 0,50 |
-| Goles en contra 1ª parte | 0,50 | 0,71 | 1,00 | 2,00 |
-| Goles en contra 2ª parte | 1,07 | 1,00 | 1,67 | 2,50 |
-| Más de 1,5 goles | 71% | 71% | 100% | 100% |
-| Más de 2,5 goles | 64% | 71% | 100% | 100% |
-| Más de 3,5 goles | 36% | 43% | 67% | 100% |
-| Ambos marcan | 57% | 57% | 83% | 100% |
-| Portería a cero | 29% | 29% | 17% | 0% |
-| Se queda sin marcar | 29% | 29% | 0% | 0% |
+| Partidos analizados | 15 | 8 | 6 | 2 |
+| Forma (últimos 5) | DDVEV | DDVVD | VDDDD | DD |
+| Balance | 4V 4E 7D | 2V 2E 4D | 2V 0E 4D | 0V 0E 2D |
+| Goles a favor / partido | 1,20 | 1,25 | 1,67 | 1,00 |
+| Goles en contra / partido | 1,67 | 1,88 | 2,67 | 4,50 |
+| Goles a favor 1ª parte | 0,47 | 0,50 | 0,67 | 0,50 |
+| Goles a favor 2ª parte | 0,73 | 0,75 | 1,00 | 0,50 |
+| Goles en contra 1ª parte | 0,53 | 0,75 | 1,00 | 2,00 |
+| Goles en contra 2ª parte | 1,13 | 1,12 | 1,67 | 2,50 |
+| Más de 1,5 goles | 73% | 75% | 100% | 100% |
+| Más de 2,5 goles | 67% | 75% | 100% | 100% |
+| Más de 3,5 goles | 40% | 50% | 67% | 100% |
+| Ambos marcan | 60% | 62% | 83% | 100% |
+| Portería a cero | 27% | 25% | 17% | 0% |
+| Se queda sin marcar | 27% | 25% | 0% | 0% |
 | xG a favor | 0,92 | 0,99 | 1,07 | 1,38 |
 | xG en contra | 1,81 | 1,66 | 2,04 | 3,22 |
-| Tiros / partido | 8,6 | 7,8 | 12,2 | 11,0 |
+| Tiros / partido | 8,8 | 8,3 | 12,2 | 11,0 |
 | Tiros a puerta / partido | 2,9 | 3,2 | 5,2 | 5,0 |
-| Tiros recibidos | 17,4 | 16,4 | 22,8 | 33,0 |
-| Tiros a puerta recibidos | 5,3 | 6,2 | 6,2 | 7,5 |
-| Posesión media % | 44 | 47 | 51 | 49 |
-| Córners a favor | 2,7 | 3,3 | 6,2 | 5,5 |
-| Córners en contra | 4,5 | 4,0 | 6,2 | 9,0 |
-| Córners a favor 1ª parte | 1,2 | 1,3 | 2,3 | 2,5 |
-| Córners a favor 2ª parte | 1,5 | 2,0 | 3,5 | 2,0 |
+| Tiros recibidos | 18,1 | 17,7 | 22,8 | 33,0 |
+| Tiros a puerta recibidos | 5,6 | 6,5 | 6,2 | 7,5 |
+| Posesión media % | 44 | 46 | 51 | 49 |
+| Córners a favor | 2,5 | 3,0 | 6,2 | 5,5 |
+| Córners en contra | 4,6 | 4,3 | 6,2 | 9,0 |
+| Córners a favor 1ª parte | 1,1 | 1,1 | 2,3 | 2,5 |
+| Córners a favor 2ª parte | 1,5 | 1,9 | 3,5 | 2,0 |
 | Córners totales del partido | 7,2 | 7,3 | 12,3 | 14,5 |
 | Córners totales 1ª parte | 3,3 | 3,0 | 5,3 | 7,0 |
 | Córners totales 2ª parte | 3,8 | 4,3 | 6,3 | 5,5 |
-| Más de 8,5 córners | 50% | 50% | 83% | 100% |
-| Más de 9,5 córners | 50% | 50% | 83% | 100% |
-| Más de 10,5 córners | 33% | 33% | 83% | 100% |
-| Faltas cometidas | 12,6 | 13,0 | 10,8 | 10,5 |
-| Faltas recibidas | 15,4 | 15,0 | 11,3 | 14,5 |
-| Amarillas propias | 1,8 | 1,5 | 1,0 | 0,5 |
-| Amarillas del rival | 2,8 | 3,2 | 1,7 | 2,5 |
-| Rojas / partido | 0,33 | 0,17 | 0,00 | 0,00 |
+| Más de 8,5 córners | 46% | 43% | 83% | 100% |
+| Más de 9,5 córners | 46% | 43% | 83% | 100% |
+| Más de 10,5 córners | 31% | 29% | 83% | 100% |
+| Faltas cometidas | 13,5 | 14,7 | 10,8 | 10,5 |
+| Faltas recibidas | 14,7 | 13,7 | 11,3 | 14,5 |
+| Amarillas propias | 2,2 | 2,1 | 1,0 | 0,5 |
+| Amarillas del rival | 2,8 | 3,0 | 1,7 | 2,5 |
+| Rojas / partido | 0,31 | 0,14 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Torreense | Recibe Torreense | Tarjetas Torreense | Goles Celtic | Recibe Celtic | Tarjetas Celtic |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 1 | 0 | 0 | 1 | 0 |
-| 16-30' | 3 | 3 | 5 | 2 | 2 | 1 |
-| 31-45' | 2 | 3 | 6 | 2 | 3 | 0 |
-| 46-60' | 3 | 7 | 7 | 1 | 4 | 1 |
-| 61-75' | 1 | 2 | 8 | 3 | 2 | 1 |
-| 76-90' | 6 | 6 | 9 | 2 | 4 | 4 |
+| 16-30' | 3 | 3 | 6 | 2 | 2 | 1 |
+| 31-45' | 2 | 4 | 6 | 2 | 3 | 0 |
+| 46-60' | 4 | 7 | 9 | 1 | 4 | 1 |
+| 61-75' | 1 | 3 | 9 | 3 | 2 | 1 |
+| 76-90' | 6 | 7 | 11 | 2 | 4 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -119,36 +119,36 @@ _Sin precedentes recientes._
 ## Últimos partidos de Torreense
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Taça de Portugal | Torreense 1-3 Benfica | casa | 1-6 | 11 (3) - 24 (8) | 6-2 |
 | 2026-11-09 | Segunda Liga | Torreense 2-3 União de Leiria | casa | 2-4 | 8 (3) - 19 (10) | 1-2 |
 | 2026-11-05 | Europa League | Torreense 3-2 Ararat-Armenia | casa | 4-6 | 12 (5) - 19 (8) | 3-5 |
 | 2026-10-31 | Segunda Liga | Portimonense 0-0 Torreense | fuera | 4-4 | 12 (2) - 11 (2) | 4-3 |
 | 2026-10-26 | Segunda Liga | Torreense 1-0 Amarante | casa | 3-3 | 9 (4) - 9 (4) | 2-4 |
 | 2026-10-22 | Europa League | Ferencvarosi TC 4-1 Torreense | fuera | 4-7 | 8 (4) - 14 (5) | 2-4 |
-| 2026-10-15 | Europa League | Torreense 1-2 Sunderland | casa | 2-9 | 3 (1) - 22 (5) | 1-3 |
 
 ## Jugadores de Torreense
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Volnei Feltes | D | 5 | 450 | 1 | 0 | 4 | 0,8 | 1 | 0,2 | 5 | 2 | 0,4 | 1 | 0 |
-| Javi Vázquez | D | 5 | 447 | 1 | 3 | 3 | 0,6 | 2 | 0,4 | 1 | 8 | 1,6 | 0 | 0 |
+| Volnei | D | 6 | 540 | 1 | 0 | 4 | 0,7 | 1 | 0,2 | 5 | 2 | 0,3 | 1 | 0 |
+| Javi Vázquez | D | 6 | 537 | 1 | 3 | 4 | 0,7 | 2 | 0,3 | 1 | 9 | 1,5 | 0 | 0 |
+| Alejandro Alfaro | M | 6 | 501 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 8 | 7 | 1,2 | 2 | 0 |
 | M. Diadie | D | 5 | 434 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 3 | 2 | 0,4 | 0 | 1 |
-| Alejandro Alfaro | M | 5 | 411 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 5 | 6 | 1,2 | 1 | 0 |
-| João Marques | M | 5 | 386 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 7 | 11 | 2,2 | 1 | 0 |
+| João Marques | M | 6 | 406 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 8 | 12 | 2,0 | 2 | 0 |
 | A. Oudrhiri | M | 5 | 374 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 5 | 6 | 1,2 | 0 | 0 |
+| Dany Jean | F | 6 | 324 | 0 | 0 | 4 | 0,7 | 0 | 0,0 | 4 | 4 | 0,7 | 3 | 0 |
+| David Bruno | D | 5 | 321 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 6 | 3 | 0,6 | 1 | 0 |
 | Lucas Paes | G | 4 | 298 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,5 | 0 | 0 |
-| D. Jean | M | 5 | 279 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 3 | 4 | 0,8 | 2 | 0 |
-| Manu Pozo | M | 4 | 268 | 2 | 0 | 5 | 1,2 | 3 | 0,8 | 2 | 3 | 0,8 | 1 | 0 |
+| Manuel Pozo | F | 5 | 289 | 2 | 0 | 6 | 1,2 | 4 | 0,8 | 3 | 4 | 0,8 | 1 | 0 |
 | M. Abubakari | F | 4 | 255 | 0 | 0 | 8 | 2,0 | 1 | 0,2 | 3 | 5 | 1,2 | 1 | 0 |
-| David Bruno | D | 4 | 231 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 5 | 3 | 0,8 | 1 | 0 |
+| Musa Drammeh | F | 6 | 240 | 2 | 0 | 7 | 1,2 | 5 | 0,8 | 7 | 7 | 1,2 | 1 | 0 |
 | J. Mutombo | D | 3 | 219 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 4 | 1,3 | 2 | 0 |
 | K. Zoabi | M | 3 | 173 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 2 | 0,7 | 0 | 0 |
-| M. Drammeh | F | 5 | 159 | 1 | 0 | 5 | 1,0 | 4 | 0,8 | 6 | 4 | 0,8 | 1 | 0 |
+| Luis Quintero | M | 5 | 163 | 0 | 0 | 4 | 0,8 | 1 | 0,2 | 2 | 0 | 0,0 | 0 | 0 |
 | Adriel | G | 2 | 146 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 1 |
-| L. Quintero | F | 4 | 118 | 0 | 0 | 4 | 1,0 | 1 | 0,2 | 2 | 0 | 0,0 | 0 | 0 |
-| Nuha Jatta | M | 3 | 65 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 3 | 1,0 | 0 | 1 |
-| Stopira | D | 3 | 42 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,3 | 0 | 0 |
-| André Simões | M | 3 | 33 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 1,0 | 0 | 0 |
-| Jorge Aguirre | F | 1 | 25 | 1 | 0 | 1 | 1,0 | 1 | 1,0 | 1 | 0 | 0,0 | 0 | 1 |
+| Stopira | D | 4 | 132 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 1 | 0 |
+| Lisandru Olmeta | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Hugo Perez | M | 1 | 70 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
+| Vando Félix | M | 1 | 69 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 2,0 | 0 | 0 |
 
 ## Últimos partidos de Celtic
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

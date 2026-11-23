@@ -853,5 +853,41 @@
  "Vizela|Portugal": [
   41.39096,
   -8.26389
+ ],
+ "Como|World": [
+  -12.23333,
+  44.44553
+ ],
+ "Bratislava|World": [
+  48.14816,
+  17.10674
+ ],
+ "Rotterdam|World": [
+  51.9225,
+  4.47917
+ ],
+ "Bristol|England": [
+  51.45523,
+  -2.59665
+ ],
+ "Manchester|World": [
+  53.48095,
+  -2.23743
+ ],
+ "Cardiff|England": [
+  51.48,
+  -3.18
+ ],
+ "Leipzig|World": [
+  51.33962,
+  12.37129
+ ],
+ "Portsmouth|England": [
+  50.79899,
+  -1.09125
+ ],
+ "Istanbul|World": [
+  41.01384,
+  28.94966
  ]
 }

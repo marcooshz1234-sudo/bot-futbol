@@ -1,7 +1,7 @@
 # Plzen – Benfica
 **Europa League** · League Stage - 5 · 26/11/2026 18:45 (hora España) · Doosan Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 20:34_
@@ -61,53 +61,53 @@ _Actualizadas: 22/11 20:34_
 ## Estadísticas de equipo
 | | Plzen (total) | Plzen en casa | Benfica (total) | Benfica fuera |
 |---|---|---|---|---|
-| Partidos analizados | 6 | 3 | 21 | 11 |
-| Forma (últimos 5) | VDDDV | DDV | VVVVV | VVVDV |
-| Balance | 2V 0E 4D | 1V 0E 2D | 17V 2E 2D | 8V 1E 2D |
-| Goles a favor / partido | 1,33 | 2,00 | 2,95 | 2,82 |
-| Goles en contra / partido | 1,83 | 2,00 | 0,90 | 1,00 |
-| Goles a favor 1ª parte | 0,33 | 0,33 | 1,14 | 0,82 |
-| Goles a favor 2ª parte | 1,00 | 1,67 | 1,81 | 2,00 |
-| Goles en contra 1ª parte | 0,83 | 1,33 | 0,29 | 0,36 |
-| Goles en contra 2ª parte | 1,00 | 0,67 | 0,62 | 0,64 |
+| Partidos analizados | 6 | 3 | 22 | 12 |
+| Forma (últimos 5) | VDDDV | DDV | VVVVV | VVVVD |
+| Balance | 2V 0E 4D | 1V 0E 2D | 18V 2E 2D | 9V 1E 2D |
+| Goles a favor / partido | 1,33 | 2,00 | 2,95 | 2,83 |
+| Goles en contra / partido | 1,83 | 2,00 | 0,91 | 1,00 |
+| Goles a favor 1ª parte | 0,33 | 0,33 | 1,14 | 0,83 |
+| Goles a favor 2ª parte | 1,00 | 1,67 | 1,82 | 2,00 |
+| Goles en contra 1ª parte | 0,83 | 1,33 | 0,27 | 0,33 |
+| Goles en contra 2ª parte | 1,00 | 0,67 | 0,64 | 0,67 |
 | Más de 1,5 goles | 83% | 100% | 95% | 100% |
-| Más de 2,5 goles | 83% | 100% | 81% | 82% |
-| Más de 3,5 goles | 17% | 33% | 62% | 55% |
-| Ambos marcan | 50% | 67% | 67% | 64% |
-| Portería a cero | 17% | 0% | 33% | 36% |
+| Más de 2,5 goles | 83% | 100% | 82% | 83% |
+| Más de 3,5 goles | 17% | 33% | 64% | 58% |
+| Ambos marcan | 50% | 67% | 68% | 67% |
+| Portería a cero | 17% | 0% | 32% | 33% |
 | Se queda sin marcar | 33% | 33% | 0% | 0% |
 | xG a favor | 1,69 | 0,97 | 2,21 | 1,85 |
 | xG en contra | 1,41 | 1,17 | 0,82 | 0,85 |
-| Tiros / partido | 20,6 | 22,7 | 19,8 | 16,2 |
-| Tiros a puerta / partido | 7,0 | 6,3 | 7,2 | 5,9 |
-| Tiros recibidos | 12,8 | 12,3 | 8,9 | 10,1 |
-| Tiros a puerta recibidos | 5,8 | 6,0 | 3,2 | 3,5 |
+| Tiros / partido | 20,6 | 22,7 | 20,0 | 16,8 |
+| Tiros a puerta / partido | 7,0 | 6,3 | 7,2 | 6,1 |
+| Tiros recibidos | 12,8 | 12,3 | 9,0 | 10,2 |
+| Tiros a puerta recibidos | 5,8 | 6,0 | 3,2 | 3,4 |
 | Posesión media % | 50 | 55 | 62 | 60 |
 | Córners a favor | 4,7 | 5,7 | 7,1 | 5,3 |
-| Córners en contra | 2,7 | 1,7 | 3,0 | 3,3 |
-| Córners a favor 1ª parte | 1,3 | 1,0 | 3,9 | 2,4 |
+| Córners en contra | 2,7 | 1,7 | 2,9 | 3,1 |
+| Córners a favor 1ª parte | 1,3 | 1,0 | 3,8 | 2,4 |
 | Córners a favor 2ª parte | 2,5 | 3,7 | 3,3 | 2,9 |
-| Córners totales del partido | 7,3 | 7,3 | 10,1 | 8,5 |
+| Córners totales del partido | 7,3 | 7,3 | 10,0 | 8,4 |
 | Córners totales 1ª parte | 2,3 | 1,3 | 5,0 | 3,8 |
-| Córners totales 2ª parte | 4,0 | 5,0 | 5,1 | 4,7 |
-| Más de 8,5 córners | 50% | 33% | 71% | 55% |
-| Más de 9,5 córners | 33% | 33% | 57% | 45% |
-| Más de 10,5 córners | 17% | 33% | 52% | 36% |
-| Faltas cometidas | 13,8 | 17,3 | 11,5 | 12,0 |
-| Faltas recibidas | 11,0 | 14,3 | 14,1 | 14,2 |
-| Amarillas propias | 2,2 | 1,3 | 2,0 | 2,3 |
-| Amarillas del rival | 2,8 | 3,3 | 2,3 | 2,4 |
-| Rojas / partido | 0,00 | 0,00 | 0,10 | 0,18 |
+| Córners totales 2ª parte | 4,0 | 5,0 | 5,0 | 4,7 |
+| Más de 8,5 córners | 50% | 33% | 68% | 50% |
+| Más de 9,5 córners | 33% | 33% | 55% | 42% |
+| Más de 10,5 córners | 17% | 33% | 50% | 33% |
+| Faltas cometidas | 13,8 | 17,3 | 11,5 | 11,9 |
+| Faltas recibidas | 11,0 | 14,3 | 14,3 | 14,5 |
+| Amarillas propias | 2,2 | 1,3 | 2,0 | 2,2 |
+| Amarillas del rival | 2,8 | 3,3 | 2,5 | 2,7 |
+| Rojas / partido | 0,00 | 0,00 | 0,09 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Plzen | Recibe Plzen | Tarjetas Plzen | Goles Benfica | Recibe Benfica | Tarjetas Benfica |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 1 | 0 | 10 | 1 | 4 |
-| 16-30' | 0 | 1 | 0 | 7 | 0 | 4 |
-| 31-45' | 0 | 3 | 3 | 7 | 5 | 9 |
-| 46-60' | 1 | 3 | 1 | 15 | 5 | 5 |
-| 61-75' | 2 | 1 | 1 | 11 | 4 | 9 |
-| 76-90' | 3 | 2 | 10 | 12 | 4 | 14 |
+| 16-30' | 0 | 1 | 0 | 7 | 0 | 5 |
+| 31-45' | 0 | 3 | 3 | 8 | 5 | 9 |
+| 46-60' | 1 | 3 | 1 | 15 | 6 | 7 |
+| 61-75' | 2 | 1 | 1 | 12 | 4 | 9 |
+| 76-90' | 3 | 2 | 10 | 13 | 4 | 14 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -154,33 +154,33 @@ _Sin precedentes recientes._
 ## Últimos partidos de Benfica
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Taça de Portugal | Torreense 1-3 Benfica | fuera | 6-1 | 24 (8) - 11 (3) | 2-6 |
 | 2026-11-08 | Primeira Liga | Estrela 2-3 Benfica | fuera | 10-1 | 15 (5) - 7 (2) | 0-2 |
 | 2026-11-05 | Europa League | Benfica 3-1 Lech Poznan | casa | 6-3 | 24 (12) - 6 (5) | 2-1 |
 | 2026-11-02 | Primeira Liga | Benfica 1-0 Alverca | casa | 8-5 | 13 (4) - 8 (4) | 1-3 |
 | 2026-10-26 | Primeira Liga | Santa Clara 1-2 Benfica | fuera | 3-2 | 16 (3) - 13 (6) | 5-4 |
 | 2026-10-22 | Europa League | Omonia Nicosia 1-4 Benfica | fuera | 5-4 | 23 (10) - 7 (5) | 4-1 |
-| 2026-10-15 | Europa League | Benfica 4-1 Celtic | casa | 8-6 | 26 (7) - 14 (7) | 3-0 |
 
 ## Jugadores de Benfica
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Tomás Araújo | D | 15 | 1265 | 0 | 2 | 8 | 0,5 | 1 | 0,1 | 17 | 2 | 0,1 | 5 | 0 |
-| G. Prestianni | M | 15 | 1089 | 9 | 6 | 45 | 3,0 | 21 | 1,4 | 3 | 33 | 2,2 | 2 | 0 |
-| S. Dahl | D | 13 | 1033 | 1 | 0 | 4 | 0,3 | 2 | 0,2 | 14 | 8 | 0,6 | 2 | 0 |
-| V. Pavlidis | F | 14 | 1010 | 13 | 3 | 36 | 2,6 | 20 | 1,4 | 14 | 17 | 1,2 | 2 | 0 |
+| Gianluca Prestianni | M | 16 | 1173 | 10 | 6 | 50 | 3,1 | 22 | 1,4 | 4 | 37 | 2,3 | 2 | 0 |
+| Samuel Dahl | D | 14 | 1123 | 1 | 1 | 4 | 0,3 | 2 | 0,1 | 14 | 8 | 0,6 | 2 | 0 |
+| Vangelis Pavlidis | F | 15 | 1032 | 13 | 3 | 38 | 2,5 | 21 | 1,4 | 14 | 17 | 1,1 | 2 | 0 |
+| Clément Lenglet | D | 12 | 1025 | 1 | 0 | 6 | 0,5 | 2 | 0,2 | 15 | 7 | 0,6 | 4 | 1 |
+| João Palhinha | M | 14 | 1024 | 0 | 0 | 19 | 1,4 | 4 | 0,3 | 19 | 23 | 1,6 | 4 | 0 |
 | Samuel Soares | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| C. Lenglet | D | 11 | 935 | 1 | 0 | 5 | 0,5 | 2 | 0,2 | 14 | 6 | 0,5 | 3 | 1 |
-| João Palhinha | M | 13 | 934 | 0 | 0 | 15 | 1,2 | 2 | 0,2 | 15 | 22 | 1,7 | 4 | 0 |
-| A. Bah | D | 11 | 876 | 2 | 1 | 12 | 1,1 | 6 | 0,5 | 11 | 19 | 1,7 | 3 | 0 |
-| Rafa | M | 13 | 839 | 2 | 0 | 14 | 1,1 | 7 | 0,5 | 8 | 21 | 1,6 | 0 | 0 |
-| H. Sudakov | M | 13 | 728 | 2 | 1 | 10 | 0,8 | 4 | 0,3 | 10 | 9 | 0,7 | 2 | 0 |
-| A. Schjelderup | F | 15 | 651 | 1 | 3 | 16 | 1,1 | 5 | 0,3 | 4 | 11 | 0,7 | 0 | 0 |
+| Alexander Bah | D | 12 | 966 | 2 | 1 | 12 | 1,0 | 6 | 0,5 | 12 | 22 | 1,8 | 3 | 0 |
+| Rafa Silva | M | 14 | 861 | 2 | 0 | 14 | 1,0 | 7 | 0,5 | 8 | 22 | 1,6 | 0 | 0 |
+| Georgiy Sudakov | M | 14 | 801 | 2 | 1 | 10 | 0,7 | 4 | 0,3 | 11 | 10 | 0,7 | 3 | 0 |
+| Andreas Schjelderup | M | 16 | 724 | 1 | 3 | 17 | 1,1 | 6 | 0,4 | 4 | 12 | 0,8 | 0 | 0 |
 | F. Aursnes | M | 10 | 617 | 2 | 0 | 5 | 0,5 | 2 | 0,2 | 11 | 4 | 0,4 | 1 | 0 |
+| Alessandro Circati | D | 10 | 573 | 0 | 0 | 6 | 0,6 | 0 | 0,0 | 5 | 3 | 0,3 | 1 | 0 |
 | L. Barreiro | M | 9 | 567 | 2 | 1 | 10 | 1,1 | 5 | 0,6 | 15 | 13 | 1,4 | 2 | 0 |
-| A. Circati | D | 9 | 483 | 0 | 0 | 6 | 0,7 | 0 | 0,0 | 3 | 3 | 0,3 | 1 | 0 |
-| D. Lukebakio | F | 14 | 423 | 1 | 1 | 14 | 1,0 | 9 | 0,6 | 9 | 7 | 0,5 | 0 | 0 |
-| A. Trubin | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
+| Anatoliy Trubin | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
+| Dodi Lukebakio | F | 15 | 440 | 1 | 1 | 14 | 0,9 | 9 | 0,6 | 9 | 7 | 0,5 | 0 | 0 |
+| Jhon Durán | F | 14 | 424 | 4 | 0 | 19 | 1,4 | 6 | 0,4 | 8 | 11 | 0,8 | 3 | 1 |
+| Claudio Echeverri | M | 8 | 382 | 0 | 4 | 17 | 2,1 | 6 | 0,8 | 6 | 11 | 1,4 | 0 | 0 |
 | Daniel Banjaqui | D | 5 | 357 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 4 | 4 | 0,8 | 2 | 0 |
-| J. Durán | F | 13 | 356 | 3 | 0 | 17 | 1,3 | 5 | 0,4 | 8 | 10 | 0,8 | 3 | 1 |
 | S. El Karouani | D | 6 | 316 | 0 | 1 | 2 | 0,3 | 1 | 0,2 | 5 | 5 | 0,8 | 2 | 0 |
-| C. Echeverri | M | 7 | 314 | 0 | 3 | 16 | 2,3 | 5 | 0,7 | 6 | 9 | 1,3 | 0 | 0 |

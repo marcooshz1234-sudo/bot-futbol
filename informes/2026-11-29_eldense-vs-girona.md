@@ -1,7 +1,7 @@
 # Eldense – Girona
 **Segunda División** · Regular Season - 16 · 29/11/2026 17:00 (hora España) · Estadio Nuevo Pepico Amat
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

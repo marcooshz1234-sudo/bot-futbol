@@ -1,16 +1,16 @@
 # Vitória SC – Estrela
 **Primeira Liga** · Regular Season - 12 · 28/11/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 07:44_
+_Actualizadas: 23/11 08:32_
 
 - **1X2:** 1 **1.70**  ·  X **3.70**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.28**  ·  X2 **2.10**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **13.00**
+    - 0,5: más **1.04** · menos **12.00**
     - 1,5: más **1.25** · menos **3.75**
     - 2,5: más **1.80** · menos **2.00**
     - 3,5: más **3.00** · menos **1.36**
@@ -59,21 +59,21 @@ _Actualizadas: 22/11 07:44_
 ## Estadísticas de equipo
 | | Vitória SC (total) | Vitória SC en casa | Estrela (total) | Estrela fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 7 | 12 | 6 |
-| Forma (últimos 5) | DDEVV | DDVEE | DDDVD | DVDEV |
-| Balance | 3V 3E 7D | 2V 2E 3D | 3V 4E 5D | 2V 2E 2D |
-| Goles a favor / partido | 0,92 | 1,14 | 1,58 | 1,83 |
-| Goles en contra / partido | 1,08 | 0,86 | 1,92 | 1,83 |
-| Goles a favor 1ª parte | 0,15 | 0,29 | 0,25 | 0,33 |
-| Goles a favor 2ª parte | 0,77 | 0,86 | 1,33 | 1,50 |
-| Goles en contra 1ª parte | 0,46 | 0,29 | 0,75 | 0,50 |
-| Goles en contra 2ª parte | 0,62 | 0,57 | 1,17 | 1,33 |
-| Más de 1,5 goles | 54% | 57% | 92% | 83% |
-| Más de 2,5 goles | 31% | 29% | 75% | 83% |
-| Más de 3,5 goles | 15% | 14% | 50% | 50% |
-| Ambos marcan | 31% | 29% | 75% | 83% |
-| Portería a cero | 38% | 43% | 0% | 0% |
-| Se queda sin marcar | 46% | 43% | 25% | 17% |
+| Partidos analizados | 13 | 7 | 13 | 6 |
+| Forma (últimos 5) | DDEVV | DDVEE | VDDDV | DVDEV |
+| Balance | 3V 3E 7D | 2V 2E 3D | 4V 4E 5D | 2V 2E 2D |
+| Goles a favor / partido | 0,92 | 1,14 | 1,54 | 1,83 |
+| Goles en contra / partido | 1,08 | 0,86 | 1,77 | 1,83 |
+| Goles a favor 1ª parte | 0,15 | 0,29 | 0,23 | 0,33 |
+| Goles a favor 2ª parte | 0,77 | 0,86 | 1,31 | 1,50 |
+| Goles en contra 1ª parte | 0,46 | 0,29 | 0,69 | 0,50 |
+| Goles en contra 2ª parte | 0,62 | 0,57 | 1,08 | 1,33 |
+| Más de 1,5 goles | 54% | 57% | 85% | 83% |
+| Más de 2,5 goles | 31% | 29% | 69% | 83% |
+| Más de 3,5 goles | 15% | 14% | 46% | 50% |
+| Ambos marcan | 31% | 29% | 69% | 83% |
+| Portería a cero | 38% | 43% | 8% | 0% |
+| Se queda sin marcar | 46% | 43% | 23% | 17% |
 | xG a favor | 1,48 | 1,92 | 1,28 | 1,50 |
 | xG en contra | 1,01 | 0,63 | 1,34 | 1,05 |
 | Tiros / partido | 16,9 | 20,8 | 12,5 | 13,2 |
@@ -81,20 +81,20 @@ _Actualizadas: 22/11 07:44_
 | Tiros recibidos | 9,5 | 7,8 | 11,3 | 10,6 |
 | Tiros a puerta recibidos | 2,8 | 2,3 | 4,6 | 4,4 |
 | Posesión media % | 53 | 58 | 51 | 55 |
-| Córners a favor | 4,9 | 5,6 | 4,1 | 3,4 |
-| Córners en contra | 3,6 | 2,7 | 4,8 | 3,6 |
-| Córners a favor 1ª parte | 1,9 | 2,1 | 2,1 | 1,4 |
-| Córners a favor 2ª parte | 3,0 | 3,4 | 2,0 | 2,0 |
-| Córners totales del partido | 8,5 | 8,3 | 8,9 | 7,0 |
-| Córners totales 1ª parte | 4,2 | 3,6 | 4,3 | 3,6 |
-| Córners totales 2ª parte | 4,3 | 4,7 | 4,6 | 3,4 |
-| Más de 8,5 córners | 42% | 43% | 64% | 40% |
-| Más de 9,5 córners | 33% | 29% | 45% | 20% |
-| Más de 10,5 córners | 33% | 29% | 36% | 20% |
+| Córners a favor | 4,9 | 5,6 | 3,8 | 3,4 |
+| Córners en contra | 3,6 | 2,7 | 4,4 | 3,6 |
+| Córners a favor 1ª parte | 1,9 | 2,1 | 1,9 | 1,4 |
+| Córners a favor 2ª parte | 3,0 | 3,4 | 1,8 | 2,0 |
+| Córners totales del partido | 8,5 | 8,3 | 8,2 | 7,0 |
+| Córners totales 1ª parte | 4,2 | 3,6 | 3,9 | 3,6 |
+| Córners totales 2ª parte | 4,3 | 4,7 | 4,2 | 3,4 |
+| Más de 8,5 córners | 42% | 43% | 58% | 40% |
+| Más de 9,5 córners | 33% | 29% | 42% | 20% |
+| Más de 10,5 córners | 33% | 29% | 33% | 20% |
 | Faltas cometidas | 15,9 | 13,5 | 11,7 | 11,0 |
 | Faltas recibidas | 10,8 | 9,3 | 11,9 | 11,6 |
-| Amarillas propias | 2,4 | 1,9 | 2,1 | 2,2 |
-| Amarillas del rival | 2,5 | 2,3 | 1,9 | 2,2 |
+| Amarillas propias | 2,4 | 1,9 | 1,9 | 2,2 |
+| Amarillas del rival | 2,5 | 2,3 | 1,8 | 2,2 |
 | Rojas / partido | 0,08 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -104,7 +104,7 @@ _Actualizadas: 22/11 07:44_
 | 16-30' | 0 | 3 | 7 | 1 | 2 | 6 |
 | 31-45' | 1 | 2 | 6 | 2 | 2 | 3 |
 | 46-60' | 2 | 5 | 4 | 6 | 5 | 6 |
-| 61-75' | 3 | 1 | 8 | 6 | 3 | 1 |
+| 61-75' | 3 | 1 | 8 | 7 | 3 | 1 |
 | 76-90' | 5 | 3 | 9 | 4 | 6 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -157,12 +157,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Estrela
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Taça de Portugal | Estrela 1-0 Portimonense | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-08 | Primeira Liga | Estrela 2-3 Benfica | casa | 1-10 | 7 (2) - 15 (5) | 2-0 |
 | 2026-10-31 | Primeira Liga | Moreirense 2-1 Estrela | fuera | 3-3 | 11 (1) - 11 (4) | 1-0 |
 | 2026-10-24 | Primeira Liga | Estrela 0-2 Casa Pia | casa | 7-5 | 18 (6) - 10 (4) | 1-2 |
 | 2026-10-17 | Taça de Portugal | Fazendense 1-2 Estrela | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-11 | Primeira Liga | Arouca 1-0 Estrela | fuera | 6-5 | 11 (2) - 7 (3) | 2-5 |
-| 2026-09-20 | Primeira Liga | Estrela 0-2 Academico Viseu | casa | 5-2 | 16 (2) - 8 (4) | 2-3 |
 
 ## Jugadores de Estrela
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

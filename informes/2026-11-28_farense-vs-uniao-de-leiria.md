@@ -1,7 +1,7 @@
 # Farense – União de Leiria
 **Segunda Liga** · Regular Season - 12 · 28/11/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Farense (total) | Farense en casa | União de Leiria (total) | União de Leiria fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 8 | 12 | 6 |
-| Forma (últimos 5) | VDDED | VDDVV | VVEVD | VEVEV |
-| Balance | 7V 3E 4D | 5V 1E 2D | 7V 2E 3D | 3V 2E 1D |
-| Goles a favor / partido | 1,57 | 2,00 | 1,67 | 2,00 |
-| Goles en contra / partido | 1,14 | 1,25 | 1,17 | 1,33 |
-| Goles a favor 1ª parte | 0,57 | 0,75 | 0,33 | 0,33 |
-| Goles a favor 2ª parte | 1,00 | 1,25 | 1,33 | 1,67 |
-| Goles en contra 1ª parte | 0,64 | 0,62 | 0,75 | 0,83 |
-| Goles en contra 2ª parte | 0,50 | 0,62 | 0,42 | 0,50 |
-| Más de 1,5 goles | 79% | 88% | 83% | 83% |
-| Más de 2,5 goles | 57% | 75% | 50% | 50% |
-| Más de 3,5 goles | 29% | 38% | 25% | 50% |
-| Ambos marcan | 57% | 62% | 58% | 67% |
-| Portería a cero | 36% | 38% | 25% | 17% |
-| Se queda sin marcar | 14% | 0% | 17% | 17% |
+| Partidos analizados | 14 | 8 | 13 | 6 |
+| Forma (últimos 5) | VDDED | VDDVV | VVVEV | VEVEV |
+| Balance | 7V 3E 4D | 5V 1E 2D | 8V 2E 3D | 3V 2E 1D |
+| Goles a favor / partido | 1,57 | 2,00 | 1,85 | 2,00 |
+| Goles en contra / partido | 1,14 | 1,25 | 1,23 | 1,33 |
+| Goles a favor 1ª parte | 0,57 | 0,75 | 0,31 | 0,33 |
+| Goles a favor 2ª parte | 1,00 | 1,25 | 1,54 | 1,67 |
+| Goles en contra 1ª parte | 0,64 | 0,62 | 0,77 | 0,83 |
+| Goles en contra 2ª parte | 0,50 | 0,62 | 0,46 | 0,50 |
+| Más de 1,5 goles | 79% | 88% | 85% | 83% |
+| Más de 2,5 goles | 57% | 75% | 54% | 50% |
+| Más de 3,5 goles | 29% | 38% | 31% | 50% |
+| Ambos marcan | 57% | 62% | 62% | 67% |
+| Portería a cero | 36% | 38% | 23% | 17% |
+| Se queda sin marcar | 14% | 0% | 15% | 17% |
 | xG a favor | – | – | – | – |
 | xG en contra | – | – | – | – |
 | Tiros / partido | 12,6 | 15,7 | 17,8 | 18,0 |
@@ -51,11 +51,11 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | Tramo | Goles Farense | Recibe Farense | Tarjetas Farense | Goles União de Leiria | Recibe União de Leiria | Tarjetas União de Leiria |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 3 | 4 | 1 | 1 | 2 |
-| 16-30' | 3 | 1 | 3 | 1 | 5 | 2 |
+| 16-30' | 3 | 1 | 3 | 1 | 6 | 3 |
 | 31-45' | 2 | 5 | 5 | 2 | 3 | 3 |
-| 46-60' | 7 | 2 | 2 | 6 | 1 | 3 |
+| 46-60' | 7 | 2 | 2 | 7 | 1 | 3 |
 | 61-75' | 4 | 1 | 4 | 4 | 0 | 6 |
-| 76-90' | 3 | 4 | 13 | 6 | 4 | 7 |
+| 76-90' | 3 | 4 | 13 | 9 | 5 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -99,12 +99,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de União de Leiria
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Taça de Portugal | União de Leiria 4-2 Leça | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-09 | Segunda Liga | Torreense 2-3 União de Leiria | fuera | 4-2 | 19 (10) - 8 (3) | 2-1 |
 | 2026-10-31 | Segunda Liga | União de Leiria 2-1 AVS | casa | 6-2 | 17 (10) - 8 (5) | 2-4 |
 | 2026-10-25 | Segunda Liga | FC Porto B 1-1 União de Leiria | fuera | –-– | – (–) - – (–) | 4-3 |
 | 2026-10-17 | Taça de Portugal | União de Leiria 2-1 Bragança | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-11 | Segunda Liga | União de Leiria 0-2 Academica | casa | 8-5 | 18 (4) - 16 (6) | 2-2 |
-| 2026-09-19 | Taça de Portugal | O Elvas 0-2 União de Leiria | fuera | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de União de Leiria
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

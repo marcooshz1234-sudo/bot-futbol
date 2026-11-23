@@ -1,7 +1,7 @@
 # Lecce – Atalanta
 **Serie A** · Regular Season - 13 · 30/11/2026 18:30 (hora España) · Stadio Via del Mare
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 20:35_
@@ -60,53 +60,53 @@ _Actualizadas: 22/11 20:35_
 ## Estadísticas de equipo
 | | Lecce (total) | Lecce en casa | Atalanta (total) | Atalanta fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 5 | 16 | 7 |
-| Forma (últimos 5) | DEDDD | DDDVD | VEDEE | VEDDD |
-| Balance | 3V 1E 9D | 1V 0E 4D | 6V 4E 6D | 2V 1E 4D |
-| Goles a favor / partido | 0,92 | 1,00 | 1,38 | 1,00 |
-| Goles en contra / partido | 2,08 | 2,40 | 1,50 | 1,57 |
-| Goles a favor 1ª parte | 0,46 | 0,80 | 0,75 | 0,14 |
-| Goles a favor 2ª parte | 0,46 | 0,20 | 0,62 | 0,86 |
-| Goles en contra 1ª parte | 1,23 | 1,80 | 0,50 | 0,43 |
-| Goles en contra 2ª parte | 0,85 | 0,60 | 1,00 | 1,14 |
-| Más de 1,5 goles | 92% | 100% | 75% | 71% |
-| Más de 2,5 goles | 62% | 80% | 56% | 43% |
-| Más de 3,5 goles | 23% | 40% | 31% | 29% |
-| Ambos marcan | 38% | 60% | 56% | 43% |
-| Portería a cero | 15% | 0% | 25% | 29% |
-| Se queda sin marcar | 46% | 40% | 25% | 29% |
-| xG a favor | 1,27 | 1,12 | 1,69 | 1,08 |
-| xG en contra | 1,87 | 2,11 | 1,65 | 1,96 |
+| Partidos analizados | 13 | 5 | 17 | 7 |
+| Forma (últimos 5) | DEDDD | DDDVD | EVEDE | VEDDD |
+| Balance | 3V 1E 9D | 1V 0E 4D | 6V 5E 6D | 2V 1E 4D |
+| Goles a favor / partido | 0,92 | 1,00 | 1,53 | 1,00 |
+| Goles en contra / partido | 2,08 | 2,40 | 1,65 | 1,57 |
+| Goles a favor 1ª parte | 0,46 | 0,80 | 0,76 | 0,14 |
+| Goles a favor 2ª parte | 0,46 | 0,20 | 0,76 | 0,86 |
+| Goles en contra 1ª parte | 1,23 | 1,80 | 0,59 | 0,43 |
+| Goles en contra 2ª parte | 0,85 | 0,60 | 1,06 | 1,14 |
+| Más de 1,5 goles | 92% | 100% | 76% | 71% |
+| Más de 2,5 goles | 62% | 80% | 59% | 43% |
+| Más de 3,5 goles | 23% | 40% | 35% | 29% |
+| Ambos marcan | 38% | 60% | 59% | 43% |
+| Portería a cero | 15% | 0% | 24% | 29% |
+| Se queda sin marcar | 46% | 40% | 24% | 29% |
+| xG a favor | 1,27 | 1,12 | 1,77 | 1,08 |
+| xG en contra | 1,87 | 2,11 | 1,77 | 1,96 |
 | Tiros / partido | 12,4 | 13,4 | 14,6 | 11,7 |
-| Tiros a puerta / partido | 4,5 | 4,4 | 5,2 | 3,6 |
+| Tiros a puerta / partido | 4,5 | 4,4 | 5,5 | 3,6 |
 | Tiros recibidos | 14,2 | 12,8 | 16,1 | 20,6 |
-| Tiros a puerta recibidos | 5,7 | 5,8 | 5,4 | 6,0 |
-| Posesión media % | 42 | 45 | 51 | 44 |
+| Tiros a puerta recibidos | 5,7 | 5,8 | 5,5 | 6,0 |
+| Posesión media % | 42 | 45 | 50 | 44 |
 | Córners a favor | 4,7 | 5,4 | 4,8 | 3,9 |
-| Córners en contra | 4,3 | 3,2 | 5,2 | 7,1 |
+| Córners en contra | 4,3 | 3,2 | 5,3 | 7,1 |
 | Córners a favor 1ª parte | 2,0 | 2,2 | 2,1 | 1,3 |
 | Córners a favor 2ª parte | 2,7 | 3,2 | 2,7 | 2,6 |
 | Córners totales del partido | 9,0 | 8,6 | 10,1 | 11,0 |
-| Córners totales 1ª parte | 3,8 | 3,0 | 5,1 | 5,4 |
+| Córners totales 1ª parte | 3,8 | 3,0 | 5,2 | 5,4 |
 | Córners totales 2ª parte | 5,2 | 5,6 | 4,9 | 5,6 |
-| Más de 8,5 córners | 62% | 60% | 62% | 86% |
-| Más de 9,5 córners | 46% | 40% | 50% | 57% |
-| Más de 10,5 córners | 31% | 20% | 44% | 43% |
-| Faltas cometidas | 13,5 | 13,8 | 10,3 | 10,0 |
+| Más de 8,5 córners | 62% | 60% | 65% | 86% |
+| Más de 9,5 córners | 46% | 40% | 53% | 57% |
+| Más de 10,5 córners | 31% | 20% | 47% | 43% |
+| Faltas cometidas | 13,5 | 13,8 | 10,2 | 10,0 |
 | Faltas recibidas | 10,0 | 10,0 | 9,9 | 9,0 |
-| Amarillas propias | 1,8 | 1,8 | 1,1 | 1,6 |
-| Amarillas del rival | 0,7 | 0,8 | 1,8 | 2,3 |
+| Amarillas propias | 1,8 | 1,8 | 1,2 | 1,6 |
+| Amarillas del rival | 0,7 | 0,8 | 1,7 | 2,3 |
 | Rojas / partido | 0,08 | 0,20 | 0,12 | 0,14 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Lecce | Recibe Lecce | Tarjetas Lecce | Goles Atalanta | Recibe Atalanta | Tarjetas Atalanta |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 4 | 2 | 5 | 1 | 1 |
-| 16-30' | 1 | 9 | 0 | 2 | 4 | 2 |
-| 31-45' | 2 | 3 | 7 | 5 | 3 | 2 |
-| 46-60' | 1 | 2 | 5 | 3 | 7 | 2 |
-| 61-75' | 2 | 6 | 2 | 4 | 2 | 4 |
-| 76-90' | 3 | 3 | 10 | 3 | 7 | 8 |
+| 16-30' | 1 | 9 | 0 | 2 | 5 | 2 |
+| 31-45' | 2 | 3 | 7 | 6 | 4 | 2 |
+| 46-60' | 1 | 2 | 5 | 3 | 8 | 3 |
+| 61-75' | 2 | 6 | 2 | 5 | 2 | 5 |
+| 76-90' | 3 | 3 | 10 | 5 | 8 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -158,33 +158,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Atalanta
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Serie A | Atalanta 4-4 Inter | casa | 5-6 | 15 (10) - 16 (6) | 2-1 |
 | 2026-11-08 | Serie A | Monza 0-1 Atalanta | fuera | 2-7 | 13 (7) - 22 (7) | 2-4 |
 | 2026-11-05 | Conference League | Atalanta 1-1 Kairat Almaty | casa | 9-2 | 16 (7) - 7 (3) | 3-4 |
 | 2026-11-02 | Serie A | Atalanta 0-3 Parma | casa | 8-5 | 20 (6) - 6 (3) | 0-0 |
 | 2026-10-29 | Serie A | Fiorentina 2-2 Atalanta | fuera | 2-8 | 10 (5) - 26 (4) | 2-3 |
 | 2026-10-25 | Serie A | Atalanta 4-4 Frosinone | casa | 8-9 | 22 (9) - 24 (10) | 1-4 |
-| 2026-10-22 | Conference League | Ajax 2-0 Atalanta | fuera | 9-8 | 16 (1) - 21 (7) | 2-2 |
 
 ## Jugadores de Atalanta
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | M. Carnesecchi | G | 16 | 1440 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| Éderson | M | 16 | 1267 | 2 | 0 | 15 | 0,9 | 10 | 0,6 | 23 | 19 | 1,2 | 3 | 0 |
-| C. De Ketelaere | M | 15 | 1045 | 1 | 4 | 19 | 1,3 | 6 | 0,4 | 10 | 13 | 0,9 | 1 | 0 |
-| G. Scalvini | D | 12 | 989 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 11 | 2 | 0,2 | 0 | 0 |
-| L. Bernasconi | D | 13 | 885 | 0 | 0 | 3 | 0,2 | 2 | 0,2 | 2 | 0 | 0,0 | 0 | 0 |
-| N. Krstović | F | 15 | 850 | 8 | 2 | 37 | 2,5 | 17 | 1,1 | 17 | 16 | 1,1 | 1 | 0 |
-| D. Zappacosta | D | 12 | 844 | 0 | 1 | 6 | 0,5 | 2 | 0,2 | 5 | 1 | 0,1 | 0 | 0 |
+| Éderson | M | 17 | 1335 | 2 | 0 | 15 | 0,9 | 10 | 0,6 | 24 | 21 | 1,2 | 3 | 0 |
+| C. De Ketelaere | M | 16 | 1135 | 3 | 4 | 22 | 1,4 | 9 | 0,6 | 10 | 13 | 0,8 | 1 | 0 |
+| G. Scalvini | D | 13 | 1079 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 12 | 3 | 0,2 | 1 | 0 |
+| N. Krstović | F | 16 | 938 | 8 | 2 | 40 | 2,5 | 19 | 1,2 | 18 | 17 | 1,1 | 1 | 0 |
+| D. Zappacosta | D | 13 | 934 | 0 | 1 | 7 | 0,5 | 3 | 0,2 | 8 | 1 | 0,1 | 1 | 0 |
+| L. Bernasconi | D | 14 | 887 | 0 | 0 | 3 | 0,2 | 2 | 0,1 | 2 | 0 | 0,0 | 0 | 0 |
+| N. Zalewski | M | 15 | 866 | 1 | 5 | 12 | 0,8 | 6 | 0,4 | 11 | 23 | 1,5 | 1 | 0 |
+| R. Bellanova | D | 11 | 826 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 5 | 6 | 0,5 | 1 | 0 |
 | G. Gaetano | M | 12 | 802 | 1 | 1 | 8 | 0,7 | 3 | 0,2 | 9 | 11 | 0,9 | 0 | 1 |
-| N. Zalewski | M | 14 | 793 | 1 | 3 | 11 | 0,8 | 5 | 0,4 | 10 | 22 | 1,6 | 1 | 0 |
-| R. Bellanova | D | 10 | 738 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 5 | 5 | 0,5 | 1 | 0 |
-| E. Elmas | M | 12 | 718 | 2 | 1 | 11 | 0,9 | 6 | 0,5 | 9 | 2 | 0,2 | 1 | 1 |
-| Mario Pasalic | M | 14 | 693 | 0 | 0 | 6 | 0,4 | 2 | 0,1 | 3 | 2 | 0,1 | 0 | 0 |
+| E. Elmas | M | 13 | 786 | 3 | 1 | 14 | 1,1 | 7 | 0,5 | 9 | 2 | 0,2 | 1 | 1 |
+| Mario Pasalic | M | 15 | 715 | 0 | 0 | 7 | 0,5 | 3 | 0,2 | 3 | 2 | 0,1 | 0 | 0 |
 | Lazar Samardžić | M | 14 | 636 | 1 | 0 | 15 | 1,1 | 3 | 0,2 | 10 | 4 | 0,3 | 1 | 0 |
-| Gianluca Scamacca | F | 12 | 598 | 3 | 0 | 15 | 1,2 | 9 | 0,8 | 10 | 12 | 1,0 | 1 | 0 |
+| S. Kolašinac | D | 10 | 612 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 3 | 0,3 | 0 | 0 |
+| G. Scamacca | F | 13 | 600 | 3 | 0 | 15 | 1,2 | 9 | 0,7 | 10 | 12 | 0,9 | 1 | 0 |
 | T. Kristensen | D | 8 | 598 | 0 | 0 | 7 | 0,9 | 2 | 0,2 | 6 | 1 | 0,1 | 1 | 0 |
-| J. Rowe | F | 10 | 553 | 0 | 0 | 15 | 1,5 | 7 | 0,7 | 7 | 20 | 2,0 | 0 | 0 |
+| J. Rowe | F | 11 | 575 | 0 | 1 | 15 | 1,4 | 7 | 0,6 | 7 | 21 | 1,9 | 0 | 0 |
 | Odilon Kossounou | D | 6 | 540 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 1 | 2 | 0,3 | 0 | 0 |
 | R. ObriÄ | D | 7 | 530 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 7 | 4 | 0,6 | 3 | 0 |
-| S. Kolašinac | D | 9 | 522 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 2 | 0,2 | 0 | 0 |
-| Giacomo Raspadori | M | 7 | 350 | 2 | 1 | 8 | 1,1 | 5 | 0,7 | 6 | 6 | 0,9 | 1 | 0 |
+| G. Raspadori | F | 8 | 367 | 2 | 1 | 8 | 1,0 | 5 | 0,6 | 6 | 6 | 0,8 | 1 | 0 |

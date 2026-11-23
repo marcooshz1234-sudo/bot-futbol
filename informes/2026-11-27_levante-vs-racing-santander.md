@@ -1,20 +1,21 @@
 # Levante – Racing Santander
 **LaLiga** · Regular Season - 14 · 27/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 07:43_
+_Actualizadas: 23/11 08:31_
 
 - **1X2:** 1 **2.05**  ·  X **3.60**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.73**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.53** · menos **2.50**
+    - 2,5: más **1.50** · menos **2.62**
     - 3,5: más **2.20** · menos **1.67**
     - 4,5: más **4.00** · menos **1.25**
-    - 5,5: más **7.00** · menos **1.10**
+    - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**

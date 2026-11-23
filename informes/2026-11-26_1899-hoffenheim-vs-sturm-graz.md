@@ -1,7 +1,7 @@
 # 1899 Hoffenheim – Sturm Graz
 **Europa League** · League Stage - 5 · 26/11/2026 21:00 (hora España) · SNP Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 20:34_

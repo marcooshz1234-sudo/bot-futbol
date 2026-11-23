@@ -1,7 +1,7 @@
 # Udinese – Fiorentina
 **Serie A** · Regular Season - 13 · 29/11/2026 12:30 (hora España) · Bluenergy Stadium - Stadio Friuli
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 20:35_

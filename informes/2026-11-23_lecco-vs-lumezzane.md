@@ -1,24 +1,24 @@
 # Lecco – Lumezzane
 **Serie C** · Girone A - 15 · 23/11/2026 20:45 (hora España) · Stadio Rigamonti Ceppi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 20:33_
+_Actualizadas: 23/11 08:30_
 
-- **1X2:** 1 **1.67**  ·  X **3.50**  ·  2 **4.20**
-- **Doble oportunidad:** 1X **1.17**  ·  12 **1.22**  ·  X2 **2.00**
-- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **1X2:** 1 **2.05**  ·  X **3.25**  ·  2 **3.10**
+- **Doble oportunidad:** 1X **1.17**  ·  12 **1.22**  ·  X2 **1.95**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **9.00**
     - 1,5: más **1.22** · menos **4.00**
-    - 2,5: más **1.73** · menos **2.08**
+    - 2,5: más **1.75** · menos **2.05**
     - 3,5: más **2.75** · menos **1.40**
     - 4,5: más **5.00** · menos **1.14**
     - 5,5: más **8.50** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.50** · menos **1.50**
+    - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.00** · menos **1.11**
 - **Goles del local:**
     - 0,5: más **1.14** · menos **5.00**
@@ -32,7 +32,7 @@ _Actualizadas: 22/11 20:33_
 - **Córners más/menos:**
     - 8,5: más **1.73** · menos **2.00**
     - 9: más **1.98** · menos **1.82**
-- **1X2 descanso:** 1 **2.20**  ·  X **2.30**  ·  2 **4.50**
+- **1X2 descanso:** 1 **2.50**  ·  X **2.25**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
@@ -40,11 +40,11 @@ _Actualizadas: 22/11 20:33_
     - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **1.40**  ·  2 **2.50**
-- **To Score In Both Halves By Teams:** 1 **2.62**  ·  2 **5.50**
-- **Win Both Halves:** 1 **4.50**  ·  2 **17.00**
-- **Results/Both Teams Score:** Home/Yes **3.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **8.00**  ·  Home/No **3.00**  ·  Draw/No **12.00**  ·  Away/No **9.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.62**
+- **To Win Either Half:** 1 **1.50**  ·  2 **2.20**
+- **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **4.50**
+- **Win Both Halves:** 1 **6.00**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **3.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **8.00**  ·  Home/No **3.25**  ·  Draw/No **12.00**  ·  Away/No **8.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.62**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.82**  ·  Menos de 4 **1.98**
 
 ## Estadísticas de equipo

@@ -1,7 +1,7 @@
 # Petrolul Ploiesti – Arges Pitesti
 **Liga I** · Regular Season - 17 · 27/11/2026 19:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,50 +9,50 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Petrolul Ploiesti (total) | Petrolul Ploiesti en casa | Arges Pitesti (total) | Arges Pitesti fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 7 | 15 | 7 |
-| Forma (últimos 5) | VVEVE | EEVVD | VDDED | DEDDD |
-| Balance | 9V 3E 4D | 4V 2E 1D | 4V 3E 8D | 1V 1E 5D |
-| Goles a favor / partido | 1,31 | 1,14 | 0,67 | 0,57 |
-| Goles en contra / partido | 1,12 | 0,57 | 1,13 | 1,57 |
-| Goles a favor 1ª parte | 0,81 | 0,71 | 0,33 | 0,29 |
-| Goles a favor 2ª parte | 0,50 | 0,43 | 0,33 | 0,29 |
-| Goles en contra 1ª parte | 0,69 | 0,29 | 0,53 | 0,86 |
-| Goles en contra 2ª parte | 0,44 | 0,29 | 0,60 | 0,71 |
-| Más de 1,5 goles | 69% | 71% | 47% | 57% |
-| Más de 2,5 goles | 38% | 0% | 20% | 29% |
-| Más de 3,5 goles | 31% | 0% | 13% | 29% |
-| Ambos marcan | 44% | 29% | 33% | 29% |
-| Portería a cero | 38% | 57% | 20% | 14% |
-| Se queda sin marcar | 19% | 14% | 47% | 57% |
+| Partidos analizados | 16 | 7 | 16 | 7 |
+| Forma (últimos 5) | VVEVE | EEVVD | EVDDE | DEDDD |
+| Balance | 9V 3E 4D | 4V 2E 1D | 4V 4E 8D | 1V 1E 5D |
+| Goles a favor / partido | 1,31 | 1,14 | 0,62 | 0,57 |
+| Goles en contra / partido | 1,12 | 0,57 | 1,06 | 1,57 |
+| Goles a favor 1ª parte | 0,81 | 0,71 | 0,31 | 0,29 |
+| Goles a favor 2ª parte | 0,50 | 0,43 | 0,31 | 0,29 |
+| Goles en contra 1ª parte | 0,69 | 0,29 | 0,50 | 0,86 |
+| Goles en contra 2ª parte | 0,44 | 0,29 | 0,56 | 0,71 |
+| Más de 1,5 goles | 69% | 71% | 44% | 57% |
+| Más de 2,5 goles | 38% | 0% | 19% | 29% |
+| Más de 3,5 goles | 31% | 0% | 12% | 29% |
+| Ambos marcan | 44% | 29% | 31% | 29% |
+| Portería a cero | 38% | 57% | 25% | 14% |
+| Se queda sin marcar | 19% | 14% | 50% | 57% |
 | xG a favor | 1,32 | 1,46 | 1,37 | 1,66 |
 | xG en contra | 2,11 | 1,35 | 1,20 | 1,83 |
-| Tiros / partido | 13,4 | 14,9 | 14,2 | 15,7 |
-| Tiros a puerta / partido | 4,3 | 4,4 | 3,3 | 3,7 |
-| Tiros recibidos | 17,0 | 13,7 | 13,4 | 17,0 |
-| Tiros a puerta recibidos | 5,4 | 4,1 | 4,3 | 5,4 |
+| Tiros / partido | 13,4 | 14,9 | 14,0 | 15,7 |
+| Tiros a puerta / partido | 4,3 | 4,4 | 3,2 | 3,7 |
+| Tiros recibidos | 17,0 | 13,7 | 13,9 | 17,0 |
+| Tiros a puerta recibidos | 5,4 | 4,1 | 4,6 | 5,4 |
 | Posesión media % | 46 | 47 | 45 | 43 |
 | Córners a favor | 3,8 | 4,6 | 5,2 | 5,1 |
-| Córners en contra | 5,0 | 3,9 | 5,1 | 7,1 |
-| Córners a favor 1ª parte | 2,0 | 2,6 | 3,1 | 3,0 |
-| Córners a favor 2ª parte | 1,8 | 2,0 | 2,1 | 2,1 |
-| Córners totales del partido | 8,8 | 8,4 | 10,3 | 12,3 |
+| Córners en contra | 5,0 | 3,9 | 5,4 | 7,1 |
+| Córners a favor 1ª parte | 2,0 | 2,6 | 3,0 | 3,0 |
+| Córners a favor 2ª parte | 1,8 | 2,0 | 2,2 | 2,1 |
+| Córners totales del partido | 8,8 | 8,4 | 10,6 | 12,3 |
 | Córners totales 1ª parte | 4,3 | 4,7 | 5,1 | 6,0 |
-| Córners totales 2ª parte | 4,5 | 3,7 | 5,2 | 6,3 |
-| Más de 8,5 córners | 69% | 86% | 73% | 86% |
-| Más de 9,5 córners | 38% | 14% | 60% | 86% |
-| Más de 10,5 córners | 31% | 14% | 53% | 86% |
-| Faltas cometidas | 10,9 | 10,7 | 13,0 | 12,3 |
+| Córners totales 2ª parte | 4,5 | 3,7 | 5,5 | 6,3 |
+| Más de 8,5 córners | 69% | 86% | 75% | 86% |
+| Más de 9,5 córners | 38% | 14% | 62% | 86% |
+| Más de 10,5 córners | 31% | 14% | 56% | 86% |
+| Faltas cometidas | 10,9 | 10,7 | 13,1 | 12,3 |
 | Faltas recibidas | 13,1 | 12,3 | 10,5 | 9,1 |
-| Amarillas propias | 2,8 | 2,6 | 2,6 | 2,6 |
+| Amarillas propias | 2,8 | 2,6 | 2,5 | 2,6 |
 | Amarillas del rival | 2,8 | 2,7 | 2,4 | 1,9 |
-| Rojas / partido | 0,06 | 0,00 | 0,07 | 0,00 |
+| Rojas / partido | 0,06 | 0,00 | 0,06 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Petrolul Ploiesti | Recibe Petrolul Ploiesti | Tarjetas Petrolul Ploiesti | Goles Arges Pitesti | Recibe Arges Pitesti | Tarjetas Arges Pitesti |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 5 | 5 | 1 | 0 | 2 |
 | 16-30' | 3 | 5 | 2 | 3 | 6 | 3 |
-| 31-45' | 6 | 1 | 5 | 1 | 2 | 10 |
+| 31-45' | 6 | 1 | 5 | 1 | 2 | 11 |
 | 46-60' | 3 | 3 | 5 | 1 | 3 | 3 |
 | 61-75' | 5 | 2 | 14 | 2 | 1 | 5 |
 | 76-90' | 0 | 2 | 14 | 2 | 5 | 17 |
@@ -107,33 +107,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Arges Pitesti
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Liga I | Arges Pitesti 0-0 FCSB | casa | 5-10 | 11 (1) - 22 (9) | 1-2 |
 | 2026-11-06 | Liga I | Arges Pitesti 2-1 Dinamo Bucuresti | casa | 6-7 | 8 (3) - 20 (5) | 5-1 |
 | 2026-10-31 | Liga I | Corvinul Hunedoara 2-0 Arges Pitesti | fuera | 5-8 | 13 (4) - 13 (3) | 2-0 |
 | 2026-10-24 | Liga I | Arges Pitesti 0-1 Uta Arad | casa | 9-4 | 14 (3) - 16 (5) | 4-3 |
 | 2026-10-19 | Liga I | Universitatea Cluj 2-2 Arges Pitesti | fuera | 7-7 | 19 (9) - 14 (6) | 4-3 |
 | 2026-10-12 | Liga I | Arges Pitesti 0-1 CFR 1907 Cluj | casa | 7-2 | 20 (2) - 10 (3) | 1-2 |
-| 2026-09-18 | Liga I | Rapid 3-1 Arges Pitesti | fuera | 4-10 | 11 (2) - 23 (10) | 3-1 |
 
 ## Jugadores de Arges Pitesti
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Florin Borța | M | 14 | 1165 | 0 | 0 | 13 | 0,9 | 3 | 0,2 | 15 | 10 | 0,7 | 4 | 0 |
-| Leard Sadriu | D | 12 | 1048 | 0 | 0 | 5 | 0,4 | 0 | 0,0 | 17 | 8 | 0,7 | 5 | 0 |
-| Yanis Pîrvu | F | 14 | 1046 | 2 | 1 | 24 | 1,7 | 16 | 1,1 | 16 | 9 | 0,6 | 1 | 0 |
+| Florin Borța | M | 15 | 1259 | 0 | 0 | 14 | 0,9 | 3 | 0,2 | 18 | 10 | 0,7 | 4 | 0 |
+| Leard Sadriu | D | 13 | 1142 | 0 | 0 | 5 | 0,4 | 0 | 0,0 | 18 | 8 | 0,6 | 5 | 0 |
+| Yanis Pîrvu | F | 15 | 1140 | 2 | 1 | 25 | 1,7 | 16 | 1,1 | 16 | 11 | 0,7 | 1 | 0 |
+| Costinel Tofan | D | 14 | 1125 | 0 | 0 | 12 | 0,9 | 1 | 0,1 | 20 | 14 | 1,0 | 3 | 0 |
 | Vadim Rață | M | 14 | 1039 | 0 | 0 | 7 | 0,5 | 1 | 0,1 | 31 | 6 | 0,4 | 4 | 0 |
-| Costinel Tofan | D | 13 | 1031 | 0 | 0 | 10 | 0,8 | 0 | 0,0 | 16 | 13 | 1,0 | 3 | 0 |
-| Taylor Luvambo | M | 13 | 861 | 1 | 1 | 20 | 1,5 | 5 | 0,4 | 8 | 18 | 1,4 | 3 | 0 |
-| Dorinel Oancea | M | 12 | 768 | 1 | 2 | 4 | 0,3 | 1 | 0,1 | 17 | 14 | 1,2 | 5 | 0 |
+| Taylor Luvambo | F | 14 | 951 | 1 | 1 | 21 | 1,5 | 5 | 0,4 | 10 | 20 | 1,4 | 3 | 0 |
+| Dorinel Oancea | M | 13 | 862 | 1 | 2 | 4 | 0,3 | 1 | 0,1 | 18 | 16 | 1,2 | 6 | 0 |
+| Ricardo Matos | F | 11 | 802 | 1 | 0 | 17 | 1,5 | 4 | 0,4 | 8 | 3 | 0,3 | 0 | 1 |
+| Guilherme Garutti | D | 11 | 792 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 9 | 10 | 0,9 | 2 | 0 |
 | Cătălin Căbuz | G | 9 | 766 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 5 | 0,6 | 0 | 0 |
-| Ricardo Matos | F | 10 | 729 | 1 | 0 | 15 | 1,5 | 4 | 0,4 | 7 | 3 | 0,3 | 0 | 1 |
-| Guilherme Garutti | D | 10 | 698 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 9 | 8 | 0,8 | 2 | 0 |
+| Rober Sierra | M | 9 | 672 | 1 | 0 | 4 | 0,4 | 1 | 0,1 | 2 | 4 | 0,4 | 2 | 0 |
+| Ionuț Rădescu | M | 14 | 652 | 0 | 0 | 9 | 0,6 | 2 | 0,1 | 17 | 13 | 0,9 | 2 | 0 |
 | Mario Tudose | D | 8 | 643 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 6 | 7 | 0,9 | 1 | 0 |
-| Ionuț Rădescu | F | 13 | 624 | 0 | 0 | 9 | 0,7 | 2 | 0,2 | 15 | 12 | 0,9 | 2 | 0 |
-| Rober Sierra | M | 8 | 599 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 2 | 4 | 0,5 | 2 | 0 |
+| Igor Nikić | G | 7 | 634 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,4 | 0 | 0 |
+| Oluwatobiloba Alagbe | D | 13 | 574 | 0 | 0 | 6 | 0,5 | 1 | 0,1 | 6 | 0 | 0,0 | 1 | 0 |
 | Robert Moldoveanu | F | 10 | 561 | 3 | 0 | 11 | 1,1 | 6 | 0,6 | 4 | 9 | 0,9 | 1 | 0 |
-| Oluwatobiloba Alagbe | D | 12 | 553 | 0 | 0 | 6 | 0,5 | 1 | 0,1 | 5 | 0 | 0,0 | 1 | 0 |
-| Igor Nikić | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,5 | 0 | 0 |
-| Silviu Balaure | M | 11 | 437 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 7 | 4 | 0,4 | 2 | 0 |
-| Tiago Gonçalves | D | 6 | 427 | 0 | 0 | 3 | 0,5 | 2 | 0,3 | 2 | 3 | 0,5 | 1 | 0 |
+| Silviu Balaure | M | 12 | 503 | 0 | 0 | 4 | 0,3 | 1 | 0,1 | 7 | 4 | 0,3 | 2 | 0 |
+| Tiago Gonçalves | D | 7 | 431 | 0 | 0 | 3 | 0,4 | 2 | 0,3 | 2 | 3 | 0,4 | 1 | 0 |
 | Claudiu Micovschi | F | 11 | 378 | 0 | 0 | 7 | 0,6 | 2 | 0,2 | 3 | 4 | 0,4 | 0 | 0 |
 | Patrick Dulcea | F | 6 | 294 | 0 | 1 | 3 | 0,5 | 1 | 0,2 | 4 | 2 | 0,3 | 2 | 0 |

@@ -1,7 +1,7 @@
 # Oţelul – Uta Arad
 **Liga I** · Regular Season - 17 · 29/11/2026 14:00 (hora España) · Stadionul Otelul
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

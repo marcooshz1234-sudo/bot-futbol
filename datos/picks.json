@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-22 20:38",
+ "generado": "2026-11-23 08:36",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -18,9 +18,9 @@
      "visitante": "Everton",
      "mercado": "Away Player Shots",
      "opcion": "Thierno Barry - 2",
-     "cuota": 1.33,
+     "cuota": 1.25,
      "frecuencia": 1.0,
-     "ventaja": 0.248,
+     "ventaja": 0.2,
      "tipo": "jugador",
      "jugador": "Thierno Barry",
      "equipo": "Everton",
@@ -30,6 +30,8 @@
      "texto": "Thierno Barry: 2+ tiros",
      "detalle": "Thierno Barry 10/10",
      "temporada": "11/12",
+     "movimiento": -0.06,
+     "cuota_inicial": 1.33,
      "arbitro": "Craig Pawson",
      "arbitro_tarjetas": null,
      "posiciones": [
@@ -38,33 +40,7 @@
       20
      ],
      "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.643
-    },
-    {
-     "partido_id": 1570029,
-     "fecha": "2026-11-23T20:30",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "AD Ceuta FC",
-     "visitante": "Almeria",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el Almeria",
-     "cuota": 1.9,
-     "frecuencia": 0.75,
-     "ventaja": 0.224,
-     "detalle": "AD Ceuta FC 6/10 · Almeria 9/10",
-     "valor_mercado": -0.026,
-     "movimiento": 0.038,
-     "cuota_inicial": 1.83,
-     "posiciones": [
-      22,
-      2,
-      22
-     ],
-     "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.574
+     "prob_aprendida": 0.639
     }
    ],
    "mejores_por_partido": [
@@ -77,9 +53,9 @@
      "visitante": "Everton",
      "mercado": "Away Player Shots",
      "opcion": "Thierno Barry - 2",
-     "cuota": 1.33,
+     "cuota": 1.25,
      "frecuencia": 1.0,
-     "ventaja": 0.248,
+     "ventaja": 0.2,
      "tipo": "jugador",
      "jugador": "Thierno Barry",
      "equipo": "Everton",
@@ -89,6 +65,8 @@
      "texto": "Thierno Barry: 2+ tiros",
      "detalle": "Thierno Barry 10/10",
      "temporada": "11/12",
+     "movimiento": -0.06,
+     "cuota_inicial": 1.33,
      "arbitro": "Craig Pawson",
      "arbitro_tarjetas": null,
      "posiciones": [
@@ -97,33 +75,7 @@
       20
      ],
      "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.643
-    },
-    {
-     "partido_id": 1570029,
-     "fecha": "2026-11-23T20:30",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "AD Ceuta FC",
-     "visitante": "Almeria",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el Almeria",
-     "cuota": 1.9,
-     "frecuencia": 0.75,
-     "ventaja": 0.224,
-     "detalle": "AD Ceuta FC 6/10 · Almeria 9/10",
-     "valor_mercado": -0.026,
-     "movimiento": 0.038,
-     "cuota_inicial": 1.83,
-     "posiciones": [
-      22,
-      2,
-      22
-     ],
-     "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.574
+     "prob_aprendida": 0.639
     }
    ],
    "combis": {
@@ -133,6 +85,256 @@
     "doble": null
    },
    "estilos": {},
+   "combis_partido": []
+  },
+  "2026-11-24": {
+   "picks": [
+    {
+     "partido_id": 1635692,
+     "fecha": "2026-11-24T21:00",
+     "competicion": "Champions",
+     "liga_id": 2,
+     "local": "Manchester City",
+     "visitante": "Napoli",
+     "mercado": "Offsides Home Total",
+     "opcion": "Over 0.5",
+     "tipo": "fueras de juego",
+     "texto": "Manchester City hace más de 0,5 fueras de juego",
+     "cuota": 1.53,
+     "frecuencia": 0.75,
+     "ventaja": 0.096,
+     "detalle": "Manchester City 8/10 · Napoli (en contra) 7/10",
+     "arbitro": "I. Kovacs",
+     "arbitro_tarjetas": 4.7,
+     "prob_aprendida": 0.492
+    },
+    {
+     "partido_id": 1635713,
+     "fecha": "2026-11-24T21:00",
+     "competicion": "Champions",
+     "liga_id": 2,
+     "local": "RB Leipzig",
+     "visitante": "Lens",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 3.5",
+     "tipo": "corners",
+     "texto": "Lens hace más de 3,5 córners",
+     "cuota": 1.73,
+     "frecuencia": 0.8,
+     "ventaja": 0.222,
+     "detalle": "RB Leipzig (en contra) 7/10 · Lens 9/10",
+     "valor_mercado": 0.048,
+     "arbitro": "I. Kruzliak",
+     "arbitro_tarjetas": 2.0,
+     "prob_aprendida": 0.402
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1635692,
+     "fecha": "2026-11-24T21:00",
+     "competicion": "Champions",
+     "liga_id": 2,
+     "local": "Manchester City",
+     "visitante": "Napoli",
+     "mercado": "Offsides Home Total",
+     "opcion": "Over 0.5",
+     "tipo": "fueras de juego",
+     "texto": "Manchester City hace más de 0,5 fueras de juego",
+     "cuota": 1.53,
+     "frecuencia": 0.75,
+     "ventaja": 0.096,
+     "detalle": "Manchester City 8/10 · Napoli (en contra) 7/10",
+     "arbitro": "I. Kovacs",
+     "arbitro_tarjetas": 4.7,
+     "prob_aprendida": 0.492
+    },
+    {
+     "partido_id": 1635713,
+     "fecha": "2026-11-24T21:00",
+     "competicion": "Champions",
+     "liga_id": 2,
+     "local": "RB Leipzig",
+     "visitante": "Lens",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 3.5",
+     "tipo": "corners",
+     "texto": "Lens hace más de 3,5 córners",
+     "cuota": 1.73,
+     "frecuencia": 0.8,
+     "ventaja": 0.222,
+     "detalle": "RB Leipzig (en contra) 7/10 · Lens 9/10",
+     "valor_mercado": 0.048,
+     "arbitro": "I. Kruzliak",
+     "arbitro_tarjetas": 2.0,
+     "prob_aprendida": 0.402
+    }
+   ],
+   "combis": {
+    "segura": null,
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {
+    "liga": {
+     "picks": [
+      {
+       "partido_id": 1635731,
+       "fecha": "2026-11-24T21:00",
+       "competicion": "Champions",
+       "liga_id": 2,
+       "local": "Slovan Bratislava",
+       "visitante": "Real Betis",
+       "mercado": "Total - Home",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Slovan Bratislava marca",
+       "cuota": 1.67,
+       "frecuencia": 0.7,
+       "ventaja": 0.101,
+       "detalle": "Slovan Bratislava 7/10 · Real Betis (en contra) 7/10",
+       "valor_mercado": 0.031,
+       "movimiento": 0.064,
+       "cuota_inicial": 1.57,
+       "arbitro": "J. Brisard",
+       "arbitro_tarjetas": 3.6,
+       "prob_aprendida": 0.643
+      },
+      {
+       "partido_id": 1635692,
+       "fecha": "2026-11-24T21:00",
+       "competicion": "Champions",
+       "liga_id": 2,
+       "local": "Manchester City",
+       "visitante": "Napoli",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en Manchester City–Napoli",
+       "cuota": 1.7,
+       "frecuencia": 0.7,
+       "ventaja": 0.112,
+       "detalle": "Manchester City 8/10 · Napoli 6/10",
+       "valor_mercado": 0.006,
+       "arbitro": "I. Kovacs",
+       "arbitro_tarjetas": 4.7,
+       "prob_xg": 0.639,
+       "xg_esperado": 3.24,
+       "prob_aprendida": 0.593
+      },
+      {
+       "partido_id": 1635611,
+       "fecha": "2026-11-24T21:00",
+       "competicion": "Champions",
+       "liga_id": 2,
+       "local": "Arsenal",
+       "visitante": "Borussia Dortmund",
+       "mercado": "Offsides Away Total",
+       "opcion": "Over 1.5",
+       "tipo": "fueras de juego",
+       "texto": "Borussia Dortmund hace más de 1,5 fueras de juego",
+       "cuota": 2.1,
+       "frecuencia": 0.7,
+       "ventaja": 0.224,
+       "detalle": "Arsenal (en contra) 8/10 · Borussia Dortmund 6/10",
+       "arbitro": "M. Mariani",
+       "arbitro_tarjetas": 4.5,
+       "prob_aprendida": 0.495
+      }
+     ],
+     "cuota": 5.96,
+     "titulo": "⭐ COMBI CHAMPIONS",
+     "liga": "Champions"
+    },
+    "atreve": {
+     "picks": [
+      {
+       "partido_id": 1563280,
+       "fecha": "2026-11-24T20:45",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Portsmouth",
+       "visitante": "West Ham",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
+       "tipo": "resultado",
+       "texto": "Portsmouth o empate",
+       "cuota": 1.91,
+       "frecuencia": 0.8,
+       "ventaja": 0.276,
+       "detalle": "Portsmouth 8/10 · West Ham 8/10",
+       "valor_mercado": -0.005,
+       "movimiento": -0.045,
+       "cuota_inicial": 2.0,
+       "arbitro": "Andrew Kitchen",
+       "arbitro_tarjetas": 3.8,
+       "posiciones": [
+        12,
+        10,
+        24
+       ],
+       "contexto": "peor_igualado_medio",
+       "prob_aprendida": 0.657
+      },
+      {
+       "partido_id": 1563282,
+       "fecha": "2026-11-24T21:00",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Wolves",
+       "visitante": "Derby",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en Wolves–Derby",
+       "cuota": 1.83,
+       "frecuencia": 0.65,
+       "ventaja": 0.104,
+       "detalle": "Wolves 6/10 · Derby 7/10",
+       "valor_mercado": -0.021,
+       "arbitro": "John Busby",
+       "arbitro_tarjetas": 3.6,
+       "prob_xg": 0.528,
+       "xg_esperado": 2.97,
+       "posiciones": [
+        4,
+        23,
+        24
+       ],
+       "contexto": "total_abismo_medio",
+       "prob_aprendida": 0.636
+      },
+      {
+       "partido_id": 1563279,
+       "fecha": "2026-11-24T20:45",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Norwich",
+       "visitante": "QPR",
+       "mercado": "To Win Either Half",
+       "opcion": "Away",
+       "tipo": "resultado",
+       "texto": "QPR gana alguna de las dos partes",
+       "cuota": 2.1,
+       "frecuencia": 0.65,
+       "ventaja": 0.174,
+       "detalle": "Norwich 6/10 · QPR 7/10",
+       "valor_mercado": -0.023,
+       "arbitro": "Gavin Ward",
+       "arbitro_tarjetas": 3.6,
+       "posiciones": [
+        11,
+        7,
+        24
+       ],
+       "contexto": "mejor_igualado_medio",
+       "prob_aprendida": 0.558
+      }
+     ],
+     "cuota": 7.34
+    }
+   },
    "combis_partido": []
   },
   "2026-11-25": {
@@ -152,14 +354,14 @@
      "frecuencia": 0.7,
      "ventaja": 0.256,
      "detalle": "Stoke City 8/10 · Millwall 6/10",
-     "valor_mercado": -0.038,
+     "valor_mercado": -0.022,
      "posiciones": [
       2,
       16,
       24
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.71
+     "prob_aprendida": 0.711
     },
     {
      "partido_id": 1563285,
@@ -172,38 +374,40 @@
      "opcion": "Home",
      "tipo": "resultado",
      "texto": "Stoke City gana alguna de las dos partes",
-     "cuota": 1.73,
+     "cuota": 1.67,
      "frecuencia": 0.8,
-     "ventaja": 0.222,
+     "ventaja": 0.201,
      "detalle": "Stoke City 8/10 · Millwall 8/10",
-     "valor_mercado": 0.0,
+     "valor_mercado": -0.035,
+     "movimiento": -0.035,
+     "cuota_inicial": 1.73,
      "posiciones": [
       2,
       16,
       24
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.683
+     "prob_aprendida": 0.731
     },
     {
-     "partido_id": 1635718,
-     "fecha": "2026-11-25T18:45",
+     "partido_id": 1635735,
+     "fecha": "2026-11-25T21:00",
      "competicion": "Champions",
      "liga_id": 2,
-     "local": "Sabah FA",
-     "visitante": "Barcelona",
-     "mercado": "Total - Home",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Sabah FA marca",
-     "cuota": 1.57,
+     "local": "Sporting CP",
+     "visitante": "Manchester United",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Sporting CP o empate",
+     "cuota": 1.44,
      "frecuencia": 0.85,
-     "ventaja": 0.213,
-     "detalle": "Sabah FA 9/10 · Barcelona (en contra) 8/10",
-     "valor_mercado": 0.0,
-     "movimiento": 0.026,
-     "cuota_inicial": 1.53,
-     "prob_aprendida": 0.669
+     "ventaja": 0.156,
+     "detalle": "Sporting CP 8/10 · Manchester United 9/10",
+     "valor_mercado": -0.04,
+     "movimiento": -0.04,
+     "cuota_inicial": 1.5,
+     "prob_aprendida": 0.714
     },
     {
      "partido_id": 1635703,
@@ -214,9 +418,9 @@
      "visitante": "AS Roma",
      "mercado": "Home Player Shots",
      "opcion": "Achraf Hakimi - 2",
-     "cuota": 1.53,
+     "cuota": 1.57,
      "frecuencia": 0.9,
-     "ventaja": 0.246,
+     "ventaja": 0.263,
      "tipo": "jugador",
      "jugador": "Achraf Hakimi",
      "equipo": "Paris Saint Germain",
@@ -226,7 +430,9 @@
      "texto": "Achraf Hakimi: 2+ tiros",
      "detalle": "Achraf Hakimi 9/10",
      "temporada": "9/11",
-     "prob_aprendida": 0.567
+     "movimiento": 0.026,
+     "cuota_inicial": 1.53,
+     "prob_aprendida": 0.569
     }
    ],
    "mejores_por_partido": [
@@ -245,34 +451,34 @@
      "frecuencia": 0.7,
      "ventaja": 0.256,
      "detalle": "Stoke City 8/10 · Millwall 6/10",
-     "valor_mercado": -0.038,
+     "valor_mercado": -0.022,
      "posiciones": [
       2,
       16,
       24
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.71
+     "prob_aprendida": 0.711
     },
     {
-     "partido_id": 1635718,
-     "fecha": "2026-11-25T18:45",
+     "partido_id": 1635735,
+     "fecha": "2026-11-25T21:00",
      "competicion": "Champions",
      "liga_id": 2,
-     "local": "Sabah FA",
-     "visitante": "Barcelona",
-     "mercado": "Total - Home",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Sabah FA marca",
-     "cuota": 1.57,
+     "local": "Sporting CP",
+     "visitante": "Manchester United",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Sporting CP o empate",
+     "cuota": 1.44,
      "frecuencia": 0.85,
-     "ventaja": 0.213,
-     "detalle": "Sabah FA 9/10 · Barcelona (en contra) 8/10",
-     "valor_mercado": 0.0,
-     "movimiento": 0.026,
-     "cuota_inicial": 1.53,
-     "prob_aprendida": 0.669
+     "ventaja": 0.156,
+     "detalle": "Sporting CP 8/10 · Manchester United 9/10",
+     "valor_mercado": -0.04,
+     "movimiento": -0.04,
+     "cuota_inicial": 1.5,
+     "prob_aprendida": 0.714
     },
     {
      "partido_id": 1635703,
@@ -283,9 +489,9 @@
      "visitante": "AS Roma",
      "mercado": "Home Player Shots",
      "opcion": "Achraf Hakimi - 2",
-     "cuota": 1.53,
+     "cuota": 1.57,
      "frecuencia": 0.9,
-     "ventaja": 0.246,
+     "ventaja": 0.263,
      "tipo": "jugador",
      "jugador": "Achraf Hakimi",
      "equipo": "Paris Saint Germain",
@@ -295,7 +501,9 @@
      "texto": "Achraf Hakimi: 2+ tiros",
      "detalle": "Achraf Hakimi 9/10",
      "temporada": "9/11",
-     "prob_aprendida": 0.567
+     "movimiento": 0.026,
+     "cuota_inicial": 1.53,
+     "prob_aprendida": 0.569
     }
    ],
    "combis": {
@@ -322,14 +530,14 @@
        "frecuencia": 0.7,
        "ventaja": 0.256,
        "detalle": "Stoke City 8/10 · Millwall 6/10",
-       "valor_mercado": -0.038,
+       "valor_mercado": -0.022,
        "posiciones": [
         2,
         16,
         24
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.71
+       "prob_aprendida": 0.711
       },
       {
        "partido_id": 1635735,
@@ -338,21 +546,21 @@
        "liga_id": 2,
        "local": "Sporting CP",
        "visitante": "Manchester United",
-       "mercado": "Total - Home",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Sporting CP marca 2 o más",
-       "cuota": 1.91,
-       "frecuencia": 0.65,
-       "ventaja": 0.126,
-       "detalle": "Sporting CP 6/10 · Manchester United (en contra) 7/10",
-       "valor_mercado": -0.04,
-       "prob_xg": 0.634,
-       "xg_esperado": 3.57,
-       "prob_aprendida": 0.69
+       "mercado": "Match Winner",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Gana el Sporting CP",
+       "cuota": 2.5,
+       "frecuencia": 0.7,
+       "ventaja": 0.3,
+       "detalle": "Sporting CP 7/10 · Manchester United 7/10",
+       "valor_mercado": 0.0,
+       "movimiento": -0.02,
+       "cuota_inicial": 2.55,
+       "prob_aprendida": 0.651
       }
      ],
-     "cuota": 4.3
+     "cuota": 5.62
     }
    },
    "combis_partido": []
@@ -615,13 +823,13 @@
        "tipo": "goles",
        "texto": "FC Iberia 1999 marca",
        "cuota": 1.83,
-       "frecuencia": 0.75,
-       "ventaja": 0.204,
-       "detalle": "FC Iberia 1999 6/10 · Getafe (en contra) 9/10",
+       "frecuencia": 0.8,
+       "ventaja": 0.254,
+       "detalle": "FC Iberia 1999 6/10 · Getafe (en contra) 10/10",
        "valor_mercado": -0.011,
        "movimiento": 0.017,
        "cuota_inicial": 1.8,
-       "prob_aprendida": 0.668
+       "prob_aprendida": 0.671
       },
       {
        "partido_id": 1636393,
@@ -655,11 +863,11 @@
        "tipo": "goles",
        "texto": "Más de 1,5 goles en la 2ª parte del Borac Banja Luka–Atalanta",
        "cuota": 1.8,
-       "frecuencia": 0.65,
-       "ventaja": 0.094,
-       "detalle": "Borac Banja Luka 7/10 · Atalanta 6/10",
+       "frecuencia": 0.7,
+       "ventaja": 0.144,
+       "detalle": "Borac Banja Luka 7/10 · Atalanta 7/10",
        "valor_mercado": 0.011,
-       "prob_aprendida": 0.583
+       "prob_aprendida": 0.59
       }
      ],
      "cuota": 6.92
@@ -700,22 +908,55 @@
      "liga_id": 135,
      "local": "Venezia",
      "visitante": "Bologna",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el Bologna",
-     "cuota": 1.95,
-     "frecuencia": 0.65,
-     "ventaja": 0.137,
-     "detalle": "Venezia 8/10 · Bologna 5/10",
-     "valor_mercado": -0.039,
+     "mercado": "Away Player Shots",
+     "opcion": "Tommaso Pobega - 1",
+     "cuota": 1.25,
+     "frecuencia": 1.0,
+     "ventaja": 0.2,
+     "tipo": "jugador",
+     "jugador": "Tommaso Pobega",
+     "equipo": "Bologna",
+     "jugador_id": 31273,
+     "campo": "tiros",
+     "n": 1,
+     "texto": "Tommaso Pobega: 1+ tiros",
+     "detalle": "Tommaso Pobega 9/9",
+     "temporada": "9/9",
+     "movimiento": 0.042,
+     "cuota_inicial": 1.2,
      "posiciones": [
       20,
       9,
       20
      ],
      "contexto": "mejor_abismo_abajo",
-     "prob_aprendida": 0.553
+     "prob_aprendida": 0.642
+    },
+    {
+     "partido_id": 1550216,
+     "fecha": "2026-11-27T20:45",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Venezia",
+     "visitante": "Bologna",
+     "mercado": "Match Winner",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Gana el Bologna",
+     "cuota": 2.0,
+     "frecuencia": 0.65,
+     "ventaja": 0.15,
+     "detalle": "Venezia 8/10 · Bologna 5/10",
+     "valor_mercado": -0.07,
+     "movimiento": 0.026,
+     "cuota_inicial": 1.95,
+     "posiciones": [
+      20,
+      9,
+      20
+     ],
+     "contexto": "mejor_abismo_abajo",
+     "prob_aprendida": 0.554
     },
     {
      "partido_id": 1552830,
@@ -779,22 +1020,29 @@
      "liga_id": 135,
      "local": "Venezia",
      "visitante": "Bologna",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el Bologna",
-     "cuota": 1.95,
-     "frecuencia": 0.65,
-     "ventaja": 0.137,
-     "detalle": "Venezia 8/10 · Bologna 5/10",
-     "valor_mercado": -0.039,
+     "mercado": "Away Player Shots",
+     "opcion": "Tommaso Pobega - 1",
+     "cuota": 1.25,
+     "frecuencia": 1.0,
+     "ventaja": 0.2,
+     "tipo": "jugador",
+     "jugador": "Tommaso Pobega",
+     "equipo": "Bologna",
+     "jugador_id": 31273,
+     "campo": "tiros",
+     "n": 1,
+     "texto": "Tommaso Pobega: 1+ tiros",
+     "detalle": "Tommaso Pobega 9/9",
+     "temporada": "9/9",
+     "movimiento": 0.042,
+     "cuota_inicial": 1.2,
      "posiciones": [
       20,
       9,
       20
      ],
      "contexto": "mejor_abismo_abajo",
-     "prob_aprendida": 0.553
+     "prob_aprendida": 0.642
     },
     {
      "partido_id": 1552830,
@@ -828,12 +1076,7 @@
    ],
    "combis": {
     "segura": null,
-    "cuota_3": null,
-    "loca": null,
-    "doble": null
-   },
-   "estilos": {
-    "tema": {
+    "cuota_3": {
      "picks": [
       {
        "partido_id": 1575237,
@@ -866,29 +1109,66 @@
        "liga_id": 135,
        "local": "Venezia",
        "visitante": "Bologna",
-       "mercado": "Match Winner",
-       "opcion": "Away",
-       "tipo": "resultado",
-       "texto": "Gana el Bologna",
-       "cuota": 1.95,
-       "frecuencia": 0.65,
-       "ventaja": 0.137,
-       "detalle": "Venezia 8/10 · Bologna 5/10",
-       "valor_mercado": -0.039,
+       "mercado": "Away Player Shots",
+       "opcion": "Tommaso Pobega - 1",
+       "cuota": 1.25,
+       "frecuencia": 1.0,
+       "ventaja": 0.2,
+       "tipo": "jugador",
+       "jugador": "Tommaso Pobega",
+       "equipo": "Bologna",
+       "jugador_id": 31273,
+       "campo": "tiros",
+       "n": 1,
+       "texto": "Tommaso Pobega: 1+ tiros",
+       "detalle": "Tommaso Pobega 9/9",
+       "temporada": "9/9",
+       "movimiento": 0.042,
+       "cuota_inicial": 1.2,
        "posiciones": [
         20,
         9,
         20
        ],
        "contexto": "mejor_abismo_abajo",
-       "prob_aprendida": 0.553
+       "prob_aprendida": 0.642
+      },
+      {
+       "partido_id": 1552830,
+       "fecha": "2026-11-27T20:45",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Stade Brestois 29",
+       "visitante": "Paris FC",
+       "mercado": "Home Player Shots",
+       "opcion": "Pathe Mboup - 2",
+       "cuota": 1.4,
+       "frecuencia": 0.9,
+       "ventaja": 0.186,
+       "tipo": "jugador",
+       "jugador": "Pathe Mboup",
+       "equipo": "Stade Brestois 29",
+       "jugador_id": 375990,
+       "campo": "tiros",
+       "n": 2,
+       "texto": "Pathe Mboup: 2+ tiros",
+       "detalle": "Pathe Mboup 9/10",
+       "temporada": "9/10",
+       "posiciones": [
+        6,
+        2,
+        18
+       ],
+       "contexto": "peor_lejos_arriba",
+       "prob_aprendida": 0.569
       }
      ],
-     "cuota": 3.41,
-     "titulo": "👑 VIERNES DE FAVORITOS",
-     "tema": "favoritos"
-    }
+     "cuota": 3.06
+    },
+    "loca": null,
+    "doble": null
    },
+   "estilos": {},
    "combis_partido": []
   },
   "2026-11-28": {
@@ -900,22 +1180,50 @@
      "liga_id": 88,
      "local": "Cambuur",
      "visitante": "Sparta Rotterdam",
-     "mercado": "To Win Either Half",
+     "mercado": "Match Winner",
      "opcion": "Home",
      "tipo": "resultado",
-     "texto": "Cambuur gana alguna de las dos partes",
-     "cuota": 1.73,
-     "frecuencia": 0.75,
-     "ventaja": 0.172,
-     "detalle": "Cambuur 8/10 · Sparta Rotterdam 7/10",
-     "valor_mercado": 0.036,
+     "texto": "Gana el Cambuur",
+     "cuota": 2.2,
+     "frecuencia": 0.6,
+     "ventaja": 0.145,
+     "detalle": "Cambuur 7/10 · Sparta Rotterdam 5/10",
+     "valor_mercado": -0.022,
+     "movimiento": -0.102,
+     "cuota_inicial": 2.45,
      "posiciones": [
       8,
       14,
       18
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.636
+     "prob_aprendida": 0.687
+    },
+    {
+     "partido_id": 1552234,
+     "fecha": "2026-11-28T21:00",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Cambuur",
+     "visitante": "Sparta Rotterdam",
+     "mercado": "To Win Either Half",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Cambuur gana alguna de las dos partes",
+     "cuota": 1.62,
+     "frecuencia": 0.75,
+     "ventaja": 0.133,
+     "detalle": "Cambuur 8/10 · Sparta Rotterdam 7/10",
+     "valor_mercado": 0.012,
+     "movimiento": -0.064,
+     "cuota_inicial": 1.73,
+     "posiciones": [
+      8,
+      14,
+      18
+     ],
+     "contexto": "mejor_lejos_medio",
+     "prob_aprendida": 0.654
     },
     {
      "partido_id": 1575234,
@@ -942,30 +1250,6 @@
      "prob_aprendida": 0.663
     },
     {
-     "partido_id": 1552234,
-     "fecha": "2026-11-28T21:00",
-     "competicion": "Eredivisie",
-     "liga_id": 88,
-     "local": "Cambuur",
-     "visitante": "Sparta Rotterdam",
-     "mercado": "Double Chance",
-     "opcion": "Home/Draw",
-     "tipo": "resultado",
-     "texto": "Cambuur o empate",
-     "cuota": 1.5,
-     "frecuencia": 0.85,
-     "ventaja": 0.183,
-     "detalle": "Cambuur 9/10 · Sparta Rotterdam 8/10",
-     "valor_mercado": 0.0,
-     "posiciones": [
-      8,
-      14,
-      18
-     ],
-     "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.668
-    },
-    {
      "partido_id": 1563288,
      "fecha": "2026-11-28T13:30",
      "competicion": "Championship",
@@ -980,14 +1264,14 @@
      "frecuencia": 0.6,
      "ventaja": 0.044,
      "detalle": "Blackburn 6/10 · Charlton 6/10",
-     "valor_mercado": 0.0,
+     "valor_mercado": -0.016,
      "posiciones": [
       13,
       19,
       24
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.628
+     "prob_aprendida": 0.629
     },
     {
      "partido_id": 1563290,
@@ -1045,7 +1329,7 @@
       18
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.581
+     "prob_aprendida": 0.582
     },
     {
      "partido_id": 1552831,
@@ -1070,11 +1354,59 @@
      "temporada": "5/5",
      "posiciones": [
       18,
-      15,
+      16,
       18
      ],
      "contexto": "mejor_igualado_abajo",
      "prob_aprendida": 0.577
+    },
+    {
+     "partido_id": 1575231,
+     "fecha": "2026-11-28T18:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "VfB Stuttgart",
+     "visitante": "Eintracht Frankfurt",
+     "mercado": "Total Corners (1st Half)",
+     "opcion": "Over 4.5",
+     "tipo": "corners",
+     "texto": "Más de 4,5 córners en la 1ª parte en VfB Stuttgart–Eintracht Frankfurt",
+     "cuota": 1.75,
+     "frecuencia": 0.85,
+     "ventaja": 0.279,
+     "detalle": "VfB Stuttgart 9/10 · Eintracht Frankfurt 8/10",
+     "valor_mercado": 0.061,
+     "posiciones": [
+      8,
+      7,
+      18
+     ],
+     "contexto": "total_igualado_medio",
+     "prob_aprendida": 0.477
+    },
+    {
+     "partido_id": 1575231,
+     "fecha": "2026-11-28T18:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "VfB Stuttgart",
+     "visitante": "Eintracht Frankfurt",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 3.5",
+     "tipo": "corners",
+     "texto": "Eintracht Frankfurt hace más de 3,5 córners",
+     "cuota": 1.8,
+     "frecuencia": 0.8,
+     "ventaja": 0.244,
+     "detalle": "VfB Stuttgart (en contra) 9/10 · Eintracht Frankfurt 7/10",
+     "valor_mercado": 0.047,
+     "posiciones": [
+      8,
+      7,
+      18
+     ],
+     "contexto": "mejor_igualado_medio",
+     "prob_aprendida": 0.409
     }
    ],
    "mejores_por_partido": [
@@ -1085,22 +1417,24 @@
      "liga_id": 88,
      "local": "Cambuur",
      "visitante": "Sparta Rotterdam",
-     "mercado": "To Win Either Half",
+     "mercado": "Match Winner",
      "opcion": "Home",
      "tipo": "resultado",
-     "texto": "Cambuur gana alguna de las dos partes",
-     "cuota": 1.73,
-     "frecuencia": 0.75,
-     "ventaja": 0.172,
-     "detalle": "Cambuur 8/10 · Sparta Rotterdam 7/10",
-     "valor_mercado": 0.036,
+     "texto": "Gana el Cambuur",
+     "cuota": 2.2,
+     "frecuencia": 0.6,
+     "ventaja": 0.145,
+     "detalle": "Cambuur 7/10 · Sparta Rotterdam 5/10",
+     "valor_mercado": -0.022,
+     "movimiento": -0.102,
+     "cuota_inicial": 2.45,
      "posiciones": [
       8,
       14,
       18
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.636
+     "prob_aprendida": 0.687
     },
     {
      "partido_id": 1575234,
@@ -1141,14 +1475,14 @@
      "frecuencia": 0.6,
      "ventaja": 0.044,
      "detalle": "Blackburn 6/10 · Charlton 6/10",
-     "valor_mercado": 0.0,
+     "valor_mercado": -0.016,
      "posiciones": [
       13,
       19,
       24
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.628
+     "prob_aprendida": 0.629
     },
     {
      "partido_id": 1563290,
@@ -1206,7 +1540,7 @@
       18
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.581
+     "prob_aprendida": 0.582
     },
     {
      "partido_id": 1552831,
@@ -1231,11 +1565,35 @@
      "temporada": "5/5",
      "posiciones": [
       18,
-      15,
+      16,
       18
      ],
      "contexto": "mejor_igualado_abajo",
      "prob_aprendida": 0.577
+    },
+    {
+     "partido_id": 1575231,
+     "fecha": "2026-11-28T18:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "VfB Stuttgart",
+     "visitante": "Eintracht Frankfurt",
+     "mercado": "Total Corners (1st Half)",
+     "opcion": "Over 4.5",
+     "tipo": "corners",
+     "texto": "Más de 4,5 córners en la 1ª parte en VfB Stuttgart–Eintracht Frankfurt",
+     "cuota": 1.75,
+     "frecuencia": 0.85,
+     "ventaja": 0.279,
+     "detalle": "VfB Stuttgart 9/10 · Eintracht Frankfurt 8/10",
+     "valor_mercado": 0.061,
+     "posiciones": [
+      8,
+      7,
+      18
+     ],
+     "contexto": "total_igualado_medio",
+     "prob_aprendida": 0.477
     }
    ],
    "combis": {
@@ -1250,22 +1608,24 @@
        "liga_id": 88,
        "local": "Cambuur",
        "visitante": "Sparta Rotterdam",
-       "mercado": "To Win Either Half",
+       "mercado": "Match Winner",
        "opcion": "Home",
        "tipo": "resultado",
-       "texto": "Cambuur gana alguna de las dos partes",
-       "cuota": 1.73,
-       "frecuencia": 0.75,
-       "ventaja": 0.172,
-       "detalle": "Cambuur 8/10 · Sparta Rotterdam 7/10",
-       "valor_mercado": 0.036,
+       "texto": "Gana el Cambuur",
+       "cuota": 2.2,
+       "frecuencia": 0.6,
+       "ventaja": 0.145,
+       "detalle": "Cambuur 7/10 · Sparta Rotterdam 5/10",
+       "valor_mercado": -0.022,
+       "movimiento": -0.102,
+       "cuota_inicial": 2.45,
        "posiciones": [
         8,
         14,
         18
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.636
+       "prob_aprendida": 0.687
       },
       {
        "partido_id": 1575234,
@@ -1306,14 +1666,14 @@
        "frecuencia": 0.6,
        "ventaja": 0.044,
        "detalle": "Blackburn 6/10 · Charlton 6/10",
-       "valor_mercado": 0.0,
+       "valor_mercado": -0.016,
        "posiciones": [
         13,
         19,
         24
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.628
+       "prob_aprendida": 0.629
       },
       {
        "partido_id": 1563290,
@@ -1371,10 +1731,10 @@
         18
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.581
+       "prob_aprendida": 0.582
       }
      ],
-     "cuota": 10.55
+     "cuota": 13.42
     },
     "doble": null
    },
@@ -1392,11 +1752,13 @@
        "opcion": "Over 0.5",
        "tipo": "goles",
        "texto": "Alaves marca",
-       "cuota": 1.83,
+       "cuota": 1.8,
        "frecuencia": 0.7,
-       "ventaja": 0.154,
+       "ventaja": 0.144,
        "detalle": "Real Madrid (en contra) 7/10 · Alaves 7/10",
-       "valor_mercado": -0.021,
+       "valor_mercado": -0.027,
+       "movimiento": -0.016,
+       "cuota_inicial": 1.83,
        "prob_xg": 0.693,
        "xg_esperado": 3.26,
        "posiciones": [
@@ -1408,62 +1770,38 @@
        "prob_aprendida": 0.59
       },
       {
-       "partido_id": 1557484,
-       "fecha": "2026-11-28T16:00",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Manchester United",
-       "visitante": "Brentford",
+       "partido_id": 1552835,
+       "fecha": "2026-11-28T20:45",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Paris Saint Germain",
+       "visitante": "Lorient",
        "mercado": "Total - Away",
-       "opcion": "Over 1.5",
+       "opcion": "Over 0.5",
        "tipo": "goles",
-       "texto": "Brentford marca 2 o más",
-       "cuota": 2.5,
-       "frecuencia": 0.65,
-       "ventaja": 0.25,
-       "detalle": "Manchester United (en contra) 7/10 · Brentford 6/10",
-       "valor_mercado": 0.05,
-       "prob_xg": 0.56,
-       "xg_esperado": 3.52,
+       "texto": "Lorient marca",
+       "cuota": 1.83,
+       "frecuencia": 0.75,
+       "ventaja": 0.204,
+       "detalle": "Paris Saint Germain (en contra) 7/10 · Lorient 8/10",
+       "valor_mercado": -0.042,
+       "prob_xg": 0.734,
+       "xg_esperado": 3.08,
        "posiciones": [
-        19,
+        1,
         10,
-        20
+        18
        ],
-       "contexto": "mejor_lejos_abajo",
-       "prob_aprendida": 0.49
+       "contexto": "peor_abismo_medio",
+       "prob_aprendida": 0.589
       }
      ],
-     "cuota": 4.58,
+     "cuota": 3.29,
      "titulo": "✈️ SÁBADO DE LOS DE FUERA",
      "tema": "fuera"
     },
     "atreve": {
      "picks": [
-      {
-       "partido_id": 1552234,
-       "fecha": "2026-11-28T21:00",
-       "competicion": "Eredivisie",
-       "liga_id": 88,
-       "local": "Cambuur",
-       "visitante": "Sparta Rotterdam",
-       "mercado": "Match Winner",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Gana el Cambuur",
-       "cuota": 2.45,
-       "frecuencia": 0.6,
-       "ventaja": 0.192,
-       "detalle": "Cambuur 7/10 · Sparta Rotterdam 5/10",
-       "valor_mercado": -0.024,
-       "posiciones": [
-        8,
-        14,
-        18
-       ],
-       "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.689
-      },
       {
        "partido_id": 1575545,
        "fecha": "2026-11-28T19:00",
@@ -1487,9 +1825,35 @@
        ],
        "contexto": "mejor_lejos_medio",
        "prob_aprendida": 0.689
+      },
+      {
+       "partido_id": 1552832,
+       "fecha": "2026-11-28T20:45",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Le Mans",
+       "visitante": "Lille",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
+       "tipo": "resultado",
+       "texto": "Le Mans o empate",
+       "cuota": 1.8,
+       "frecuencia": 0.65,
+       "ventaja": 0.094,
+       "detalle": "Le Mans 6/10 · Lille 7/10",
+       "valor_mercado": -0.027,
+       "movimiento": -0.058,
+       "cuota_inicial": 1.91,
+       "posiciones": [
+        13,
+        3,
+        18
+       ],
+       "contexto": "peor_abismo_medio",
+       "prob_aprendida": 0.686
       }
      ],
-     "cuota": 5.88
+     "cuota": 4.32
     },
     "500": {
      "picks": [
@@ -1504,18 +1868,20 @@
        "opcion": "Home",
        "tipo": "resultado",
        "texto": "Gana el Cambuur",
-       "cuota": 2.45,
+       "cuota": 2.2,
        "frecuencia": 0.6,
-       "ventaja": 0.192,
+       "ventaja": 0.145,
        "detalle": "Cambuur 7/10 · Sparta Rotterdam 5/10",
-       "valor_mercado": -0.024,
+       "valor_mercado": -0.022,
+       "movimiento": -0.102,
+       "cuota_inicial": 2.45,
        "posiciones": [
         8,
         14,
         18
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.689
+       "prob_aprendida": 0.687
       },
       {
        "partido_id": 1575545,
@@ -1552,18 +1918,20 @@
        "opcion": "Home/Draw",
        "tipo": "resultado",
        "texto": "Le Mans o empate",
-       "cuota": 1.91,
+       "cuota": 1.8,
        "frecuencia": 0.65,
-       "ventaja": 0.126,
+       "ventaja": 0.094,
        "detalle": "Le Mans 6/10 · Lille 7/10",
-       "valor_mercado": 0.005,
+       "valor_mercado": -0.027,
+       "movimiento": -0.058,
+       "cuota_inicial": 1.91,
        "posiciones": [
-        16,
+        13,
         3,
         18
        ],
        "contexto": "peor_abismo_medio",
-       "prob_aprendida": 0.635
+       "prob_aprendida": 0.686
       },
       {
        "partido_id": 1575234,
@@ -1607,7 +1975,7 @@
        "valor_mercado": -0.032,
        "posiciones": [
         18,
-        15,
+        16,
         18
        ],
        "contexto": "total_igualado_abajo",
@@ -1628,40 +1996,14 @@
        "frecuencia": 0.6,
        "ventaja": 0.044,
        "detalle": "Blackburn 6/10 · Charlton 6/10",
-       "valor_mercado": 0.0,
+       "valor_mercado": -0.016,
        "posiciones": [
         13,
         19,
         24
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.628
-      },
-      {
-       "partido_id": 1570470,
-       "fecha": "2026-11-28T21:00",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Real Madrid",
-       "visitante": "Alaves",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
-       "tipo": "goles",
-       "texto": "Ambos marcan en Real Madrid–Alaves",
-       "cuota": 1.95,
-       "frecuencia": 0.7,
-       "ventaja": 0.187,
-       "detalle": "Real Madrid 7/10 · Alaves 7/10",
-       "valor_mercado": 0.01,
-       "prob_xg": 0.606,
-       "xg_esperado": 3.26,
-       "posiciones": [
-        2,
-        9,
-        20
-       ],
-       "contexto": "total_lejos_arriba",
-       "prob_aprendida": 0.597
+       "prob_aprendida": 0.629
       },
       {
        "partido_id": 1557482,
@@ -1686,6 +2028,32 @@
        ],
        "contexto": "total_igualado_medio",
        "prob_aprendida": 0.637
+      },
+      {
+       "partido_id": 1570470,
+       "fecha": "2026-11-28T21:00",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Real Madrid",
+       "visitante": "Alaves",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en Real Madrid–Alaves",
+       "cuota": 1.95,
+       "frecuencia": 0.7,
+       "ventaja": 0.187,
+       "detalle": "Real Madrid 7/10 · Alaves 7/10",
+       "valor_mercado": 0.021,
+       "prob_xg": 0.606,
+       "xg_esperado": 3.26,
+       "posiciones": [
+        2,
+        9,
+        20
+       ],
+       "contexto": "total_lejos_arriba",
+       "prob_aprendida": 0.576
       },
       {
        "partido_id": 1563290,
@@ -1717,39 +2085,67 @@
        "prob_aprendida": 0.654
       },
       {
-       "partido_id": 1557484,
-       "fecha": "2026-11-28T16:00",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Manchester United",
-       "visitante": "Brentford",
+       "partido_id": 1552835,
+       "fecha": "2026-11-28T20:45",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Paris Saint Germain",
+       "visitante": "Lorient",
        "mercado": "Total - Away",
-       "opcion": "Over 1.5",
+       "opcion": "Over 0.5",
        "tipo": "goles",
-       "texto": "Brentford marca 2 o más",
-       "cuota": 2.5,
-       "frecuencia": 0.65,
-       "ventaja": 0.25,
-       "detalle": "Manchester United (en contra) 7/10 · Brentford 6/10",
-       "valor_mercado": 0.05,
-       "prob_xg": 0.56,
-       "xg_esperado": 3.52,
+       "texto": "Lorient marca",
+       "cuota": 1.83,
+       "frecuencia": 0.75,
+       "ventaja": 0.204,
+       "detalle": "Paris Saint Germain (en contra) 7/10 · Lorient 8/10",
+       "valor_mercado": -0.042,
+       "prob_xg": 0.734,
+       "xg_esperado": 3.08,
        "posiciones": [
-        19,
+        1,
         10,
-        20
+        18
        ],
-       "contexto": "mejor_lejos_abajo",
-       "prob_aprendida": 0.49
+       "contexto": "peor_abismo_medio",
+       "prob_aprendida": 0.589
       }
      ],
-     "cuota": 679.57
+     "cuota": 420.96
     }
    },
    "combis_partido": []
   },
   "2026-11-29": {
    "picks": [
+    {
+     "partido_id": 1570465,
+     "fecha": "2026-11-29T16:15",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Deportivo La Coruna",
+     "visitante": "Barcelona",
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Deportivo La Coruna marca",
+     "cuota": 1.44,
+     "frecuencia": 0.75,
+     "ventaja": 0.056,
+     "detalle": "Deportivo La Coruna 7/10 · Barcelona (en contra) 8/10",
+     "valor_mercado": -0.027,
+     "movimiento": -0.04,
+     "cuota_inicial": 1.5,
+     "prob_xg": 0.731,
+     "xg_esperado": 3.19,
+     "posiciones": [
+      12,
+      1,
+      20
+     ],
+     "contexto": "peor_abismo_medio",
+     "prob_aprendida": 0.699
+    },
     {
      "partido_id": 1575550,
      "fecha": "2026-11-29T19:00",
@@ -1833,6 +2229,35 @@
      "prob_aprendida": 0.634
     },
     {
+     "partido_id": 1552237,
+     "fecha": "2026-11-29T14:30",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Feyenoord",
+     "visitante": "Ajax",
+     "mercado": "Away Player Shots",
+     "opcion": "Jorthy Mokio - 1",
+     "cuota": 1.4,
+     "frecuencia": 1.0,
+     "ventaja": 0.286,
+     "tipo": "jugador",
+     "jugador": "Jorthy Mokio",
+     "equipo": "Ajax",
+     "jugador_id": 443829,
+     "campo": "tiros",
+     "n": 1,
+     "texto": "Jorthy Mokio: 1+ tiros",
+     "detalle": "Jorthy Mokio 10/10",
+     "temporada": "12/14",
+     "posiciones": [
+      5,
+      2,
+      18
+     ],
+     "contexto": "mejor_igualado_arriba",
+     "prob_aprendida": 0.574
+    },
+    {
      "partido_id": 1552239,
      "fecha": "2026-11-29T20:00",
      "competicion": "Eredivisie",
@@ -1859,10 +2284,62 @@
       18
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.573
+     "prob_aprendida": 0.574
+    },
+    {
+     "partido_id": 1575230,
+     "fecha": "2026-11-29T19:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Borussia Dortmund",
+     "visitante": "Bayer Leverkusen",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 3.5",
+     "tipo": "corners",
+     "texto": "Bayer Leverkusen hace más de 3,5 córners",
+     "cuota": 1.67,
+     "frecuencia": 0.75,
+     "ventaja": 0.151,
+     "detalle": "Borussia Dortmund (en contra) 7/10 · Bayer Leverkusen 8/10",
+     "valor_mercado": 0.044,
+     "posiciones": [
+      1,
+      5,
+      18
+     ],
+     "contexto": "peor_lejos_arriba",
+     "prob_aprendida": 0.401
     }
    ],
    "mejores_por_partido": [
+    {
+     "partido_id": 1570465,
+     "fecha": "2026-11-29T16:15",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Deportivo La Coruna",
+     "visitante": "Barcelona",
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Deportivo La Coruna marca",
+     "cuota": 1.44,
+     "frecuencia": 0.75,
+     "ventaja": 0.056,
+     "detalle": "Deportivo La Coruna 7/10 · Barcelona (en contra) 8/10",
+     "valor_mercado": -0.027,
+     "movimiento": -0.04,
+     "cuota_inicial": 1.5,
+     "prob_xg": 0.731,
+     "xg_esperado": 3.19,
+     "posiciones": [
+      12,
+      1,
+      20
+     ],
+     "contexto": "peor_abismo_medio",
+     "prob_aprendida": 0.699
+    },
     {
      "partido_id": 1575550,
      "fecha": "2026-11-29T19:00",
@@ -1917,6 +2394,35 @@
      "prob_aprendida": 0.65
     },
     {
+     "partido_id": 1552237,
+     "fecha": "2026-11-29T14:30",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Feyenoord",
+     "visitante": "Ajax",
+     "mercado": "Away Player Shots",
+     "opcion": "Jorthy Mokio - 1",
+     "cuota": 1.4,
+     "frecuencia": 1.0,
+     "ventaja": 0.286,
+     "tipo": "jugador",
+     "jugador": "Jorthy Mokio",
+     "equipo": "Ajax",
+     "jugador_id": 443829,
+     "campo": "tiros",
+     "n": 1,
+     "texto": "Jorthy Mokio: 1+ tiros",
+     "detalle": "Jorthy Mokio 10/10",
+     "temporada": "12/14",
+     "posiciones": [
+      5,
+      2,
+      18
+     ],
+     "contexto": "mejor_igualado_arriba",
+     "prob_aprendida": 0.574
+    },
+    {
      "partido_id": 1552239,
      "fecha": "2026-11-29T20:00",
      "competicion": "Eredivisie",
@@ -1943,13 +2449,65 @@
       18
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.573
+     "prob_aprendida": 0.574
+    },
+    {
+     "partido_id": 1575230,
+     "fecha": "2026-11-29T19:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Borussia Dortmund",
+     "visitante": "Bayer Leverkusen",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 3.5",
+     "tipo": "corners",
+     "texto": "Bayer Leverkusen hace más de 3,5 córners",
+     "cuota": 1.67,
+     "frecuencia": 0.75,
+     "ventaja": 0.151,
+     "detalle": "Borussia Dortmund (en contra) 7/10 · Bayer Leverkusen 8/10",
+     "valor_mercado": 0.044,
+     "posiciones": [
+      1,
+      5,
+      18
+     ],
+     "contexto": "peor_lejos_arriba",
+     "prob_aprendida": 0.401
     }
    ],
    "combis": {
     "segura": null,
     "cuota_3": {
      "picks": [
+      {
+       "partido_id": 1570465,
+       "fecha": "2026-11-29T16:15",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Deportivo La Coruna",
+       "visitante": "Barcelona",
+       "mercado": "Total - Home",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Deportivo La Coruna marca",
+       "cuota": 1.44,
+       "frecuencia": 0.75,
+       "ventaja": 0.056,
+       "detalle": "Deportivo La Coruna 7/10 · Barcelona (en contra) 8/10",
+       "valor_mercado": -0.027,
+       "movimiento": -0.04,
+       "cuota_inicial": 1.5,
+       "prob_xg": 0.731,
+       "xg_esperado": 3.19,
+       "posiciones": [
+        12,
+        1,
+        20
+       ],
+       "contexto": "peor_abismo_medio",
+       "prob_aprendida": 0.699
+      },
       {
        "partido_id": 1575550,
        "fecha": "2026-11-29T19:00",
@@ -2002,45 +2560,42 @@
        ],
        "contexto": "peor_igualado_arriba",
        "prob_aprendida": 0.65
-      },
-      {
-       "partido_id": 1552239,
-       "fecha": "2026-11-29T20:00",
-       "competicion": "Eredivisie",
-       "liga_id": 88,
-       "local": "NEC Nijmegen",
-       "visitante": "Twente",
-       "mercado": "Away Player Shots",
-       "opcion": "Daouda Weidmann - 2",
-       "cuota": 1.4,
-       "frecuencia": 0.9,
-       "ventaja": 0.186,
-       "tipo": "jugador",
-       "jugador": "Daouda Weidmann",
-       "equipo": "Twente",
-       "jugador_id": 336562,
-       "campo": "tiros",
-       "n": 2,
-       "texto": "Daouda Weidmann: 2+ tiros",
-       "detalle": "Daouda Weidmann 9/10",
-       "temporada": "14/17",
-       "posiciones": [
-        12,
-        3,
-        18
-       ],
-       "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.573
       }
      ],
-     "cuota": 3.44
+     "cuota": 3.54
     },
     "loca": null,
     "doble": null
    },
    "estilos": {
-    "atreve": {
+    "liga": {
      "picks": [
+      {
+       "partido_id": 1550209,
+       "fecha": "2026-11-29T20:45",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Como",
+       "visitante": "Juventus",
+       "mercado": "To Win Either Half",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Como gana alguna de las dos partes",
+       "cuota": 1.57,
+       "frecuencia": 0.65,
+       "ventaja": 0.013,
+       "detalle": "Como 7/10 · Juventus 6/10",
+       "valor_mercado": -0.031,
+       "movimiento": -0.06,
+       "cuota_inicial": 1.67,
+       "posiciones": [
+        5,
+        6,
+        20
+       ],
+       "contexto": "mejor_igualado_arriba",
+       "prob_aprendida": 0.689
+      },
       {
        "partido_id": 1550207,
        "fecha": "2026-11-29T18:00",
@@ -2056,7 +2611,7 @@
        "frecuencia": 0.65,
        "ventaja": 0.094,
        "detalle": "AS Roma 6/10 · Monza 7/10",
-       "valor_mercado": 0.0,
+       "valor_mercado": -0.016,
        "prob_xg": 0.696,
        "xg_esperado": 3.66,
        "posiciones": [
@@ -2068,55 +2623,33 @@
        "prob_aprendida": 0.606
       },
       {
-       "partido_id": 1575232,
-       "fecha": "2026-11-29T17:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "1899 Hoffenheim",
-       "visitante": "FC Augsburg",
-       "mercado": "To Win Either Half",
-       "opcion": "Away",
-       "tipo": "resultado",
-       "texto": "FC Augsburg gana alguna de las dos partes",
-       "cuota": 2.2,
+       "partido_id": 1550213,
+       "fecha": "2026-11-29T15:00",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Sassuolo",
+       "visitante": "Napoli",
+       "mercado": "Home Corners Over/Under",
+       "opcion": "Over 3.5",
+       "tipo": "corners",
+       "texto": "Sassuolo hace más de 3,5 córners",
+       "cuota": 1.8,
        "frecuencia": 0.7,
-       "ventaja": 0.245,
-       "detalle": "1899 Hoffenheim 6/10 · FC Augsburg 8/10",
-       "valor_mercado": -0.022,
+       "ventaja": 0.144,
+       "detalle": "Sassuolo 6/10 · Napoli (en contra) 8/10",
+       "valor_mercado": 0.017,
        "posiciones": [
-        11,
-        10,
-        18
-       ],
-       "contexto": "mejor_igualado_medio",
-       "prob_aprendida": 0.566
-      },
-      {
-       "partido_id": 1552833,
-       "fecha": "2026-11-29T20:45",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Lyon",
-       "visitante": "Monaco",
-       "mercado": "To Win Either Half",
-       "opcion": "Away",
-       "tipo": "resultado",
-       "texto": "Monaco gana alguna de las dos partes",
-       "cuota": 1.91,
-       "frecuencia": 0.7,
-       "ventaja": 0.176,
-       "detalle": "Lyon 6/10 · Monaco 8/10",
-       "valor_mercado": -0.021,
-       "posiciones": [
-        4,
+        17,
         8,
-        18
+        20
        ],
        "contexto": "peor_lejos_medio",
-       "prob_aprendida": 0.558
+       "prob_aprendida": 0.554
       }
      ],
-     "cuota": 7.56
+     "cuota": 5.09,
+     "titulo": "🇮🇹 COMBI SERIE A",
+     "liga": "Serie A"
     }
    },
    "combis_partido": []
