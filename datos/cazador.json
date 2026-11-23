@@ -63,17 +63,6 @@
  },
  "top": [
   {
-   "local": "Lecco",
-   "visitante": "Lumezzane",
-   "inicio": "2026-11-23T20:45",
-   "texto": "Lumezzane o empate",
-   "cuota": 1.8,
-   "justa": 1.67,
-   "ev": 0.078,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
    "local": "AD Ceuta FC",
    "visitante": "Almeria",
    "inicio": "2026-11-23T20:30",
@@ -82,7 +71,7 @@
    "justa": 2.01,
    "ev": 0.043,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "AD Ceuta FC",
@@ -93,7 +82,7 @@
    "justa": 1.41,
    "ev": 0.02,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "AD Ceuta FC",
@@ -104,11 +93,11 @@
    "justa": 1.7,
    "ev": -0.017,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-23T12:04",
+  "hora": "2026-11-23T12:25",
   "revisadas": 0,
   "mejor": null
  },
