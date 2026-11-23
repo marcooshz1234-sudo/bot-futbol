@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-23",
- "generado": "2026-11-23T20:21+01:00",
+ "generado": "2026-11-23T20:51+01:00",
  "rango": [
   "2026-11-23",
   "2026-11-26"
@@ -301,52 +301,6 @@
   }
  ],
  "equipos": [
-  {
-   "equipo": "Brentford",
-   "liga": "Premier League",
-   "partido": "Brentford–Everton",
-   "hora": "2026-11-23T21:00",
-   "logo": "https://media.api-sports.io/football/teams/55.png",
-   "patas": [
-    {
-     "sel": "1557469|Player Fouls Committed|Jannik Schuster - 1",
-     "texto": "Jannik Schuster: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,66 por 90' (2-1-2-1-2)",
-     "nota": 1.04,
-     "equipo": "Brentford",
-     "lado": "L",
-     "partido": "Brentford–Everton",
-     "hora": "2026-11-23T21:00"
-    },
-    {
-     "sel": "1557469|Player Fouls Committed|Keane Lewis-Potter - 1",
-     "texto": "Keane Lewis-Potter: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,75 por 90' (1-4-2-1-1-0)",
-     "nota": 0.9000000000000001,
-     "equipo": "Brentford",
-     "lado": "L",
-     "partido": "Brentford–Everton",
-     "hora": "2026-11-23T21:00"
-    },
-    {
-     "sel": "1557469|Player Fouls Committed|Vitaly Janelt - 1",
-     "texto": "Vitaly Janelt: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,33 por 90' (1-3-1-0-2-1)",
-     "nota": 0.84,
-     "equipo": "Brentford",
-     "lado": "L",
-     "partido": "Brentford–Everton",
-     "hora": "2026-11-23T21:00"
-    }
-   ],
-   "cuota": 3.15
-  },
   {
    "equipo": "Arsenal",
    "liga": "Champions League",
@@ -2353,21 +2307,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1557469|Player Fouls Committed|Jannik Schuster - 1",
-     "texto": "Jannik Schuster: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,66 por 90' (2-1-2-1-2)",
-     "nota": 1.04,
-     "equipo": "Brentford",
-     "lado": "L",
-     "partido": "Brentford–Everton",
-     "hora": "2026-11-23T21:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/55.png",
-     "logo_v": "https://media.api-sports.io/football/teams/45.png"
-    },
-    {
      "sel": "1635611|Away Corners Over/Under|Over 2.5",
      "texto": "Borussia Dortmund: más de 2,5 córners",
      "cuota": 1.67,
@@ -2392,6 +2331,21 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/50.png",
      "logo_v": "https://media.api-sports.io/football/teams/492.png"
+    },
+    {
+     "sel": "1635713|Home Player Shots|Willi Orban - 1",
+     "texto": "Willi Orban: 1+ remate",
+     "cuota": 1.67,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,33 por 90' (2-1-2-0-2-1)",
+     "nota": 0.934,
+     "equipo": "RB Leipzig",
+     "lado": "L",
+     "partido": "RB Leipzig–Lens",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/173.png",
+     "logo_v": "https://media.api-sports.io/football/teams/116.png"
     },
     {
      "sel": "1635718|Away Player Shots|Lamine Yamal - 5",
@@ -2450,8 +2404,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/247.png"
     }
    ],
-   "cuota": 30.62,
-   "prob": 0.409
+   "cuota": 34.09,
+   "prob": 0.372
   },
   {
    "clave": "segura",
@@ -2459,21 +2413,6 @@
    "expl": "Las 3 patas más probables de todo",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1557469|Player Fouls Committed|Keane Lewis-Potter - 1",
-     "texto": "Keane Lewis-Potter: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,75 por 90' (1-4-2-1-1-0)",
-     "nota": 0.9000000000000001,
-     "equipo": "Brentford",
-     "lado": "L",
-     "partido": "Brentford–Everton",
-     "hora": "2026-11-23T21:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/55.png",
-     "logo_v": "https://media.api-sports.io/football/teams/45.png"
-    },
     {
      "sel": "1635611|Player Fouls Committed|Gabriel Magalhaes - 1",
      "texto": "Gabriel Magalhaes: comete 1+ falta",
@@ -2490,6 +2429,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
     },
     {
+     "sel": "1635713|Away Player Shots|Andrija Bulatovic - 1",
+     "texto": "Andrija Bulatovic: 1+ remate",
+     "cuota": 1.62,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,53 por 90' (2-1-2-0-1-3)",
+     "nota": 0.9240000000000002,
+     "equipo": "Lens",
+     "lado": "V",
+     "partido": "RB Leipzig–Lens",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/173.png",
+     "logo_v": "https://media.api-sports.io/football/teams/116.png"
+    },
+    {
      "sel": "1635724|Home Corners Over/Under|Over 4.5",
      "texto": "Shakhtar Donetsk: más de 4,5 córners",
      "cuota": 1.67,
@@ -2503,7 +2457,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/611.png"
     }
    ],
-   "cuota": 3.83,
+   "cuota": 4.14,
    "prob": 0.514
   },
   {
@@ -2856,21 +2810,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1557469|Player Fouls Committed|Vitaly Janelt - 1",
-     "texto": "Vitaly Janelt: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,33 por 90' (1-3-1-0-2-1)",
-     "nota": 0.84,
-     "equipo": "Brentford",
-     "lado": "L",
-     "partido": "Brentford–Everton",
-     "hora": "2026-11-23T21:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/55.png",
-     "logo_v": "https://media.api-sports.io/football/teams/45.png"
-    },
-    {
      "sel": "1635715|Player Fouls Committed|Mauro Junior - 1",
      "texto": "Mauro Junior: comete 1+ falta",
      "cuota": 1.4,
@@ -2884,6 +2823,21 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/541.png",
      "logo_v": "https://media.api-sports.io/football/teams/197.png"
+    },
+    {
+     "sel": "1635713|Player Fouls Committed|Christopher Nkunku - 1",
+     "texto": "Christopher Nkunku: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,65 por 90' (1-2-0-1-3)",
+     "nota": 0.8375000000000001,
+     "equipo": "RB Leipzig",
+     "lado": "L",
+     "partido": "RB Leipzig–Lens",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/173.png",
+     "logo_v": "https://media.api-sports.io/football/teams/116.png"
     },
     {
      "sel": "1635703|Player Fouls Committed|Joao Neves - 1",
@@ -2931,8 +2885,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/40.png"
     }
    ],
-   "cuota": 5.88,
-   "prob": 0.328
+   "cuota": 6.3,
+   "prob": 0.313
   },
   {
    "clave": "remates",
@@ -2941,19 +2895,19 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1635713|Home Player Shots|Willi Orban - 1",
-     "texto": "Willi Orban: 1+ remate",
-     "cuota": 1.67,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,33 por 90' (2-1-2-0-2-1)",
-     "nota": 0.934,
-     "equipo": "RB Leipzig",
-     "lado": "L",
-     "partido": "RB Leipzig–Lens",
+     "sel": "1635731|Goalkeeper Saves|Alvaro Valles - 2",
+     "texto": "Alvaro Valles: 2+ paradas",
+     "cuota": 1.5,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 3,40 por 90' (4-3-4-1-5)",
+     "nota": 0.8375000000000001,
+     "equipo": "Real Betis",
+     "lado": "V",
+     "partido": "Slovan Bratislava–Real Betis",
      "hora": "2026-11-24T21:00",
      "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/173.png",
-     "logo_v": "https://media.api-sports.io/football/teams/116.png"
+     "logo_l": "https://media.api-sports.io/football/teams/656.png",
+     "logo_v": "https://media.api-sports.io/football/teams/543.png"
     },
     {
      "sel": "1635718|Away Player Shots|Marc Bernal - 1",
@@ -3016,8 +2970,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/168.png"
     }
    ],
-   "cuota": 8.41,
-   "prob": 0.328
+   "cuota": 7.56,
+   "prob": 0.313
   },
   {
    "clave": "goles",
@@ -3101,19 +3055,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1570457|Away Corners Over/Under|Over 3.5",
-     "texto": "Elche: más de 3,5 córners",
-     "cuota": 1.67,
-     "p": 0.742,
-     "dato": "Elche saca 4,7 córners y el rival concede 5,4",
-     "nota": 0.8274281804606652,
-     "partido": "Levante–Elche",
-     "hora": "2026-11-23T21:00",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/539.png",
-     "logo_v": "https://media.api-sports.io/football/teams/797.png"
-    },
-    {
      "sel": "1635703|Away Corners Over/Under|Over 2.5",
      "texto": "AS Roma: más de 2,5 córners",
      "cuota": 1.67,
@@ -3125,6 +3066,19 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/85.png",
      "logo_v": "https://media.api-sports.io/football/teams/497.png"
+    },
+    {
+     "sel": "1635682|Corners 1x2|Away",
+     "texto": "Bayern München saca más córners",
+     "cuota": 1.44,
+     "p": 0.709,
+     "dato": "6,5 córners de Bayern München contra 4,2 del rival",
+     "nota": 0.707431705850159,
+     "partido": "Lille–Bayern München",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/79.png",
+     "logo_v": "https://media.api-sports.io/football/teams/157.png"
     },
     {
      "sel": "1636428|Corners Over Under|Over 8.5",
@@ -3153,8 +3107,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/4360.png"
     }
    ],
-   "cuota": 7.55,
-   "prob": 0.263
+   "cuota": 6.51,
+   "prob": 0.252
   },
   {
    "clave": "larga",
@@ -3162,51 +3116,6 @@
    "expl": "10 patas para soñar, con lo que queda",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1557469|Player Fouls Committed|Harrison Armstrong - 1",
-     "texto": "Harrison Armstrong: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,21 por 90' (2-1-1-2-0-1)",
-     "nota": 0.84,
-     "equipo": "Everton",
-     "lado": "V",
-     "partido": "Brentford–Everton",
-     "hora": "2026-11-23T21:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/55.png",
-     "logo_v": "https://media.api-sports.io/football/teams/45.png"
-    },
-    {
-     "sel": "1635713|Away Player Shots|Andrija Bulatovic - 1",
-     "texto": "Andrija Bulatovic: 1+ remate",
-     "cuota": 1.62,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,53 por 90' (2-1-2-0-1-3)",
-     "nota": 0.9240000000000002,
-     "equipo": "Lens",
-     "lado": "V",
-     "partido": "RB Leipzig–Lens",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/173.png",
-     "logo_v": "https://media.api-sports.io/football/teams/116.png"
-    },
-    {
-     "sel": "1635731|Goalkeeper Saves|Alvaro Valles - 2",
-     "texto": "Alvaro Valles: 2+ paradas",
-     "cuota": 1.5,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 3,40 por 90' (4-3-4-1-5)",
-     "nota": 0.8375000000000001,
-     "equipo": "Real Betis",
-     "lado": "V",
-     "partido": "Slovan Bratislava–Real Betis",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/656.png",
-     "logo_v": "https://media.api-sports.io/football/teams/543.png"
-    },
     {
      "sel": "1635611|Home Player Shots|Mikel Merino - 2",
      "texto": "Mikel Merino: 2+ remates",
@@ -3221,6 +3130,19 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/42.png",
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
+    },
+    {
+     "sel": "1635731|Total - Home|Over 0.5",
+     "texto": "Slovan Bratislava marca",
+     "cuota": 1.67,
+     "p": 0.724,
+     "dato": "marca 1,0 por partido y el rival encaja 1,4",
+     "nota": 0.7952793105705545,
+     "partido": "Slovan Bratislava–Real Betis",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/656.png",
+     "logo_v": "https://media.api-sports.io/football/teams/543.png"
     },
     {
      "sel": "1635625|Player Fouls Committed|Ademola Lookman - 1",
@@ -3264,6 +3186,32 @@
      "logo_v": "https://media.api-sports.io/football/teams/211.png"
     },
     {
+     "sel": "1636329|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.44,
+     "p": 0.73,
+     "dato": "más de 2,5 goles en el 67% y el 100% de sus partidos",
+     "nota": 0.7433953311601362,
+     "partido": "Union St. Gilloise–Lech Poznan",
+     "hora": "2026-11-26T18:45",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/1393.png",
+     "logo_v": "https://media.api-sports.io/football/teams/347.png"
+    },
+    {
+     "sel": "1636393|To Win Either Half|Home",
+     "texto": "Brann gana alguna de las dos partes",
+     "cuota": 1.57,
+     "p": 0.696,
+     "dato": "Brann: VVDV en sus últimos 5",
+     "nota": 0.7288494853053133,
+     "partido": "Brann–Aarhus",
+     "hora": "2026-11-26T18:45",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/319.png",
+     "logo_v": "https://media.api-sports.io/football/teams/406.png"
+    },
+    {
      "sel": "1636336|Double Chance|Draw/Away",
      "texto": "AZ Alkmaar o empate",
      "cuota": 1.5,
@@ -3303,8 +3251,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/94.png"
     }
    ],
-   "cuota": 63.67,
-   "prob": 0.059
+   "cuota": 70.66,
+   "prob": 0.044
   }
  ],
  "otras_ligas": false,
