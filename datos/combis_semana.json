@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-24",
- "generado": "2026-11-24T06:38+01:00",
+ "generado": "2026-11-24T07:08+01:00",
  "rango": [
   "2026-11-24",
   "2026-11-27"
@@ -443,16 +443,6 @@
      "hora": "2026-11-24T21:00"
     },
     {
-     "sel": "1635611|Away Corners Over/Under|Over 2.5",
-     "texto": "Borussia Dortmund: más de 2,5 córners",
-     "cuota": 1.67,
-     "p": 0.857,
-     "dato": "Borussia Dortmund saca 6,9 córners y el rival concede 2,7",
-     "nota": 1.0394405333386356,
-     "partido": "Arsenal–Borussia Dortmund",
-     "hora": "2026-11-24T21:00"
-    },
-    {
      "sel": "1635611|Away Player Shots|Serhou Guirassy - 2",
      "texto": "Serhou Guirassy: 2+ remates",
      "cuota": 1.62,
@@ -487,39 +477,7 @@
      "hora": "2026-11-24T21:00"
     }
    ],
-   "cuota": 9.1
-  },
-  {
-   "equipo": "Napoli",
-   "liga": "Champions League",
-   "partido": "Manchester City–Napoli",
-   "hora": "2026-11-24T21:00",
-   "logo": "https://media.api-sports.io/football/teams/492.png",
-   "patas": [
-    {
-     "sel": "1635692|Away Corners Over/Under|Over 2.5",
-     "texto": "Napoli: más de 2,5 córners",
-     "cuota": 1.67,
-     "p": 0.832,
-     "dato": "Napoli saca 5,2 córners y el rival concede 3,9",
-     "nota": 0.9926617227694676,
-     "partido": "Manchester City–Napoli",
-     "hora": "2026-11-24T21:00"
-    },
-    {
-     "sel": "1635692|Player Fouls Committed|Kevin De Bruyne - 1",
-     "texto": "Kevin De Bruyne: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,53 por 90' (1-1-0-2-2-3)",
-     "nota": 0.864,
-     "equipo": "Napoli",
-     "lado": "V",
-     "partido": "Manchester City–Napoli",
-     "hora": "2026-11-24T21:00"
-    }
-   ],
-   "cuota": 2.4
+   "cuota": 5.45
   },
   {
    "equipo": "RB Leipzig",
@@ -2322,19 +2280,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1635611|Away Corners Over/Under|Over 2.5",
-     "texto": "Borussia Dortmund: más de 2,5 córners",
-     "cuota": 1.67,
-     "p": 0.857,
-     "dato": "Borussia Dortmund saca 6,9 córners y el rival concede 2,7",
-     "nota": 1.0394405333386356,
-     "partido": "Arsenal–Borussia Dortmund",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/42.png",
-     "logo_v": "https://media.api-sports.io/football/teams/165.png"
-    },
-    {
      "sel": "1635718|Away Player Shots|Lamine Yamal - 5",
      "texto": "Lamine Yamal: 5+ remates",
      "cuota": 1.62,
@@ -2415,42 +2360,6 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/4799.png",
      "logo_v": "https://media.api-sports.io/football/teams/247.png"
-    }
-   ],
-   "cuota": 32.08,
-   "prob": 0.455
-  },
-  {
-   "clave": "segura",
-   "titulo": "🛡️ La segura",
-   "expl": "Las 3 patas más probables de todo",
-   "liga": "Varias",
-   "patas": [
-    {
-     "sel": "1635692|Away Corners Over/Under|Over 2.5",
-     "texto": "Napoli: más de 2,5 córners",
-     "cuota": 1.67,
-     "p": 0.832,
-     "dato": "Napoli saca 5,2 córners y el rival concede 3,9",
-     "nota": 0.9926617227694676,
-     "partido": "Manchester City–Napoli",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/50.png",
-     "logo_v": "https://media.api-sports.io/football/teams/492.png"
-    },
-    {
-     "sel": "1635724|Home Corners Over/Under|Over 4.5",
-     "texto": "Shakhtar Donetsk: más de 4,5 córners",
-     "cuota": 1.67,
-     "p": 0.803,
-     "dato": "Shakhtar Donetsk saca 6,0 córners y el rival concede 7,5",
-     "nota": 0.9394254067089727,
-     "partido": "Shakhtar Donetsk–Fenerbahçe",
-     "hora": "2026-11-25T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/550.png",
-     "logo_v": "https://media.api-sports.io/football/teams/611.png"
     },
     {
      "sel": "1552830|Home Player Shots|Raphael Le Guen - 1",
@@ -2468,8 +2377,59 @@
      "logo_v": "https://media.api-sports.io/football/teams/114.png"
     }
    ],
-   "cuota": 3.9,
-   "prob": 0.588
+   "cuota": 26.89,
+   "prob": 0.467
+  },
+  {
+   "clave": "segura",
+   "titulo": "🛡️ La segura",
+   "expl": "Las 3 patas más probables de todo",
+   "liga": "Varias",
+   "patas": [
+    {
+     "sel": "1635611|Player Fouls Committed|Gabriel Magalhaes - 1",
+     "texto": "Gabriel Magalhaes: comete 1+ falta",
+     "cuota": 1.53,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,00 por 90' (1-1-0-2-1-1)",
+     "nota": 0.9060000000000001,
+     "equipo": "Arsenal",
+     "lado": "L",
+     "partido": "Arsenal–Borussia Dortmund",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/42.png",
+     "logo_v": "https://media.api-sports.io/football/teams/165.png"
+    },
+    {
+     "sel": "1635724|Home Corners Over/Under|Over 4.5",
+     "texto": "Shakhtar Donetsk: más de 4,5 córners",
+     "cuota": 1.67,
+     "p": 0.803,
+     "dato": "Shakhtar Donetsk saca 6,0 córners y el rival concede 7,5",
+     "nota": 0.9394254067089727,
+     "partido": "Shakhtar Donetsk–Fenerbahçe",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/550.png",
+     "logo_v": "https://media.api-sports.io/football/teams/611.png"
+    },
+    {
+     "sel": "1635735|To Win Either Half|Home",
+     "texto": "Sporting CP gana alguna de las dos partes",
+     "cuota": 1.67,
+     "p": 0.802,
+     "dato": "Sporting CP: VVDDE en sus últimos 5",
+     "nota": 0.9367786270306523,
+     "partido": "Sporting CP–Manchester United",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/228.png",
+     "logo_v": "https://media.api-sports.io/football/teams/33.png"
+    }
+   ],
+   "cuota": 4.27,
+   "prob": 0.515
   },
   {
    "clave": "ganan",
@@ -2723,17 +2683,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
     },
     {
-     "sel": "1635735|To Win Either Half|Home",
-     "texto": "Sporting CP gana alguna de las dos partes",
-     "cuota": 1.67,
-     "p": 0.802,
-     "dato": "Sporting CP: VVDDE en sus últimos 5",
-     "nota": 0.9367786270306523,
-     "partido": "Sporting CP–Manchester United",
-     "hora": "2026-11-25T21:00",
+     "sel": "1635715|Player Fouls Committed|Dean Huijsen - 1",
+     "texto": "Dean Huijsen: comete 1+ falta",
+     "cuota": 1.62,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,67 por 90' (2-2-3-1-2-0)",
+     "nota": 0.9240000000000002,
+     "equipo": "Real Madrid",
+     "lado": "L",
+     "partido": "Real Madrid–PSV Eindhoven",
+     "hora": "2026-11-24T21:00",
      "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/228.png",
-     "logo_v": "https://media.api-sports.io/football/teams/33.png"
+     "logo_l": "https://media.api-sports.io/football/teams/541.png",
+     "logo_v": "https://media.api-sports.io/football/teams/197.png"
     },
     {
      "sel": "1636298|Total - Away|Over 0.5",
@@ -2764,8 +2726,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/49.png"
     }
    ],
-   "cuota": 7.55,
-   "prob": 0.409
+   "cuota": 7.32,
+   "prob": 0.408
   },
   {
    "clave": "faltas",
@@ -2774,14 +2736,14 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1635715|Player Fouls Committed|Dean Huijsen - 1",
-     "texto": "Dean Huijsen: comete 1+ falta",
-     "cuota": 1.62,
+     "sel": "1635715|Player Fouls Committed|Mauro Junior - 1",
+     "texto": "Mauro Junior: comete 1+ falta",
+     "cuota": 1.4,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,67 por 90' (2-2-3-1-2-0)",
-     "nota": 0.9240000000000002,
-     "equipo": "Real Madrid",
-     "lado": "L",
+     "dato": "cumple 5/6 siendo titular · 0,94 por 90' (1-1-1-1-0-1)",
+     "nota": 0.84,
+     "equipo": "PSV Eindhoven",
+     "lado": "V",
      "partido": "Real Madrid–PSV Eindhoven",
      "hora": "2026-11-24T21:00",
      "liga": "Champions League",
@@ -2789,12 +2751,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/197.png"
     },
     {
-     "sel": "1635611|Player Fouls Committed|Gabriel Magalhaes - 1",
-     "texto": "Gabriel Magalhaes: comete 1+ falta",
-     "cuota": 1.53,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,00 por 90' (1-1-0-2-1-1)",
-     "nota": 0.9060000000000001,
+     "sel": "1635611|Player Fouls Committed|Myles Lewis-Skelly - 1",
+     "texto": "Myles Lewis-Skelly: comete 1+ falta",
+     "cuota": 1.4,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,99 por 90' (1-0-5-1-1)",
+     "nota": 0.7792857142857144,
      "equipo": "Arsenal",
      "lado": "L",
      "partido": "Arsenal–Borussia Dortmund",
@@ -2849,8 +2811,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/33.png"
     }
    ],
-   "cuota": 8.43,
-   "prob": 0.328
+   "cuota": 6.67,
+   "prob": 0.313
   },
   {
    "clave": "remates",
@@ -3158,21 +3120,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/116.png"
     },
     {
-     "sel": "1635715|Player Fouls Committed|Mauro Junior - 1",
-     "texto": "Mauro Junior: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 0,94 por 90' (1-1-1-1-0-1)",
-     "nota": 0.84,
-     "equipo": "PSV Eindhoven",
-     "lado": "V",
-     "partido": "Real Madrid–PSV Eindhoven",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/541.png",
-     "logo_v": "https://media.api-sports.io/football/teams/197.png"
-    },
-    {
      "sel": "1635731|Goalkeeper Saves|Alvaro Valles - 2",
      "texto": "Alvaro Valles: 2+ paradas",
      "cuota": 1.5,
@@ -3263,6 +3210,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/759.png"
     },
     {
+     "sel": "1636315|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte",
+     "cuota": 1.67,
+     "p": 0.714,
+     "dato": "2,5 goles de media en las segundas partes de los dos",
+     "nota": 0.7756890983279378,
+     "partido": "Plzen–Benfica",
+     "hora": "2026-11-26T18:45",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/567.png",
+     "logo_v": "https://media.api-sports.io/football/teams/211.png"
+    },
+    {
      "sel": "1575237|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte",
      "cuota": 1.67,
@@ -3291,8 +3251,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/114.png"
     }
    ],
-   "cuota": 54.38,
-   "prob": 0.083
+   "cuota": 64.87,
+   "prob": 0.074
   }
  ],
  "otras_ligas": false,
