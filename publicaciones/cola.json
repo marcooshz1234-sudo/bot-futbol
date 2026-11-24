@@ -686,5 +686,39 @@
     "requiere_ok": true,
     "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano.",
     "caducada": "cancelado"
+  },
+  {
+    "id": "2026-11-24-pick-claude-4",
+    "fecha": "2026-11-24T17:00",
+    "origen": "claude",
+    "solo_en": [
+      "telegram"
+    ],
+    "cuotas": [
+      1.73
+    ],
+    "partido_id": 1635611,
+    "sel": [
+      "1635611|Away Player Shots Total|Over 8.5"
+    ],
+    "nota": "Claude 24/11 15:50 · Marcos: «¿subirías algo más?» → «sí»",
+    "texto": "Vamos con otro pick 🍀\n\n⭐ Arsenal – Borussia Dortmund · hoy 21:00\n\n🍀 Dortmund: más de 8,5 remates @1,73\n\n👨‍💻 Ha superado la línea en sus últimos 8 partidos (10-22-18-12-12-15-19-15)\n👨‍💻 Hace 15,4 remates de media por partido\n👨‍💻 Ni en su peor partido bajó de 10\n\n🧠 Stake 2/10\n\n🔞 Juega con cabeza"
+  },
+  {
+    "id": "2026-11-24-pick-claude-5",
+    "fecha": "2026-11-24T19:00",
+    "origen": "claude",
+    "solo_en": [
+      "telegram"
+    ],
+    "cuotas": [
+      1.53
+    ],
+    "partido_id": 1635715,
+    "sel": [
+      "1635715|Both Teams Score|Yes"
+    ],
+    "nota": "Claude 24/11 15:50 · Marcos: «¿subirías algo más?» → «sí»",
+    "texto": "Otro que nos gusta para la noche 🔥\n\n⭐ Real Madrid – PSV · hoy 21:00\n\n🍀 Ambos marcan @1,53\n\n👨‍💻 Han marcado los dos en el 75 % de los partidos del Madrid en casa y en el 78 % de los del PSV fuera\n👨‍💻 El PSV marca 2,7 goles por partido fuera de casa\n👨‍💻 El Madrid marca 3,1 por partido en casa\n\n🧠 Stake 2/10\n\n🔞 Juega con cabeza"
   }
 ]
