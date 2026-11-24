@@ -3479,14 +3479,14 @@
   },
   "2026-11-24": {
     "dia": "2026-11-24",
-    "total": 7,
+    "total": 8,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 7,
+      "pendiente": 8,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 7
+      "sin_resolver": 8
     },
     "combis": [
       {
@@ -3530,13 +3530,19 @@
         "titulo": "🧨 COMBI x224 🧨",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-24-loca-th-0700-lista-corners",
+        "titulo": "🚩 CÓRNERS DEL DÍA 🚩",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 35
+      "total": 41
     },
-    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x63,23 🎰 · 63,23 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 4,40 · pendiente\n⏳ 🧨 COMBI x38,99 🧨 · 38,99 · pendiente\n⏳ 🕵️ LA DE LOS TAPADOS 🕵️ · 21,42 · pendiente\n⏳ 🧨 COMBI x224 🧨 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 7 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x63,23 🎰 · 63,23 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 4,40 · pendiente\n⏳ 🧨 COMBI x38,99 🧨 · 38,99 · pendiente\n⏳ 🕵️ LA DE LOS TAPADOS 🕵️ · 21,42 · pendiente\n⏳ 🧨 COMBI x224 🧨 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 8 sin resolver"
   }
 }
