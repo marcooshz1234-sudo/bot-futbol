@@ -1036,7 +1036,9 @@
       "telegram"
     ],
     "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar.",
-    "nota": "25/11 00:06 Marcos: «el resumen de Telegram de hoy tampoco se sube solo» → publicado y, desde hoy, automático"
+    "nota": "25/11 00:06 Marcos: «el resumen de Telegram de hoy tampoco se sube solo» → publicado y, desde hoy, automático",
+    "enviado": "2026-11-25T00:08",
+    "mensaje_id": 618
   },
   {
     "id": "2026-11-25-pick-claude-1",
