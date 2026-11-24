@@ -13032,12 +13032,12 @@
       "1635715|Away Corners Over/Under|Over 2.5"
     ],
     "cuotas": [
+      2.62,
       2.38,
+      1.62,
       2.2,
-      1.73,
-      2.35,
-      1.57,
-      1.73,
+      1.5,
+      1.62,
       1.57
     ],
     "solo_en": [
@@ -13049,7 +13049,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-24T10:02"
   },
   {
     "id": "2026-11-24-lista-europa-1",
