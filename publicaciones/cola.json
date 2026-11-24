@@ -1010,5 +1010,17 @@
       "threads": "18132024124868265",
       "threads_enlace": "18138978316738097"
     }
+  },
+  {
+    "id": "2026-11-24-rojo-auto-2026-11-24-pick-seguro-5",
+    "fecha": "2026-11-24T23:14",
+    "texto": "Hoy no ha podido ser ❌\n\n❌ Como marca en las dos partes (Como – AEK Athens FC 1–0)\n\nAquí se marcan también los fallos. Mañana volvemos con todo 💪",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "resultado": "rojo",
+    "rojo_de": "2026-11-24-pick-seguro-5",
+    "requiere_ok": true,
+    "sin_instagram": true
   }
 ]
