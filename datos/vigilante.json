@@ -147,7 +147,10 @@
   "prensa-1635728-17791f3a": "2026-11-24T00:42",
   "prensa-1635728-ab80c38a": "2026-11-24T00:42",
   "estrella-2026-11-25-ganadores-champions-MOlise": "2026-11-24T00:42",
-  "prensa-1635728-LamineYamal": "2026-11-24T00:52"
+  "prensa-1635728-LamineYamal": "2026-11-24T00:52",
+  "repe-2026-11-24-1635715|Player Fouls Committed|Kodai Sano - 1": "2026-11-24T01:11",
+  "repe-2026-11-24-1635692|Away Player Shots|Scott McTominay - 2": "2026-11-24T01:11",
+  "prensa-1635731-a82e6af6": "2026-11-24T01:11"
  },
  "abiertos": [
   {
@@ -164,42 +167,38 @@
   },
   {
    "clave": "repe-2026-11-24-1635692|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-extra-city, estrella-1635692, loca-th-noche-2100-x100)"
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-extra-city, loca-th-noche-2100-x100, estrella-1635692)"
   },
   {
    "clave": "repe-2026-11-24-1635663|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-extra-feyenoord, loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-24-1635713|Home Player Shots|Ridle Baku - 2",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (combi-partido-1635713, loca-th-noche-2300-hora, loca-th-0030-x100)"
-  },
-  {
-   "clave": "repe-2026-11-24-1635663|Total - Away|Over 1.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0600-x500)"
-  },
-  {
    "clave": "repe-2026-11-24-1635731|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-24-1635663|To Win Either Half|Away",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0030-x100, loca-th-0300-x50)"
   },
   {
    "clave": "repe-2026-11-24-1635611|Total - Away|Over 0.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-1130-x100)"
   },
   {
+   "clave": "repe-2026-11-24-1635663|Total - Away|Over 1.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0600-x500)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635663|To Win Either Half|Away",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0030-x100, loca-th-0300-x50)"
+  },
+  {
    "clave": "repe-2026-11-24-1635692|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1400-x50)"
   },
   {
-   "clave": "repe-2026-11-24-1635715|Both Teams Score|Yes",
+   "clave": "repe-2026-11-24-1635713|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
   },
   {
-   "clave": "repe-2026-11-24-1635713|Both Teams Score|Yes",
+   "clave": "repe-2026-11-24-1635715|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
   },
   {
@@ -215,6 +214,18 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-0030-x100, loca-th-0600-x500)"
   },
   {
+   "clave": "repe-2026-11-24-1635715|Player Fouls Committed|Kodai Sano - 1",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-hora, combi-tres, estrella-1635715)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635692|Away Player Shots|Scott McTominay - 2",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-hora, combi-tres, estrella-1635692)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635713|Home Player Shots|Ridle Baku - 2",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-hora, loca-th-0030-x100, combi-partido-1635713)"
+  },
+  {
    "clave": "repe-2026-11-24-1635611|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0030-x100, loca-th-0300-x50, loca-th-1400-x50)"
   },
@@ -227,20 +238,20 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0500-tapados, loca-th-1130-x100, loca-th-1600-x500)"
   },
   {
-   "clave": "repe-2026-11-24-1635641|Total - Away|Over 1.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1830-x1000)"
-  },
-  {
-   "clave": "repe-2026-11-24-1635641|Anytime Goal Scorer|Jens Hauge",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1600-x500)"
-  },
-  {
    "clave": "repe-2026-11-24-1635649|Results/Both Teams Score|Home/Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1400-x50)"
   },
   {
    "clave": "repe-2026-11-24-1635663|Match Winner|Away",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1130-x100)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635641|Total - Away|Over 1.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1830-x1000)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635641|Anytime Goal Scorer|Jens Hauge",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1600-x500)"
   },
   {
    "clave": "repe-2026-11-24-1635715|Away Corners Over/Under|Over 2.5",
@@ -252,23 +263,38 @@
   },
   {
    "clave": "prensa-1635641-10690e46",
-   "t": "📰 Bodo/Glimt–Lask Linz: «Bodø/Glimt-Lask Linz: el Bodø/Glimt llega con tres bajas» (Tu Futbolero) · tenemos 11 post(s) de este partido: escalera, lista-europa-1, lista-europa-2, loca-th-0200-duelo, loca-th-0500-tapados, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-reto, loca-th-1130-x100, loca-th-1600-x500, loca-th-1830-x1000"
+   "t": "📰 Bodo/Glimt–Lask Linz: «Bodø/Glimt-Lask Linz: el Bodø/Glimt llega con tres bajas» (Tu Futbolero) · tenemos 11 post(s) de este partido: loca-th-0200-duelo, loca-th-0500-tapados, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-reto, escalera, loca-th-1130-x100, lista-europa-1, lista-europa-2, loca-th-1600-x500, loca-th-1830-x1000"
   },
   {
    "clave": "prensa-1635641-c9519c65",
-   "t": "📰 Bodo/Glimt–Lask Linz: «Andrés Andrade sufre lesión de ligamentos en el tobillo, infirmó LASK Linz» (RPC TV) · tenemos 11 post(s) de este partido: escalera, lista-europa-1, lista-europa-2, loca-th-0200-duelo, loca-th-0500-tapados, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-reto, loca-th-1130-x100, loca-th-1600-x500, loca-th-1830-x1000"
+   "t": "📰 Bodo/Glimt–Lask Linz: «Andrés Andrade sufre lesión de ligamentos en el tobillo, infirmó LASK Linz» (RPC TV) · tenemos 11 post(s) de este partido: loca-th-0200-duelo, loca-th-0500-tapados, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-reto, escalera, loca-th-1130-x100, lista-europa-1, lista-europa-2, loca-th-1600-x500, loca-th-1830-x1000"
   },
   {
-   "clave": "prensa-1635731-0093ac47",
-   "t": "📰 Slovan Bratislava–Real Betis: «Alineación probable del Betis ante el Slovan Bratislava: Lo Celso, baja de última hora» (Andalucía Información) · tenemos 4 post(s) de este partido: lista-europa-1, pick-seguro-2, loca-th-0300-x50, loca-th-1400-x50"
+   "clave": "prensa-1635731-a82e6af6",
+   "t": "📰 Slovan Bratislava–Real Betis: «Giovani Lo Celso, baja confirmada para el Slovan Bratislava-Real Betis» (Howl.Link) · tenemos 3 post(s) de este partido: loca-th-0300-x50, lista-europa-1, loca-th-1400-x50"
   },
   {
    "clave": "prensa-1635667-LamineYamal",
    "t": "📰 Galatasaray–Aston Villa: «Lamine Yamal lidera las bajas del Barça para viajar a Bakú» (Notimérica) · tenemos 4 post(s) de este partido: loca-th-0800-reto, loca-th-1130-x100, loca-th-1400-x50, loca-th-1830-x1000"
   }
  ],
- "revisado": "2026-11-24T01:02",
+ "revisado": "2026-11-24T01:11",
  "historial": [
+  {
+   "hora": "2026-11-24T01:11",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-hora, combi-tres, estrella-1635715)",
+   "k": "repe-2026-11-24-1635715|Player Fouls Committed|Kodai Sano - 1"
+  },
+  {
+   "hora": "2026-11-24T01:11",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-hora, combi-tres, estrella-1635692)",
+   "k": "repe-2026-11-24-1635692|Away Player Shots|Scott McTominay - 2"
+  },
+  {
+   "hora": "2026-11-24T01:11",
+   "t": "📰 Slovan Bratislava–Real Betis: «Giovani Lo Celso, baja confirmada para el Slovan Bratislava-Real Betis» (Howl.Link) · tenemos 3 post(s) de este partido: loca-th-0300-x50, lista-europa-1, loca-th-1400-x50",
+   "k": "prensa-1635731-a82e6af6"
+  },
   {
    "hora": "2026-11-24T00:52",
    "t": "📰 Slavia Praha–Villarreal: «Parte médico de Lamine Yamal y tiempo de baja confirmado» (El Desmarque) · tenemos 1 post(s) de este partido: ganadores-champions",
@@ -553,21 +579,6 @@
    "hora": "2026-11-22T20:23",
    "t": "🔧 El paso «redes» del bot ha fallado 3 veces en la última hora",
    "k": "bucle-redes-2026112220"
-  },
-  {
-   "hora": "2026-11-22T20:12",
-   "t": "🖼️ Sale a las 20:17 y su foto no está hecha (o es vieja): Vamos con otro pick 🍀",
-   "k": "foto-2026-11-22-noche-atalanta"
-  },
-  {
-   "hora": "2026-11-22T20:12",
-   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick 🍀",
-   "k": "cuotas-2026-11-22-noche-atalanta"
-  },
-  {
-   "hora": "2026-11-22T20:12",
-   "t": "🖼️ Sale a las 20:27 y su foto no está hecha (o es vieja): Cerramos el domingo con este 🔥",
-   "k": "foto-2026-11-22-noche-atleti"
   }
  ]
 }
