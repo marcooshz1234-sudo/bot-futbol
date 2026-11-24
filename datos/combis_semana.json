@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-24",
- "generado": "2026-11-24T22:10+01:00",
+ "generado": "2026-11-24T22:40+01:00",
  "rango": [
   "2026-11-24",
   "2026-11-27"
@@ -565,18 +565,6 @@
      "hora": "2026-11-25T21:00"
     },
     {
-     "sel": "1635703|Home Player Shots|Achraf Hakimi - 2",
-     "texto": "Achraf Hakimi: 2+ remates",
-     "cuota": 1.57,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 2,22 por 90' (1-2-2-2-3)",
-     "nota": 0.8502500000000002,
-     "equipo": "Paris Saint Germain",
-     "lado": "L",
-     "partido": "Paris Saint Germain–AS Roma",
-     "hora": "2026-11-25T21:00"
-    },
-    {
      "sel": "1635703|Home Player Shots|Ferran Torres - 3",
      "texto": "Ferran Torres: 3+ remates",
      "cuota": 1.4,
@@ -599,7 +587,7 @@
      "hora": "2026-11-25T21:00"
     }
    ],
-   "cuota": 4.78
+   "cuota": 3.04
   },
   {
    "equipo": "AS Roma",
