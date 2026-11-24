@@ -792,5 +792,25 @@
     "cuota_calculada": true,
     "rehecho_bajas": true,
     "forzar": false
+  },
+  {
+    "id": "2026-11-24-combi-tip-2",
+    "fecha": "2026-11-24T20:06",
+    "texto": "Vamos con una combinada cortita 👇\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🍀 RB Leipzig marca 2 o más @1,25\n🍀 Gana el Como @1,25\n\n📈 Cuota @1,56",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": true,
+    "sel": [
+      "1635713|Total - Home|Over 1.5",
+      "1635649|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.25,
+      1.25
+    ],
+    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "caducada": "combi: en Telegram solo picks sueltos (Marcos 20/11)"
   }
 ]

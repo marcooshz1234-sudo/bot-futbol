@@ -19,7 +19,7 @@
    "prob_cuota": 6.561
   },
   "Tipster Pérez": {
-   "n": 13,
+   "n": 15,
    "verdes": 4,
    "rojos": 4,
    "nulos": 0,
@@ -37,7 +37,7 @@
    "prob_cuota": 7.076
   },
   "TRADER FOOTBALL || FREE👨🏼‍💻": {
-   "n": 12,
+   "n": 13,
    "verdes": 7,
    "rojos": 2,
    "nulos": 0,
@@ -99,6 +99,15 @@
    "resueltos_con_cuota": 3,
    "prob_cuota": 1.69
   },
+  "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️": {
+   "n": 5,
+   "verdes": 2,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.74,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.48
+  },
   "CRIMINALPICKS": {
    "n": 4,
    "verdes": 0,
@@ -115,15 +124,6 @@
    "resueltos_con_cuota": 3,
    "prob_cuota": 2.238
   },
-  "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️": {
-   "n": 4,
-   "verdes": 2,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.74,
-   "resueltos_con_cuota": 2,
-   "prob_cuota": 1.48
-  },
   "ENZO TIPSTER🇦🇷": {
    "n": 4,
    "verdes": 1,
@@ -133,6 +133,13 @@
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.009
   },
+  "ICARDI | PICKS": {
+   "n": 4,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "MERIDIANPICKS 🌐": {
    "n": 3,
    "verdes": 2,
@@ -141,6 +148,24 @@
    "unidades": 0.75,
    "resueltos_con_cuota": 3,
    "prob_cuota": 1.58
+  },
+  "OC TIPSTER": {
+   "n": 3,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 1.65,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.377
+  },
+  "ApuestasCobrich - Canal Gratuito": {
+   "n": 3,
+   "verdes": 0,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.621
   },
   "PABLO ANALISTA": {
    "n": 2,
@@ -160,15 +185,6 @@
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.426
   },
-  "ApuestasCobrich - Canal Gratuito": {
-   "n": 2,
-   "verdes": 0,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": -1.0,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.621
-  },
   "AllSportsPicks": {
    "n": 1,
    "verdes": 0,
@@ -177,20 +193,11 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.602
-  },
-  "OC TIPSTER": {
-   "n": 1,
-   "verdes": 1,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 1.65,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.377
   }
  },
  "mercado": {
   "Match Winner Home": {
-   "n": 27,
+   "n": 28,
    "verdes": 15,
    "rojos": 7,
    "nulos": 0,
@@ -243,21 +250,21 @@
    "resueltos_con_cuota": 3,
    "prob_cuota": 1.929
   },
-  "Goals Over/Under Over 3.0": {
-   "n": 5,
-   "verdes": 0,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
-  },
   "Both Teams Score Yes": {
-   "n": 5,
+   "n": 6,
    "verdes": 5,
    "rojos": 0,
    "nulos": 0,
    "unidades": 3.1,
    "resueltos_con_cuota": 4,
    "prob_cuota": 2.325
+  },
+  "Goals Over/Under Over 3.0": {
+   "n": 5,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   },
   "Total - Home Over 1.5": {
    "n": 5,
@@ -596,11 +603,74 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Goalkeeper Saves Over 5.5": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Crear apuesta Madrid gana por 2+ · más córners Madrid · Güler 2+ remates · Perisic 1+ remate · Courtois 3+ paradas · Dest, Mijnans y Sano 1+ falta": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Total - Home Over 1": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Goals Over/Under Under 4.5": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Player Shots On Target Scott McTominay Over 0.5": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Crear apuesta Kiwior 1+ falta cometida · Targhaline 1+ falta recibida": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Crear apuesta Anguissa 1+ falta cometida · Anderson 1+ falta recibida": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Crear apuesta Thauvin 1+ falta cometida · Banzuzi 1+ falta recibida": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Crear apuesta Geertruida 1+ falta cometida · Mbappé 1+ falta recibida": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "equipo": {
   "—": {
-   "n": 86,
+   "n": 96,
    "verdes": 37,
    "rojos": 13,
    "nulos": 0,
@@ -970,11 +1040,18 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.5
+  },
+  "Como": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
   "sin razón": {
-   "n": 88,
+   "n": 94,
    "verdes": 50,
    "rojos": 13,
    "nulos": 0,
@@ -983,7 +1060,7 @@
    "prob_cuota": 29.365
   },
   "goles": {
-   "n": 36,
+   "n": 40,
    "verdes": 14,
    "rojos": 10,
    "nulos": 0,
@@ -992,7 +1069,7 @@
    "prob_cuota": 16.864
   },
   "casa/fuera": {
-   "n": 31,
+   "n": 33,
    "verdes": 14,
    "rojos": 8,
    "nulos": 0,
@@ -1001,13 +1078,22 @@
    "prob_cuota": 12.086
   },
   "clasificación": {
-   "n": 13,
+   "n": 14,
    "verdes": 5,
    "rojos": 7,
    "nulos": 0,
    "unidades": -3.85,
    "resueltos_con_cuota": 9,
    "prob_cuota": 5.714
+  },
+  "racha": {
+   "n": 13,
+   "verdes": 5,
+   "rojos": 5,
+   "nulos": 0,
+   "unidades": -0.94,
+   "resueltos_con_cuota": 8,
+   "prob_cuota": 4.953
   },
   "motivación": {
    "n": 13,
@@ -1017,15 +1103,6 @@
    "unidades": 2.73,
    "resueltos_con_cuota": 9,
    "prob_cuota": 5.491
-  },
-  "racha": {
-   "n": 12,
-   "verdes": 5,
-   "rojos": 5,
-   "nulos": 0,
-   "unidades": -0.94,
-   "resueltos_con_cuota": 8,
-   "prob_cuota": 4.953
   },
   "bajas": {
    "n": 9,
@@ -1048,7 +1125,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 64,
+   "n": 66,
    "verdes": 28,
    "rojos": 16,
    "nulos": 0,
@@ -1057,7 +1134,7 @@
    "prob_cuota": 27.707
   },
   "<1,50": {
-   "n": 30,
+   "n": 34,
    "verdes": 18,
    "rojos": 5,
    "nulos": 0,
@@ -1073,7 +1150,7 @@
    "unidades": 0.0
   },
   "1,80-2,20": {
-   "n": 22,
+   "n": 26,
    "verdes": 10,
    "rojos": 4,
    "nulos": 0,
@@ -1082,7 +1159,7 @@
    "prob_cuota": 7.345
   },
   ">2,20": {
-   "n": 7,
+   "n": 8,
    "verdes": 4,
    "rojos": 2,
    "nulos": 0,
@@ -1093,7 +1170,7 @@
  },
  "liga": {
   "?": {
-   "n": 62,
+   "n": 63,
    "verdes": 25,
    "rojos": 7,
    "nulos": 0,
@@ -1109,6 +1186,13 @@
    "unidades": 9.26,
    "resueltos_con_cuota": 44,
    "prob_cuota": 28.296
+  },
+  "UEFA Champions League": {
+   "n": 12,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   },
   "UEFA Champions League Women": {
    "n": 10,
@@ -1155,13 +1239,6 @@
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.621
   },
-  "UEFA Champions League": {
-   "n": 2,
-   "verdes": 0,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
-  },
   "Serie C - Girone A": {
    "n": 1,
    "verdes": 0,
@@ -1183,7 +1260,7 @@
  },
  "lado": {
   "partido": {
-   "n": 72,
+   "n": 81,
    "verdes": 30,
    "rojos": 10,
    "nulos": 0,
@@ -1192,7 +1269,7 @@
    "prob_cuota": 21.164
   },
   "local": {
-   "n": 46,
+   "n": 48,
    "verdes": 23,
    "rojos": 13,
    "nulos": 0,
@@ -1212,7 +1289,7 @@
  },
  "por_que": {
   "—": {
-   "n": 72,
+   "n": 83,
    "verdes": 27,
    "rojos": 18,
    "nulos": 0,
@@ -1286,7 +1363,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 144,
+   "n": 153,
    "verdes": 71,
    "rojos": 28,
    "nulos": 0,
@@ -1295,7 +1372,7 @@
    "prob_cuota": 52.732
   },
   "sin valor": {
-   "n": 5,
+   "n": 7,
    "verdes": 3,
    "rojos": 2,
    "nulos": 0,

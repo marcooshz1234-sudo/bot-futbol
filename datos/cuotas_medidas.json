@@ -6669,5 +6669,27 @@
     0.97
    ]
   ]
+ },
+ {
+  "id": "2026-11-25-loca-th-noche-2200-duelo",
+  "fecha": "2026-11-24T22:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1635673|Home Player Shots|Nicolo Barella - 2",
+   "1635673|Away Player Shots|Ermedin Demirovic - 2"
+  ],
+  "cuotas": [
+   2.1,
+   1.44
+  ],
+  "real": 3.08,
+  "multiplicando": 3.024,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
  }
 ]

@@ -3967,7 +3967,12 @@
    "Dos equipos que llegan bastante al área: tiros a puerta repartidos en ambos lados",
    "Con seis paradas sumando los dos porteros basta, una línea asequible en Champions"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1635713,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "prob_cuota": 0.649
+  }
  },
  {
   "tipster": "OC TIPSTER",
@@ -3987,7 +3992,12 @@
    "El PSV dispara bastante a puerta, lo que da trabajo a Courtois, y sus mediocentros y laterales suelen cometer faltas",
    "Güler y Perisic vienen cumpliendo con frecuencia sus líneas de remates"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1635715,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "prob_cuota": 0.091
+  }
  },
  {
   "tipster": "Tipster Pérez",
@@ -4006,7 +4016,12 @@
    "El Como marca en casi todos sus partidos y suele llegar a dos goles",
    "AEK concede bastante: sus partidos superan los 2,5 goles con mucha frecuencia"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1635649,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "prob_cuota": 0.8
+  }
  },
  {
   "tipster": "Tipster Pérez",
@@ -4025,7 +4040,15 @@
    "Los partidos del Slovan no han pasado de 4 goles en su muestra reciente",
    "Cinco goles es una línea muy alta para un partido que el Betis suele controlar"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1635731,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "cuota_bet365": 1.36,
+   "prob_cuota": 0.735,
+   "prob_pinnacle": 0.632,
+   "valor_pinnacle": -0.14
+  }
  },
  {
   "tipster": "ApuestasCobrich - Canal Gratuito",
@@ -4043,7 +4066,12 @@
    "McTominay llega mucho desde segunda línea y es el centrocampista del Nápoles que más dispara",
    "Ante un City que tendrá el balón, el Nápoles vivirá de transiciones y él suele ser quien las finaliza"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1635692,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "prob_cuota": 0.546
+  }
  },
  {
   "tipster": "ICARDI | PICKS",
@@ -4061,7 +4089,12 @@
    "Kiwior ha cometido falta en casi todos sus últimos partidos",
    "Targhaline es de los que más faltas provoca en el Feyenoord y se cruzarán por su banda"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1635663,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "prob_cuota": 0.538
+  }
  },
  {
   "tipster": "ICARDI | PICKS",
@@ -4079,7 +4112,12 @@
    "Anguissa es el pivote que más corta con falta en el Nápoles",
    "Anderson recibe faltas con regularidad y jugará en su zona"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1635692,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "prob_cuota": 0.68
+  }
  },
  {
   "tipster": "ICARDI | PICKS",
@@ -4097,7 +4135,12 @@
    "Thauvin ha hecho falta en cuatro de sus últimos cinco partidos",
    "Banzuzi provoca faltas con frecuencia y coincidirán en el medio"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1635713,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "prob_cuota": 0.488
+  }
  },
  {
   "tipster": "ICARDI | PICKS",
@@ -4115,6 +4158,33 @@
    "Geertruida defenderá a Mbappé y suele cometer falta en casi todos los partidos",
    "Mbappé es de los que más faltas recibe y el PSV tendrá que pararle en carrera"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1635715,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "prob_cuota": 0.556
+  }
+ },
+ {
+  "tipster": "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️",
+  "fuente": "-1002181392017/15590",
+  "dia": "2026-11-24",
+  "local": "Como",
+  "visitante": "AEK Athens FC",
+  "partido_id": 1635649,
+  "texto": "Gana el Como",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.3,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "cuota_bet365": 1.25,
+   "prob_cuota": 0.769,
+   "prob_pinnacle": 0.488,
+   "valor_pinnacle": -0.365
+  }
  }
 ]
