@@ -3483,8 +3483,8 @@
     "cuentas": {
       "verde": 0,
       "rojo": 12,
-      "pendiente": 6,
-      "sin_datos": 11,
+      "pendiente": 4,
+      "sin_datos": 13,
       "no_jugo": 0,
       "sin_resolver": 17
     },
@@ -3588,7 +3588,7 @@
       {
         "id": "2026-11-24-pick-seguro-5",
         "titulo": "Como marca en las dos partes",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 1.67
       },
       {
@@ -3606,7 +3606,7 @@
       {
         "id": "2026-11-24-pick-extra-feyenoord",
         "titulo": "Ambos marcan",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 1.5
       },
       {
@@ -3669,6 +3669,6 @@
       "rojo": 9,
       "total": 82
     },
-    "texto": "📊 BALANCE DEL MARTES: 0 DE 12 EN VERDE 📊\n\n❌ 🏆 CHAMPIONS LEAGUE - GANADORES\n❌ 🎰 LA CENTENARIA x63,23 🎰 · 63,23\n❔ ⚽ AMBOS MARCAN HOY ⚽ · faltan datos\n❌ 🥊 EL DUELO DE TIROS 🥊 · 4,40\n❔ 🧨 COMBI x38,99 🧨 · 38,99 · faltan datos\n❌ 🕵️ LA DE LOS TAPADOS 🕵️ · 21,42\n❌ 🧨 COMBI x224 🧨\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 💶 RETO: DE 1€ A 736€ 💶\n❔ 🎯 COMBI DE TIROS · REAL MADRID vs PSV EINDHOVEN 🎯 · 4,81 · faltan datos\n❌ 🪜 Reto escalera · Día 1/7\n❌ 🎰 LA CENTENARIA x90,77 🎰 · 90,77\n❔ Guirassy (Dortmund): 2+ remates · 1,62 · faltan datos\n❔ Más de 1,5 goles en la 2.ª parte · 1,57 · faltan datos\n❔ Vamos con la combi del martes familia 🔥 · faltan datos\n❌ 🧨 COMBI x55,22 🧨 · 55,22\n⏳ Como marca en las dos partes · 1,67 · pendiente\n❌ 💰🚀 COMBI x309 💰🚀\n❔ Armando Obispo (PSV): comete 1+ falta · 1,53 · faltan datos\n⏳ Ambos marcan · 1,50 · pendiente\n❔ Gana el RB Leipzig · 1,38 · faltan datos\n❌ 🤑 COMBI x599 🤑\n❔ Pick para la noche 👇 · 1,40 · faltan datos\n❔ Hoy hay partidazo: Manchester City 🆚 Napoli ⭐⭐ · faltan datos\n❔ ¡Vamos a por ella! 🔥 COMBILOCAS CHAMPIONS 🔥 · faltan datos\n⏳ 🎰 COMBI POR 69,70 🎰 · 69,70 · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 3,08 · pendiente\n⏳ 🤑💸 COMBI x46,47 🤑💸 · 46,47 · pendiente\n\n✅ 0 acertadas · ❌ 12 falladas · ⏳ 17 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 12 EN VERDE 📊\n\n❌ 🏆 CHAMPIONS LEAGUE - GANADORES\n❌ 🎰 LA CENTENARIA x63,23 🎰 · 63,23\n❔ ⚽ AMBOS MARCAN HOY ⚽ · faltan datos\n❌ 🥊 EL DUELO DE TIROS 🥊 · 4,40\n❔ 🧨 COMBI x38,99 🧨 · 38,99 · faltan datos\n❌ 🕵️ LA DE LOS TAPADOS 🕵️ · 21,42\n❌ 🧨 COMBI x224 🧨\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 💶 RETO: DE 1€ A 736€ 💶\n❔ 🎯 COMBI DE TIROS · REAL MADRID vs PSV EINDHOVEN 🎯 · 4,81 · faltan datos\n❌ 🪜 Reto escalera · Día 1/7\n❌ 🎰 LA CENTENARIA x90,77 🎰 · 90,77\n❔ Guirassy (Dortmund): 2+ remates · 1,62 · faltan datos\n❔ Más de 1,5 goles en la 2.ª parte · 1,57 · faltan datos\n❔ Vamos con la combi del martes familia 🔥 · faltan datos\n❌ 🧨 COMBI x55,22 🧨 · 55,22\n❔ Como marca en las dos partes · 1,67 · faltan datos\n❌ 💰🚀 COMBI x309 💰🚀\n❔ Armando Obispo (PSV): comete 1+ falta · 1,53 · faltan datos\n❔ Ambos marcan · 1,50 · faltan datos\n❔ Gana el RB Leipzig · 1,38 · faltan datos\n❌ 🤑 COMBI x599 🤑\n❔ Pick para la noche 👇 · 1,40 · faltan datos\n❔ Hoy hay partidazo: Manchester City 🆚 Napoli ⭐⭐ · faltan datos\n❔ ¡Vamos a por ella! 🔥 COMBILOCAS CHAMPIONS 🔥 · faltan datos\n⏳ 🎰 COMBI POR 69,70 🎰 · 69,70 · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 3,08 · pendiente\n⏳ 🤑💸 COMBI x46,47 🤑💸 · 46,47 · pendiente\n\n✅ 0 acertadas · ❌ 12 falladas · ⏳ 17 sin resolver"
   }
 }
