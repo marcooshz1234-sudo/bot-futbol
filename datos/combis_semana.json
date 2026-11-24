@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-24",
- "generado": "2026-11-24T23:11+01:00",
+ "generado": "2026-11-24T23:42+01:00",
  "rango": [
   "2026-11-24",
   "2026-11-27"
@@ -122,20 +122,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/489.png"
     },
     {
-     "sel": "1636231|Away Player Shots|Amankwah Forson - 1",
-     "texto": "Amankwah Forson: 1+ remate",
-     "cuota": 1.44,
-     "p": 0.88,
-     "dato": "cumple 4/4 siendo titular · 2,10 por 90' (3-2-1-1)",
-     "nota": 1.0015999999999998,
-     "equipo": "Hapoel Beer Sheva",
-     "lado": "V",
-     "partido": "Beşiktaş–Hapoel Beer Sheva",
-     "hora": "2026-11-26T18:45",
-     "logo_l": "https://media.api-sports.io/football/teams/549.png",
-     "logo_v": "https://media.api-sports.io/football/teams/563.png"
-    },
-    {
      "sel": "1636244|Player Fouls Committed|Alvaro Nunez - 1",
      "texto": "Alvaro Nunez: comete 1+ falta",
      "cuota": 1.4,
@@ -148,6 +134,20 @@
      "hora": "2026-11-26T18:45",
      "logo_l": "https://media.api-sports.io/football/teams/538.png",
      "logo_v": "https://media.api-sports.io/football/teams/35.png"
+    },
+    {
+     "sel": "1636231|Away Player Shots|Amankwah Forson - 1",
+     "texto": "Amankwah Forson: 1+ remate",
+     "cuota": 1.4,
+     "p": 0.88,
+     "dato": "cumple 4/4 siendo titular · 2,10 por 90' (3-2-1-1)",
+     "nota": 0.976,
+     "equipo": "Hapoel Beer Sheva",
+     "lado": "V",
+     "partido": "Beşiktaş–Hapoel Beer Sheva",
+     "hora": "2026-11-26T18:45",
+     "logo_l": "https://media.api-sports.io/football/teams/549.png",
+     "logo_v": "https://media.api-sports.io/football/teams/563.png"
     },
     {
      "sel": "1636329|Total - Away|Over 0.5",
@@ -198,8 +198,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/201.png"
     }
    ],
-   "cuota": 24.95,
-   "media": 0.9999221080618188,
+   "cuota": 24.25,
+   "media": 0.9962649652046759,
    "dia": "2026-11-26"
   },
   {
@@ -230,12 +230,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/667.png"
     },
     {
-     "sel": "1636395|Away Player Shots|Assad Al Hamlawi - 2",
-     "texto": "Assad Al Hamlawi: 2+ remates",
-     "cuota": 1.62,
+     "sel": "1636395|Away Player Shots|Carlos Mora - 1",
+     "texto": "Carlos Mora: 1+ remate",
+     "cuota": 1.5,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 4,19 por 90' (4-6-3-1-2-3)",
-     "nota": 0.9240000000000002,
+     "dato": "cumple 5/6 siendo titular · 0,84 por 90' (1-1-1-0-1-1)",
+     "nota": 0.9000000000000001,
      "equipo": "Universitatea Craiova",
      "lado": "V",
      "partido": "Brighton–Universitatea Craiova",
@@ -294,8 +294,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/415.png"
     }
    ],
-   "cuota": 26.69,
-   "media": 1.0713066866058187,
+   "cuota": 24.71,
+   "media": 1.0678781151772474,
    "dia": "2026-11-26"
   }
  ],
@@ -492,10 +492,10 @@
     {
      "sel": "1635682|Home Player Shots|Ayase Ueda - 3",
      "texto": "Ayase Ueda: 3+ remates",
-     "cuota": 1.73,
+     "cuota": 1.62,
      "p": 0.764,
      "dato": "cumple 4/5 siendo titular · 3,38 por 90' (3-4-1-3-4)",
-     "nota": 0.8793928571428572,
+     "nota": 0.8593571428571429,
      "equipo": "Lille",
      "lado": "L",
      "partido": "Lille–Bayern München",
@@ -504,15 +504,15 @@
     {
      "sel": "1635682|Total - Home|Over 0.5",
      "texto": "Lille marca",
-     "cuota": 1.44,
+     "cuota": 1.4,
      "p": 0.797,
      "dato": "marca 1,4 por partido y el rival encaja 1,1",
-     "nota": 0.8584058747002363,
+     "nota": 0.8344709226688383,
      "partido": "Lille–Bayern München",
      "hora": "2026-11-25T21:00"
     }
    ],
-   "cuota": 2.49
+   "cuota": 2.27
   },
   {
    "equipo": "Bayern München",
@@ -565,18 +565,6 @@
      "hora": "2026-11-25T21:00"
     },
     {
-     "sel": "1635703|Home Player Shots|Ferran Torres - 3",
-     "texto": "Ferran Torres: 3+ remates",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 3,59 por 90' (1-3-4-3-4-3)",
-     "nota": 0.84,
-     "equipo": "Paris Saint Germain",
-     "lado": "L",
-     "partido": "Paris Saint Germain–AS Roma",
-     "hora": "2026-11-25T21:00"
-    },
-    {
      "sel": "1635703|Match Winner|Home",
      "texto": "Gana Paris Saint Germain",
      "cuota": 1.42,
@@ -587,7 +575,7 @@
      "hora": "2026-11-25T21:00"
     }
    ],
-   "cuota": 3.04
+   "cuota": 2.17
   },
   {
    "equipo": "AS Roma",
@@ -685,10 +673,10 @@
     {
      "sel": "1635625|Player Fouls Committed|Robin Le Normand - 1",
      "texto": "Robin Le Normand: comete 1+ falta",
-     "cuota": 1.62,
+     "cuota": 1.44,
      "p": 0.8,
      "dato": "cumple 5/6 siendo titular · 1,45 por 90' (1-1-0-1-3-2)",
-     "nota": 0.9240000000000002,
+     "nota": 0.864,
      "equipo": "Atletico Madrid",
      "lado": "L",
      "partido": "Atletico Madrid–Viking",
@@ -729,7 +717,7 @@
      "hora": "2026-11-25T21:00"
     }
    ],
-   "cuota": 7.35
+   "cuota": 6.53
   },
   {
    "equipo": "Viking",
@@ -753,10 +741,10 @@
     {
      "sel": "1635625|Away Player Shots Total|Over 7.5",
      "texto": "Viking: más de 7,5 remates",
-     "cuota": 1.8,
+     "cuota": 1.73,
      "p": 0.75,
      "dato": "ha superado la línea en 5 de sus últimos 6 (6-13-9-8-10-21)",
-     "nota": 0.865,
+     "nota": 0.8527499999999999,
      "lado": "V",
      "partido": "Atletico Madrid–Viking",
      "hora": "2026-11-25T21:00"
@@ -772,7 +760,7 @@
      "hora": "2026-11-25T21:00"
     }
    ],
-   "cuota": 5.39
+   "cuota": 5.18
   },
   {
    "equipo": "Shakhtar Donetsk",
@@ -806,15 +794,15 @@
     {
      "sel": "1635724|Double Chance|Home/Draw",
      "texto": "Shakhtar Donetsk o empate",
-     "cuota": 1.44,
+     "cuota": 1.5,
      "p": 0.785,
      "dato": "Shakhtar Donetsk: DV en sus últimos 5",
-     "nota": 0.838550246108612,
+     "nota": 0.8741063550523669,
      "partido": "Shakhtar Donetsk–Fenerbahçe",
      "hora": "2026-11-25T21:00"
     }
    ],
-   "cuota": 4.02
+   "cuota": 4.18
   },
   {
    "equipo": "Fenerbahçe",
@@ -965,10 +953,10 @@
     {
      "sel": "1636231|Away Player Shots|Amankwah Forson - 1",
      "texto": "Amankwah Forson: 1+ remate",
-     "cuota": 1.44,
+     "cuota": 1.4,
      "p": 0.88,
      "dato": "cumple 4/4 siendo titular · 2,10 por 90' (3-2-1-1)",
-     "nota": 1.0015999999999998,
+     "nota": 0.976,
      "equipo": "Hapoel Beer Sheva",
      "lado": "V",
      "partido": "Beşiktaş–Hapoel Beer Sheva",
@@ -985,7 +973,7 @@
      "hora": "2026-11-26T18:45"
     }
    ],
-   "cuota": 2.49
+   "cuota": 2.42
   },
   {
    "equipo": "Real Sociedad",
@@ -1040,15 +1028,15 @@
     {
      "sel": "1636336|Double Chance|Draw/Away",
      "texto": "AZ Alkmaar o empate",
-     "cuota": 1.44,
+     "cuota": 1.4,
      "p": 0.763,
      "dato": "AZ Alkmaar: VDVED en sus últimos 5",
-     "nota": 0.7997163102684931,
+     "nota": 0.7764637950328129,
      "partido": "Sparta Praha–AZ Alkmaar",
      "hora": "2026-11-26T21:00"
     }
    ],
-   "cuota": 2.59
+   "cuota": 2.52
   },
   {
    "equipo": "Celje",
@@ -1111,40 +1099,6 @@
    "cuota": 2.34
   },
   {
-   "equipo": "Universitatea Craiova",
-   "liga": "Conference League",
-   "partido": "Brighton–Universitatea Craiova",
-   "hora": "2026-11-26T18:45",
-   "logo": "https://media.api-sports.io/football/teams/632.png",
-   "patas": [
-    {
-     "sel": "1636395|Away Player Shots|Assad Al Hamlawi - 2",
-     "texto": "Assad Al Hamlawi: 2+ remates",
-     "cuota": 1.62,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 4,19 por 90' (4-6-3-1-2-3)",
-     "nota": 0.9240000000000002,
-     "equipo": "Universitatea Craiova",
-     "lado": "V",
-     "partido": "Brighton–Universitatea Craiova",
-     "hora": "2026-11-26T18:45"
-    },
-    {
-     "sel": "1636395|Away Player Shots|Carlos Mora - 1",
-     "texto": "Carlos Mora: 1+ remate",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 0,84 por 90' (1-1-1-0-1-1)",
-     "nota": 0.9000000000000001,
-     "equipo": "Universitatea Craiova",
-     "lado": "V",
-     "partido": "Brighton–Universitatea Craiova",
-     "hora": "2026-11-26T18:45"
-    }
-   ],
-   "cuota": 2.43
-  },
-  {
    "equipo": "Brann",
    "liga": "Conference League",
    "partido": "Brann–Aarhus",
@@ -1194,15 +1148,15 @@
     {
      "sel": "1636386|Total - Home|Over 0.5",
      "texto": "Borac Banja Luka marca",
-     "cuota": 1.44,
+     "cuota": 1.5,
      "p": 0.916,
      "dato": "marca 2,0 por partido y el rival encaja 1,6",
-     "nota": 1.0636945275398402,
+     "nota": 1.1031775716248373,
      "partido": "Borac Banja Luka–Atalanta",
      "hora": "2026-11-26T21:00"
     }
    ],
-   "cuota": 2.59
+   "cuota": 2.7
   }
  ],
  "destacadas": [
@@ -1326,10 +1280,10 @@
     {
      "sel": "1635625|Away Player Shots Total|Over 7.5",
      "texto": "Viking: más de 7,5 remates",
-     "cuota": 1.8,
+     "cuota": 1.73,
      "p": 0.75,
      "dato": "ha superado la línea en 5 de sus últimos 6 (6-13-9-8-10-21)",
-     "nota": 0.865,
+     "nota": 0.8527499999999999,
      "lado": "V",
      "partido": "Atletico Madrid–Viking",
      "hora": "2026-11-25T21:00",
@@ -1338,20 +1292,18 @@
      "logo_v": "https://media.api-sports.io/football/teams/759.png"
     }
    ],
-   "cuota": 57.6,
+   "cuota": 55.36,
    "prob": 0.183
   },
   {
    "patas": [
     {
-     "sel": "1635728|Player Fouls Committed|Tajon Buchanan - 1",
-     "texto": "Tajon Buchanan: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.88,
-     "dato": "cumple 4/4 siendo titular · 2,05 por 90' (1-1-2-3)",
-     "nota": 1.0015999999999998,
-     "equipo": "Villarreal",
-     "lado": "V",
+     "sel": "1635728|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.5,
+     "p": 0.777,
+     "dato": "más de 2,5 goles en el 100% y el 80% de sus partidos",
+     "nota": 0.8601686734882728,
      "partido": "Slavia Praha–Villarreal",
      "hora": "2026-11-25T18:45",
      "liga": "Champions League",
@@ -1445,10 +1397,10 @@
     {
      "sel": "1635682|Total - Home|Over 0.5",
      "texto": "Lille marca",
-     "cuota": 1.44,
+     "cuota": 1.4,
      "p": 0.797,
      "dato": "marca 1,4 por partido y el rival encaja 1,1",
-     "nota": 0.8584058747002363,
+     "nota": 0.8344709226688383,
      "partido": "Lille–Bayern München",
      "hora": "2026-11-25T21:00",
      "liga": "Champions League",
@@ -1458,34 +1410,19 @@
     {
      "sel": "1635724|Double Chance|Home/Draw",
      "texto": "Shakhtar Donetsk o empate",
-     "cuota": 1.44,
+     "cuota": 1.5,
      "p": 0.785,
      "dato": "Shakhtar Donetsk: DV en sus últimos 5",
-     "nota": 0.838550246108612,
+     "nota": 0.8741063550523669,
      "partido": "Shakhtar Donetsk–Fenerbahçe",
      "hora": "2026-11-25T21:00",
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/550.png",
      "logo_v": "https://media.api-sports.io/football/teams/611.png"
-    },
-    {
-     "sel": "1635625|Player Fouls Committed|Kang-In Lee - 1",
-     "texto": "Kang-In Lee: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 2,05 por 90' (1-2-0-1-5-1)",
-     "nota": 0.84,
-     "equipo": "Atletico Madrid",
-     "lado": "L",
-     "partido": "Atletico Madrid–Viking",
-     "hora": "2026-11-25T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/530.png",
-     "logo_v": "https://media.api-sports.io/football/teams/759.png"
     }
    ],
-   "cuota": 39.82,
-   "prob": 0.157,
+   "cuota": 30.01,
+   "prob": 0.173,
    "clave": "dia-2026-11-25-a",
    "titulo": "📅 La del miércoles · A",
    "expl": "@30-40 con patas de @1,40-1,60 (la B, otra distinta)",
@@ -1494,32 +1431,34 @@
   {
    "patas": [
     {
-     "sel": "1635718|Home Player Shots|Joy-Lance Mickels - 2",
-     "texto": "Joy-Lance Mickels: 2+ remates",
+     "sel": "1635728|Player Fouls Committed|Tajon Buchanan - 1",
+     "texto": "Tajon Buchanan: comete 1+ falta",
      "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 3,30 por 90' (2-8-2-6-2-1)",
-     "nota": 0.864,
-     "equipo": "Sabah FA",
-     "lado": "L",
-     "partido": "Sabah FA–Barcelona",
-     "hora": "2026-11-25T18:45",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/13976.png",
-     "logo_v": "https://media.api-sports.io/football/teams/529.png"
-    },
-    {
-     "sel": "1635728|Goals Over/Under|Over 2.5",
-     "texto": "Más de 2,5 goles",
-     "cuota": 1.53,
-     "p": 0.777,
-     "dato": "más de 2,5 goles en el 100% y el 80% de sus partidos",
-     "nota": 0.8658272621181723,
+     "p": 0.88,
+     "dato": "cumple 4/4 siendo titular · 2,05 por 90' (1-1-2-3)",
+     "nota": 1.0015999999999998,
+     "equipo": "Villarreal",
+     "lado": "V",
      "partido": "Slavia Praha–Villarreal",
      "hora": "2026-11-25T18:45",
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/560.png",
      "logo_v": "https://media.api-sports.io/football/teams/533.png"
+    },
+    {
+     "sel": "1635718|Away Player Shots|Marc Bernal - 1",
+     "texto": "Marc Bernal: 1+ remate",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,47 por 90' (1-0-2-1-1-2)",
+     "nota": 0.9000000000000001,
+     "equipo": "Barcelona",
+     "lado": "V",
+     "partido": "Sabah FA–Barcelona",
+     "hora": "2026-11-25T18:45",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/13976.png",
+     "logo_v": "https://media.api-sports.io/football/teams/529.png"
     },
     {
      "sel": "1635642|Corners 1x2|Away",
@@ -1565,6 +1504,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/33.png"
     },
     {
+     "sel": "1635625|Player Fouls Committed|Kang-In Lee - 1",
+     "texto": "Kang-In Lee: comete 1+ falta",
+     "cuota": 1.4,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 2,05 por 90' (1-2-0-1-5-1)",
+     "nota": 0.84,
+     "equipo": "Atletico Madrid",
+     "lado": "L",
+     "partido": "Atletico Madrid–Viking",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/530.png",
+     "logo_v": "https://media.api-sports.io/football/teams/759.png"
+    },
+    {
      "sel": "1635724|Away Team Total Cards|Over 1.5",
      "texto": "Fenerbahçe ve más de 1,5 tarjetas",
      "cuota": 1.5,
@@ -1576,21 +1530,6 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/550.png",
      "logo_v": "https://media.api-sports.io/football/teams/611.png"
-    },
-    {
-     "sel": "1635625|Player Fouls Committed|Ademola Lookman - 1",
-     "texto": "Ademola Lookman: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 1,42 por 90' (2-0-2-1-1)",
-     "nota": 0.8375000000000001,
-     "equipo": "Atletico Madrid",
-     "lado": "L",
-     "partido": "Atletico Madrid–Viking",
-     "hora": "2026-11-25T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/530.png",
-     "logo_v": "https://media.api-sports.io/football/teams/759.png"
     },
     {
      "sel": "1635682|Corners 1x2|Away",
@@ -1620,57 +1559,11 @@
      "solo_todo": true
     }
    ],
-   "cuota": 33.61,
-   "prob": 0.085,
+   "cuota": 30.75,
+   "prob": 0.101,
    "clave": "dia-2026-11-25-b",
    "titulo": "📅 La del miércoles · B",
    "expl": "@30-40 con patas de @1,40-1,60 (la A, otra distinta)",
-   "liga": "Varias"
-  },
-  {
-   "patas": [
-    {
-     "sel": "1635718|Results/Both Teams Score|Away/Yes",
-     "texto": "Gana Barcelona y ambos marcan",
-     "cuota": 1.83,
-     "p": 0.418,
-     "dato": "Barcelona: VDVVV en sus últimos 5 · se esperan 1,9-2,2 goles",
-     "partido": "Sabah FA–Barcelona",
-     "hora": "2026-11-25T18:45",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/13976.png",
-     "logo_v": "https://media.api-sports.io/football/teams/529.png"
-    },
-    {
-     "sel": "1635673|Results/Both Teams Score|Home/Yes",
-     "texto": "Gana Inter y ambos marcan",
-     "cuota": 2.1,
-     "p": 0.378,
-     "dato": "Inter: VVVDV en sus últimos 5 · se esperan 2,0-1,5 goles",
-     "partido": "Inter–VfB Stuttgart",
-     "hora": "2026-11-25T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/505.png",
-     "logo_v": "https://media.api-sports.io/football/teams/172.png"
-    },
-    {
-     "sel": "1635625|Results/Both Teams Score|Home/Yes",
-     "texto": "Gana Atletico Madrid y ambos marcan",
-     "cuota": 2.5,
-     "p": 0.353,
-     "dato": "Atletico Madrid: DDVVV en sus últimos 5 · se esperan 2,2-1,1 goles",
-     "partido": "Atletico Madrid–Viking",
-     "hora": "2026-11-25T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/530.png",
-     "logo_v": "https://media.api-sports.io/football/teams/759.png"
-    }
-   ],
-   "cuota": 9.61,
-   "prob": 0.056,
-   "clave": "tema-2026-11-25-gana_btts",
-   "titulo": "⚽🏆 Gana y ambos marcan · miércoles",
-   "expl": "El favorito gana y marcan los dos · @10-15",
    "liga": "Varias"
   },
   {
@@ -1702,8 +1595,8 @@
     {
      "sel": "1635642|Both Teams Score|Yes",
      "texto": "Ambos marcan (Club Brugge KV–Liverpool)",
-     "cuota": 1.36,
-     "p": 0.684,
+     "cuota": 1.33,
+     "p": 0.692,
      "dato": "marcan los dos en el 50% y el 71% de sus partidos",
      "partido": "Club Brugge KV–Liverpool",
      "hora": "2026-11-25T21:00",
@@ -1714,8 +1607,8 @@
     {
      "sel": "1635703|Both Teams Score|Yes",
      "texto": "Ambos marcan (Paris Saint Germain–AS Roma)",
-     "cuota": 1.5,
-     "p": 0.659,
+     "cuota": 1.44,
+     "p": 0.672,
      "dato": "marcan los dos en el 67% y el 62% de sus partidos",
      "partido": "Paris Saint Germain–AS Roma",
      "hora": "2026-11-25T21:00",
@@ -1746,10 +1639,22 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/228.png",
      "logo_v": "https://media.api-sports.io/football/teams/33.png"
+    },
+    {
+     "sel": "1635682|Both Teams Score|Yes",
+     "texto": "Ambos marcan (Lille–Bayern München)",
+     "cuota": 1.62,
+     "p": 0.596,
+     "dato": "marcan los dos en el 50% y el 75% de sus partidos",
+     "partido": "Lille–Bayern München",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/79.png",
+     "logo_v": "https://media.api-sports.io/football/teams/157.png"
     }
    ],
-   "cuota": 9.59,
-   "prob": 0.075,
+   "cuota": 14.59,
+   "prob": 0.046,
    "clave": "tema-2026-11-25-btts",
    "titulo": "⚽⚽ Ambos marcan · miércoles",
    "expl": "Partidos en los que marcan los dos · @10-15",
@@ -1779,10 +1684,10 @@
     {
      "sel": "1635728|Goals Over/Under|Over 2.5",
      "texto": "Más de 2,5 goles",
-     "cuota": 1.53,
+     "cuota": 1.5,
      "p": 0.777,
      "dato": "más de 2,5 goles en el 100% y el 80% de sus partidos",
-     "nota": 0.8658272621181723,
+     "nota": 0.8601686734882728,
      "partido": "Slavia Praha–Villarreal",
      "hora": "2026-11-25T18:45",
      "liga": "Champions League",
@@ -1848,10 +1753,10 @@
     {
      "sel": "1635682|Home Player Shots|Ayase Ueda - 3",
      "texto": "Ayase Ueda: 3+ remates",
-     "cuota": 1.73,
+     "cuota": 1.62,
      "p": 0.764,
      "dato": "cumple 4/5 siendo titular · 3,38 por 90' (3-4-1-3-4)",
-     "nota": 0.8793928571428572,
+     "nota": 0.8593571428571429,
      "equipo": "Lille",
      "lado": "L",
      "partido": "Lille–Bayern München",
@@ -1888,7 +1793,7 @@
      "solo_todo": true
     }
    ],
-   "cuota": 40.94,
+   "cuota": 37.58,
    "prob": 0.094
   },
   {
@@ -1915,10 +1820,10 @@
     {
      "sel": "1635728|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte",
-     "cuota": 1.73,
+     "cuota": 1.67,
      "p": 0.733,
      "dato": "2,6 goles de media en las segundas partes de los dos",
-     "nota": 0.8203271958689622,
+     "nota": 0.8103487423161103,
      "partido": "Slavia Praha–Villarreal",
      "hora": "2026-11-25T18:45",
      "liga": "Champions League",
@@ -1956,14 +1861,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/33.png"
     },
     {
-     "sel": "1635703|Home Player Shots|Ferran Torres - 3",
-     "texto": "Ferran Torres: 3+ remates",
-     "cuota": 1.4,
+     "sel": "1635703|Away Player Shots|Paulo Dybala - 2",
+     "texto": "Paulo Dybala: 2+ remates",
+     "cuota": 1.44,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 3,59 por 90' (1-3-4-3-4-3)",
-     "nota": 0.84,
-     "equipo": "Paris Saint Germain",
-     "lado": "L",
+     "dato": "cumple 5/6 siendo titular · 3,20 por 90' (3-6-2-1-3-3)",
+     "nota": 0.864,
+     "equipo": "AS Roma",
+     "lado": "V",
      "partido": "Paris Saint Germain–AS Roma",
      "hora": "2026-11-25T21:00",
      "liga": "Champions League",
@@ -1973,10 +1878,10 @@
     {
      "sel": "1635682|Total - Home|Over 0.5",
      "texto": "Lille marca",
-     "cuota": 1.44,
+     "cuota": 1.4,
      "p": 0.797,
      "dato": "marca 1,4 por partido y el rival encaja 1,1",
-     "nota": 0.8584058747002363,
+     "nota": 0.8344709226688383,
      "partido": "Lille–Bayern München",
      "hora": "2026-11-25T21:00",
      "liga": "Champions League",
@@ -2024,7 +1929,7 @@
      "solo_todo": true
     }
    ],
-   "cuota": 54.85,
+   "cuota": 52.94,
    "prob": 0.076
   },
   {
@@ -2075,10 +1980,10 @@
     {
      "sel": "1636231|Away Player Shots|Amankwah Forson - 1",
      "texto": "Amankwah Forson: 1+ remate",
-     "cuota": 1.44,
+     "cuota": 1.4,
      "p": 0.88,
      "dato": "cumple 4/4 siendo titular · 2,10 por 90' (3-2-1-1)",
-     "nota": 1.0015999999999998,
+     "nota": 0.976,
      "equipo": "Hapoel Beer Sheva",
      "lado": "V",
      "partido": "Beşiktaş–Hapoel Beer Sheva",
@@ -2159,10 +2064,10 @@
     {
      "sel": "1636386|Total - Home|Over 0.5",
      "texto": "Borac Banja Luka marca",
-     "cuota": 1.44,
+     "cuota": 1.5,
      "p": 0.916,
      "dato": "marca 2,0 por partido y el rival encaja 1,6",
-     "nota": 1.0636945275398402,
+     "nota": 1.1031775716248373,
      "partido": "Borac Banja Luka–Atalanta",
      "hora": "2026-11-26T21:00",
      "liga": "Conference League",
@@ -2226,7 +2131,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/415.png"
     }
    ],
-   "cuota": 437.42,
+   "cuota": 442.99,
    "prob": 0.129
   },
   {
@@ -2262,10 +2167,10 @@
     {
      "sel": "1636231|Away Player Shots|Amankwah Forson - 1",
      "texto": "Amankwah Forson: 1+ remate",
-     "cuota": 1.44,
+     "cuota": 1.4,
      "p": 0.88,
      "dato": "cumple 4/4 siendo titular · 2,10 por 90' (3-2-1-1)",
-     "nota": 1.0015999999999998,
+     "nota": 0.976,
      "equipo": "Hapoel Beer Sheva",
      "lado": "V",
      "partido": "Beşiktaş–Hapoel Beer Sheva",
@@ -2333,10 +2238,10 @@
     {
      "sel": "1636386|Total - Home|Over 0.5",
      "texto": "Borac Banja Luka marca",
-     "cuota": 1.44,
+     "cuota": 1.5,
      "p": 0.916,
      "dato": "marca 2,0 por partido y el rival encaja 1,6",
-     "nota": 1.0636945275398402,
+     "nota": 1.1031775716248373,
      "partido": "Borac Banja Luka–Atalanta",
      "hora": "2026-11-26T21:00",
      "liga": "Conference League",
@@ -2357,7 +2262,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/247.png"
     }
    ],
-   "cuota": 30.29,
+   "cuota": 30.68,
    "prob": 0.245,
    "clave": "dia-2026-11-26-a",
    "titulo": "📅 La del jueves · A",
@@ -2442,10 +2347,10 @@
     {
      "sel": "1636336|Double Chance|Draw/Away",
      "texto": "AZ Alkmaar o empate",
-     "cuota": 1.44,
+     "cuota": 1.4,
      "p": 0.763,
      "dato": "AZ Alkmaar: VDVED en sus últimos 5",
-     "nota": 0.7997163102684931,
+     "nota": 0.7764637950328129,
      "partido": "Sparta Praha–AZ Alkmaar",
      "hora": "2026-11-26T21:00",
      "liga": "Europa League",
@@ -2492,7 +2397,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/94.png"
     }
    ],
-   "cuota": 36.27,
+   "cuota": 35.26,
    "prob": 0.092,
    "clave": "dia-2026-11-26-b",
    "titulo": "📅 La del jueves · B",
@@ -2516,8 +2421,8 @@
     {
      "sel": "1636315|Results/Both Teams Score|Away/Yes",
      "texto": "Gana Benfica y ambos marcan",
-     "cuota": 2.75,
-     "p": 0.358,
+     "cuota": 2.62,
+     "p": 0.367,
      "dato": "Benfica: VVVVD en sus últimos 5 · se esperan 1,5-2,4 goles",
      "partido": "Plzen–Benfica",
      "hora": "2026-11-26T18:45",
@@ -2526,20 +2431,20 @@
      "logo_v": "https://media.api-sports.io/football/teams/211.png"
     },
     {
-     "sel": "1636334|Results/Both Teams Score|Home/Yes",
-     "texto": "Gana Red Bull Salzburg y ambos marcan",
-     "cuota": 2.38,
-     "p": 0.332,
-     "dato": "Red Bull Salzburg: DVV en sus últimos 5 · se esperan 1,8-1,2 goles",
-     "partido": "Red Bull Salzburg–Ararat-Armenia",
+     "sel": "1636231|Results/Both Teams Score|Home/Yes",
+     "texto": "Gana Beşiktaş y ambos marcan",
+     "cuota": 2.5,
+     "p": 0.356,
+     "dato": "Beşiktaş: EVVVV en sus últimos 5 · se esperan 2,4-0,9 goles",
+     "partido": "Beşiktaş–Hapoel Beer Sheva",
      "hora": "2026-11-26T18:45",
      "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/571.png",
-     "logo_v": "https://media.api-sports.io/football/teams/3683.png"
+     "logo_l": "https://media.api-sports.io/football/teams/549.png",
+     "logo_v": "https://media.api-sports.io/football/teams/563.png"
     }
    ],
-   "cuota": 14.73,
-   "prob": 0.052,
+   "cuota": 14.74,
+   "prob": 0.057,
    "clave": "tema-2026-11-26-gana_btts",
    "titulo": "⚽🏆 Gana y ambos marcan · jueves",
    "expl": "El favorito gana y marcan los dos · @10-15",
@@ -2574,8 +2479,8 @@
     {
      "sel": "1636301|Both Teams Score|Yes",
      "texto": "Ambos marcan (NEC Nijmegen–Rennes)",
-     "cuota": 1.44,
-     "p": 0.717,
+     "cuota": 1.5,
+     "p": 0.704,
      "dato": "marcan los dos en el 100% y el 71% de sus partidos",
      "partido": "NEC Nijmegen–Rennes",
      "hora": "2026-11-26T21:00",
@@ -2620,8 +2525,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/548.png"
     }
    ],
-   "cuota": 11.98,
-   "prob": 0.094,
+   "cuota": 12.48,
+   "prob": 0.092,
    "clave": "tema-2026-11-26-btts",
    "titulo": "⚽⚽ Ambos marcan · jueves",
    "expl": "Partidos en los que marcan los dos · @10-15",
@@ -2675,12 +2580,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/10124.png"
     },
     {
-     "sel": "1636395|Away Player Shots|Assad Al Hamlawi - 2",
-     "texto": "Assad Al Hamlawi: 2+ remates",
-     "cuota": 1.62,
+     "sel": "1636395|Away Player Shots|Carlos Mora - 1",
+     "texto": "Carlos Mora: 1+ remate",
+     "cuota": 1.5,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 4,19 por 90' (4-6-3-1-2-3)",
-     "nota": 0.9240000000000002,
+     "dato": "cumple 5/6 siendo titular · 0,84 por 90' (1-1-1-0-1-1)",
+     "nota": 0.9000000000000001,
      "equipo": "Universitatea Craiova",
      "lado": "V",
      "partido": "Brighton–Universitatea Craiova",
@@ -2815,10 +2720,10 @@
     {
      "sel": "1636336|Double Chance|Draw/Away",
      "texto": "AZ Alkmaar o empate",
-     "cuota": 1.44,
+     "cuota": 1.4,
      "p": 0.763,
      "dato": "AZ Alkmaar: VDVED en sus últimos 5",
-     "nota": 0.7997163102684931,
+     "nota": 0.7764637950328129,
      "partido": "Sparta Praha–AZ Alkmaar",
      "hora": "2026-11-26T21:00",
      "liga": "Europa League",
@@ -2826,7 +2731,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/201.png"
     }
    ],
-   "cuota": 359.29,
+   "cuota": 323.44,
    "prob": 0.051
   },
   {
@@ -2907,10 +2812,10 @@
     {
      "sel": "1636386|Total - Home|Over 0.5",
      "texto": "Borac Banja Luka marca",
-     "cuota": 1.44,
+     "cuota": 1.5,
      "p": 0.916,
      "dato": "marca 2,0 por partido y el rival encaja 1,6",
-     "nota": 1.0636945275398402,
+     "nota": 1.1031775716248373,
      "partido": "Borac Banja Luka–Atalanta",
      "hora": "2026-11-26T21:00",
      "liga": "Conference League",
@@ -3024,7 +2929,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/94.png"
     }
    ],
-   "cuota": 687.35,
+   "cuota": 715.99,
    "prob": 0.038
   }
  ],
