@@ -21,6 +21,11 @@ class ChoquePorRed(unittest.TestCase):
              "texto": "Combinada para hoy ⚽\n\n🍀 Doble: Como más de 1 gol @1,25\n🍀 Doble: menos de 4,5 goles @1,36"}
         self.assertIn("solo picks sueltos", PT.combi_no_pedida(p))
 
+    def test_trebol_en_la_entrada_no_es_combi(self):   # «Vamos con otro pick 🍀» + «🍀 Dortmund…» es UN pick
+        p = {"id": "2026-11-24-pick-claude-4", "fecha": "2026-11-24T17:00", "sel": ["1|Away Player Shots Total|Over 8.5"],
+             "cuotas": [1.73], "texto": "Vamos con otro pick 🍀\n\n🍀 Dortmund: más de 8,5 remates @1,73"}
+        self.assertIsNone(PT.combi_no_pedida(p))
+
 
 if __name__ == "__main__":
     unittest.main()
