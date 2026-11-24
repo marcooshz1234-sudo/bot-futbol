@@ -12944,12 +12944,12 @@
       "1635715|Away Player Shots|Ivan Perisic - 2"
     ],
     "cuotas": [
+      2.5,
       2.38,
+      2.25,
       2.38,
+      2.75,
       2.2,
-      2.38,
-      2.88,
-      2.35,
       2.25,
       2.0
     ],
@@ -12962,7 +12962,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-24T06:32"
   },
   {
     "id": "2026-11-24-loca-th-0900-tiros",
