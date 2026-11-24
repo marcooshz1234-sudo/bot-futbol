@@ -15417,7 +15417,7 @@
     ],
     "cuotas": [
       2.1,
-      1.44
+      1.36
     ],
     "origen": "threads_locas",
     "cuota_bet365": 3.08,
@@ -15428,7 +15428,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-24T21:36"
   },
   {
     "id": "2026-11-25-loca-th-noche-2230-x50",
