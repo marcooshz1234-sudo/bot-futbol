@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-24",
- "generado": "2026-11-24T12:24+01:00",
+ "generado": "2026-11-24T12:56+01:00",
  "rango": [
   "2026-11-24",
   "2026-11-27"
@@ -445,18 +445,6 @@
      "hora": "2026-11-24T21:00"
     },
     {
-     "sel": "1635611|Away Player Shots|Serhou Guirassy - 2",
-     "texto": "Serhou Guirassy: 2+ remates",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 2,76 por 90' (3-5-3-1-2-2)",
-     "nota": 0.864,
-     "equipo": "Borussia Dortmund",
-     "lado": "V",
-     "partido": "Arsenal–Borussia Dortmund",
-     "hora": "2026-11-24T21:00"
-    },
-    {
      "sel": "1635611|Player Fouls Committed|Waldemar Anton - 1",
      "texto": "Waldemar Anton: comete 1+ falta",
      "cuota": 1.4,
@@ -479,7 +467,7 @@
      "hora": "2026-11-24T21:00"
     }
    ],
-   "cuota": 4.84
+   "cuota": 3.36
   },
   {
    "equipo": "RB Leipzig",
@@ -2850,21 +2838,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1635611|Away Player Shots|Serhou Guirassy - 2",
-     "texto": "Serhou Guirassy: 2+ remates",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 2,76 por 90' (3-5-3-1-2-2)",
-     "nota": 0.864,
-     "equipo": "Borussia Dortmund",
-     "lado": "V",
-     "partido": "Arsenal–Borussia Dortmund",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/42.png",
-     "logo_v": "https://media.api-sports.io/football/teams/165.png"
-    },
-    {
      "sel": "1635718|Home Player Shots|Joy-Lance Mickels - 2",
      "texto": "Joy-Lance Mickels: 2+ remates",
      "cuota": 1.44,
@@ -2878,6 +2851,21 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/13976.png",
      "logo_v": "https://media.api-sports.io/football/teams/529.png"
+    },
+    {
+     "sel": "1635703|Away Player Shots|Paulo Dybala - 2",
+     "texto": "Paulo Dybala: 2+ remates",
+     "cuota": 1.44,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 3,20 por 90' (3-6-2-1-3-3)",
+     "nota": 0.864,
+     "equipo": "AS Roma",
+     "lado": "V",
+     "partido": "Paris Saint Germain–AS Roma",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/85.png",
+     "logo_v": "https://media.api-sports.io/football/teams/497.png"
     },
     {
      "sel": "1636395|Away Player Shots|Assad Al Hamlawi - 2",
@@ -3179,14 +3167,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/116.png"
     },
     {
-     "sel": "1635703|Away Player Shots|Paulo Dybala - 2",
-     "texto": "Paulo Dybala: 2+ remates",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 3,20 por 90' (3-6-2-1-3-3)",
-     "nota": 0.864,
-     "equipo": "AS Roma",
-     "lado": "V",
+     "sel": "1635703|Home Player Shots|Achraf Hakimi - 2",
+     "texto": "Achraf Hakimi: 2+ remates",
+     "cuota": 1.57,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 2,22 por 90' (1-2-2-2-3)",
+     "nota": 0.8502500000000002,
+     "equipo": "Paris Saint Germain",
+     "lado": "L",
      "partido": "Paris Saint Germain–AS Roma",
      "hora": "2026-11-25T21:00",
      "liga": "Champions League",
@@ -3274,8 +3262,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/114.png"
     }
    ],
-   "cuota": 74.78,
-   "prob": 0.061
+   "cuota": 81.53,
+   "prob": 0.058
   }
  ],
  "otras_ligas": false,
