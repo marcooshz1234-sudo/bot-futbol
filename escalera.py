@@ -78,7 +78,7 @@ def elegir_pool_(fecha, prob_min, comb_min):
         for p in C.pool_partido(ex, hist, ap):
             k = f"{p['mercado']}|{p['opcion']}"
             if any(x in k for x in FUERA) or p["fecha"] <= limite \
-                    or p.get("estimada") or p.get("solo_con_tarjetas") or not C.fijisimo(p) \
+                    or p.get("estimada") or C.suelto_no(p) or not C.fijisimo(p) \
                     or p.get("liga_id") in pausadas or es_sin_empate(p["mercado"], p["opcion"]) \
                     or (p.get("ventaja") or 0) < MIN_VENTAJA[0] \
                     or (p.get("solo_bet365") and not p.get("favorito")):   # 08/11: en el parón, solo lo del favorito

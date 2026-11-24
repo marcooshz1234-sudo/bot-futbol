@@ -227,6 +227,26 @@ def borrados_tg():
         return set()
 
 
+GOLES_RESULTADO = ("Match Winner", "Double Chance", "Total - Home", "Total - Away", "Goals Over/Under", "Both Teams Score",
+                   "Results/Both Teams Score", "To Win Either Half", "Win Both Halves", "To Score In Both Halves By Teams",
+                   "Asian Handicap", "Draw No Bet", "Goals Over/Under First Half", "Goals Over/Under - Second Half",
+                   "Exact Score", "Win to Nil", "Clean Sheet")
+
+
+def choque_partido(p, otros):
+    """24/11: id del pick de hoy que impide sacar p: otro de goles/resultado del mismo partido si p también lo es
+    («Marsella marca 2» + «gana el Marsella»), o ya hay 2 picks de ese partido. None si puede salir."""
+    def partidos(q):
+        return {x.split("|")[0] for x in q.get("sel") or []}
+    def de_goles(q):
+        return any(x.split("|")[1] in GOLES_RESULTADO for x in q.get("sel") or [] if x.count("|") >= 2)
+    mios = partidos(p)
+    mismos = [q for q in otros if mios & partidos(q)]
+    if len(mismos) >= 2:
+        return mismos[0]["id"]
+    return next((q["id"] for q in mismos if de_goles(p) and de_goles(q)), None)
+
+
 def es_pick(p):
     return bool(p.get("sel")) and not ES_RESULTADO.search(p["id"]) and "-verde" not in p["id"]
 
@@ -408,11 +428,12 @@ def main(objetivo=None):
             print(f"Esperando la foto del partido: {p['id']}")   # 28/10 (Marcos): combi de partido SIEMPRE con foto
             continue
         if es_pick(p):   # 23/11 (Marcos: «no puede haber el mismo día "Marsella marca 2" y "gana el Marsella"»)
-            mios = {x.split("|")[0] for x in p.get("sel") or []}
+            # 24/11 (Marcos: «ajústalo»): solo se frenan dos de goles/resultado del mismo partido, o un 3.º pick del partido.
+            # Antes se frenaba cualquier 2.º pick y se perdieron Dortmund remates (12) y ambos marcan Madrid–PSV (5-1).
             dia_ = ahora.strftime("%Y-%m-%d")
-            otro = next((q["id"] for q in cola + auto if q is not p and es_pick(q) and q.get("mensaje_id")
-                         and str(q.get("enviado", ""))[:10] == dia_ and q["id"] not in borrados_tg()
-                         and mios & {x.split("|")[0] for x in q.get("sel") or []}), None)
+            hoy_q = [q for q in cola + auto if q is not p and es_pick(q) and q.get("mensaje_id")
+                     and str(q.get("enviado", ""))[:10] == dia_ and q["id"] not in borrados_tg()]
+            otro = choque_partido(p, hoy_q)
             if otro:
                 p["caducada"] = f"mismo partido que {otro}"
                 cambios += 1

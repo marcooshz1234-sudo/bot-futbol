@@ -731,9 +731,19 @@ def bajas_manuales():
     return list((leer(DATOS / "bajas_manuales.json", {}) or {}).get("jugadores") or [])
 
 
+EQUIPAZOS = ("real madrid", "barcelona", "manchester city", "arsenal", "liverpool", "bayern", "paris saint germain", "inter")
+
+
 def suelto_no(p):
-    """03/11: lo que no va solo (ambos marcan, que solo va junto a ambos ven tarjeta)."""
-    return bool(p.get("solo_con_tarjetas"))
+    """03/11: lo que no va solo (ambos marcan, que solo va junto a ambos ven tarjeta).
+    24/11 (Marcos: «lo de marcan ambas partes no me gusta nada que lo pongas en el Telegram; como mucho si hay un
+    equipazo»; se cayeron Bodø y Como): «marca en las dos partes» solo para un equipazo."""
+    if p.get("solo_con_tarjetas"):
+        return True
+    if p.get("mercado") == "To Score In Both Halves By Teams":
+        eq = (p.get("local") if str(p.get("opcion")) == "Home" else p.get("visitante")) or ""
+        return not any(g in eq.lower() for g in EQUIPAZOS)
+    return False
 
 
 def tarjetas_altas(p):
