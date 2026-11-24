@@ -11805,6 +11805,18 @@
    },
    {
     "equipo": 550,
+    "jugador": "Marlon",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 550,
+    "jugador": "G. Mendoza",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 550,
     "jugador": "Pedrinho",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
@@ -11826,12 +11838,6 @@
     "jugador": "D. Tvardovskyi",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
-   },
-   {
-    "equipo": 550,
-    "jugador": "Marlon",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
    },
    {
     "equipo": 611,
@@ -11881,7 +11887,7 @@
     "equipo": 228,
     "jugador": "Z. Debast",
     "tipo": "Missing Fixture",
-    "motivo": "Injury"
+    "motivo": "Leg Injury"
    },
    {
     "equipo": 228,
@@ -11903,9 +11909,9 @@
    },
    {
     "equipo": 33,
-    "jugador": "K. Darlow",
+    "jugador": "M. Rashford",
     "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
+    "motivo": "Hip Injury"
    },
    {
     "equipo": 33,
@@ -11918,18 +11924,6 @@
     "jugador": "M. Ugarte",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 33,
-    "jugador": "M. Rashford",
-    "tipo": "Questionable",
-    "motivo": "Hip Injury"
-   },
-   {
-    "equipo": 33,
-    "jugador": "L. Shaw",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
    }
   ],
   "1563285": [
@@ -12169,12 +12163,6 @@
    },
    {
     "equipo": 497,
-    "jugador": "D. Rensch",
-    "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 497,
     "jugador": "D. S. Vasquez Llach",
     "tipo": "Missing Fixture",
     "motivo": "Inactive"
@@ -12183,7 +12171,13 @@
     "equipo": 497,
     "jugador": "L. Balerdi",
     "tipo": "Questionable",
-    "motivo": "Injury"
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 497,
+    "jugador": "D. Rensch",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
    }
   ],
   "1563286": [
@@ -12275,8 +12269,38 @@
    },
    {
     "equipo": 759,
+    "jugador": "K. Haugen",
+    "tipo": "Missing Fixture",
+    "motivo": "Illness"
+   },
+   {
+    "equipo": 759,
     "jugador": "M. Roseth",
     "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 759,
+    "jugador": "A. Baertelsen",
+    "tipo": "Questionable",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 759,
+    "jugador": "V. Berisha",
+    "tipo": "Questionable",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 759,
+    "jugador": "P. Christiansen",
+    "tipo": "Questionable",
+    "motivo": "Illness"
+   },
+   {
+    "equipo": 759,
+    "jugador": "N. D'Agostino",
+    "tipo": "Questionable",
     "motivo": "Knee Injury"
    }
   ],
@@ -12289,15 +12313,15 @@
    },
    {
     "equipo": 505,
-    "jugador": "P. Zielinski",
+    "jugador": "H. Calhanoglu",
     "tipo": "Missing Fixture",
-    "motivo": "Foot Injury"
+    "motivo": "Muscle Injury"
    },
    {
     "equipo": 505,
-    "jugador": "H. Calhanoglu",
-    "tipo": "Questionable",
-    "motivo": "Injury"
+    "jugador": "P. Zielinski",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
    },
    {
     "equipo": 172,
@@ -12307,21 +12331,9 @@
    },
    {
     "equipo": 172,
-    "jugador": "L. Jaquez",
-    "tipo": "Missing Fixture",
-    "motivo": "Ribs Injury"
-   },
-   {
-    "equipo": 172,
     "jugador": "L. Stergiou",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
-   },
-   {
-    "equipo": 172,
-    "jugador": "A. Stiller",
-    "tipo": "Missing Fixture",
-    "motivo": "Groin Injury"
    },
    {
     "equipo": 172,
@@ -12401,15 +12413,15 @@
    },
    {
     "equipo": 79,
-    "jugador": "T. Santos",
+    "jugador": "T. Nianzou",
     "tipo": "Missing Fixture",
-    "motivo": "Knee Injury"
+    "motivo": "Leg Injury"
    },
    {
     "equipo": 79,
-    "jugador": "T. Nianzou",
-    "tipo": "Questionable",
-    "motivo": "Injury"
+    "jugador": "T. Santos",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
    },
    {
     "equipo": 157,
@@ -12437,19 +12449,25 @@
    },
    {
     "equipo": 157,
+    "jugador": "M. Olise",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 157,
     "jugador": "I. Saibari",
     "tipo": "Missing Fixture",
     "motivo": "Ankle Injury"
    },
    {
     "equipo": 157,
-    "jugador": "M. Olise",
-    "tipo": "Questionable",
-    "motivo": "Leg Injury"
+    "jugador": "B. Sapoko Ndiaye",
+    "tipo": "Missing Fixture",
+    "motivo": "Abdominal strain"
    }
   ]
  },
- "ultima": "2026-11-24T20:54:42.163670+01:00",
+ "ultima": "2026-11-24T21:26:37.147103+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
