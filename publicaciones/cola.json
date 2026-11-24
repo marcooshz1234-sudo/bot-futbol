@@ -758,8 +758,28 @@
     "aviso": "⚠️ El bot no puede seguir esta copia (es un «Crear apuesta» de varias condiciones): si sale, su verde y el resumen van a mano."
   },
   {
+    "id": "2026-11-24-combi-tip-2",
+    "fecha": "2026-11-24T20:06",
+    "texto": "Vamos con una combinada cortita 👇\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🍀 RB Leipzig marca 2 o más @1,25\n🍀 Gana el Como @1,25\n\n📈 Cuota @1,56",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": true,
+    "sel": [
+      "1635713|Total - Home|Over 1.5",
+      "1635649|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.25,
+      1.25
+    ],
+    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "caducada": "combi: en Telegram solo picks sueltos (Marcos 20/11)"
+  },
+  {
     "id": "2026-11-24-combi-partido-1635713",
-    "fecha": "2026-11-24T20:25",
+    "fecha": "2026-11-24T20:31",
     "texto": "Os dejo la combi del RB Leipzig – Lens ⭐🔥\n🍿 Para darle emoción al día, con calma en el stake\n\n🍀 Gana el RB Leipzig\n🍀 Ridle Baku: 2+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Florian Thauvin comete 1+ faltas\n\n📈 Cuota @5,32 aprox.\n\n🔔 Activad las notificaciones 👀",
     "foto": null,
     "origen": "analista",
@@ -791,26 +811,89 @@
     "cuota_total": 5.32,
     "cuota_calculada": true,
     "rehecho_bajas": true,
-    "forzar": false
+    "forzar": false,
+    "alineacion_ok": true
   },
   {
-    "id": "2026-11-24-combi-tip-2",
-    "fecha": "2026-11-24T20:06",
-    "texto": "Vamos con una combinada cortita 👇\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🍀 RB Leipzig marca 2 o más @1,25\n🍀 Gana el Como @1,25\n\n📈 Cuota @1,56",
+    "id": "2026-11-24-estrella-1635692",
+    "fecha": "2026-11-24T20:31",
+    "texto": "Hoy hay partidazo: Manchester City 🆚 Napoli ⭐⭐\n🎢 Cuota grande, stake pequeño 🤏\n\nVamos con la combi del partido estrella (21:00) 🔥\n\n🍀 Elliot Anderson comete 1+ faltas\n🍀 Scott McTominay: 2+ tiros\n🍀 Matteo Politano: 1+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Napoli marca\n\n📈 Cuota @4,30 aprox.\n\n🔔 Activad las notificaciones 👀",
     "foto": null,
-    "origen": "tipster",
+    "origen": "analista",
     "directo": true,
-    "forzar": true,
-    "tipster_bueno": true,
     "sel": [
-      "1635713|Total - Home|Over 1.5",
-      "1635649|Match Winner|Home"
+      "1635692|Player Fouls Committed|Elliot Anderson - 1",
+      "1635692|Away Player Shots|Scott McTominay - 2",
+      "1635692|Away Player Shots|Matteo Politano - 1",
+      "1635692|Goals Over/Under - Second Half|Over 1.5",
+      "1635692|Total - Away|Over 0.5"
     ],
     "cuotas": [
       1.25,
-      1.25
+      1.44,
+      1.25,
+      1.53,
+      1.5
     ],
-    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
-    "caducada": "combi: en Telegram solo picks sueltos (Marcos 20/11)"
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Manchester City",
+      "visitante": "Napoli",
+      "id_l": 50,
+      "id_v": 492,
+      "logo_l": "https://media.api-sports.io/football/teams/50.png",
+      "logo_v": "https://media.api-sports.io/football/teams/492.png",
+      "fecha": "2026-11-24T21:00",
+      "liga": "Champions"
+    },
+    "solo_redes": true,
+    "cuota_total": 4.3,
+    "cuota_calculada": true,
+    "rehecho_bajas": true,
+    "forzar": false,
+    "alineacion_ok": true,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "ya-publicado",
+      "instagram": "ya-publicado"
+    }
+  },
+  {
+    "id": "2026-11-24-estrella-1635715",
+    "fecha": "2026-11-24T20:31",
+    "texto": "Hoy hay partidazo: Real Madrid 🆚 PSV Eindhoven ⭐⭐\n🎢 Cuota grande, stake pequeño 🤏\n\nVamos con la combi del partido estrella (21:00) 🔥\n\n🍀 Sven Mijnans: 2+ tiros\n🍀 Kodai Sano comete 1+ faltas\n🍀 Lutsharel Geertruida comete 1+ faltas\n🍀 Arda Guler: 2+ tiros\n🍀 PSV Eindhoven marca\n\n📈 Cuota @6,25 aprox.\n\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1635715|Away Player Shots|Sven Mijnans - 2",
+      "1635715|Player Fouls Committed|Kodai Sano - 1",
+      "1635715|Player Fouls Committed|Lutsharel Geertruida - 1",
+      "1635715|Home Player Shots|Arda Guler - 2",
+      "1635715|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.44,
+      1.36,
+      1.53,
+      1.3,
+      1.53
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Real Madrid",
+      "visitante": "PSV Eindhoven",
+      "id_l": 541,
+      "id_v": 197,
+      "logo_l": "https://media.api-sports.io/football/teams/541.png",
+      "logo_v": "https://media.api-sports.io/football/teams/197.png",
+      "fecha": "2026-11-24T21:00",
+      "liga": "Champions"
+    },
+    "solo_redes": true,
+    "cuota_total": 5.86,
+    "cuota_calculada": true,
+    "cuotas_revisadas": "2026-11-24T19:00",
+    "alineacion_ok": true
   }
 ]
