@@ -13135,11 +13135,11 @@
       "1635731|Home Player Shots|Andraz Sporar - 2"
     ],
     "cuotas": [
-      2.88,
-      1.95,
+      3.1,
+      1.8,
       2.38,
-      1.7,
-      1.5,
+      1.62,
+      1.36,
       1.62
     ],
     "solo_en": [
@@ -13151,7 +13151,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-24T12:35"
   },
   {
     "id": "2026-11-24-pick-seguro-5",

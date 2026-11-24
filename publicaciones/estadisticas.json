@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24 12:25",
+ "actualizado": "2026-11-24 12:35",
  "redes": {
   "instagram": {
    "seguidores": 55,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3770,
-   "hoy": 28,
+   "seguidores": 3771,
+   "hoy": 29,
    "serie": [
     3215,
     3230,
@@ -24,7 +24,7 @@
     3475,
     3714,
     3742,
-    3770
+    3771
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 509,
-   "hoy": 3,
+   "seguidores": 510,
+   "hoy": 4,
    "serie": [
     479,
     485,
@@ -50,17 +50,17 @@
     496,
     506,
     506,
-    509
+    510
    ]
   }
  },
- "total": 4335,
- "total_hoy": 32,
+ "total": 4337,
+ "total_hoy": 34,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "12:30",
+  "hora": "13:30",
   "dia": "2026-11-24",
-  "titulo": "Vamos con otro pick"
+  "titulo": "Vamos con otro pick, familia"
  },
  "ayer": {
   "aciertos": 2,
@@ -264,19 +264,19 @@
   },
   "2026-11-24": {
    "instagram": 55,
-   "threads": 3770,
+   "threads": 3771,
    "facebook": 1,
-   "telegram": 509
+   "telegram": 510
   }
  },
  "tipos_instagram": {
   "Otros (reel)": {
-   "posts": 46,
+   "posts": 47,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
-   "posts": 5,
+   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
