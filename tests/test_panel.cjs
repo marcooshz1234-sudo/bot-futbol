@@ -116,12 +116,14 @@ assert.ok(!vm.runInContext('vBot()',context).includes('start=retry_'));
     {clave:'dia-2026-11-22-b', titulo:'📅 La del domingo · B', expl:'', cuota:32, patas:[pa('Getafe–Atletico Madrid','Getafe marca','2026-11-22T21:00')]},
     {clave:'dia-2026-11-22-a', titulo:'📅 La del domingo · A', expl:'', cuota:33, patas:[pa('Hull City–Brighton','Belloumi falta','2026-11-22T15:00')]},
     {clave:'todo-2026-11-22', titulo:'📅 Todo el domingo', expl:'', cuota:200, patas:[pa('Hull City–Brighton','Belloumi falta','2026-11-22T15:00')]},
+    {clave:'tema-2026-11-22-btts', titulo:'⚽⚽ Ambos marcan · domingo', expl:'', cuota:12, patas:[pa('Hull City–Brighton','Ambos marcan','2026-11-22T15:00')]},
   ])}}; sub.combis='destacadas'; buscaCombi='';`, context);
   const l = vm.runInContext('combisLista()', context);
   const i = s => l.indexOf(s);
   // 24/11 (Marcos: «si no son así largas no me gustan, y no mezcles tantos días»): solo el bloque del día
   assert.ok(i('📅 Por día') > -1 && i('🎯 Por tipo') === -1 && i('🚀 Largas') === -1);
   assert.ok(i('Todo el domingo') < i('La del domingo · A'));                                 // dentro del día: Todo, A, B
+  assert.ok(i('La del domingo · A') < i('Ambos marcan · domingo'));                          // 24/11: y luego las de tema
   assert.ok(i('Domingo 22') > -1);
   assert.ok(!l.includes('Bretones falta'));                                                  // plegadas al entrar
   vm.runInContext(`buscaCombi='osasuna'`, context);

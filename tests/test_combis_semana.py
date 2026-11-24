@@ -171,3 +171,28 @@ class EstiloTipster24Nov(unittest.TestCase):
         self.assertEqual(CS.familia({"sel": "1|Player Fouls Committed|X - 1", "texto": "X: comete 1+ falta"}), "faltas")
         self.assertEqual(CS.familia({"sel": "1|Away Player Shots Total|Over 8.5", "texto": "D: más de 8,5 remates"}), "remates equipo")
         self.assertEqual(CS.familia({"sel": "1|Goalkeeper Saves|D - 2", "texto": "D: 2+ paradas"}), "paradas")
+
+
+class CombisDeTema(unittest.TestCase):
+    """24/11 (Marcos: «gana y ambos marcan de 3-4 partidos, ambos marcan… de entre 10 y 15, sin pasarse de partidos»)."""
+    def test_de_10_a_15(self):
+        ps = []
+        for i in range(8):
+            p = partido(i, f"{12 + i}:00")
+            p["stats_local_casa"] = {"gf": 2.0, "gc": 1.5, "btts": "75%"}
+            p["stats_visitante_fuera"] = {"gf": 1.6, "gc": 1.8, "btts": "70%"}
+            p["cuotas_bet365"] = {"Both Teams Score": [["Yes", "1.55"]]}
+            ps.append(p)
+        with mock.patch.object(CS, "_teams", lambda pid: {}):
+            c = CS.combi_tema(ps, "btts")
+        self.assertTrue(c and 9.5 <= c["cuota"] <= 15)
+        self.assertEqual(len({x["sel"].split("|")[0] for x in c["patas"]}), len(c["patas"]))   # un partido por pata
+        self.assertLessEqual(len(c["patas"]), 7)
+
+    def test_sin_bastante_no_sale(self):
+        p = partido(1, "12:00")
+        p["stats_local_casa"] = {"gf": 2.0, "gc": 1.5}
+        p["stats_visitante_fuera"] = {"gf": 1.6, "gc": 1.8}
+        p["cuotas_bet365"] = {"Both Teams Score": [["Yes", "1.55"]]}
+        with mock.patch.object(CS, "_teams", lambda pid: {}):
+            self.assertIsNone(CS.combi_tema([p], "btts"))

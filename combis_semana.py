@@ -611,6 +611,13 @@ def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_de
                     "prob": round(prob, 3)})
         if clave.startswith("todo-"):
             out += dos.get(clave[5:], [])
+            d = clave[5:]
+            wd = datetime.fromisoformat(d).weekday()
+            for tema, tit, expl_ in TEMAS:   # 24/11: las de tema del día, de @10-15
+                ct = combi_tema([p for p, _ in pool if _dia(p) == d], tema)
+                if ct:
+                    out.append(dict(ct, clave=f"tema-{d}-{tema}", titulo=f"{tit} · {DIAS_ES[wd]}",
+                                    expl=f"{expl_} · @{TEMA_CUOTA[0]}-{TEMA_CUOTA[1]}", liga="Varias"))
     return out
 
 
@@ -630,6 +637,93 @@ def familia(x):
     if "Cards" in m:
         return "tarjetas"
     return "goles/resultado"
+
+
+TEMA_CUOTA = (10, 15)   # 24/11 (Marcos): combis de tema «de entre 10 y 15», sin pasarse de partidos
+
+
+def patas_tema(p):
+    """24/11 (Marcos: «una de 3 o 4 partidos de ambos marcan y el que gane, otra de ambos marcan, otra de tarjetas…»):
+    las patas de cada tema de un partido: {'gana_btts': [...], 'btts': [...], 'tarjetas': [...]}."""
+    import math
+    c = p.get("cuotas_bet365") or {}
+    sl = p.get("stats_local_casa") or p.get("stats_local") or {}
+    sv = p.get("stats_visitante_fuera") or p.get("stats_visitante") or {}
+    f = lambda d, k: _num(d.get(k)) or 0.0
+    g = lambda m, o: next((_num(v) for n_, v in c.get(m, []) if n_ == o), None)
+    L, V, pid = p["local"], p["visitante"], p["id"]
+    lam_l, lam_v = (f(sl, "gf") + f(sv, "gc")) / 2, (f(sv, "gf") + f(sl, "gc")) / 2
+    out = {"gana_btts": [], "btts": [], "tarjetas": []}
+    if lam_l and lam_v:
+        P = lambda la, k: math.exp(-la) * la ** k / math.factorial(k)
+        gl = sum(P(lam_l, i) * P(lam_v, j) for i in range(1, 10) for j in range(1, 10) if i > j)
+        gv = sum(P(lam_l, i) * P(lam_v, j) for i in range(1, 10) for j in range(1, 10) if j > i)
+        for eq, pr, o, s_ in ((L, gl, "Home/Yes", sl), (V, gv, "Away/Yes", sv)):
+            cu = g("Results/Both Teams Score", o)
+            pr = (pr + 0.94 / cu) / 2 if cu else pr   # nuestro cálculo mezclado con lo que dice la casa
+            if cu and 1.70 <= cu <= 3.20 and pr >= 0.33:
+                out["gana_btts"].append({"sel": f"{pid}|Results/Both Teams Score|{o}", "texto": f"Gana {eq} y ambos marcan",
+                                         "cuota": cu, "p": round(pr, 3),
+                                         "dato": f"{eq}: {s_.get('forma', '')} en sus últimos 5 · se esperan {coma(lam_l, 1)}-{coma(lam_v, 1)} goles"})
+        pb = (1 - math.exp(-lam_l)) * (1 - math.exp(-lam_v))
+        a, b = _pct(sl.get("btts")), _pct(sv.get("btts"))
+        if a and b:
+            pb = (pb + (a + b) / 200) / 2
+        cu = g("Both Teams Score", "Yes")
+        pb = (pb + 0.94 / cu) / 2 if cu else pb
+        if cu and cu <= 1.90 and pb >= 0.58:
+            out["btts"].append({"sel": f"{pid}|Both Teams Score|Yes", "texto": f"Ambos marcan ({L}–{V})", "cuota": cu, "p": round(pb, 3),
+                                "dato": f"marcan los dos en el {a}% y el {b}% de sus partidos" if a and b else "los dos marcan con facilidad"})
+    for eq, s_, r, m in ((L, sl, sv, "Home Team Total Cards"), (V, sv, sl, "Away Team Total Cards")):
+        lam = (f(s_, "amarillas") + f(r, "amarillas_c")) / 2
+        cu = g(m, "Over 1.5")
+        pr = poisson_al_menos(lam, 2) if lam else 0
+        pr = (pr + 0.94 / cu) / 2 if cu and lam else 0
+        if cu and cu <= 1.90 and pr >= 0.58:
+            out["tarjetas"].append({"sel": f"{pid}|{m}|Over 1.5", "texto": f"{eq} ve 2 o más tarjetas", "cuota": cu, "p": round(pr, 3),
+                                    "dato": f"{coma(lam, 1)} tarjetas de media para {eq} en este cruce"})
+    lam_t = sum((f(a_, "amarillas") + f(b_, "amarillas_c")) / 2 for a_, b_ in ((sl, sv), (sv, sl)))
+    for o, cu in c.get("Cards Over/Under", []):
+        mm = re.match(r"Over (\d)\.5$", str(o))
+        if mm and lam_t:
+            pr, cu = poisson_al_menos(lam_t, int(mm.group(1)) + 1), _num(cu)
+            pr = (pr + 0.94 / cu) / 2 if cu else 0
+            if cu and 1.30 <= cu <= 1.90 and pr >= 0.58:
+                out["tarjetas"].append({"sel": f"{pid}|Cards Over/Under|{o}", "texto": f"Más de {mm.group(1)},5 tarjetas ({L}–{V})",
+                                        "cuota": cu, "p": round(pr, 3), "dato": f"{coma(lam_t, 1)} tarjetas de media entre los dos"})
+    return out
+
+
+TEMAS = (("gana_btts", "⚽🏆 Gana y ambos marcan", "El favorito gana y marcan los dos"),
+         ("btts", "⚽⚽ Ambos marcan", "Partidos en los que marcan los dos"),
+         ("tarjetas", "🟨 Tarjetas", "Equipos y partidos con tarjetas"))
+
+
+def combi_tema(partidos_dia, tema):
+    """La mejor pata del tema en cada partido, de la más probable a la menos, hasta llegar a @10-15."""
+    lo, hi = TEMA_CUOTA
+    mejores = []
+    for p in partidos_dia:
+        xs = patas_tema(p)[tema]
+        if xs:
+            ini = datetime.fromisoformat(p["fecha"]).astimezone(MADRID)
+            t = _teams(p["id"])
+            mejores.append(dict(max(xs, key=lambda x: x["p"]), partido=f"{p['local']}–{p['visitante']}",
+                                hora=ini.strftime("%Y-%m-%dT%H:%M"), liga=p["competicion"],
+                                logo_l=(t.get("home") or {}).get("logo"), logo_v=(t.get("away") or {}).get("logo")))
+    patas, tot = [], 1.0
+    for x in sorted(mejores, key=lambda x: -x["p"]):
+        if tot >= lo:
+            break
+        if tot * x["cuota"] <= hi:
+            patas.append(x)
+            tot *= x["cuota"]
+    if tot < lo * 0.95 or len(patas) < 3:   # @9,5 ya vale
+        return None
+    prob = 1.0
+    for x in patas:
+        prob *= x["p"]
+    return {"patas": sorted(patas, key=lambda x: x["hora"]), "cuota": round(tot, 2), "prob": round(prob, 3)}
 
 
 DOS_DIA_CUOTA = (30, 40)       # 22/11 (Marcos): las dos del día, de @30 a @40…

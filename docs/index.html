@@ -184,11 +184,11 @@ async function cargar(){
 let buscaCombi = "";
 const sinTildes = s => String(s||"").normalize("NFD").replace(/[̀-ͯ]/g,"").toLowerCase();
 const COMBI_BLOQUES = [   // 24/11 (Marcos: «si no son así largas no me gustan, y no mezcles tantos días»): solo las del día, largas
-  ["dia",   "📅 Por día",  "Cada día lo suyo: una con todos los partidos, dos de @30-40 (A y B) y los favoritos"]];
+  ["dia",   "📅 Por día",  "Cada día lo suyo: una con todos los partidos, dos de @30-40 (A y B) y las de tema de @10-15"]];
 const COMBI_TIPO = ["segura","ganan","ganan-larga","top","faltas","remates","goles","corners","tarjetas"];
-function bloqueCombi(c){ return /^(todo|dia|ganan)-\d{4}/.test(c.clave) ? "dia" : COMBI_TIPO.includes(c.clave) ? "tipo" : "larga" }
-function ordenCombi(c){ const m = String(c.clave).match(/^(todo|dia|ganan)-(\d{4}-\d{2}-\d{2})(?:-([ab]))?/);
-  return m ? m[2] + ({"todo":"0","ganan":"3"}[m[1]] || (m[3]==="a"?"1":"2")) : String(COMBI_TIPO.indexOf(c.clave)+100).padStart(4,"0") + c.clave }
+function bloqueCombi(c){ return /^(todo|dia|ganan|tema)-\d{4}/.test(c.clave) ? "dia" : COMBI_TIPO.includes(c.clave) ? "tipo" : "larga" }
+function ordenCombi(c){ const m = String(c.clave).match(/^(todo|dia|ganan|tema)-(\d{4}-\d{2}-\d{2})(?:-([ab]|[a-z_]+))?/);
+  return m ? m[2] + ({"todo":"0","ganan":"3"}[m[1]] || (m[1]==="tema" ? "4"+m[3] : m[3]==="a"?"1":"2")) : String(COMBI_TIPO.indexOf(c.clave)+100).padStart(4,"0") + c.clave }
 function combiCasa(c, q){ if(!q) return true;
   return sinTildes([c.titulo, c.liga, c.equipo, c.partido, ...(c.patas||[]).map(x => [x.partido, x.texto, x.equipo, x.liga].join(" "))].join(" ")).includes(q) }
 function combiAbierta(k, def){ let m={}; try{m=JSON.parse(guardado("combis_abiertas")||"{}")}catch(e){} return k in m ? m[k] : def }
@@ -233,7 +233,7 @@ function combisLista(){
       h += titulo(`${t} <span style="font-weight:400;font-size:12px">· ${e}</span>`);
       let dia = "";
       cs.forEach(c => {
-        const m = String(c.clave).match(/^(?:todo|dia|ganan)-(\d{4}-\d{2}-\d{2})/);
+        const m = String(c.clave).match(/^(?:todo|dia|ganan|tema)-(\d{4}-\d{2}-\d{2})/);
         if(m && m[1] !== dia){ dia = m[1]; const f = new Date(dia+"T12:00"); h += `<div style="margin:10px 4px 4px;font-weight:700">${DIAS_L[f.getDay()]} ${+dia.slice(8)}</div>` }
         const sub_ = [`${c.patas.length} patas`, c.prob ? `sale ${Math.round(c.prob*100)}%` : "", horas(c.patas)].filter(Boolean).join(" · ");
         h += tarjeta("dest:"+c.clave, `<div><b>${esc(c.titulo)}</b><div class="mut" style="font-size:12px">${sub_}</div><div class="mut" style="font-size:11px">${esc(c.expl)}</div></div>`, c.cuota, c.patas.map((x,k) => pata(x,k,true)).join(""));

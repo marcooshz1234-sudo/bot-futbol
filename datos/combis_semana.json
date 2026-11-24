@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-24",
- "generado": "2026-11-24T14:00+01:00",
+ "generado": "2026-11-24T14:05+01:00",
  "rango": [
   "2026-11-24",
   "2026-11-27"
@@ -1786,6 +1786,52 @@
    "liga": "Varias"
   },
   {
+   "patas": [
+    {
+     "sel": "1635715|Results/Both Teams Score|Home/Yes",
+     "texto": "Gana Real Madrid y ambos marcan",
+     "cuota": 1.91,
+     "p": 0.414,
+     "dato": "Real Madrid: VVVVV en sus últimos 5 · se esperan 2,2-1,7 goles",
+     "partido": "Real Madrid–PSV Eindhoven",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/541.png",
+     "logo_v": "https://media.api-sports.io/football/teams/197.png"
+    },
+    {
+     "sel": "1635713|Results/Both Teams Score|Home/Yes",
+     "texto": "Gana RB Leipzig y ambos marcan",
+     "cuota": 2.25,
+     "p": 0.413,
+     "dato": "RB Leipzig: VDVVV en sus últimos 5 · se esperan 2,8-1,1 goles",
+     "partido": "RB Leipzig–Lens",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/173.png",
+     "logo_v": "https://media.api-sports.io/football/teams/116.png"
+    },
+    {
+     "sel": "1635692|Results/Both Teams Score|Home/Yes",
+     "texto": "Gana Manchester City y ambos marcan",
+     "cuota": 2.3,
+     "p": 0.377,
+     "dato": "Manchester City: EDEVV en sus últimos 5 · se esperan 2,2-1,4 goles",
+     "partido": "Manchester City–Napoli",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/50.png",
+     "logo_v": "https://media.api-sports.io/football/teams/492.png"
+    }
+   ],
+   "cuota": 9.88,
+   "prob": 0.064,
+   "clave": "tema-2026-11-24-gana_btts",
+   "titulo": "⚽🏆 Gana y ambos marcan · martes",
+   "expl": "El favorito gana y marcan los dos · @10-15",
+   "liga": "Varias"
+  },
+  {
    "clave": "todo-2026-11-25",
    "titulo": "📅 Todo el miércoles",
    "expl": "Una pata de cada partido del miércoles 25",
@@ -2186,6 +2232,134 @@
    "clave": "dia-2026-11-25-b",
    "titulo": "📅 La del miércoles · B",
    "expl": "@30-40 con patas de @1,40-1,60 (la A, otra distinta)",
+   "liga": "Varias"
+  },
+  {
+   "patas": [
+    {
+     "sel": "1635718|Results/Both Teams Score|Away/Yes",
+     "texto": "Gana Barcelona y ambos marcan",
+     "cuota": 1.83,
+     "p": 0.418,
+     "dato": "Barcelona: VDVVV en sus últimos 5 · se esperan 1,9-2,2 goles",
+     "partido": "Sabah FA–Barcelona",
+     "hora": "2026-11-25T18:45",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/13976.png",
+     "logo_v": "https://media.api-sports.io/football/teams/529.png"
+    },
+    {
+     "sel": "1635673|Results/Both Teams Score|Home/Yes",
+     "texto": "Gana Inter y ambos marcan",
+     "cuota": 2.1,
+     "p": 0.378,
+     "dato": "Inter: VVVDV en sus últimos 5 · se esperan 2,0-1,5 goles",
+     "partido": "Inter–VfB Stuttgart",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/505.png",
+     "logo_v": "https://media.api-sports.io/football/teams/172.png"
+    },
+    {
+     "sel": "1635625|Results/Both Teams Score|Home/Yes",
+     "texto": "Gana Atletico Madrid y ambos marcan",
+     "cuota": 2.5,
+     "p": 0.353,
+     "dato": "Atletico Madrid: DDVVV en sus últimos 5 · se esperan 2,2-1,1 goles",
+     "partido": "Atletico Madrid–Viking",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/530.png",
+     "logo_v": "https://media.api-sports.io/football/teams/759.png"
+    }
+   ],
+   "cuota": 9.61,
+   "prob": 0.056,
+   "clave": "tema-2026-11-25-gana_btts",
+   "titulo": "⚽🏆 Gana y ambos marcan · miércoles",
+   "expl": "El favorito gana y marcan los dos · @10-15",
+   "liga": "Varias"
+  },
+  {
+   "patas": [
+    {
+     "sel": "1635728|Both Teams Score|Yes",
+     "texto": "Ambos marcan (Slavia Praha–Villarreal)",
+     "cuota": 1.44,
+     "p": 0.721,
+     "dato": "marcan los dos en el 100% y el 70% de sus partidos",
+     "partido": "Slavia Praha–Villarreal",
+     "hora": "2026-11-25T18:45",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/560.png",
+     "logo_v": "https://media.api-sports.io/football/teams/533.png"
+    },
+    {
+     "sel": "1635718|Both Teams Score|Yes",
+     "texto": "Ambos marcan (Sabah FA–Barcelona)",
+     "cuota": 1.62,
+     "p": 0.616,
+     "dato": "marcan los dos en el 33% y el 75% de sus partidos",
+     "partido": "Sabah FA–Barcelona",
+     "hora": "2026-11-25T18:45",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/13976.png",
+     "logo_v": "https://media.api-sports.io/football/teams/529.png"
+    },
+    {
+     "sel": "1635642|Both Teams Score|Yes",
+     "texto": "Ambos marcan (Club Brugge KV–Liverpool)",
+     "cuota": 1.36,
+     "p": 0.684,
+     "dato": "marcan los dos en el 50% y el 71% de sus partidos",
+     "partido": "Club Brugge KV–Liverpool",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/569.png",
+     "logo_v": "https://media.api-sports.io/football/teams/40.png"
+    },
+    {
+     "sel": "1635703|Both Teams Score|Yes",
+     "texto": "Ambos marcan (Paris Saint Germain–AS Roma)",
+     "cuota": 1.5,
+     "p": 0.659,
+     "dato": "marcan los dos en el 67% y el 62% de sus partidos",
+     "partido": "Paris Saint Germain–AS Roma",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/85.png",
+     "logo_v": "https://media.api-sports.io/football/teams/497.png"
+    },
+    {
+     "sel": "1635673|Both Teams Score|Yes",
+     "texto": "Ambos marcan (Inter–VfB Stuttgart)",
+     "cuota": 1.4,
+     "p": 0.619,
+     "dato": "marcan los dos en el 62% y el 30% de sus partidos",
+     "partido": "Inter–VfB Stuttgart",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/505.png",
+     "logo_v": "https://media.api-sports.io/football/teams/172.png"
+    },
+    {
+     "sel": "1635735|Both Teams Score|Yes",
+     "texto": "Ambos marcan (Sporting CP–Manchester United)",
+     "cuota": 1.44,
+     "p": 0.608,
+     "dato": "marcan los dos en el 67% y el 50% de sus partidos",
+     "partido": "Sporting CP–Manchester United",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/228.png",
+     "logo_v": "https://media.api-sports.io/football/teams/33.png"
+    }
+   ],
+   "cuota": 9.59,
+   "prob": 0.075,
+   "clave": "tema-2026-11-25-btts",
+   "titulo": "⚽⚽ Ambos marcan · miércoles",
+   "expl": "Partidos en los que marcan los dos · @10-15",
    "liga": "Varias"
   },
   {
@@ -2658,6 +2832,88 @@
    "clave": "dia-2026-11-26-b",
    "titulo": "📅 La del jueves · B",
    "expl": "@30-40 con patas de @1,40-1,60 (la A, otra distinta)",
+   "liga": "Varias"
+  },
+  {
+   "patas": [
+    {
+     "sel": "1636315|Both Teams Score|Yes",
+     "texto": "Ambos marcan (Plzen–Benfica)",
+     "cuota": 1.57,
+     "p": 0.644,
+     "dato": "marcan los dos en el 67% y el 67% de sus partidos",
+     "partido": "Plzen–Benfica",
+     "hora": "2026-11-26T18:45",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/567.png",
+     "logo_v": "https://media.api-sports.io/football/teams/211.png"
+    },
+    {
+     "sel": "1636255|Both Teams Score|Yes",
+     "texto": "Ambos marcan (Dinamo Zagreb–Bayer Leverkusen)",
+     "cuota": 1.5,
+     "p": 0.641,
+     "dato": "marcan los dos en el 60% y el 50% de sus partidos",
+     "partido": "Dinamo Zagreb–Bayer Leverkusen",
+     "hora": "2026-11-26T18:45",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/620.png",
+     "logo_v": "https://media.api-sports.io/football/teams/168.png"
+    },
+    {
+     "sel": "1636301|Both Teams Score|Yes",
+     "texto": "Ambos marcan (NEC Nijmegen–Rennes)",
+     "cuota": 1.44,
+     "p": 0.717,
+     "dato": "marcan los dos en el 100% y el 71% de sus partidos",
+     "partido": "NEC Nijmegen–Rennes",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/413.png",
+     "logo_v": "https://media.api-sports.io/football/teams/94.png"
+    },
+    {
+     "sel": "1636410|Both Teams Score|Yes",
+     "texto": "Ambos marcan (SC Freiburg–Twente)",
+     "cuota": 1.5,
+     "p": 0.689,
+     "dato": "marcan los dos en el 75% y el 70% de sus partidos",
+     "partido": "SC Freiburg–Twente",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/160.png",
+     "logo_v": "https://media.api-sports.io/football/teams/415.png"
+    },
+    {
+     "sel": "1636349|Both Teams Score|Yes",
+     "texto": "Ambos marcan (Torreense–Celtic)",
+     "cuota": 1.57,
+     "p": 0.682,
+     "dato": "marcan los dos en el 62% y el 100% de sus partidos",
+     "partido": "Torreense–Celtic",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/4799.png",
+     "logo_v": "https://media.api-sports.io/football/teams/247.png"
+    },
+    {
+     "sel": "1636252|Both Teams Score|Yes",
+     "texto": "Ambos marcan (Crystal Palace–Real Sociedad)",
+     "cuota": 1.5,
+     "p": 0.674,
+     "dato": "marcan los dos en el 62% y el 78% de sus partidos",
+     "partido": "Crystal Palace–Real Sociedad",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/52.png",
+     "logo_v": "https://media.api-sports.io/football/teams/548.png"
+    }
+   ],
+   "cuota": 11.98,
+   "prob": 0.094,
+   "clave": "tema-2026-11-26-btts",
+   "titulo": "⚽⚽ Ambos marcan · jueves",
+   "expl": "Partidos en los que marcan los dos · @10-15",
    "liga": "Varias"
   }
  ],
