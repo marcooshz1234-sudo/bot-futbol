@@ -614,7 +614,9 @@ def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_de
             d = clave[5:]
             wd = datetime.fromisoformat(d).weekday()
             for tema, tit, expl_ in TEMAS:   # 24/11: las de tema del día, de @10-15
-                ct = combi_tema([p for p, _ in pool if _dia(p) == d], tema)
+                # todos los partidos del día (también los que no tienen datos de jugadores, como el Galatasaray)
+                ct = combi_tema([p for p in partidos if _dia(p) == d and p.get("competicion") in ligas
+                                 and not (empieza_despues and datetime.fromisoformat(p["fecha"]).astimezone(MADRID) < empieza_despues)], tema)
                 if ct:
                     out.append(dict(ct, clave=f"tema-{d}-{tema}", titulo=f"{tit} · {DIAS_ES[wd]}",
                                     expl=f"{expl_} · @{TEMA_CUOTA[0]}-{TEMA_CUOTA[1]}", liga="Varias"))
@@ -671,7 +673,7 @@ def patas_tema(p):
             pb = (pb + (a + b) / 200) / 2
         cu = g("Both Teams Score", "Yes")
         pb = (pb + 0.94 / cu) / 2 if cu else pb
-        if cu and cu <= 1.90 and pb >= 0.58:
+        if cu and cu <= 1.90 and pb >= 0.55:   # 24/11: «otra solo de ambos marcan» (martes)
             out["btts"].append({"sel": f"{pid}|Both Teams Score|Yes", "texto": f"Ambos marcan ({L}–{V})", "cuota": cu, "p": round(pb, 3),
                                 "dato": f"marcan los dos en el {a}% y el {b}% de sus partidos" if a and b else "los dos marcan con facilidad"})
     for eq, s_, r, m in ((L, sl, sv, "Home Team Total Cards"), (V, sv, sl, "Away Team Total Cards")):
