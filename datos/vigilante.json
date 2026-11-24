@@ -151,7 +151,10 @@
   "repe-2026-11-24-1635715|Player Fouls Committed|Kodai Sano - 1": "2026-11-24T01:11",
   "repe-2026-11-24-1635692|Away Player Shots|Scott McTominay - 2": "2026-11-24T01:11",
   "prensa-1635731-a82e6af6": "2026-11-24T01:11",
-  "prensa-1635735-BrunoFernandes": "2026-11-24T01:32"
+  "prensa-1635735-BrunoFernandes": "2026-11-24T01:32",
+  "directo-2026-11-24-pick-claude-1": "2026-11-24T01:42",
+  "directo-2026-11-24-pick-claude-2": "2026-11-24T01:42",
+  "directo-2026-11-24-pick-claude-3": "2026-11-24T01:42"
  },
  "abiertos": [
   {
@@ -167,12 +170,28 @@
    "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇"
   },
   {
+   "clave": "directo-2026-11-24-pick-claude-1",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Vamos con otro pick 🍀 (12:30)"
+  },
+  {
+   "clave": "directo-2026-11-24-pick-claude-2",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Seguimos con otro que nos gusta 🔥 (16:30)"
+  },
+  {
+   "clave": "directo-2026-11-24-pick-claude-3",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Pick para la noche 👇 (19:30)"
+  },
+  {
    "clave": "repe-2026-11-24-1635692|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-extra-city, loca-th-noche-2100-x100, estrella-1635692)"
   },
   {
    "clave": "repe-2026-11-24-1635663|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-extra-feyenoord, loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635731|Both Teams Score|Yes",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-24-1635663|Total - Away|Over 1.5",
@@ -187,32 +206,32 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-1130-x100)"
   },
   {
-   "clave": "repe-2026-11-24-1635731|Both Teams Score|Yes",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos)"
+   "clave": "repe-2026-11-24-1635692|Both Teams Score|Yes",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1400-x50)"
   },
   {
    "clave": "repe-2026-11-24-1635713|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
   },
   {
-   "clave": "repe-2026-11-24-1635692|Both Teams Score|Yes",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1400-x50)"
-  },
-  {
    "clave": "repe-2026-11-24-1635715|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
   },
   {
-   "clave": "repe-2026-11-24-1635663|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-0030-x100, loca-th-0600-x500)"
+   "clave": "repe-2026-11-24-1635649|Total - Away|Over 0.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2300-hora, loca-th-0030-x100)"
   },
   {
    "clave": "repe-2026-11-24-1635692|Total - Away|Over 0.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-0300-x50, loca-th-1130-x100)"
   },
   {
-   "clave": "repe-2026-11-24-1635649|Total - Away|Over 0.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2300-hora, loca-th-0030-x100)"
+   "clave": "repe-2026-11-24-1635663|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-0030-x100, loca-th-0600-x500)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635715|Player Fouls Committed|Kodai Sano - 1",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-hora, combi-tres, estrella-1635715)"
   },
   {
    "clave": "repe-2026-11-24-1635692|Away Player Shots|Scott McTominay - 2",
@@ -223,32 +242,28 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-hora, loca-th-0030-x100, combi-partido-1635713)"
   },
   {
-   "clave": "repe-2026-11-24-1635715|Player Fouls Committed|Kodai Sano - 1",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-hora, combi-tres, estrella-1635715)"
+   "clave": "repe-2026-11-24-1635611|Both Teams Score|Yes",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0030-x100, loca-th-0300-x50, loca-th-1400-x50)"
   },
   {
    "clave": "repe-2026-11-24-1635667|Anytime Goal Scorer|Nicolas Jackson",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0030-x100, loca-th-0800-reto, loca-th-1130-x100)"
   },
   {
-   "clave": "repe-2026-11-24-1635611|Both Teams Score|Yes",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0030-x100, loca-th-0300-x50, loca-th-1400-x50)"
-  },
-  {
    "clave": "repe-2026-11-24-1635641|Double Chance|Draw/Away",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0500-tapados, loca-th-1130-x100, loca-th-1600-x500)"
   },
   {
-   "clave": "repe-2026-11-24-1635663|Match Winner|Away",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1130-x100)"
+   "clave": "repe-2026-11-24-1635641|Anytime Goal Scorer|Jens Hauge",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1600-x500)"
   },
   {
    "clave": "repe-2026-11-24-1635641|Total - Away|Over 1.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1830-x1000)"
   },
   {
-   "clave": "repe-2026-11-24-1635641|Anytime Goal Scorer|Jens Hauge",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1600-x500)"
+   "clave": "repe-2026-11-24-1635663|Match Winner|Away",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1130-x100)"
   },
   {
    "clave": "repe-2026-11-24-1635649|Results/Both Teams Score|Home/Yes",
@@ -273,14 +288,25 @@
   {
    "clave": "prensa-1635667-LamineYamal",
    "t": "📰 Galatasaray–Aston Villa: «Lamine Yamal lidera las bajas del Barça para viajar a Bakú» (Notimérica) · tenemos 4 post(s) de este partido: loca-th-0800-reto, loca-th-1130-x100, loca-th-1400-x50, loca-th-1830-x1000"
-  },
-  {
-   "clave": "prensa-1635735-BrunoFernandes",
-   "t": "📰 Sporting CP–Manchester United: «Bruno Fernandes hace saltar todas las alarmas en el Manchester United» (Fichajes.com) · tenemos 1 post(s) de este partido: combi-tres"
   }
  ],
- "revisado": "2026-11-24T01:32",
+ "revisado": "2026-11-24T01:42",
  "historial": [
+  {
+   "hora": "2026-11-24T01:42",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Vamos con otro pick 🍀 (12:30)",
+   "k": "directo-2026-11-24-pick-claude-1"
+  },
+  {
+   "hora": "2026-11-24T01:42",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Seguimos con otro que nos gusta 🔥 (16:30)",
+   "k": "directo-2026-11-24-pick-claude-2"
+  },
+  {
+   "hora": "2026-11-24T01:42",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Pick para la noche 👇 (19:30)",
+   "k": "directo-2026-11-24-pick-claude-3"
+  },
   {
    "hora": "2026-11-24T01:32",
    "t": "📰 Sporting CP–Manchester United: «Bruno Fernandes hace saltar todas las alarmas en el Manchester United» (Fichajes.com) · tenemos 1 post(s) de este partido: combi-tres",
@@ -565,21 +591,6 @@
    "hora": "2026-11-23T00:07",
    "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-0600-reto, loca-th-1030-x500, loca-th-1700-escudos)",
    "k": "repe-2026-11-23-1557469|Player Fouls Committed|Jarrad Branthwaite - 1"
-  },
-  {
-   "hora": "2026-11-22T21:54",
-   "t": "🖼️ Sale a las 22:03 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑",
-   "k": "foto-2026-11-22-verde-auto-2026-11-22-pick-seguro-5"
-  },
-  {
-   "hora": "2026-11-22T20:46",
-   "t": "⏰ No ha salido en threads ni instagram (20:26): Vamos con otro pick 🍀",
-   "k": "redes-2026-11-22-noche-atalanta2-threads-instagram"
-  },
-  {
-   "hora": "2026-11-22T20:23",
-   "t": "🔧 El paso «publicar_telegram» del bot ha fallado 3 veces en la última hora",
-   "k": "bucle-publicar_telegram-2026112220"
   }
  ]
 }
