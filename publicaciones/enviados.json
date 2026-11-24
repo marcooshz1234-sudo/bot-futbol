@@ -919,5 +919,10 @@
   "2026-11-24-escalera": {
     "enviado": "2026-11-24T11:00",
     "mensaje_id": 605
+  },
+  "2026-11-24-pick-seguro-5": {
+    "enviado": "2026-11-24T15:00",
+    "mensaje_id": 608,
+    "foto_tg": "publicaciones/media/2026-11-24-pick-seguro-5.tg.jpg"
   }
 }
