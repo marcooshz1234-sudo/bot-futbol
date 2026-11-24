@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24 10:23",
+ "actualizado": "2026-11-24 10:33",
  "redes": {
   "instagram": {
    "seguidores": 55,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3765,
-   "hoy": 23,
+   "seguidores": 3766,
+   "hoy": 24,
    "serie": [
     3215,
     3230,
@@ -24,7 +24,7 @@
     3475,
     3714,
     3742,
-    3765
+    3766
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4330,
- "total_hoy": 27,
+ "total": 4331,
+ "total_hoy": 28,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "10:30",
+  "hora": "11:00",
   "dia": "2026-11-24",
-  "titulo": "Vamos con otro pick, familia"
+  "titulo": "Reto escalera · día 1/7"
  },
  "ayer": {
   "aciertos": 2,
@@ -264,7 +264,7 @@
   },
   "2026-11-24": {
    "instagram": 55,
-   "threads": 3765,
+   "threads": 3766,
    "facebook": 1,
    "telegram": 509
   }

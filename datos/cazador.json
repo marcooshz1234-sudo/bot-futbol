@@ -71,7 +71,7 @@
    "justa": 1.46,
    "ev": -0.017,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Real Madrid",
@@ -82,11 +82,11 @@
    "justa": 1.42,
    "ev": -0.017,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-24T10:13",
+  "hora": "2026-11-24T10:33",
   "revisadas": 0,
   "mejor": null
  },
