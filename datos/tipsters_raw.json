@@ -1231,13 +1231,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/47243",
-   "fecha": "2026-11-17T13:01",
-   "texto": "¡Prepárense! \nEstoy analizando todo, hoy tendremos mucho contenido de calidad. \n\n🧠 Recodard \nEstamos en racha de 6 verdes en el FREE, también una racha de 14 grupos STAKES 10 acertados.",
-   "foto": false,
-   "visto": "2026-11-17T13:14"
-  },
-  {
    "id": "-1001468963672/47245",
    "fecha": "2026-11-17T13:31",
    "texto": "",
@@ -2725,6 +2718,14 @@
    "texto": "¡ÚLTIMAS 3 PLAZAS! \nVoy a soltar PICK PREMIUM, aprovecha y entra. \n\n🛍️: https://tipsterperez.tipsterpage.com/epFhwGlP",
    "foto": false,
    "visto": "2026-11-24T09:37"
+  },
+  {
+   "id": "-1001468963672/47468",
+   "fecha": "2026-11-24T11:01",
+   "texto": "🔓 UNA PLAZA MÁS Y CIERRO\n\n🛍️: https://tipsterperez.tipsterpage.com/epFhwGlP",
+   "foto": true,
+   "visto": "2026-11-24T11:02",
+   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47468.jpg"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
@@ -5072,30 +5073,6 @@
  ],
  "TRADER FOOTBALL || FREE👨🏼‍💻": [
   {
-   "id": "-1001550157115/100810",
-   "fecha": "2026-11-20T21:29",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-20T21:39",
-   "foto_ruta": "datos/tipsters_fotos/TRADER_FOOTBALL_FREE__100810.jpg"
-  },
-  {
-   "id": "-1001550157115/100809",
-   "fecha": "2026-11-20T21:29",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-20T21:39",
-   "foto_ruta": "datos/tipsters_fotos/TRADER_FOOTBALL_FREE__100809.jpg"
-  },
-  {
-   "id": "-1001550157115/100808",
-   "fecha": "2026-11-20T21:29",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-20T21:39",
-   "foto_ruta": "datos/tipsters_fotos/TRADER_FOOTBALL_FREE__100808.jpg"
-  },
-  {
    "id": "-1001550157115/100813",
    "fecha": "2026-11-20T22:22",
    "texto": "",
@@ -6556,6 +6533,28 @@
    "texto": "👆🔥 Tenemos estos 9 partidazos de alto nivel en la liga de campeones. Partidos donde el mercado ofrece cuotas realmente claras y valiosas para volver a ganar como hicimos ayer. Muy atentos porque aquí somos letales y pienso volver a demostrarlo. Vamos a por todas equipo!!",
    "foto": false,
    "visto": "2026-11-24T10:01"
+  },
+  {
+   "id": "-1001550157115/101038",
+   "fecha": "2026-11-24T10:50",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-24T11:02"
+  },
+  {
+   "id": "-1001550157115/101039",
+   "fecha": "2026-11-24T10:52",
+   "texto": "🍿 ¡PROGRAMACION DEL DIA!  🔋\n\n✅ 12:00h - PRONÓSTICO GRATUITO \n✅ 15:00h - GRUPO ESPECIAL CHAMPIONS 3X1! ⭐🇪🇺\n✅ 18:30h - PRONÓSTICO GRATUITO \n✅ 23:00h - STAKE 10 ULTRA! 👑 💵\n\nEn 🇵🇪🇪🇨🇲🇽🇺🇸 7 horas menos.",
+   "foto": false,
+   "visto": "2026-11-24T11:02"
+  },
+  {
+   "id": "-1001550157115/101040",
+   "fecha": "2026-11-24T10:56",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-24T11:02",
+   "foto_ruta": "datos/tipsters_fotos/TRADER_FOOTBALL_FREE__101040.jpg"
   }
  ],
  "MisterBasquet 🏀": [
