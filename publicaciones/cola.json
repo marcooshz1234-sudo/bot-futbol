@@ -962,7 +962,14 @@
       "telegram"
     ],
     "enviado": "2026-11-24T22:35",
-    "mensaje_id": 616
+    "mensaje_id": 616,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-24-verde-auto-2026-11-24-pick-extra-city",
@@ -975,7 +982,14 @@
     "resultado": "verde",
     "verde_de": "2026-11-24-pick-extra-city",
     "enviado": "2026-11-24T22:48",
-    "mensaje_id": 617
+    "mensaje_id": 617,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-24-verde-auto-2026-11-24-combi-tres",
@@ -987,6 +1001,13 @@
     "facebook": "foto",
     "resultado": "verde",
     "verde_de": "2026-11-24-combi-tres",
-    "solo_redes": true
+    "solo_redes": true,
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18132024124868265"
+    }
   }
 ]
