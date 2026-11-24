@@ -69,9 +69,9 @@
    "texto": "Cardiff marca 2 o más",
    "cuota": 1.44,
    "justa": 1.46,
-   "ev": -0.017,
+   "ev": -0.016,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Bodo/Glimt",
@@ -82,11 +82,11 @@
    "justa": 1.86,
    "ev": -0.018,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-24T15:19",
+  "hora": "2026-11-24T15:49",
   "revisadas": 0,
   "mejor": null
  },

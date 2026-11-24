@@ -652,7 +652,8 @@
     "cuotas": [],
     "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
     "requiere_ok": true,
-    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
+    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano.",
+    "caducada": "cancelado"
   },
   {
     "id": "2026-11-24-pick-tip-3",
@@ -667,7 +668,8 @@
     "cuotas": [],
     "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
     "requiere_ok": true,
-    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
+    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano.",
+    "caducada": "cancelado"
   },
   {
     "id": "2026-11-24-combi-tip-1",
@@ -682,6 +684,7 @@
     "cuotas": [],
     "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
     "requiere_ok": true,
-    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
+    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano.",
+    "caducada": "cancelado"
   }
 ]
