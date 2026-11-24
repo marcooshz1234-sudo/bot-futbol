@@ -196,3 +196,25 @@ class CombisDeTema(unittest.TestCase):
         p["cuotas_bet365"] = {"Both Teams Score": [["Yes", "1.55"]]}
         with mock.patch.object(CS, "_teams", lambda pid: {}):
             self.assertIsNone(CS.combi_tema([p], "btts"))
+
+
+class TresTodoElDia(unittest.TestCase):
+    """24/11 (Marcos: «de todo el martes quiero 3 opciones mínimo… así todos los días»)."""
+    def test_tres_distintas(self):
+        h = {}
+        ps = []
+        for i in range(8):
+            p = partido(i, f"{12 + i}:00")
+            p["stats_local_casa"] = {"gf": 2.2, "gc": 1.4, "btts": "75%", "o25": "70%", "amarillas": 2.5, "amarillas_c": 2.5}
+            p["stats_visitante_fuera"] = {"gf": 1.6, "gc": 1.8, "btts": "70%", "o25": "65%", "amarillas": 2.5, "amarillas_c": 2.5}
+            p["cuotas_bet365"] = {"Both Teams Score": [["Yes", "1.55"]], "Goals Over/Under": [["Over 2.5", "1.60"], ["Over 1.5", "1.40"]],
+                                  "Total - Home": [["Over 0.5", "1.40"]], "Cards Over/Under": [["Over 3.5", "1.60"]],
+                                  "Home Team Total Cards": [["Over 1.5", "1.50"]], "Away Team Total Cards": [["Over 1.5", "1.50"]]}
+            ps.append(p)
+        with mock.patch.object(CS, "_teams", lambda pid: {}), mock.patch.object(CS, "equipos_partido", lambda pid: set()):
+            ds = CS.generar_destacadas("2026-11-21", "2026-11-21", partidos=ps, h=h)
+        todos = [c for c in ds if c["clave"].startswith("todo-")]
+        self.assertEqual(len(todos), 3)
+        for a, b in ((0, 1), (0, 2), (1, 2)):
+            sa, sb = {x["sel"] for x in todos[a]["patas"]}, {x["sel"] for x in todos[b]["patas"]}
+            self.assertGreaterEqual(len(sb - sa), 3)                               # cada opción cambia 3+ patas

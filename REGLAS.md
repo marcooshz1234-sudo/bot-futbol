@@ -220,3 +220,4 @@
 - 23/11 Tiros de jugador: nunca solo por la cuota; tiene que cumplirlo en 6 de sus últimos 10 partidos, y sin datos del jugador no se pone.
 - 23/11 Threads: cada pata, aunque la combi sea de cuota grande, respaldada por los datos (equipos: su % en los últimos 10 llega a lo que dice la cuota; jugadores: 6 de 10; sin datos, no entra).
 - 23/11 Telegram: un partido, un pick al día (nada de «Marsella marca 2+» y luego «Gana el Marsella»). Días normales: 7-10 picks en Telegram.
+- 🧮 **Combis de la app** (24/11, Marcos): solo largas y de UN día. Cada día: 3 «Todo el día» (una pata por partido, cada una distinta), A y B de @30-40, y las de tema de @10-15 (gana y ambos marcan, ambos marcan, tarjetas). Nada de combis cortas ni que mezclen días.

@@ -187,8 +187,8 @@ const COMBI_BLOQUES = [   // 24/11 (Marcos: «si no son así largas no me gustan
   ["dia",   "📅 Por día",  "Cada día lo suyo: una con todos los partidos, dos de @30-40 (A y B) y las de tema de @10-15"]];
 const COMBI_TIPO = ["segura","ganan","ganan-larga","top","faltas","remates","goles","corners","tarjetas"];
 function bloqueCombi(c){ return /^(todo|dia|ganan|tema)-\d{4}/.test(c.clave) ? "dia" : COMBI_TIPO.includes(c.clave) ? "tipo" : "larga" }
-function ordenCombi(c){ const m = String(c.clave).match(/^(todo|dia|ganan|tema)-(\d{4}-\d{2}-\d{2})(?:-([ab]|[a-z_]+))?/);
-  return m ? m[2] + ({"todo":"0","ganan":"3"}[m[1]] || (m[1]==="tema" ? "4"+m[3] : m[3]==="a"?"1":"2")) : String(COMBI_TIPO.indexOf(c.clave)+100).padStart(4,"0") + c.clave }
+function ordenCombi(c){ const m = String(c.clave).match(/^(todo|dia|ganan|tema)-(\d{4}-\d{2}-\d{2})(?:-([a-z0-9_]+))?/);
+  return m ? m[2] + (m[1]==="todo" ? "0"+(m[3]||"1") : m[1]==="ganan" ? "3" : m[1]==="tema" ? "4"+m[3] : m[3]==="a"?"1":"2") : String(COMBI_TIPO.indexOf(c.clave)+100).padStart(4,"0") + c.clave }
 function combiCasa(c, q){ if(!q) return true;
   return sinTildes([c.titulo, c.liga, c.equipo, c.partido, ...(c.patas||[]).map(x => [x.partido, x.texto, x.equipo, x.liga].join(" "))].join(" ")).includes(q) }
 function combiAbierta(k, def){ let m={}; try{m=JSON.parse(guardado("combis_abiertas")||"{}")}catch(e){} return k in m ? m[k] : def }

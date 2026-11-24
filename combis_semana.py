@@ -546,6 +546,19 @@ def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_de
         cands = [dict(x, partido=f"{p['local']}–{p['visitante']}", hora=ini.strftime("%Y-%m-%dT%H:%M"), liga=p["competicion"],
                       logo_l=(t.get("home") or {}).get("logo"), logo_v=(t.get("away") or {}).get("logo"))
                  for x in patas_jugador(p, h) + patas_equipo(p) + patas_ganador(p) if x and x["sel"] not in set(fuera)]
+        # 24/11: para las 3 «Todo el día» hacen falta más opciones por partido: también ambos marcan y tarjetas (patas_tema,
+        # que también sirven en partidos sin datos de jugadores); «gana y ambos marcan» no (cuota de más de 1,80)
+        try:
+            ya = {x["sel"] for x in cands}
+            for tema in ("btts", "tarjetas"):
+                for x in patas_tema(p)[tema]:
+                    if x["sel"] not in ya and x["sel"] not in set(fuera) and x["cuota"] <= CUOTA_MAX:
+                        ya.add(x["sel"])
+                        cands.append(dict(x, nota=x["p"], partido=f"{p['local']}–{p['visitante']}", hora=ini.strftime("%Y-%m-%dT%H:%M"),
+                                          liga=p["competicion"], logo_l=(t.get("home") or {}).get("logo"),
+                                          logo_v=(t.get("away") or {}).get("logo"), solo_todo=True))
+        except Exception as e:
+            print("patas_tema:", str(e)[:100])
         if cands:
             pool.append((p, cands))
     # 24/11 (Marcos: «si no son así largas no me gustan, y no mezcles tantos días»): todas las destacadas son de UN
@@ -563,9 +576,14 @@ def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_de
     # repetir selección entre ellas ni con el resto de destacadas.
     for d in reversed(dias):
         wd = datetime.fromisoformat(d).weekday()
-        tipos.insert(0, (f"todo-{d}", f"📅 Todo el {DIAS_ES[wd]}", f"Una pata de cada partido del {DIAS_ES[wd]} {int(d[8:])}",
-                         lambda x, d=d: x["hora"][:10] == d, TODO_DIA_MAX, "p"))
+        # 24/11 (Marcos: «de todo el martes quiero 3 opciones mínimo… así todos los días»): 3 «Todo el día» distintas,
+        # cada una con otra pata en cada partido (ninguna selección repetida entre las tres)
+        for k in (3, 2, 1):
+            tipos.insert(0, (f"todo-{d}" + ("" if k == 1 else f"-{k}"), f"📅 Todo el {DIAS_ES[wd]} · {k}",
+                             f"Una pata de cada partido del {DIAS_ES[wd]} {int(d[8:])} (opción {k} de 3)",
+                             lambda x, d=d: x["hora"][:10] == d, TODO_DIA_MAX, "p"))
     usadas, out = set(), []
+    usadas_todo = {}   # día → selecciones ya usadas en sus «Todo el día»
     dos = {}
     for d in dias:
         wd = datetime.fromisoformat(d).weekday()
@@ -586,8 +604,12 @@ def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_de
         for p, cands in orden_pool:
             gan = clave.startswith("ganan")
             libre = clave.startswith("ganan") or clave.startswith("todo-")
-            cs = sorted([x for x in cands if filtro(x) and (libre or x["sel"] not in usadas) and gan == bool(x.get("ganador"))],
+            ya_todo = usadas_todo.get(clave[5:15], set()) if clave.startswith("todo-") else set()
+            cs = sorted([x for x in cands if filtro(x) and (libre or x["sel"] not in usadas) and gan == bool(x.get("ganador"))
+                         and x["sel"] not in ya_todo and (clave.startswith("todo-") or not x.get("solo_todo"))],
                         key=lambda x: -x[orden])
+            if clave.startswith("todo-") and not cs and ya_todo:   # sin otra opción en este partido: se repite la de antes
+                cs = sorted([x for x in cands if filtro(x) and not x.get("ganador")], key=lambda x: -x[orden])
             if clave.startswith("todo-") and cs:
                 # 24/11 (Marcos, capturas de tipsters: «mira qué bonitas»): variedad, como mucho 2 del mismo tipo
                 # (faltas, remates, paradas, goles, córners, tarjetas, remates de equipo); si no hay otra, la mejor
@@ -610,6 +632,11 @@ def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_de
         out.append({"clave": clave, "titulo": titulo, "expl": expl, "liga": "Varias", "patas": patas, "cuota": round(tot, 2),
                     "prob": round(prob, 3)})
         if clave.startswith("todo-"):
+            nuevas = {x["sel"] for x in patas} - usadas_todo.get(clave[5:15], set())
+            if len(clave) > 15 and len(nuevas) < 3:   # la opción 2/3 tiene que cambiar al menos 3 patas
+                continue
+            usadas_todo.setdefault(clave[5:15], set()).update(x["sel"] for x in patas)
+        if clave.startswith("todo-") and len(clave) == 15:   # solo tras la opción 1: A, B y las de tema del día
             out += dos.get(clave[5:], [])
             d = clave[5:]
             wd = datetime.fromisoformat(d).weekday()
