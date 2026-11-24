@@ -3479,14 +3479,14 @@
   },
   "2026-11-24": {
     "dia": "2026-11-24",
-    "total": 15,
+    "total": 16,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 15,
+      "pendiente": 16,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 15
+      "sin_resolver": 16
     },
     "combis": [
       {
@@ -3578,13 +3578,19 @@
         "titulo": "Vamos con la combi del martes familia 🔥",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-24-loca-th-1400-x50",
+        "titulo": "🧨 COMBI x55,22 🧨",
+        "estado": "pendiente",
+        "cuota": 55.22
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 53
+      "total": 54
     },
-    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x63,23 🎰 · 63,23 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 4,40 · pendiente\n⏳ 🧨 COMBI x38,99 🧨 · 38,99 · pendiente\n⏳ 🕵️ LA DE LOS TAPADOS 🕵️ · 21,42 · pendiente\n⏳ 🧨 COMBI x224 🧨 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 💶 RETO: DE 1€ A 736€ 💶 · pendiente\n⏳ 🎯 COMBI DE TIROS · REAL MADRID vs PSV EINDHOVEN 🎯 · 4,81 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ 🎰 LA CENTENARIA x90,77 🎰 · 90,77 · pendiente\n⏳ Guirassy (Dortmund): 2+ remates · 1,62 · pendiente\n⏳ Más de 1,5 goles en la 2.ª parte · 1,57 · pendiente\n⏳ Vamos con la combi del martes familia 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 15 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x63,23 🎰 · 63,23 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 4,40 · pendiente\n⏳ 🧨 COMBI x38,99 🧨 · 38,99 · pendiente\n⏳ 🕵️ LA DE LOS TAPADOS 🕵️ · 21,42 · pendiente\n⏳ 🧨 COMBI x224 🧨 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 💶 RETO: DE 1€ A 736€ 💶 · pendiente\n⏳ 🎯 COMBI DE TIROS · REAL MADRID vs PSV EINDHOVEN 🎯 · 4,81 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ 🎰 LA CENTENARIA x90,77 🎰 · 90,77 · pendiente\n⏳ Guirassy (Dortmund): 2+ remates · 1,62 · pendiente\n⏳ Más de 1,5 goles en la 2.ª parte · 1,57 · pendiente\n⏳ Vamos con la combi del martes familia 🔥 · pendiente\n⏳ 🧨 COMBI x55,22 🧨 · 55,22 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 16 sin resolver"
   }
 }
