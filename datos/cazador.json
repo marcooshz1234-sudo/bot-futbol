@@ -72,21 +72,10 @@
    "ev": -0.016,
    "fuente": "Pinnacle",
    "edad_h": 0.0
-  },
-  {
-   "local": "Bodo/Glimt",
-   "visitante": "Lask Linz",
-   "inicio": "2026-11-24T18:45",
-   "texto": "Bodo/Glimt marca 3 o más",
-   "cuota": 1.83,
-   "justa": 1.86,
-   "ev": -0.018,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-24T18:04",
+  "hora": "2026-11-24T18:25",
   "revisadas": 0,
   "mejor": null
  },

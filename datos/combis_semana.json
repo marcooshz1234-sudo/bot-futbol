@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-24",
- "generado": "2026-11-24T17:54+01:00",
+ "generado": "2026-11-24T18:24+01:00",
  "rango": [
   "2026-11-24",
   "2026-11-27"
@@ -1525,20 +1525,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1635667|Both Teams Score|Yes",
-     "texto": "Ambos marcan (Galatasaray–Aston Villa)",
-     "cuota": 1.36,
-     "p": 0.637,
-     "dato": "marcan los dos en el 50% y el 44% de sus partidos",
-     "nota": 0.637,
-     "partido": "Galatasaray–Aston Villa",
-     "hora": "2026-11-24T18:45",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/645.png",
-     "logo_v": "https://media.api-sports.io/football/teams/66.png",
-     "solo_todo": true
-    },
-    {
      "sel": "1635611|Away Player Shots Total|Over 8.5",
      "texto": "Borussia Dortmund: más de 8,5 remates",
      "cuota": 1.73,
@@ -1566,6 +1552,19 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/50.png",
      "logo_v": "https://media.api-sports.io/football/teams/492.png"
+    },
+    {
+     "sel": "1635715|Total - Away|Over 0.5",
+     "texto": "PSV Eindhoven marca",
+     "cuota": 1.5,
+     "p": 0.855,
+     "dato": "marca 2,7 por partido y el rival encaja 0,8",
+     "nota": 0.9954924314600182,
+     "partido": "Real Madrid–PSV Eindhoven",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/541.png",
+     "logo_v": "https://media.api-sports.io/football/teams/197.png"
     },
     {
      "sel": "1635649|Player Fouls Committed|Jacobo Ramon - 1",
@@ -1598,21 +1597,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/116.png"
     },
     {
-     "sel": "1635715|Away Player Shots|Kodai Sano - 1",
-     "texto": "Kodai Sano: 1+ remate",
-     "cuota": 1.8,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,50 por 90' (3-1-2-1-2-0)",
-     "nota": 0.96,
-     "equipo": "PSV Eindhoven",
-     "lado": "V",
-     "partido": "Real Madrid–PSV Eindhoven",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/541.png",
-     "logo_v": "https://media.api-sports.io/football/teams/197.png"
-    },
-    {
      "sel": "1635731|Goalkeeper Saves|Alvaro Valles - 2",
      "texto": "Alvaro Valles: 2+ paradas",
      "cuota": 1.5,
@@ -1641,8 +1625,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/212.png"
     }
    ],
-   "cuota": 41.88,
-   "prob": 0.136
+   "cuota": 25.66,
+   "prob": 0.228
   },
   {
    "patas": [
@@ -1836,18 +1820,6 @@
   {
    "patas": [
     {
-     "sel": "1635667|Both Teams Score|Yes",
-     "texto": "Ambos marcan (Galatasaray–Aston Villa)",
-     "cuota": 1.36,
-     "p": 0.637,
-     "dato": "marcan los dos en el 50% y el 44% de sus partidos",
-     "partido": "Galatasaray–Aston Villa",
-     "hora": "2026-11-24T18:45",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/645.png",
-     "logo_v": "https://media.api-sports.io/football/teams/66.png"
-    },
-    {
      "sel": "1635715|Both Teams Score|Yes",
      "texto": "Ambos marcan (Real Madrid–PSV Eindhoven)",
      "cuota": 1.53,
@@ -1908,8 +1880,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/543.png"
     }
    ],
-   "cuota": 13.54,
-   "prob": 0.055,
+   "cuota": 9.95,
+   "prob": 0.086,
    "clave": "tema-2026-11-24-btts",
    "titulo": "⚽⚽ Ambos marcan · martes",
    "expl": "Partidos en los que marcan los dos · @10-15",
@@ -1921,20 +1893,6 @@
    "expl": "Una pata de cada partido del martes 24 (opción 2 de 3)",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1635667|Both Teams Score|Yes",
-     "texto": "Ambos marcan (Galatasaray–Aston Villa)",
-     "cuota": 1.36,
-     "p": 0.637,
-     "dato": "marcan los dos en el 50% y el 44% de sus partidos",
-     "nota": 0.637,
-     "partido": "Galatasaray–Aston Villa",
-     "hora": "2026-11-24T18:45",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/645.png",
-     "logo_v": "https://media.api-sports.io/football/teams/66.png",
-     "solo_todo": true
-    },
     {
      "sel": "1635649|Player Fouls Committed|Jacobo Ramon - 1",
      "texto": "Jacobo Ramon: comete 1+ falta",
@@ -2036,8 +1994,8 @@
      "solo_todo": true
     }
    ],
-   "cuota": 32.37,
-   "prob": 0.08
+   "cuota": 23.8,
+   "prob": 0.125
   },
   {
    "clave": "todo-2026-11-24-3",
@@ -2045,20 +2003,6 @@
    "expl": "Una pata de cada partido del martes 24 (opción 3 de 3)",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1635667|Both Teams Score|Yes",
-     "texto": "Ambos marcan (Galatasaray–Aston Villa)",
-     "cuota": 1.36,
-     "p": 0.637,
-     "dato": "marcan los dos en el 50% y el 44% de sus partidos",
-     "nota": 0.637,
-     "partido": "Galatasaray–Aston Villa",
-     "hora": "2026-11-24T18:45",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/645.png",
-     "logo_v": "https://media.api-sports.io/football/teams/66.png",
-     "solo_todo": true
-    },
     {
      "sel": "1635692|Goalkeeper Saves|Gianluigi Donnarumma - 2",
      "texto": "Gianluigi Donnarumma: 2+ paradas",
@@ -2120,6 +2064,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/543.png"
     },
     {
+     "sel": "1635715|Away Player Shots|Kodai Sano - 1",
+     "texto": "Kodai Sano: 1+ remate",
+     "cuota": 1.8,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,50 por 90' (3-1-2-1-2-0)",
+     "nota": 0.96,
+     "equipo": "PSV Eindhoven",
+     "lado": "V",
+     "partido": "Real Madrid–PSV Eindhoven",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/541.png",
+     "logo_v": "https://media.api-sports.io/football/teams/197.png"
+    },
+    {
      "sel": "1635611|Away Team Total Cards|Over 1.5",
      "texto": "Borussia Dortmund ve más de 1,5 tarjetas",
      "cuota": 1.53,
@@ -2144,24 +2103,10 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/209.png",
      "logo_v": "https://media.api-sports.io/football/teams/212.png"
-    },
-    {
-     "sel": "1635715|Away Team Total Cards|Over 1.5",
-     "texto": "PSV Eindhoven ve 2 o más tarjetas",
-     "cuota": 1.53,
-     "p": 0.611,
-     "dato": "2,0 tarjetas de media para PSV Eindhoven en este cruce",
-     "nota": 0.611,
-     "partido": "Real Madrid–PSV Eindhoven",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/541.png",
-     "logo_v": "https://media.api-sports.io/football/teams/197.png",
-     "solo_todo": true
     }
    ],
-   "cuota": 25.63,
-   "prob": 0.084
+   "cuota": 22.17,
+   "prob": 0.172
   },
   {
    "clave": "todo-2026-11-25",

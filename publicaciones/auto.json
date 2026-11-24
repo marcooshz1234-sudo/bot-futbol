@@ -13041,12 +13041,11 @@
   {
     "id": "2026-11-24-lista-europa-1",
     "fecha": "2026-11-24T12:00",
-    "texto": "🏆⚽ CHAMPIONS · 11 PICKS PARA HOY 🍀 (1/2)\n🤪 Para soñar un poco: con poquito dinero\n\n🇦🇹 Andres Andrade (Lask Linz): 1+ tiros\n🇳🇴 Gana el Bodo/Glimt\n🇳🇱 Sven Mijnans (PSV): 2+ tiros\n🇳🇱 Kodai Sano (PSV): 1+ falta\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Elliot Anderson (Man City): 1+ falta\n🇮🇹 Scott McTominay (Napoli): 2+ tiros\n🇩🇪 Felix Nmecha (Dortmund): 1+ tiros\n🇩🇪 Fabio Silva (Dortmund): 2+ tiros\n🇩🇪 Gana el RB Leipzig\n🇸🇰 Slovan Bratislava marca\n🇮🇹 Como marca en las dos partes\n\n👉 ¡Coge los que más te gusten! ✅\n\n🔔 Activad las notificaciones 👀",
+    "texto": "🏆⚽ CHAMPIONS · 11 PICKS PARA HOY 🍀 (1/2)\n🤪 Para soñar un poco: con poquito dinero\n\n🇳🇴 Gana el Bodo/Glimt\n🇳🇱 Sven Mijnans (PSV): 2+ tiros\n🇳🇱 Kodai Sano (PSV): 1+ falta\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Elliot Anderson (Man City): 1+ falta\n🇮🇹 Scott McTominay (Napoli): 2+ tiros\n🇩🇪 Felix Nmecha (Dortmund): 1+ tiros\n🇩🇪 Fabio Silva (Dortmund): 2+ tiros\n🇩🇪 Gana el RB Leipzig\n🇸🇰 Slovan Bratislava marca\n🇮🇹 Como marca en las dos partes\n\n👉 ¡Coge los que más te gusten! ✅\n\n🔔 Activad las notificaciones 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1635641|Away Player Shots|Andres Andrade - 1",
       "1635641|Match Winner|Home",
       "1635715|Away Player Shots|Sven Mijnans - 2",
       "1635715|Player Fouls Committed|Kodai Sano - 1",
@@ -13059,7 +13058,6 @@
       "1635649|To Score In Both Halves By Teams|Home"
     ],
     "cuotas": [
-      1.44,
       1.45,
       1.44,
       1.44,
@@ -13072,7 +13070,8 @@
       1.67
     ],
     "solo_redes": true,
-    "cuotas_revisadas": "2026-11-24T11:39"
+    "cuotas_revisadas": "2026-11-24T11:39",
+    "revisado_alineaciones": "2026-11-24T18:22"
   },
   {
     "id": "2026-11-24-pick-seguro-3",
@@ -13171,13 +13170,12 @@
   {
     "id": "2026-11-24-lista-europa-2",
     "fecha": "2026-11-24T15:00",
-    "texto": "🏆⚽ CHAMPIONS · 10 PICKS PARA HOY 🍀 (2/2)\n🤪 Para soñar un poco: con poquito dinero\n\n🇳🇴 Bodo/Glimt marca en las dos partes\n🇦🇹 Andres Andrade (Lask Linz): 1+ tiros\n🇳🇱 Lutsharel Geertruida (PSV): 1+ falta\n🇳🇱 Sven Mijnans (PSV): 1+ falta\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en la 2ª parte del Man City–Napoli\n🇫🇷 Florian Thauvin (Lens): 1+ falta\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Elliot Anderson (Man City): 1+ falta\n🇩🇪 Felix Nmecha (Dortmund): 1+ tiros\n🇩🇪 Fabio Silva (Dortmund): 2+ tiros\n🇩🇪 Gana el RB Leipzig\n\n👉 ¡Coge los que más te gusten! ✅\n\n🔔 Activad las notificaciones 👀",
+    "texto": "🏆⚽ CHAMPIONS · 10 PICKS PARA HOY 🍀 (2/2)\n🤪 Para soñar un poco: con poquito dinero\n\n🇳🇴 Bodo/Glimt marca en las dos partes\n🇳🇱 Lutsharel Geertruida (PSV): 1+ falta\n🇳🇱 Sven Mijnans (PSV): 1+ falta\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en la 2ª parte del Man City–Napoli\n🇫🇷 Florian Thauvin (Lens): 1+ falta\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Elliot Anderson (Man City): 1+ falta\n🇩🇪 Felix Nmecha (Dortmund): 1+ tiros\n🇩🇪 Fabio Silva (Dortmund): 2+ tiros\n🇩🇪 Gana el RB Leipzig\n\n👉 ¡Coge los que más te gusten! ✅\n\n🔔 Activad las notificaciones 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1635641|To Score In Both Halves By Teams|Home",
-      "1635641|Away Player Shots|Andres Andrade - 1",
       "1635715|Player Fouls Committed|Lutsharel Geertruida - 1",
       "1635715|Player Fouls Committed|Sven Mijnans - 1",
       "1635692|Goals Over/Under - Second Half|Over 1.5",
@@ -13189,7 +13187,6 @@
     ],
     "cuotas": [
       1.73,
-      1.44,
       1.53,
       1.3,
       1.53,
@@ -13200,7 +13197,8 @@
       1.33
     ],
     "solo_redes": true,
-    "cuotas_revisadas": "2026-11-24T14:57"
+    "cuotas_revisadas": "2026-11-24T14:57",
+    "revisado_alineaciones": "2026-11-24T18:22"
   },
   {
     "id": "2026-11-24-loca-th-1600-x500",

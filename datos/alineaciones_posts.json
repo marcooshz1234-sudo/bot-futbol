@@ -1,21 +1,5 @@
 {
  "avisados": [
-  "2026-10-31-combi-loca|Tom Bischof comete 1+ faltas",
-  "2026-10-31-combi-partido-1575203|Tom Bischof comete 1+ faltas",
-  "2026-10-31-combi-tres|Cian Ashford: 1+ tiros",
-  "2026-11-01-combi-partido-1570433|Robert Navarro: 1+ tiros a puerta",
-  "2026-11-03-combi-multi-bis|Maxima Goffi comete 1+ faltas",
-  "2026-11-03-combi-multi|Maxima Goffi comete 1+ faltas",
-  "2026-11-03-combi-partido-1635662-ter|Andy Diouf comete 1+ faltas",
-  "2026-11-03-lista-europa-2|Maxima Goffi comete 1+ faltas",
-  "2026-11-04-combi-partido-1635606|Aurelien Tchouameni comete 1+ faltas",
-  "2026-11-04-combi-partido-1635606|Vinicius Jr.: 2+ tiros",
-  "2026-11-04-combi-partido-1635658|Florian Wirtz comete 1+ faltas",
-  "2026-11-04-combi-partido-1635658|Kerem Akturkoglu comete 1+ faltas",
-  "2026-11-04-combi-partido-1635658|Milos Kerkez comete 1+ faltas",
-  "2026-11-04-combi-partido-1635658|Vedat Muriqi: 1+ tiros a puerta",
-  "2026-11-04-combi-partido-1635745|Peter Christiansen comete 2+ faltas",
-  "2026-11-04-lista-europa-1|Joy-Lance Mickels comete 1+ faltas",
   "2026-11-05-combi-loca|Alexander Bah: 1+ tiros",
   "2026-11-05-combi-multi|Alexander Bah: 1+ tiros",
   "2026-11-05-combi-partido-1636229|Alexander Bah: 1+ tiros",
@@ -146,6 +130,8 @@
   "2026-11-22-loca-th-1940-x500|Jonathan David marca",
   "2026-11-22-loca-th-1940-x500|Pierre Hojbjerg: 2+ tiros",
   "2026-11-23-loca-th-1630-escudos|Dany Mota: 2+ tiros",
+  "2026-11-24-lista-europa-1|Andres Andrade: 1+ tiros",
+  "2026-11-24-lista-europa-2|Andres Andrade: 1+ tiros",
   "clave|2026-11-02-combi-partido-1569998|1569998|Total - Away|Over 0.5|V. Kopotun",
   "clave|2026-11-02-marcos-1|1550178|Match Winner|Home|E. Elmas",
   "clave|2026-11-02-marcos-6|1550178|Match Winner|Home|E. Elmas",
@@ -486,6 +472,20 @@
   "clave|2026-11-23-loca-th-1030-x500|1570457|To Win Either Half|Away|T. Lemar",
   "clave|2026-11-23-loca-th-1630-escudos|1550203|To Win Either Half|Away|A. Njie",
   "clave|2026-11-23-loca-th-noche-2200-duelo|1550203|Away Player Shots|Beto - 3|A. Njie",
+  "clave|2026-11-24-loca-th-0200-duelo|1635641|Away Player Shots|Andres Andrade - 2|M. Usor",
+  "clave|2026-11-24-loca-th-0200-duelo|1635641|Away Player Shots|Andres Andrade - 2|S. Horvath",
+  "clave|2026-11-24-loca-th-0600-x500|1635641|Total - Away|Over 1.5|M. Usor",
+  "clave|2026-11-24-loca-th-0600-x500|1635641|Total - Away|Over 1.5|S. Horvath",
+  "clave|2026-11-24-loca-th-0800-reto|1635641|Total - Away|Over 1.5|M. Usor",
+  "clave|2026-11-24-loca-th-0800-reto|1635641|Total - Away|Over 1.5|S. Horvath",
+  "clave|2026-11-24-loca-th-1830-x1000|1635641|Total - Away|Over 1.5|M. Usor",
+  "clave|2026-11-24-loca-th-1830-x1000|1635641|Total - Away|Over 1.5|S. Horvath",
+  "clave|2026-11-24-loca-th-noche-2100-x100|1635641|Away Player Shots|Sascha Horvath - 1|M. Usor",
+  "clave|2026-11-24-loca-th-noche-2100-x100|1635641|Away Player Shots|Sascha Horvath - 1|S. Horvath",
+  "clave|2026-11-24-loca-th-noche-2200-duelo|1635641|Away Player Shots|Andres Andrade - 2|M. Usor",
+  "clave|2026-11-24-loca-th-noche-2200-duelo|1635641|Away Player Shots|Andres Andrade - 2|S. Horvath",
+  "clave|2026-11-24-loca-th-noche-2230-x50|1635641|Away Player Shots|Sascha Horvath - 1|M. Usor",
+  "clave|2026-11-24-loca-th-noche-2230-x50|1635641|Away Player Shots|Sascha Horvath - 1|S. Horvath",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -1511,16 +1511,290 @@
    }
   },
   "1635641": {
-   "hora": "2026-11-24T18:09:14.222449+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-24T18:22:39.291477+01:00",
+   "xi": [
+    "Nikita Haikin",
+    "Fredrik Sjøvold",
+    "Odin Luras Bjørtuft",
+    "Jostein Gundersen",
+    "Fredrik André Bjørkan",
+    "Sondre Auklend",
+    "Patrick Berg",
+    "Sondre Fet",
+    "Ole Didrik Blomberg",
+    "Ola Brynhildsen",
+    "Jens Petter Hauge",
+    "Lukas Jungwirth",
+    "Xavier Mbuyamba",
+    "Alemão",
+    "Miguel Freckleton",
+    "Kasper Jørgensen",
+    "Robert Ljubičić",
+    "Alessandro Schöpf",
+    "Yvan Dibango",
+    "Krystof Daněk",
+    "Samuel Adeniran",
+    "Christoph Lang"
+   ],
+   "banquillo": [
+    "Julian Lund",
+    "Isak Sjong",
+    "Isak Dybvik Määttä",
+    "Villads Nielsen",
+    "Haitam Aleesami",
+    "Joshua Kitolano",
+    "Ulrik Saltnes",
+    "Magnus Riisnæs",
+    "Joel Mugisha Mvuka",
+    "Andreas Helmersen",
+    "Fabian Schillinger",
+    "Tobias Schützenauer",
+    "Manoël Verhaeghe",
+    "Daniel Elfadli",
+    "Melayro Bogarde",
+    "Sascha Horvath",
+    "Saša Kalajdžić",
+    "Moses Usor",
+    "Nael Kane"
+   ],
+   "equipos": {
+    "327": [
+     {
+      "n": "Nikita Haikin",
+      "pos": "G"
+     },
+     {
+      "n": "Fredrik Sjøvold",
+      "pos": "D"
+     },
+     {
+      "n": "Odin Luras Bjørtuft",
+      "pos": "D"
+     },
+     {
+      "n": "Jostein Gundersen",
+      "pos": "D"
+     },
+     {
+      "n": "Fredrik André Bjørkan",
+      "pos": "D"
+     },
+     {
+      "n": "Sondre Auklend",
+      "pos": "M"
+     },
+     {
+      "n": "Patrick Berg",
+      "pos": "M"
+     },
+     {
+      "n": "Sondre Fet",
+      "pos": "M"
+     },
+     {
+      "n": "Ole Didrik Blomberg",
+      "pos": "F"
+     },
+     {
+      "n": "Ola Brynhildsen",
+      "pos": "F"
+     },
+     {
+      "n": "Jens Petter Hauge",
+      "pos": "F"
+     }
+    ],
+    "1026": [
+     {
+      "n": "Lukas Jungwirth",
+      "pos": "G"
+     },
+     {
+      "n": "Xavier Mbuyamba",
+      "pos": "D"
+     },
+     {
+      "n": "Alemão",
+      "pos": "D"
+     },
+     {
+      "n": "Miguel Freckleton",
+      "pos": "D"
+     },
+     {
+      "n": "Kasper Jørgensen",
+      "pos": "M"
+     },
+     {
+      "n": "Robert Ljubičić",
+      "pos": "M"
+     },
+     {
+      "n": "Alessandro Schöpf",
+      "pos": "M"
+     },
+     {
+      "n": "Yvan Dibango",
+      "pos": "M"
+     },
+     {
+      "n": "Krystof Daněk",
+      "pos": "F"
+     },
+     {
+      "n": "Samuel Adeniran",
+      "pos": "F"
+     },
+     {
+      "n": "Christoph Lang",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1635667": {
-   "hora": "2026-11-24T18:09:14.222449+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-24T18:22:39.291477+01:00",
+   "xi": [
+    "Uğurcan Çakır",
+    "Wilfried Singo",
+    "Davinson Sánchez",
+    "Abdülkerim Bardakcı",
+    "Ismail Jakobs",
+    "Lucas Torreira",
+    "Mario Lemina",
+    "Eren Elmalı",
+    "Yunus Akgün",
+    "Aleksey Batrakov",
+    "Barış Alper Yılmaz",
+    "Zion Suzuki",
+    "Taylor Harwood-Bellis",
+    "Victor Lindelöf",
+    "Tyrone Mings",
+    "Ian Maatsen",
+    "Boubacar Kamara",
+    "João Gomes",
+    "Alysson",
+    "Johan Manzambi",
+    "John McGinn",
+    "Nicolas Jackson"
+   ],
+   "banquillo": [
+    "Günay Güvenç",
+    "Jankat Yılmaz",
+    "El Chadaille Bitshiabu",
+    "Gabriel Sara",
+    "Leroy Sané",
+    "Lesley Ugochukwu",
+    "İlkay Gündoğan",
+    "Renato Nhaga",
+    "Deniz Gül",
+    "Berat Luş",
+    "Marco Bizot",
+    "James Wright",
+    "Pau Torres",
+    "Aaron Wan-Bissaka",
+    "Ross Barkley",
+    "Emiliano Buendía",
+    "Lamare Bogarde",
+    "Leon Goretzka",
+    "Tammy Abraham",
+    "Ibrahim Mbaye",
+    "George Hemmings"
+   ],
+   "equipos": {
+    "645": [
+     {
+      "n": "Uğurcan Çakır",
+      "pos": "G"
+     },
+     {
+      "n": "Wilfried Singo",
+      "pos": "D"
+     },
+     {
+      "n": "Davinson Sánchez",
+      "pos": "D"
+     },
+     {
+      "n": "Abdülkerim Bardakcı",
+      "pos": "D"
+     },
+     {
+      "n": "Ismail Jakobs",
+      "pos": "D"
+     },
+     {
+      "n": "Lucas Torreira",
+      "pos": "M"
+     },
+     {
+      "n": "Mario Lemina",
+      "pos": "M"
+     },
+     {
+      "n": "Eren Elmalı",
+      "pos": "M"
+     },
+     {
+      "n": "Yunus Akgün",
+      "pos": "F"
+     },
+     {
+      "n": "Aleksey Batrakov",
+      "pos": "F"
+     },
+     {
+      "n": "Barış Alper Yılmaz",
+      "pos": "F"
+     }
+    ],
+    "66": [
+     {
+      "n": "Zion Suzuki",
+      "pos": "G"
+     },
+     {
+      "n": "Taylor Harwood-Bellis",
+      "pos": "D"
+     },
+     {
+      "n": "Victor Lindelöf",
+      "pos": "D"
+     },
+     {
+      "n": "Tyrone Mings",
+      "pos": "D"
+     },
+     {
+      "n": "Ian Maatsen",
+      "pos": "D"
+     },
+     {
+      "n": "Boubacar Kamara",
+      "pos": "M"
+     },
+     {
+      "n": "João Gomes",
+      "pos": "M"
+     },
+     {
+      "n": "Alysson",
+      "pos": "M"
+     },
+     {
+      "n": "Johan Manzambi",
+      "pos": "M"
+     },
+     {
+      "n": "John McGinn",
+      "pos": "M"
+     },
+     {
+      "n": "Nicolas Jackson",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
