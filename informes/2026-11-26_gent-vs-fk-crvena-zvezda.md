@@ -1,10 +1,10 @@
 # Gent – FK Crvena Zvezda
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España) · Planet Group Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 10:51_
+_Actualizadas: 24/11 23:23_
 
 - **1X2:** 1 **2.10**  ·  X **3.40**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.30**  ·  X2 **1.70**
@@ -30,7 +30,7 @@ _Actualizadas: 24/11 10:51_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.11**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **1.88** · menos **1.92**
 - **Córners 1X2:** 1 **1.91**  ·  X **8.00**  ·  2 **2.20**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.25**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**

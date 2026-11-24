@@ -1,49 +1,30 @@
 # Próximos partidos
 
-_Actualizado el 24/11/2026 10:53 (hora España). Partidos guardados en la base de datos: 2796._
+_Actualizado el 24/11/2026 23:25 (hora España). Partidos guardados en la base de datos: 2813._
 
-
-## Martes 24/11
-- 18:45 · Champions League · [Bodo/Glimt – Lask Linz](informes/2026-11-24_bodo-glimt-vs-lask-linz.md) · 1X2: 1.48 / 5.00 / 5.25
-- 18:45 · Champions League · [Galatasaray – Aston Villa](informes/2026-11-24_galatasaray-vs-aston-villa.md) · 1X2: 3.00 / 3.70 / 2.20
-- 20:45 · Championship · [Cardiff – Preston](informes/2026-11-24_cardiff-vs-preston.md) · 1X2: 1.50 / 4.33 / 6.00
-- 20:45 · Championship · [Bristol City – Wrexham](informes/2026-11-24_bristol-city-vs-wrexham.md) · 1X2: 2.40 / 3.20 / 3.00
-- 20:45 · Championship · [Sheffield Utd – Southampton](informes/2026-11-24_sheffield-utd-vs-southampton.md) · 1X2: 2.60 / 3.40 / 2.60
-- 20:45 · Championship · [Middlesbrough – Swansea](informes/2026-11-24_middlesbrough-vs-swansea.md) · 1X2: 1.45 / 4.33 / 6.50
-- 20:45 · Championship · [Norwich – QPR](informes/2026-11-24_norwich-vs-qpr.md) · 1X2: 1.95 / 3.60 / 3.60
-- 20:45 · Championship · [Charlton – Lincoln](informes/2026-11-24_charlton-vs-lincoln.md) · 1X2: 2.70 / 3.20 / 2.62
-- 20:45 · Championship · [Portsmouth – West Ham](informes/2026-11-24_portsmouth-vs-west-ham.md) · 1X2: 4.00 / 3.60 / 1.83
-- 21:00 · Champions League · [Arsenal – Borussia Dortmund](informes/2026-11-24_arsenal-vs-borussia-dortmund.md) · 1X2: 1.44 / 4.50 / 7.00
-- 21:00 · Champions League · [Manchester City – Napoli](informes/2026-11-24_manchester-city-vs-napoli.md) · 1X2: 1.28 / 6.25 / 8.50
-- 21:00 · Champions League · [RB Leipzig – Lens](informes/2026-11-24_rb-leipzig-vs-lens.md) · 1X2: 1.36 / 5.25 / 7.50
-- 21:00 · Champions League · [Feyenoord – FC Porto](informes/2026-11-24_feyenoord-vs-fc-porto.md) · 1X2: 3.00 / 3.70 / 2.20
-- 21:00 · Champions League · [Real Madrid – PSV Eindhoven](informes/2026-11-24_real-madrid-vs-psv-eindhoven.md) · 1X2: 1.17 / 9.00 / 11.00
-- 21:00 · Champions League · [Slovan Bratislava – Real Betis](informes/2026-11-24_slovan-bratislava-vs-real-betis.md) · 1X2: 9.50 / 6.50 / 1.25
-- 21:00 · Champions League · [Como – AEK Athens FC](informes/2026-11-24_como-vs-aek-athens-fc.md) · 1X2: 1.27 / 6.50 / 9.00
-- 21:00 · Championship · [Wolves – Derby](informes/2026-11-24_wolves-vs-derby.md) · 1X2: 1.33 / 4.75 / 9.00
 
 ## Miércoles 25/11
-- 18:45 · Champions League · [Slavia Praha – Villarreal](informes/2026-11-25_slavia-praha-vs-villarreal.md) · 1X2: 3.10 / 3.90 / 2.10
+- 18:45 · Champions League · [Slavia Praha – Villarreal](informes/2026-11-25_slavia-praha-vs-villarreal.md) · 1X2: 3.00 / 3.90 / 2.15
 - 18:45 · Champions League · [Sabah FA – Barcelona](informes/2026-11-25_sabah-fa-vs-barcelona.md) · 1X2: 21.00 / 10.00 / 1.09
-- 20:45 · Championship · [Watford – Blackburn](informes/2026-11-25_watford-vs-blackburn.md) · 1X2: 2.50 / 3.40 / 2.70
-- 20:45 · Championship · [Burnley – Birmingham](informes/2026-11-25_burnley-vs-birmingham.md) · 1X2: 2.62 / 3.40 / 2.55
-- 20:45 · Championship · [Bolton – West Brom](informes/2026-11-25_bolton-vs-west-brom.md) · 1X2: 3.70 / 3.60 / 1.95
-- 21:00 · Champions League · [Lille – Bayern München](informes/2026-11-25_lille-vs-bayern-munchen.md) · 1X2: 5.25 / 4.20 / 1.62
+- 20:45 · Championship · [Watford – Blackburn](informes/2026-11-25_watford-vs-blackburn.md) · 1X2: 2.60 / 3.30 / 2.70
+- 20:45 · Championship · [Burnley – Birmingham](informes/2026-11-25_burnley-vs-birmingham.md) · 1X2: 2.70 / 3.30 / 2.50
+- 20:45 · Championship · [Bolton – West Brom](informes/2026-11-25_bolton-vs-west-brom.md) · 1X2: 3.60 / 3.50 / 2.00
+- 21:00 · Champions League · [Lille – Bayern München](informes/2026-11-25_lille-vs-bayern-munchen.md) · 1X2: 5.00 / 4.00 / 1.65
 - 21:00 · Champions League · [Paris Saint Germain – AS Roma](informes/2026-11-25_paris-saint-germain-vs-as-roma.md) · 1X2: 1.42 / 4.75 / 7.00
-- 21:00 · Champions League · [Sporting CP – Manchester United](informes/2026-11-25_sporting-cp-vs-manchester-united.md) · 1X2: 2.50 / 3.60 / 2.62
+- 21:00 · Champions League · [Sporting CP – Manchester United](informes/2026-11-25_sporting-cp-vs-manchester-united.md) · 1X2: 2.55 / 3.60 / 2.60
 - 21:00 · Champions League · [Inter – VfB Stuttgart](informes/2026-11-25_inter-vs-vfb-stuttgart.md) · 1X2: 1.40 / 5.50 / 6.25
-- 21:00 · Champions League · [Atletico Madrid – Viking](informes/2026-11-25_atletico-madrid-vs-viking.md) · 1X2: 1.11 / 9.00 / 21.00
-- 21:00 · Champions League · [Shakhtar Donetsk – Fenerbahçe](informes/2026-11-25_shakhtar-donetsk-vs-fenerbahce.md) · 1X2: 2.60 / 3.50 / 2.62
-- 21:00 · Champions League · [Club Brugge KV – Liverpool](informes/2026-11-25_club-brugge-kv-vs-liverpool.md) · 1X2: 4.33 / 4.75 / 1.62
-- 21:00 · Championship · [Stoke City – Millwall](informes/2026-11-25_stoke-city-vs-millwall.md) · 1X2: 2.25 / 3.30 / 3.20
+- 21:00 · Champions League · [Atletico Madrid – Viking](informes/2026-11-25_atletico-madrid-vs-viking.md) · 1X2: 1.10 / 9.50 / 21.00
+- 21:00 · Champions League · [Shakhtar Donetsk – Fenerbahçe](informes/2026-11-25_shakhtar-donetsk-vs-fenerbahce.md) · 1X2: 2.90 / 3.50 / 2.35
+- 21:00 · Champions League · [Club Brugge KV – Liverpool](informes/2026-11-25_club-brugge-kv-vs-liverpool.md) · 1X2: 4.20 / 4.75 / 1.65
+- 21:00 · Championship · [Stoke City – Millwall](informes/2026-11-25_stoke-city-vs-millwall.md) · 1X2: 2.25 / 3.25 / 3.20
 
 ## Jueves 26/11
 - 16:30 · Conference League · [Kairat Almaty – Mjallby AIF](informes/2026-11-26_kairat-almaty-vs-mjallby-aif.md) · 1X2: 2.20 / 3.50 / 3.00
 - 18:45 · Europa League · [Marseille – Levski Sofia](informes/2026-11-26_marseille-vs-levski-sofia.md) · 1X2: 1.40 / 4.75 / 8.00
-- 18:45 · Europa League · [Celta Vigo – Bournemouth](informes/2026-11-26_celta-vigo-vs-bournemouth.md) · 1X2: 3.80 / 3.60 / 1.95
+- 18:45 · Europa League · [Celta Vigo – Bournemouth](informes/2026-11-26_celta-vigo-vs-bournemouth.md) · 1X2: 3.70 / 3.60 / 2.00
 - 18:45 · Europa League · [Beşiktaş – Hapoel Beer Sheva](informes/2026-11-26_besiktas-vs-hapoel-beer-sheva.md) · 1X2: 1.22 / 7.50 / 10.00
 - 18:45 · Europa League · [Olympiakos Piraeus – AC Milan](informes/2026-11-26_olympiakos-piraeus-vs-ac-milan.md) · 1X2: 2.70 / 3.50 / 2.50
-- 18:45 · Europa League · [Plzen – Benfica](informes/2026-11-26_plzen-vs-benfica.md) · 1X2: 5.50 / 5.00 / 1.48
+- 18:45 · Europa League · [Plzen – Benfica](informes/2026-11-26_plzen-vs-benfica.md) · 1X2: 5.75 / 5.00 / 1.45
 - 18:45 · Europa League · [Red Bull Salzburg – Ararat-Armenia](informes/2026-11-26_red-bull-salzburg-vs-ararat-armenia.md) · 1X2: 1.17 / 7.50 / 15.00
 - 18:45 · Europa League · [Dinamo Zagreb – Bayer Leverkusen](informes/2026-11-26_dinamo-zagreb-vs-bayer-leverkusen.md) · 1X2: 4.20 / 4.50 / 1.67
 - 18:45 · Europa League · [Union St. Gilloise – Lech Poznan](informes/2026-11-26_union-st-gilloise-vs-lech-poznan.md) · 1X2: 1.36 / 5.25 / 7.50
@@ -53,10 +34,10 @@ _Actualizado el 24/11/2026 10:53 (hora España). Partidos guardados en la base d
 - 18:45 · Conference League · [Brann – Aarhus](informes/2026-11-26_brann-vs-aarhus.md) · 1X2: 2.10 / 3.70 / 3.10
 - 18:45 · Conference League · [FK Jablonec – FC Lugano](informes/2026-11-26_fk-jablonec-vs-fc-lugano.md) · 1X2: 3.40 / 3.50 / 2.00
 - 18:45 · Conference League · [Egnatia Rrogozhinë – Lincoln Red Imps FC](informes/2026-11-26_egnatia-rrogozhine-vs-lincoln-red-imps-fc.md) · 1X2: 1.55 / 4.20 / 5.25
-- 18:45 · Conference League · [Pafos – FC Midtjylland](informes/2026-11-26_pafos-vs-fc-midtjylland.md) · 1X2: 3.00 / 3.60 / 2.15
+- 18:45 · Conference League · [Pafos – FC Midtjylland](informes/2026-11-26_pafos-vs-fc-midtjylland.md) · 1X2: 2.90 / 3.60 / 2.20
 - 18:45 · Conference League · [FC Iberia 1999 – Getafe](informes/2026-11-26_fc-iberia-1999-vs-getafe.md) · 1X2: 6.50 / 4.10 / 1.45
 - 18:45 · Conference League · [Kauno Žalgiris – Riga](informes/2026-11-26_kauno-zalgiris-vs-riga.md) · 1X2: 3.20 / 3.60 / 2.05
-- 19:00 · 1. Division · [Aalborg – Esbjerg](informes/2026-11-26_aalborg-vs-esbjerg.md)
+- 19:00 · 1. Division · [Aalborg – Esbjerg](informes/2026-11-26_aalborg-vs-esbjerg.md) · 1X2: 1.73 / 4.00 / 4.20
 - 21:00 · Europa League · [Crystal Palace – Real Sociedad](informes/2026-11-26_crystal-palace-vs-real-sociedad.md) · 1X2: 2.00 / 3.90 / 3.30
 - 21:00 · Europa League · [Lyon – Lillestrom](informes/2026-11-26_lyon-vs-lillestrom.md) · 1X2: 1.18 / 8.00 / 12.00
 - 21:00 · Europa League · [1899 Hoffenheim – Sturm Graz](informes/2026-11-26_1899-hoffenheim-vs-sturm-graz.md) · 1X2: 1.33 / 5.50 / 8.00
@@ -72,7 +53,7 @@ _Actualizado el 24/11/2026 10:53 (hora España). Partidos guardados en la base d
 - 21:00 · Conference League · [FC Nordsjaelland – Panathinaikos](informes/2026-11-26_fc-nordsjaelland-vs-panathinaikos.md) · 1X2: 2.62 / 3.50 / 2.45
 - 21:00 · Conference League · [HNK Hajduk Split – St. Truiden](informes/2026-11-26_hnk-hajduk-split-vs-st-truiden.md) · 1X2: 2.05 / 3.60 / 3.25
 - 21:00 · Conference League · [Gent – FK Crvena Zvezda](informes/2026-11-26_gent-vs-fk-crvena-zvezda.md) · 1X2: 2.10 / 3.40 / 3.20
-- 21:00 · Conference League · [CSKA Sofia – Trabzonspor](informes/2026-11-26_cska-sofia-vs-trabzonspor.md) · 1X2: 3.75 / 3.60 / 1.90
+- 21:00 · Conference League · [CSKA Sofia – Trabzonspor](informes/2026-11-26_cska-sofia-vs-trabzonspor.md) · 1X2: 3.90 / 3.60 / 1.85
 - 21:00 · Conference League · [Inter Club d'Escaldes – FC Copenhagen](informes/2026-11-26_inter-club-d-escaldes-vs-fc-copenhagen.md) · 1X2: 11.00 / 5.50 / 1.25
 - 21:00 · Conference League · [Borac Banja Luka – Atalanta](informes/2026-11-26_borac-banja-luka-vs-atalanta.md) · 1X2: 5.25 / 4.33 / 1.53
 
@@ -90,7 +71,7 @@ _Actualizado el 24/11/2026 10:53 (hora España). Partidos guardados en la base d
 - 21:00 · LaLiga · [Levante – Racing Santander](informes/2026-11-27_levante-vs-racing-santander.md) · 1X2: 2.05 / 3.60 / 3.20
 - 21:00 · Premier League · [Nottingham Forest – Chelsea](informes/2026-11-27_nottingham-forest-vs-chelsea.md) · 1X2: 2.60 / 3.30 / 2.55
 - 21:00 · Championship · [Southampton – Middlesbrough](informes/2026-11-27_southampton-vs-middlesbrough.md) · 1X2: 2.80 / 3.60 / 2.20
-- 21:15 · Primeira Liga · [Maritimo – Nacional](informes/2026-11-27_maritimo-vs-nacional.md) · 1X2: 2.15 / 3.25 / 3.30
+- 21:15 · Primeira Liga · [Maritimo – Nacional](informes/2026-11-27_maritimo-vs-nacional.md) · 1X2: 2.10 / 3.30 / 3.40
 
 ## Sábado 28/11
 - 12:00 · Segunda Liga · [AVS – Leixoes](informes/2026-11-28_avs-vs-leixoes.md)
@@ -101,8 +82,9 @@ _Actualizado el 24/11/2026 10:53 (hora España). Partidos guardados en la base d
 - 13:30 · Liga I · [FC Voluntari – CFR 1907 Cluj](informes/2026-11-28_fc-voluntari-vs-cfr-1907-cluj.md)
 - 13:30 · 1. Division · [HB Koge – Aarhus Fremad](informes/2026-11-28_hb-koge-vs-aarhus-fremad.md)
 - 14:00 · LaLiga · [Real Betis – Rayo Vallecano](informes/2026-11-28_real-betis-vs-rayo-vallecano.md) · 1X2: 1.57 / 4.10 / 5.25
-- 14:30 · Serie C · [Novara – Alcione](informes/2026-11-28_novara-vs-alcione.md)
-- 14:30 · Serie C · [Athletic Carpi – Lecco](informes/2026-11-28_athletic-carpi-vs-lecco.md)
+- 14:00 · Segunda División · [Las Palmas – FC Andorra](informes/2026-11-28_las-palmas-vs-fc-andorra.md) · 1X2: 2.30 / 3.40 / 2.80
+- 14:30 · Serie C · [Novara – Alcione](informes/2026-11-28_novara-vs-alcione.md) · 1X2: 2.30 / 3.00 / 2.88
+- 14:30 · Serie C · [Athletic Carpi – Lecco](informes/2026-11-28_athletic-carpi-vs-lecco.md) · 1X2: 3.40 / 3.30 / 1.95
 - 15:00 · Serie A · [Frosinone – Parma](informes/2026-11-28_frosinone-vs-parma.md) · 1X2: 1.55 / 4.00 / 5.25
 - 15:00 · Segunda Liga · [Chaves – Tondela](informes/2026-11-28_chaves-vs-tondela.md)
 - 15:30 · Bundesliga · [FSV Mainz 05 – Union Berlin](informes/2026-11-28_fsv-mainz-05-vs-union-berlin.md) · 1X2: 1.50 / 4.33 / 5.75
@@ -120,18 +102,21 @@ _Actualizado el 24/11/2026 10:53 (hora España). Partidos guardados en la base d
 - 16:00 · Championship · [Wrexham – Portsmouth](informes/2026-11-28_wrexham-vs-portsmouth.md)
 - 16:00 · Liga I · [Corvinul Hunedoara – Farul Constanta](informes/2026-11-28_corvinul-hunedoara-vs-farul-constanta.md)
 - 16:15 · LaLiga · [Malaga – Athletic Club](informes/2026-11-28_malaga-vs-athletic-club.md) · 1X2: 4.20 / 3.75 / 1.73
+- 16:15 · Segunda División · [Albacete – Tenerife](informes/2026-11-28_albacete-vs-tenerife.md) · 1X2: 2.20 / 3.20 / 3.20
+- 16:15 · Segunda División · [Eldense – Girona](informes/2026-11-28_eldense-vs-girona.md) · 1X2: 3.10 / 3.40 / 2.20
 - 16:30 · Eredivisie · [Excelsior – Telstar](informes/2026-11-28_excelsior-vs-telstar.md) · 1X2: 1.95 / 3.50 / 3.60
 - 16:30 · Primeira Liga · [Moreirense – Santa Clara](informes/2026-11-28_moreirense-vs-santa-clara.md) · 1X2: 3.60 / 3.10 / 2.10
 - 16:30 · Primeira Liga · [Arouca – Rio Ave](informes/2026-11-28_arouca-vs-rio-ave.md) · 1X2: 1.65 / 3.75 / 4.75
 - 16:30 · Segunda Liga · [Farense – União de Leiria](informes/2026-11-28_farense-vs-uniao-de-leiria.md)
 - 17:15 · Ligue 1 · [Angers – Lens](informes/2026-11-28_angers-vs-lens.md) · 1X2: 4.33 / 4.00 / 1.70
-- 17:30 · Serie C · [Lumezzane – Desenzano Calvina](informes/2026-11-28_lumezzane-vs-desenzano-calvina.md)
-- 17:30 · Serie C · [Pergolettese – Giana Erminio](informes/2026-11-28_pergolettese-vs-giana-erminio.md)
-- 17:30 · Serie C · [Ospitaletto – Union Brescia](informes/2026-11-28_ospitaletto-vs-union-brescia.md)
+- 17:30 · Serie C · [Lumezzane – Desenzano Calvina](informes/2026-11-28_lumezzane-vs-desenzano-calvina.md) · 1X2: 2.10 / 3.20 / 3.10
+- 17:30 · Serie C · [Pergolettese – Giana Erminio](informes/2026-11-28_pergolettese-vs-giana-erminio.md) · 1X2: 2.15 / 3.10 / 3.10
+- 17:30 · Serie C · [Ospitaletto – Union Brescia](informes/2026-11-28_ospitaletto-vs-union-brescia.md) · 1X2: 3.40 / 3.20 / 1.95
 - 18:00 · Serie A · [Torino – Lazio](informes/2026-11-28_torino-vs-lazio.md) · 1X2: 3.40 / 3.40 / 2.05
 - 18:30 · LaLiga · [Elche – Atletico Madrid](informes/2026-11-28_elche-vs-atletico-madrid.md) · 1X2: 6.25 / 4.20 / 1.48
 - 18:30 · Premier League · [Ipswich – Aston Villa](informes/2026-11-28_ipswich-vs-aston-villa.md) · 1X2: 3.50 / 3.80 / 1.90
 - 18:30 · Bundesliga · [VfB Stuttgart – Eintracht Frankfurt](informes/2026-11-28_vfb-stuttgart-vs-eintracht-frankfurt.md) · 1X2: 1.73 / 4.33 / 3.80
+- 18:30 · Segunda División · [Eibar – Burgos](informes/2026-11-28_eibar-vs-burgos.md) · 1X2: 1.80 / 3.40 / 4.33
 - 18:45 · Eredivisie · [PSV Eindhoven – GO Ahead Eagles](informes/2026-11-28_psv-eindhoven-vs-go-ahead-eagles.md) · 1X2: 1.22 / 6.50 / 10.00
 - 19:00 · Primeira Liga · [Academico Viseu – Alverca](informes/2026-11-28_academico-viseu-vs-alverca.md) · 1X2: 2.45 / 3.20 / 2.80
 - 19:00 · Segunda Liga · [Sporting CP B – Amarante](informes/2026-11-28_sporting-cp-b-vs-amarante.md)
@@ -142,6 +127,7 @@ _Actualizado el 24/11/2026 10:53 (hora España). Partidos guardados en la base d
 - 20:45 · Ligue 1 · [Le Havre – Strasbourg](informes/2026-11-28_le-havre-vs-strasbourg.md) · 1X2: 2.88 / 3.75 / 2.20
 - 20:45 · Ligue 1 · [Le Mans – Lille](informes/2026-11-28_le-mans-vs-lille.md) · 1X2: 3.80 / 3.50 / 1.95
 - 21:00 · LaLiga · [Real Madrid – Alaves](informes/2026-11-28_real-madrid-vs-alaves.md) · 1X2: 1.14 / 8.00 / 15.00
+- 21:00 · Segunda División · [Valladolid – Real Sociedad II](informes/2026-11-28_valladolid-vs-real-sociedad-ii.md) · 1X2: 1.80 / 3.60 / 4.10
 - 21:00 · Eredivisie · [Cambuur – Sparta Rotterdam](informes/2026-11-28_cambuur-vs-sparta-rotterdam.md) · 1X2: 2.20 / 3.75 / 2.88
 - 21:30 · Primeira Liga · [Vitória SC – Estrela](informes/2026-11-28_vitoria-sc-vs-estrela.md) · 1X2: 1.70 / 3.70 / 4.50
 
@@ -149,16 +135,17 @@ _Actualizado el 24/11/2026 10:53 (hora España). Partidos guardados en la base d
 - 12:00 · Segunda Liga · [Lusitânia Lourosa – Vizela](informes/2026-11-29_lusitania-lourosa-vs-vizela.md)
 - 12:15 · Eredivisie · [ADO Den Haag – Utrecht](informes/2026-11-29_ado-den-haag-vs-utrecht.md) · 1X2: 2.70 / 3.60 / 2.35
 - 12:30 · Serie A · [Udinese – Fiorentina](informes/2026-11-29_udinese-vs-fiorentina.md) · 1X2: 3.20 / 3.40 / 2.15
-- 12:30 · Serie C · [Arzignano Valchiampo – Trento](informes/2026-11-29_arzignano-valchiampo-vs-trento.md)
+- 12:30 · Serie C · [Arzignano Valchiampo – Trento](informes/2026-11-29_arzignano-valchiampo-vs-trento.md) · 1X2: 3.10 / 3.20 / 2.10
 - 13:00 · Premier League · [Everton – Liverpool](informes/2026-11-29_everton-vs-liverpool.md) · 1X2: 3.40 / 3.60 / 1.95
 - 13:00 · Championship · [Swansea – Cardiff](informes/2026-11-29_swansea-vs-cardiff.md)
 - 14:00 · LaLiga · [Valencia – Osasuna](informes/2026-11-29_valencia-vs-osasuna.md) · 1X2: 2.05 / 3.40 / 3.30
+- 14:00 · Segunda División · [Granada CF – AD Ceuta FC](informes/2026-11-29_granada-cf-vs-ad-ceuta-fc.md) · 1X2: 1.53 / 4.10 / 5.25
 - 14:00 · Liga I · [Oţelul – Uta Arad](informes/2026-11-29_otelul-vs-uta-arad.md)
 - 14:00 · 1. Division · [Hobro – FC Fredericia](informes/2026-11-29_hobro-vs-fc-fredericia.md)
 - 14:30 · Eredivisie · [Fortuna Sittard – Heerenveen](informes/2026-11-29_fortuna-sittard-vs-heerenveen.md) · 1X2: 3.75 / 3.60 / 1.90
 - 14:30 · Eredivisie · [Feyenoord – Ajax](informes/2026-11-29_feyenoord-vs-ajax.md) · 1X2: 2.15 / 3.90 / 3.00
-- 14:30 · Serie C · [Cittadella – PRO Vercelli](informes/2026-11-29_cittadella-vs-pro-vercelli.md)
-- 14:30 · Serie C · [Juventus U23 – Dolomiti Bellunesi](informes/2026-11-29_juventus-u23-vs-dolomiti-bellunesi.md)
+- 14:30 · Serie C · [Cittadella – PRO Vercelli](informes/2026-11-29_cittadella-vs-pro-vercelli.md) · 1X2: 1.45 / 3.90 / 6.00
+- 14:30 · Serie C · [Juventus U23 – Dolomiti Bellunesi](informes/2026-11-29_juventus-u23-vs-dolomiti-bellunesi.md) · 1X2: 1.73 / 3.30 / 4.33
 - 15:00 · Serie A · [Sassuolo – Napoli](informes/2026-11-29_sassuolo-vs-napoli.md) · 1X2: 4.50 / 3.80 / 1.67
 - 15:00 · Ligue 1 · [Auxerre – Marseille](informes/2026-11-29_auxerre-vs-marseille.md) · 1X2: 3.90 / 3.75 / 1.83
 - 15:00 · Segunda Liga · [Felgueiras 1932 – FC Porto B](informes/2026-11-29_felgueiras-1932-vs-fc-porto-b.md)
@@ -168,25 +155,17 @@ _Actualizado el 24/11/2026 10:53 (hora España). Partidos guardados en la base d
 - 15:05 · Premier League · [Sunderland – Tottenham](informes/2026-11-29_sunderland-vs-tottenham.md) · 1X2: 3.30 / 3.40 / 2.00
 - 15:30 · Bundesliga · [SC Freiburg – RB Leipzig](informes/2026-11-29_sc-freiburg-vs-rb-leipzig.md) · 1X2: 2.60 / 4.00 / 2.30
 - 16:15 · LaLiga · [Deportivo La Coruna – Barcelona](informes/2026-11-29_deportivo-la-coruna-vs-barcelona.md) · 1X2: 9.00 / 5.75 / 1.25
+- 16:15 · Segunda División · [Mallorca – Castellón](informes/2026-11-29_mallorca-vs-castellon.md) · 1X2: 2.30 / 3.40 / 2.88
 - 16:30 · Segunda Liga · [Penafiel – Benfica B](informes/2026-11-29_penafiel-vs-benfica-b.md)
 - 16:45 · Eredivisie · [PEC Zwolle – AZ Alkmaar](informes/2026-11-29_pec-zwolle-vs-az-alkmaar.md) · 1X2: 5.00 / 4.20 / 1.57
-- 17:00 · Segunda División · [Las Palmas – FC Andorra](informes/2026-11-29_las-palmas-vs-fc-andorra.md) · 1X2: 2.30 / 3.40 / 2.80
-- 17:00 · Segunda División · [Eibar – Burgos](informes/2026-11-29_eibar-vs-burgos.md) · 1X2: 1.80 / 3.40 / 4.33
-- 17:00 · Segunda División · [Granada CF – AD Ceuta FC](informes/2026-11-29_granada-cf-vs-ad-ceuta-fc.md) · 1X2: 1.53 / 4.10 / 5.25
-- 17:00 · Segunda División · [Oviedo – Celta de Vigo II](informes/2026-11-29_oviedo-vs-celta-de-vigo-ii.md) · 1X2: 1.50 / 4.00 / 5.75
-- 17:00 · Segunda División · [Valladolid – Real Sociedad II](informes/2026-11-29_valladolid-vs-real-sociedad-ii.md) · 1X2: 1.80 / 3.60 / 4.10
-- 17:00 · Segunda División · [Albacete – Tenerife](informes/2026-11-29_albacete-vs-tenerife.md) · 1X2: 2.20 / 3.20 / 3.20
-- 17:00 · Segunda División · [Almeria – Sporting Gijon](informes/2026-11-29_almeria-vs-sporting-gijon.md) · 1X2: 1.67 / 3.70 / 4.75
-- 17:00 · Segunda División · [Cadiz – Cordoba](informes/2026-11-29_cadiz-vs-cordoba.md) · 1X2: 3.10 / 3.50 / 2.10
-- 17:00 · Segunda División · [Mallorca – Castellón](informes/2026-11-29_mallorca-vs-castellon.md) · 1X2: 2.30 / 3.40 / 2.88
-- 17:00 · Segunda División · [Eldense – Girona](informes/2026-11-29_eldense-vs-girona.md) · 1X2: 3.10 / 3.40 / 2.20
 - 17:15 · Ligue 1 · [Toulouse – Rennes](informes/2026-11-29_toulouse-vs-rennes.md) · 1X2: 2.50 / 3.70 / 2.50
 - 17:30 · Premier League · [Arsenal – Manchester City](informes/2026-11-29_arsenal-vs-manchester-city.md) · 1X2: 1.90 / 3.60 / 3.75
 - 17:30 · Bundesliga · [1899 Hoffenheim – FC Augsburg](informes/2026-11-29_1899-hoffenheim-vs-fc-augsburg.md) · 1X2: 1.73 / 4.33 / 3.80
-- 17:30 · Serie C · [Renate – Folgore Caratese](informes/2026-11-29_renate-vs-folgore-caratese.md)
-- 17:30 · Serie C · [Albinoleffe – Treviso](informes/2026-11-29_albinoleffe-vs-treviso.md)
+- 17:30 · Serie C · [Renate – Folgore Caratese](informes/2026-11-29_renate-vs-folgore-caratese.md) · 1X2: 1.90 / 3.25 / 3.50
+- 17:30 · Serie C · [Albinoleffe – Treviso](informes/2026-11-29_albinoleffe-vs-treviso.md) · 1X2: 2.50 / 3.10 / 2.55
 - 18:00 · Serie A · [AS Roma – Monza](informes/2026-11-29_as-roma-vs-monza.md) · 1X2: 1.18 / 6.50 / 13.00
 - 18:30 · LaLiga · [Celta Vigo – Villarreal](informes/2026-11-29_celta-vigo-vs-villarreal.md) · 1X2: 2.62 / 3.40 / 2.50
+- 18:30 · Segunda División · [Cadiz – Cordoba](informes/2026-11-29_cadiz-vs-cordoba.md) · 1X2: 3.10 / 3.50 / 2.10
 - 19:00 · Primeira Liga · [GIL Vicente – Estoril](informes/2026-11-29_gil-vicente-vs-estoril.md) · 1X2: 1.80 / 3.50 / 4.20
 - 19:00 · Liga I · [Rapid – FC Botosani](informes/2026-11-29_rapid-vs-fc-botosani.md)
 - 19:30 · Bundesliga · [Borussia Dortmund – Bayer Leverkusen](informes/2026-11-29_borussia-dortmund-vs-bayer-leverkusen.md) · 1X2: 2.05 / 3.80 / 3.00
@@ -194,12 +173,14 @@ _Actualizado el 24/11/2026 10:53 (hora España). Partidos guardados en la base d
 - 20:45 · Serie A · [Como – Juventus](informes/2026-11-29_como-vs-juventus.md) · 1X2: 2.10 / 3.40 / 3.30
 - 20:45 · Ligue 1 · [Lyon – Monaco](informes/2026-11-29_lyon-vs-monaco.md) · 1X2: 2.45 / 3.30 / 2.75
 - 21:00 · LaLiga · [Real Sociedad – Sevilla](informes/2026-11-29_real-sociedad-vs-sevilla.md) · 1X2: 2.10 / 3.50 / 3.20
+- 21:00 · Segunda División · [Almeria – Sporting Gijon](informes/2026-11-29_almeria-vs-sporting-gijon.md) · 1X2: 1.67 / 3.70 / 4.75
 - 21:30 · Primeira Liga · [FC Porto – Sporting CP](informes/2026-11-29_fc-porto-vs-sporting-cp.md) · 1X2: 1.91 / 3.50 / 3.80
 
 ## Lunes 30/11
 - 18:30 · Serie A · [Lecce – Atalanta](informes/2026-11-30_lecce-vs-atalanta.md) · 1X2: 3.70 / 3.50 / 1.90
 - 19:00 · Segunda Liga · [Academica – Torreense](informes/2026-11-30_academica-vs-torreense.md)
 - 19:00 · Liga I · [Universitatea Craiova – Dinamo Bucuresti](informes/2026-11-30_universitatea-craiova-vs-dinamo-bucuresti.md)
+- 20:30 · Segunda División · [Oviedo – Celta de Vigo II](informes/2026-11-30_oviedo-vs-celta-de-vigo-ii.md) · 1X2: 1.50 / 4.00 / 5.75
 - 20:45 · Serie A · [Cagliari – AC Milan](informes/2026-11-30_cagliari-vs-ac-milan.md) · 1X2: 4.50 / 3.70 / 1.70
 - 21:00 · LaLiga · [Espanyol – Getafe](informes/2026-11-30_espanyol-vs-getafe.md) · 1X2: 1.95 / 3.25 / 4.10
 - 21:15 · Primeira Liga · [Benfica – Famalicao](informes/2026-11-30_benfica-vs-famalicao.md) · 1X2: 1.17 / 7.00 / 13.00
@@ -215,3 +196,50 @@ _Actualizado el 24/11/2026 10:53 (hora España). Partidos guardados en la base d
 - 21:00 · Premier League · [Coventry – Ipswich](informes/2026-12-01_coventry-vs-ipswich.md) · 1X2: 2.20 / 3.50 / 3.00
 - 21:00 · Coppa Italia · [Inter – Genoa](informes/2026-12-01_inter-vs-genoa.md)
 - 21:00 · KNVB Beker · [GO Ahead Eagles – FC OSS](informes/2026-12-01_go-ahead-eagles-vs-fc-oss.md)
+
+## Miércoles 02/12
+- 18:00 · DFB-Pokal · [Bayer Leverkusen – RB Leipzig](informes/2026-12-02_bayer-leverkusen-vs-rb-leipzig.md)
+- 18:00 · DFB-Pokal · [1. FC Kaiserslautern – SC Freiburg](informes/2026-12-02_1-fc-kaiserslautern-vs-sc-freiburg.md)
+- 18:45 · KNVB Beker · [Heerenveen – De Treffers](informes/2026-12-02_heerenveen-vs-de-treffers.md)
+- 19:00 · LaLiga · [Real Sociedad – Real Madrid](informes/2026-12-02_real-sociedad-vs-real-madrid.md) · 1X2: 6.00 / 4.75 / 1.45
+- 20:30 · Premier League · [Liverpool – Sunderland](informes/2026-12-02_liverpool-vs-sunderland.md) · 1X2: 1.50 / 4.20 / 6.00
+- 20:30 · Premier League · [Chelsea – Crystal Palace](informes/2026-12-02_chelsea-vs-crystal-palace.md) · 1X2: 1.60 / 4.33 / 4.50
+- 20:30 · Premier League · [Manchester City – Leeds](informes/2026-12-02_manchester-city-vs-leeds.md) · 1X2: 1.53 / 4.20 / 5.50
+- 20:30 · Premier League · [Hull City – Nottingham Forest](informes/2026-12-02_hull-city-vs-nottingham-forest.md) · 1X2: 3.90 / 3.50 / 1.90
+- 20:45 · DFB-Pokal · [Eintracht Frankfurt – Borussia Dortmund](informes/2026-12-02_eintracht-frankfurt-vs-borussia-dortmund.md)
+- 20:45 · DFB-Pokal · [VfL Bochum – FC Augsburg](informes/2026-12-02_vfl-bochum-vs-fc-augsburg.md)
+- 21:00 · Copa del Rey · [Europa Fc – Rayo Vallecano](informes/2026-12-02_europa-fc-vs-rayo-vallecano.md)
+- 21:00 · Copa del Rey · [Numancia – Athletic Club](informes/2026-12-02_numancia-vs-athletic-club.md)
+- 21:00 · Copa del Rey · [Albacete – Las Palmas](informes/2026-12-02_albacete-vs-las-palmas.md)
+- 21:00 · Copa del Rey · [Almeria – Granada CF](informes/2026-12-02_almeria-vs-granada-cf.md)
+- 21:00 · Copa del Rey · [Cultural Leonesa – Castellón](informes/2026-12-02_cultural-leonesa-vs-castellon.md)
+- 21:00 · Copa del Rey · [Huesca – Girona](informes/2026-12-02_huesca-vs-girona.md)
+- 21:00 · Copa del Rey · [Zaragoza – Burgos](informes/2026-12-02_zaragoza-vs-burgos.md)
+- 21:00 · Copa del Rey · [Mirandes – Leganes](informes/2026-12-02_mirandes-vs-leganes.md)
+- 21:00 · Copa del Rey · [Rayo Majadahonda – Mallorca](informes/2026-12-02_rayo-majadahonda-vs-mallorca.md)
+- 21:00 · Copa del Rey · [Ponferradina – FC Andorra](informes/2026-12-02_ponferradina-vs-fc-andorra.md)
+- 21:00 · Copa del Rey · [FC Cartagena – Elche](informes/2026-12-02_fc-cartagena-vs-elche.md)
+- 21:00 · Copa del Rey · [Gimnástica Torrelavega – Alaves](informes/2026-12-02_gimnastica-torrelavega-vs-alaves.md)
+- 21:00 · Copa del Rey · [Real Jaén – Valencia](informes/2026-12-02_real-jaen-vs-valencia.md)
+- 21:00 · Copa del Rey · [Sant Andreu – Eibar](informes/2026-12-02_sant-andreu-vs-eibar.md)
+- 21:00 · Copa del Rey · [Amorebieta – Osasuna](informes/2026-12-02_amorebieta-vs-osasuna.md)
+- 21:00 · Copa del Rey · [Portugalete – Deportivo La Coruna](informes/2026-12-02_portugalete-vs-deportivo-la-coruna.md)
+- 21:00 · Copa del Rey · [Sestao River – Villarreal](informes/2026-12-02_sestao-river-vs-villarreal.md)
+- 21:00 · Copa del Rey · [Zamora – Valladolid](informes/2026-12-02_zamora-vs-valladolid.md)
+- 21:00 · Copa del Rey · [Sabadell – Sporting Gijon](informes/2026-12-02_sabadell-vs-sporting-gijon.md)
+- 21:00 · Copa del Rey · [Arosa – Celta Vigo](informes/2026-12-02_arosa-vs-celta-vigo.md)
+- 21:00 · Copa del Rey · [Eldense – Tenerife](informes/2026-12-02_eldense-vs-tenerife.md)
+- 21:00 · Copa del Rey · [Real Ávila – Getafe](informes/2026-12-02_real-avila-vs-getafe.md)
+- 21:00 · Copa del Rey · [Antequera – Levante](informes/2026-12-02_antequera-vs-levante.md)
+- 21:00 · Copa del Rey · [Atlético Paso – Sevilla](informes/2026-12-02_atletico-paso-vs-sevilla.md)
+- 21:00 · Copa del Rey · [CD Coria – Malaga](informes/2026-12-02_cd-coria-vs-malaga.md)
+- 21:00 · Copa del Rey · [AD Ceuta FC – Cadiz](informes/2026-12-02_ad-ceuta-fc-vs-cadiz.md)
+- 21:00 · Copa del Rey · [Reddis – Racing Santander](informes/2026-12-02_reddis-vs-racing-santander.md)
+- 21:00 · Copa del Rey · [Extremadura 1924 – Real Betis](informes/2026-12-02_extremadura-1924-vs-real-betis.md)
+- 21:00 · Coppa Italia · [Como – Cremonese](informes/2026-12-02_como-vs-cremonese.md)
+- 21:00 · KNVB Beker · [Fortuna Sittard – Twente](informes/2026-12-02_fortuna-sittard-vs-twente.md)
+- 21:15 · Premier League · [Newcastle – Manchester United](informes/2026-12-02_newcastle-vs-manchester-united.md) · 1X2: 2.55 / 3.70 / 2.45
+- 21:15 · Premier League · [Bournemouth – Brighton](informes/2026-12-02_bournemouth-vs-brighton.md) · 1X2: 2.40 / 3.50 / 2.62
+- 21:15 · Premier League · [Brentford – Arsenal](informes/2026-12-02_brentford-vs-arsenal.md) · 1X2: 4.20 / 3.70 / 1.80
+- 21:15 · Premier League · [Aston Villa – Everton](informes/2026-12-02_aston-villa-vs-everton.md) · 1X2: 1.95 / 3.60 / 3.60
+- 21:30 · LaLiga · [Barcelona – Atletico Madrid](informes/2026-12-02_barcelona-vs-atletico-madrid.md) · 1X2: 1.38 / 5.00 / 6.50

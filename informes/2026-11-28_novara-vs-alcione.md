@@ -1,10 +1,40 @@
 # Novara – Alcione
 **Serie C** · Girone A - 16 · 28/11/2026 14:30 (hora España) · Stadio Silvio Piola
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 24/11 23:24_
+
+- **1X2:** 1 **2.30**  ·  X **3.00**  ·  2 **2.88**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.05** · menos **8.50**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.08** · menos **1.73**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **7.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **5.50** · menos **1.12**
+- **Goles del visitante:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **6.50** · menos **1.10**
+- **1X2 descanso:** 1 **3.00**  ·  X **2.05**  ·  2 **3.40**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.80**  ·  2 **1.91**
+- **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **4.50**
+- **Win Both Halves:** 1 **9.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.50**  ·  Home/No **4.00**  ·  Draw/No **8.50**  ·  Away/No **5.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.20**
 
 ## Estadísticas de equipo
 | | Novara (total) | Novara en casa | Alcione (total) | Alcione fuera |

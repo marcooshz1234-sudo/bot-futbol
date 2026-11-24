@@ -1,10 +1,32 @@
 # Arzignano Valchiampo – Trento
 **Serie C** · Girone A - 16 · 29/11/2026 12:30 (hora España) · Tommaso Dal Molin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 24/11 23:24_
+
+- **1X2:** 1 **3.10**  ·  X **3.20**  ·  2 **2.10**
+- **Doble oportunidad:** 1X **1.60**  ·  12 **1.28**  ·  X2 **1.28**
+- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **Goles más/menos:**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.95** · menos **1.85**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **6.00** · menos **1.11**
+    - 5,5: más **9.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **7.00** · menos **1.08**
+- **1X2 descanso:** 1 **3.60**  ·  X **2.10**  ·  2 **2.75**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **To Win Either Half:** 1 **2.00**  ·  2 **1.67**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **3.50**
+- **Win Both Halves:** 1 **11.00**  ·  2 **7.00**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.50**  ·  Home/No **5.50**  ·  Draw/No **10.00**  ·  Away/No **3.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.38**
 
 ## Estadísticas de equipo
 | | Arzignano Valchiampo (total) | Arzignano Valchiampo en casa | Trento (total) | Trento fuera |

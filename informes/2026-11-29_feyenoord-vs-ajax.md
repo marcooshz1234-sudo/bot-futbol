@@ -1,7 +1,7 @@
 # Feyenoord – Ajax
 **Eredivisie** · Regular Season - 14 · 29/11/2026 14:30 (hora España) · De Kuip
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
 _Actualizadas: 24/11 10:52_
@@ -62,53 +62,53 @@ _Actualizadas: 24/11 10:52_
 ## Estadísticas de equipo
 | | Feyenoord (total) | Feyenoord en casa | Ajax (total) | Ajax fuera |
 |---|---|---|---|---|
-| Partidos analizados | 17 | 8 | 22 | 11 |
-| Forma (últimos 5) | DDDEE | DDEVV | VEVVV | EVVVD |
-| Balance | 8V 4E 5D | 3V 3E 2D | 15V 5E 2D | 8V 2E 1D |
-| Goles a favor / partido | 2,47 | 2,12 | 3,00 | 3,36 |
-| Goles en contra / partido | 1,82 | 1,62 | 1,27 | 1,27 |
-| Goles a favor 1ª parte | 1,24 | 1,00 | 1,32 | 1,09 |
-| Goles a favor 2ª parte | 1,24 | 1,12 | 1,68 | 2,27 |
-| Goles en contra 1ª parte | 0,71 | 0,75 | 0,64 | 0,55 |
-| Goles en contra 2ª parte | 1,12 | 0,88 | 0,64 | 0,73 |
-| Más de 1,5 goles | 88% | 100% | 95% | 100% |
-| Más de 2,5 goles | 71% | 75% | 82% | 91% |
-| Más de 3,5 goles | 65% | 62% | 68% | 73% |
-| Ambos marcan | 65% | 62% | 77% | 82% |
-| Portería a cero | 24% | 25% | 23% | 18% |
-| Se queda sin marcar | 12% | 12% | 0% | 0% |
-| xG a favor | 2,04 | 2,05 | 2,09 | 2,20 |
-| xG en contra | 1,24 | 1,06 | 1,36 | 1,48 |
-| Tiros / partido | 16,8 | 19,1 | 20,9 | 18,0 |
-| Tiros a puerta / partido | 6,3 | 6,2 | 7,9 | 7,5 |
-| Tiros recibidos | 13,4 | 10,2 | 10,7 | 11,9 |
-| Tiros a puerta recibidos | 4,9 | 4,0 | 4,0 | 4,5 |
+| Partidos analizados | 18 | 9 | 22 | 11 |
+| Forma (últimos 5) | DDDDE | DDDEV | VEVVV | EVVVD |
+| Balance | 8V 4E 6D | 3V 3E 3D | 15V 5E 2D | 8V 2E 1D |
+| Goles a favor / partido | 2,33 | 1,89 | 3,00 | 3,36 |
+| Goles en contra / partido | 1,78 | 1,56 | 1,27 | 1,27 |
+| Goles a favor 1ª parte | 1,17 | 0,89 | 1,32 | 1,09 |
+| Goles a favor 2ª parte | 1,17 | 1,00 | 1,68 | 2,27 |
+| Goles en contra 1ª parte | 0,72 | 0,78 | 0,64 | 0,55 |
+| Goles en contra 2ª parte | 1,06 | 0,78 | 0,64 | 0,73 |
+| Más de 1,5 goles | 83% | 89% | 95% | 100% |
+| Más de 2,5 goles | 67% | 67% | 82% | 91% |
+| Más de 3,5 goles | 61% | 56% | 68% | 73% |
+| Ambos marcan | 61% | 56% | 77% | 82% |
+| Portería a cero | 22% | 22% | 23% | 18% |
+| Se queda sin marcar | 17% | 22% | 0% | 0% |
+| xG a favor | 1,98 | 1,94 | 2,09 | 2,20 |
+| xG en contra | 1,21 | 1,04 | 1,36 | 1,48 |
+| Tiros / partido | 17,0 | 19,3 | 20,9 | 18,0 |
+| Tiros a puerta / partido | 6,3 | 6,3 | 7,9 | 7,5 |
+| Tiros recibidos | 13,1 | 10,1 | 10,7 | 11,9 |
+| Tiros a puerta recibidos | 4,8 | 3,9 | 4,0 | 4,5 |
 | Posesión media % | 53 | 58 | 62 | 61 |
-| Córners a favor | 5,5 | 6,8 | 7,0 | 6,8 |
-| Córners en contra | 3,9 | 3,5 | 3,6 | 4,2 |
+| Córners a favor | 5,6 | 6,9 | 7,0 | 6,8 |
+| Córners en contra | 3,9 | 3,6 | 3,6 | 4,2 |
 | Córners a favor 1ª parte | 2,9 | 3,1 | 3,8 | 4,5 |
-| Córners a favor 2ª parte | 2,6 | 3,6 | 3,2 | 2,4 |
-| Córners totales del partido | 9,4 | 10,2 | 10,6 | 11,0 |
+| Córners a favor 2ª parte | 2,7 | 3,8 | 3,2 | 2,4 |
+| Córners totales del partido | 9,6 | 10,4 | 10,6 | 11,0 |
 | Córners totales 1ª parte | 4,4 | 4,2 | 5,1 | 6,1 |
-| Córners totales 2ª parte | 5,0 | 6,0 | 5,5 | 4,9 |
-| Más de 8,5 córners | 59% | 75% | 82% | 91% |
-| Más de 9,5 córners | 47% | 50% | 55% | 64% |
-| Más de 10,5 córners | 47% | 50% | 50% | 64% |
-| Faltas cometidas | 9,1 | 8,1 | 9,3 | 10,9 |
-| Faltas recibidas | 12,4 | 14,8 | 10,8 | 11,8 |
-| Amarillas propias | 1,2 | 0,8 | 1,7 | 2,1 |
-| Amarillas del rival | 1,6 | 2,0 | 1,9 | 1,9 |
+| Córners totales 2ª parte | 5,2 | 6,2 | 5,5 | 4,9 |
+| Más de 8,5 córners | 61% | 78% | 82% | 91% |
+| Más de 9,5 córners | 50% | 56% | 55% | 64% |
+| Más de 10,5 córners | 50% | 56% | 50% | 64% |
+| Faltas cometidas | 9,2 | 8,3 | 9,3 | 10,9 |
+| Faltas recibidas | 12,4 | 14,6 | 10,8 | 11,8 |
+| Amarillas propias | 1,2 | 0,9 | 1,7 | 2,1 |
+| Amarillas del rival | 1,8 | 2,2 | 1,9 | 1,9 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Feyenoord | Recibe Feyenoord | Tarjetas Feyenoord | Goles Ajax | Recibe Ajax | Tarjetas Ajax |
 |---|---|---|---|---|---|---|
-| 1-15' | 5 | 4 | 1 | 10 | 1 | 2 |
+| 1-15' | 5 | 5 | 1 | 10 | 1 | 2 |
 | 16-30' | 7 | 4 | 2 | 5 | 5 | 5 |
 | 31-45' | 9 | 4 | 5 | 14 | 8 | 5 |
 | 46-60' | 8 | 7 | 4 | 14 | 3 | 2 |
-| 61-75' | 9 | 4 | 6 | 12 | 3 | 8 |
-| 76-90' | 4 | 8 | 2 | 11 | 9 | 15 |
+| 61-75' | 9 | 4 | 7 | 12 | 3 | 8 |
+| 76-90' | 4 | 8 | 3 | 11 | 9 | 15 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -126,36 +126,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Feyenoord
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-24 | Champions League | Feyenoord 0-1 FC Porto | casa | 8-4 | 21 (7) - 9 (3) | 2-4 |
 | 2026-11-21 | Eredivisie | Feyenoord 2-3 Excelsior | casa | 8-4 | 16 (3) - 9 (5) | 0-2 |
 | 2026-11-08 | Eredivisie | Heerenveen 5-3 Feyenoord | fuera | 1-4 | 9 (3) - 18 (9) | 0-1 |
 | 2026-11-03 | Champions League | Feyenoord 0-3 Inter | casa | 5-4 | 11 (2) - 11 (6) | 1-2 |
 | 2026-10-31 | Eredivisie | Feyenoord 1-1 Fortuna Sittard | casa | 6-1 | 15 (6) - 11 (3) | 0-1 |
 | 2026-10-25 | Eredivisie | PSV Eindhoven 1-1 Feyenoord | fuera | 5-6 | 13 (9) - 19 (6) | 3-4 |
-| 2026-10-21 | Champions League | Real Betis 1-0 Feyenoord | fuera | 4-4 | 12 (2) - 23 (10) | 2-1 |
 
 ## Jugadores de Feyenoord
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Mika Mármol | D | 18 | 1596 | 0 | 1 | 9 | 0,5 | 0 | 0,0 | 14 | 15 | 0,8 | 1 | 0 |
+| Gjivai Zechiël | M | 18 | 1575 | 6 | 4 | 30 | 1,7 | 15 | 0,8 | 15 | 17 | 0,9 | 3 | 0 |
+| Givairo Read | D | 18 | 1538 | 1 | 5 | 18 | 1,0 | 5 | 0,3 | 15 | 30 | 1,7 | 1 | 0 |
 | T. Ernst | G | 17 | 1530 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Mika Màrmol | D | 17 | 1501 | 0 | 1 | 9 | 0,5 | 0 | 0,0 | 13 | 15 | 0,9 | 1 | 0 |
-| G. Zechiël | M | 17 | 1480 | 6 | 4 | 28 | 1,6 | 13 | 0,8 | 15 | 16 | 0,9 | 3 | 0 |
-| G. Read | D | 17 | 1443 | 1 | 5 | 18 | 1,1 | 5 | 0,3 | 14 | 29 | 1,7 | 1 | 0 |
-| L. Valente | M | 17 | 1339 | 5 | 3 | 26 | 1,5 | 12 | 0,7 | 10 | 20 | 1,2 | 0 | 0 |
-| A. Hadj-Moussa | F | 15 | 1317 | 8 | 2 | 42 | 2,8 | 22 | 1,5 | 6 | 17 | 1,1 | 2 | 0 |
-| C. Vanhoutte | M | 17 | 1224 | 0 | 1 | 3 | 0,2 | 0 | 0,0 | 18 | 14 | 0,8 | 5 | 0 |
-| Nacho Ferri | F | 16 | 1043 | 7 | 3 | 31 | 1,9 | 17 | 1,1 | 18 | 30 | 1,9 | 1 | 0 |
-| O. Targhalline | M | 15 | 1029 | 0 | 1 | 8 | 0,5 | 0 | 0,0 | 11 | 15 | 1,0 | 2 | 0 |
+| Luciano Valente | F | 18 | 1415 | 5 | 3 | 28 | 1,6 | 13 | 0,7 | 10 | 21 | 1,2 | 0 | 0 |
+| Anis Hadj Moussa | F | 16 | 1412 | 8 | 2 | 45 | 2,8 | 23 | 1,4 | 7 | 20 | 1,2 | 2 | 0 |
+| Charles Vanhoutte | M | 18 | 1300 | 0 | 1 | 4 | 0,2 | 0 | 0,0 | 20 | 14 | 0,8 | 5 | 0 |
+| Oussama Targhalline | M | 16 | 1124 | 0 | 1 | 10 | 0,6 | 2 | 0,1 | 12 | 18 | 1,1 | 2 | 0 |
+| Nacho Ferri | F | 17 | 1072 | 7 | 3 | 32 | 1,9 | 18 | 1,1 | 19 | 30 | 1,8 | 1 | 0 |
 | T. Watanabe | D | 15 | 1010 | 0 | 1 | 7 | 0,5 | 3 | 0,2 | 10 | 3 | 0,2 | 1 | 0 |
 | J. St. Juste | D | 11 | 912 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 8 | 7 | 0,6 | 0 | 0 |
-| Javi López | D | 13 | 804 | 1 | 0 | 12 | 0,9 | 1 | 0,1 | 10 | 8 | 0,6 | 2 | 0 |
+| Javi López | D | 14 | 888 | 1 | 0 | 13 | 0,9 | 1 | 0,1 | 11 | 8 | 0,6 | 2 | 0 |
 | G. Diarra | F | 11 | 483 | 2 | 2 | 25 | 2,3 | 9 | 0,8 | 7 | 6 | 0,5 | 2 | 0 |
-| T. Kraaijeveld | D | 10 | 374 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 2 | 1 | 0,1 | 0 | 0 |
-| S. Steijn | M | 10 | 313 | 4 | 1 | 20 | 2,0 | 12 | 1,2 | 0 | 3 | 0,3 | 0 | 0 |
+| Thijs Kraaijeveld | D | 11 | 469 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 3 | 3 | 0,3 | 1 | 0 |
+| Sem Steijn | M | 11 | 324 | 4 | 1 | 20 | 1,8 | 12 | 1,1 | 0 | 3 | 0,3 | 0 | 0 |
 | A. Ueda | F | 4 | 308 | 3 | 1 | 15 | 3,8 | 6 | 1,5 | 2 | 6 | 1,5 | 0 | 0 |
-| S. van Persie | F | 9 | 168 | 0 | 0 | 6 | 0,7 | 1 | 0,1 | 2 | 1 | 0,1 | 0 | 0 |
+| Shaqueel van Persie | F | 10 | 234 | 0 | 0 | 6 | 0,6 | 1 | 0,1 | 3 | 1 | 0,1 | 0 | 0 |
+| Tobias van den Elshout | M | 11 | 155 | 0 | 0 | 7 | 0,6 | 2 | 0,2 | 4 | 2 | 0,2 | 0 | 0 |
 | J. Schaken | F | 5 | 149 | 1 | 1 | 2 | 0,4 | 2 | 0,4 | 1 | 0 | 0,0 | 0 | 0 |
-| T. van den Elshout | M | 10 | 136 | 0 | 0 | 7 | 0,7 | 2 | 0,2 | 4 | 2 | 0,2 | 0 | 0 |
-| R. Nelson | F | 2 | 76 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 2 | 3 | 1,5 | 0 | 0 |
+| Florian Kastenmeier | G | 1 | 95 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de Ajax
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

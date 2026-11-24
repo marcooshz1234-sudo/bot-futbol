@@ -3777,7 +3777,12 @@
    "liga": "UEFA Champions League",
    "cuota_bet365": 1.17,
    "prob_cuota": 0.654
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   5,
+   1
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
@@ -3929,7 +3934,12 @@
    "liga": "UEFA Champions League",
    "cuota_bet365": 1.25,
    "prob_cuota": 0.649
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   3,
+   1
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
@@ -3972,7 +3982,12 @@
   "analisis": {
    "liga": "UEFA Champions League",
    "prob_cuota": 0.649
-  }
+  },
+  "estado": null,
+  "marcador": [
+   3,
+   1
+  ]
  },
  {
   "tipster": "OC TIPSTER",
@@ -3997,7 +4012,12 @@
   "analisis": {
    "liga": "UEFA Champions League",
    "prob_cuota": 0.091
-  }
+  },
+  "estado": null,
+  "marcador": [
+   5,
+   1
+  ]
  },
  {
   "tipster": "Tipster Pérez",
@@ -4021,7 +4041,12 @@
   "analisis": {
    "liga": "UEFA Champions League",
    "prob_cuota": 0.8
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   1,
+   0
+  ]
  },
  {
   "tipster": "Tipster Pérez",
@@ -4048,7 +4073,12 @@
    "prob_cuota": 0.735,
    "prob_pinnacle": 0.632,
    "valor_pinnacle": -0.14
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   0,
+   2
+  ]
  },
  {
   "tipster": "ApuestasCobrich - Canal Gratuito",
@@ -4071,7 +4101,12 @@
   "analisis": {
    "liga": "UEFA Champions League",
    "prob_cuota": 0.546
-  }
+  },
+  "estado": null,
+  "marcador": [
+   2,
+   2
+  ]
  },
  {
   "tipster": "ICARDI | PICKS",
@@ -4094,7 +4129,12 @@
   "analisis": {
    "liga": "UEFA Champions League",
    "prob_cuota": 0.538
-  }
+  },
+  "estado": null,
+  "marcador": [
+   0,
+   1
+  ]
  },
  {
   "tipster": "ICARDI | PICKS",
@@ -4117,7 +4157,12 @@
   "analisis": {
    "liga": "UEFA Champions League",
    "prob_cuota": 0.68
-  }
+  },
+  "estado": null,
+  "marcador": [
+   2,
+   2
+  ]
  },
  {
   "tipster": "ICARDI | PICKS",
@@ -4140,7 +4185,12 @@
   "analisis": {
    "liga": "UEFA Champions League",
    "prob_cuota": 0.488
-  }
+  },
+  "estado": null,
+  "marcador": [
+   3,
+   1
+  ]
  },
  {
   "tipster": "ICARDI | PICKS",
@@ -4163,7 +4213,12 @@
   "analisis": {
    "liga": "UEFA Champions League",
    "prob_cuota": 0.556
-  }
+  },
+  "estado": null,
+  "marcador": [
+   5,
+   1
+  ]
  },
  {
   "tipster": "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️",
@@ -4185,7 +4240,12 @@
    "prob_cuota": 0.769,
    "prob_pinnacle": 0.488,
    "valor_pinnacle": -0.365
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   0
+  ]
  },
  {
   "tipster": "OC TIPSTER",
@@ -4205,6 +4265,11 @@
    "liga": "UEFA Champions League",
    "cuota_bet365": 1.33,
    "prob_cuota": 0.588
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   3,
+   1
+  ]
  }
 ]

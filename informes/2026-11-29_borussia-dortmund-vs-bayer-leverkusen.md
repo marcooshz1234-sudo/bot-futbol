@@ -1,7 +1,7 @@
 # Borussia Dortmund – Bayer Leverkusen
 **Bundesliga** · Regular Season - 11 · 29/11/2026 19:30 (hora España) · Signal Iduna Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
 _Actualizadas: 24/11 10:53_
@@ -61,51 +61,51 @@ _Actualizadas: 24/11 10:53_
 ## Estadísticas de equipo
 | | Borussia Dortmund (total) | Borussia Dortmund en casa | Bayer Leverkusen (total) | Bayer Leverkusen fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 8 | 16 | 8 |
-| Forma (últimos 5) | VVVEV | VVVVE | VVDDV | VDVVV |
-| Balance | 12V 3E 1D | 7V 1E 0D | 11V 1E 4D | 5V 1E 2D |
-| Goles a favor / partido | 2,00 | 2,25 | 2,56 | 2,50 |
+| Partidos analizados | 17 | 8 | 16 | 8 |
+| Forma (últimos 5) | EVVVE | VVVVE | VVDDV | VDVVV |
+| Balance | 12V 4E 1D | 7V 1E 0D | 11V 1E 4D | 5V 1E 2D |
+| Goles a favor / partido | 1,94 | 2,25 | 2,56 | 2,50 |
 | Goles en contra / partido | 0,88 | 1,00 | 1,25 | 1,50 |
-| Goles a favor 1ª parte | 0,62 | 0,62 | 1,12 | 1,25 |
-| Goles a favor 2ª parte | 1,38 | 1,62 | 1,44 | 1,25 |
-| Goles en contra 1ª parte | 0,19 | 0,00 | 0,56 | 0,50 |
-| Goles en contra 2ª parte | 0,69 | 1,00 | 0,69 | 1,00 |
-| Más de 1,5 goles | 69% | 88% | 94% | 100% |
-| Más de 2,5 goles | 62% | 75% | 75% | 88% |
-| Más de 3,5 goles | 38% | 38% | 56% | 62% |
-| Ambos marcan | 50% | 62% | 44% | 50% |
-| Portería a cero | 44% | 38% | 44% | 38% |
+| Goles a favor 1ª parte | 0,59 | 0,62 | 1,12 | 1,25 |
+| Goles a favor 2ª parte | 1,35 | 1,62 | 1,44 | 1,25 |
+| Goles en contra 1ª parte | 0,24 | 0,00 | 0,56 | 0,50 |
+| Goles en contra 2ª parte | 0,65 | 1,00 | 0,69 | 1,00 |
+| Más de 1,5 goles | 71% | 88% | 94% | 100% |
+| Más de 2,5 goles | 59% | 75% | 75% | 88% |
+| Más de 3,5 goles | 35% | 38% | 56% | 62% |
+| Ambos marcan | 53% | 62% | 44% | 50% |
+| Portería a cero | 41% | 38% | 44% | 38% |
 | Se queda sin marcar | 12% | 0% | 12% | 12% |
-| xG a favor | 1,82 | 1,98 | 2,43 | 2,48 |
-| xG en contra | 1,28 | 1,07 | 1,36 | 1,61 |
-| Tiros / partido | 16,6 | 17,1 | 19,4 | 20,5 |
-| Tiros a puerta / partido | 5,9 | 6,2 | 7,4 | 7,2 |
-| Tiros recibidos | 11,8 | 11,1 | 10,4 | 12,1 |
+| xG a favor | 1,76 | 1,98 | 2,43 | 2,48 |
+| xG en contra | 1,32 | 1,07 | 1,36 | 1,61 |
+| Tiros / partido | 16,3 | 17,1 | 19,4 | 20,5 |
+| Tiros a puerta / partido | 5,8 | 6,2 | 7,4 | 7,2 |
+| Tiros recibidos | 12,6 | 11,1 | 10,4 | 12,1 |
 | Tiros a puerta recibidos | 3,7 | 4,1 | 3,4 | 4,2 |
-| Posesión media % | 55 | 57 | 60 | 62 |
-| Córners a favor | 6,8 | 6,6 | 7,2 | 5,9 |
-| Córners en contra | 4,5 | 3,6 | 3,3 | 3,8 |
-| Córners a favor 1ª parte | 3,2 | 3,1 | 2,9 | 2,1 |
-| Córners a favor 2ª parte | 3,5 | 3,5 | 4,4 | 3,8 |
+| Posesión media % | 54 | 57 | 60 | 62 |
+| Córners a favor | 6,6 | 6,6 | 7,2 | 5,9 |
+| Córners en contra | 4,6 | 3,6 | 3,3 | 3,8 |
+| Córners a favor 1ª parte | 3,3 | 3,1 | 2,9 | 2,1 |
+| Córners a favor 2ª parte | 3,4 | 3,5 | 4,4 | 3,8 |
 | Córners totales del partido | 11,2 | 10,2 | 10,6 | 9,6 |
-| Córners totales 1ª parte | 4,9 | 4,1 | 4,8 | 4,6 |
-| Córners totales 2ª parte | 6,3 | 6,1 | 5,8 | 5,0 |
-| Más de 8,5 córners | 69% | 62% | 50% | 38% |
-| Más de 9,5 córners | 69% | 62% | 44% | 25% |
-| Más de 10,5 córners | 56% | 50% | 44% | 25% |
-| Faltas cometidas | 10,8 | 12,4 | 12,0 | 13,0 |
-| Faltas recibidas | 11,1 | 11,4 | 10,1 | 10,8 |
-| Amarillas propias | 1,8 | 1,9 | 1,9 | 2,2 |
-| Amarillas del rival | 2,1 | 1,9 | 2,1 | 2,4 |
+| Córners totales 1ª parte | 5,1 | 4,1 | 4,8 | 4,6 |
+| Córners totales 2ª parte | 6,2 | 6,1 | 5,8 | 5,0 |
+| Más de 8,5 córners | 71% | 62% | 50% | 38% |
+| Más de 9,5 córners | 71% | 62% | 44% | 25% |
+| Más de 10,5 córners | 59% | 50% | 44% | 25% |
+| Faltas cometidas | 10,9 | 12,4 | 12,0 | 13,0 |
+| Faltas recibidas | 10,8 | 11,4 | 10,1 | 10,8 |
+| Amarillas propias | 1,7 | 1,9 | 1,9 | 2,2 |
+| Amarillas del rival | 1,9 | 1,9 | 2,1 | 2,4 |
 | Rojas / partido | 0,06 | 0,12 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Borussia Dortmund | Recibe Borussia Dortmund | Tarjetas Borussia Dortmund | Goles Bayer Leverkusen | Recibe Bayer Leverkusen | Tarjetas Bayer Leverkusen |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 0 | 5 | 6 | 5 | 2 |
+| 1-15' | 4 | 1 | 5 | 6 | 5 | 2 |
 | 16-30' | 1 | 0 | 3 | 5 | 2 | 3 |
 | 31-45' | 5 | 3 | 4 | 7 | 2 | 4 |
-| 46-60' | 5 | 3 | 5 | 8 | 4 | 7 |
+| 46-60' | 6 | 3 | 5 | 8 | 4 | 7 |
 | 61-75' | 5 | 5 | 2 | 5 | 1 | 5 |
 | 76-90' | 12 | 3 | 11 | 10 | 6 | 13 |
 
@@ -125,30 +125,30 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Borussia Dortmund
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-24 | Champions League | Arsenal 1-1 Borussia Dortmund | fuera | 5-6 | 12 (4) - 27 (4) | –-– |
 | 2026-11-21 | Bundesliga | Borussia Mönchengladbach 0-1 Borussia Dortmund | fuera | 7-7 | 15 (5) - 9 (2) | 1-2 |
 | 2026-11-07 | Bundesliga | Borussia Dortmund 2-1 SV Elversberg | casa | 6-6 | 19 (6) - 16 (7) | 3-1 |
 | 2026-11-04 | Champions League | Borussia Dortmund 2-1 Real Betis | casa | 2-5 | 15 (6) - 11 (4) | 4-4 |
 | 2026-10-31 | Bundesliga | Bayern München 2-2 Borussia Dortmund | fuera | 2-5 | 12 (6) - 23 (5) | 1-2 |
 | 2026-10-27 | DFB-Pokal | Borussia Dortmund 3-2 Werder Bremen | casa | 4-3 | 12 (4) - 12 (6) | 2-2 |
-| 2026-10-24 | Bundesliga | Borussia Dortmund 1-0 Eintracht Frankfurt | casa | 13-1 | 18 (5) - 8 (3) | 0-2 |
 
 ## Jugadores de Borussia Dortmund
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| W. Anton | D | 16 | 1372 | 0 | 1 | 6 | 0,4 | 0 | 0,0 | 20 | 12 | 0,8 | 3 | 0 |
-| G. Kobel | G | 15 | 1350 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,1 | 0 | 0 |
-| D. Svensson | M | 16 | 1302 | 2 | 0 | 6 | 0,4 | 3 | 0,2 | 13 | 19 | 1,2 | 1 | 0 |
-| F. Nmecha | M | 16 | 1135 | 5 | 0 | 29 | 1,8 | 15 | 0,9 | 14 | 17 | 1,1 | 2 | 0 |
-| S. Guirassy | F | 13 | 1029 | 8 | 2 | 36 | 2,8 | 19 | 1,5 | 14 | 17 | 1,3 | 1 | 0 |
-| J. Ryerson | M | 15 | 1018 | 0 | 3 | 2 | 0,1 | 0 | 0,0 | 12 | 18 | 1,2 | 4 | 0 |
-| Kouakou Joane Gadou | D | 15 | 1016 | 0 | 0 | 2 | 0,1 | 1 | 0,1 | 8 | 0 | 0,0 | 3 | 0 |
-| J. Bellingham | M | 15 | 1008 | 0 | 3 | 15 | 1,0 | 5 | 0,3 | 19 | 10 | 0,7 | 4 | 0 |
-| J. Veerman | M | 15 | 997 | 0 | 3 | 9 | 0,6 | 3 | 0,2 | 11 | 6 | 0,4 | 4 | 0 |
-| M. Beier | M | 16 | 978 | 2 | 2 | 22 | 1,4 | 5 | 0,3 | 4 | 10 | 0,6 | 1 | 0 |
-| N. Schlotterbeck | D | 11 | 977 | 1 | 0 | 11 | 1,0 | 2 | 0,2 | 4 | 11 | 1,0 | 1 | 0 |
-| Fábio Silva | F | 15 | 753 | 5 | 4 | 28 | 1,9 | 14 | 0,9 | 13 | 11 | 0,7 | 2 | 0 |
-| K. Karetsas | M | 12 | 509 | 1 | 2 | 17 | 1,4 | 10 | 0,8 | 8 | 16 | 1,3 | 0 | 0 |
-| M. Sabitzer | M | 13 | 465 | 1 | 2 | 11 | 0,8 | 3 | 0,2 | 5 | 2 | 0,2 | 0 | 0 |
+| Waldemar Anton | D | 17 | 1456 | 0 | 1 | 6 | 0,4 | 0 | 0,0 | 20 | 12 | 0,7 | 3 | 0 |
+| Gregor Kobel | G | 16 | 1434 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,1 | 0 | 0 |
+| Daniel Svensson | M | 17 | 1386 | 2 | 0 | 6 | 0,4 | 3 | 0,2 | 13 | 19 | 1,1 | 1 | 0 |
+| Felix Nmecha | M | 17 | 1219 | 5 | 0 | 31 | 1,8 | 15 | 0,9 | 15 | 17 | 1,0 | 2 | 0 |
+| Julian Ryerson | M | 16 | 1102 | 0 | 3 | 3 | 0,2 | 1 | 0,1 | 15 | 19 | 1,2 | 4 | 0 |
+| Joane Gadou | D | 16 | 1100 | 0 | 1 | 3 | 0,2 | 2 | 0,1 | 9 | 0 | 0,0 | 3 | 0 |
+| Joey Veerman | M | 16 | 1081 | 0 | 3 | 10 | 0,6 | 3 | 0,2 | 11 | 7 | 0,4 | 4 | 0 |
+| Jobe Bellingham | F | 16 | 1081 | 0 | 3 | 16 | 1,0 | 6 | 0,4 | 19 | 11 | 0,7 | 4 | 0 |
+| Nico Schlotterbeck | D | 12 | 1061 | 1 | 0 | 12 | 1,0 | 2 | 0,2 | 6 | 11 | 0,9 | 1 | 0 |
+| Serhou Guirassy | F | 14 | 1049 | 8 | 2 | 36 | 2,6 | 19 | 1,4 | 16 | 17 | 1,2 | 1 | 0 |
+| Maximilian Beier | F | 17 | 1042 | 3 | 2 | 23 | 1,4 | 6 | 0,4 | 5 | 11 | 0,6 | 1 | 0 |
+| Fábio Silva | F | 16 | 817 | 5 | 4 | 30 | 1,9 | 14 | 0,9 | 14 | 12 | 0,8 | 2 | 0 |
+| Konstantinos Karetsas | M | 13 | 529 | 1 | 2 | 17 | 1,3 | 10 | 0,8 | 8 | 16 | 1,2 | 0 | 0 |
+| Marcel Sabitzer | M | 14 | 476 | 1 | 2 | 11 | 0,8 | 3 | 0,2 | 6 | 2 | 0,1 | 0 | 0 |
 | R. Bensebaïni | D | 8 | 461 | 0 | 0 | 7 | 0,9 | 0 | 0,0 | 6 | 5 | 0,6 | 1 | 0 |
 | E. Nwaneri | M | 13 | 443 | 0 | 0 | 10 | 0,8 | 7 | 0,5 | 5 | 1 | 0,1 | 1 | 0 |
 | C. Chukwuemeka | F | 10 | 371 | 1 | 1 | 5 | 0,5 | 2 | 0,2 | 4 | 6 | 0,6 | 0 | 0 |

@@ -1,7 +1,7 @@
 # Como – Juventus
 **Serie A** · Regular Season - 13 · 29/11/2026 20:45 (hora España) · Stadio Giuseppe Sinigaglia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
 _Actualizadas: 24/11 10:53_
@@ -60,51 +60,51 @@ _Actualizadas: 24/11 10:53_
 ## Estadísticas de equipo
 | | Como (total) | Como en casa | Juventus (total) | Juventus fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 7 | 16 | 8 |
-| Forma (últimos 5) | VDVVV | VVVVE | VEVVD | EVDVV |
-| Balance | 11V 2E 3D | 6V 1E 0D | 9V 4E 3D | 4V 2E 2D |
-| Goles a favor / partido | 2,44 | 2,14 | 1,88 | 1,50 |
-| Goles en contra / partido | 1,00 | 0,43 | 1,00 | 1,25 |
-| Goles a favor 1ª parte | 1,06 | 0,86 | 0,69 | 0,75 |
-| Goles a favor 2ª parte | 1,38 | 1,29 | 1,19 | 0,75 |
-| Goles en contra 1ª parte | 0,62 | 0,00 | 0,50 | 0,62 |
-| Goles en contra 2ª parte | 0,38 | 0,43 | 0,50 | 0,62 |
-| Más de 1,5 goles | 88% | 71% | 94% | 88% |
-| Más de 2,5 goles | 56% | 43% | 50% | 50% |
-| Más de 3,5 goles | 44% | 29% | 31% | 25% |
-| Ambos marcan | 62% | 43% | 44% | 62% |
-| Portería a cero | 25% | 57% | 44% | 25% |
-| Se queda sin marcar | 19% | 14% | 12% | 12% |
-| xG a favor | 1,86 | 1,94 | 1,53 | 1,59 |
-| xG en contra | 1,18 | 0,81 | 0,95 | 1,19 |
-| Tiros / partido | 17,0 | 16,6 | 15,5 | 16,9 |
-| Tiros a puerta / partido | 6,3 | 5,9 | 5,3 | 5,5 |
-| Tiros recibidos | 12,4 | 9,7 | 11,2 | 13,0 |
-| Tiros a puerta recibidos | 3,3 | 2,3 | 2,9 | 3,4 |
+| Partidos analizados | 17 | 8 | 16 | 8 |
+| Forma (últimos 5) | VVDVV | VVVVV | VEVVD | EVDVV |
+| Balance | 12V 2E 3D | 7V 1E 0D | 9V 4E 3D | 4V 2E 2D |
+| Goles a favor / partido | 2,35 | 2,00 | 1,88 | 1,50 |
+| Goles en contra / partido | 0,94 | 0,38 | 1,00 | 1,25 |
+| Goles a favor 1ª parte | 1,00 | 0,75 | 0,69 | 0,75 |
+| Goles a favor 2ª parte | 1,35 | 1,25 | 1,19 | 0,75 |
+| Goles en contra 1ª parte | 0,59 | 0,00 | 0,50 | 0,62 |
+| Goles en contra 2ª parte | 0,35 | 0,38 | 0,50 | 0,62 |
+| Más de 1,5 goles | 82% | 62% | 94% | 88% |
+| Más de 2,5 goles | 53% | 38% | 50% | 50% |
+| Más de 3,5 goles | 41% | 25% | 31% | 25% |
+| Ambos marcan | 59% | 38% | 44% | 62% |
+| Portería a cero | 29% | 62% | 44% | 25% |
+| Se queda sin marcar | 18% | 12% | 12% | 12% |
+| xG a favor | 1,85 | 1,91 | 1,53 | 1,59 |
+| xG en contra | 1,14 | 0,76 | 0,95 | 1,19 |
+| Tiros / partido | 16,9 | 16,4 | 15,5 | 16,9 |
+| Tiros a puerta / partido | 6,1 | 5,5 | 5,3 | 5,5 |
+| Tiros recibidos | 12,0 | 9,1 | 11,2 | 13,0 |
+| Tiros a puerta recibidos | 3,3 | 2,4 | 2,9 | 3,4 |
 | Posesión media % | 60 | 60 | 56 | 59 |
-| Córners a favor | 5,2 | 5,1 | 7,2 | 8,0 |
-| Córners en contra | 4,2 | 3,3 | 3,5 | 3,6 |
-| Córners a favor 1ª parte | 2,8 | 2,7 | 3,8 | 4,4 |
-| Córners a favor 2ª parte | 2,5 | 2,4 | 3,4 | 3,6 |
-| Córners totales del partido | 9,5 | 8,4 | 10,7 | 11,6 |
-| Córners totales 1ª parte | 4,4 | 4,1 | 5,2 | 5,4 |
-| Córners totales 2ª parte | 5,1 | 4,3 | 5,5 | 6,2 |
-| Más de 8,5 córners | 62% | 43% | 69% | 75% |
-| Más de 9,5 córners | 44% | 29% | 56% | 62% |
-| Más de 10,5 córners | 31% | 14% | 50% | 50% |
-| Faltas cometidas | 8,9 | 8,7 | 13,1 | 14,5 |
-| Faltas recibidas | 11,4 | 9,3 | 11,2 | 10,9 |
-| Amarillas propias | 1,1 | 1,3 | 1,4 | 1,8 |
-| Amarillas del rival | 1,9 | 1,9 | 1,5 | 1,4 |
+| Córners a favor | 5,0 | 4,6 | 7,2 | 8,0 |
+| Córners en contra | 4,1 | 3,0 | 3,5 | 3,6 |
+| Córners a favor 1ª parte | 2,6 | 2,5 | 3,8 | 4,4 |
+| Córners a favor 2ª parte | 2,4 | 2,1 | 3,4 | 3,6 |
+| Córners totales del partido | 9,1 | 7,6 | 10,7 | 11,6 |
+| Córners totales 1ª parte | 4,2 | 3,9 | 5,2 | 5,4 |
+| Córners totales 2ª parte | 4,8 | 3,8 | 5,5 | 6,2 |
+| Más de 8,5 córners | 59% | 38% | 69% | 75% |
+| Más de 9,5 córners | 41% | 25% | 56% | 62% |
+| Más de 10,5 córners | 29% | 12% | 50% | 50% |
+| Faltas cometidas | 9,2 | 9,4 | 13,1 | 14,5 |
+| Faltas recibidas | 11,6 | 10,0 | 11,2 | 10,9 |
+| Amarillas propias | 1,2 | 1,4 | 1,4 | 1,8 |
+| Amarillas del rival | 1,9 | 2,0 | 1,5 | 1,4 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Como | Recibe Como | Tarjetas Como | Goles Juventus | Recibe Juventus | Tarjetas Juventus |
 |---|---|---|---|---|---|---|
-| 1-15' | 3 | 2 | 0 | 2 | 3 | 2 |
+| 1-15' | 3 | 2 | 1 | 2 | 3 | 2 |
 | 16-30' | 6 | 6 | 1 | 5 | 3 | 7 |
 | 31-45' | 8 | 2 | 4 | 4 | 2 | 0 |
-| 46-60' | 11 | 2 | 3 | 3 | 1 | 5 |
+| 46-60' | 12 | 2 | 4 | 3 | 1 | 5 |
 | 61-75' | 2 | 1 | 3 | 7 | 3 | 4 |
 | 76-90' | 9 | 3 | 7 | 9 | 4 | 6 |
 
@@ -122,34 +122,34 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Como
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-24 | Champions League | Como 1-0 AEK Athens FC | casa | 1-1 | 15 (3) - 5 (3) | 2-3 |
 | 2026-11-21 | Serie A | Como 2-0 Cagliari | casa | 3-3 | 10 (6) - 6 (1) | 0-0 |
 | 2026-11-08 | Serie A | Inter 2-0 Como | fuera | 2-4 | 5 (1) - 14 (4) | 0-1 |
 | 2026-11-04 | Champions League | Lens 1-9 Como | fuera | 5-5 | 18 (12) - 11 (3) | 0-2 |
 | 2026-11-01 | Serie A | Como 1-0 Venezia | casa | 8-1 | 19 (4) - 7 (1) | 1-2 |
 | 2026-10-27 | Serie A | Torino 1-3 Como | fuera | 6-5 | 18 (5) - 11 (5) | 0-1 |
-| 2026-10-24 | Serie A | Como 2-0 Sassuolo | casa | 6-4 | 14 (6) - 7 (0) | 2-2 |
 
 ## Jugadores de Como
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Jacobo Ramón Naveros | D | 16 | 1381 | 4 | 2 | 15 | 0,9 | 7 | 0,4 | 13 | 4 | 0,2 | 2 | 0 |
-| T. Douvikas | F | 16 | 1193 | 11 | 1 | 35 | 2,2 | 22 | 1,4 | 5 | 25 | 1,6 | 0 | 0 |
-| Yan Couto | D | 15 | 1182 | 0 | 4 | 10 | 0,7 | 3 | 0,2 | 11 | 8 | 0,5 | 2 | 0 |
-| N. Paz | M | 15 | 1175 | 6 | 8 | 50 | 3,3 | 18 | 1,2 | 23 | 21 | 1,4 | 2 | 0 |
-| L. da Cunha | M | 16 | 1098 | 3 | 1 | 19 | 1,2 | 9 | 0,6 | 7 | 7 | 0,4 | 1 | 0 |
+| Jacobo Ramón | D | 17 | 1460 | 4 | 2 | 18 | 1,1 | 7 | 0,4 | 14 | 4 | 0,2 | 2 | 0 |
+| Anastasios Douvikas | F | 17 | 1272 | 11 | 1 | 35 | 2,1 | 22 | 1,3 | 6 | 25 | 1,5 | 0 | 0 |
+| Nico Paz | M | 16 | 1254 | 6 | 8 | 55 | 3,4 | 20 | 1,2 | 26 | 25 | 1,6 | 3 | 0 |
+| Yan Couto | D | 16 | 1247 | 0 | 4 | 10 | 0,6 | 3 | 0,2 | 14 | 9 | 0,6 | 3 | 0 |
+| Lucas Da Cunha | M | 17 | 1177 | 3 | 1 | 20 | 1,2 | 9 | 0,5 | 7 | 7 | 0,4 | 1 | 0 |
+| Luis Milla | M | 17 | 1110 | 1 | 1 | 7 | 0,4 | 2 | 0,1 | 8 | 14 | 0,8 | 1 | 0 |
 | J. Butez | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| Luis Milla | M | 16 | 1031 | 0 | 1 | 6 | 0,4 | 1 | 0,1 | 7 | 14 | 0,9 | 1 | 0 |
-| M. Perrone | M | 16 | 910 | 1 | 2 | 6 | 0,4 | 2 | 0,1 | 10 | 7 | 0,4 | 1 | 0 |
-| Álex Valle | D | 13 | 900 | 0 | 3 | 3 | 0,2 | 1 | 0,1 | 5 | 9 | 0,7 | 1 | 0 |
+| Máximo Perrone | M | 17 | 989 | 1 | 2 | 6 | 0,4 | 2 | 0,1 | 12 | 11 | 0,6 | 1 | 0 |
+| Álex Valle | D | 14 | 979 | 0 | 3 | 5 | 0,4 | 1 | 0,1 | 6 | 11 | 0,8 | 1 | 0 |
+| Martin Baturina | M | 16 | 895 | 5 | 3 | 22 | 1,4 | 11 | 0,7 | 9 | 28 | 1,8 | 2 | 0 |
 | M. Kempf | D | 12 | 851 | 1 | 0 | 5 | 0,4 | 2 | 0,2 | 6 | 9 | 0,8 | 1 | 0 |
-| M. Baturina | M | 15 | 816 | 5 | 2 | 22 | 1,5 | 11 | 0,7 | 8 | 25 | 1,7 | 2 | 0 |
-| Trevoh Chalobah | D | 8 | 644 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 1 | 5 | 0,6 | 0 | 0 |
+| Trevoh Chalobah | D | 9 | 723 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 2 | 6 | 0,7 | 0 | 0 |
 | Kaiki | D | 12 | 638 | 1 | 2 | 8 | 0,7 | 2 | 0,2 | 12 | 10 | 0,8 | 1 | 0 |
 | M. Caqueret | M | 12 | 545 | 0 | 2 | 7 | 0,6 | 3 | 0,2 | 5 | 5 | 0,4 | 1 | 0 |
 | Assane Diao | M | 8 | 536 | 4 | 1 | 11 | 1,4 | 5 | 0,6 | 6 | 3 | 0,4 | 2 | 0 |
+| Robert Sánchez | G | 5 | 439 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | S. Ricci | M | 12 | 376 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 8 | 5 | 0,4 | 0 | 0 |
-| Robert Sánchez | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| I. Smolčić | D | 12 | 332 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 2 | 0,2 | 1 | 0 |
+| Ivan Smolčić | D | 13 | 346 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 2 | 0,2 | 1 | 0 |
 | M. Liberali | M | 8 | 245 | 2 | 2 | 7 | 0,9 | 4 | 0,5 | 2 | 5 | 0,6 | 0 | 0 |
 | Jesús Rodríguez | F | 5 | 242 | 0 | 0 | 6 | 1,2 | 2 | 0,4 | 4 | 5 | 1,0 | 0 | 0 |
 

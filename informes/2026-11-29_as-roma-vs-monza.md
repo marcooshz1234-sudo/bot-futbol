@@ -1,7 +1,7 @@
 # AS Roma – Monza
 **Serie A** · Regular Season - 13 · 29/11/2026 18:00 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
 _Actualizadas: 24/11 10:53_

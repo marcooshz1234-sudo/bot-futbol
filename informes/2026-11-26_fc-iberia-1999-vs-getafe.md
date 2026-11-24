@@ -1,10 +1,10 @@
 # FC Iberia 1999 – Getafe
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Mikheil Meskhi Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 10:50_
+_Actualizadas: 24/11 23:23_
 
 - **1X2:** 1 **6.50**  ·  X **4.10**  ·  2 **1.45**
 - **Doble oportunidad:** 1X **2.62**  ·  12 **1.22**  ·  X2 **1.11**
@@ -18,7 +18,7 @@ _Actualizadas: 24/11 10:50_
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **9.00** · menos **1.07**
+    - 2,5: más **8.00** · menos **1.08**
 - **Goles del local:**
     - 0,5: más **1.83** · menos **1.83**
     - 1,5: más **6.00** · menos **1.12**
@@ -48,8 +48,8 @@ _Actualizadas: 24/11 10:50_
 - **Away Corners Over/Under:**
     - 5,5: más **1.83** · menos **1.83**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.50**  ·  Más de 4.5 **2.08**  ·  Menos de 4.5 **1.72**
-- **Away Player Shots On Target Total:** Zaid Romero **13.00**  ·  Ivan Azon **7.50**  ·  Francho Serrano **13.00**  ·  Andres Garcia **23.00**  ·  Sebastian Boselli **19.00**  ·  Mancha Davinchi **34.00**  ·  Jean Valou **23.00**  ·  Martin Satriano **5.50**  ·  Enes Unal **10.00**  ·  Moya Borja Mayoral **8.00**  ·  Mario Martin **15.00**  ·  Kiko Femenia **41.00**  ·  Phillip Cancar **34.00**  ·  Ibrahima Danfakha **9.50**  ·  Ebrahima Drammeh **15.00**  ·  Nemanja Gudelj **17.00**  ·  Jesus Martinez **41.00**  ·  Johan Mojica **67.00**  ·  Dani Carvajal **41.00**  ·  Orel Mangala **67.00**  ·  Abdelkabir Abqar **10.00**  ·  Saba Sazonov **12.00**  ·  Ramon Terrats **29.00**  ·  Alberto Risco **34.00**  ·  Dakonam Djene **11.00**
-- **Anytime Goal Scorer:** Sebastian Figueredo **17.00**  ·  Zaid Romero **8.50**  ·  Ivan Azon **2.75**  ·  Francho Serrano **4.00**  ·  Andres Garcia **5.00**  ·  Sebastian Boselli **9.50**  ·  Vakho Bedoshvili **8.50**  ·  Zviad Natchkebia **8.00**  ·  Mancha Davinchi **8.00**  ·  Jean Valou **9.50**  ·  Martin Satriano **2.38**  ·  Enes Unal **2.75**  ·  Moya Borja Mayoral **2.00**  ·  Mario Martin **3.25**  ·  Kiko Femenia **9.50**  ·  Phillip Cancar **21.00**  ·  Nikoloz Dadiani **12.00**  ·  Nika Sikharulashvili **5.50**  ·  Giorgi Kutsia **11.00**  ·  Andria Bartishvili **7.00**  ·  Bakar Kardava **13.00**  ·  Giorgi Kobuladze **17.00**  ·  Lado Chikhradze **5.50**  ·  Amiran Dzagania **5.50**  ·  Ibrahima Danfakha **2.88**  ·  Ebrahima Drammeh **2.88**  ·  Nemanja Gudelj **6.00**  ·  Jesus Martinez **5.00**  ·  Stephen Ende **6.00**  ·  Daniel Kvartskhava **8.50**  ·  Ibrahim Alhassan **9.50**  ·  Eldar Kuliyev **12.00**  ·  Jemal-Giorgi Jinjolava **13.00**  ·  Alexander Amisulashvili **21.00**  ·  Jean-Marc Tiboue **17.00**  ·  Nikoloz Bochorishvili **21.00**  ·  Johan Mojica **7.00**  ·  Dani Carvajal **12.00**  ·  Orel Mangala **7.00**  ·  Abdelkabir Abqar **9.50**  ·  Saba Sazonov **9.50**  ·  Ramon Terrats **3.50**  ·  Alberto Risco **4.00**  ·  Dakonam Djene **9.50**  ·  Vahid Selimovic **21.00**  ·  Lucas Cafe **8.00**  ·  Giorgi Beridze **9.50**
+- **Away Player Shots On Target Total:** Zaid Romero **13.00**  ·  Ivan Azon **7.00**  ·  Francho Serrano **12.00**  ·  Andres Garcia **23.00**  ·  Sebastian Boselli **19.00**  ·  Mancha Davinchi **34.00**  ·  Jean Valou **23.00**  ·  Martin Satriano **5.50**  ·  Enes Unal **9.50**  ·  Moya Borja Mayoral **7.50**  ·  Mario Martin **15.00**  ·  Kiko Femenia **41.00**  ·  Phillip Cancar **34.00**  ·  Ibrahima Danfakha **9.50**  ·  Ebrahima Drammeh **13.00**  ·  Nemanja Gudelj **17.00**  ·  Jesus Martinez **41.00**  ·  Johan Mojica **67.00**  ·  Dani Carvajal **41.00**  ·  Orel Mangala **67.00**  ·  Abdelkabir Abqar **10.00**  ·  Saba Sazonov **12.00**  ·  Ramon Terrats **29.00**  ·  Alberto Risco **34.00**  ·  Dakonam Djene **11.00**
+- **Anytime Goal Scorer:** Sebastian Figueredo **21.00**  ·  Zaid Romero **8.50**  ·  Ivan Azon **2.50**  ·  Francho Serrano **3.60**  ·  Andres Garcia **5.00**  ·  Sebastian Boselli **9.50**  ·  Vakho Bedoshvili **8.50**  ·  Zviad Natchkebia **8.00**  ·  Mancha Davinchi **8.00**  ·  Jean Valou **9.50**  ·  Martin Satriano **2.38**  ·  Enes Unal **2.50**  ·  Moya Borja Mayoral **2.00**  ·  Mario Martin **3.10**  ·  Kiko Femenia **9.50**  ·  Phillip Cancar **21.00**  ·  Nikoloz Dadiani **12.00**  ·  Nika Sikharulashvili **6.00**  ·  Giorgi Kutsia **12.00**  ·  Andria Bartishvili **7.00**  ·  Bakar Kardava **13.00**  ·  Giorgi Kobuladze **21.00**  ·  Lado Chikhradze **6.00**  ·  Amiran Dzagania **6.00**  ·  Ibrahima Danfakha **2.88**  ·  Ebrahima Drammeh **2.88**  ·  Nemanja Gudelj **6.00**  ·  Jesus Martinez **5.00**  ·  Stephen Ende **6.00**  ·  Daniel Kvartskhava **8.50**  ·  Ibrahim Alhassan **11.00**  ·  Eldar Kuliyev **12.00**  ·  Jemal-Giorgi Jinjolava **13.00**  ·  Alexander Amisulashvili **21.00**  ·  Jean-Marc Tiboue **21.00**  ·  Nikoloz Bochorishvili **21.00**  ·  Johan Mojica **7.00**  ·  Dani Carvajal **12.00**  ·  Orel Mangala **7.00**  ·  Abdelkabir Abqar **9.50**  ·  Saba Sazonov **9.50**  ·  Ramon Terrats **3.50**  ·  Alberto Risco **3.60**  ·  Dakonam Djene **9.50**  ·  Vahid Selimovic **21.00**  ·  Lucas Cafe **8.00**  ·  Giorgi Beridze **11.00**
 
 ## Estadísticas de equipo
 | | FC Iberia 1999 (total) | FC Iberia 1999 en casa | Getafe (total) | Getafe fuera |

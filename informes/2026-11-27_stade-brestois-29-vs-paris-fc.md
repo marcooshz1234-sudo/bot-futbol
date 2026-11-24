@@ -1,10 +1,10 @@
 # Stade Brestois 29 – Paris FC
 **Ligue 1** · Regular Season - 12 · 27/11/2026 20:45 (hora España) · Stade Francis-Le-Blé
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 10:51_
+_Actualizadas: 24/11 23:24_
 
 - **1X2:** 1 **3.25**  ·  X **3.40**  ·  2 **2.20**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.30**  ·  X2 **1.33**

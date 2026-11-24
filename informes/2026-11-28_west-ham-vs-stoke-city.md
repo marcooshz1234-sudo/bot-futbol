@@ -1,7 +1,7 @@
 # West Ham – Stoke City
 **Championship** · Regular Season - 18 · 28/11/2026 16:00 (hora España) · London Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,42 +9,42 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | West Ham (total) | West Ham en casa | Stoke City (total) | Stoke City fuera |
 |---|---|---|---|---|
-| Partidos analizados | 19 | 10 | 18 | 8 |
-| Forma (últimos 5) | EDEDD | EDDED | VVVVE | VVVVV |
-| Balance | 8V 6E 5D | 4V 2E 4D | 11V 3E 4D | 5V 1E 2D |
-| Goles a favor / partido | 2,47 | 2,40 | 1,56 | 1,50 |
-| Goles en contra / partido | 1,53 | 1,60 | 1,06 | 1,50 |
-| Goles a favor 1ª parte | 0,95 | 1,10 | 0,78 | 0,75 |
-| Goles a favor 2ª parte | 1,53 | 1,30 | 0,78 | 0,75 |
+| Partidos analizados | 20 | 10 | 18 | 8 |
+| Forma (últimos 5) | DEDED | EDDED | VVVVE | VVVVV |
+| Balance | 8V 6E 6D | 4V 2E 4D | 11V 3E 4D | 5V 1E 2D |
+| Goles a favor / partido | 2,35 | 2,40 | 1,56 | 1,50 |
+| Goles en contra / partido | 1,50 | 1,60 | 1,06 | 1,50 |
+| Goles a favor 1ª parte | 0,90 | 1,10 | 0,78 | 0,75 |
+| Goles a favor 2ª parte | 1,45 | 1,30 | 0,78 | 0,75 |
 | Goles en contra 1ª parte | 1,05 | 1,10 | 0,33 | 0,50 |
-| Goles en contra 2ª parte | 0,47 | 0,50 | 0,72 | 1,00 |
-| Más de 1,5 goles | 95% | 100% | 78% | 88% |
-| Más de 2,5 goles | 79% | 80% | 56% | 75% |
-| Más de 3,5 goles | 63% | 60% | 22% | 25% |
-| Ambos marcan | 79% | 80% | 61% | 88% |
-| Portería a cero | 21% | 20% | 39% | 12% |
-| Se queda sin marcar | 0% | 0% | 6% | 0% |
-| xG a favor | 2,10 | 2,36 | 1,01 | 0,90 |
-| xG en contra | 1,28 | 1,09 | 1,42 | 1,88 |
+| Goles en contra 2ª parte | 0,45 | 0,50 | 0,72 | 1,00 |
+| Más de 1,5 goles | 90% | 100% | 78% | 88% |
+| Más de 2,5 goles | 75% | 80% | 56% | 75% |
+| Más de 3,5 goles | 60% | 60% | 22% | 25% |
+| Ambos marcan | 75% | 80% | 61% | 88% |
+| Portería a cero | 20% | 20% | 39% | 12% |
+| Se queda sin marcar | 5% | 0% | 6% | 0% |
+| xG a favor | 2,08 | 2,36 | 1,01 | 0,90 |
+| xG en contra | 1,25 | 1,09 | 1,42 | 1,88 |
 | Tiros / partido | 17,4 | 18,3 | 11,4 | 11,4 |
-| Tiros a puerta / partido | 6,4 | 6,6 | 3,7 | 3,6 |
-| Tiros recibidos | 10,9 | 10,3 | 13,8 | 17,1 |
-| Tiros a puerta recibidos | 3,6 | 3,4 | 4,1 | 4,5 |
+| Tiros a puerta / partido | 6,3 | 6,6 | 3,7 | 3,6 |
+| Tiros recibidos | 10,8 | 10,3 | 13,8 | 17,1 |
+| Tiros a puerta recibidos | 3,5 | 3,4 | 4,1 | 4,5 |
 | Posesión media % | 57 | 57 | 47 | 43 |
-| Córners a favor | 7,0 | 6,9 | 4,3 | 3,6 |
-| Córners en contra | 4,4 | 4,9 | 5,2 | 6,5 |
+| Córners a favor | 6,9 | 6,9 | 4,3 | 3,6 |
+| Córners en contra | 4,3 | 4,9 | 5,2 | 6,5 |
 | Córners a favor 1ª parte | 2,8 | 2,7 | 2,6 | 2,1 |
-| Córners a favor 2ª parte | 4,2 | 4,2 | 1,8 | 1,5 |
-| Córners totales del partido | 11,4 | 11,8 | 9,5 | 10,1 |
-| Córners totales 1ª parte | 4,9 | 5,3 | 4,9 | 5,0 |
-| Córners totales 2ª parte | 6,4 | 6,5 | 4,6 | 5,1 |
-| Más de 8,5 córners | 79% | 90% | 56% | 62% |
-| Más de 9,5 córners | 68% | 70% | 44% | 62% |
-| Más de 10,5 córners | 58% | 60% | 39% | 50% |
-| Faltas cometidas | 10,3 | 10,1 | 13,2 | 13,9 |
-| Faltas recibidas | 10,5 | 10,5 | 11,2 | 11,0 |
+| Córners a favor 2ª parte | 4,1 | 4,2 | 1,8 | 1,5 |
+| Córners totales del partido | 11,2 | 11,8 | 9,5 | 10,1 |
+| Córners totales 1ª parte | 5,0 | 5,3 | 4,9 | 5,0 |
+| Córners totales 2ª parte | 6,3 | 6,5 | 4,6 | 5,1 |
+| Más de 8,5 córners | 80% | 90% | 56% | 62% |
+| Más de 9,5 córners | 65% | 70% | 44% | 62% |
+| Más de 10,5 córners | 55% | 60% | 39% | 50% |
+| Faltas cometidas | 10,6 | 10,1 | 13,2 | 13,9 |
+| Faltas recibidas | 10,4 | 10,5 | 11,2 | 11,0 |
 | Amarillas propias | 1,8 | 1,4 | 2,1 | 2,6 |
-| Amarillas del rival | 1,5 | 1,9 | 2,1 | 1,9 |
+| Amarillas del rival | 1,6 | 1,9 | 2,1 | 1,9 |
 | Rojas / partido | 0,05 | 0,00 | 0,17 | 0,25 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -52,7 +52,7 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 6 | 1 | 4 | 2 | 1 |
 | 16-30' | 5 | 7 | 5 | 5 | 3 | 6 |
-| 31-45' | 10 | 7 | 5 | 5 | 1 | 13 |
+| 31-45' | 10 | 8 | 5 | 5 | 1 | 13 |
 | 46-60' | 8 | 3 | 3 | 7 | 3 | 3 |
 | 61-75' | 9 | 3 | 6 | 2 | 3 | 9 |
 | 76-90' | 12 | 3 | 16 | 5 | 7 | 10 |
@@ -73,36 +73,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de West Ham
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-24 | Championship | Portsmouth 1-0 West Ham | fuera | 5-4 | 19 (6) - 9 (1) | 0-2 |
 | 2026-11-21 | Championship | West Ham 1-1 Preston | casa | 14-2 | 30 (4) - 8 (2) | 2-3 |
 | 2026-11-07 | Championship | Blackburn 2-1 West Ham | fuera | 9-4 | 20 (5) - 5 (3) | 2-3 |
 | 2026-11-04 | Championship | Cardiff 3-3 West Ham | fuera | 6-4 | 18 (10) - 7 (4) | 3-0 |
 | 2026-10-31 | Championship | West Ham 1-3 West Brom | casa | 8-6 | 14 (5) - 12 (3) | 3-1 |
 | 2026-10-24 | Championship | West Ham 2-3 Southampton | casa | 14-6 | 28 (11) - 15 (7) | 1-2 |
-| 2026-10-17 | Championship | Swansea 0-1 West Ham | fuera | 1-6 | 9 (4) - 11 (0) | 2-0 |
 
 ## Jugadores de West Ham
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| M. Kilman | D | 18 | 1629 | 2 | 0 | 14 | 0,8 | 5 | 0,3 | 17 | 8 | 0,4 | 5 | 0 |
-| J. Bowen | M | 19 | 1598 | 9 | 8 | 51 | 2,7 | 24 | 1,3 | 6 | 22 | 1,2 | 1 | 0 |
+| M. Kilman | D | 19 | 1719 | 2 | 0 | 14 | 0,7 | 5 | 0,3 | 19 | 8 | 0,4 | 5 | 0 |
+| J. Bowen | M | 20 | 1688 | 9 | 8 | 54 | 2,7 | 25 | 1,2 | 7 | 22 | 1,1 | 1 | 0 |
+| A. Engels | M | 18 | 1528 | 1 | 3 | 16 | 0,9 | 5 | 0,3 | 15 | 19 | 1,1 | 3 | 0 |
+| K. Mavropanos | D | 17 | 1487 | 6 | 1 | 25 | 1,5 | 10 | 0,6 | 12 | 15 | 0,9 | 3 | 0 |
 | M. Hermansen | G | 16 | 1449 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 7 | 0,4 | 1 | 0 |
-| A. Engels | M | 17 | 1438 | 1 | 3 | 14 | 0,8 | 4 | 0,2 | 11 | 19 | 1,1 | 3 | 0 |
-| K. Mavropanos | D | 16 | 1397 | 6 | 1 | 25 | 1,6 | 10 | 0,6 | 11 | 14 | 0,9 | 3 | 0 |
-| M. Solomon | F | 18 | 1142 | 2 | 2 | 16 | 0,9 | 6 | 0,3 | 11 | 19 | 1,1 | 1 | 0 |
-| D. Mukasa | M | 16 | 1107 | 4 | 1 | 20 | 1,2 | 7 | 0,4 | 10 | 10 | 0,6 | 2 | 0 |
-| V. Castellanos | F | 18 | 1054 | 4 | 4 | 38 | 2,1 | 17 | 0,9 | 20 | 14 | 0,8 | 4 | 0 |
-| M. Kanté | M | 17 | 1020 | 3 | 3 | 18 | 1,1 | 7 | 0,4 | 21 | 7 | 0,4 | 1 | 1 |
+| M. Solomon | M | 19 | 1211 | 2 | 2 | 17 | 0,9 | 6 | 0,3 | 12 | 21 | 1,1 | 1 | 0 |
+| D. Mukasa | M | 17 | 1128 | 4 | 1 | 22 | 1,3 | 7 | 0,4 | 10 | 10 | 0,6 | 2 | 0 |
+| M. Kanté | M | 18 | 1098 | 3 | 3 | 20 | 1,1 | 7 | 0,4 | 21 | 8 | 0,4 | 1 | 1 |
+| V. Castellanos | F | 19 | 1066 | 4 | 4 | 38 | 2,0 | 17 | 0,9 | 21 | 14 | 0,7 | 4 | 0 |
+| J. Piroe | F | 18 | 920 | 4 | 2 | 31 | 1,7 | 14 | 0,8 | 13 | 8 | 0,4 | 1 | 0 |
+| J. Veltman | D | 16 | 889 | 0 | 2 | 2 | 0,1 | 1 | 0,1 | 6 | 14 | 0,9 | 2 | 0 |
 | K. Walker-Peters | D | 13 | 887 | 1 | 2 | 3 | 0,2 | 3 | 0,2 | 14 | 9 | 0,7 | 1 | 0 |
-| J. Piroe | F | 17 | 858 | 4 | 2 | 28 | 1,6 | 13 | 0,8 | 10 | 6 | 0,4 | 1 | 0 |
-| J. Veltman | D | 15 | 827 | 0 | 2 | 2 | 0,1 | 1 | 0,1 | 6 | 13 | 0,9 | 2 | 0 |
 | Morato | D | 12 | 747 | 1 | 1 | 3 | 0,2 | 1 | 0,1 | 11 | 7 | 0,6 | 2 | 0 |
 | Pablo | F | 11 | 671 | 2 | 2 | 15 | 1,4 | 7 | 0,6 | 16 | 16 | 1,5 | 2 | 0 |
 | O. Scarles | D | 11 | 600 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 3 | 0,3 | 2 | 0 |
 | L. Orford | M | 12 | 526 | 0 | 2 | 4 | 0,3 | 1 | 0,1 | 4 | 5 | 0,4 | 0 | 0 |
-| E. Austbö | M | 12 | 459 | 2 | 2 | 13 | 1,1 | 7 | 0,6 | 3 | 3 | 0,2 | 0 | 0 |
-| Ezra Mayers | D | 4 | 305 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 1 | 0,2 | 1 | 0 |
+| E. Austbö | F | 13 | 487 | 2 | 2 | 14 | 1,1 | 8 | 0,6 | 4 | 3 | 0,2 | 0 | 0 |
+| Ezra Mayers | D | 5 | 395 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 2 | 0,4 | 1 | 0 |
+| F. Herrick | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | A. Golambeckis | D | 4 | 283 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,5 | 0 | 0 |
-| F. Herrick | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de Stoke City
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

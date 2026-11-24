@@ -1,10 +1,41 @@
 # Aalborg – Esbjerg
 **1. Division** · Regular Season - 16 · 26/11/2026 19:00 (hora España) · Aalborg Portland Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 24/11 23:23_
+
+- **1X2:** 1 **1.73**  ·  X **4.00**  ·  2 **4.20**
+- **Doble oportunidad:** 1X **1.22**  ·  12 **1.22**  ·  X2 **2.05**
+- **Ambos marcan:** Sí **1.53**  ·  No **2.38**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.53** · menos **2.40**
+    - 3,5: más **2.25** · menos **1.57**
+    - 4,5: más **4.00** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+- **Córners más/menos:**
+    - 10,5: más **1.83** · menos **1.83**
+- **1X2 descanso:** 1 **2.25**  ·  X **2.50**  ·  2 **4.33**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **1.40**  ·  2 **2.25**
+- **To Score In Both Halves By Teams:** 1 **2.38**  ·  2 **4.33**
+- **Win Both Halves:** 1 **5.00**  ·  2 **15.00**
+- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **4.75**  ·  Away/Yes **6.50**  ·  Home/No **3.50**  ·  Draw/No **17.00**  ·  Away/No **9.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.10**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.40**  ·  Menos de 5 **2.05**
+- **Anytime Goal Scorer:** Julius Lucena **5.00**  ·  Lasse Vigen **7.50**  ·  Marcus Bonde **7.50**  ·  Noah Strandby **4.50**  ·  Gustav Bjerge **11.00**  ·  Nicklas Helenius **2.20**  ·  Kelvin John **2.50**  ·  Jubril Adedeji **2.75**  ·  Andres Jasson **3.75**  ·  Bjarne Pudel **9.50**  ·  Marc Nielsen **9.50**  ·  Oskar Boesen **7.00**  ·  Mathias Kubel **3.75**  ·  Cornelius Olsson **7.50**  ·  Marcus Hansen **4.00**  ·  Gustav Grubbe **13.00**  ·  Philip Sondergaard **7.00**  ·  Nicklas Strunck Jakobsen **4.00**  ·  Peter Bjur **5.00**  ·  Mikail Maden **6.50**  ·  Anton Skipper **13.00**  ·  Patrick Tjornelund **13.00**  ·  Mikkel Kallesoe **7.00**  ·  Frederik Borsting **3.75**  ·  Mathijs Tielemans **5.00**  ·  Oluwatomiwa Kolawole **7.00**  ·  Tobias Jorgensen **3.75**  ·  Markus Kaasa **2.88**  ·  Frode Aronsson **9.50**  ·  Benjamin Tiedemann **8.50**  ·  Elison Makolli **9.50**  ·  Kornelius Hansen **2.20**  ·  Muamer Brajanac **2.75**  ·  James Ampofo **3.75**  ·  Alexander Hapnes **6.50**  ·  Sander Strand **8.50**  ·  Jonathan Foss **13.00**  ·  Martin Kruse **7.50**  ·  Jonas Heinze **6.50**  ·  William Thomsen **3.75**  ·  Georg Ejsing **2.75**  ·  Benjamin Jorgensen **4.00**  ·  Bertram Skovgaard **2.50**  ·  Andreas Kristiansen **9.50**  ·  Jakob Zwinge **7.00**  ·  Johan Hvistendahl **9.50**  ·  Daryosh Popalzai **9.50**  ·  Noel Arnorsson **7.00**  ·  Adam Ahmad **3.50**  ·  Tibo Persyn **9.50**  ·  Benjamin Hvidt **6.50**  ·  Nicolai Blicher **11.00**  ·  Valdemar Moller **4.00**  ·  Anders Sonderskov **11.00**
 
 ## Estadísticas de equipo
 | | Aalborg (total) | Aalborg en casa | Esbjerg (total) | Esbjerg fuera |

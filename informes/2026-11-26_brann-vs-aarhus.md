@@ -1,20 +1,21 @@
 # Brann – Aarhus
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Brann Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 10:50_
+_Actualizadas: 24/11 23:23_
 
 - **1X2:** 1 **2.10**  ·  X **3.70**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.70**
 - **Ambos marcan:** Sí **1.50**  ·  No **2.50**
 - **Goles más/menos:**
-    - 1,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.12** · menos **6.00**
     - 2,5: más **1.48** · menos **2.60**
     - 3,5: más **2.10** · menos **1.67**
-    - 4,5: más **3.75** · menos **1.25**
-    - 5,5: más **7.00** · menos **1.10**
+    - 4,5: más **3.50** · menos **1.28**
+    - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**

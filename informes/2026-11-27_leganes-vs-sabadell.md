@@ -1,10 +1,10 @@
 # Leganes – Sabadell
 **Segunda División** · Regular Season - 16 · 27/11/2026 20:30 (hora España) · Estadio Municipal de Butarque
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 10:51_
+_Actualizadas: 24/11 23:24_
 
 - **1X2:** 1 **2.40**  ·  X **3.00**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.36**  ·  X2 **1.57**

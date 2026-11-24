@@ -1,16 +1,15 @@
 # FC Nordsjaelland – Panathinaikos
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España) · Right to Dream Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 10:51_
+_Actualizadas: 24/11 23:23_
 
 - **1X2:** 1 **2.62**  ·  X **3.50**  ·  2 **2.45**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.28**  ·  X2 **1.44**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.20** · menos **4.33**
     - 2,5: más **1.67** · menos **2.15**
     - 3,5: más **2.62** · menos **1.44**
@@ -31,7 +30,7 @@ _Actualizadas: 24/11 10:51_
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 8,5: más **1.85** · menos **1.95**
+    - 8,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **1.91**  ·  X **7.50**  ·  2 **2.20**
 - **1X2 descanso:** 1 **3.20**  ·  X **2.30**  ·  2 **3.00**
 - **Goals Over/Under - Second Half:**

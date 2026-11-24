@@ -1,10 +1,10 @@
 # SC Braga – KuPS
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 10:51_
+_Actualizadas: 24/11 23:23_
 
 - **1X2:** 1 **1.11**  ·  X **8.00**  ·  2 **19.00**
 - **Doble oportunidad:** 1X **1.02**  ·  12 **1.08**  ·  X2 **6.50**

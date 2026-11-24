@@ -1,6 +1,6 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 626 · aciertos: 390 (62%) · beneficio a 1 € por pick: -66.69 €
+Picks ya jugados: 628 · aciertos: 391 (62%) · beneficio a 1 € por pick: -67.07 €
 
 ## Por tipo
 
@@ -11,8 +11,8 @@ Picks ya jugados: 626 · aciertos: 390 (62%) · beneficio a 1 € por pick: -66.
 | resultado | 77 | 122 | 63% | -6.13 € |
 | tarjetas | 16 | 27 | 59% | -1.68 € |
 | tiros | 6 | 11 | 55% | -0.47 € |
-| corners | 6 | 21 | 29% | -11.17 € |
-| fueras de juego | 0 | 3 | 0% | -3.00 € |
+| corners | 7 | 22 | 32% | -10.55 € |
+| fueras de juego | 0 | 4 | 0% | -4.00 € |
 | tiros a puerta | 0 | 2 | 0% | -2.00 € |
 
 ## Por mercado (mín. 3 picks)
@@ -41,10 +41,10 @@ Picks ya jugados: 626 · aciertos: 390 (62%) · beneficio a 1 € por pick: -66.
 | Total - Away · Over 0.5 | 28 | 50 | 56% |
 | Both Teams Score · Yes | 12 | 23 | 52% |
 | Away Team Total Cards · Over 1.5 | 2 | 4 | 50% |
+| Away Corners Over/Under · Over 3.5 | 3 | 6 | 50% |
 | Total - Away · Over 1.5 | 2 | 4 | 50% |
 | To Win Either Half · Away | 6 | 13 | 46% |
 | Double Chance · Draw/Away | 12 | 28 | 43% |
-| Away Corners Over/Under · Over 3.5 | 2 | 5 | 40% |
 | Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 8 | 38% |
 | Total Shots · Over 26.5 | 1 | 3 | 33% |
 | Player Fouls Committed · Koki Machida - 1 | 1 | 3 | 33% |
@@ -52,6 +52,10 @@ Picks ya jugados: 626 · aciertos: 390 (62%) · beneficio a 1 € por pick: -66.
 | Home Team Total Cards · Over 0.5 | 1 | 4 | 25% |
 
 ## Últimos días
+
+### 2026-11-24 · 1/2
+- ❌ Manchester City hace más de 0,5 fueras de juego · 1.53 (2-2)
+- ✅ Lens hace más de 3,5 córners · 1.62 (3-1)
 
 ### 2026-11-23 · 2/2
 - ✅ Gana el Almeria · 1.90 (2-3)
@@ -120,10 +124,4 @@ Picks ya jugados: 626 · aciertos: 390 (62%) · beneficio a 1 € por pick: -66.
 - ❌ Más de 8,5 córners en Estonia–Bulgaria · 1.73 (2-1)
 - ✅ Gana el Greece · 1.42 (1-0)
 - ✅ Konstantinos Mavropanos: 1+ tiros · 1.36 (1-0)
-
-### 2026-11-15 · 2/4
-- ❌ Gana el Madrid CFF W · 2.10 (2-3)
-- ✅ Más de 1,5 goles en Eibar–Cadiz · 1.25 (1-1)
-- ❌ Eibar gana alguna de las dos partes · 1.36 (1-1)
-- ✅ Más de 1,5 goles en la 2ª parte del Spain–England · 1.80 (2-3)
 

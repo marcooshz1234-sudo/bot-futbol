@@ -1,10 +1,10 @@
 # Groningen – Willem II
 **Eredivisie** · Regular Season - 14 · 27/11/2026 20:00 (hora España) · Euroborg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 10:51_
+_Actualizadas: 24/11 23:24_
 
 - **1X2:** 1 **1.38**  ·  X **5.00**  ·  2 **6.50**
 - **Doble oportunidad:** 1X **1.11**  ·  12 **1.17**  ·  X2 **3.00**
@@ -113,7 +113,8 @@ _Actualizadas: 24/11 10:51_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Groningen:** T. Hernes (baja, Inactive); M. Jeng (baja, Leg Injury)
+**Willem II:** T. Didillon Hodl (baja, Inactive); J. Hoogma (baja, Knee Injury); A. Lachkar (baja, Groin Injury); N. Tjoe a On (baja, Red Card)
 
 ## Enfrentamientos directos recientes
 - 2025-02-15 · Eredivisie: Willem II 1-3 Groningen

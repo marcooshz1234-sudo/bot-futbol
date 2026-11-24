@@ -1,10 +1,10 @@
 # Heart Of Midlothian – Monaco
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Tynecastle Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 10:50_
+_Actualizadas: 24/11 23:23_
 
 - **1X2:** 1 **4.75**  ·  X **3.90**  ·  2 **1.65**
 - **Doble oportunidad:** 1X **2.20**  ·  12 **1.25**  ·  X2 **1.18**

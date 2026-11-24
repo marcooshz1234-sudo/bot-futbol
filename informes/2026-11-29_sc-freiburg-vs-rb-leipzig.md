@@ -1,7 +1,7 @@
 # SC Freiburg – RB Leipzig
 **Bundesliga** · Regular Season - 11 · 29/11/2026 15:30 (hora España) · Europa-Park Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
 _Actualizadas: 24/11 10:52_
@@ -61,53 +61,53 @@ _Actualizadas: 24/11 10:52_
 ## Estadísticas de equipo
 | | SC Freiburg (total) | SC Freiburg en casa | RB Leipzig (total) | RB Leipzig fuera |
 |---|---|---|---|---|
-| Partidos analizados | 17 | 8 | 16 | 9 |
-| Forma (últimos 5) | VVVVV | VVDVV | VVDVV | VVVDD |
-| Balance | 13V 1E 3D | 7V 0E 1D | 10V 0E 6D | 4V 0E 5D |
-| Goles a favor / partido | 2,35 | 3,00 | 2,81 | 2,11 |
-| Goles en contra / partido | 1,18 | 1,25 | 1,62 | 2,33 |
-| Goles a favor 1ª parte | 0,82 | 1,00 | 0,94 | 0,56 |
-| Goles a favor 2ª parte | 1,53 | 2,00 | 1,88 | 1,56 |
-| Goles en contra 1ª parte | 0,76 | 0,88 | 0,75 | 1,11 |
+| Partidos analizados | 17 | 8 | 17 | 9 |
+| Forma (últimos 5) | VVVVV | VVDVV | VVVDV | VVVDD |
+| Balance | 13V 1E 3D | 7V 0E 1D | 11V 0E 6D | 4V 0E 5D |
+| Goles a favor / partido | 2,35 | 3,00 | 2,82 | 2,11 |
+| Goles en contra / partido | 1,18 | 1,25 | 1,59 | 2,33 |
+| Goles a favor 1ª parte | 0,82 | 1,00 | 1,00 | 0,56 |
+| Goles a favor 2ª parte | 1,53 | 2,00 | 1,82 | 1,56 |
+| Goles en contra 1ª parte | 0,76 | 0,88 | 0,71 | 1,11 |
 | Goles en contra 2ª parte | 0,41 | 0,38 | 0,88 | 1,22 |
 | Más de 1,5 goles | 82% | 100% | 94% | 100% |
-| Más de 2,5 goles | 76% | 88% | 81% | 78% |
-| Más de 3,5 goles | 53% | 75% | 69% | 67% |
-| Ambos marcan | 65% | 75% | 50% | 67% |
-| Portería a cero | 29% | 25% | 44% | 22% |
+| Más de 2,5 goles | 76% | 88% | 82% | 78% |
+| Más de 3,5 goles | 53% | 75% | 71% | 67% |
+| Ambos marcan | 65% | 75% | 53% | 67% |
+| Portería a cero | 29% | 25% | 41% | 22% |
 | Se queda sin marcar | 6% | 0% | 6% | 11% |
-| xG a favor | 1,63 | 1,87 | 2,41 | 2,26 |
-| xG en contra | 1,23 | 1,01 | 1,71 | 1,97 |
-| Tiros / partido | 17,0 | 19,2 | 17,8 | 17,4 |
-| Tiros a puerta / partido | 5,8 | 6,9 | 6,8 | 6,1 |
-| Tiros recibidos | 9,1 | 7,4 | 13,1 | 14,0 |
-| Tiros a puerta recibidos | 2,8 | 2,2 | 5,9 | 6,6 |
+| xG a favor | 1,63 | 1,87 | 2,31 | 2,26 |
+| xG en contra | 1,23 | 1,01 | 1,65 | 1,97 |
+| Tiros / partido | 17,0 | 19,2 | 17,6 | 17,4 |
+| Tiros a puerta / partido | 5,8 | 6,9 | 6,7 | 6,1 |
+| Tiros recibidos | 9,1 | 7,4 | 13,0 | 14,0 |
+| Tiros a puerta recibidos | 2,8 | 2,2 | 5,8 | 6,6 |
 | Posesión media % | 53 | 57 | 54 | 56 |
-| Córners a favor | 5,7 | 6,0 | 5,6 | 6,1 |
-| Córners en contra | 3,2 | 2,5 | 5,4 | 4,9 |
+| Córners a favor | 5,7 | 6,0 | 5,7 | 6,1 |
+| Córners en contra | 3,2 | 2,5 | 5,3 | 4,9 |
 | Córners a favor 1ª parte | 2,8 | 2,9 | 2,4 | 2,7 |
-| Córners a favor 2ª parte | 2,9 | 3,1 | 3,2 | 3,4 |
-| Córners totales del partido | 8,9 | 8,5 | 10,9 | 11,0 |
+| Córners a favor 2ª parte | 2,9 | 3,1 | 3,3 | 3,4 |
+| Córners totales del partido | 8,9 | 8,5 | 11,0 | 11,0 |
 | Córners totales 1ª parte | 4,5 | 3,9 | 4,6 | 4,2 |
-| Córners totales 2ª parte | 4,4 | 4,6 | 6,3 | 6,8 |
-| Más de 8,5 córners | 53% | 50% | 75% | 78% |
-| Más de 9,5 córners | 35% | 25% | 62% | 67% |
-| Más de 10,5 córners | 24% | 25% | 50% | 56% |
-| Faltas cometidas | 10,7 | 10,8 | 11,1 | 10,1 |
+| Córners totales 2ª parte | 4,4 | 4,6 | 6,4 | 6,8 |
+| Más de 8,5 córners | 53% | 50% | 76% | 78% |
+| Más de 9,5 córners | 35% | 25% | 65% | 67% |
+| Más de 10,5 córners | 24% | 25% | 53% | 56% |
+| Faltas cometidas | 10,7 | 10,8 | 11,0 | 10,1 |
 | Faltas recibidas | 13,2 | 14,0 | 12,1 | 12,3 |
 | Amarillas propias | 1,8 | 1,6 | 1,4 | 1,4 |
-| Amarillas del rival | 1,8 | 2,0 | 1,6 | 1,6 |
+| Amarillas del rival | 1,8 | 2,0 | 1,8 | 1,6 |
 | Rojas / partido | 0,06 | 0,12 | 0,06 | 0,11 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles SC Freiburg | Recibe SC Freiburg | Tarjetas SC Freiburg | Goles RB Leipzig | Recibe RB Leipzig | Tarjetas RB Leipzig |
 |---|---|---|---|---|---|---|
-| 1-15' | 6 | 3 | 1 | 4 | 5 | 4 |
+| 1-15' | 6 | 3 | 1 | 6 | 5 | 4 |
 | 16-30' | 6 | 6 | 3 | 4 | 1 | 4 |
 | 31-45' | 2 | 4 | 6 | 7 | 6 | 3 |
-| 46-60' | 6 | 0 | 8 | 7 | 6 | 4 |
-| 61-75' | 9 | 0 | 5 | 8 | 2 | 5 |
-| 76-90' | 11 | 7 | 9 | 15 | 6 | 6 |
+| 46-60' | 6 | 0 | 8 | 7 | 7 | 4 |
+| 61-75' | 9 | 0 | 5 | 8 | 2 | 6 |
+| 76-90' | 11 | 7 | 9 | 16 | 6 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -159,33 +159,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de RB Leipzig
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-24 | Champions League | RB Leipzig 3-1 Lens | casa | 8-4 | 15 (6) - 11 (3) | 1-4 |
 | 2026-11-21 | Bundesliga | Union Berlin 1-5 RB Leipzig | fuera | 8-4 | 32 (10) - 13 (8) | 2-2 |
 | 2026-11-07 | Bundesliga | RB Leipzig 5-2 FC Augsburg | casa | 2-2 | 17 (7) - 13 (8) | 1-2 |
 | 2026-11-04 | Champions League | RB Leipzig 2-3 Manchester City | casa | 5-3 | 14 (6) - 12 (5) | 4-2 |
 | 2026-10-31 | Bundesliga | FC Schalke 04 0-2 RB Leipzig | fuera | 7-3 | 18 (10) - 6 (1) | 0-2 |
 | 2026-10-27 | DFB-Pokal | Rot-Weiß Essen 1-2 RB Leipzig | fuera | 7-5 | 11 (2) - 9 (1) | 3-2 |
-| 2026-10-24 | Bundesliga | RB Leipzig 4-0 SV Elversberg | casa | 4-6 | 13 (6) - 5 (1) | 1-1 |
 
 ## Jugadores de RB Leipzig
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| W. Orbán | D | 16 | 1423 | 2 | 1 | 19 | 1,2 | 4 | 0,2 | 12 | 11 | 0,7 | 1 | 0 |
-| D. Raum | D | 15 | 1307 | 1 | 2 | 6 | 0,4 | 5 | 0,3 | 14 | 3 | 0,2 | 2 | 0 |
-| M. Vandevoordt | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
-| A. Nusa | F | 16 | 1187 | 7 | 8 | 37 | 2,3 | 19 | 1,2 | 7 | 21 | 1,3 | 3 | 0 |
+| Willi Orbán | D | 17 | 1507 | 2 | 1 | 20 | 1,2 | 4 | 0,2 | 14 | 11 | 0,6 | 1 | 0 |
+| David Raum | D | 16 | 1391 | 2 | 2 | 7 | 0,4 | 6 | 0,4 | 14 | 3 | 0,2 | 2 | 0 |
+| Maarten Vandevoordt | G | 15 | 1344 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
+| Antonio Nusa | M | 17 | 1271 | 8 | 8 | 40 | 2,4 | 21 | 1,2 | 7 | 23 | 1,4 | 3 | 0 |
+| Neil El Aynaoui | M | 15 | 1189 | 0 | 1 | 12 | 0,8 | 2 | 0,1 | 10 | 16 | 1,1 | 4 | 0 |
 | C. Lukeba | D | 13 | 1140 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 6 | 3 | 0,2 | 1 | 0 |
-| E. Banzuzi | M | 15 | 1114 | 3 | 3 | 23 | 1,5 | 8 | 0,5 | 26 | 21 | 1,4 | 2 | 0 |
-| N. El Aynaoui | M | 14 | 1105 | 0 | 1 | 11 | 0,8 | 2 | 0,1 | 10 | 15 | 1,1 | 4 | 0 |
-| R. Baku | D | 14 | 954 | 5 | 0 | 20 | 1,4 | 11 | 0,8 | 12 | 15 | 1,1 | 1 | 0 |
-| B. Gruda | F | 14 | 907 | 3 | 6 | 19 | 1,4 | 10 | 0,7 | 16 | 21 | 1,5 | 1 | 0 |
-| Rômulo | F | 12 | 773 | 6 | 0 | 21 | 1,8 | 13 | 1,1 | 9 | 11 | 0,9 | 0 | 0 |
-| T. Gomis | F | 16 | 764 | 4 | 4 | 31 | 1,9 | 10 | 0,6 | 5 | 15 | 0,9 | 0 | 0 |
-| C. Nkunku | F | 12 | 738 | 5 | 5 | 17 | 1,4 | 11 | 0,9 | 15 | 14 | 1,2 | 1 | 0 |
-| N. Seiwald | M | 14 | 631 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 13 | 1 | 0,1 | 1 | 1 |
-| R. Reitz | M | 11 | 443 | 2 | 1 | 4 | 0,4 | 2 | 0,2 | 6 | 12 | 1,1 | 2 | 0 |
+| Ezechiel Banzuzi | M | 16 | 1134 | 3 | 3 | 23 | 1,4 | 8 | 0,5 | 28 | 21 | 1,3 | 2 | 0 |
+| Ridle Baku | D | 15 | 1038 | 5 | 0 | 21 | 1,4 | 12 | 0,8 | 13 | 16 | 1,1 | 1 | 0 |
+| Brajan Gruda | M | 15 | 971 | 3 | 6 | 21 | 1,4 | 11 | 0,7 | 17 | 23 | 1,5 | 2 | 0 |
+| Tidiam Gomis | F | 17 | 848 | 4 | 4 | 32 | 1,9 | 10 | 0,6 | 5 | 17 | 1,0 | 0 | 0 |
+| Rômulo | F | 13 | 793 | 6 | 0 | 21 | 1,6 | 13 | 1,0 | 11 | 11 | 0,8 | 0 | 0 |
+| Christopher Nkunku | F | 13 | 758 | 5 | 5 | 18 | 1,4 | 12 | 0,9 | 15 | 15 | 1,2 | 1 | 0 |
+| Nicolas Seiwald | M | 15 | 647 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 13 | 1 | 0,1 | 1 | 1 |
+| Rocco Reitz | M | 12 | 507 | 2 | 1 | 5 | 0,4 | 2 | 0,2 | 7 | 13 | 1,1 | 2 | 0 |
 | B. Henrichs | D | 12 | 402 | 0 | 1 | 3 | 0,2 | 0 | 0,0 | 6 | 6 | 0,5 | 1 | 0 |
+| Maxime Estève | D | 6 | 368 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 0 | 2 | 0,3 | 0 | 0 |
 | A. MaksimoviÄ | M | 9 | 347 | 2 | 1 | 4 | 0,4 | 3 | 0,3 | 2 | 1 | 0,1 | 0 | 0 |
-| M. Estève | D | 5 | 300 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 0 | 2 | 0,4 | 0 | 0 |
-| C. Baumgartner | M | 7 | 230 | 4 | 1 | 12 | 1,7 | 5 | 0,7 | 5 | 2 | 0,3 | 2 | 0 |
+| Christoph Baumgartner | M | 8 | 294 | 4 | 1 | 12 | 1,5 | 5 | 0,6 | 6 | 4 | 0,5 | 2 | 0 |
 | Ø. Nyland | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 1,0 | 1 | 0 |
 | Max Finkgräfe | D | 5 | 171 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 5 | 1,0 | 0 | 0 |

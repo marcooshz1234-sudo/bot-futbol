@@ -1,7 +1,7 @@
 # Real Madrid – Alaves
 **LaLiga** · Regular Season - 14 · 28/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
 _Actualizadas: 24/11 10:52_
@@ -62,53 +62,53 @@ _Actualizadas: 24/11 10:52_
 ## Estadísticas de equipo
 | | Real Madrid (total) | Real Madrid en casa | Alaves (total) | Alaves fuera |
 |---|---|---|---|---|
-| Partidos analizados | 17 | 8 | 14 | 7 |
+| Partidos analizados | 18 | 9 | 14 | 7 |
 | Forma (últimos 5) | VVVVV | VVVVV | VVEDE | VEDDE |
-| Balance | 15V 0E 2D | 8V 0E 0D | 5V 4E 5D | 1V 3E 3D |
-| Goles a favor / partido | 2,71 | 3,12 | 1,71 | 1,43 |
-| Goles en contra / partido | 1,06 | 0,75 | 1,36 | 1,71 |
-| Goles a favor 1ª parte | 1,35 | 1,50 | 0,57 | 0,43 |
-| Goles a favor 2ª parte | 1,35 | 1,62 | 1,14 | 1,00 |
-| Goles en contra 1ª parte | 0,29 | 0,25 | 0,64 | 0,86 |
-| Goles en contra 2ª parte | 0,76 | 0,50 | 0,71 | 0,86 |
-| Más de 1,5 goles | 88% | 88% | 71% | 71% |
-| Más de 2,5 goles | 88% | 88% | 57% | 57% |
-| Más de 3,5 goles | 47% | 62% | 29% | 29% |
-| Ambos marcan | 71% | 75% | 64% | 71% |
-| Portería a cero | 24% | 25% | 29% | 29% |
+| Balance | 16V 0E 2D | 9V 0E 0D | 5V 4E 5D | 1V 3E 3D |
+| Goles a favor / partido | 2,83 | 3,33 | 1,71 | 1,43 |
+| Goles en contra / partido | 1,06 | 0,78 | 1,36 | 1,71 |
+| Goles a favor 1ª parte | 1,28 | 1,33 | 0,57 | 0,43 |
+| Goles a favor 2ª parte | 1,56 | 2,00 | 1,14 | 1,00 |
+| Goles en contra 1ª parte | 0,33 | 0,33 | 0,64 | 0,86 |
+| Goles en contra 2ª parte | 0,72 | 0,44 | 0,71 | 0,86 |
+| Más de 1,5 goles | 89% | 89% | 71% | 71% |
+| Más de 2,5 goles | 89% | 89% | 57% | 57% |
+| Más de 3,5 goles | 50% | 67% | 29% | 29% |
+| Ambos marcan | 72% | 78% | 64% | 71% |
+| Portería a cero | 22% | 22% | 29% | 29% |
 | Se queda sin marcar | 6% | 0% | 21% | 29% |
-| xG a favor | 2,64 | 2,74 | 1,36 | 1,05 |
-| xG en contra | 1,13 | 1,10 | 1,30 | 1,65 |
-| Tiros / partido | 18,1 | 18,4 | 13,8 | 13,1 |
-| Tiros a puerta / partido | 7,6 | 8,5 | 5,1 | 5,1 |
-| Tiros recibidos | 12,4 | 13,5 | 11,5 | 11,9 |
-| Tiros a puerta recibidos | 4,6 | 4,6 | 4,1 | 4,1 |
+| xG a favor | 2,65 | 2,77 | 1,36 | 1,05 |
+| xG en contra | 1,16 | 1,18 | 1,30 | 1,65 |
+| Tiros / partido | 18,2 | 18,6 | 13,8 | 13,1 |
+| Tiros a puerta / partido | 7,6 | 8,3 | 5,1 | 5,1 |
+| Tiros recibidos | 12,2 | 13,1 | 11,5 | 11,9 |
+| Tiros a puerta recibidos | 4,4 | 4,2 | 4,1 | 4,1 |
 | Posesión media % | 54 | 55 | 44 | 44 |
-| Córners a favor | 6,5 | 6,6 | 4,4 | 4,3 |
-| Córners en contra | 3,9 | 4,8 | 4,4 | 4,1 |
-| Córners a favor 1ª parte | 3,2 | 2,9 | 1,8 | 1,9 |
+| Córners a favor | 6,3 | 6,3 | 4,4 | 4,3 |
+| Córners en contra | 3,7 | 4,3 | 4,4 | 4,1 |
+| Córners a favor 1ª parte | 3,0 | 2,6 | 1,8 | 1,9 |
 | Córners a favor 2ª parte | 3,3 | 3,8 | 2,6 | 2,4 |
-| Córners totales del partido | 10,4 | 11,4 | 8,7 | 8,4 |
-| Córners totales 1ª parte | 4,7 | 4,6 | 3,8 | 3,7 |
-| Córners totales 2ª parte | 5,6 | 6,8 | 4,9 | 4,7 |
-| Más de 8,5 córners | 59% | 75% | 50% | 43% |
-| Más de 9,5 córners | 59% | 75% | 36% | 29% |
-| Más de 10,5 córners | 53% | 75% | 14% | 14% |
-| Faltas cometidas | 9,1 | 9,0 | 14,0 | 14,1 |
-| Faltas recibidas | 13,9 | 11,5 | 13,4 | 14,0 |
-| Amarillas propias | 1,8 | 1,6 | 2,0 | 1,7 |
-| Amarillas del rival | 2,5 | 2,0 | 2,0 | 1,4 |
-| Rojas / partido | 0,12 | 0,12 | 0,07 | 0,00 |
+| Córners totales del partido | 10,1 | 10,7 | 8,7 | 8,4 |
+| Córners totales 1ª parte | 4,4 | 4,1 | 3,8 | 3,7 |
+| Córners totales 2ª parte | 5,6 | 6,6 | 4,9 | 4,7 |
+| Más de 8,5 córners | 56% | 67% | 50% | 43% |
+| Más de 9,5 córners | 56% | 67% | 36% | 29% |
+| Más de 10,5 córners | 50% | 67% | 14% | 14% |
+| Faltas cometidas | 8,9 | 8,7 | 14,0 | 14,1 |
+| Faltas recibidas | 13,7 | 11,3 | 13,4 | 14,0 |
+| Amarillas propias | 1,8 | 1,8 | 2,0 | 1,7 |
+| Amarillas del rival | 2,4 | 1,9 | 2,0 | 1,4 |
+| Rojas / partido | 0,11 | 0,11 | 0,07 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Real Madrid | Recibe Real Madrid | Tarjetas Real Madrid | Goles Alaves | Recibe Alaves | Tarjetas Alaves |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 2 | 2 | 1 | 1 | 2 |
-| 16-30' | 10 | 2 | 2 | 3 | 1 | 3 |
-| 31-45' | 9 | 1 | 3 | 4 | 7 | 6 |
-| 46-60' | 2 | 5 | 4 | 3 | 4 | 3 |
-| 61-75' | 5 | 3 | 7 | 3 | 3 | 8 |
-| 76-90' | 16 | 5 | 14 | 10 | 3 | 6 |
+| 16-30' | 10 | 2 | 3 | 3 | 1 | 3 |
+| 31-45' | 9 | 2 | 4 | 4 | 7 | 6 |
+| 46-60' | 4 | 5 | 4 | 3 | 4 | 3 |
+| 61-75' | 6 | 3 | 7 | 3 | 3 | 8 |
+| 76-90' | 18 | 5 | 15 | 10 | 3 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -126,36 +126,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Real Madrid
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-24 | Champions League | Real Madrid 5-1 PSV Eindhoven | casa | 4-1 | 20 (7) - 10 (1) | 3-1 |
 | 2026-11-21 | LaLiga | Real Madrid 2-1 Celta Vigo | casa | 8-3 | 24 (7) - 8 (4) | 1-2 |
 | 2026-11-07 | LaLiga | Valencia 0-3 Real Madrid | fuera | 5-2 | 19 (11) - 4 (2) | 3-4 |
 | 2026-11-04 | Champions League | AEK Athens FC 2-3 Real Madrid | fuera | 7-0 | 24 (8) - 9 (5) | 1-1 |
 | 2026-11-01 | LaLiga | Racing Santander 0-3 Real Madrid | fuera | 6-4 | 22 (7) - 10 (1) | 0-2 |
 | 2026-10-25 | LaLiga | Barcelona 1-2 Real Madrid | fuera | 6-6 | 10 (5) - 18 (6) | 3-3 |
-| 2026-10-21 | Champions League | Real Madrid 4-1 RB Leipzig | casa | 7-1 | 18 (11) - 11 (6) | 1-1 |
 
 ## Jugadores de Real Madrid
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Kylian Mbappé | F | 17 | 1520 | 17 | 4 | 76 | 4,5 | 47 | 2,8 | 9 | 29 | 1,7 | 3 | 0 |
-| T. Courtois | G | 16 | 1440 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| J. Bellingham | M | 17 | 1401 | 6 | 3 | 34 | 2,0 | 17 | 1,0 | 12 | 46 | 2,7 | 2 | 0 |
-| I. Konaté | D | 14 | 1260 | 0 | 0 | 7 | 0,5 | 1 | 0,1 | 15 | 5 | 0,4 | 4 | 0 |
-| F. Valverde | M | 16 | 1217 | 3 | 2 | 12 | 0,8 | 6 | 0,4 | 8 | 4 | 0,2 | 0 | 0 |
-| Marc Cucurella | D | 17 | 1137 | 0 | 1 | 3 | 0,2 | 1 | 0,1 | 19 | 8 | 0,5 | 1 | 0 |
-| D. Huijsen | D | 13 | 1132 | 0 | 0 | 7 | 0,5 | 3 | 0,2 | 12 | 10 | 0,8 | 2 | 1 |
-| Y. Diomande | M | 17 | 965 | 4 | 4 | 19 | 1,1 | 6 | 0,4 | 12 | 21 | 1,2 | 2 | 0 |
-| A. Güler | M | 15 | 947 | 4 | 6 | 30 | 2,0 | 15 | 1,0 | 6 | 24 | 1,6 | 1 | 0 |
-| Vinícius Júnior | F | 13 | 915 | 1 | 3 | 26 | 2,0 | 9 | 0,7 | 11 | 31 | 2,4 | 2 | 1 |
-| Bernardo Silva | M | 14 | 778 | 1 | 1 | 5 | 0,4 | 2 | 0,1 | 11 | 11 | 0,8 | 0 | 0 |
-| A. Tchouaméni | M | 10 | 709 | 0 | 1 | 6 | 0,6 | 2 | 0,2 | 5 | 4 | 0,4 | 2 | 0 |
+| Kylian Mbappé | F | 18 | 1602 | 18 | 5 | 81 | 4,5 | 49 | 2,7 | 9 | 31 | 1,7 | 3 | 0 |
+| Thibaut Courtois | G | 17 | 1522 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| Jude Bellingham | M | 18 | 1438 | 7 | 3 | 36 | 2,0 | 19 | 1,1 | 13 | 47 | 2,6 | 2 | 0 |
+| Federico Valverde | D | 17 | 1299 | 4 | 2 | 14 | 0,8 | 7 | 0,4 | 8 | 5 | 0,3 | 0 | 0 |
+| Ibrahima Konaté | D | 15 | 1297 | 0 | 0 | 7 | 0,5 | 1 | 0,1 | 15 | 5 | 0,3 | 4 | 0 |
+| Marc Cucurella | D | 18 | 1219 | 0 | 1 | 3 | 0,2 | 1 | 0,1 | 19 | 10 | 0,6 | 1 | 0 |
+| Dean Huijsen | D | 14 | 1169 | 0 | 0 | 7 | 0,5 | 3 | 0,2 | 13 | 11 | 0,8 | 2 | 1 |
+| Yan Diomande | F | 18 | 1045 | 4 | 4 | 21 | 1,2 | 6 | 0,3 | 12 | 21 | 1,2 | 2 | 0 |
+| Arda Güler | M | 16 | 1017 | 4 | 8 | 31 | 1,9 | 16 | 1,0 | 6 | 24 | 1,5 | 1 | 0 |
+| Vinícius Júnior | F | 14 | 997 | 1 | 3 | 29 | 2,1 | 10 | 0,7 | 11 | 31 | 2,2 | 2 | 1 |
+| Bernardo Silva | M | 15 | 860 | 1 | 1 | 5 | 0,3 | 2 | 0,1 | 11 | 11 | 0,7 | 0 | 0 |
+| Aurélien Tchouaméni | M | 11 | 754 | 0 | 1 | 6 | 0,5 | 2 | 0,2 | 6 | 5 | 0,5 | 3 | 0 |
 | D. Dumfries | D | 11 | 694 | 0 | 1 | 5 | 0,5 | 3 | 0,3 | 5 | 4 | 0,4 | 1 | 0 |
-| A. Rüdiger | D | 7 | 576 | 2 | 0 | 3 | 0,4 | 3 | 0,4 | 4 | 4 | 0,6 | 1 | 0 |
-| E. Camavinga | M | 14 | 553 | 0 | 1 | 2 | 0,1 | 1 | 0,1 | 16 | 13 | 0,9 | 2 | 0 |
+| Antonio Rüdiger | D | 8 | 621 | 2 | 0 | 3 | 0,4 | 3 | 0,4 | 5 | 5 | 0,6 | 2 | 0 |
+| Eduardo Camavinga | M | 15 | 565 | 0 | 1 | 2 | 0,1 | 1 | 0,1 | 17 | 13 | 0,9 | 3 | 0 |
 | T. Alexander-Arnold | D | 9 | 492 | 0 | 1 | 4 | 0,4 | 1 | 0,1 | 0 | 1 | 0,1 | 0 | 0 |
 | Álvaro Fernández | D | 10 | 406 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 5 | 4 | 0,4 | 3 | 0 |
-| Brahim Díaz | M | 9 | 249 | 0 | 3 | 4 | 0,4 | 0 | 0,0 | 1 | 5 | 0,6 | 0 | 0 |
+| Brahim Díaz | M | 10 | 251 | 0 | 3 | 4 | 0,4 | 0 | 0,0 | 1 | 5 | 0,5 | 0 | 0 |
 | Endrick | F | 8 | 165 | 1 | 0 | 10 | 1,2 | 5 | 0,6 | 1 | 2 | 0,2 | 0 | 0 |
-| Éder Militão | D | 2 | 100 | 0 | 0 | 2 | 1,0 | 1 | 0,5 | 1 | 1 | 0,5 | 0 | 0 |
+| Éder Militão | D | 3 | 145 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 2 | 2 | 0,7 | 0 | 0 |
 
 ## Últimos partidos de Alaves
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

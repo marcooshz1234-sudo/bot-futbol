@@ -1,10 +1,27 @@
 # Albinoleffe – Treviso
 **Serie C** · Girone A - 16 · 29/11/2026 17:30 (hora España) · AlbinoLeffe
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 24/11 23:24_
+
+- **1X2:** 1 **2.50**  ·  X **3.10**  ·  2 **2.55**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.05** · menos **8.50**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.10** · menos **1.70**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **7.00** · menos **1.08**
+- **1X2 descanso:** 1 **3.20**  ·  X **2.05**  ·  2 **3.25**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **1.83**  ·  2 **1.83**
+- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **4.33**
+- **Win Both Halves:** 1 **10.00**  ·  2 **10.00**
+- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.00**  ·  Home/No **4.33**  ·  Draw/No **8.50**  ·  Away/No **4.33**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.20**
 
 ## Estadísticas de equipo
 | | Albinoleffe (total) | Albinoleffe en casa | Treviso (total) | Treviso fuera |

@@ -1,10 +1,10 @@
 # Levante – Racing Santander
 **LaLiga** · Regular Season - 14 · 27/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 10:51_
+_Actualizadas: 24/11 23:24_
 
 - **1X2:** 1 **2.05**  ·  X **3.60**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.73**
@@ -113,7 +113,8 @@ _Actualizadas: 24/11 10:51_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Levante:** M. Sanchez (baja, Knee Injury); J. Toljan (duda, Injury)
+**Racing Santander:** M. Gueye (baja, Muscle Injury); A. Mantilla (baja, Knee Injury); A. Martin (baja, Muscle Injury)
 
 ## Enfrentamientos directos recientes
 - 2025-04-06 · Segunda División: Levante 3-1 Racing Santander

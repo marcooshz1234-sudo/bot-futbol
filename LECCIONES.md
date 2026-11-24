@@ -1,5 +1,40 @@
 # Lecciones del bot
 
+## 2026-11-24
+
+```
+🧠 LECCIONES DEL 24/11
+Picks del bot: 1 ✅ · 1 ❌
+
+❌ Lo que falló en lo publicado:
+• AEK Athens FC hace más de 2,5 córners → 1 de 3 córners
+• AEK Athens FC marca → 0 de 1 gol
+• Ambos marcan en Feyenoord–FC Porto → 1 de 2 equipos que marcan
+• Ambos marcan en Slovan Bratislava–Real Betis → 1 de 2 equipos que marcan
+• Bodo/Glimt marca en las dos partes → Marcador: 1–0
+• Como marca en las dos partes → Marcador: 1–0
+• FC Porto marca 2 o más → 1 de 2 goles
+• FC Porto marca en las dos partes → Marcador: 0–1
+• Florian Thauvin: 2+ tiros → 0 de 2 tiros
+• Gana el Arsenal → Marcador: 1–1
+• Gana el Aston Villa → Marcador: 1–0
+• Gana el Como y ambos marcan → Marcador: 1–0
+• Gana el Manchester City → Marcador: 2–2
+• Guus Til: 2+ tiros → 0 de 2 tiros
+• Ivan Perisic: 2+ tiros → 1 de 2 tiros
+
+❌ Fallos de los picks del bot y por qué:
+• Manchester City hace más de 0,5 fueras de juego — no llegó a la línea (2-2)
+
+📐 Modelo: 391/628 aciertos reales (62%) frente al 71% que prometían las estadísticas y el 70% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬇️ castigo tipo corners: 7/22 (-13 pts)
+⬇️ castigo tipo fueras de juego: 0/4 (-7 pts)
+⬇️ castigo mercado Offsides Home Total|Over 0.5: 0/1 (-4 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-23
 
 ```

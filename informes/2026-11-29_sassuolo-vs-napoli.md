@@ -1,7 +1,7 @@
 # Sassuolo – Napoli
 **Serie A** · Regular Season - 13 · 29/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
 _Actualizadas: 24/11 10:52_
@@ -59,43 +59,43 @@ _Actualizadas: 24/11 10:52_
 ## Estadísticas de equipo
 | | Sassuolo (total) | Sassuolo en casa | Napoli (total) | Napoli fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 8 | 16 | 8 |
-| Forma (últimos 5) | DDDDD | DDDEV | VEDDV | DDVDD |
-| Balance | 3V 3E 8D | 3V 2E 3D | 6V 3E 7D | 2V 1E 5D |
-| Goles a favor / partido | 1,43 | 1,75 | 1,56 | 1,38 |
-| Goles en contra / partido | 2,29 | 2,12 | 1,56 | 1,88 |
-| Goles a favor 1ª parte | 0,71 | 0,88 | 0,62 | 0,50 |
-| Goles a favor 2ª parte | 0,71 | 0,88 | 0,94 | 0,88 |
-| Goles en contra 1ª parte | 1,07 | 1,12 | 0,50 | 0,50 |
-| Goles en contra 2ª parte | 1,21 | 1,00 | 1,06 | 1,38 |
-| Más de 1,5 goles | 100% | 100% | 75% | 88% |
-| Más de 2,5 goles | 71% | 62% | 50% | 50% |
-| Más de 3,5 goles | 36% | 38% | 38% | 50% |
-| Ambos marcan | 71% | 75% | 56% | 62% |
-| Portería a cero | 7% | 12% | 25% | 12% |
-| Se queda sin marcar | 21% | 12% | 19% | 25% |
-| xG a favor | 1,31 | 1,25 | 1,64 | 1,51 |
-| xG en contra | 1,95 | 1,97 | 1,55 | 1,54 |
-| Tiros / partido | 13,5 | 13,1 | 14,8 | 14,6 |
-| Tiros a puerta / partido | 4,8 | 4,8 | 5,8 | 5,4 |
-| Tiros recibidos | 15,6 | 13,2 | 16,6 | 16,4 |
+| Partidos analizados | 14 | 8 | 17 | 9 |
+| Forma (últimos 5) | DDDDD | DDDEV | EVEDD | EDDVD |
+| Balance | 3V 3E 8D | 3V 2E 3D | 6V 4E 7D | 2V 2E 5D |
+| Goles a favor / partido | 1,43 | 1,75 | 1,59 | 1,44 |
+| Goles en contra / partido | 2,29 | 2,12 | 1,59 | 1,89 |
+| Goles a favor 1ª parte | 0,71 | 0,88 | 0,59 | 0,44 |
+| Goles a favor 2ª parte | 0,71 | 0,88 | 1,00 | 1,00 |
+| Goles en contra 1ª parte | 1,07 | 1,12 | 0,47 | 0,44 |
+| Goles en contra 2ª parte | 1,21 | 1,00 | 1,12 | 1,44 |
+| Más de 1,5 goles | 100% | 100% | 76% | 89% |
+| Más de 2,5 goles | 71% | 62% | 53% | 56% |
+| Más de 3,5 goles | 36% | 38% | 41% | 56% |
+| Ambos marcan | 71% | 75% | 59% | 67% |
+| Portería a cero | 7% | 12% | 24% | 11% |
+| Se queda sin marcar | 21% | 12% | 18% | 22% |
+| xG a favor | 1,31 | 1,25 | 1,58 | 1,41 |
+| xG en contra | 1,95 | 1,97 | 1,53 | 1,49 |
+| Tiros / partido | 13,5 | 13,1 | 14,4 | 13,9 |
+| Tiros a puerta / partido | 4,8 | 4,8 | 5,6 | 5,1 |
+| Tiros recibidos | 15,6 | 13,2 | 16,5 | 16,1 |
 | Tiros a puerta recibidos | 6,6 | 6,1 | 4,6 | 4,9 |
-| Posesión media % | 49 | 50 | 51 | 54 |
-| Córners a favor | 4,1 | 4,0 | 4,9 | 5,2 |
-| Córners en contra | 5,6 | 4,4 | 5,4 | 5,4 |
-| Córners a favor 1ª parte | 1,6 | 1,1 | 2,3 | 2,8 |
-| Córners a favor 2ª parte | 2,4 | 2,9 | 2,6 | 2,5 |
+| Posesión media % | 49 | 50 | 50 | 52 |
+| Córners a favor | 4,1 | 4,0 | 4,7 | 4,9 |
+| Córners en contra | 5,6 | 4,4 | 5,6 | 5,7 |
+| Córners a favor 1ª parte | 1,6 | 1,1 | 2,3 | 2,7 |
+| Córners a favor 2ª parte | 2,4 | 2,9 | 2,4 | 2,2 |
 | Córners totales del partido | 9,7 | 8,4 | 10,3 | 10,6 |
-| Córners totales 1ª parte | 4,4 | 3,6 | 5,1 | 5,6 |
-| Córners totales 2ª parte | 5,4 | 4,8 | 5,2 | 5,0 |
-| Más de 8,5 córners | 57% | 38% | 75% | 75% |
-| Más de 9,5 córners | 43% | 25% | 62% | 62% |
-| Más de 10,5 córners | 36% | 25% | 38% | 38% |
-| Faltas cometidas | 9,9 | 10,1 | 9,8 | 9,2 |
-| Faltas recibidas | 12,2 | 12,5 | 9,2 | 9,2 |
-| Amarillas propias | 1,3 | 1,6 | 1,6 | 1,4 |
-| Amarillas del rival | 1,7 | 1,9 | 1,6 | 2,1 |
-| Rojas / partido | 0,07 | 0,12 | 0,12 | 0,25 |
+| Córners totales 1ª parte | 4,4 | 3,6 | 5,2 | 5,7 |
+| Córners totales 2ª parte | 5,4 | 4,8 | 5,1 | 4,9 |
+| Más de 8,5 córners | 57% | 38% | 76% | 78% |
+| Más de 9,5 córners | 43% | 25% | 65% | 67% |
+| Más de 10,5 córners | 36% | 25% | 35% | 33% |
+| Faltas cometidas | 9,9 | 10,1 | 9,6 | 9,1 |
+| Faltas recibidas | 12,2 | 12,5 | 9,1 | 9,0 |
+| Amarillas propias | 1,3 | 1,6 | 1,5 | 1,2 |
+| Amarillas del rival | 1,7 | 1,9 | 1,5 | 2,0 |
+| Rojas / partido | 0,07 | 0,12 | 0,12 | 0,22 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Sassuolo | Recibe Sassuolo | Tarjetas Sassuolo | Goles Napoli | Recibe Napoli | Tarjetas Napoli |
@@ -103,9 +103,9 @@ _Actualizadas: 24/11 10:52_
 | 1-15' | 3 | 4 | 0 | 3 | 1 | 2 |
 | 16-30' | 2 | 6 | 0 | 4 | 5 | 1 |
 | 31-45' | 5 | 5 | 3 | 3 | 2 | 7 |
-| 46-60' | 2 | 8 | 4 | 5 | 3 | 5 |
-| 61-75' | 4 | 4 | 6 | 5 | 6 | 4 |
-| 76-90' | 4 | 5 | 6 | 5 | 8 | 10 |
+| 46-60' | 2 | 8 | 4 | 6 | 3 | 5 |
+| 61-75' | 4 | 4 | 6 | 5 | 7 | 4 |
+| 76-90' | 4 | 5 | 6 | 6 | 9 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -157,33 +157,33 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Napoli
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-24 | Champions League | Manchester City 2-2 Napoli | fuera | 2-8 | 8 (3) - 14 (5) | 0-1 |
 | 2026-11-21 | Serie A | Napoli 1-0 Torino | casa | 8-5 | 22 (10) - 12 (2) | 2-1 |
 | 2026-11-08 | Serie A | Napoli 1-1 Lazio | casa | 6-6 | 15 (6) - 15 (6) | 3-1 |
 | 2026-11-04 | Champions League | FC Porto 4-1 Napoli | fuera | 5-5 | 11 (6) - 19 (8) | 4-1 |
 | 2026-11-01 | Serie A | Juventus 2-0 Napoli | fuera | 4-13 | 8 (1) - 18 (4) | 1-3 |
 | 2026-10-28 | Serie A | Monza 1-4 Napoli | fuera | 2-2 | 16 (7) - 12 (5) | 0-3 |
-| 2026-10-24 | Serie A | Napoli 3-3 AS Roma | casa | 2-11 | 15 (9) - 24 (4) | 1-4 |
 
 ## Jugadores de Napoli
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Amir Rrahmani | D | 16 | 1343 | 1 | 1 | 8 | 0,5 | 3 | 0,2 | 16 | 10 | 0,6 | 2 | 0 |
 | Rafa Marín | D | 15 | 1289 | 1 | 0 | 7 | 0,5 | 1 | 0,1 | 23 | 8 | 0,5 | 3 | 1 |
-| Amir Rrahmani | D | 15 | 1260 | 1 | 1 | 8 | 0,5 | 3 | 0,2 | 16 | 10 | 0,7 | 2 | 0 |
-| R. Højlund | F | 15 | 1133 | 3 | 0 | 30 | 2,0 | 13 | 0,9 | 10 | 14 | 0,9 | 0 | 0 |
+| Rasmus Højlund | F | 16 | 1208 | 4 | 0 | 32 | 2,0 | 14 | 0,9 | 10 | 15 | 0,9 | 0 | 0 |
+| Kevin De Bruyne | M | 17 | 1135 | 4 | 2 | 15 | 0,9 | 7 | 0,4 | 14 | 15 | 0,9 | 1 | 0 |
 | G. Di Lorenzo | D | 13 | 1115 | 0 | 2 | 6 | 0,5 | 3 | 0,2 | 7 | 12 | 0,9 | 3 | 0 |
-| K. De Bruyne | M | 16 | 1060 | 4 | 2 | 15 | 0,9 | 7 | 0,4 | 13 | 13 | 0,8 | 1 | 0 |
-| S. McTominay | M | 12 | 955 | 6 | 0 | 35 | 2,9 | 15 | 1,2 | 6 | 9 | 0,8 | 1 | 0 |
-| M. Politano | M | 16 | 940 | 3 | 4 | 16 | 1,0 | 13 | 0,8 | 6 | 9 | 0,6 | 1 | 0 |
+| Scott McTominay | M | 13 | 1038 | 6 | 0 | 37 | 2,8 | 15 | 1,2 | 8 | 9 | 0,7 | 1 | 0 |
+| Matteo Politano | M | 17 | 1023 | 3 | 4 | 16 | 0,9 | 13 | 0,8 | 6 | 11 | 0,6 | 1 | 0 |
+| Billy Gilmour | M | 13 | 876 | 1 | 1 | 5 | 0,4 | 1 | 0,1 | 7 | 7 | 0,5 | 3 | 0 |
 | A. Meret | G | 10 | 855 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| B. Gilmour | M | 12 | 793 | 1 | 0 | 5 | 0,4 | 1 | 0,1 | 6 | 7 | 0,6 | 3 | 0 |
-| N. Lang | F | 13 | 757 | 1 | 2 | 21 | 1,6 | 12 | 0,9 | 6 | 5 | 0,4 | 2 | 0 |
+| Noa Lang | M | 14 | 840 | 2 | 2 | 23 | 1,6 | 13 | 0,9 | 7 | 6 | 0,4 | 2 | 0 |
 | S. Lobotka | M | 12 | 753 | 1 | 0 | 4 | 0,3 | 3 | 0,2 | 4 | 15 | 1,2 | 0 | 0 |
-| A. Zambo Anguissa | M | 11 | 718 | 1 | 0 | 6 | 0,5 | 2 | 0,2 | 9 | 6 | 0,5 | 3 | 0 |
-| M. Olivera | D | 12 | 653 | 0 | 1 | 10 | 0,8 | 2 | 0,2 | 11 | 4 | 0,3 | 0 | 0 |
-| L. Spinazzola | M | 10 | 644 | 0 | 1 | 5 | 0,5 | 2 | 0,2 | 4 | 2 | 0,2 | 0 | 0 |
-| V. Milinković-Savić | G | 7 | 585 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Mathías Olivera | D | 13 | 736 | 0 | 1 | 10 | 0,8 | 2 | 0,2 | 12 | 5 | 0,4 | 0 | 0 |
+| Leonardo Spinazzola | D | 11 | 727 | 0 | 2 | 5 | 0,5 | 2 | 0,2 | 5 | 2 | 0,2 | 0 | 0 |
+| Frank Anguissa | M | 12 | 726 | 1 | 0 | 6 | 0,5 | 2 | 0,2 | 9 | 6 | 0,5 | 3 | 0 |
+| Vanja Milinković-Savić | G | 8 | 668 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Sam Beukema | D | 8 | 476 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 4 | 1 | 0,1 | 0 | 0 |
 | A. Vergara | M | 10 | 394 | 1 | 1 | 2 | 0,2 | 2 | 0,2 | 5 | 4 | 0,4 | 3 | 0 |
-| S. Beukema | D | 7 | 393 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 1 | 0,1 | 0 | 0 |
 | B. Badiashile | D | 5 | 332 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 6 | 2 | 0,4 | 1 | 0 |
 | L. Lucca | F | 13 | 325 | 0 | 0 | 10 | 0,8 | 3 | 0,2 | 9 | 6 | 0,5 | 1 | 0 |
 | Alisson Santos | F | 5 | 274 | 0 | 0 | 7 | 1,4 | 4 | 0,8 | 0 | 2 | 0,4 | 0 | 0 |

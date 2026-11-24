@@ -13886,16 +13886,16 @@
   "opcion": "Home/Draw",
   "tipo": "resultado",
   "texto": "NEC Nijmegen o empate",
-  "cuota": 1.7,
+  "cuota": 1.67,
   "frecuencia": 0.75,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.018,
-  "movimiento": 0.049,
-  "ventaja": 0.162,
-  "prob_aprendida": 0.654,
+  "valor_mercado": 0.0,
+  "movimiento": 0.031,
+  "ventaja": 0.151,
+  "prob_aprendida": 0.656,
   "acierto": null
  },
  "1636393|Match Winner|Home": {
@@ -13917,7 +13917,7 @@
   "valor_mercado": -0.005,
   "movimiento": 0.105,
   "ventaja": 0.135,
-  "prob_aprendida": 0.636,
+  "prob_aprendida": 0.638,
   "acierto": null
  },
  "1575221|Both Teams Score|Yes": {
@@ -14075,7 +14075,7 @@
   "valor_mercado": -0.023,
   "movimiento": 0.103,
   "ventaja": 0.185,
-  "prob_aprendida": 0.562,
+  "prob_aprendida": 0.564,
   "acierto": null
  },
  "1557485|Home Player Shots|Liam Delap - 2": {
@@ -14188,7 +14188,7 @@
   "valor_mercado": -0.023,
   "movimiento": null,
   "ventaja": 0.222,
-  "prob_aprendida": 0.665,
+  "prob_aprendida": 0.664,
   "acierto": null
  },
  "1557482|Goals Over/Under - Second Half|Over 1.5": {
@@ -14367,7 +14367,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.148,
-  "prob_aprendida": 0.636,
+  "prob_aprendida": 0.635,
   "acierto": null
  },
  "1557480|Away Player Shots|Alexis Mac Allister - 1": {
@@ -14389,7 +14389,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.1,
-  "prob_aprendida": 0.637,
+  "prob_aprendida": 0.636,
   "acierto": null
  },
  "1635735|Double Chance|Home/Draw": {
@@ -14424,16 +14424,16 @@
   "opcion": "Achraf Hakimi - 2",
   "tipo": "jugador",
   "texto": "Achraf Hakimi: 2+ tiros",
-  "cuota": 1.57,
+  "cuota": 1.53,
   "frecuencia": 0.9,
   "jugador_id": 9,
   "jugador": "Achraf Hakimi",
   "campo": "tiros",
   "n": 2,
   "valor_mercado": null,
-  "movimiento": 0.026,
-  "ventaja": 0.263,
-  "prob_aprendida": 0.571,
+  "movimiento": 0.0,
+  "ventaja": 0.246,
+  "prob_aprendida": 0.568,
   "acierto": null
  },
  "1552830|Home Player Shots|Pathe Mboup - 2": {
@@ -14455,7 +14455,7 @@
   "valor_mercado": null,
   "movimiento": 0.121,
   "ventaja": 0.263,
-  "prob_aprendida": 0.575,
+  "prob_aprendida": 0.574,
   "acierto": null
  },
  "1552234|To Win Either Half|Home": {
@@ -14477,7 +14477,7 @@
   "valor_mercado": 0.012,
   "movimiento": -0.064,
   "ventaja": 0.133,
-  "prob_aprendida": 0.656,
+  "prob_aprendida": 0.658,
   "acierto": null
  },
  "1552234|Double Chance|Home/Draw": {
@@ -14521,7 +14521,7 @@
   "valor_mercado": null,
   "movimiento": 0.026,
   "ventaja": 0.263,
-  "prob_aprendida": 0.584,
+  "prob_aprendida": 0.583,
   "acierto": null
  },
  "1552831|Away Player Shots|Dario Essugo - 1": {
@@ -14631,10 +14631,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.023,
+  "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.256,
-  "prob_aprendida": 0.645,
+  "prob_aprendida": 0.667,
   "acierto": null
  },
  "1563285|To Win Either Half|Home": {
@@ -14656,7 +14656,7 @@
   "valor_mercado": 0.0,
   "movimiento": -0.035,
   "ventaja": 0.201,
-  "prob_aprendida": 0.686,
+  "prob_aprendida": 0.689,
   "acierto": null
  },
  "1563288|Match Winner|Home": {
@@ -14678,7 +14678,7 @@
   "valor_mercado": -0.027,
   "movimiento": null,
   "ventaja": 0.044,
-  "prob_aprendida": 0.686,
+  "prob_aprendida": 0.685,
   "acierto": null
  },
  "1563290|Away Player Shots|Rafiki Said - 2": {
@@ -14722,7 +14722,7 @@
   "valor_mercado": null,
   "movimiento": -0.083,
   "ventaja": 0.206,
-  "prob_aprendida": 0.566,
+  "prob_aprendida": 0.564,
   "acierto": null
  },
  "1575237|Match Winner|Home": {
@@ -14744,7 +14744,7 @@
   "valor_mercado": -0.017,
   "movimiento": -0.011,
   "ventaja": 0.022,
-  "prob_aprendida": 0.64,
+  "prob_aprendida": 0.642,
   "acierto": null
  },
  "1575550|Match Winner|Home": {
@@ -14766,7 +14766,7 @@
   "valor_mercado": -0.027,
   "movimiento": -0.027,
   "ventaja": 0.094,
-  "prob_aprendida": 0.703,
+  "prob_aprendida": 0.702,
   "acierto": null
  },
  "1552239|Away Player Shots|Daouda Weidmann - 2": {
@@ -14788,7 +14788,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.186,
-  "prob_aprendida": 0.575,
+  "prob_aprendida": 0.574,
   "acierto": null
  },
  "1635692|Offsides Home Total|Over 0.5": {
@@ -14811,7 +14811,8 @@
   "movimiento": null,
   "ventaja": 0.096,
   "prob_aprendida": 0.491,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-2"
  },
  "1635713|Away Corners Over/Under|Over 3.5": {
   "partido_id": 1635713,
@@ -14833,7 +14834,8 @@
   "movimiento": -0.064,
   "ventaja": 0.183,
   "prob_aprendida": 0.421,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-1"
  },
  "1550216|Away Player Shots|Tommaso Pobega - 1": {
   "partido_id": 1550216,
@@ -14854,7 +14856,7 @@
   "valor_mercado": null,
   "movimiento": 0.042,
   "ventaja": 0.2,
-  "prob_aprendida": 0.641,
+  "prob_aprendida": 0.64,
   "acierto": null
  },
  "1552234|Match Winner|Home": {
@@ -14876,7 +14878,7 @@
   "valor_mercado": 0.0,
   "movimiento": -0.102,
   "ventaja": 0.145,
-  "prob_aprendida": 0.637,
+  "prob_aprendida": 0.64,
   "acierto": null
  },
  "1575231|Total Corners (1st Half)|Over 4.5": {
@@ -14898,7 +14900,7 @@
   "valor_mercado": 0.061,
   "movimiento": null,
   "ventaja": 0.279,
-  "prob_aprendida": 0.475,
+  "prob_aprendida": 0.479,
   "acierto": null
  },
  "1575231|Away Corners Over/Under|Over 3.5": {
@@ -14920,7 +14922,7 @@
   "valor_mercado": 0.047,
   "movimiento": null,
   "ventaja": 0.244,
-  "prob_aprendida": 0.409,
+  "prob_aprendida": 0.419,
   "acierto": null
  },
  "1570465|Total - Home|Over 0.5": {
@@ -14964,7 +14966,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.286,
-  "prob_aprendida": 0.575,
+  "prob_aprendida": 0.574,
   "acierto": null
  },
  "1575230|Away Corners Over/Under|Over 3.5": {
@@ -14978,20 +14980,20 @@
   "tipo": "corners",
   "texto": "Bayer Leverkusen hace más de 3,5 córners",
   "cuota": 1.67,
-  "frecuencia": 0.75,
+  "frecuencia": 0.8,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
   "valor_mercado": 0.044,
   "movimiento": null,
-  "ventaja": 0.151,
-  "prob_aprendida": 0.4,
+  "ventaja": 0.201,
+  "prob_aprendida": 0.415,
   "acierto": null
  },
  "1570046|Match Winner|Home": {
   "partido_id": 1570046,
-  "fecha": "2026-11-29T17:00",
+  "fecha": "2026-11-28T21:00",
   "competicion": "Segunda",
   "local": "Valladolid",
   "visitante": "Real Sociedad II",
@@ -15008,7 +15010,7 @@
   "valor_mercado": 0.023,
   "movimiento": null,
   "ventaja": 0.044,
-  "prob_aprendida": 0.605,
+  "prob_aprendida": 0.602,
   "acierto": null
  },
  "1636252|Away Player Shots|Orri Steinn Oskarsson - 2": {
@@ -15030,7 +15032,7 @@
   "valor_mercado": null,
   "movimiento": 0.042,
   "ventaja": 0.089,
-  "prob_aprendida": 0.635,
+  "prob_aprendida": 0.634,
   "acierto": null
  },
  "1636244|Shots.1x2|Away": {
@@ -15074,7 +15076,7 @@
   "valor_mercado": null,
   "movimiento": 0.046,
   "ventaja": 0.165,
-  "prob_aprendida": 0.568,
+  "prob_aprendida": 0.567,
   "acierto": null
  },
  "1552828|Shots.1x2|Away": {
@@ -15101,7 +15103,7 @@
  },
  "1570041|To Win Either Half|Home": {
   "partido_id": 1570041,
-  "fecha": "2026-11-29T17:00",
+  "fecha": "2026-11-29T14:00",
   "competicion": "Segunda",
   "local": "Granada CF",
   "visitante": "AD Ceuta FC",
@@ -15118,12 +15120,12 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.131,
-  "prob_aprendida": 0.78,
+  "prob_aprendida": 0.782,
   "acierto": null
  },
  "1570038|Goals Over/Under - Second Half|Over 1.5": {
   "partido_id": 1570038,
-  "fecha": "2026-11-29T17:00",
+  "fecha": "2026-11-29T18:30",
   "competicion": "Segunda",
   "local": "Cadiz",
   "visitante": "Cordoba",
@@ -15145,7 +15147,7 @@
  },
  "1570045|Both Teams Score|Yes": {
   "partido_id": 1570045,
-  "fecha": "2026-11-29T17:00",
+  "fecha": "2026-11-30T20:30",
   "competicion": "Segunda",
   "local": "Oviedo",
   "visitante": "Celta de Vigo II",
@@ -15189,7 +15191,7 @@
  },
  "1570045|Corners Over Under|Over 9.5": {
   "partido_id": 1570045,
-  "fecha": "2026-11-29T17:00",
+  "fecha": "2026-11-30T20:30",
   "competicion": "Segunda",
   "local": "Oviedo",
   "visitante": "Celta de Vigo II",
@@ -15206,7 +15208,7 @@
   "valor_mercado": -0.011,
   "movimiento": null,
   "ventaja": 0.211,
-  "prob_aprendida": 0.481,
+  "prob_aprendida": 0.487,
   "acierto": null
  },
  "1575548|Corners 1x2|Away": {
@@ -15228,7 +15230,51 @@
   "valor_mercado": 0.008,
   "movimiento": null,
   "ventaja": 0.042,
-  "prob_aprendida": 0.481,
+  "prob_aprendida": 0.492,
+  "acierto": null
+ },
+ "1563285|Double Chance|Home/Draw": {
+  "partido_id": 1563285,
+  "fecha": "2026-11-25T21:00",
+  "competicion": "Championship",
+  "local": "Stoke City",
+  "visitante": "Millwall",
+  "mercado": "Double Chance",
+  "opcion": "Home/Draw",
+  "tipo": "resultado",
+  "texto": "Stoke City o empate",
+  "cuota": 1.33,
+  "frecuencia": 0.85,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.0,
+  "movimiento": -0.022,
+  "ventaja": 0.098,
+  "prob_aprendida": 0.753,
+  "acierto": null
+ },
+ "1636386|Total - Home|Over 0.5": {
+  "partido_id": 1636386,
+  "fecha": "2026-11-26T21:00",
+  "competicion": "Conference",
+  "local": "Borac Banja Luka",
+  "visitante": "Atalanta",
+  "mercado": "Total - Home",
+  "opcion": "Over 0.5",
+  "tipo": "goles",
+  "texto": "Borac Banja Luka marca",
+  "cuota": 1.5,
+  "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.0,
+  "movimiento": 0.042,
+  "ventaja": 0.133,
+  "prob_aprendida": 0.667,
   "acierto": null
  }
 }

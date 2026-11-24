@@ -1,10 +1,10 @@
 # Werder Bremen – Borussia Mönchengladbach
 **Bundesliga** · Regular Season - 11 · 27/11/2026 20:30 (hora España) · Weserstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 10:51_
+_Actualizadas: 24/11 23:24_
 
 - **1X2:** 1 **1.73**  ·  X **4.00**  ·  2 **4.00**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.22**  ·  X2 **2.05**
@@ -119,7 +119,8 @@ _Actualizadas: 24/11 10:51_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Werder Bremen:** F. Agu (baja, Calf Injury); S. Alvero (baja, Calf Injury); M. Grull (baja, Calf Injury); S. Musah (baja, Muscle Injury); M. N'Diaye (baja, Groin Injury); J. Stage (baja, Muscle Injury); K. Topp (baja, Knee Injury); S. Lynen (duda, Illness)
+**Borussia Mönchengladbach:** H. Bolin (baja, Muscle Injury); D. Hashioka (baja, Injury); T. Kleindienst (baja, Muscle Injury); E. Leopold (baja, Knee Injury); J. Leszczynski (baja, Knee Injury); L. Ullrich (baja, Broken collarbone)
 
 ## Enfrentamientos directos recientes
 - 2026-01-31 · Bundesliga: Werder Bremen 1-1 Borussia Mönchengladbach
