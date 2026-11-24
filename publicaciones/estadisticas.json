@@ -1,29 +1,29 @@
 {
- "actualizado": "2026-11-24 23:50",
+ "actualizado": "2026-11-25 00:01",
  "redes": {
   "instagram": {
    "seguidores": 55,
-   "hoy": 1,
+   "hoy": 0,
    "serie": [
-    51,
     52,
     53,
     55,
     54,
     54,
+    55,
     55
    ]
   },
   "threads": {
    "seguidores": 3790,
-   "hoy": 48,
+   "hoy": 0,
    "serie": [
-    3215,
     3230,
     3248,
     3475,
     3714,
     3742,
+    3790,
     3790
    ]
   },
@@ -42,28 +42,28 @@
   },
   "telegram": {
    "seguidores": 514,
-   "hoy": 8,
+   "hoy": 0,
    "serie": [
-    479,
     485,
     490,
     496,
     506,
     506,
+    514,
     514
    ]
   }
  },
  "total": 4360,
- "total_hoy": 57,
+ "total_hoy": 0,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:00",
+  "hora": "10:30",
   "dia": "2026-11-25",
-  "titulo": "Champions league - ganadores"
+  "titulo": "Empezamos el día con este"
  },
  "ayer": {
-  "aciertos": 2,
+  "aciertos": 1,
   "total": 2
  },
  "escalera": {
@@ -267,16 +267,22 @@
    "threads": 3790,
    "facebook": 1,
    "telegram": 514
+  },
+  "2026-11-25": {
+   "instagram": 55,
+   "threads": 3790,
+   "facebook": 1,
+   "telegram": 514
   }
  },
  "tipos_instagram": {
-  "Combi de partido (reel)": {
-   "posts": 5,
+  "Otros (reel)": {
+   "posts": 46,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 46,
+  "Combi de partido (reel)": {
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
