@@ -13035,7 +13035,7 @@
       2.62,
       2.38,
       1.62,
-      2.2,
+      2.15,
       1.5,
       1.62,
       1.57
@@ -13050,7 +13050,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-24T10:02"
+    "cuotas_revisadas": "2026-11-24T11:04"
   },
   {
     "id": "2026-11-24-lista-europa-1",
@@ -13091,7 +13091,7 @@
   {
     "id": "2026-11-24-pick-seguro-3",
     "fecha": "2026-11-24T12:30",
-    "texto": "Vamos con otro pick 🍀\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⭐ Arsenal – Borussia Dortmund · 21:00\n\n🍀 Fabio Silva (Dortmund): 2+ tiros @1,67\n🧠 Stake 4/10\n\n📊 Historial: 14 de 20 en verde · +9 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+    "texto": "Vamos con otro pick 🍀\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⭐ Arsenal – Borussia Dortmund · 21:00\n\n🍀 Fabio Silva (Dortmund): 2+ tiros @1,73\n🧠 Stake 4/10\n\n📊 Historial: 14 de 20 en verde · +9 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -13099,8 +13099,9 @@
       "1635611|Away Player Shots|Fabio Silva - 2"
     ],
     "cuotas": [
-      1.67
-    ]
+      1.73
+    ],
+    "cuotas_revisadas": "2026-11-24T11:04"
   },
   {
     "id": "2026-11-24-pick-seguro-4",

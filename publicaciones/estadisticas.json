@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24 10:54",
+ "actualizado": "2026-11-24 11:05",
  "redes": {
   "instagram": {
    "seguidores": 55,
@@ -58,9 +58,9 @@
  "total_hoy": 28,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:00",
+  "hora": "11:30",
   "dia": "2026-11-24",
-  "titulo": "Reto escalera · día 1/7"
+  "titulo": "La centenaria x90,77"
  },
  "ayer": {
   "aciertos": 2,
@@ -270,8 +270,13 @@
   }
  },
  "tipos_instagram": {
+  "Escalera (reel)": {
+   "posts": 5,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
-   "posts": 47,
+   "posts": 46,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -287,11 +292,6 @@
   },
   "Picks (reel)": {
    "posts": 1,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Escalera (reel)": {
-   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
