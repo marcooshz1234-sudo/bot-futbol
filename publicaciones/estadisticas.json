@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24 15:49",
+ "actualizado": "2026-11-24 16:00",
  "redes": {
   "instagram": {
    "seguidores": 55,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 512,
-   "hoy": 6,
+   "seguidores": 513,
+   "hoy": 7,
    "serie": [
     479,
     485,
@@ -50,17 +50,17 @@
     496,
     506,
     506,
-    512
+    513
    ]
   }
  },
- "total": 4347,
- "total_hoy": 44,
+ "total": 4348,
+ "total_hoy": 45,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:00",
+  "hora": "16:30",
   "dia": "2026-11-24",
-  "titulo": "Combi x309"
+  "titulo": "Seguimos con otro que nos gusta"
  },
  "ayer": {
   "aciertos": 2,
@@ -266,7 +266,7 @@
    "instagram": 55,
    "threads": 3779,
    "facebook": 1,
-   "telegram": 512
+   "telegram": 513
   }
  },
  "tipos_instagram": {
