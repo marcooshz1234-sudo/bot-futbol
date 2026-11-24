@@ -11122,28 +11122,6 @@
  ],
  "PABLO ANALISTA": [
   {
-   "id": "-1001393609245/16410",
-   "fecha": "2026-11-17T04:38",
-   "texto": "✅🏀✅🏀✅🏀✅🏀✅🏀✅",
-   "foto": false,
-   "visto": "2026-11-17T04:41"
-  },
-  {
-   "id": "-1001393609245/16409",
-   "fecha": "2026-11-17T04:38",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-17T04:41",
-   "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16409.jpg"
-  },
-  {
-   "id": "-1001393609245/16413",
-   "fecha": "2026-11-17T04:41",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-17T04:41"
-  },
-  {
    "id": "-1001393609245/16414",
    "fecha": "2026-11-17T05:53",
    "texto": "",
@@ -12605,6 +12583,27 @@
    "foto": true,
    "visto": "2026-11-24T22:01",
    "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16611.jpg"
+  },
+  {
+   "id": "-1001393609245/16613",
+   "fecha": "2026-11-24T22:10",
+   "texto": "PLENO CHAMPIONSSSSSSSSSSS",
+   "foto": false,
+   "visto": "2026-11-24T22:12"
+  },
+  {
+   "id": "-1001393609245/16612",
+   "fecha": "2026-11-24T22:10",
+   "texto": "QUEDA 1 SEÑORES VAMOS BORUSSIA",
+   "foto": false,
+   "visto": "2026-11-24T22:12"
+  },
+  {
+   "id": "-1001393609245/16614",
+   "fecha": "2026-11-24T22:11",
+   "texto": "✅🇩🇪✅🇩🇪✅🇩🇪✅🇩🇪✅🇩🇪✅",
+   "foto": false,
+   "visto": "2026-11-24T22:12"
   }
  ],
  "CREAR APUESTA CUOTA 101 MIA - SAC": [
@@ -21478,6 +21477,14 @@
    "texto": "Por el tema del trabajo no he podido hacer nada, mañana estoy de vuelta",
    "foto": false,
    "visto": "2026-11-24T21:02"
+  },
+  {
+   "id": "-1003556259193/246",
+   "fecha": "2026-11-24T22:10",
+   "texto": "Cuota 3 pillada🙃🙃",
+   "foto": true,
+   "visto": "2026-11-24T22:12",
+   "foto_ruta": "datos/tipsters_fotos/Pick_Maestro_246.jpg"
   }
  ],
  "ICARDI | PICKS": [
