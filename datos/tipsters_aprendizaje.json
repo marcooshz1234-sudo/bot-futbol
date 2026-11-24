@@ -10,13 +10,22 @@
    "prob_cuota": 2.453
   },
   "TipsAnalistas": {
-   "n": 16,
+   "n": 17,
    "verdes": 10,
+   "rojos": 5,
+   "nulos": 0,
+   "unidades": 1.2,
+   "resueltos_con_cuota": 11,
+   "prob_cuota": 6.561
+  },
+  "Tipster Pérez": {
+   "n": 13,
+   "verdes": 4,
    "rojos": 4,
    "nulos": 0,
-   "unidades": 2.2,
-   "resueltos_con_cuota": 10,
-   "prob_cuota": 6.061
+   "unidades": -1.86,
+   "resueltos_con_cuota": 8,
+   "prob_cuota": 5.552
   },
   "INSIDER": {
    "n": 13,
@@ -27,14 +36,14 @@
    "resueltos_con_cuota": 9,
    "prob_cuota": 7.076
   },
-  "Tipster Pérez": {
+  "TRADER FOOTBALL || FREE👨🏼‍💻": {
    "n": 12,
-   "verdes": 4,
-   "rojos": 4,
+   "verdes": 7,
+   "rojos": 2,
    "nulos": 0,
-   "unidades": -1.86,
-   "resueltos_con_cuota": 8,
-   "prob_cuota": 5.552
+   "unidades": 1.77,
+   "resueltos_con_cuota": 9,
+   "prob_cuota": 5.89
   },
   "TRADER FOOTBALL || FREE": {
    "n": 11,
@@ -45,23 +54,14 @@
    "resueltos_con_cuota": 3,
    "prob_cuota": 1.915
   },
-  "TRADER FOOTBALL || FREE👨🏼‍💻": {
-   "n": 11,
-   "verdes": 6,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": 1.11,
-   "resueltos_con_cuota": 8,
-   "prob_cuota": 5.288
-  },
   "CRIMINALPICKS🕵🏻‍♂️": {
    "n": 11,
-   "verdes": 5,
+   "verdes": 6,
    "rojos": 3,
    "nulos": 0,
-   "unidades": 2.75,
-   "resueltos_con_cuota": 8,
-   "prob_cuota": 3.754
+   "unidades": 3.7,
+   "resueltos_con_cuota": 9,
+   "prob_cuota": 4.267
   },
   "AllSportsPicks ⚽🏀🎾": {
    "n": 8,
@@ -199,22 +199,22 @@
    "prob_cuota": 10.851
   },
   "Goals Over/Under Over 2.5": {
-   "n": 16,
-   "verdes": 8,
+   "n": 17,
+   "verdes": 9,
    "rojos": 5,
    "nulos": 0,
-   "unidades": -0.14,
-   "resueltos_con_cuota": 11,
-   "prob_cuota": 7.081
+   "unidades": 0.52,
+   "resueltos_con_cuota": 12,
+   "prob_cuota": 7.683
   },
   "Match Winner Away": {
    "n": 10,
-   "verdes": 7,
+   "verdes": 8,
    "rojos": 2,
    "nulos": 0,
-   "unidades": 1.63,
-   "resueltos_con_cuota": 7,
-   "prob_cuota": 4.522
+   "unidades": 2.58,
+   "resueltos_con_cuota": 8,
+   "prob_cuota": 5.035
   },
   "Goals Over/Under Over 1.5": {
    "n": 10,
@@ -235,13 +235,13 @@
    "prob_cuota": 2.885
   },
   "Double Chance Draw/Away": {
-   "n": 5,
+   "n": 6,
    "verdes": 5,
-   "rojos": 0,
+   "rojos": 1,
    "nulos": 0,
-   "unidades": 0.95,
-   "resueltos_con_cuota": 2,
-   "prob_cuota": 1.429
+   "unidades": -0.05,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 1.929
   },
   "Goals Over/Under Over 3.0": {
    "n": 5,
@@ -589,17 +589,24 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.621
+  },
+  "Crear apuesta Tarjetas +3 & Elche portería a 0: No": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "equipo": {
   "—": {
-   "n": 83,
-   "verdes": 36,
+   "n": 85,
+   "verdes": 37,
    "rojos": 13,
    "nulos": 0,
-   "unidades": 3.41,
-   "resueltos_con_cuota": 42,
-   "prob_cuota": 27.911
+   "unidades": 4.07,
+   "resueltos_con_cuota": 43,
+   "prob_cuota": 28.513
   },
   "Spain": {
    "n": 7,
@@ -612,12 +619,12 @@
   },
   "Almeria": {
    "n": 5,
-   "verdes": 4,
+   "verdes": 5,
    "rojos": 0,
    "nulos": 0,
-   "unidades": 1.58,
-   "resueltos_con_cuota": 2,
-   "prob_cuota": 1.117
+   "unidades": 2.53,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 1.63
   },
   "Albacete": {
    "n": 3,
@@ -954,35 +961,44 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Lumezzane": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.5
   }
  },
  "razon": {
   "sin razón": {
    "n": 87,
-   "verdes": 49,
+   "verdes": 50,
    "rojos": 13,
    "nulos": 0,
-   "unidades": 11.18,
-   "resueltos_con_cuota": 46,
-   "prob_cuota": 28.852
+   "unidades": 12.13,
+   "resueltos_con_cuota": 47,
+   "prob_cuota": 29.365
   },
   "goles": {
-   "n": 35,
+   "n": 36,
    "verdes": 14,
-   "rojos": 9,
+   "rojos": 10,
    "nulos": 0,
-   "unidades": -2.95,
-   "resueltos_con_cuota": 23,
-   "prob_cuota": 16.364
+   "unidades": -3.95,
+   "resueltos_con_cuota": 24,
+   "prob_cuota": 16.864
   },
   "casa/fuera": {
-   "n": 29,
+   "n": 31,
    "verdes": 14,
-   "rojos": 7,
+   "rojos": 8,
    "nulos": 0,
-   "unidades": 1.27,
-   "resueltos_con_cuota": 18,
-   "prob_cuota": 11.586
+   "unidades": 0.27,
+   "resueltos_con_cuota": 19,
+   "prob_cuota": 12.086
   },
   "clasificación": {
    "n": 13,
@@ -993,6 +1009,15 @@
    "resueltos_con_cuota": 9,
    "prob_cuota": 5.714
   },
+  "motivación": {
+   "n": 13,
+   "verdes": 7,
+   "rojos": 3,
+   "nulos": 0,
+   "unidades": 2.73,
+   "resueltos_con_cuota": 9,
+   "prob_cuota": 5.491
+  },
   "racha": {
    "n": 12,
    "verdes": 5,
@@ -1002,23 +1027,14 @@
    "resueltos_con_cuota": 8,
    "prob_cuota": 4.953
   },
-  "motivación": {
-   "n": 12,
-   "verdes": 6,
-   "rojos": 3,
-   "nulos": 0,
-   "unidades": 2.07,
-   "resueltos_con_cuota": 8,
-   "prob_cuota": 4.889
-  },
   "bajas": {
-   "n": 8,
+   "n": 9,
    "verdes": 2,
-   "rojos": 5,
+   "rojos": 6,
    "nulos": 0,
-   "unidades": -2.89,
-   "resueltos_con_cuota": 6,
-   "prob_cuota": 4.117
+   "unidades": -3.89,
+   "resueltos_con_cuota": 7,
+   "prob_cuota": 4.617
   },
   "categoría": {
    "n": 7,
@@ -1032,13 +1048,13 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 61,
-   "verdes": 27,
+   "n": 63,
+   "verdes": 28,
    "rojos": 16,
    "nulos": 0,
-   "unidades": 0.33,
-   "resueltos_con_cuota": 43,
-   "prob_cuota": 27.105
+   "unidades": 0.99,
+   "resueltos_con_cuota": 44,
+   "prob_cuota": 27.707
   },
   "<1,50": {
    "n": 30,
@@ -1057,13 +1073,13 @@
    "unidades": 0.0
   },
   "1,80-2,20": {
-   "n": 21,
-   "verdes": 9,
-   "rojos": 3,
+   "n": 22,
+   "verdes": 10,
+   "rojos": 4,
    "nulos": 0,
-   "unidades": 5.07,
-   "resueltos_con_cuota": 12,
-   "prob_cuota": 6.332
+   "unidades": 5.02,
+   "resueltos_con_cuota": 14,
+   "prob_cuota": 7.345
   },
   ">2,20": {
    "n": 7,
@@ -1105,12 +1121,12 @@
   },
   "Segunda División": {
    "n": 6,
-   "verdes": 4,
+   "verdes": 5,
    "rojos": 1,
    "nulos": 0,
-   "unidades": 1.15,
-   "resueltos_con_cuota": 4,
-   "prob_cuota": 2.408
+   "unidades": 2.1,
+   "resueltos_con_cuota": 5,
+   "prob_cuota": 2.921
   },
   "Copa del Rey": {
    "n": 5,
@@ -1122,7 +1138,7 @@
    "prob_cuota": 3.596
   },
   "La Liga": {
-   "n": 2,
+   "n": 3,
    "verdes": 1,
    "rojos": 1,
    "nulos": 0,
@@ -1145,17 +1161,35 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Serie C - Girone A": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.5
+  },
+  "Serie A": {
+   "n": 1,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.66,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.602
   }
  },
  "lado": {
   "partido": {
-   "n": 70,
-   "verdes": 29,
+   "n": 72,
+   "verdes": 30,
    "rojos": 10,
    "nulos": 0,
-   "unidades": 4.22,
-   "resueltos_con_cuota": 32,
-   "prob_cuota": 20.562
+   "unidades": 4.88,
+   "resueltos_con_cuota": 33,
+   "prob_cuota": 21.164
   },
   "local": {
    "n": 45,
@@ -1167,24 +1201,24 @@
    "prob_cuota": 18.169
   },
   "visitante": {
-   "n": 32,
-   "verdes": 22,
-   "rojos": 6,
+   "n": 33,
+   "verdes": 23,
+   "rojos": 7,
    "nulos": 0,
-   "unidades": 2.57,
-   "resueltos_con_cuota": 23,
-   "prob_cuota": 15.961
+   "unidades": 2.52,
+   "resueltos_con_cuota": 25,
+   "prob_cuota": 16.974
   }
  },
  "por_que": {
   "—": {
-   "n": 68,
-   "verdes": 25,
-   "rojos": 17,
+   "n": 71,
+   "verdes": 27,
+   "rojos": 18,
    "nulos": 0,
-   "unidades": 1.23,
-   "resueltos_con_cuota": 35,
-   "prob_cuota": 20.71
+   "unidades": 1.84,
+   "resueltos_con_cuota": 38,
+   "prob_cuota": 22.325
   },
   "goles": {
    "n": 43,
@@ -1252,22 +1286,22 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 140,
-   "verdes": 70,
-   "rojos": 27,
+   "n": 143,
+   "verdes": 71,
+   "rojos": 28,
    "nulos": 0,
-   "unidades": 8.01,
-   "resueltos_con_cuota": 79,
-   "prob_cuota": 51.63
+   "unidades": 7.67,
+   "resueltos_con_cuota": 81,
+   "prob_cuota": 52.732
   },
   "sin valor": {
    "n": 5,
-   "verdes": 2,
+   "verdes": 3,
    "rojos": 2,
    "nulos": 0,
-   "unidades": -0.68,
-   "resueltos_con_cuota": 4,
-   "prob_cuota": 2.516
+   "unidades": 0.27,
+   "resueltos_con_cuota": 5,
+   "prob_cuota": 3.029
   },
   "con valor": {
    "n": 2,

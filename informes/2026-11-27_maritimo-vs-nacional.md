@@ -1,10 +1,10 @@
 # Maritimo – Nacional
 **Primeira Liga** · Regular Season - 12 · 27/11/2026 21:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 20:35_
+_Actualizadas: 24/11 00:53_
 
 - **1X2:** 1 **2.15**  ·  X **3.25**  ·  2 **3.30**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.67**
@@ -28,7 +28,9 @@ _Actualizadas: 22/11 20:35_
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
+    - 9: más **1.82** · menos **1.98**
     - 9,5: más **2.00** · menos **1.73**
+- **Córners 1X2:** 1 **1.50**  ·  X **8.50**  ·  2 **3.00**
 - **1X2 descanso:** 1 **2.88**  ·  X **2.10**  ·  2 **4.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**

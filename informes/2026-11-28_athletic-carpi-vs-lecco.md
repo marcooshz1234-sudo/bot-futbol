@@ -1,7 +1,7 @@
 # Athletic Carpi – Lecco
 **Serie C** · Girone A - 16 · 28/11/2026 14:30 (hora España) · Stadio Sandro Cabassi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Athletic Carpi (total) | Athletic Carpi en casa | Lecco (total) | Lecco fuera |
 |---|---|---|---|---|
-| Partidos analizados | 15 | 7 | 14 | 7 |
-| Forma (últimos 5) | EEEDV | EDVDE | EVVEV | EVVDV |
-| Balance | 3V 6E 6D | 1V 3E 3D | 5V 6E 3D | 3V 1E 3D |
-| Goles a favor / partido | 1,20 | 1,43 | 1,64 | 1,86 |
-| Goles en contra / partido | 1,87 | 2,43 | 0,86 | 1,00 |
-| Goles a favor 1ª parte | 0,60 | 0,71 | 0,71 | 0,86 |
-| Goles a favor 2ª parte | 0,60 | 0,71 | 0,93 | 1,00 |
-| Goles en contra 1ª parte | 1,07 | 1,14 | 0,21 | 0,14 |
-| Goles en contra 2ª parte | 0,80 | 1,29 | 0,64 | 0,86 |
-| Más de 1,5 goles | 87% | 100% | 64% | 71% |
-| Más de 2,5 goles | 67% | 86% | 50% | 57% |
-| Más de 3,5 goles | 40% | 57% | 43% | 43% |
-| Ambos marcan | 67% | 71% | 36% | 29% |
-| Portería a cero | 13% | 0% | 43% | 29% |
-| Se queda sin marcar | 27% | 29% | 36% | 43% |
+| Partidos analizados | 15 | 7 | 15 | 7 |
+| Forma (últimos 5) | EEEDV | EDVDE | VEVVE | EVVDV |
+| Balance | 3V 6E 6D | 1V 3E 3D | 6V 6E 3D | 3V 1E 3D |
+| Goles a favor / partido | 1,20 | 1,43 | 1,60 | 1,86 |
+| Goles en contra / partido | 1,87 | 2,43 | 0,80 | 1,00 |
+| Goles a favor 1ª parte | 0,60 | 0,71 | 0,73 | 0,86 |
+| Goles a favor 2ª parte | 0,60 | 0,71 | 0,87 | 1,00 |
+| Goles en contra 1ª parte | 1,07 | 1,14 | 0,20 | 0,14 |
+| Goles en contra 2ª parte | 0,80 | 1,29 | 0,60 | 0,86 |
+| Más de 1,5 goles | 87% | 100% | 60% | 71% |
+| Más de 2,5 goles | 67% | 86% | 47% | 57% |
+| Más de 3,5 goles | 40% | 57% | 40% | 43% |
+| Ambos marcan | 67% | 71% | 33% | 29% |
+| Portería a cero | 13% | 0% | 47% | 29% |
+| Se queda sin marcar | 27% | 29% | 33% | 43% |
 | xG a favor | – | – | – | – |
 | xG en contra | – | – | – | – |
 | Tiros / partido | – | – | – | – |
@@ -52,10 +52,10 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 6 | 1 | 3 | 0 | 2 |
 | 16-30' | 6 | 5 | 4 | 3 | 1 | 2 |
-| 31-45' | 3 | 5 | 8 | 4 | 2 | 4 |
+| 31-45' | 3 | 5 | 8 | 5 | 2 | 4 |
 | 46-60' | 3 | 4 | 8 | 8 | 1 | 2 |
-| 61-75' | 1 | 5 | 4 | 1 | 4 | 6 |
-| 76-90' | 5 | 3 | 10 | 4 | 4 | 10 |
+| 61-75' | 1 | 5 | 4 | 1 | 4 | 7 |
+| 76-90' | 5 | 3 | 10 | 4 | 4 | 12 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -82,12 +82,12 @@ _Sin precedentes recientes._
 ## Últimos partidos de Lecco
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | Serie C | Lecco 1-0 Lumezzane | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-15 | Serie C | Novara 1-1 Lecco | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-08 | Serie C | Lecco 4-0 Juventus U23 | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-01 | Serie C | Dolomiti Bellunesi 0-4 Lecco | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-25 | Serie C | Lecco 2-2 Folgore Caratese | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-16 | Serie C | PRO Vercelli 0-5 Lecco | fuera | –-– | – (–) - – (–) | –-– |
-| 2026-10-11 | Serie C | Lecco 1-1 Alcione | casa | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Lecco
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

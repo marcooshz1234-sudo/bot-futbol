@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23 08:34",
+ "generado": "2026-11-24 00:56",
  "estilos": {
   "datos-rachas": {
    "nota": 0.939,
@@ -331,6 +331,12 @@
    "resultados": 0,
    "verdes": 0
   },
+  "picks-manana": {
+   "nota": 1.31,
+   "posts_threads": 0,
+   "resultados": 4,
+   "verdes": 1
+  },
   "ganadores-win-2": {
    "nota": 1.464,
    "posts_threads": 2,
@@ -395,12 +401,6 @@
    "nota": 1.097,
    "posts_threads": 1,
    "resultados": 1,
-   "verdes": 0
-  },
-  "picks-manana": {
-   "nota": 0.75,
-   "posts_threads": 0,
-   "resultados": 3,
    "verdes": 0
   },
   "combi-partido-1552221": {
@@ -554,8 +554,8 @@
    "verdes": 0
   },
   "loca-th-1700-escudos": {
-   "nota": 1.114,
-   "posts_threads": 5,
+   "nota": 1.186,
+   "posts_threads": 6,
    "resultados": 0,
    "verdes": 0
   },
@@ -596,8 +596,8 @@
    "verdes": 0
   },
   "loca-th-noche-2100-x100": {
-   "nota": 0.762,
-   "posts_threads": 4,
+   "nota": 0.785,
+   "posts_threads": 5,
    "resultados": 0,
    "verdes": 0
   },
@@ -680,8 +680,8 @@
    "verdes": 0
   },
   "loca-th-1630-escudos": {
-   "nota": 1.111,
-   "posts_threads": 3,
+   "nota": 1.09,
+   "posts_threads": 4,
    "resultados": 0,
    "verdes": 0
   },
@@ -1003,12 +1003,6 @@
    "resultados": 0,
    "verdes": 0
   },
-  "pick-seguro-3": {
-   "nota": 1.917,
-   "posts_threads": 0,
-   "resultados": 1,
-   "verdes": 1
-  },
   "loca-th-1300-escudos": {
    "nota": 1.018,
    "posts_threads": 1,
@@ -1076,7 +1070,13 @@
    "verdes": 0
   },
   "loca-th-noche-2130-lista-ambos": {
-   "nota": 0.875,
+   "nota": 0.8,
+   "posts_threads": 2,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1030-x500": {
+   "nota": 1.079,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0

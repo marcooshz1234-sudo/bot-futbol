@@ -1,17 +1,17 @@
 # Ferencvarosi TC – Celje
 **Europa League** · League Stage - 5 · 26/11/2026 21:00 (hora España) · Groupama Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 20:34_
+_Actualizadas: 24/11 00:52_
 
 - **1X2:** 1 **1.33**  ·  X **4.75**  ·  2 **7.50**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.18**  ·  X2 **3.25**
 - **Ambos marcan:** Sí **1.75**  ·  No **2.00**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
-    - 2,5: más **1.50** · menos **2.62**
+    - 2,5: más **1.53** · menos **2.50**
     - 3,5: más **2.30** · menos **1.62**
     - 4,5: más **4.00** · menos **1.25**
     - 5,5: más **7.00** · menos **1.10**
@@ -32,6 +32,7 @@ _Actualizadas: 22/11 20:34_
     - 2,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
     - 9,5: más **1.95** · menos **1.85**
+- **Córners 1X2:** 1 **1.25**  ·  X **10.00**  ·  2 **4.75**
 - **1X2 descanso:** 1 **1.80**  ·  X **2.75**  ·  2 **7.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**

@@ -1,5 +1,35 @@
 # Lecciones del bot
 
+## 2026-11-23
+
+```
+🧠 LECCIONES DEL 23/11
+Picks del bot: 2 ✅ · 0 ❌
+
+❌ Lo que falló en lo publicado:
+• Abiel Osorio: 3+ tiros → 0 de 3 tiros
+• Ambos marcan en Brentford–Everton → 1 de 2 equipos que marcan
+• Ambos marcan en Monza–Fiorentina → 1 de 2 equipos que marcan
+• Brentford ve más de 1,5 tarjetas → 0 de 2 tarjetas
+• Eddy Kouadio comete 2+ faltas → 1 de 2 faltas
+• Elche gana alguna de las dos partes → Marcador: 1–1
+• Elche marca 2 o más → 1 de 2 goles
+• Empate en Brentford–Everton → Marcador: 4–0
+• Empate en Monza–Fiorentina → Marcador: 3–0
+• Everton gana alguna de las dos partes → Marcador: 4–0
+• Everton o empate → Marcador: 4–0
+• Fiorentina gana alguna de las dos partes → Marcador: 3–0
+• Gana el Brentford y ambos marcan → Marcador: 4–0
+• Gana el Fiorentina y ambos marcan → Marcador: 3–0
+• Gana el Levante y ambos marcan → Marcador: 1–1
+
+📐 Modelo: 390/626 aciertos reales (62%) frente al 71% que prometían las estadísticas y el 70% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬆️ premio mercado Match Winner|Away: 10/14 (+6 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-22
 
 ```

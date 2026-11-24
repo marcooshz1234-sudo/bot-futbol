@@ -1,7 +1,7 @@
 # Arzignano Valchiampo – Trento
 **Serie C** · Girone A - 16 · 29/11/2026 12:30 (hora España) · Tommaso Dal Molin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

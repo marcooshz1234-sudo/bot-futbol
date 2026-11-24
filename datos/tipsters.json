@@ -3818,7 +3818,12 @@
    "prob_cuota": 0.513,
    "prob_pinnacle": 0.503,
    "valor_pinnacle": -0.018
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   2,
+   3
+  ]
  },
  {
   "tipster": "TipsAnalistas",
@@ -3836,7 +3841,18 @@
    "Llega con seis bajas, entre ellas dos delanteros que suman buena parte de sus goles",
    "El Lumezzane defiende replegado y hace daño al contragolpe, y fuera ya ha ganado"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1608377,
+  "analisis": {
+   "liga": "Serie C - Girone A",
+   "cuota_bet365": 1.95,
+   "prob_cuota": 0.5
+  },
+  "estado": "rojo",
+  "marcador": [
+   1,
+   0
+  ]
  },
  {
   "tipster": "Tipster Pérez",
@@ -3854,7 +3870,17 @@
    "Derbi valenciano con tensión: se esperan bastantes faltas y amonestaciones",
    "El Elche suele llegar al área rival y ver puerta fuera de casa"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1570457,
+  "analisis": {
+   "liga": "La Liga",
+   "prob_cuota": 0.602
+  },
+  "estado": null,
+  "marcador": [
+   1,
+   1
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
@@ -3872,6 +3898,17 @@
    "La Fiorentina tiene pegada arriba y el Monza concede bastante atrás",
    "Partido abierto de Serie A con dos equipos que necesitan puntos"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1550203,
+  "analisis": {
+   "liga": "Serie A",
+   "cuota_bet365": 1.57,
+   "prob_cuota": 0.602
+  },
+  "estado": "verde",
+  "marcador": [
+   3,
+   0
+  ]
  }
 ]

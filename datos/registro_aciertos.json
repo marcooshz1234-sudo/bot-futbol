@@ -13621,7 +13621,8 @@
   "movimiento": 0.038,
   "ventaja": 0.224,
   "prob_aprendida": 0.574,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-3"
  },
  "1570034|Away Player Shots|Ruben Alcaraz - 1": {
   "partido_id": 1570034,
@@ -13826,7 +13827,8 @@
   "movimiento": -0.06,
   "ventaja": 0.2,
   "prob_aprendida": 0.639,
-  "acierto": null
+  "acierto": true,
+  "marcador": "4-0"
  },
  "1550200|Total - Away|Over 0.5": {
   "partido_id": 1550200,
@@ -13893,7 +13895,7 @@
   "valor_mercado": -0.03,
   "movimiento": null,
   "ventaja": 0.133,
-  "prob_aprendida": 0.703,
+  "prob_aprendida": 0.707,
   "acierto": null
  },
  "1636393|Match Winner|Home": {
@@ -13915,7 +13917,7 @@
   "valor_mercado": -0.009,
   "movimiento": 0.105,
   "ventaja": 0.135,
-  "prob_aprendida": 0.633,
+  "prob_aprendida": 0.636,
   "acierto": null
  },
  "1575221|Both Teams Score|Yes": {
@@ -14073,7 +14075,7 @@
   "valor_mercado": -0.07,
   "movimiento": 0.026,
   "ventaja": 0.15,
-  "prob_aprendida": 0.554,
+  "prob_aprendida": 0.56,
   "acierto": null
  },
  "1557485|Home Player Shots|Liam Delap - 2": {
@@ -14186,7 +14188,7 @@
   "valor_mercado": -0.023,
   "movimiento": null,
   "ventaja": 0.222,
-  "prob_aprendida": 0.663,
+  "prob_aprendida": 0.665,
   "acierto": null
  },
  "1557482|Goals Over/Under - Second Half|Over 1.5": {
@@ -14357,15 +14359,15 @@
   "tipo": "jugador",
   "texto": "Thierno Barry: 2+ tiros",
   "cuota": 1.33,
-  "frecuencia": 1.0,
+  "frecuencia": 0.9,
   "jugador_id": 343684,
   "jugador": "Thierno Barry",
   "campo": "tiros",
   "n": 2,
   "valor_mercado": null,
   "movimiento": null,
-  "ventaja": 0.248,
-  "prob_aprendida": 0.65,
+  "ventaja": 0.148,
+  "prob_aprendida": 0.636,
   "acierto": null
  },
  "1557480|Away Player Shots|Alexis Mac Allister - 1": {
@@ -14387,7 +14389,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.1,
-  "prob_aprendida": 0.634,
+  "prob_aprendida": 0.637,
   "acierto": null
  },
  "1635735|Double Chance|Home/Draw": {
@@ -14400,16 +14402,16 @@
   "opcion": "Home/Draw",
   "tipo": "resultado",
   "texto": "Sporting CP o empate",
-  "cuota": 1.44,
+  "cuota": 1.4,
   "frecuencia": 0.85,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.04,
-  "movimiento": -0.04,
-  "ventaja": 0.156,
-  "prob_aprendida": 0.714,
+  "valor_mercado": -0.028,
+  "movimiento": -0.067,
+  "ventaja": 0.136,
+  "prob_aprendida": 0.718,
   "acierto": null
  },
  "1635703|Home Player Shots|Achraf Hakimi - 2": {
@@ -14431,7 +14433,7 @@
   "valor_mercado": null,
   "movimiento": 0.026,
   "ventaja": 0.263,
-  "prob_aprendida": 0.569,
+  "prob_aprendida": 0.571,
   "acierto": null
  },
  "1552830|Home Player Shots|Pathe Mboup - 2": {
@@ -14453,7 +14455,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.186,
-  "prob_aprendida": 0.569,
+  "prob_aprendida": 0.568,
   "acierto": null
  },
  "1552234|To Win Either Half|Home": {
@@ -14475,7 +14477,7 @@
   "valor_mercado": 0.012,
   "movimiento": -0.064,
   "ventaja": 0.133,
-  "prob_aprendida": 0.654,
+  "prob_aprendida": 0.656,
   "acierto": null
  },
  "1552234|Double Chance|Home/Draw": {
@@ -14541,7 +14543,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.286,
-  "prob_aprendida": 0.577,
+  "prob_aprendida": 0.576,
   "acierto": null
  },
  "1570458|Home Team Total Cards|Over 1.5": {
@@ -14629,10 +14631,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.022,
+  "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.256,
-  "prob_aprendida": 0.711,
+  "prob_aprendida": 0.664,
   "acierto": null
  },
  "1563285|To Win Either Half|Home": {
@@ -14651,10 +14653,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.035,
+  "valor_mercado": 0.0,
   "movimiento": -0.035,
   "ventaja": 0.201,
-  "prob_aprendida": 0.731,
+  "prob_aprendida": 0.686,
   "acierto": null
  },
  "1563288|Match Winner|Home": {
@@ -14676,7 +14678,7 @@
   "valor_mercado": -0.016,
   "movimiento": null,
   "ventaja": 0.044,
-  "prob_aprendida": 0.629,
+  "prob_aprendida": 0.63,
   "acierto": null
  },
  "1563290|Away Player Shots|Rafiki Said - 2": {
@@ -14698,7 +14700,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.219,
-  "prob_aprendida": 0.654,
+  "prob_aprendida": 0.656,
   "acierto": null
  },
  "1636410|Away Player Shots|Daouda Weidmann - 2": {
@@ -14711,16 +14713,16 @@
   "opcion": "Daouda Weidmann - 2",
   "tipo": "jugador",
   "texto": "Daouda Weidmann: 2+ tiros",
-  "cuota": 1.44,
+  "cuota": 1.57,
   "frecuencia": 0.9,
   "jugador_id": 336562,
   "jugador": "Daouda Weidmann",
   "campo": "tiros",
   "n": 2,
   "valor_mercado": null,
-  "movimiento": -0.083,
-  "ventaja": 0.206,
-  "prob_aprendida": 0.565,
+  "movimiento": 0.0,
+  "ventaja": 0.263,
+  "prob_aprendida": 0.571,
   "acierto": null
  },
  "1575237|Match Winner|Home": {
@@ -14764,7 +14766,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.109,
-  "prob_aprendida": 0.646,
+  "prob_aprendida": 0.649,
   "acierto": null
  },
  "1552239|Away Player Shots|Daouda Weidmann - 2": {
@@ -14786,7 +14788,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.186,
-  "prob_aprendida": 0.574,
+  "prob_aprendida": 0.575,
   "acierto": null
  },
  "1635692|Offsides Home Total|Over 0.5": {
@@ -14808,7 +14810,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.096,
-  "prob_aprendida": 0.492,
+  "prob_aprendida": 0.491,
   "acierto": null
  },
  "1635713|Away Corners Over/Under|Over 3.5": {
@@ -14830,7 +14832,7 @@
   "valor_mercado": 0.048,
   "movimiento": null,
   "ventaja": 0.222,
-  "prob_aprendida": 0.402,
+  "prob_aprendida": 0.404,
   "acierto": null
  },
  "1550216|Away Player Shots|Tommaso Pobega - 1": {
@@ -14852,7 +14854,7 @@
   "valor_mercado": null,
   "movimiento": 0.042,
   "ventaja": 0.2,
-  "prob_aprendida": 0.642,
+  "prob_aprendida": 0.641,
   "acierto": null
  },
  "1552234|Match Winner|Home": {
@@ -14874,7 +14876,7 @@
   "valor_mercado": -0.022,
   "movimiento": -0.102,
   "ventaja": 0.145,
-  "prob_aprendida": 0.687,
+  "prob_aprendida": 0.693,
   "acierto": null
  },
  "1575231|Total Corners (1st Half)|Over 4.5": {
@@ -14896,7 +14898,7 @@
   "valor_mercado": 0.061,
   "movimiento": null,
   "ventaja": 0.279,
-  "prob_aprendida": 0.477,
+  "prob_aprendida": 0.475,
   "acierto": null
  },
  "1575231|Away Corners Over/Under|Over 3.5": {
@@ -14962,7 +14964,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.286,
-  "prob_aprendida": 0.574,
+  "prob_aprendida": 0.575,
   "acierto": null
  },
  "1575230|Away Corners Over/Under|Over 3.5": {
@@ -14984,7 +14986,29 @@
   "valor_mercado": 0.044,
   "movimiento": null,
   "ventaja": 0.151,
-  "prob_aprendida": 0.401,
+  "prob_aprendida": 0.4,
+  "acierto": null
+ },
+ "1570046|Match Winner|Home": {
+  "partido_id": 1570046,
+  "fecha": "2026-11-29T17:00",
+  "competicion": "Segunda",
+  "local": "Valladolid",
+  "visitante": "Real Sociedad II",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "tipo": "resultado",
+  "texto": "Gana el Valladolid",
+  "cuota": 1.8,
+  "frecuencia": 0.6,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.023,
+  "movimiento": null,
+  "ventaja": 0.044,
+  "prob_aprendida": 0.605,
   "acierto": null
  }
 }

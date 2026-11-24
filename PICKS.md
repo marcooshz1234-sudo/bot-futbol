@@ -1,12 +1,6 @@
 # Picks del Analista
 
-_Generado el 2026-11-23 08:36 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
-
-## Lunes 23/11
-
-| Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
-|---|---|---|---|---|---|
-| 21:00 | Thierno Barry: 2+ tiros | jugador | 1.25 | 100% | Thierno Barry 10/10 |
+_Generado el 2026-11-24 00:58 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Martes 24/11
 
@@ -21,7 +15,7 @@ _Generado el 2026-11-23 08:36 (hora España). Cuotas de Bet365. Criterio: cuota 
 |---|---|---|---|---|---|
 | 21:00 | Gana el Stoke City | resultado | 2.25 | 70% | Stoke City 8/10 · Millwall 6/10 |
 | 21:00 | Stoke City gana alguna de las dos partes | resultado | 1.67 | 80% | Stoke City 8/10 · Millwall 8/10 |
-| 21:00 | Sporting CP o empate | resultado | 1.44 | 85% | Sporting CP 8/10 · Manchester United 9/10 |
+| 21:00 | Sporting CP o empate | resultado | 1.40 | 85% | Sporting CP 8/10 · Manchester United 9/10 |
 | 21:00 | Achraf Hakimi: 2+ tiros | jugador | 1.57 | 90% | Achraf Hakimi 9/10 |
 
 ## Jueves 26/11
@@ -30,7 +24,7 @@ _Generado el 2026-11-23 08:36 (hora España). Cuotas de Bet365. Criterio: cuota 
 |---|---|---|---|---|---|
 | 21:00 | NEC Nijmegen o empate | resultado | 1.62 | 75% | NEC Nijmegen 8/10 · Rennes 7/10 |
 | 18:45 | Gana el Brann | resultado | 2.10 | 61% | Brann 6/9 · Aarhus 5/9 |
-| 21:00 | Daouda Weidmann: 2+ tiros | jugador | 1.44 | 90% | Daouda Weidmann 9/10 |
+| 21:00 | Daouda Weidmann: 2+ tiros | jugador | 1.57 | 90% | Daouda Weidmann 9/10 |
 
 ## Viernes 27/11
 
@@ -70,15 +64,16 @@ _Generado el 2026-11-23 08:36 (hora España). Cuotas de Bet365. Criterio: cuota 
 ## Domingo 29/11
 
 **💥 Combi cuota 3-4 · cuota 3,54**
-- Deportivo La Coruna marca (1,44) · Deportivo La Coruna 7/10 · Barcelona (en contra) 8/10
 - Gana el GIL Vicente (1,85) · GIL Vicente 5/10 · Estoril 8/10
-- Thierno Barry: 2+ tiros (1,33) · Thierno Barry 10/10
+- Deportivo La Coruna marca (1,44) · Deportivo La Coruna 7/10 · Barcelona (en contra) 8/10
+- Thierno Barry: 2+ tiros (1,33) · Thierno Barry 9/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 16:15 | Deportivo La Coruna marca | goles | 1.44 | 75% | Deportivo La Coruna 7/10 · Barcelona (en contra) 8/10 |
 | 19:00 | Gana el GIL Vicente | resultado | 1.85 | 65% | GIL Vicente 5/10 · Estoril 8/10 |
-| 13:00 | Thierno Barry: 2+ tiros | jugador | 1.33 | 100% | Thierno Barry 10/10 |
+| 16:15 | Deportivo La Coruna marca | goles | 1.44 | 75% | Deportivo La Coruna 7/10 · Barcelona (en contra) 8/10 |
+| 17:00 | Gana el Valladolid | resultado | 1.80 | 60% | Valladolid 5/10 · Real Sociedad II 7/10 |
+| 13:00 | Thierno Barry: 2+ tiros | jugador | 1.33 | 90% | Thierno Barry 9/10 |
 | 13:00 | Alexis Mac Allister: 1+ tiros | jugador | 1.25 | 90% | Alexis Mac Allister 9/10 |
 | 14:30 | Jorthy Mokio: 1+ tiros | jugador | 1.40 | 100% | Jorthy Mokio 10/10 |
 | 20:00 | Daouda Weidmann: 2+ tiros | jugador | 1.40 | 90% | Daouda Weidmann 9/10 |

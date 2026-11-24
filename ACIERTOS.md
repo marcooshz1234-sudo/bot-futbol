@@ -1,14 +1,14 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 624 · aciertos: 388 (62%) · beneficio a 1 € por pick: -67.84 €
+Picks ya jugados: 626 · aciertos: 390 (62%) · beneficio a 1 € por pick: -66.69 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| jugador | 132 | 204 | 65% | -21.32 € |
+| jugador | 133 | 205 | 65% | -21.07 € |
 | goles | 152 | 235 | 65% | -21.17 € |
-| resultado | 76 | 121 | 63% | -7.03 € |
+| resultado | 77 | 122 | 63% | -6.13 € |
 | tarjetas | 16 | 27 | 59% | -1.68 € |
 | tiros | 6 | 11 | 55% | -0.47 € |
 | corners | 6 | 21 | 29% | -11.17 € |
@@ -28,8 +28,8 @@ Picks ya jugados: 624 · aciertos: 388 (62%) · beneficio a 1 € por pick: -67.
 | Home Team Total Cards · Over 1.5 | 11 | 15 | 73% |
 | Match Winner · Home | 13 | 18 | 72% |
 | Double Chance · Home/Draw | 10 | 14 | 71% |
+| Match Winner · Away | 10 | 14 | 71% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
-| Match Winner · Away | 9 | 13 | 69% |
 | Goals Over/Under First Half · Over 0.5 | 31 | 45 | 69% |
 | Away Player Shots · Nicolo Barella - 1 | 2 | 3 | 67% |
 | Player Fouls Committed · Radu Dragusin - 1 | 2 | 3 | 67% |
@@ -52,6 +52,10 @@ Picks ya jugados: 624 · aciertos: 388 (62%) · beneficio a 1 € por pick: -67.
 | Home Team Total Cards · Over 0.5 | 1 | 4 | 25% |
 
 ## Últimos días
+
+### 2026-11-23 · 2/2
+- ✅ Gana el Almeria · 1.90 (2-3)
+- ✅ Thierno Barry: 2+ tiros · 1.25 (4-0)
 
 ### 2026-11-22 · 12/20
 - ❌ Juventus ve más de 0,5 tarjetas · 1.50 (4-0)
@@ -122,7 +126,4 @@ Picks ya jugados: 624 · aciertos: 388 (62%) · beneficio a 1 € por pick: -67.
 - ✅ Más de 1,5 goles en Eibar–Cadiz · 1.25 (1-1)
 - ❌ Eibar gana alguna de las dos partes · 1.36 (1-1)
 - ✅ Más de 1,5 goles en la 2ª parte del Spain–England · 1.80 (2-3)
-
-### 2026-11-14 · 1/1
-- ✅ Ambos marcan en Arzignano Valchiampo–Alcione · 1.73 (3-2)
 

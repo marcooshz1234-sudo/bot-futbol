@@ -1,10 +1,10 @@
 # FK Jablonec – FC Lugano
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Stadion Strelnice
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 20:34_
+_Actualizadas: 24/11 00:52_
 
 - **1X2:** 1 **3.25**  ·  X **3.50**  ·  2 **2.05**
 - **Doble oportunidad:** 1X **1.73**  ·  12 **1.28**  ·  X2 **1.33**
@@ -12,21 +12,21 @@ _Actualizadas: 22/11 20:34_
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.00**
-    - 2,5: más **1.73** · menos **2.08**
-    - 3,5: más **2.75** · menos **1.40**
-    - 4,5: más **5.50** · menos **1.14**
+    - 2,5: más **1.70** · menos **2.10**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.30** · menos **3.40**
+    - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **6.00** · menos **1.12**
+    - 2,5: más **6.50** · menos **1.11**
 - **Goles del local:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.38** · menos **1.53**
-    - 2,5: más **6.00** · menos **1.12**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
 - **Goles del visitante:**
-    - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **1.91** · menos **1.80**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
@@ -50,8 +50,7 @@ _Actualizadas: 22/11 20:34_
     - 4,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
     - 4,5: más **2.10** · menos **1.67**
-- **Total Corners (1st Half):**
-    - 4: más **1.75** · menos **2.05**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.50**
 - **Away Player Shots On Target Total:** Martin Cedidla **13.00**  ·  Filip Zorvan **41.00**
 - **Home Player Shots:** Jiri Slama - 1 **1.44**  ·  Jiri Slama - 2 **2.75**  ·  Jiri Slama - 3 **7.00**  ·  Jiri Slama - 4 **17.00**  ·  Antonin Rusek - 1 **1.02**  ·  Jan Chramosta - 1 **1.08**  ·  Lamin Jawo - 1 **1.06**  ·  Garang Kuol - 1 **1.08**  ·  Jan Suchan - 1 **1.11**  ·  Saidou Alioum - 1 **1.22**  ·  Dominik Holly - 1 **1.33**  ·  Matej Polidar - 1 **1.44**  ·  Nelson Okeke - 1 **1.44**  ·  Adam Kubat - 1 **1.50**  ·  Filip Zorvan - 1 **1.53**  ·  Richard Sedlacek - 1 **1.53**  ·  Sebastian Nebyla - 1 **1.57**  ·  David Nykrin - 1 **2.00**  ·  Dusan Pavlovic - 1 **2.00**  ·  Nemanja Tekijaski - 1 **2.00**  ·  Daniel Soucek - 1 **2.00**  ·  Filip Novak - 1 **1.80**  ·  Martin Cedidla - 1 **1.57**  ·  Evzen Maly - 1 **2.38**  ·  Antonin Rusek - 2 **1.12**  ·  Jan Chramosta - 2 **1.40**  ·  Lamin Jawo - 2 **1.30**  ·  Garang Kuol - 2 **1.40**  ·  Jan Suchan - 2 **1.50**  ·  Saidou Alioum - 2 **1.91**  ·  Dominik Holly - 2 **2.38**  ·  Matej Polidar - 2 **3.00**  ·  Nelson Okeke - 2 **3.00**  ·  Adam Kubat - 2 **3.25**  ·  Filip Zorvan - 2 **3.40**  ·  Richard Sedlacek - 2 **3.40**  ·  Sebastian Nebyla - 2 **3.50**  ·  David Nykrin - 2 **5.50**  ·  Dusan Pavlovic - 2 **5.50**  ·  Nemanja Tekijaski - 2 **5.50**  ·  Daniel Soucek - 2 **5.50**  ·  Filip Novak - 2 **4.33**  ·  Martin Cedidla - 2 **3.50**  ·  Evzen Maly - 2 **8.00**  ·  Antonin Rusek - 3 **1.40**  ·  Jan Chramosta - 3 **2.10**  ·  Lamin Jawo - 3 **1.83**  ·  Garang Kuol - 3 **2.20**  ·  Jan Suchan - 3 **2.50**  ·  Saidou Alioum - 3 **3.75**  ·  Dominik Holly - 3 **5.50**  ·  Matej Polidar - 3 **7.00**  ·  Nelson Okeke - 3 **7.00**  ·  Adam Kubat - 3 **8.00**  ·  Filip Zorvan - 3 **9.00**  ·  Richard Sedlacek - 3 **9.00**  ·  Sebastian Nebyla - 3 **10.00**  ·  David Nykrin - 3 **17.00**  ·  Dusan Pavlovic - 3 **17.00**  ·  Nemanja Tekijaski - 3 **17.00**  ·  Daniel Soucek - 3 **17.00**  ·  Filip Novak - 3 **13.00**  ·  Martin Cedidla - 3 **10.00**  ·  Antonin Rusek - 4 **1.91**  ·  Jan Chramosta - 4 **3.75**  ·  Lamin Jawo - 4 **3.00**  ·  Garang Kuol - 4 **3.75**  ·  Jan Suchan - 4 **4.50**  ·  Saidou Alioum - 4 **9.00**  ·  Dominik Holly - 4 **13.00**  ·  Antonin Rusek - 5 **3.00**  ·  Jan Chramosta - 5 **7.00**  ·  Lamin Jawo - 5 **5.50**  ·  Garang Kuol - 5 **8.00**  ·  Antonin Rusek - 6 **5.00**  ·  Vakhtang Tchanturishvili - 1 **1.25**  ·  Vakhtang Tchanturishvili - 2 **2.10**  ·  Vakhtang Tchanturishvili - 3 **4.33**  ·  Vakhtang Tchanturishvili - 4 **10.00**  ·  Saidou Alioum - 5 **19.00**  ·  Evzen Maly - 3 **21.00**  ·  Matej Polidar - 4 **19.00**  ·  Nelson Okeke - 4 **19.00**  ·  Adam Kubat - 4 **21.00**  ·  Filip Zorvan - 4 **21.00**  ·  Martin Cedidla - 4 **21.00**  ·  Richard Sedlacek - 4 **21.00**  ·  Sebastian Nebyla - 4 **21.00**  ·  Jan Suchan - 5 **10.00**  ·  Vakhtang Tchanturishvili - 5 **21.00**  ·  Dominik Holly - 5 **21.00**  ·  Jan Chramosta - 6 **15.00**  ·  Lamin Jawo - 6 **11.00**  ·  Garang Kuol - 6 **17.00**  ·  Jan Suchan - 6 **19.00**  ·  Antonin Rusek - 7 **10.00**  ·  Jan Chramosta - 7 **21.00**  ·  Lamin Jawo - 7 **21.00**  ·  Antonin Rusek - 8 **17.00**
 - **Away Player Shots:** Ezgjan Alioski - 1 **1.17**  ·  Ezgjan Alioski - 2 **1.67**  ·  Ezgjan Alioski - 3 **3.00**  ·  Ezgjan Alioski - 4 **6.00**  ·  Albian Ajeti - 1 **1.01**  ·  Dereck Moncada - 1 **1.07**  ·  Daniel Dos Santos - 1 **1.08**  ·  Nicolo Puddu - 1 **1.08**  ·  Beckham Castro - 1 **1.04**  ·  Jason Parente - 1 **1.14**  ·  Renato Steffen - 1 **1.08**  ·  Yanis Cimignani - 1 **1.17**  ·  Ahmed Kendouci - 1 **1.25**  ·  Anto Grgic - 1 **1.25**  ·  Uran Bislimi - 1 **1.44**  ·  Bekhruzdjon Karimov - 1 **1.50**  ·  Gjan Ajdin - 1 **1.50**  ·  Antonios Papadopoulos - 1 **1.80**  ·  Hannes Delcroix - 1 **1.73**  ·  Joao Victor Carbone - 1 **1.73**  ·  Joel Bichsel - 1 **1.73**  ·  Lars Lukas Mai - 1 **1.80**  ·  Martim Marques - 1 **1.80**  ·  Mattia Zanotti - 1 **1.80**  ·  Albian Ajeti - 2 **1.10**  ·  Dereck Moncada - 2 **1.36**  ·  Daniel Dos Santos - 2 **1.40**  ·  Nicolo Puddu - 2 **1.40**  ·  Beckham Castro - 2 **1.22**  ·  Jason Parente - 2 **1.67**  ·  Renato Steffen - 2 **1.40**  ·  Yanis Cimignani - 2 **1.67**  ·  Ahmed Kendouci - 2 **2.10**  ·  Anto Grgic - 2 **2.10**  ·  Uran Bislimi - 2 **3.00**  ·  Bekhruzdjon Karimov - 2 **3.25**  ·  Gjan Ajdin - 2 **3.25**  ·  Antonios Papadopoulos - 2 **4.33**  ·  Hannes Delcroix - 2 **4.33**  ·  Joao Victor Carbone - 2 **4.33**  ·  Joel Bichsel - 2 **4.33**  ·  Lars Lukas Mai - 2 **4.33**  ·  Martim Marques - 2 **4.33**  ·  Mattia Zanotti - 2 **4.33**  ·  Albian Ajeti - 3 **1.33**  ·  Dereck Moncada - 3 **2.10**  ·  Daniel Dos Santos - 3 **2.20**  ·  Nicolo Puddu - 3 **2.10**  ·  Beckham Castro - 3 **1.67**  ·  Jason Parente - 3 **3.00**  ·  Renato Steffen - 3 **2.20**  ·  Yanis Cimignani - 3 **3.00**  ·  Ahmed Kendouci - 3 **4.33**  ·  Anto Grgic - 3 **4.33**  ·  Uran Bislimi - 3 **7.00**  ·  Bekhruzdjon Karimov - 3 **8.00**  ·  Gjan Ajdin - 3 **8.00**  ·  Antonios Papadopoulos - 3 **13.00**  ·  Hannes Delcroix - 3 **13.00**  ·  Joao Victor Carbone - 3 **13.00**  ·  Joel Bichsel - 3 **13.00**  ·  Lars Lukas Mai - 3 **13.00**  ·  Martim Marques - 3 **13.00**  ·  Mattia Zanotti - 3 **13.00**  ·  Albian Ajeti - 4 **1.80**  ·  Dereck Moncada - 4 **3.75**  ·  Daniel Dos Santos - 4 **3.75**  ·  Nicolo Puddu - 4 **3.75**  ·  Beckham Castro - 4 **2.62**  ·  Jason Parente - 4 **6.00**  ·  Renato Steffen - 4 **3.75**  ·  Yanis Cimignani - 4 **6.00**  ·  Ahmed Kendouci - 4 **10.00**  ·  Anto Grgic - 4 **10.00**  ·  Uran Bislimi - 4 **19.00**  ·  Bekhruzdjon Karimov - 4 **21.00**  ·  Gjan Ajdin - 4 **21.00**  ·  Albian Ajeti - 5 **2.62**  ·  Dereck Moncada - 5 **7.00**  ·  Daniel Dos Santos - 5 **8.00**  ·  Nicolo Puddu - 5 **8.00**  ·  Beckham Castro - 5 **4.33**  ·  Jason Parente - 5 **13.00**  ·  Renato Steffen - 5 **8.00**  ·  Yanis Cimignani - 5 **13.00**  ·  Ahmed Kendouci - 5 **21.00**  ·  Anto Grgic - 5 **21.00**  ·  Albian Ajeti - 6 **4.33**  ·  Dereck Moncada - 6 **15.00**  ·  Daniel Dos Santos - 6 **15.00**  ·  Nicolo Puddu - 6 **15.00**  ·  Albian Ajeti - 7 **8.00**  ·  Albian Ajeti - 8 **15.00**  ·  Dereck Moncada - 7 **21.00**  ·  Beckham Castro - 6 **8.00**  ·  Jason Parente - 6 **21.00**  ·  Renato Steffen - 6 **15.00**  ·  Yanis Cimignani - 6 **21.00**  ·  Albian Ajeti - 9 **21.00**  ·  Ezgjan Alioski - 5 **13.00**  ·  Ezgjan Alioski - 6 **21.00**  ·  Kevin Behrens - 1 **1.04**  ·  Christian Raffa - 1 **1.08**  ·  Elias Pihlstrom - 1 **1.08**  ·  Claudio Cassano - 1 **1.17**  ·  Damian Kelvin - 1 **1.80**  ·  Kevin Behrens - 2 **1.22**  ·  Christian Raffa - 2 **1.40**  ·  Elias Pihlstrom - 2 **1.40**  ·  Claudio Cassano - 2 **1.67**  ·  Damian Kelvin - 2 **4.33**  ·  Kevin Behrens - 3 **1.67**  ·  Christian Raffa - 3 **2.10**  ·  Elias Pihlstrom - 3 **2.20**  ·  Claudio Cassano - 3 **3.00**  ·  Damian Kelvin - 3 **13.00**  ·  Kevin Behrens - 4 **2.62**  ·  Christian Raffa - 4 **3.75**  ·  Elias Pihlstrom - 4 **3.75**  ·  Claudio Cassano - 4 **6.00**  ·  Kevin Behrens - 5 **4.50**  ·  Christian Raffa - 5 **8.00**  ·  Elias Pihlstrom - 5 **8.00**  ·  Claudio Cassano - 5 **13.00**  ·  Kevin Behrens - 6 **9.00**  ·  Christian Raffa - 6 **15.00**  ·  Elias Pihlstrom - 6 **15.00**  ·  Claudio Cassano - 6 **21.00**  ·  Beckham Castro - 7 **17.00**  ·  Kevin Behrens - 7 **17.00**

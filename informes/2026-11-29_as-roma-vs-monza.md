@@ -1,7 +1,7 @@
 # AS Roma – Monza
 **Serie A** · Regular Season - 13 · 29/11/2026 18:00 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
 
 ## Cuotas Bet365
 _Actualizadas: 23/11 08:33_
@@ -62,51 +62,51 @@ _Actualizadas: 23/11 08:33_
 ## Estadísticas de equipo
 | | AS Roma (total) | AS Roma en casa | Monza (total) | Monza fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 8 | 13 | 7 |
-| Forma (últimos 5) | VVDVV | VVVVD | DDDDV | DDDDE |
-| Balance | 10V 4E 2D | 6V 1E 1D | 4V 1E 8D | 1V 1E 5D |
-| Goles a favor / partido | 2,88 | 3,00 | 1,62 | 1,29 |
-| Goles en contra / partido | 1,19 | 1,12 | 1,92 | 2,29 |
-| Goles a favor 1ª parte | 1,38 | 1,25 | 0,77 | 0,71 |
-| Goles a favor 2ª parte | 1,50 | 1,75 | 0,85 | 0,57 |
-| Goles en contra 1ª parte | 0,19 | 0,25 | 0,92 | 1,14 |
-| Goles en contra 2ª parte | 1,00 | 0,88 | 1,00 | 1,14 |
-| Más de 1,5 goles | 94% | 100% | 85% | 86% |
-| Más de 2,5 goles | 75% | 88% | 77% | 71% |
-| Más de 3,5 goles | 62% | 62% | 54% | 57% |
-| Ambos marcan | 56% | 50% | 69% | 86% |
-| Portería a cero | 44% | 50% | 23% | 14% |
-| Se queda sin marcar | 6% | 0% | 8% | 0% |
-| xG a favor | 2,27 | 2,52 | 1,59 | 1,66 |
-| xG en contra | 1,41 | 1,11 | 1,40 | 1,34 |
-| Tiros / partido | 17,9 | 22,1 | 14,5 | 12,6 |
-| Tiros a puerta / partido | 6,6 | 7,6 | 5,7 | 5,7 |
-| Tiros recibidos | 11,8 | 10,2 | 13,1 | 12,4 |
-| Tiros a puerta recibidos | 4,5 | 3,6 | 4,9 | 4,3 |
+| Partidos analizados | 16 | 8 | 14 | 7 |
+| Forma (últimos 5) | VVDVV | VVVVD | VDDDD | DDDDE |
+| Balance | 10V 4E 2D | 6V 1E 1D | 5V 1E 8D | 1V 1E 5D |
+| Goles a favor / partido | 2,88 | 3,00 | 1,71 | 1,29 |
+| Goles en contra / partido | 1,19 | 1,12 | 1,79 | 2,29 |
+| Goles a favor 1ª parte | 1,38 | 1,25 | 0,79 | 0,71 |
+| Goles a favor 2ª parte | 1,50 | 1,75 | 0,93 | 0,57 |
+| Goles en contra 1ª parte | 0,19 | 0,25 | 0,86 | 1,14 |
+| Goles en contra 2ª parte | 1,00 | 0,88 | 0,93 | 1,14 |
+| Más de 1,5 goles | 94% | 100% | 86% | 86% |
+| Más de 2,5 goles | 75% | 88% | 79% | 71% |
+| Más de 3,5 goles | 62% | 62% | 50% | 57% |
+| Ambos marcan | 56% | 50% | 64% | 86% |
+| Portería a cero | 44% | 50% | 29% | 14% |
+| Se queda sin marcar | 6% | 0% | 7% | 0% |
+| xG a favor | 2,27 | 2,52 | 1,60 | 1,66 |
+| xG en contra | 1,41 | 1,11 | 1,43 | 1,34 |
+| Tiros / partido | 17,9 | 22,1 | 14,4 | 12,6 |
+| Tiros a puerta / partido | 6,6 | 7,6 | 5,6 | 5,7 |
+| Tiros recibidos | 11,8 | 10,2 | 13,4 | 12,4 |
+| Tiros a puerta recibidos | 4,5 | 3,6 | 5,1 | 4,3 |
 | Posesión media % | 58 | 62 | 45 | 45 |
-| Córners a favor | 5,9 | 7,1 | 4,5 | 4,6 |
-| Córners en contra | 3,3 | 3,5 | 4,3 | 5,1 |
-| Córners a favor 1ª parte | 3,1 | 3,9 | 2,2 | 1,9 |
+| Córners a favor | 5,9 | 7,1 | 4,4 | 4,6 |
+| Córners en contra | 3,3 | 3,5 | 4,5 | 5,1 |
+| Córners a favor 1ª parte | 3,1 | 3,9 | 2,1 | 1,9 |
 | Córners a favor 2ª parte | 2,8 | 3,2 | 2,3 | 2,7 |
-| Córners totales del partido | 9,2 | 10,6 | 8,8 | 9,7 |
+| Córners totales del partido | 9,2 | 10,6 | 8,9 | 9,7 |
 | Córners totales 1ª parte | 4,4 | 5,1 | 4,1 | 4,0 |
 | Córners totales 2ª parte | 4,9 | 5,5 | 4,7 | 5,7 |
-| Más de 8,5 córners | 56% | 62% | 54% | 57% |
-| Más de 9,5 córners | 44% | 50% | 31% | 43% |
-| Más de 10,5 córners | 44% | 50% | 23% | 29% |
-| Faltas cometidas | 11,7 | 11,0 | 12,1 | 12,4 |
-| Faltas recibidas | 9,1 | 9,2 | 11,0 | 12,0 |
-| Amarillas propias | 1,6 | 1,2 | 1,7 | 1,3 |
-| Amarillas del rival | 1,7 | 1,8 | 1,7 | 2,1 |
-| Rojas / partido | 0,06 | 0,00 | 0,08 | 0,14 |
+| Más de 8,5 córners | 56% | 62% | 57% | 57% |
+| Más de 9,5 córners | 44% | 50% | 36% | 43% |
+| Más de 10,5 córners | 44% | 50% | 21% | 29% |
+| Faltas cometidas | 11,7 | 11,0 | 11,8 | 12,4 |
+| Faltas recibidas | 9,1 | 9,2 | 11,1 | 12,0 |
+| Amarillas propias | 1,6 | 1,2 | 1,6 | 1,3 |
+| Amarillas del rival | 1,7 | 1,8 | 1,6 | 2,1 |
+| Rojas / partido | 0,06 | 0,00 | 0,07 | 0,14 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles AS Roma | Recibe AS Roma | Tarjetas AS Roma | Goles Monza | Recibe Monza | Tarjetas Monza |
 |---|---|---|---|---|---|---|
 | 1-15' | 5 | 1 | 1 | 1 | 5 | 4 |
 | 16-30' | 9 | 2 | 2 | 3 | 2 | 2 |
-| 31-45' | 8 | 0 | 5 | 7 | 5 | 2 |
-| 46-60' | 8 | 7 | 7 | 5 | 6 | 4 |
+| 31-45' | 8 | 0 | 5 | 8 | 5 | 2 |
+| 46-60' | 8 | 7 | 7 | 7 | 6 | 4 |
 | 61-75' | 7 | 0 | 6 | 3 | 5 | 3 |
 | 76-90' | 10 | 9 | 6 | 3 | 3 | 11 |
 
@@ -160,33 +160,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Monza
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | Serie A | Monza 3-0 Fiorentina | casa | 3-7 | 13 (5) - 17 (8) | 0-1 |
 | 2026-11-08 | Serie A | Monza 0-1 Atalanta | casa | 7-2 | 22 (7) - 13 (7) | 4-2 |
 | 2026-10-31 | Serie A | Bologna 2-1 Monza | fuera | 2-5 | 6 (4) - 10 (5) | 3-4 |
 | 2026-10-28 | Serie A | Monza 1-4 Napoli | casa | 2-2 | 12 (5) - 16 (7) | 3-0 |
 | 2026-10-23 | Serie A | Torino 3-2 Monza | fuera | 4-3 | 7 (3) - 17 (7) | 0-1 |
 | 2026-10-19 | Serie A | Monza 4-0 Cagliari | casa | 2-7 | 14 (6) - 16 (5) | 1-2 |
-| 2026-10-11 | Serie A | Lazio 3-1 Monza | fuera | 6-7 | 14 (6) - 17 (7) | 1-3 |
 
 ## Jugadores de Monza
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Ricardo Mangas | M | 13 | 1051 | 1 | 2 | 12 | 0,9 | 5 | 0,4 | 13 | 14 | 1,1 | 1 | 0 |
-| S. Birindelli | M | 12 | 988 | 0 | 2 | 13 | 1,1 | 7 | 0,6 | 10 | 13 | 1,1 | 2 | 0 |
-| E. Kouadio | D | 12 | 945 | 1 | 0 | 5 | 0,4 | 4 | 0,3 | 14 | 1 | 0,1 | 3 | 0 |
-| Gustavo Varela | F | 11 | 931 | 11 | 1 | 28 | 2,5 | 16 | 1,5 | 7 | 7 | 0,6 | 1 | 0 |
-| L. Lucchesi | D | 12 | 870 | 0 | 0 | 5 | 0,4 | 4 | 0,3 | 18 | 6 | 0,5 | 3 | 1 |
-| A. Carboni | D | 11 | 826 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 12 | 3 | 0,3 | 2 | 0 |
-| E. Akinsanmiro | M | 10 | 718 | 0 | 1 | 3 | 0,3 | 0 | 0,0 | 9 | 13 | 1,3 | 0 | 0 |
-| Jay Robinson | F | 10 | 655 | 2 | 1 | 15 | 1,5 | 8 | 0,8 | 7 | 14 | 1,4 | 0 | 0 |
+| Ricardo Mangas | M | 14 | 1141 | 1 | 2 | 12 | 0,9 | 5 | 0,4 | 13 | 15 | 1,1 | 1 | 0 |
+| S. Birindelli | M | 13 | 1073 | 0 | 2 | 15 | 1,2 | 8 | 0,6 | 11 | 13 | 1,0 | 2 | 0 |
+| Gustavo Varela | F | 12 | 1021 | 13 | 1 | 32 | 2,7 | 18 | 1,5 | 8 | 8 | 0,7 | 1 | 0 |
+| E. Kouadio | D | 13 | 1019 | 1 | 0 | 5 | 0,4 | 4 | 0,3 | 15 | 1 | 0,1 | 3 | 0 |
+| A. Carboni | D | 12 | 916 | 0 | 0 | 5 | 0,4 | 2 | 0,2 | 14 | 3 | 0,2 | 2 | 0 |
+| L. Lucchesi | D | 13 | 875 | 0 | 0 | 6 | 0,5 | 4 | 0,3 | 18 | 6 | 0,5 | 3 | 1 |
+| E. Akinsanmiro | M | 11 | 792 | 0 | 1 | 3 | 0,3 | 0 | 0,0 | 9 | 14 | 1,3 | 0 | 0 |
+| Jay Robinson | F | 11 | 722 | 3 | 1 | 17 | 1,5 | 9 | 0,8 | 7 | 16 | 1,5 | 0 | 0 |
+| M. Ondoa | M | 10 | 632 | 0 | 1 | 6 | 0,6 | 2 | 0,2 | 11 | 4 | 0,4 | 1 | 0 |
 | N. Törnqvist | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| M. Ondoa | M | 9 | 616 | 0 | 1 | 6 | 0,7 | 2 | 0,2 | 9 | 4 | 0,4 | 1 | 0 |
+| S. Goglichidze | D | 7 | 549 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 6 | 9 | 1,3 | 1 | 0 |
+| D. Thiam | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
+| Dany Mota | F | 10 | 477 | 1 | 2 | 18 | 1,8 | 8 | 0,8 | 5 | 8 | 0,8 | 0 | 0 |
 | M. Folorunsho | M | 8 | 477 | 0 | 0 | 5 | 0,6 | 0 | 0,0 | 6 | 13 | 1,6 | 3 | 0 |
-| S. Goglichidze | D | 6 | 459 | 1 | 0 | 3 | 0,5 | 1 | 0,2 | 5 | 8 | 1,3 | 1 | 0 |
-| Dany Mota | F | 9 | 454 | 1 | 2 | 16 | 1,8 | 8 | 0,9 | 5 | 7 | 0,8 | 0 | 0 |
-| Demba Thiam | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
 | A. Bakoune | D | 10 | 405 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 9 | 2 | 0,2 | 0 | 0 |
+| L. Colombo | M | 5 | 364 | 0 | 0 | 4 | 0,8 | 0 | 0,0 | 8 | 2 | 0,4 | 3 | 0 |
 | A. Colpani | M | 9 | 360 | 1 | 0 | 12 | 1,3 | 7 | 0,8 | 3 | 5 | 0,6 | 1 | 0 |
 | M. Mout | M | 9 | 346 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 2 | 5 | 0,6 | 0 | 0 |
 | P. Cutrone | F | 9 | 341 | 0 | 2 | 14 | 1,6 | 6 | 0,7 | 5 | 5 | 0,6 | 0 | 0 |
-| L. Colombo | M | 4 | 274 | 0 | 0 | 3 | 0,8 | 0 | 0,0 | 8 | 0 | 0,0 | 3 | 0 |
 | O. Forson | F | 7 | 243 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 2 | 5 | 0,7 | 0 | 0 |

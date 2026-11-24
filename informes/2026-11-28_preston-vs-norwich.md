@@ -1,7 +1,7 @@
 # Preston – Norwich
 **Championship** · Regular Season - 18 · 28/11/2026 13:30 (hora España) · Deepdale
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
 
 ## Cuotas Bet365
 _Actualizadas: 23/11 08:31_

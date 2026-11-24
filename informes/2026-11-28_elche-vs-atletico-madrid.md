@@ -1,7 +1,7 @@
 # Elche – Atletico Madrid
 **LaLiga** · Regular Season - 14 · 28/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
 
 ## Cuotas Bet365
 _Actualizadas: 23/11 08:32_
@@ -60,42 +60,42 @@ _Actualizadas: 23/11 08:32_
 ## Estadísticas de equipo
 | | Elche (total) | Elche en casa | Atletico Madrid (total) | Atletico Madrid fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 6 | 17 | 9 |
-| Forma (últimos 5) | DDVVE | DDEDD | VDDVV | VVEVV |
-| Balance | 3V 4E 6D | 0V 1E 5D | 11V 2E 4D | 6V 1E 2D |
-| Goles a favor / partido | 1,31 | 0,67 | 1,76 | 1,78 |
-| Goles en contra / partido | 1,62 | 2,33 | 0,88 | 0,89 |
-| Goles a favor 1ª parte | 0,38 | 0,00 | 0,65 | 0,89 |
-| Goles a favor 2ª parte | 0,92 | 0,67 | 1,12 | 0,89 |
-| Goles en contra 1ª parte | 0,85 | 1,00 | 0,24 | 0,33 |
-| Goles en contra 2ª parte | 0,77 | 1,33 | 0,65 | 0,56 |
-| Más de 1,5 goles | 77% | 67% | 88% | 89% |
-| Más de 2,5 goles | 54% | 50% | 59% | 67% |
-| Más de 3,5 goles | 46% | 50% | 18% | 11% |
-| Ambos marcan | 54% | 33% | 41% | 44% |
-| Portería a cero | 23% | 17% | 47% | 44% |
-| Se queda sin marcar | 38% | 67% | 12% | 11% |
-| xG a favor | 1,25 | 1,22 | 1,63 | 1,57 |
-| xG en contra | 1,79 | 2,01 | 1,21 | 1,06 |
-| Tiros / partido | 12,0 | 13,3 | 15,2 | 14,6 |
-| Tiros a puerta / partido | 4,2 | 3,5 | 5,6 | 5,6 |
-| Tiros recibidos | 14,6 | 12,3 | 12,4 | 13,3 |
-| Tiros a puerta recibidos | 4,8 | 4,8 | 3,6 | 3,6 |
-| Posesión media % | 52 | 58 | 56 | 59 |
-| Córners a favor | 4,9 | 5,2 | 5,2 | 6,0 |
+| Partidos analizados | 14 | 6 | 17 | 9 |
+| Forma (últimos 5) | EDDVV | DDEDD | VDDVV | VVEVV |
+| Balance | 3V 5E 6D | 0V 1E 5D | 11V 2E 4D | 6V 1E 2D |
+| Goles a favor / partido | 1,29 | 0,67 | 1,76 | 1,78 |
+| Goles en contra / partido | 1,57 | 2,33 | 0,88 | 0,89 |
+| Goles a favor 1ª parte | 0,36 | 0,00 | 0,65 | 0,89 |
+| Goles a favor 2ª parte | 0,93 | 0,67 | 1,12 | 0,89 |
+| Goles en contra 1ª parte | 0,79 | 1,00 | 0,24 | 0,33 |
+| Goles en contra 2ª parte | 0,79 | 1,33 | 0,65 | 0,56 |
+| Más de 1,5 goles | 79% | 67% | 88% | 89% |
+| Más de 2,5 goles | 50% | 50% | 59% | 67% |
+| Más de 3,5 goles | 43% | 50% | 18% | 11% |
+| Ambos marcan | 57% | 33% | 41% | 44% |
+| Portería a cero | 21% | 17% | 47% | 44% |
+| Se queda sin marcar | 36% | 67% | 12% | 11% |
+| xG a favor | 1,18 | 1,22 | 1,63 | 1,57 |
+| xG en contra | 1,73 | 2,01 | 1,21 | 1,06 |
+| Tiros / partido | 11,4 | 13,3 | 15,2 | 14,6 |
+| Tiros a puerta / partido | 4,1 | 3,5 | 5,6 | 5,6 |
+| Tiros recibidos | 14,8 | 12,3 | 12,4 | 13,3 |
+| Tiros a puerta recibidos | 4,5 | 4,8 | 3,6 | 3,6 |
+| Posesión media % | 51 | 58 | 56 | 59 |
+| Córners a favor | 4,6 | 5,2 | 5,2 | 6,0 |
 | Córners en contra | 4,6 | 4,2 | 3,7 | 4,8 |
-| Córners a favor 1ª parte | 1,8 | 2,5 | 2,4 | 2,6 |
-| Córners a favor 2ª parte | 3,1 | 2,7 | 2,9 | 3,4 |
-| Córners totales del partido | 9,5 | 9,3 | 8,9 | 10,8 |
+| Córners a favor 1ª parte | 1,7 | 2,5 | 2,4 | 2,6 |
+| Córners a favor 2ª parte | 2,9 | 2,7 | 2,9 | 3,4 |
+| Córners totales del partido | 9,2 | 9,3 | 8,9 | 10,8 |
 | Córners totales 1ª parte | 4,1 | 4,7 | 4,1 | 4,8 |
-| Córners totales 2ª parte | 5,4 | 4,7 | 4,8 | 6,0 |
-| Más de 8,5 córners | 33% | 33% | 41% | 78% |
-| Más de 9,5 córners | 33% | 33% | 35% | 67% |
-| Más de 10,5 córners | 33% | 33% | 29% | 56% |
-| Faltas cometidas | 12,8 | 13,8 | 11,4 | 9,9 |
-| Faltas recibidas | 13,1 | 11,8 | 10,8 | 11,8 |
-| Amarillas propias | 2,7 | 2,8 | 1,9 | 1,7 |
-| Amarillas del rival | 1,8 | 1,3 | 1,5 | 1,2 |
+| Córners totales 2ª parte | 5,2 | 4,7 | 4,8 | 6,0 |
+| Más de 8,5 córners | 31% | 33% | 41% | 78% |
+| Más de 9,5 córners | 31% | 33% | 35% | 67% |
+| Más de 10,5 córners | 31% | 33% | 29% | 56% |
+| Faltas cometidas | 12,7 | 13,8 | 11,4 | 9,9 |
+| Faltas recibidas | 13,2 | 11,8 | 10,8 | 11,8 |
+| Amarillas propias | 2,5 | 2,8 | 1,9 | 1,7 |
+| Amarillas del rival | 2,0 | 1,3 | 1,5 | 1,2 |
 | Rojas / partido | 0,08 | 0,00 | 0,12 | 0,11 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -105,8 +105,8 @@ _Actualizadas: 23/11 08:32_
 | 16-30' | 3 | 4 | 3 | 4 | 0 | 2 |
 | 31-45' | 2 | 4 | 7 | 3 | 4 | 10 |
 | 46-60' | 2 | 0 | 4 | 6 | 4 | 4 |
-| 61-75' | 4 | 4 | 9 | 3 | 4 | 4 |
-| 76-90' | 6 | 6 | 11 | 10 | 3 | 15 |
+| 61-75' | 5 | 4 | 9 | 3 | 4 | 4 |
+| 76-90' | 6 | 7 | 12 | 10 | 3 | 15 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -124,32 +124,32 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Elche
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | LaLiga | Levante 1-1 Elche | fuera | 1-5 | 4 (2) - 18 (2) | 1-4 |
 | 2026-11-08 | LaLiga | Elche 0-2 Real Betis | casa | 9-8 | 13 (1) - 18 (9) | 4-0 |
 | 2026-11-01 | LaLiga | Elche 0-1 Valencia | casa | 6-2 | 16 (3) - 5 (3) | 3-2 |
 | 2026-10-27 | Copa del Rey | Pinatar 1-3 Elche | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | LaLiga | Rayo Vallecano 0-3 Elche | fuera | 3-3 | 16 (9) - 18 (5) | 3-3 |
 | 2026-10-17 | LaLiga | Villarreal 0-0 Elche | fuera | 5-10 | 7 (1) - 20 (7) | 4-2 |
-| 2026-10-11 | LaLiga | Elche 0-0 Celta Vigo | casa | 5-2 | 13 (2) - 7 (0) | 1-3 |
 
 ## Jugadores de Elche
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| M. Dituro | G | 12 | 1080 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Víctor Chust | D | 12 | 1080 | 0 | 1 | 5 | 0,4 | 1 | 0,1 | 9 | 2 | 0,2 | 2 | 0 |
-| Germán Valera | F | 12 | 979 | 2 | 0 | 8 | 0,7 | 2 | 0,2 | 10 | 25 | 2,1 | 2 | 0 |
-| Gonzalo Villar | M | 11 | 869 | 0 | 1 | 6 | 0,5 | 5 | 0,5 | 19 | 25 | 2,3 | 4 | 0 |
-| Fer Niño | F | 12 | 786 | 6 | 0 | 21 | 1,8 | 10 | 0,8 | 8 | 16 | 1,3 | 2 | 0 |
-| Buba Sangaré | D | 10 | 781 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 9 | 5 | 0,5 | 0 | 0 |
-| J. Morcillo | M | 10 | 745 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 9 | 1 | 0,1 | 2 | 0 |
-| R. Revivo | D | 9 | 703 | 0 | 2 | 4 | 0,4 | 2 | 0,2 | 7 | 10 | 1,1 | 1 | 0 |
-| F. Redondo | D | 9 | 652 | 1 | 0 | 4 | 0,4 | 2 | 0,2 | 7 | 7 | 0,8 | 3 | 1 |
-| Tete Morente | F | 12 | 543 | 0 | 3 | 8 | 0,7 | 1 | 0,1 | 17 | 8 | 0,7 | 2 | 0 |
-| L. Cepeda | F | 12 | 521 | 0 | 2 | 15 | 1,2 | 9 | 0,8 | 5 | 13 | 1,1 | 2 | 0 |
-| T. Lemar | M | 8 | 413 | 1 | 0 | 6 | 0,8 | 2 | 0,2 | 8 | 6 | 0,8 | 1 | 0 |
+| Víctor Chust | D | 13 | 1170 | 0 | 1 | 5 | 0,4 | 1 | 0,1 | 11 | 2 | 0,2 | 2 | 0 |
+| M. Dituro | G | 13 | 1170 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Germán Valera | M | 13 | 1069 | 2 | 1 | 8 | 0,6 | 2 | 0,2 | 11 | 28 | 2,2 | 2 | 0 |
+| Gonzalo Villar | M | 12 | 935 | 0 | 1 | 6 | 0,5 | 5 | 0,4 | 21 | 26 | 2,2 | 4 | 0 |
+| Fer Niño | F | 13 | 876 | 6 | 0 | 21 | 1,6 | 10 | 0,8 | 12 | 17 | 1,3 | 2 | 0 |
+| Buba Sangaré | D | 11 | 871 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 9 | 6 | 0,5 | 0 | 0 |
+| J. Morcillo | M | 11 | 835 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 9 | 2 | 0,2 | 2 | 0 |
+| R. Revivo | D | 10 | 784 | 1 | 2 | 6 | 0,6 | 3 | 0,3 | 8 | 11 | 1,1 | 1 | 0 |
+| F. Redondo | D | 10 | 742 | 1 | 0 | 5 | 0,5 | 3 | 0,3 | 8 | 9 | 0,9 | 4 | 1 |
+| L. Cepeda | M | 13 | 602 | 0 | 2 | 16 | 1,2 | 9 | 0,7 | 5 | 15 | 1,2 | 2 | 0 |
+| Tete Morente | F | 13 | 552 | 0 | 3 | 8 | 0,6 | 1 | 0,1 | 17 | 8 | 0,6 | 2 | 0 |
+| T. Lemar | M | 9 | 457 | 1 | 0 | 6 | 0,7 | 2 | 0,2 | 8 | 7 | 0,8 | 1 | 0 |
+| A. Osorio | F | 10 | 388 | 1 | 0 | 9 | 0,9 | 3 | 0,3 | 10 | 9 | 0,9 | 1 | 0 |
 | Marc Aguado | M | 6 | 375 | 1 | 0 | 2 | 0,3 | 1 | 0,2 | 7 | 5 | 0,8 | 2 | 0 |
 | F. Buonanotte | M | 8 | 353 | 1 | 1 | 10 | 1,2 | 4 | 0,5 | 9 | 2 | 0,2 | 2 | 0 |
-| A. Osorio | F | 9 | 343 | 1 | 0 | 9 | 1,0 | 3 | 0,3 | 9 | 9 | 1,0 | 1 | 0 |
-| Martim Neto | M | 8 | 320 | 0 | 0 | 6 | 0,8 | 1 | 0,1 | 3 | 3 | 0,4 | 1 | 0 |
+| Martim Neto | M | 9 | 344 | 0 | 0 | 6 | 0,7 | 1 | 0,1 | 3 | 4 | 0,4 | 1 | 0 |
 | Rubén Sánchez | D | 7 | 306 | 0 | 0 | 4 | 0,6 | 0 | 0,0 | 3 | 2 | 0,3 | 1 | 0 |
 | David Affengruber | D | 3 | 270 | 0 | 0 | 3 | 1,0 | 0 | 0,0 | 1 | 4 | 1,3 | 0 | 0 |
 | Ali Houary | M | 4 | 235 | 0 | 0 | 5 | 1,2 | 2 | 0,5 | 3 | 2 | 0,5 | 1 | 0 |

@@ -1,7 +1,7 @@
 # Auxerre – Marseille
 **Ligue 1** · Regular Season - 12 · 29/11/2026 15:00 (hora España) · Stade de l'Abbé-Deschamps
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
 
 ## Cuotas Bet365
 _Actualizadas: 23/11 08:33_

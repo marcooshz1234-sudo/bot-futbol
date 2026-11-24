@@ -1,7 +1,7 @@
 # Manchester United – Brentford
 **Premier League** · Regular Season - 12 · 28/11/2026 16:00 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
 
 ## Cuotas Bet365
 _Actualizadas: 23/11 08:32_
@@ -50,53 +50,53 @@ _Actualizadas: 23/11 08:32_
 ## Estadísticas de equipo
 | | Manchester United (total) | Manchester United en casa | Brentford (total) | Brentford fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 8 | 13 | 8 |
-| Forma (últimos 5) | DEVDD | EVDED | DVDED | DDEEV |
-| Balance | 3V 5E 8D | 3V 2E 3D | 5V 5E 3D | 2V 4E 2D |
-| Goles a favor / partido | 1,50 | 2,38 | 2,00 | 2,00 |
-| Goles en contra / partido | 2,12 | 2,00 | 1,23 | 1,62 |
-| Goles a favor 1ª parte | 0,56 | 1,00 | 1,00 | 1,12 |
-| Goles a favor 2ª parte | 0,94 | 1,38 | 1,00 | 0,88 |
-| Goles en contra 1ª parte | 0,88 | 1,00 | 0,69 | 1,12 |
-| Goles en contra 2ª parte | 1,25 | 1,00 | 0,54 | 0,50 |
+| Partidos analizados | 16 | 8 | 14 | 8 |
+| Forma (últimos 5) | DEVDD | EVDED | VDVDE | DDEEV |
+| Balance | 3V 5E 8D | 3V 2E 3D | 6V 5E 3D | 2V 4E 2D |
+| Goles a favor / partido | 1,50 | 2,38 | 2,14 | 2,00 |
+| Goles en contra / partido | 2,12 | 2,00 | 1,14 | 1,62 |
+| Goles a favor 1ª parte | 0,56 | 1,00 | 1,07 | 1,12 |
+| Goles a favor 2ª parte | 0,94 | 1,38 | 1,07 | 0,88 |
+| Goles en contra 1ª parte | 0,88 | 1,00 | 0,64 | 1,12 |
+| Goles en contra 2ª parte | 1,25 | 1,00 | 0,50 | 0,50 |
 | Más de 1,5 goles | 94% | 88% | 100% | 100% |
-| Más de 2,5 goles | 56% | 75% | 62% | 62% |
-| Más de 3,5 goles | 50% | 62% | 31% | 50% |
-| Ambos marcan | 56% | 62% | 69% | 88% |
-| Portería a cero | 6% | 12% | 23% | 0% |
-| Se queda sin marcar | 38% | 25% | 8% | 12% |
-| xG a favor | 1,76 | 2,50 | 1,65 | 1,53 |
-| xG en contra | 1,89 | 1,77 | 1,53 | 1,81 |
-| Tiros / partido | 17,1 | 19,0 | 14,5 | 15,1 |
-| Tiros a puerta / partido | 5,3 | 6,5 | 4,5 | 5,0 |
-| Tiros recibidos | 12,8 | 10,6 | 14,4 | 14,5 |
-| Tiros a puerta recibidos | 5,2 | 3,6 | 4,1 | 4,5 |
-| Posesión media % | 51 | 54 | 48 | 52 |
-| Córners a favor | 5,7 | 5,6 | 4,5 | 4,6 |
-| Córners en contra | 3,9 | 3,2 | 4,7 | 3,8 |
-| Córners a favor 1ª parte | 2,2 | 2,1 | 2,2 | 2,1 |
-| Córners a favor 2ª parte | 3,4 | 3,5 | 2,2 | 2,5 |
-| Córners totales del partido | 9,6 | 8,9 | 9,2 | 8,4 |
-| Córners totales 1ª parte | 4,2 | 4,2 | 3,9 | 3,5 |
-| Córners totales 2ª parte | 5,4 | 4,6 | 5,2 | 4,9 |
-| Más de 8,5 córners | 50% | 62% | 62% | 62% |
-| Más de 9,5 córners | 31% | 25% | 62% | 62% |
-| Más de 10,5 córners | 31% | 25% | 46% | 50% |
-| Faltas cometidas | 11,1 | 12,0 | 12,8 | 13,4 |
+| Más de 2,5 goles | 56% | 75% | 64% | 62% |
+| Más de 3,5 goles | 50% | 62% | 36% | 50% |
+| Ambos marcan | 56% | 62% | 64% | 88% |
+| Portería a cero | 6% | 12% | 29% | 0% |
+| Se queda sin marcar | 38% | 25% | 7% | 12% |
+| xG a favor | 1,76 | 2,50 | 1,74 | 1,53 |
+| xG en contra | 1,89 | 1,77 | 1,43 | 1,81 |
+| Tiros / partido | 17,1 | 19,0 | 15,0 | 15,1 |
+| Tiros a puerta / partido | 5,3 | 6,5 | 4,7 | 5,0 |
+| Tiros recibidos | 12,8 | 10,6 | 13,6 | 14,5 |
+| Tiros a puerta recibidos | 5,2 | 3,6 | 3,9 | 4,5 |
+| Posesión media % | 51 | 54 | 50 | 52 |
+| Córners a favor | 5,7 | 5,6 | 4,6 | 4,6 |
+| Córners en contra | 3,9 | 3,2 | 4,6 | 3,8 |
+| Córners a favor 1ª parte | 2,2 | 2,1 | 2,3 | 2,1 |
+| Córners a favor 2ª parte | 3,4 | 3,5 | 2,3 | 2,5 |
+| Córners totales del partido | 9,6 | 8,9 | 9,1 | 8,4 |
+| Córners totales 1ª parte | 4,2 | 4,2 | 4,1 | 3,5 |
+| Córners totales 2ª parte | 5,4 | 4,6 | 5,1 | 4,9 |
+| Más de 8,5 córners | 50% | 62% | 64% | 62% |
+| Más de 9,5 córners | 31% | 25% | 57% | 62% |
+| Más de 10,5 córners | 31% | 25% | 43% | 50% |
+| Faltas cometidas | 11,1 | 12,0 | 12,4 | 13,4 |
 | Faltas recibidas | 11,9 | 13,1 | 9,8 | 8,5 |
-| Amarillas propias | 1,8 | 1,9 | 2,2 | 2,1 |
-| Amarillas del rival | 2,0 | 2,2 | 1,8 | 1,8 |
-| Rojas / partido | 0,25 | 0,12 | 0,23 | 0,12 |
+| Amarillas propias | 1,8 | 1,9 | 2,0 | 2,1 |
+| Amarillas del rival | 2,0 | 2,2 | 1,7 | 1,8 |
+| Rojas / partido | 0,25 | 0,12 | 0,21 | 0,12 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Manchester United | Recibe Manchester United | Tarjetas Manchester United | Goles Brentford | Recibe Brentford | Tarjetas Brentford |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 7 | 1 | 4 | 2 | 1 |
-| 16-30' | 2 | 3 | 4 | 1 | 4 | 5 |
+| 16-30' | 2 | 3 | 4 | 3 | 4 | 5 |
 | 31-45' | 5 | 4 | 4 | 8 | 4 | 3 |
 | 46-60' | 3 | 7 | 4 | 3 | 1 | 2 |
-| 61-75' | 4 | 6 | 7 | 4 | 3 | 8 |
-| 76-90' | 8 | 7 | 15 | 6 | 3 | 12 |
+| 61-75' | 4 | 6 | 7 | 5 | 3 | 8 |
+| 76-90' | 8 | 7 | 15 | 7 | 3 | 12 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -149,33 +149,33 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Brentford
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | Premier League | Brentford 4-0 Everton | casa | 6-3 | 21 (7) - 4 (2) | 0-1 |
 | 2026-11-08 | Premier League | Brighton 2-0 Brentford | fuera | 3-7 | 5 (0) - 20 (6) | 2-4 |
 | 2026-10-31 | Premier League | Brentford 2-0 Nottingham Forest | casa | 3-4 | 7 (1) - 15 (1) | 1-3 |
 | 2026-10-28 | Carabao Cup | Sunderland 3-2 Brentford | fuera | 5-0 | 16 (7) - 7 (4) | 3-1 |
 | 2026-10-25 | Premier League | Hull City 1-1 Brentford | fuera | 6-5 | 14 (6) - 12 (2) | 1-0 |
 | 2026-10-17 | Premier League | Brentford 1-2 Liverpool | casa | 3-9 | 10 (2) - 21 (5) | 4-3 |
-| 2026-10-10 | Premier League | Aston Villa 2-2 Brentford | fuera | 2-2 | 14 (4) - 20 (7) | 5-2 |
 
 ## Jugadores de Brentford
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| K. Ajer | D | 12 | 1009 | 1 | 0 | 4 | 0,3 | 2 | 0,2 | 6 | 6 | 0,5 | 3 | 0 |
-| V. Janelt | M | 11 | 971 | 2 | 1 | 5 | 0,5 | 3 | 0,3 | 18 | 8 | 0,7 | 7 | 1 |
+| K. Ajer | D | 13 | 1099 | 1 | 0 | 4 | 0,3 | 2 | 0,2 | 7 | 6 | 0,5 | 3 | 0 |
+| V. Janelt | M | 12 | 1053 | 3 | 1 | 6 | 0,5 | 4 | 0,3 | 19 | 9 | 0,8 | 7 | 1 |
+| M. Kayode | D | 14 | 1005 | 1 | 0 | 7 | 0,5 | 1 | 0,1 | 12 | 11 | 0,8 | 2 | 0 |
+| C. Kelleher | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| K. Lewis-Potter | D | 13 | 963 | 4 | 1 | 17 | 1,3 | 6 | 0,5 | 14 | 9 | 0,7 | 0 | 0 |
 | Thiago | F | 13 | 957 | 4 | 2 | 25 | 1,9 | 10 | 0,8 | 17 | 10 | 0,8 | 4 | 1 |
-| M. Kayode | D | 13 | 915 | 1 | 0 | 5 | 0,4 | 1 | 0,1 | 11 | 11 | 0,8 | 2 | 0 |
-| C. Kelleher | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| K. Lewis-Potter | M | 12 | 889 | 2 | 1 | 10 | 0,8 | 4 | 0,3 | 14 | 9 | 0,8 | 0 | 0 |
-| K. Schade | M | 12 | 845 | 3 | 0 | 15 | 1,2 | 7 | 0,6 | 9 | 16 | 1,3 | 3 | 0 |
-| M. Sangaré | M | 13 | 765 | 0 | 2 | 10 | 0,8 | 2 | 0,2 | 13 | 8 | 0,6 | 2 | 0 |
-| J. Anthony | F | 12 | 652 | 1 | 5 | 11 | 0,9 | 4 | 0,3 | 9 | 6 | 0,5 | 1 | 0 |
-| M. Damsgaard | M | 11 | 625 | 1 | 0 | 11 | 1,0 | 2 | 0,2 | 3 | 4 | 0,4 | 0 | 0 |
-| D. Ouattara | M | 13 | 596 | 1 | 2 | 12 | 0,9 | 4 | 0,3 | 6 | 8 | 0,6 | 0 | 0 |
+| K. Schade | M | 13 | 869 | 3 | 0 | 17 | 1,3 | 7 | 0,5 | 9 | 16 | 1,2 | 3 | 0 |
+| M. Sangaré | M | 14 | 773 | 0 | 2 | 10 | 0,7 | 2 | 0,1 | 13 | 8 | 0,6 | 2 | 0 |
+| J. Anthony | M | 13 | 733 | 1 | 7 | 12 | 0,9 | 4 | 0,3 | 11 | 7 | 0,5 | 1 | 0 |
+| M. Damsgaard | M | 12 | 715 | 1 | 0 | 13 | 1,1 | 4 | 0,3 | 4 | 5 | 0,4 | 0 | 0 |
+| D. Ouattara | M | 14 | 662 | 1 | 2 | 14 | 1,0 | 4 | 0,3 | 6 | 9 | 0,6 | 0 | 0 |
+| Y. Yarmolyuk | M | 11 | 547 | 1 | 2 | 5 | 0,5 | 2 | 0,2 | 10 | 5 | 0,5 | 1 | 1 |
 | Jannik Schuster | D | 7 | 507 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 11 | 4 | 0,6 | 2 | 0 |
 | A. Hickey | D | 13 | 486 | 1 | 0 | 5 | 0,4 | 2 | 0,2 | 9 | 10 | 0,8 | 1 | 0 |
-| Y. Yarmolyuk | M | 10 | 473 | 1 | 2 | 5 | 0,5 | 2 | 0,2 | 10 | 2 | 0,2 | 1 | 1 |
+| S. van den Berg | D | 5 | 411 | 0 | 0 | 2 | 0,4 | 2 | 0,4 | 3 | 3 | 0,6 | 0 | 0 |
 | N. Collins | D | 6 | 403 | 2 | 0 | 7 | 1,2 | 5 | 0,8 | 5 | 6 | 1,0 | 1 | 0 |
-| M. Jensen | M | 7 | 349 | 0 | 1 | 5 | 0,7 | 1 | 0,1 | 4 | 4 | 0,6 | 0 | 0 |
-| E. Diouf | D | 8 | 336 | 0 | 0 | 5 | 0,6 | 0 | 0,0 | 7 | 5 | 0,6 | 0 | 0 |
-| S. van den Berg | D | 4 | 321 | 0 | 0 | 2 | 0,5 | 2 | 0,5 | 3 | 2 | 0,5 | 0 | 0 |
-| C. Wilson | F | 10 | 273 | 3 | 0 | 9 | 0,9 | 5 | 0,5 | 7 | 5 | 0,5 | 1 | 0 |
+| M. Jensen | M | 8 | 365 | 0 | 2 | 5 | 0,6 | 1 | 0,1 | 5 | 4 | 0,5 | 0 | 0 |
+| C. Wilson | F | 11 | 363 | 3 | 0 | 11 | 1,0 | 6 | 0,5 | 8 | 5 | 0,5 | 1 | 0 |
+| E. Diouf | D | 9 | 352 | 0 | 0 | 5 | 0,6 | 0 | 0,0 | 7 | 5 | 0,6 | 0 | 0 |
 | H. Valdimarsson | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |

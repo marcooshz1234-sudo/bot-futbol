@@ -1,10 +1,10 @@
 # ADO Den Haag – Utrecht
 **Eredivisie** · Regular Season - 14 · 29/11/2026 12:15 (hora España) · WerkTalent Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 20:35_
+_Actualizadas: 24/11 00:53_
 
 - **1X2:** 1 **2.70**  ·  X **3.60**  ·  2 **2.35**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.44**

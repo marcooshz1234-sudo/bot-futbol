@@ -1,10 +1,10 @@
 # Udinese – Fiorentina
 **Serie A** · Regular Season - 13 · 29/11/2026 12:30 (hora España) · Bluenergy Stadium - Stadio Friuli
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 20:35_
+_Actualizadas: 24/11 00:53_
 
 - **1X2:** 1 **3.20**  ·  X **3.40**  ·  2 **2.15**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.30**  ·  X2 **1.36**
@@ -13,7 +13,7 @@ _Actualizadas: 22/11 20:35_
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.33**
     - 2,5: más **1.73** · menos **2.10**
-    - 3,5: más **2.75** · menos **1.44**
+    - 3,5: más **2.62** · menos **1.50**
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
@@ -60,42 +60,42 @@ _Actualizadas: 22/11 20:35_
 ## Estadísticas de equipo
 | | Udinese (total) | Udinese en casa | Fiorentina (total) | Fiorentina fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 8 | 13 | 5 |
-| Forma (últimos 5) | EDDED | DDDDD | EVEDD | VDDVD |
-| Balance | 3V 3E 8D | 2V 1E 5D | 4V 3E 6D | 2V 0E 3D |
-| Goles a favor / partido | 1,14 | 0,88 | 1,85 | 2,00 |
-| Goles en contra / partido | 1,93 | 1,88 | 2,00 | 2,40 |
-| Goles a favor 1ª parte | 0,64 | 0,38 | 0,62 | 0,60 |
-| Goles a favor 2ª parte | 0,50 | 0,50 | 1,23 | 1,40 |
-| Goles en contra 1ª parte | 0,93 | 1,00 | 0,92 | 1,00 |
-| Goles en contra 2ª parte | 1,00 | 0,88 | 1,08 | 1,40 |
+| Partidos analizados | 14 | 8 | 14 | 6 |
+| Forma (últimos 5) | EDDED | DDDDD | DEVED | DVDDV |
+| Balance | 3V 3E 8D | 2V 1E 5D | 4V 3E 7D | 2V 0E 4D |
+| Goles a favor / partido | 1,14 | 0,88 | 1,71 | 1,67 |
+| Goles en contra / partido | 1,93 | 1,88 | 2,07 | 2,50 |
+| Goles a favor 1ª parte | 0,64 | 0,38 | 0,57 | 0,50 |
+| Goles a favor 2ª parte | 0,50 | 0,50 | 1,14 | 1,17 |
+| Goles en contra 1ª parte | 0,93 | 1,00 | 0,93 | 1,00 |
+| Goles en contra 2ª parte | 1,00 | 0,88 | 1,14 | 1,50 |
 | Más de 1,5 goles | 79% | 75% | 100% | 100% |
-| Más de 2,5 goles | 57% | 50% | 92% | 100% |
-| Más de 3,5 goles | 21% | 12% | 54% | 60% |
-| Ambos marcan | 64% | 50% | 77% | 80% |
-| Portería a cero | 14% | 12% | 8% | 0% |
-| Se queda sin marcar | 29% | 38% | 15% | 20% |
-| xG a favor | 1,23 | 1,33 | 1,65 | 1,46 |
-| xG en contra | 2,16 | 2,33 | 1,56 | 1,77 |
-| Tiros / partido | 14,1 | 15,0 | 16,4 | 12,6 |
-| Tiros a puerta / partido | 4,4 | 4,8 | 5,4 | 5,0 |
-| Tiros recibidos | 14,9 | 14,1 | 13,4 | 15,4 |
-| Tiros a puerta recibidos | 5,4 | 5,6 | 5,1 | 5,6 |
-| Posesión media % | 49 | 48 | 46 | 44 |
-| Córners a favor | 4,6 | 5,0 | 4,7 | 3,0 |
-| Córners en contra | 5,0 | 4,9 | 4,4 | 3,6 |
-| Córners a favor 1ª parte | 1,9 | 1,8 | 1,9 | 1,2 |
-| Córners a favor 2ª parte | 2,7 | 3,2 | 2,8 | 1,8 |
-| Córners totales del partido | 9,6 | 9,9 | 9,1 | 6,6 |
-| Córners totales 1ª parte | 3,9 | 3,9 | 3,9 | 2,4 |
-| Córners totales 2ª parte | 5,7 | 6,0 | 5,2 | 4,2 |
-| Más de 8,5 córners | 71% | 75% | 46% | 0% |
-| Más de 9,5 córners | 57% | 62% | 31% | 0% |
-| Más de 10,5 córners | 36% | 38% | 23% | 0% |
-| Faltas cometidas | 11,5 | 12,4 | 12,0 | 11,2 |
-| Faltas recibidas | 10,1 | 10,2 | 12,6 | 12,4 |
-| Amarillas propias | 1,7 | 2,1 | 2,1 | 2,4 |
-| Amarillas del rival | 0,6 | 0,5 | 1,9 | 2,2 |
+| Más de 2,5 goles | 57% | 50% | 93% | 100% |
+| Más de 3,5 goles | 21% | 12% | 50% | 50% |
+| Ambos marcan | 64% | 50% | 71% | 67% |
+| Portería a cero | 14% | 12% | 7% | 0% |
+| Se queda sin marcar | 29% | 38% | 21% | 33% |
+| xG a favor | 1,23 | 1,33 | 1,66 | 1,51 |
+| xG en contra | 2,16 | 2,33 | 1,57 | 1,76 |
+| Tiros / partido | 14,1 | 15,0 | 16,4 | 13,3 |
+| Tiros a puerta / partido | 4,4 | 4,8 | 5,6 | 5,5 |
+| Tiros recibidos | 14,9 | 14,1 | 13,4 | 15,0 |
+| Tiros a puerta recibidos | 5,4 | 5,6 | 5,1 | 5,5 |
+| Posesión media % | 49 | 48 | 47 | 46 |
+| Córners a favor | 4,6 | 5,0 | 4,9 | 3,7 |
+| Córners en contra | 5,0 | 4,9 | 4,3 | 3,5 |
+| Córners a favor 1ª parte | 1,9 | 1,8 | 2,1 | 1,7 |
+| Córners a favor 2ª parte | 2,7 | 3,2 | 2,8 | 2,0 |
+| Córners totales del partido | 9,6 | 9,9 | 9,1 | 7,2 |
+| Córners totales 1ª parte | 3,9 | 3,9 | 4,0 | 2,8 |
+| Córners totales 2ª parte | 5,7 | 6,0 | 5,1 | 4,3 |
+| Más de 8,5 córners | 71% | 75% | 50% | 17% |
+| Más de 9,5 córners | 57% | 62% | 36% | 17% |
+| Más de 10,5 córners | 36% | 38% | 21% | 0% |
+| Faltas cometidas | 11,5 | 12,4 | 12,1 | 11,5 |
+| Faltas recibidas | 10,1 | 10,2 | 12,3 | 11,7 |
+| Amarillas propias | 1,7 | 2,1 | 2,0 | 2,2 |
+| Amarillas del rival | 0,6 | 0,5 | 1,8 | 1,8 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -103,10 +103,10 @@ _Actualizadas: 22/11 20:35_
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 4 | 4 | 2 | 2 | 3 |
 | 16-30' | 2 | 1 | 4 | 2 | 5 | 4 |
-| 31-45' | 6 | 8 | 8 | 4 | 5 | 3 |
-| 46-60' | 4 | 4 | 2 | 7 | 4 | 5 |
+| 31-45' | 6 | 8 | 8 | 4 | 6 | 3 |
+| 46-60' | 4 | 4 | 2 | 7 | 6 | 5 |
 | 61-75' | 1 | 6 | 2 | 5 | 5 | 7 |
-| 76-90' | 2 | 4 | 5 | 4 | 5 | 5 |
+| 76-90' | 2 | 4 | 5 | 4 | 5 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -158,33 +158,33 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Fiorentina
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | Serie A | Monza 3-0 Fiorentina | fuera | 7-3 | 17 (8) - 13 (5) | 1-0 |
 | 2026-11-08 | Serie A | Fiorentina 2-2 Juventus | casa | 5-12 | 22 (6) - 18 (6) | 1-3 |
 | 2026-11-02 | Serie A | Sassuolo 2-4 Fiorentina | fuera | 3-5 | 15 (6) - 7 (2) | 3-2 |
 | 2026-10-29 | Serie A | Fiorentina 2-2 Atalanta | casa | 8-2 | 26 (4) - 10 (5) | 3-2 |
 | 2026-10-25 | Serie A | Inter 2-1 Fiorentina | fuera | 1-6 | 7 (2) - 33 (11) | 3-0 |
 | 2026-10-18 | Serie A | Fiorentina 1-3 Como | casa | 11-5 | 19 (7) - 16 (8) | 2-3 |
-| 2026-10-10 | Serie A | Genoa 2-1 Fiorentina | fuera | 4-3 | 13 (3) - 10 (4) | 3-5 |
 
 ## Jugadores de Fiorentina
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| David de Gea | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 1 | 0 |
-| R. Drăgușin | D | 13 | 1122 | 0 | 2 | 6 | 0,5 | 1 | 0,1 | 14 | 9 | 0,7 | 2 | 0 |
-| C. Ndour | M | 13 | 1107 | 1 | 2 | 17 | 1,3 | 5 | 0,4 | 15 | 4 | 0,3 | 1 | 0 |
-| Franco Mastantuono | M | 13 | 971 | 4 | 0 | 39 | 3,0 | 14 | 1,1 | 12 | 28 | 2,2 | 3 | 0 |
-| Mateo Pellegrino | F | 12 | 885 | 5 | 0 | 20 | 1,7 | 10 | 0,8 | 11 | 17 | 1,4 | 2 | 0 |
+| David de Gea | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 1 | 0 |
+| R. Drăgușin | D | 14 | 1212 | 0 | 2 | 7 | 0,5 | 1 | 0,1 | 16 | 9 | 0,6 | 3 | 0 |
+| C. Ndour | M | 14 | 1197 | 1 | 2 | 17 | 1,2 | 5 | 0,4 | 17 | 4 | 0,3 | 1 | 0 |
+| Franco Mastantuono | M | 14 | 1038 | 4 | 0 | 41 | 2,9 | 15 | 1,1 | 13 | 28 | 2,0 | 3 | 0 |
+| Mateo Pellegrino | F | 13 | 975 | 5 | 0 | 22 | 1,7 | 11 | 0,8 | 13 | 19 | 1,5 | 2 | 0 |
+| Álex Jiménez | D | 12 | 894 | 2 | 3 | 8 | 0,7 | 3 | 0,2 | 4 | 10 | 0,8 | 1 | 0 |
 | N. Fagioli | M | 12 | 821 | 0 | 2 | 8 | 0,7 | 4 | 0,3 | 7 | 11 | 0,9 | 1 | 0 |
-| Álex Jiménez | D | 11 | 804 | 2 | 3 | 7 | 0,6 | 2 | 0,2 | 3 | 8 | 0,7 | 1 | 0 |
-| Viery | D | 11 | 717 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 11 | 3 | 0,3 | 3 | 0 |
-| A. Njie | M | 10 | 705 | 3 | 3 | 17 | 1,7 | 7 | 0,7 | 11 | 14 | 1,4 | 2 | 0 |
-| Valde | D | 10 | 604 | 1 | 0 | 4 | 0,4 | 2 | 0,2 | 9 | 7 | 0,7 | 2 | 0 |
-| João Mário | D | 9 | 594 | 1 | 1 | 9 | 1,0 | 3 | 0,3 | 6 | 13 | 1,4 | 0 | 0 |
+| A. Njie | F | 11 | 750 | 3 | 3 | 19 | 1,7 | 9 | 0,8 | 12 | 14 | 1,3 | 2 | 0 |
+| Viery | D | 12 | 744 | 0 | 0 | 4 | 0,3 | 1 | 0,1 | 11 | 3 | 0,2 | 3 | 0 |
+| João Mário | D | 10 | 684 | 1 | 1 | 10 | 1,0 | 4 | 0,4 | 7 | 13 | 1,3 | 0 | 0 |
+| Valde | D | 11 | 628 | 1 | 0 | 4 | 0,4 | 2 | 0,2 | 9 | 8 | 0,7 | 2 | 0 |
 | M. Brescianini | M | 11 | 580 | 0 | 2 | 5 | 0,5 | 3 | 0,3 | 5 | 5 | 0,5 | 0 | 0 |
-| C. Inao OulaÃ¯ | M | 9 | 427 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 11 | 13 | 1,4 | 3 | 0 |
+| C. Inao OulaÃ¯ | M | 10 | 517 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 12 | 14 | 1,4 | 3 | 0 |
+| L. Ranieri | D | 6 | 462 | 1 | 0 | 4 | 0,7 | 1 | 0,2 | 6 | 2 | 0,3 | 2 | 0 |
+| W. Gnonto | M | 11 | 416 | 1 | 0 | 9 | 0,8 | 4 | 0,4 | 11 | 4 | 0,4 | 2 | 0 |
 | Arthur Atta | M | 6 | 400 | 0 | 0 | 9 | 1,5 | 3 | 0,5 | 1 | 2 | 0,3 | 0 | 0 |
-| Luca Ranieri | D | 5 | 399 | 1 | 0 | 4 | 0,8 | 1 | 0,2 | 6 | 2 | 0,4 | 2 | 0 |
-| W. Gnonto | F | 10 | 350 | 1 | 0 | 7 | 0,7 | 3 | 0,3 | 10 | 3 | 0,3 | 2 | 0 |
 | M. Pongračić | D | 7 | 311 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 9 | 2 | 0,3 | 0 | 0 |
-| Pote | M | 9 | 226 | 1 | 2 | 6 | 0,7 | 2 | 0,2 | 4 | 1 | 0,1 | 0 | 0 |
-| Beto | F | 10 | 206 | 0 | 1 | 9 | 0,9 | 1 | 0,1 | 5 | 1 | 0,1 | 0 | 0 |
+| Pote | M | 10 | 271 | 1 | 2 | 7 | 0,7 | 2 | 0,2 | 4 | 2 | 0,2 | 0 | 0 |
+| Beto | F | 11 | 229 | 0 | 1 | 12 | 1,1 | 1 | 0,1 | 6 | 1 | 0,1 | 0 | 0 |
 | Dodô | D | 5 | 181 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 2 | 0,4 | 1 | 0 |

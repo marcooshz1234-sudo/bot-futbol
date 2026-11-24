@@ -1,10 +1,10 @@
 # Kairat Almaty – Mjallby AIF
 **Conference League** · League Stage - 4 · 26/11/2026 16:30 (hora España) · Almaty Central Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 23/11 08:34._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 20:34_
+_Actualizadas: 24/11 00:52_
 
 - **1X2:** 1 **2.10**  ·  X **3.40**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.28**  ·  X2 **1.62**
@@ -17,9 +17,9 @@ _Actualizadas: 22/11 20:34_
     - 4,5: más **6.50** · menos **1.11**
     - 5,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.40** · menos **2.75**
+    - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
-    - 2,5: más **8.00** · menos **1.08**
+    - 2,5: más **7.00** · menos **1.10**
 - **Goles del local:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**
