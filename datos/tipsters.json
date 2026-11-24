@@ -4186,5 +4186,25 @@
    "prob_pinnacle": 0.488,
    "valor_pinnacle": -0.365
   }
+ },
+ {
+  "tipster": "OC TIPSTER",
+  "fuente": "-1002538677212/5173",
+  "dia": "2026-11-24",
+  "local": "RB Leipzig",
+  "visitante": "Lens",
+  "partido_id": 1635713,
+  "texto": "Gana el RB Leipzig",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.7,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "cuota_bet365": 1.33,
+   "prob_cuota": 0.588
+  }
  }
 ]

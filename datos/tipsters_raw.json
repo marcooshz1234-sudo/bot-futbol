@@ -8480,6 +8480,13 @@
    "texto": "",
    "foto": false,
    "visto": "2026-11-24T20:04"
+  },
+  {
+   "id": "-1002685171001/11089",
+   "fecha": "2026-11-24T20:12",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-24T20:14"
   }
  ],
  "TipsPro🤙": [
@@ -19352,6 +19359,22 @@
    "foto": true,
    "visto": "2026-11-24T17:58",
    "foto_ruta": "datos/tipsters_fotos/OC_TIPSTER_5172.jpg"
+  },
+  {
+   "id": "-1002538677212/5173",
+   "fecha": "2026-11-24T20:07",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-24T20:14",
+   "foto_ruta": "datos/tipsters_fotos/OC_TIPSTER_5173.jpg"
+  },
+  {
+   "id": "-1002538677212/5174",
+   "fecha": "2026-11-24T20:08",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-24T20:14",
+   "foto_ruta": "datos/tipsters_fotos/OC_TIPSTER_5174.jpg"
   }
  ],
  "ApuestasCobrich - Canal Gratuito": [

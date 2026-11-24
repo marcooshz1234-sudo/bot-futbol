@@ -502,295 +502,6 @@
   "mis|2026-11-05-marcos-crear-goles-120|1636250|Home Player Shots On Target Total|Camilo Duran - 1"
  ],
  "alineaciones": {
-  "1550198": {
-   "hora": "2026-11-22T20:15:10.234499+01:00",
-   "xi": [
-    "M. Carnesecchi",
-    "R. Bellanova",
-    "G. Scalvini",
-    "S. Kolašinac",
-    "D. Zappacosta",
-    "E. Elmas",
-    "F. Kessié",
-    "Éderson",
-    "C. De Ketelaere",
-    "N. Zalewski",
-    "N. Krstović",
-    "Josep Martínez",
-    "B. Pavard",
-    "A. Bastoni",
-    "Carlos Augusto",
-    "D. Spence",
-    "N. Barella",
-    "H. Çalhanoğlu",
-    "H. Mkhitaryan",
-    "F. Dimarco",
-    "F. Esposito",
-    "M. Thuram"
-   ],
-   "banquillo": [
-    "K. Sulemana",
-    "G. Gaetano",
-    "L. Bernasconi",
-    "J. Idele",
-    "T. Kristensen",
-    "R. ObriÄ",
-    "Mario Pasalic",
-    "G. Raspadori",
-    "J. Rowe",
-    "L. Samardžić",
-    "G. Scamacca",
-    "M. Sonzogni",
-    "M. Sportiello",
-    "P. Sučić",
-    "J. Stones",
-    "A. Stanković",
-    "I. Provedel",
-    "Lautaro Martínez",
-    "Luis Henrique",
-    "M. Lavelli",
-    "C. Jones",
-    "A. Diouf",
-    "R. Di Gennaro",
-    "Y. Bisseck",
-    "M. Akanji"
-   ],
-   "equipos": {
-    "499": [
-     {
-      "n": "M. Carnesecchi",
-      "pos": "G"
-     },
-     {
-      "n": "R. Bellanova",
-      "pos": "D"
-     },
-     {
-      "n": "G. Scalvini",
-      "pos": "D"
-     },
-     {
-      "n": "S. Kolašinac",
-      "pos": "D"
-     },
-     {
-      "n": "D. Zappacosta",
-      "pos": "D"
-     },
-     {
-      "n": "E. Elmas",
-      "pos": "M"
-     },
-     {
-      "n": "F. Kessié",
-      "pos": "M"
-     },
-     {
-      "n": "Éderson",
-      "pos": "M"
-     },
-     {
-      "n": "C. De Ketelaere",
-      "pos": "M"
-     },
-     {
-      "n": "N. Zalewski",
-      "pos": "M"
-     },
-     {
-      "n": "N. Krstović",
-      "pos": "F"
-     }
-    ],
-    "505": [
-     {
-      "n": "Josep Martínez",
-      "pos": "G"
-     },
-     {
-      "n": "B. Pavard",
-      "pos": "D"
-     },
-     {
-      "n": "A. Bastoni",
-      "pos": "D"
-     },
-     {
-      "n": "Carlos Augusto",
-      "pos": "D"
-     },
-     {
-      "n": "D. Spence",
-      "pos": "M"
-     },
-     {
-      "n": "N. Barella",
-      "pos": "M"
-     },
-     {
-      "n": "H. Çalhanoğlu",
-      "pos": "M"
-     },
-     {
-      "n": "H. Mkhitaryan",
-      "pos": "M"
-     },
-     {
-      "n": "F. Dimarco",
-      "pos": "M"
-     },
-     {
-      "n": "F. Esposito",
-      "pos": "F"
-     },
-     {
-      "n": "M. Thuram",
-      "pos": "F"
-     }
-    ]
-   }
-  },
-  "1552822": {
-   "hora": "2026-11-22T20:15:10.234499+01:00",
-   "xi": [
-    "J. de Lange",
-    "T. Weah",
-    "C. Egan-Riley",
-    "N. Aguerd",
-    "U. Garcia",
-    "G. Kondogbia",
-    "T. Nnadi",
-    "A. Harit",
-    "H. Abdelli",
-    "Igor Paixão",
-    "A. Gouiri",
-    "N. Kocik",
-    "R. Bamba",
-    "S. Yohou",
-    "H. Voyer",
-    "L. Bretelle",
-    "L. Buadés",
-    "D. Traoré",
-    "A. Rabillard",
-    "L. Calodat",
-    "L. Mafouta",
-    "D. Guèye"
-   ],
-   "banquillo": [
-    "A. Gomes",
-    "K. Bezahaf",
-    "K. Abdallah",
-    "Nouhoum Kamissoko",
-    "B. Meité",
-    "E. Mbondo",
-    "N. Maupay",
-    "T. Mmadi",
-    "T. Vermot",
-    "Raúl Torrente",
-    "A. Lauray",
-    "Y. Larouci",
-    "Adnane Kharroubi",
-    "E. Hatfout",
-    "W. Harhouz",
-    "E. Colas",
-    "N. Boissé",
-    "J. Vercruysse"
-   ],
-   "equipos": {
-    "81": [
-     {
-      "n": "J. de Lange",
-      "pos": "G"
-     },
-     {
-      "n": "T. Weah",
-      "pos": "D"
-     },
-     {
-      "n": "C. Egan-Riley",
-      "pos": "D"
-     },
-     {
-      "n": "N. Aguerd",
-      "pos": "D"
-     },
-     {
-      "n": "U. Garcia",
-      "pos": "D"
-     },
-     {
-      "n": "G. Kondogbia",
-      "pos": "M"
-     },
-     {
-      "n": "T. Nnadi",
-      "pos": "M"
-     },
-     {
-      "n": "A. Harit",
-      "pos": "M"
-     },
-     {
-      "n": "H. Abdelli",
-      "pos": "M"
-     },
-     {
-      "n": "Igor Paixão",
-      "pos": "M"
-     },
-     {
-      "n": "A. Gouiri",
-      "pos": "F"
-     }
-    ],
-    "1298": [
-     {
-      "n": "N. Kocik",
-      "pos": "G"
-     },
-     {
-      "n": "R. Bamba",
-      "pos": "D"
-     },
-     {
-      "n": "S. Yohou",
-      "pos": "D"
-     },
-     {
-      "n": "H. Voyer",
-      "pos": "D"
-     },
-     {
-      "n": "L. Bretelle",
-      "pos": "M"
-     },
-     {
-      "n": "L. Buadés",
-      "pos": "M"
-     },
-     {
-      "n": "D. Traoré",
-      "pos": "M"
-     },
-     {
-      "n": "A. Rabillard",
-      "pos": "M"
-     },
-     {
-      "n": "L. Calodat",
-      "pos": "M"
-     },
-     {
-      "n": "L. Mafouta",
-      "pos": "F"
-     },
-     {
-      "n": "D. Guèye",
-      "pos": "F"
-     }
-    ]
-   }
-  },
   "1570456": {
    "hora": "2026-11-22T20:37:19.543625+01:00",
    "xi": [
@@ -1797,43 +1508,43 @@
    }
   },
   "1635663": {
-   "hora": "2026-11-24T20:04:22.505058+01:00",
+   "hora": "2026-11-24T20:15:43.698674+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635692": {
-   "hora": "2026-11-24T20:04:22.505058+01:00",
+   "hora": "2026-11-24T20:15:43.698674+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635715": {
-   "hora": "2026-11-24T20:04:22.505058+01:00",
+   "hora": "2026-11-24T20:15:43.698674+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635611": {
-   "hora": "2026-11-24T20:04:22.505058+01:00",
+   "hora": "2026-11-24T20:15:43.698674+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635713": {
-   "hora": "2026-11-24T20:04:22.505058+01:00",
+   "hora": "2026-11-24T20:15:43.698674+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635731": {
-   "hora": "2026-11-24T20:04:22.505058+01:00",
+   "hora": "2026-11-24T20:15:43.698674+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635649": {
-   "hora": "2026-11-24T20:04:22.505058+01:00",
+   "hora": "2026-11-24T20:15:43.698674+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}

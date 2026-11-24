@@ -133,6 +133,15 @@
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.009
   },
+  "OC TIPSTER": {
+   "n": 4,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 1.65,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.377
+  },
   "ICARDI | PICKS": {
    "n": 4,
    "verdes": 0,
@@ -148,15 +157,6 @@
    "unidades": 0.75,
    "resueltos_con_cuota": 3,
    "prob_cuota": 1.58
-  },
-  "OC TIPSTER": {
-   "n": 3,
-   "verdes": 1,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 1.65,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.377
   },
   "ApuestasCobrich - Canal Gratuito": {
    "n": 3,
@@ -197,7 +197,7 @@
  },
  "mercado": {
   "Match Winner Home": {
-   "n": 28,
+   "n": 29,
    "verdes": 15,
    "rojos": 7,
    "nulos": 0,
@@ -1047,11 +1047,18 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "RB Leipzig": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
   "sin razón": {
-   "n": 94,
+   "n": 95,
    "verdes": 50,
    "rojos": 13,
    "nulos": 0,
@@ -1125,7 +1132,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 66,
+   "n": 67,
    "verdes": 28,
    "rojos": 16,
    "nulos": 0,
@@ -1188,7 +1195,7 @@
    "prob_cuota": 28.296
   },
   "UEFA Champions League": {
-   "n": 12,
+   "n": 13,
    "verdes": 0,
    "rojos": 0,
    "nulos": 0,
@@ -1269,7 +1276,7 @@
    "prob_cuota": 21.164
   },
   "local": {
-   "n": 48,
+   "n": 49,
    "verdes": 23,
    "rojos": 13,
    "nulos": 0,
@@ -1289,7 +1296,7 @@
  },
  "por_que": {
   "—": {
-   "n": 83,
+   "n": 84,
    "verdes": 27,
    "rojos": 18,
    "nulos": 0,
@@ -1363,7 +1370,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 153,
+   "n": 154,
    "verdes": 71,
    "rojos": 28,
    "nulos": 0,
