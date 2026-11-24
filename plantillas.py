@@ -410,7 +410,7 @@ def cierre(dia, tipo, lista_=False):
 POSTS_LISTA = ("ganadores", "combi-500")
 # 05/11 (Marcos): nada de «@combilocas» en los textos: en Telegram ese @ lleva a OTRO canal
 MUY_LARGA = 10   # picks a partir de los que se dice «coged los que más os gusten»
-CIERRE_TELEGRAM = "🔔 Activad las notificaciones, que vienen más combis 👀"
+CIERRE_TELEGRAM = "🔔 Activad las notificaciones 👀"   # 24/11: en Telegram ya no hay combis
 
 
 def cuota_crear(p):

@@ -509,5 +509,56 @@
     "nota": "24/11 01:26 Marcos borró el 602 (contaba el Monza borrado): «lo puede volver a subir»",
     "enviado": "2026-11-24T01:28",
     "mensaje_id": 603
+  },
+  {
+    "id": "2026-11-24-pick-claude-1",
+    "fecha": "2026-11-24T12:30",
+    "origen": "claude",
+    "solo_en": [
+      "telegram"
+    ],
+    "cuotas": [
+      1.62
+    ],
+    "partido_id": 1635611,
+    "sel": [
+      "1635611|Away Player Shots|Serhou Guirassy - 2"
+    ],
+    "nota": "Claude 24/11 01:50 · Marcos: «poco me parece lo de hoy». Sustituye a picks de jugadores que salen mucho de suplentes (Fabio Silva, Mijnans) o repetidos (Geertruida)",
+    "texto": "Vamos con otro pick 🍀\n\n⭐ Arsenal – Borussia Dortmund · hoy 21:00\n\n🍀 Guirassy (Dortmund): 2+ remates @1,62\n\n👨‍💻 De titular ha hecho 2 o más remates en 5 de sus últimos 6 partidos (3-5-3-1-2-2)\n👨‍💻 Saca 2,76 remates por cada 90 minutos\n👨‍💻 Es el delantero centro fijo del Dortmund\n\n🧠 Stake 2/10\n\n🔞 Juega con cabeza"
+  },
+  {
+    "id": "2026-11-24-pick-claude-2",
+    "fecha": "2026-11-24T16:30",
+    "origen": "claude",
+    "solo_en": [
+      "telegram"
+    ],
+    "cuotas": [
+      1.53
+    ],
+    "partido_id": 1635715,
+    "sel": [
+      "1635715|Player Fouls Committed|Armando Obispo - 1"
+    ],
+    "nota": "Claude 24/11 01:50 · Marcos: «poco me parece lo de hoy». Sustituye a picks de jugadores que salen mucho de suplentes (Fabio Silva, Mijnans) o repetidos (Geertruida)",
+    "texto": "Seguimos con otro que nos gusta 🔥\n\n⭐ Real Madrid – PSV · hoy 21:00\n\n🍀 Armando Obispo (PSV): comete 1+ falta @1,53\n\n👨‍💻 Ha hecho al menos una falta en sus últimos 6 partidos de titular (1-2-2-2-4-3)\n👨‍💻 Hace 2,37 faltas por cada 90 minutos\n👨‍💻 Hoy le toca defender contra los delanteros del Madrid\n\n🧠 Stake 2/10\n\n🔞 Juega con cabeza"
+  },
+  {
+    "id": "2026-11-24-pick-claude-3",
+    "fecha": "2026-11-24T19:30",
+    "origen": "claude",
+    "solo_en": [
+      "telegram"
+    ],
+    "cuotas": [
+      1.4
+    ],
+    "partido_id": 1635731,
+    "sel": [
+      "1635731|Player Fouls Committed|Sandro Cruz - 1"
+    ],
+    "nota": "Claude 24/11 01:50 · Marcos: «poco me parece lo de hoy». Sustituye a picks de jugadores que salen mucho de suplentes (Fabio Silva, Mijnans) o repetidos (Geertruida)",
+    "texto": "Pick para la noche 👇\n\n⭐ Slovan Bratislava – Betis · hoy 21:00\n\n🍀 Sandro Cruz (Slovan): comete 1+ falta @1,40\n\n👨‍💻 Ha hecho al menos una falta en 5 de sus últimos 6 partidos de titular\n👨‍💻 Hace 1,15 faltas por cada 90 minutos\n👨‍💻 Le toca defender a los extremos del Betis, que encaran mucho\n\n🧠 Stake 2/10\n\n🔞 Juega con cabeza"
   }
 ]
