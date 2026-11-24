@@ -112,23 +112,24 @@ assert.ok(!vm.runInContext('vBot()',context).includes('start=retry_'));
 {
   const pa = (p, t, h) => ({partido:p, texto:t, cuota:1.5, p:0.8, hora:h, liga:'LaLiga', dato:'x'});
   vm.runInContext(`D.combis_semana = {rango:['2026-11-22','2026-11-25'], combis:[], equipos:[], destacadas:${JSON.stringify([
-    {clave:'larga', titulo:'🚀 La larga', expl:'', cuota:90, patas:[pa('Osasuna–Malaga','Bretones falta','2026-11-22T18:30')]},
-    {clave:'segura', titulo:'🛡️ La segura', expl:'', cuota:2, patas:[pa('Getafe–Atletico Madrid','Getafe marca','2026-11-22T21:00')]},
+    {clave:'todo-2026-11-23', titulo:'📅 Todo el lunes', expl:'', cuota:90, patas:[pa('Osasuna–Malaga','Bretones falta','2026-11-23T18:30')]},
+    {clave:'dia-2026-11-22-b', titulo:'📅 La del domingo · B', expl:'', cuota:32, patas:[pa('Getafe–Atletico Madrid','Getafe marca','2026-11-22T21:00')]},
     {clave:'dia-2026-11-22-a', titulo:'📅 La del domingo · A', expl:'', cuota:33, patas:[pa('Hull City–Brighton','Belloumi falta','2026-11-22T15:00')]},
     {clave:'todo-2026-11-22', titulo:'📅 Todo el domingo', expl:'', cuota:200, patas:[pa('Hull City–Brighton','Belloumi falta','2026-11-22T15:00')]},
   ])}}; sub.combis='destacadas'; buscaCombi='';`, context);
   const l = vm.runInContext('combisLista()', context);
   const i = s => l.indexOf(s);
-  assert.ok(i('📅 Por día') < i('🎯 Por tipo') && i('🎯 Por tipo') < i('🚀 Largas'));      // bloques en orden fijo
+  // 24/11 (Marcos: «si no son así largas no me gustan, y no mezcles tantos días»): solo el bloque del día
+  assert.ok(i('📅 Por día') > -1 && i('🎯 Por tipo') === -1 && i('🚀 Largas') === -1);
   assert.ok(i('Todo el domingo') < i('La del domingo · A'));                                 // dentro del día: Todo, A, B
   assert.ok(i('Domingo 22') > -1);
   assert.ok(!l.includes('Bretones falta'));                                                  // plegadas al entrar
   vm.runInContext(`buscaCombi='osasuna'`, context);
   const b = vm.runInContext('combisLista()', context);
-  assert.ok(b.includes('Bretones falta') && !b.includes('La segura'));                       // buscar abre lo que encuentra
+  assert.ok(b.includes('Bretones falta') && !b.includes('La del domingo · B'));              // buscar abre lo que encuentra
   vm.runInContext(`buscaCombi='atlético'`, context);                                         // sin tildes
   assert.ok(vm.runInContext('combisLista()', context).includes('Getafe marca'));
-  console.log('Combis: por día → por tipo → largas, plegadas y con buscador.');
+  console.log('Combis: solo las del día, plegadas y con buscador.');
 }
 
 // 23/11 (Marcos: «en picks quiero los de todos los partidos y siempre minimizado; si le doy, se despliega»)

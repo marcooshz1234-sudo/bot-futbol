@@ -123,10 +123,15 @@ class LigasYDestacadas(unittest.TestCase):
             p["cuotas_bet365"]["Total - Home"] = [["Over 0.5", "1.45"]]
         with mock.patch.object(CS, "equipos_partido", lambda pid: {"10", "20"}), mock.patch.object(CS, "_teams", lambda pid: {}):
             ds = CS.generar_destacadas("2026-11-21", "2026-11-23", partidos=ps, h=h)
-        todas = next(c for c in ds if c["clave"] == "todas")   # 22/11: delante van las del día («Todo el…», A y B)
-        self.assertTrue(ds[0]["clave"].startswith("todo-"))
-        self.assertGreater(len({x["liga"] for x in todas["patas"]}), 1)          # mezcla ligas
-        sels = [x["sel"] for c in ds if c["clave"] != "ganan-larga" and not c["clave"].startswith("todo-") for x in c["patas"]]
+        # 24/11 (Marcos: «si no son así largas no me gustan, y no mezcles tantos días»): todas de UN día y de 6+ patas
+        self.assertTrue(ds and ds[0]["clave"].startswith("todo-"))
+        for c in ds:
+            self.assertRegex(c["clave"], r"^(todo|dia|ganan)-\d{4}-\d{2}-\d{2}")
+            self.assertEqual(len({x["hora"][:10] for x in c["patas"]}), 1)       # un solo día
+            self.assertGreaterEqual(len(c["patas"]), CS.MIN_PATAS_LARGA)
+        todo = ds[0]
+        self.assertGreater(len({x["liga"] for x in todo["patas"]}), 1)           # mezcla ligas
+        sels = [x["sel"] for c in ds if not c["clave"].startswith(("todo-", "ganan-")) for x in c["patas"]]
         self.assertEqual(len(sels), len(set(sels)))                                # ningún pick en dos destacadas
         for c in ds:
             ids = [x["sel"].split("|")[0] for x in c["patas"]]

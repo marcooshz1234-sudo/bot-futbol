@@ -26,6 +26,7 @@ SALIDA = DATOS / "combis_semana.json"
 CUOTA_MIN, CUOTA_MAX, OBJETIVO = 1.38, 1.80, 1.50   # 24/11: hasta 1,80 (máximo de pata)
 MAX_PATAS = 7
 TODO_DIA_MAX = 14   # 22/11: «Todo el día», como mucho 14 patas
+MIN_PATAS_LARGA = 6   # 24/11 (Marcos: «si no son así largas no me gustan»): menos de 6 patas, no sale
 # 20/11 (Marcos: «solo de las 5 grandes ligas»): las 5 grandes, las europeas, sus copas y las selecciones. Solo si en
 # esos días no hay nada de eso, se tira de las demás ligas que sigue el bot (nunca femenino).
 GRANDES5 = ("LaLiga", "Premier League", "Serie A", "Bundesliga", "Ligue 1")
@@ -547,8 +548,15 @@ def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_de
                  for x in patas_jugador(p, h) + patas_equipo(p) + patas_ganador(p) if x and x["sel"] not in set(fuera)]
         if cands:
             pool.append((p, cands))
-    tipos = list(DESTACADAS)
+    # 24/11 (Marcos: «si no son así largas no me gustan, y no mezcles tantos días»): todas las destacadas son de UN
+    # día y largas: «Todo el día» (una pata de cada partido), A y B (@30-40) y «Quién gana» del día (6+ favoritos).
+    # Fuera las cortas y las que mezclaban días (la segura, faltas, goles, córners…).
     dias = sorted({_dia(p) for p, _ in pool})
+    tipos = []
+    for d in reversed(dias):
+        wd = datetime.fromisoformat(d).weekday()
+        tipos.insert(0, (f"ganan-{d}", f"🏆 Quién gana el {DIAS_ES[wd]}", f"Los favoritos del {DIAS_ES[wd]} {int(d[8:])}, de @1,20 a @1,80",
+                         lambda x, d=d: x["hora"][:10] == d and x["sel"].split("|")[1] == "Match Winner", 12, "p"))
     # 22/11 (Marcos: «quiero también una del día mezclando todos los partidos que pueda, o que haga dos diferentes»;
     # «esas dos, cuotas de 30-40 con patas de 1,4-1,6»): por día, las primeras: «Todo el domingo» (una pata de cada
     # partido, hasta TODO_DIA_MAX; no gasta selecciones) y dos más, A y B, de @30-40 con patas de @1,40-1,60 y sin
@@ -577,7 +585,7 @@ def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_de
                                                   -max((x[orden] for x in pc[1]), default=0)))
         for p, cands in orden_pool:
             gan = clave.startswith("ganan")
-            libre = clave == "ganan-larga" or clave.startswith("todo-")
+            libre = clave.startswith("ganan") or clave.startswith("todo-")
             cs = sorted([x for x in cands if filtro(x) and (libre or x["sel"] not in usadas) and gan == bool(x.get("ganador"))],
                         key=lambda x: -x[orden])
             if clave.startswith("todo-") and cs:
@@ -589,7 +597,7 @@ def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_de
             elif cs:
                 mejores.append(cs[0])
         patas = sorted(sorted(mejores, key=lambda x: -x[orden])[:n], key=lambda x: x["hora"])
-        if len(patas) < min(3, n):
+        if len(patas) < MIN_PATAS_LARGA:
             continue
         if not clave.startswith("todo-"):
             usadas |= {x["sel"] for x in patas}
@@ -760,7 +768,12 @@ def refrescar(ahora=None, cada=timedelta(minutes=30)):
         return g
     rango = (ahora.strftime("%Y-%m-%d"), (ahora + timedelta(days=3)).strftime("%Y-%m-%d"))
     fuera, h = ya_subidas(ahora, g), historial()
-    cs = generar(*rango, h=h, fuera=fuera, empieza_despues=ahora + timedelta(minutes=30))
+    cs = []   # 24/11: una combi por liga y DÍA (no mezclar días), y solo largas
+    for i in range(4):
+        d = (ahora + timedelta(days=i)).strftime("%Y-%m-%d")
+        for c in generar(d, d, h=h, fuera=fuera, empieza_despues=ahora + timedelta(minutes=30)):
+            if len(c["patas"]) >= MIN_PATAS_LARGA - 1:
+                cs.append(dict(c, dia=d))
     eqs = generar_equipos(*rango, h=h, fuera=fuera, empieza_despues=ahora + timedelta(minutes=30))
     des = generar_destacadas(*rango, h=h, fuera=fuera, empieza_despues=ahora + timedelta(minutes=30))
     d_ = leer(DATOS / "resumen_proximos.json", []) or []
