@@ -61,9 +61,21 @@
    "post": "2026-11-23-cuotaza-1608377-181ed6"
   }
  },
- "top": [],
+ "top": [
+  {
+   "local": "Arsenal",
+   "visitante": "Borussia Dortmund",
+   "inicio": "2026-11-24T21:00",
+   "texto": "Borussia Dortmund marca",
+   "cuota": 1.73,
+   "justa": 1.75,
+   "ev": -0.009,
+   "fuente": "las otras casas",
+   "edad_h": 0.5
+  }
+ ],
  "ultima": {
-  "hora": "2026-11-24T00:52",
+  "hora": "2026-11-24T01:22",
   "revisadas": 0,
   "mejor": null
  },
