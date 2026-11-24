@@ -3479,14 +3479,14 @@
   },
   "2026-11-24": {
     "dia": "2026-11-24",
-    "total": 9,
+    "total": 10,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 9,
+      "pendiente": 10,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 9
+      "sin_resolver": 10
     },
     "combis": [
       {
@@ -3542,13 +3542,19 @@
         "titulo": "💶 RETO: DE 1€ A 736€ 💶",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-24-loca-th-0900-tiros",
+        "titulo": "🎯 COMBI DE TIROS · REAL MADRID vs PSV EINDHOVEN 🎯",
+        "estado": "pendiente",
+        "cuota": 4.81
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 44
+      "total": 45
     },
-    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x63,23 🎰 · 63,23 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 4,40 · pendiente\n⏳ 🧨 COMBI x38,99 🧨 · 38,99 · pendiente\n⏳ 🕵️ LA DE LOS TAPADOS 🕵️ · 21,42 · pendiente\n⏳ 🧨 COMBI x224 🧨 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 💶 RETO: DE 1€ A 736€ 💶 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 9 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x63,23 🎰 · 63,23 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 4,40 · pendiente\n⏳ 🧨 COMBI x38,99 🧨 · 38,99 · pendiente\n⏳ 🕵️ LA DE LOS TAPADOS 🕵️ · 21,42 · pendiente\n⏳ 🧨 COMBI x224 🧨 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 💶 RETO: DE 1€ A 736€ 💶 · pendiente\n⏳ 🎯 COMBI DE TIROS · REAL MADRID vs PSV EINDHOVEN 🎯 · 4,81 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 10 sin resolver"
   }
 }
