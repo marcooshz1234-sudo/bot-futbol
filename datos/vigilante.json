@@ -140,7 +140,9 @@
   "prensa-1635611-30a49b9e": "2026-11-24T04:46",
   "repe-2026-11-24-1635713|Player Fouls Committed|Florian Thauvin - 1": "2026-11-24T11:24",
   "prensa-1635625-1ce3cceb": "2026-11-24T11:24",
-  "redes-2026-11-24-lista-europa-1-threads-instagram": "2026-11-24T12:25"
+  "redes-2026-11-24-lista-europa-1-threads-instagram": "2026-11-24T12:25",
+  "redes-2026-11-24-pick-seguro-5-threads-instagram": "2026-11-24T15:30",
+  "redes-2026-11-24-lista-europa-2-threads-instagram": "2026-11-24T15:30"
  },
  "abiertos": [
   {
@@ -160,6 +162,14 @@
    "t": "⏰ No ha salido en threads ni instagram (12:00): 🏆⚽ CHAMPIONS · 11 PICKS PARA HOY 🍀 (1/2)"
   },
   {
+   "clave": "redes-2026-11-24-pick-seguro-5-threads-instagram",
+   "t": "⏰ No ha salido en threads ni instagram (15:00): Pick de hoy, con datos detrás 📊"
+  },
+  {
+   "clave": "redes-2026-11-24-lista-europa-2-threads-instagram",
+   "t": "⏰ No ha salido en threads ni instagram (15:00): 🏆⚽ CHAMPIONS · 10 PICKS PARA HOY 🍀 (2/2)"
+  },
+  {
    "clave": "repe-2026-11-24-1635692|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-extra-city, loca-th-noche-2100-x100, estrella-1635692)"
   },
@@ -168,48 +178,52 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-extra-feyenoord, loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-24-1635663|To Win Either Half|Away",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0030-x100, loca-th-0300-x50)"
+   "clave": "repe-2026-11-24-1635731|Both Teams Score|Yes",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-24-1635611|Total - Away|Over 0.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-1130-x100)"
+   "clave": "repe-2026-11-24-1635663|To Win Either Half|Away",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0030-x100, loca-th-0300-x50)"
   },
   {
    "clave": "repe-2026-11-24-1635663|Total - Away|Over 1.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0600-x500)"
   },
   {
-   "clave": "repe-2026-11-24-1635731|Both Teams Score|Yes",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos)"
-  },
-  {
    "clave": "repe-2026-11-24-1635713|Player Fouls Committed|Florian Thauvin - 1",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, combi-partido-1635713)"
   },
   {
-   "clave": "repe-2026-11-24-1635715|Both Teams Score|Yes",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
-  },
-  {
-   "clave": "repe-2026-11-24-1635713|Both Teams Score|Yes",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
+   "clave": "repe-2026-11-24-1635611|Total - Away|Over 0.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-1130-x100)"
   },
   {
    "clave": "repe-2026-11-24-1635692|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1400-x50)"
   },
   {
-   "clave": "repe-2026-11-24-1635649|Total - Away|Over 0.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2300-hora, loca-th-0030-x100)"
+   "clave": "repe-2026-11-24-1635713|Both Teams Score|Yes",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635715|Both Teams Score|Yes",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635663|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-0030-x100, loca-th-0600-x500)"
   },
   {
    "clave": "repe-2026-11-24-1635692|Total - Away|Over 0.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-0300-x50, loca-th-1130-x100)"
   },
   {
-   "clave": "repe-2026-11-24-1635663|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-0030-x100, loca-th-0600-x500)"
+   "clave": "repe-2026-11-24-1635649|Total - Away|Over 0.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2300-hora, loca-th-0030-x100)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635692|Away Player Shots|Scott McTominay - 2",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-hora, combi-tres, estrella-1635692)"
   },
   {
    "clave": "repe-2026-11-24-1635715|Player Fouls Committed|Kodai Sano - 1",
@@ -220,28 +234,16 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-hora, loca-th-0030-x100, combi-partido-1635713)"
   },
   {
-   "clave": "repe-2026-11-24-1635692|Away Player Shots|Scott McTominay - 2",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-hora, combi-tres, estrella-1635692)"
+   "clave": "repe-2026-11-24-1635667|Anytime Goal Scorer|Nicolas Jackson",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0030-x100, loca-th-0800-reto, loca-th-1130-x100)"
   },
   {
    "clave": "repe-2026-11-24-1635611|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0030-x100, loca-th-0300-x50, loca-th-1400-x50)"
   },
   {
-   "clave": "repe-2026-11-24-1635667|Anytime Goal Scorer|Nicolas Jackson",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0030-x100, loca-th-0800-reto, loca-th-1130-x100)"
-  },
-  {
    "clave": "repe-2026-11-24-1635641|Double Chance|Draw/Away",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0500-tapados, loca-th-1130-x100, loca-th-1600-x500)"
-  },
-  {
-   "clave": "repe-2026-11-24-1635641|Total - Away|Over 1.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1830-x1000)"
-  },
-  {
-   "clave": "repe-2026-11-24-1635649|Results/Both Teams Score|Home/Yes",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1400-x50)"
   },
   {
    "clave": "repe-2026-11-24-1635663|Match Winner|Away",
@@ -252,6 +254,14 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1600-x500)"
   },
   {
+   "clave": "repe-2026-11-24-1635641|Total - Away|Over 1.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1830-x1000)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635649|Results/Both Teams Score|Home/Yes",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1400-x50)"
+  },
+  {
    "clave": "repe-2026-11-24-1635715|Away Corners Over/Under|Over 2.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0700-lista-corners, loca-th-1130-x100, loca-th-1900-lista-corners)"
   },
@@ -260,8 +270,18 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0800-reto, loca-th-0900-tiros, loca-th-1830-x1000)"
   }
  ],
- "revisado": "2026-11-24T15:19",
+ "revisado": "2026-11-24T15:30",
  "historial": [
+  {
+   "hora": "2026-11-24T15:30",
+   "t": "⏰ No ha salido en threads ni instagram (15:00): Pick de hoy, con datos detrás 📊",
+   "k": "redes-2026-11-24-pick-seguro-5-threads-instagram"
+  },
+  {
+   "hora": "2026-11-24T15:30",
+   "t": "⏰ No ha salido en threads ni instagram (15:00): 🏆⚽ CHAMPIONS · 10 PICKS PARA HOY 🍀 (2/2)",
+   "k": "redes-2026-11-24-lista-europa-2-threads-instagram"
+  },
   {
    "hora": "2026-11-24T12:25",
    "t": "⏰ No ha salido en threads ni instagram (12:00): 🏆⚽ CHAMPIONS · 11 PICKS PARA HOY 🍀 (1/2)",
@@ -551,16 +571,6 @@
    "hora": "2026-11-23T12:04",
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy",
    "k": "escalera-2026-11-23"
-  },
-  {
-   "hora": "2026-11-23T09:41",
-   "t": "📰 Real Madrid–PSV Eindhoven: «La lesión de Ferland Mendy y su futuro en el Real Madrid» (madridistahoy.com) · tenemos 7 post(s) de este partido: semana-europa, ganadores-champions, lista-europa-1, combi-tres, lista-europa-2, pick-seguro-6, estrella-1635715",
-   "k": "prensa-1635715-1f3aad01"
-  },
-  {
-   "hora": "2026-11-23T01:49",
-   "t": "⏰ No ha salido en threads ni instagram (01:27): Vamos con otro pick, familia 👇",
-   "k": "redes-2026-11-24-pick-tip-1-threads-instagram"
   }
  ]
 }
