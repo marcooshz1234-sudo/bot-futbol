@@ -924,5 +924,19 @@
       "facebook": null,
       "threads": "17968844622235072"
     }
+  },
+  {
+    "id": "2026-11-24-verde-auto-2026-11-24-pick-extra-leipzig",
+    "fecha": "2026-11-24T21:30",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el RB Leipzig\n\n📈 Cuota @1,38\n\nSeguimos sumando 📈",
+    "foto": "publicaciones/media/2026-11-24-verde-auto-2026-11-24-pick-extra-leipzig.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-24-pick-extra-leipzig",
+    "solo_en": [
+      "telegram"
+    ]
   }
 ]
