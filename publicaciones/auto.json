@@ -15445,11 +15445,11 @@
       "1635735|To Win Either Half|Home"
     ],
     "cuotas": [
-      1.57,
+      1.67,
       1.5,
       2.0,
       1.62,
-      1.57,
+      1.53,
       1.53,
       1.91,
       1.73
@@ -15463,7 +15463,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-24T21:00"
   },
   {
     "id": "2026-11-25-loca-th-noche-2330-x500",
