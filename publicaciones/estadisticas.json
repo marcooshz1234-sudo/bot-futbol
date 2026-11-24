@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24 04:57",
+ "actualizado": "2026-11-24 05:07",
  "redes": {
   "instagram": {
    "seguidores": 55,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3752,
-   "hoy": 10,
+   "seguidores": 3753,
+   "hoy": 11,
    "serie": [
     3215,
     3230,
@@ -24,7 +24,7 @@
     3475,
     3714,
     3742,
-    3752
+    3753
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4315,
- "total_hoy": 12,
+ "total": 4316,
+ "total_hoy": 13,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "05:00",
+  "hora": "06:00",
   "dia": "2026-11-24",
-  "titulo": "La de los tapados"
+  "titulo": "Combi x224"
  },
  "ayer": {
   "aciertos": 2,
@@ -264,7 +264,7 @@
   },
   "2026-11-24": {
    "instagram": 55,
-   "threads": 3752,
+   "threads": 3753,
    "facebook": 1,
    "telegram": 507
   }
