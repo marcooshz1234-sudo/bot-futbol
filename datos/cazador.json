@@ -63,15 +63,26 @@
  },
  "top": [
   {
-   "local": "Sheffield Utd",
-   "visitante": "Southampton",
-   "inicio": "2026-11-24T20:45",
-   "texto": "Southampton marca 2 o más",
-   "cuota": 2.2,
-   "justa": 2.24,
-   "ev": -0.016,
-   "fuente": "las otras casas",
-   "edad_h": 0.6
+   "local": "Real Madrid",
+   "visitante": "PSV Eindhoven",
+   "inicio": "2026-11-24T21:00",
+   "texto": "Real Madrid marca 3 o más",
+   "cuota": 1.4,
+   "justa": 1.4,
+   "ev": 0.002,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Real Madrid",
+   "visitante": "PSV Eindhoven",
+   "inicio": "2026-11-24T21:00",
+   "texto": "Real Madrid marca 4 o más",
+   "cuota": 2.0,
+   "justa": 2.01,
+   "ev": -0.005,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   },
   {
    "local": "Cardiff",
@@ -79,14 +90,14 @@
    "inicio": "2026-11-24T20:45",
    "texto": "Cardiff marca 2 o más",
    "cuota": 1.44,
-   "justa": 1.47,
-   "ev": -0.018,
-   "fuente": "las otras casas",
-   "edad_h": 0.6
+   "justa": 1.46,
+   "ev": -0.017,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-24T11:24",
+  "hora": "2026-11-24T11:45",
   "revisadas": 0,
   "mejor": null
  },
