@@ -61,9 +61,32 @@
    "post": "2026-11-23-cuotaza-1608377-181ed6"
   }
  },
- "top": [],
+ "top": [
+  {
+   "local": "Shakhtar Donetsk",
+   "visitante": "Fenerbahçe",
+   "inicio": "2026-11-25T21:00",
+   "texto": "Fenerbahçe marca 2 o más",
+   "cuota": 2.2,
+   "justa": 2.22,
+   "ev": -0.009,
+   "fuente": "las otras casas",
+   "edad_h": 0.5
+  },
+  {
+   "local": "Slavia Praha",
+   "visitante": "Villarreal",
+   "inicio": "2026-11-25T18:45",
+   "texto": "Slavia Praha marca 2 o más",
+   "cuota": 2.2,
+   "justa": 2.23,
+   "ev": -0.015,
+   "fuente": "las otras casas",
+   "edad_h": 0.5
+  }
+ ],
  "ultima": {
-  "hora": "2026-11-24T23:30",
+  "hora": "2026-11-24T23:50",
   "revisadas": 0,
   "mejor": null
  },
