@@ -457,7 +457,7 @@
   {
     "id": "2026-11-23-balance-auto",
     "fecha": "2026-11-23T23:15",
-    "texto": "📊 RESUMEN DEL LUNES 🍀\n\n✅ 2 de 2 picks en verde\n💶 10 € a cada pick → +9,00 €\n\n🔔 Mañana más. Activad las notificaciones 👀",
+    "texto": "📊 RESUMEN DEL LUNES 🍀\n\n✅ 3 de 4 picks en verde\n💶 10 € a cada pick → +6,30 €\n\n😤 Se nos escapó:\n🔸 Brentford ve más de 1,5 tarjetas @1,62 · Brentford 4–0 Everton (no vio ninguna)\n\n🔔 Mañana más. Activad las notificaciones 👀",
     "foto": "publicaciones/media/2026-11-23-balance-auto.jpg",
     "origen": "bot",
     "directo": true,
@@ -467,7 +467,8 @@
       "telegram"
     ],
     "requiere_ok": true,
-    "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar."
+    "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar.",
+    "nota": "24/11 01:20 Claude: el automático decía 2 de 2 (+9 €); faltaban Monza (✅) y Brentford (❌). Marcos: «sube solo el resumen de hoy»"
   },
   {
     "id": "2026-11-23-verde-auto-6-11-23-loca-th-noche-2230-lista-corners",
