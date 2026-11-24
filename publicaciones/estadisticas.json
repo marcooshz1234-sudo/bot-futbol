@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24 11:24",
+ "actualizado": "2026-11-24 11:34",
  "redes": {
   "instagram": {
    "seguidores": 55,
@@ -58,9 +58,9 @@
  "total_hoy": 28,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:30",
+  "hora": "12:00",
   "dia": "2026-11-24",
-  "titulo": "La centenaria x90,77"
+  "titulo": "Champions · 11 picks para hoy (1/2)"
  },
  "ayer": {
   "aciertos": 2,
@@ -270,13 +270,13 @@
   }
  },
  "tipos_instagram": {
-  "Escalera (reel)": {
-   "posts": 5,
+  "Otros (reel)": {
+   "posts": 46,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 46,
+  "Escalera (reel)": {
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
