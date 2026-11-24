@@ -11122,13 +11122,6 @@
  ],
  "PABLO ANALISTA": [
   {
-   "id": "-1001393609245/16411",
-   "fecha": "2026-11-17T04:38",
-   "texto": "✅",
-   "foto": false,
-   "visto": "2026-11-17T04:41"
-  },
-  {
    "id": "-1001393609245/16410",
    "fecha": "2026-11-17T04:38",
    "texto": "✅🏀✅🏀✅🏀✅🏀✅🏀✅",
@@ -12604,6 +12597,14 @@
    "texto": "SUMADO 1/8 vamossssssssss !",
    "foto": false,
    "visto": "2026-11-24T21:50"
+  },
+  {
+   "id": "-1001393609245/16611",
+   "fecha": "2026-11-24T21:54",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-24T22:01",
+   "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16611.jpg"
   }
  ],
  "CREAR APUESTA CUOTA 101 MIA - SAC": [
@@ -19455,13 +19456,6 @@
  ],
  "ApuestasCobrich - Canal Gratuito": [
   {
-   "id": "-1001233274610/196248",
-   "fecha": "2026-11-20T21:23",
-   "texto": "Aprovechad este Live. En cuanto acabe abro Plazas para lo que todos estáis esperando, LA GRAN INVERSIÓN NBA🔥\n\nVa a costar solo 10€ y vais a tener la mejor apuesta posible de NBA basada en estadística avanzada.",
-   "foto": false,
-   "visto": "2026-11-20T21:28"
-  },
-  {
    "id": "-1001233274610/196250",
    "fecha": "2026-11-20T21:52",
    "texto": "Probamos tambien la victoria del Bayern ☝️",
@@ -20940,6 +20934,13 @@
    "texto": "",
    "foto": false,
    "visto": "2026-11-24T21:50"
+  },
+  {
+   "id": "-1001233274610/196455",
+   "fecha": "2026-11-24T21:54",
+   "texto": "¡LIVE PREMIUM BRUTAL! 🔥\n\n⚽️🇪🇺 Futbol - Champions League:\n\n💶 Real Madrid gana el partido",
+   "foto": false,
+   "visto": "2026-11-24T22:01"
   }
  ],
  "Pick Maestro": [

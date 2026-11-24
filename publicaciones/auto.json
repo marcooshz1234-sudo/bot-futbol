@@ -15482,12 +15482,12 @@
       "1635735|Match Winner|Home"
     ],
     "cuotas": [
-      2.05,
+      1.95,
       2.62,
-      2.25,
+      2.1,
       2.75,
-      2.0,
-      2.25,
+      1.91,
+      2.2,
       1.91,
       2.5
     ],
@@ -15500,6 +15500,7 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-24T22:05"
   }
 ]
