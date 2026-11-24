@@ -3910,5 +3910,25 @@
    3,
    0
   ]
+ },
+ {
+  "tipster": "TipsPro🤙",
+  "fuente": "-1001262785423/10186",
+  "dia": "2026-11-24",
+  "local": "RB Leipzig",
+  "visitante": "Lens",
+  "partido_id": 1635713,
+  "texto": "RB Leipzig marca 2 o más",
+  "mercado": "Total - Home",
+  "opcion": "Over 1.5",
+  "cuota": 1.54,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "cuota_bet365": 1.25,
+   "prob_cuota": 0.649
+  }
  }
 ]

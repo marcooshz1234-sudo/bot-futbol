@@ -11521,9 +11521,139 @@
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
    }
+  ],
+  "1635728": [
+   {
+    "equipo": 560,
+    "jugador": "S. Chaloupek",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 560,
+    "jugador": "T. Chory",
+    "tipo": "Missing Fixture",
+    "motivo": "Coach's decision"
+   },
+   {
+    "equipo": 560,
+    "jugador": "H. Kante",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 560,
+    "jugador": "O. Kolar",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
+   },
+   {
+    "equipo": 560,
+    "jugador": "D. Moses",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 560,
+    "jugador": "I. Ogbu",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Injury"
+   },
+   {
+    "equipo": 560,
+    "jugador": "A. Ouanda",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 560,
+    "jugador": "E. Pitak",
+    "tipo": "Missing Fixture",
+    "motivo": "Health problems"
+   },
+   {
+    "equipo": 560,
+    "jugador": "T. Diakite",
+    "tipo": "Questionable",
+    "motivo": "Health problems"
+   },
+   {
+    "equipo": 560,
+    "jugador": "L. Provod",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 560,
+    "jugador": "D. Sturm",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 533,
+    "jugador": "I. Akhomach",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 533,
+    "jugador": "A. Diatta",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 533,
+    "jugador": "J. Foyth",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 533,
+    "jugador": "G. Moreno",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1635718": [
+   {
+    "equipo": 13976,
+    "jugador": "A. McCarthy",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
+   },
+   {
+    "equipo": 13976,
+    "jugador": "V. Simic",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 529,
+    "jugador": "R. Bardghji",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 529,
+    "jugador": "A. Christensen",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 529,
+    "jugador": "X. Espart",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 529,
+    "jugador": "Rodri",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   }
   ]
  },
- "ultima": "2026-11-24T12:29:58.294199+01:00",
+ "ultima": "2026-11-24T13:01:21.553348+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",

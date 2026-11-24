@@ -72,6 +72,15 @@
    "resueltos_con_cuota": 6,
    "prob_cuota": 3.77
   },
+  "TipsPro🤙": {
+   "n": 7,
+   "verdes": 5,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 1.36,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 2.076
+  },
   "TipsPro": {
    "n": 6,
    "verdes": 4,
@@ -89,15 +98,6 @@
    "unidades": 2.33,
    "resueltos_con_cuota": 3,
    "prob_cuota": 1.69
-  },
-  "TipsPro🤙": {
-   "n": 6,
-   "verdes": 5,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 1.36,
-   "resueltos_con_cuota": 3,
-   "prob_cuota": 2.076
   },
   "CRIMINALPICKS": {
    "n": 4,
@@ -259,6 +259,15 @@
    "resueltos_con_cuota": 4,
    "prob_cuota": 2.325
   },
+  "Total - Home Over 1.5": {
+   "n": 5,
+   "verdes": 2,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.78,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.448
+  },
   "Goals Over/Under Under 3.5": {
    "n": 5,
    "verdes": 2,
@@ -267,15 +276,6 @@
    "unidades": 0.22,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.82
-  },
-  "Total - Home Over 1.5": {
-   "n": 4,
-   "verdes": 2,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.78,
-   "resueltos_con_cuota": 2,
-   "prob_cuota": 1.448
   },
   "Total - Away Over 1.5": {
    "n": 3,
@@ -600,7 +600,7 @@
  },
  "equipo": {
   "—": {
-   "n": 85,
+   "n": 86,
    "verdes": 37,
    "rojos": 13,
    "nulos": 0,
@@ -974,7 +974,7 @@
  },
  "razon": {
   "sin razón": {
-   "n": 87,
+   "n": 88,
    "verdes": 50,
    "rojos": 13,
    "nulos": 0,
@@ -1048,7 +1048,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 63,
+   "n": 64,
    "verdes": 28,
    "rojos": 16,
    "nulos": 0,
@@ -1156,7 +1156,7 @@
    "prob_cuota": 0.621
   },
   "UEFA Champions League": {
-   "n": 1,
+   "n": 2,
    "verdes": 0,
    "rojos": 0,
    "nulos": 0,
@@ -1192,7 +1192,7 @@
    "prob_cuota": 21.164
   },
   "local": {
-   "n": 45,
+   "n": 46,
    "verdes": 23,
    "rojos": 13,
    "nulos": 0,
@@ -1212,7 +1212,7 @@
  },
  "por_que": {
   "—": {
-   "n": 71,
+   "n": 72,
    "verdes": 27,
    "rojos": 18,
    "nulos": 0,
@@ -1286,7 +1286,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 143,
+   "n": 144,
    "verdes": 71,
    "rojos": 28,
    "nulos": 0,
