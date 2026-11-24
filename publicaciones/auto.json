@@ -12784,12 +12784,12 @@
       "1635731|Home Player Shots|Andraz Sporar - 2"
     ],
     "cuotas": [
-      1.95,
+      1.8,
       1.67,
-      1.83,
-      1.57,
+      1.91,
       1.5,
-      1.5,
+      1.36,
+      1.44,
       1.53,
       1.62
     ],
@@ -12802,7 +12802,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-24T01:33"
   },
   {
     "id": "2026-11-24-loca-th-0500-tapados",
