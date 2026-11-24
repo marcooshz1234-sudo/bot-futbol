@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24 18:25",
+ "actualizado": "2026-11-24 18:35",
  "redes": {
   "instagram": {
    "seguidores": 55,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3783,
-   "hoy": 41,
+   "seguidores": 3784,
+   "hoy": 42,
    "serie": [
     3215,
     3230,
@@ -24,7 +24,7 @@
     3475,
     3714,
     3742,
-    3783
+    3784
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4351,
- "total_hoy": 48,
+ "total": 4352,
+ "total_hoy": 49,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "18:30",
+  "hora": "19:00",
   "dia": "2026-11-24",
-  "titulo": "Combi x599"
+  "titulo": "Otro que nos gusta para la noche"
  },
  "ayer": {
   "aciertos": 2,
@@ -264,7 +264,7 @@
   },
   "2026-11-24": {
    "instagram": 55,
-   "threads": 3783,
+   "threads": 3784,
    "facebook": 1,
    "telegram": 512
   }
