@@ -11057,13 +11057,6 @@
  ],
  "PABLO ANALISTA": [
   {
-   "id": "-1001393609245/16403",
-   "fecha": "2026-11-17T03:15",
-   "texto": "13/16 VAMOS GOLDEN MUCHACHOS XD",
-   "foto": false,
-   "visto": "2026-11-17T03:19"
-  },
-  {
    "id": "-1001393609245/16402",
    "fecha": "2026-11-17T03:15",
    "texto": "",
@@ -12540,6 +12533,14 @@
    "foto": true,
    "visto": "2026-11-24T17:58",
    "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16603.jpg"
+  },
+  {
+   "id": "-1001393609245/16604",
+   "fecha": "2026-11-24T18:53",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-24T18:53",
+   "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16604.jpg"
   }
  ],
  "CREAR APUESTA CUOTA 101 MIA - SAC": [
@@ -19321,21 +19322,6 @@
  ],
  "ApuestasCobrich - Canal Gratuito": [
   {
-   "id": "-1001233274610/196239",
-   "fecha": "2026-11-20T20:36",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-20T20:51",
-   "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196239.jpg"
-  },
-  {
-   "id": "-1001233274610/196241",
-   "fecha": "2026-11-20T20:38",
-   "texto": "Spoiler --> VA A SER DE NBA 😁🏀🇺🇸",
-   "foto": false,
-   "visto": "2026-11-20T20:51"
-  },
-  {
    "id": "-1001233274610/196240",
    "fecha": "2026-11-20T20:38",
    "texto": "🔥 ¡SE VIENE LA PUTA LOCURA! 🔥\n\n~ Despues de recibir hoy mas de 100 mensajes distintos pidiéndome LA GRAN INVERSIÓN, aquí lo tenéis... 😇✅\n\n❗️HOY SERÁ UNA GRAN NOCHE❗️",
@@ -20806,6 +20792,21 @@
    "texto": "Entra rápido y te regalo mi Stake 10 ☝️🎁",
    "foto": false,
    "visto": "2026-11-24T18:40"
+  },
+  {
+   "id": "-1001233274610/196448",
+   "fecha": "2026-11-24T18:45",
+   "texto": "Tenéis 15 minutos para entrar 🚨\n\nQuien se una se lo regalo YA 🔥\n\nhttps://t.me/+L3qt_oAlUTg1ZDVk",
+   "foto": false,
+   "visto": "2026-11-24T18:53"
+  },
+  {
+   "id": "-1001233274610/196447",
+   "fecha": "2026-11-24T18:45",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-24T18:53",
+   "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196447.jpg"
   }
  ],
  "Pick Maestro": [
