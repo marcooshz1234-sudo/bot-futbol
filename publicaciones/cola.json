@@ -898,8 +898,8 @@
  },
  {
   "id": "2026-11-24-loca-th-2050-champions",
-  "fecha": "2026-11-24T20:46",
-  "texto": "¡Vamos a por ella! 🔥 COMBILOCAS CHAMPIONS 🔥\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal - 🇩🇪 Dortmund - Ambos marcan\n🇮🇹 Como - 🇬🇷 AEK - Como marca en las 2 partes\n🇳🇱 Feyenoord - 🇵🇹 Oporto - +1,5 goles 2ª parte\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man City - 🇮🇹 Napoli - +1,5 goles 2ª parte\n🇩🇪 Leipzig - 🇫🇷 Lens - Gana el Leipzig\n🇪🇸 Real Madrid - 🇳🇱 PSV - Marca el PSV\n🇸🇰 Slovan - 🇪🇸 Betis - Marca el Slovan\n\nCuota: 27 🔥",
+  "fecha": "2026-11-24T20:56",
+  "texto": "¡Vamos a por ella! 🔥 COMBILOCAS CHAMPIONS 🔥\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal - 🇩🇪 Dortmund - Dortmund +2,5 córners\n🇮🇹 Como - 🇬🇷 AEK - Como marca en las 2 partes\n🇳🇱 Feyenoord - 🇵🇹 Oporto - Ambos marcan\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man City - 🇮🇹 Napoli - Ambos marcan\n🇩🇪 Leipzig - 🇫🇷 Lens - +1,5 goles 2ª parte\n🇪🇸 Real Madrid - 🇳🇱 PSV - Marca el PSV\n🇸🇰 Slovan - 🇪🇸 Betis - +1,5 goles 2ª parte\n\nCuota: 24 🔥",
   "foto": null,
   "origen": "claude",
   "directo": true,
@@ -908,13 +908,13 @@
   ],
   "solo_redes": true,
   "sel": [
-   "1635611|Both Teams Score|Yes",
+   "1635611|Away Corners Over/Under|Over 2.5",
    "1635649|To Score In Both Halves By Teams|Home",
-   "1635663|Goals Over/Under - Second Half|Over 1.5",
-   "1635692|Goals Over/Under - Second Half|Over 1.5",
-   "1635713|Match Winner|Home",
+   "1635663|Both Teams Score|Yes",
+   "1635692|Both Teams Score|Yes",
+   "1635713|Goals Over/Under - Second Half|Over 1.5",
    "1635715|Total - Away|Over 0.5",
-   "1635731|Total - Home|Over 0.5"
+   "1635731|Goals Over/Under - Second Half|Over 1.5"
   ],
   "nota": "24/11 20:44 Marcos: «sube a Threads una como esta (captura de mek.nassino) con los partidos que quedan, rápido»"
  }
