@@ -1,20 +1,6 @@
 {
  "informe": "2026-11-24",
  "vistos": {
-  "repe-2026-11-22-1552822|Match Winner|Home": "2026-11-22T00:02",
-  "repe-2026-11-22-1575227|Player Fouls Committed|David Wolfe - 1": "2026-11-22T00:02",
-  "repe-2026-11-22-1550201|Player Fouls Committed|Kike Perez - 2": "2026-11-22T00:02",
-  "repe-2026-11-22-1552821|Both Teams Score|Yes": "2026-11-22T00:02",
-  "repe-2026-11-22-1575227|Both Teams Score|Yes": "2026-11-22T00:02",
-  "repe-2026-11-22-1550197|Results/Both Teams Score|Home/Yes": "2026-11-22T00:02",
-  "repe-2026-11-22-1552822|Results/Both Teams Score|Home/Yes": "2026-11-22T00:02",
-  "repe-2026-11-22-1550198|Results/Both Teams Score|Away/Yes": "2026-11-22T00:02",
-  "repe-2026-11-22-1570455|Results/Both Teams Score|Home/Yes": "2026-11-22T00:02",
-  "repe-2026-11-22-1550197|Both Teams Score|Yes": "2026-11-22T00:02",
-  "repe-2026-11-22-1570459|Player Fouls Committed|Pablo Ramon - 1": "2026-11-22T00:02",
-  "repe-2026-11-22-1550206|Player Fouls Committed|Mikael Egill Ellertsson - 1": "2026-11-22T00:02",
-  "prensa-1570459-e749b9ab": "2026-11-22T00:02",
-  "regla-estrella-2026-11-22-loca-th-1200-escudos": "2026-11-22T00:02",
   "redes-2026-11-22-loca-th-0040-ganaambos-threads": "2026-11-22T01:37",
   "prensa-1570455-7d56ef12": "2026-11-22T01:37",
   "prensa-1550197-d27f8619": "2026-11-22T01:37",
@@ -217,28 +203,28 @@
    "t": "🔁 25/11: el mismo pronóstico en 4 posts (pick-claude-8, estrella-1635703, loca-th-0400-hora, loca-th-1000-hora)"
   },
   {
-   "clave": "repe-2026-11-25-1635625|Total - Away|Over 0.5",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0500-x500)"
+   "clave": "repe-2026-11-25-1635724|Anytime Goal Scorer|Mason Greenwood",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0400-hora)"
   },
   {
    "clave": "repe-2026-11-25-1635718|Total - Home|Over 0.5",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0030-x100)"
   },
   {
-   "clave": "repe-2026-11-25-1635724|Anytime Goal Scorer|Mason Greenwood",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0400-hora)"
-  },
-  {
-   "clave": "repe-2026-11-25-1635682|Both Teams Score|Yes",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-noche-2230-x50)"
-  },
-  {
    "clave": "repe-2026-11-25-1635735|To Win Either Half|Home",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0030-x100)"
   },
   {
+   "clave": "repe-2026-11-25-1635625|Total - Away|Over 0.5",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0500-x500)"
+  },
+  {
    "clave": "repe-2026-11-25-1635735|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, combi-partido-1635735, loca-th-0030-x100)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635682|Both Teams Score|Yes",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-noche-2230-x50)"
   },
   {
    "clave": "repe-2026-11-25-1635718|Both Teams Score|Yes",
@@ -253,10 +239,6 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2330-x500, loca-th-0300-x50)"
   },
   {
-   "clave": "repe-2026-11-25-1635735|Match Winner|Home",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0700-reto, loca-th-1100-x50)"
-  },
-  {
    "clave": "repe-2026-11-25-1635682|Away Player Shots|Lennart Karl - 3",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1100-x50)"
   },
@@ -265,20 +247,24 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1100-x50)"
   },
   {
-   "clave": "repe-2026-11-25-1635673|Away Player Shots|Ermedin Demirovic - 3",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0200-duelo, loca-th-0700-reto)"
-  },
-  {
-   "clave": "repe-2026-11-25-1635625|Anytime Goal Scorer|Alex Grimaldo",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1130-x500)"
-  },
-  {
    "clave": "repe-2026-11-25-1635625|Both Teams Score|Yes",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0300-x50)"
   },
   {
    "clave": "repe-2026-11-25-1635682|Double Chance|Home/Draw",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0700-reto)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635735|Match Winner|Home",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0700-reto, loca-th-1100-x50)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635625|Anytime Goal Scorer|Alex Grimaldo",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1130-x500)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635673|Away Player Shots|Ermedin Demirovic - 3",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0200-duelo, loca-th-0700-reto)"
   },
   {
    "clave": "repe-2026-11-25-1635735|Away Player Shots|Bruno Fernandes - 2",
@@ -305,39 +291,27 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-0400-hora, loca-th-0800-tiros, loca-th-1000-hora)"
   },
   {
-   "clave": "repe-2026-11-25-1635682|To Win Either Half|Home",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0930-x100, loca-th-1130-x500)"
-  },
-  {
    "clave": "repe-2026-11-25-1635703|Total - Away|Over 1.5",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0700-reto, loca-th-1130-x500)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635682|To Win Either Half|Home",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0930-x100, loca-th-1130-x500)"
   },
   {
    "clave": "repe-2026-11-26-1636386|Total - Home|Over 0.5",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (picks-manana, combi-tres, pick-seguro-2)"
   },
   {
-   "clave": "prensa-1635735-ed99cdea",
-   "t": "📰 Sporting CP–Manchester United: «Sporting CP - Manchester United, previa de la Liga de Campeones de la UEFA: el United de Pochettino, tocado an» (Goal.com) · tenemos 11 post(s) de este partido: pick-claude-2, combi-tres, combi-partido-1635735, loca-th-0030-x100, loca-th-0300-x50, loca-th-0400-hora, loca-th-0700-reto, loca-th-0930-x100, loca-th-1000-hora, loca-th-1100-x50, loca-th-1130-x500"
-  },
-  {
-   "clave": "prensa-1635728-25e07717",
-   "t": "📰 Slavia Praha–Villarreal: «Nathan Saliba será operado del tobillo y podría estar hasta tres meses de baja en el Villarreal CF» (Official Press) · tenemos 1 post(s) de este partido: pick-claude-3"
-  },
-  {
    "clave": "prensa-1635728-17791f3a",
    "t": "📰 Slavia Praha–Villarreal: «Alineaciones probables del Slavia Praha-Villarreal: onces, bajas y dudas» (BeSoccer ES) · tenemos 1 post(s) de este partido: pick-claude-3"
-  },
-  {
-   "clave": "prensa-1635682-MOlise",
-   "t": "📰 Lille–Bayern München: «Informes apuntan a la ausencia de Michael Olise en el Bayern de Múnich ante el Lille por lesión» (Elbotola) · tenemos 12 post(s) de este partido: pick-claude-4, combi-tres, estrella-1635682, loca-th-0030-x100, loca-th-0100-lista-corners, loca-th-0400-hora, loca-th-0500-x500, loca-th-0700-reto, loca-th-0930-x100, loca-th-1000-hora, loca-th-1100-x50, loca-th-1130-x500"
   },
   {
    "clave": "prensa-1635718-d71edce6",
    "t": "📰 Sabah FA–Barcelona: «Fabrizio Romano no descarta la salida de Alejandro Balde del FC Barcelona: \"Deco dijo que se iba a quedar, yo » (DAZN) · tenemos 5 post(s) de este partido: loca-th-0030-x100, loca-th-0300-x50, loca-th-0700-reto, loca-th-0930-x100, loca-th-1200-x1000"
   }
  ],
- "revisado": "2026-11-25T00:02",
+ "revisado": "2026-11-25T00:11",
  "historial": [
   {
    "hora": "2026-11-25T00:02",
