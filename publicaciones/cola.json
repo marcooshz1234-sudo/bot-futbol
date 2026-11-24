@@ -636,5 +636,50 @@
       "threads": "17914148337309461",
       "instagram": "18128013439710043"
     }
+  },
+  {
+    "id": "2026-11-24-pick-tip-2",
+    "fecha": "2026-11-24T13:42",
+    "texto": "Pick que no podía faltar hoy ⚽\n📋 Números en la mano antes de meterla\n\n🍀 Ambos marcan: Sí @1,61\n\n⚽ Al-Nassr – Al-Sadd · hoy 19:15\n\n👨‍💻 Al-Nassr llega con unos 2,5 goles por partido y en casa suele imponer su pegada\n👨‍💻 Al-Sadd también anota con regularidad (casi 2 por partido), así que tiene argumentos para marcar fuera",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": true,
+    "sel": [],
+    "cuotas": [],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true,
+    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
+  },
+  {
+    "id": "2026-11-24-pick-tip-3",
+    "fecha": "2026-11-24T13:42",
+    "texto": "Otro pick que nos gusta mucho familia 🔥\n🧠 Esta va con cabeza: analizada\n\n🍀 Más de 5,5 paradas totales @1,54\n\n⚽ RB Leipzig – Lens · hoy 21:00\n\n👨‍💻 Dos equipos que llegan bastante al área: tiros a puerta repartidos en ambos lados\n👨‍💻 Con seis paradas sumando los dos porteros basta, una línea asequible en Champions\n\n🧠 Stake 1/10",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": false,
+    "sel": [],
+    "cuotas": [],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true,
+    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
+  },
+  {
+    "id": "2026-11-24-combi-tip-1",
+    "fecha": "2026-11-24T13:42",
+    "texto": "Combinada para hoy, con cabeza ⚽\n\n🍀 Doble: Como más de 1 gol (1.25) @1,25\n🍀 Doble: menos de 4,5 goles (1.36) @1,36\n\n📈 Cuota @1,70",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": false,
+    "sel": [],
+    "cuotas": [],
+    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true,
+    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
   }
 ]

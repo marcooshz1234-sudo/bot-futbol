@@ -3930,5 +3930,101 @@
    "cuota_bet365": 1.25,
    "prob_cuota": 0.649
   }
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "TRADER FOOTBALL || FREE👨🏼‍💻/101042",
+  "dia": "2026-11-24",
+  "hora": "19:15",
+  "local": "Al-Nassr",
+  "visitante": "Al-Sadd",
+  "texto": "Ambos marcan: Sí",
+  "mercado": "Both Teams Score",
+  "opcion": "Yes",
+  "cuota": 1.61,
+  "stake": null,
+  "combinada": false,
+  "argumento": [
+   "Al-Nassr llega con unos 2,5 goles por partido y en casa suele imponer su pegada",
+   "Al-Sadd también anota con regularidad (casi 2 por partido), así que tiene argumentos para marcar fuera"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "OC TIPSTER",
+  "fuente": "OC TIPSTER/5166",
+  "dia": "2026-11-24",
+  "hora": "21:00",
+  "local": "RB Leipzig",
+  "visitante": "Lens",
+  "texto": "Más de 5,5 paradas totales",
+  "mercado": "Goalkeeper Saves",
+  "opcion": "Over 5.5",
+  "cuota": 1.54,
+  "stake": 1,
+  "combinada": false,
+  "argumento": [
+   "Dos equipos que llegan bastante al área: tiros a puerta repartidos en ambos lados",
+   "Con seis paradas sumando los dos porteros basta, una línea asequible en Champions"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "OC TIPSTER",
+  "fuente": "OC TIPSTER/5169",
+  "dia": "2026-11-24",
+  "hora": "21:00",
+  "local": "Real Madrid",
+  "visitante": "PSV Eindhoven",
+  "texto": "Crear apuesta: Madrid gana por 2+, más córners Madrid, Arda Güler 2+ remates, Perisic 1+ remate, Courtois 3+ paradas, Dest/Mijnans/Sano 1+ falta cada uno",
+  "mercado": "Crear apuesta",
+  "opcion": "Madrid gana por 2+ · más córners Madrid · Güler 2+ remates · Perisic 1+ remate · Courtois 3+ paradas · Dest, Mijnans y Sano 1+ falta",
+  "cuota": 11.0,
+  "stake": null,
+  "combinada": false,
+  "argumento": [
+   "El Madrid llega en buena racha y marcando más de dos goles por partido en casa",
+   "El PSV dispara bastante a puerta, lo que da trabajo a Courtois, y sus mediocentros y laterales suelen cometer faltas",
+   "Güler y Perisic vienen cumpliendo con frecuencia sus líneas de remates"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "fuente": "Tipster Pérez/47470",
+  "dia": "2026-11-24",
+  "hora": "21:00",
+  "local": "Como",
+  "visitante": "AEK Atenas",
+  "texto": "Doble: Como más de 1 gol (1.25)",
+  "mercado": "Total - Home",
+  "opcion": "Over 1",
+  "cuota": 1.25,
+  "stake": null,
+  "combinada": "perez-47470",
+  "argumento": [
+   "El Como marca en casi todos sus partidos y suele llegar a dos goles",
+   "AEK concede bastante: sus partidos superan los 2,5 goles con mucha frecuencia"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "fuente": "Tipster Pérez/47470",
+  "dia": "2026-11-24",
+  "hora": "21:00",
+  "local": "Slovan Bratislava",
+  "visitante": "Real Betis",
+  "texto": "Doble: menos de 4,5 goles (1.36)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Under 4.5",
+  "cuota": 1.36,
+  "stake": null,
+  "combinada": "perez-47470",
+  "argumento": [
+   "Los partidos del Slovan no han pasado de 4 goles en su muestra reciente",
+   "Cinco goles es una línea muy alta para un partido que el Betis suele controlar"
+  ],
+  "argumento_propio": true
  }
 ]
