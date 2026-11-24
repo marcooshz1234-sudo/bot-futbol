@@ -753,5 +753,41 @@
     "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
     "requiere_ok": true,
     "aviso": "⚠️ El bot no puede seguir esta copia (es un «Crear apuesta» de varias condiciones): si sale, su verde y el resumen van a mano."
+  },
+  {
+    "id": "2026-11-24-combi-partido-1635713",
+    "fecha": "2026-11-24T20:25",
+    "texto": "Os dejo la combi del RB Leipzig – Lens ⭐🔥\n🍿 Para darle emoción al día, con calma en el stake\n\n🍀 Gana el RB Leipzig\n🍀 Ridle Baku: 2+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Florian Thauvin comete 1+ faltas\n\n📈 Cuota @5,32 aprox.\n\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1635713|Match Winner|Home",
+      "1635713|Home Player Shots|Ridle Baku - 2",
+      "1635713|Goals Over/Under - Second Half|Over 1.5",
+      "1635713|Player Fouls Committed|Florian Thauvin - 1"
+    ],
+    "cuotas": [
+      1.33,
+      1.67,
+      1.5,
+      1.62
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "RB Leipzig",
+      "visitante": "Lens",
+      "id_l": 173,
+      "id_v": 116,
+      "logo_l": "https://media.api-sports.io/football/teams/173.png",
+      "logo_v": "https://media.api-sports.io/football/teams/116.png",
+      "fecha": "2026-11-24T21:00",
+      "liga": "Champions"
+    },
+    "solo_redes": true,
+    "cuota_total": 5.32,
+    "cuota_calculada": true,
+    "rehecho_bajas": true,
+    "forzar": false
   }
 ]
