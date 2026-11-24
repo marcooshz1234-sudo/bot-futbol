@@ -63,19 +63,19 @@
  },
  "top": [
   {
-   "local": "Arsenal",
-   "visitante": "Borussia Dortmund",
+   "local": "Real Madrid",
+   "visitante": "PSV Eindhoven",
    "inicio": "2026-11-24T21:00",
-   "texto": "Borussia Dortmund marca",
-   "cuota": 1.73,
-   "justa": 1.75,
-   "ev": -0.009,
-   "fuente": "las otras casas",
-   "edad_h": 7.8
+   "texto": "Real Madrid marca 3 o más",
+   "cuota": 1.4,
+   "justa": 1.42,
+   "ev": -0.017,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-24T08:42",
+  "hora": "2026-11-24T09:12",
   "revisadas": 0,
   "mejor": null
  },
