@@ -1,9 +1,6 @@
 {
  "informe": "2026-11-24",
  "vistos": {
-  "prensa-1570460-1392d98a": "2026-11-21T14:49",
-  "prensa-1557473-3bbb9c27": "2026-11-21T14:49",
-  "prensa-1575224-MOlise": "2026-11-21T14:49",
   "directo-2026-11-21-pick-claude-1": "2026-11-21T15:11",
   "directo-2026-11-21-pick-claude-2": "2026-11-21T15:11",
   "redes-2026-11-21-loca-th-1440-escudos-threads-instagram": "2026-11-21T15:11",
@@ -174,12 +171,8 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-extra-feyenoord, loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-24-1635663|To Win Either Half|Away",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0030-x100, loca-th-0300-x50)"
-  },
-  {
-   "clave": "repe-2026-11-24-1635663|Total - Away|Over 1.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0600-x500)"
+   "clave": "repe-2026-11-24-1635611|Total - Away|Over 0.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-1130-x100)"
   },
   {
    "clave": "repe-2026-11-24-1635731|Both Teams Score|Yes",
@@ -190,19 +183,23 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, combi-partido-1635713)"
   },
   {
-   "clave": "repe-2026-11-24-1635611|Total - Away|Over 0.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-1130-x100)"
+   "clave": "repe-2026-11-24-1635663|To Win Either Half|Away",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0030-x100, loca-th-0300-x50)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635663|Total - Away|Over 1.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0600-x500)"
   },
   {
    "clave": "repe-2026-11-24-1635692|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1400-x50)"
   },
   {
-   "clave": "repe-2026-11-24-1635713|Both Teams Score|Yes",
+   "clave": "repe-2026-11-24-1635715|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
   },
   {
-   "clave": "repe-2026-11-24-1635715|Both Teams Score|Yes",
+   "clave": "repe-2026-11-24-1635713|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
   },
   {
@@ -210,12 +207,12 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-0300-x50, loca-th-1130-x100)"
   },
   {
-   "clave": "repe-2026-11-24-1635649|Total - Away|Over 0.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2300-hora, loca-th-0030-x100)"
-  },
-  {
    "clave": "repe-2026-11-24-1635663|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-0030-x100, loca-th-0600-x500)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635649|Total - Away|Over 0.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2300-hora, loca-th-0030-x100)"
   },
   {
    "clave": "repe-2026-11-24-1635715|Player Fouls Committed|Kodai Sano - 1",
@@ -230,12 +227,12 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-hora, loca-th-0030-x100, combi-partido-1635713)"
   },
   {
-   "clave": "repe-2026-11-24-1635611|Both Teams Score|Yes",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0030-x100, loca-th-0300-x50, loca-th-1400-x50)"
-  },
-  {
    "clave": "repe-2026-11-24-1635667|Anytime Goal Scorer|Nicolas Jackson",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0030-x100, loca-th-0800-reto, loca-th-1130-x100)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635611|Both Teams Score|Yes",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0030-x100, loca-th-0300-x50, loca-th-1400-x50)"
   },
   {
    "clave": "repe-2026-11-24-1635641|Double Chance|Draw/Away",
@@ -246,16 +243,16 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1600-x500)"
   },
   {
+   "clave": "repe-2026-11-24-1635663|Match Winner|Away",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1130-x100)"
+  },
+  {
    "clave": "repe-2026-11-24-1635649|Results/Both Teams Score|Home/Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1400-x50)"
   },
   {
    "clave": "repe-2026-11-24-1635641|Total - Away|Over 1.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1830-x1000)"
-  },
-  {
-   "clave": "repe-2026-11-24-1635663|Match Winner|Away",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1130-x100)"
   },
   {
    "clave": "repe-2026-11-24-1635715|Away Corners Over/Under|Over 2.5",
@@ -266,7 +263,7 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0800-reto, loca-th-0900-tiros, loca-th-1830-x1000)"
   }
  ],
- "revisado": "2026-11-24T14:47",
+ "revisado": "2026-11-24T14:58",
  "historial": [
   {
    "hora": "2026-11-24T12:25",

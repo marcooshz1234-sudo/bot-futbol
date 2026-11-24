@@ -63,28 +63,6 @@
  },
  "top": [
   {
-   "local": "Real Madrid",
-   "visitante": "PSV Eindhoven",
-   "inicio": "2026-11-24T21:00",
-   "texto": "Real Madrid marca 3 o más",
-   "cuota": 1.4,
-   "justa": 1.4,
-   "ev": 0.002,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Real Madrid",
-   "visitante": "PSV Eindhoven",
-   "inicio": "2026-11-24T21:00",
-   "texto": "Real Madrid marca 4 o más",
-   "cuota": 2.0,
-   "justa": 2.01,
-   "ev": -0.005,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
    "local": "Cardiff",
    "visitante": "Preston",
    "inicio": "2026-11-24T20:45",
@@ -93,11 +71,22 @@
    "justa": 1.46,
    "ev": -0.017,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
+  },
+  {
+   "local": "Bodo/Glimt",
+   "visitante": "Lask Linz",
+   "inicio": "2026-11-24T18:45",
+   "texto": "Bodo/Glimt marca 3 o más",
+   "cuota": 1.83,
+   "justa": 1.86,
+   "ev": -0.018,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-24T14:28",
+  "hora": "2026-11-24T14:58",
   "revisadas": 0,
   "mejor": null
  },
