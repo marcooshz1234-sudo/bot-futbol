@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-24",
- "generado": "2026-11-24T19:30+01:00",
+ "generado": "2026-11-24T20:01+01:00",
  "rango": [
   "2026-11-24",
   "2026-11-27"
@@ -77,14 +77,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/575.png"
     },
     {
-     "sel": "1635731|Player Fouls Committed|Sandro Cruz - 1",
-     "texto": "Sandro Cruz: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,15 por 90' (0-2-1-2-1-1)",
-     "nota": 0.84,
-     "equipo": "Slovan Bratislava",
-     "lado": "L",
+     "sel": "1635731|Goalkeeper Saves|Alvaro Valles - 2",
+     "texto": "Alvaro Valles: 2+ paradas",
+     "cuota": 1.5,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 3,40 por 90' (4-3-4-1-5)",
+     "nota": 0.8375000000000001,
+     "equipo": "Real Betis",
+     "lado": "V",
      "partido": "Slovan Bratislava–Real Betis",
      "hora": "2026-11-24T21:00",
      "logo_l": "https://media.api-sports.io/football/teams/656.png",
@@ -103,8 +103,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/212.png"
     }
    ],
-   "cuota": 23.95,
-   "media": 0.9382086857421417,
+   "cuota": 25.66,
+   "media": 0.9378515428849987,
    "dia": "2026-11-24"
   },
   {
@@ -1689,21 +1689,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/116.png"
     },
     {
-     "sel": "1635731|Player Fouls Committed|Sandro Cruz - 1",
-     "texto": "Sandro Cruz: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,15 por 90' (0-2-1-2-1-1)",
-     "nota": 0.84,
-     "equipo": "Slovan Bratislava",
-     "lado": "L",
-     "partido": "Slovan Bratislava–Real Betis",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/656.png",
-     "logo_v": "https://media.api-sports.io/football/teams/543.png"
-    },
-    {
      "sel": "1635649|Player Fouls Committed|Jacobo Ramon - 1",
      "texto": "Jacobo Ramon: comete 1+ falta",
      "cuota": 1.57,
@@ -1717,6 +1702,21 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/895.png",
      "logo_v": "https://media.api-sports.io/football/teams/575.png"
+    },
+    {
+     "sel": "1635731|Goalkeeper Saves|Alvaro Valles - 2",
+     "texto": "Alvaro Valles: 2+ paradas",
+     "cuota": 1.5,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 3,40 por 90' (4-3-4-1-5)",
+     "nota": 0.8375000000000001,
+     "equipo": "Real Betis",
+     "lado": "V",
+     "partido": "Slovan Bratislava–Real Betis",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/656.png",
+     "logo_v": "https://media.api-sports.io/football/teams/543.png"
     },
     {
      "sel": "1635611|Player Fouls Committed|Waldemar Anton - 1",
@@ -1764,8 +1764,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/197.png"
     }
    ],
-   "cuota": 33.03,
-   "prob": 0.174,
+   "cuota": 35.39,
+   "prob": 0.166,
    "clave": "dia-2026-11-24-a",
    "titulo": "📅 La del martes · A",
    "expl": "@30-40 con patas de @1,40-1,60 (la B, otra distinta)",
@@ -2019,6 +2019,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/492.png"
     },
     {
+     "sel": "1635611|Player Fouls Committed|Kouakou Gadou - 1",
+     "texto": "Kouakou Gadou: comete 1+ falta",
+     "cuota": 1.57,
+     "p": 0.88,
+     "dato": "cumple 4/4 siendo titular · 1,35 por 90' (1-1-2-1)",
+     "nota": 1.0568000000000002,
+     "equipo": "Borussia Dortmund",
+     "lado": "V",
+     "partido": "Arsenal–Borussia Dortmund",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/42.png",
+     "logo_v": "https://media.api-sports.io/football/teams/165.png"
+    },
+    {
      "sel": "1635649|Player Fouls Committed|Jacobo Ramon - 1",
      "texto": "Jacobo Ramon: comete 1+ falta",
      "cuota": 1.57,
@@ -2049,21 +2064,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/116.png"
     },
     {
-     "sel": "1635731|Player Fouls Committed|Sandro Cruz - 1",
-     "texto": "Sandro Cruz: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,15 por 90' (0-2-1-2-1-1)",
-     "nota": 0.84,
-     "equipo": "Slovan Bratislava",
-     "lado": "L",
-     "partido": "Slovan Bratislava–Real Betis",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/656.png",
-     "logo_v": "https://media.api-sports.io/football/teams/543.png"
-    },
-    {
      "sel": "1635715|Away Player Shots|Kodai Sano - 1",
      "texto": "Kodai Sano: 1+ remate",
      "cuota": 1.8,
@@ -2079,19 +2079,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/197.png"
     },
     {
-     "sel": "1635611|Away Team Total Cards|Over 1.5",
-     "texto": "Borussia Dortmund ve más de 1,5 tarjetas",
-     "cuota": 1.53,
-     "p": 0.692,
-     "dato": "Borussia Dortmund ve 1,8 amarillas por partido",
-     "nota": 0.7146015623102355,
-     "partido": "Arsenal–Borussia Dortmund",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/42.png",
-     "logo_v": "https://media.api-sports.io/football/teams/165.png"
-    },
-    {
      "sel": "1635663|Goals Over/Under|Over 2.5",
      "texto": "Más de 2,5 goles",
      "cuota": 1.62,
@@ -2103,10 +2090,24 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/209.png",
      "logo_v": "https://media.api-sports.io/football/teams/212.png"
+    },
+    {
+     "sel": "1635731|Away Team Total Cards|Over 1.5",
+     "texto": "Real Betis ve 2 o más tarjetas",
+     "cuota": 1.62,
+     "p": 0.613,
+     "dato": "2,2 tarjetas de media para Real Betis en este cruce",
+     "nota": 0.613,
+     "partido": "Slovan Bratislava–Real Betis",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/656.png",
+     "logo_v": "https://media.api-sports.io/football/teams/543.png",
+     "solo_todo": true
     }
    ],
-   "cuota": 22.17,
-   "prob": 0.172
+   "cuota": 26.32,
+   "prob": 0.167
   },
   {
    "clave": "todo-2026-11-25",
