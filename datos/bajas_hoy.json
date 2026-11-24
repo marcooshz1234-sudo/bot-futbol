@@ -10964,14 +10964,26 @@
    {
     "equipo": 56,
     "jugador": "N. Eile",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Illness"
    },
    {
+    "equipo": 56,
+    "jugador": "L. McNally",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 56,
+    "jugador": "J. Williams",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
     "equipo": 1837,
-    "jugador": "L. Cacace",
+    "jugador": "N. Broadhead",
     "tipo": "Missing Fixture",
-    "motivo": "Calf Injury"
+    "motivo": "Thigh Injury"
    },
    {
     "equipo": 1837,
@@ -10981,9 +10993,15 @@
    },
    {
     "equipo": 1837,
-    "jugador": "N. Broadhead",
+    "jugador": "J. Windass",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 1837,
+    "jugador": "L. Cacace",
     "tipo": "Questionable",
-    "motivo": "Thigh Injury"
+    "motivo": "Calf Injury"
    },
    {
     "equipo": 1837,
@@ -10993,15 +11011,15 @@
    },
    {
     "equipo": 1837,
-    "jugador": "S. Revan",
+    "jugador": "O. Rathbone",
     "tipo": "Questionable",
-    "motivo": "Hamstring Injury"
+    "motivo": "Leg Injury"
    },
    {
     "equipo": 1837,
-    "jugador": "J. Windass",
+    "jugador": "S. Revan",
     "tipo": "Questionable",
-    "motivo": "Ankle Injury"
+    "motivo": "Hamstring Injury"
    }
   ],
   "1635692": [
@@ -11069,6 +11087,12 @@
   "1563281": [
    {
     "equipo": 62,
+    "jugador": "B. Brereton Diaz",
+    "tipo": "Missing Fixture",
+    "motivo": "Loan agreement"
+   },
+   {
+    "equipo": 62,
     "jugador": "M. Doherty",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
@@ -11081,12 +11105,6 @@
    },
    {
     "equipo": 62,
-    "jugador": "J. Rothwell",
-    "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 62,
     "jugador": "F. Seriki",
     "tipo": "Missing Fixture",
     "motivo": "Injury"
@@ -11096,6 +11114,12 @@
     "jugador": "J. Tanganga",
     "tipo": "Missing Fixture",
     "motivo": "Yellow Cards"
+   },
+   {
+    "equipo": 62,
+    "jugador": "J. Rothwell",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
    },
    {
     "equipo": 41,
@@ -11149,6 +11173,12 @@
    },
    {
     "equipo": 59,
+    "jugador": "J. Erabi",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 59,
     "jugador": "L. Gibbs",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
@@ -11170,6 +11200,30 @@
     "jugador": "A. McCann",
     "tipo": "Missing Fixture",
     "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 59,
+    "jugador": "P. Valentin",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 59,
+    "jugador": "S. Mills",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 59,
+    "jugador": "A. Moran",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 59,
+    "jugador": "A. Vukcevic",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
    }
   ],
   "1635713": [
@@ -12395,7 +12449,7 @@
    }
   ]
  },
- "ultima": "2026-11-24T19:12:31.927473+01:00",
+ "ultima": "2026-11-24T19:46:56.160181+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
