@@ -5,8 +5,12 @@ import resumen_dia as R
 
 
 class ResumenConOk17Nov(unittest.TestCase):
-    def test_pide_ok(self):
-        self.assertIn("'requiere_ok': True", open(R.__file__, encoding="utf-8").read())
+    def test_sale_solo_desde_25nov(self):
+        # 25/11 (Marcos: «el resumen de Telegram tampoco se sube solo»): ya no pide OK; a cambio espera a que todos los
+        # picks tengan resultado y no cuenta lo borrado (test_resumen_espera_24nov)
+        src = open(R.__file__, encoding="utf-8").read()
+        self.assertNotIn("'requiere_ok': True", src)
+        self.assertIn("sin_resolver(", src)
 
     def test_mismo_partido_una_vez(self):
         ps = [{"texto": "Ambos marcan en Dinamarca–Noruega"}, {"texto": "Más de 2,5 goles en Dinamarca–Noruega"}]

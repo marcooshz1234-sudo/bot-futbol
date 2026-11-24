@@ -438,7 +438,9 @@ def main():
                  'foto': foto, 'origen': 'bot', 'directo': True, 'facebook': 'texto', 'sin_instagram': True,
                  'solo_en': ['telegram'],   # 16/11: Threads, nada de cuánto acertamos (REGLAS §0)
                  # 17/11 (Marcos): el resumen salió solo con fallos: ya no sale sin su «✅ Publicar»
-                 'requiere_ok': True, 'aviso': '📊 Resumen de la noche listo. Sale cuando le des a Publicar.'})
+                 # 25/11 (Marcos: «el resumen de Telegram de hoy tampoco se sube solo»): sale solo, ya sin «Publicar»
+                 # (espera a que todos los picks tengan resultado y no cuenta lo borrado: 24/11)
+                 })
     COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print('Resumen de picks del día en cola')
 
