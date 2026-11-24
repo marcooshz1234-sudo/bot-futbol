@@ -144,9 +144,49 @@
   "redes-2026-11-24-combi-partido-1635713-threads-instagram": "2026-11-24T20:56",
   "redes-2026-11-24-estrella-1635715-threads-instagram": "2026-11-24T20:56",
   "repe-2026-11-24-1635611|Away Corners Over/Under|Over 2.5": "2026-11-24T20:56",
-  "redes-2026-11-24-verde-auto-2026-11-24-pick-extra-city-threads-instagram": "2026-11-24T23:10"
+  "redes-2026-11-24-verde-auto-2026-11-24-pick-extra-city-threads-instagram": "2026-11-24T23:10",
+  "directo-2026-11-25-pick-claude-1": "2026-11-24T23:40",
+  "directo-2026-11-25-pick-claude-2": "2026-11-24T23:40",
+  "directo-2026-11-25-pick-claude-3": "2026-11-24T23:40",
+  "directo-2026-11-25-pick-claude-4": "2026-11-24T23:40",
+  "directo-2026-11-25-pick-claude-5": "2026-11-24T23:40",
+  "directo-2026-11-25-pick-claude-6": "2026-11-24T23:40",
+  "directo-2026-11-25-pick-claude-7": "2026-11-24T23:40",
+  "directo-2026-11-25-pick-claude-8": "2026-11-24T23:40"
  },
  "abiertos": [
+  {
+   "clave": "directo-2026-11-25-pick-claude-1",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Empezamos el día con este 👇 (10:30)"
+  },
+  {
+   "clave": "directo-2026-11-25-pick-claude-2",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Vamos con otro pick 🍀 (12:30)"
+  },
+  {
+   "clave": "directo-2026-11-25-pick-claude-3",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Otro que nos gusta 🔥 (13:30)"
+  },
+  {
+   "clave": "directo-2026-11-25-pick-claude-4",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Seguimos con otro 🍀 (15:00)"
+  },
+  {
+   "clave": "directo-2026-11-25-pick-claude-5",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Otro pick para la tarde 👇 (16:30)"
+  },
+  {
+   "clave": "directo-2026-11-25-pick-claude-6",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Vamos con otro 🔥 (17:30)"
+  },
+  {
+   "clave": "directo-2026-11-25-pick-claude-7",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Otro que nos gusta mucho 🍀 (18:00)"
+  },
+  {
+   "clave": "directo-2026-11-25-pick-claude-8",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Pick para la noche 👇 (19:30)"
+  },
   {
    "clave": "repe-2026-11-24-1635692|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-extra-city, estrella-1635692, loca-th-noche-2100-x100)"
@@ -176,12 +216,16 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (estrella-1635715, loca-th-noche-2300-hora, combi-tres)"
   },
   {
+   "clave": "repe-2026-11-24-1635611|Away Corners Over/Under|Over 2.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-2050-champions, loca-th-0700-lista-corners, loca-th-1900-lista-corners)"
+  },
+  {
    "clave": "repe-2026-11-24-1635692|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 4 posts (loca-th-2050-champions, loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1400-x50)"
   },
   {
-   "clave": "repe-2026-11-24-1635611|Away Corners Over/Under|Over 2.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-2050-champions, loca-th-0700-lista-corners, loca-th-1900-lista-corners)"
+   "clave": "repe-2026-11-24-1635663|To Win Either Half|Away",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0030-x100, loca-th-0300-x50)"
   },
   {
    "clave": "repe-2026-11-24-1635663|Total - Away|Over 1.5",
@@ -192,36 +236,32 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-1130-x100)"
   },
   {
-   "clave": "repe-2026-11-24-1635663|To Win Either Half|Away",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0030-x100, loca-th-0300-x50)"
-  },
-  {
    "clave": "repe-2026-11-24-1635731|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-24-1635715|Both Teams Score|Yes",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
   },
   {
    "clave": "repe-2026-11-24-1635713|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
   },
   {
-   "clave": "repe-2026-11-24-1635649|Total - Away|Over 0.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2300-hora, loca-th-0030-x100)"
+   "clave": "repe-2026-11-24-1635715|Both Teams Score|Yes",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
   },
   {
    "clave": "repe-2026-11-24-1635663|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-0030-x100, loca-th-0600-x500)"
   },
   {
-   "clave": "repe-2026-11-24-1635667|Anytime Goal Scorer|Nicolas Jackson",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0030-x100, loca-th-0800-reto, loca-th-1130-x100)"
+   "clave": "repe-2026-11-24-1635649|Total - Away|Over 0.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2300-hora, loca-th-0030-x100)"
   },
   {
    "clave": "repe-2026-11-24-1635611|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0030-x100, loca-th-0300-x50, loca-th-1400-x50)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635667|Anytime Goal Scorer|Nicolas Jackson",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0030-x100, loca-th-0800-reto, loca-th-1130-x100)"
   },
   {
    "clave": "repe-2026-11-24-1635641|Double Chance|Draw/Away",
@@ -232,16 +272,16 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1600-x500)"
   },
   {
-   "clave": "repe-2026-11-24-1635641|Total - Away|Over 1.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1830-x1000)"
+   "clave": "repe-2026-11-24-1635649|Results/Both Teams Score|Home/Yes",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1400-x50)"
   },
   {
    "clave": "repe-2026-11-24-1635663|Match Winner|Away",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1130-x100)"
   },
   {
-   "clave": "repe-2026-11-24-1635649|Results/Both Teams Score|Home/Yes",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1400-x50)"
+   "clave": "repe-2026-11-24-1635641|Total - Away|Over 1.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1830-x1000)"
   },
   {
    "clave": "repe-2026-11-24-1635715|Away Corners Over/Under|Over 2.5",
@@ -252,24 +292,52 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0800-reto, loca-th-0900-tiros, loca-th-1830-x1000)"
   },
   {
-   "clave": "repe-2026-11-25-1635625|Player Fouls Committed|Gianni Stensness - 1",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (pick-seguro, combi-tres, loca-th-noche-2230-x50)"
-  },
-  {
-   "clave": "repe-2026-11-25-1635703|Home Player Shots|Achraf Hakimi - 2",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (pick-seguro-4, estrella-1635703, loca-th-noche-2230-x50)"
-  },
-  {
-   "clave": "repe-2026-11-25-1635682|Away Player Shots|Dayot Upamecano - 1",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (pick-seguro-5, estrella-1635682, loca-th-noche-2100-x100)"
-  },
-  {
    "clave": "repe-2026-11-25-1635682|Both Teams Score|Yes",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-noche-2230-x50)"
   }
  ],
- "revisado": "2026-11-24T23:30",
+ "revisado": "2026-11-24T23:40",
  "historial": [
+  {
+   "hora": "2026-11-24T23:40",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Empezamos el día con este 👇 (10:30)",
+   "k": "directo-2026-11-25-pick-claude-1"
+  },
+  {
+   "hora": "2026-11-24T23:40",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Vamos con otro pick 🍀 (12:30)",
+   "k": "directo-2026-11-25-pick-claude-2"
+  },
+  {
+   "hora": "2026-11-24T23:40",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Otro que nos gusta 🔥 (13:30)",
+   "k": "directo-2026-11-25-pick-claude-3"
+  },
+  {
+   "hora": "2026-11-24T23:40",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Seguimos con otro 🍀 (15:00)",
+   "k": "directo-2026-11-25-pick-claude-4"
+  },
+  {
+   "hora": "2026-11-24T23:40",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Otro pick para la tarde 👇 (16:30)",
+   "k": "directo-2026-11-25-pick-claude-5"
+  },
+  {
+   "hora": "2026-11-24T23:40",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Vamos con otro 🔥 (17:30)",
+   "k": "directo-2026-11-25-pick-claude-6"
+  },
+  {
+   "hora": "2026-11-24T23:40",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Otro que nos gusta mucho 🍀 (18:00)",
+   "k": "directo-2026-11-25-pick-claude-7"
+  },
+  {
+   "hora": "2026-11-24T23:40",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Pick para la noche 👇 (19:30)",
+   "k": "directo-2026-11-25-pick-claude-8"
+  },
   {
    "hora": "2026-11-24T23:10",
    "t": "⏰ No ha salido en threads ni instagram (22:47): PARA DENTRO SEÑORES ✅🤑",
@@ -529,46 +597,6 @@
    "hora": "2026-11-24T00:03",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0700-lista-corners, loca-th-1130-x100, loca-th-1900-lista-corners)",
    "k": "repe-2026-11-24-1635715|Away Corners Over/Under|Over 2.5"
-  },
-  {
-   "hora": "2026-11-24T00:03",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0800-reto, loca-th-0900-tiros, loca-th-1830-x1000)",
-   "k": "repe-2026-11-24-1635715|Away Player Shots|Ivan Perisic - 2"
-  },
-  {
-   "hora": "2026-11-24T00:03",
-   "t": "📰 Real Madrid–PSV Eindhoven: «Real Madrid dice que el delantero Endrick estará de baja por una lesión muscular» (Independent en Español) · tenemos 14 post(s) de este partido: lista-europa-1, combi-tres, lista-europa-2, pick-seguro-6, estrella-1635715, loca-th-0100-lista-ambos, loca-th-0300-x50, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-reto, loca-th-0900-tiros, loca-th-1130-x100, loca-th-1830-x1000, loca-th-1900-lista-corners",
-   "k": "prensa-1635715-0a4401b5"
-  },
-  {
-   "hora": "2026-11-23T23:50",
-   "t": "📰 Bodo/Glimt–Lask Linz: «Bodø/Glimt-Lask Linz: el Bodø/Glimt llega con tres bajas» (Tu Futbolero) · tenemos 4 post(s) de este partido: ganadores-champions, escalera, lista-europa-1, lista-europa-2",
-   "k": "prensa-1635641-10690e46"
-  },
-  {
-   "hora": "2026-11-23T23:01",
-   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇",
-   "k": "cuotas-2026-11-24-pick-extra-leipzig"
-  },
-  {
-   "hora": "2026-11-23T23:01",
-   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇",
-   "k": "cuotas-2026-11-24-pick-extra-city"
-  },
-  {
-   "hora": "2026-11-23T23:01",
-   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇",
-   "k": "cuotas-2026-11-24-pick-extra-feyenoord"
-  },
-  {
-   "hora": "2026-11-23T23:01",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-extra-city, estrella-1635692, loca-th-noche-2100-x100)",
-   "k": "repe-2026-11-24-1635692|Goals Over/Under - Second Half|Over 1.5"
-  },
-  {
-   "hora": "2026-11-23T20:56",
-   "t": "📰 Slovan Bratislava–Real Betis: «Alineación probable del Betis ante el Slovan Bratislava: Lo Celso, baja de última hora» (Andalucía Información) · tenemos 7 post(s) de este partido: semana-europa, ganadores-champions, lista-europa-1, pick-seguro-2, loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-noche-2300-hora",
-   "k": "prensa-1635731-0093ac47"
   }
  ]
 }
