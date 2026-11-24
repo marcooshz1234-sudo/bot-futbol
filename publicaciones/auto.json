@@ -12912,7 +12912,7 @@
     "cuotas": [
       1.83,
       1.67,
-      1.73,
+      1.67,
       1.67,
       1.67,
       1.57
@@ -12926,7 +12926,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-24T05:31"
   },
   {
     "id": "2026-11-24-loca-th-0800-reto",
