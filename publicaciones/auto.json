@@ -15361,7 +15361,7 @@
       "1635735|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.57,
+      1.67,
       2.0,
       1.73,
       1.62,
@@ -15378,7 +15378,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-24T20:09"
   },
   {
     "id": "2026-11-25-loca-th-noche-2130-lista-ambos",
@@ -15392,7 +15393,7 @@
     "cuotas": [
       1.62,
       1.62,
-      1.5
+      1.44
     ],
     "origen": "threads_locas",
     "cuota_bet365": null,
@@ -15403,7 +15404,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-24T20:09"
   },
   {
     "id": "2026-11-25-loca-th-noche-2200-duelo",
