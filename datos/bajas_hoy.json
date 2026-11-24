@@ -10764,21 +10764,33 @@
    },
    {
     "equipo": 1335,
+    "jugador": "N. Chalobah",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 1335,
+    "jugador": "Z. Mitchell",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 1335,
+    "jugador": "K. Ramsay",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 1335,
     "jugador": "C. Sichenje",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
    },
    {
     "equipo": 1335,
-    "jugador": "N. Chalobah",
+    "jugador": "L. Jones",
     "tipo": "Questionable",
-    "motivo": "Injury"
-   },
-   {
-    "equipo": 1335,
-    "jugador": "K. Ramsay",
-    "tipo": "Questionable",
-    "motivo": "Injury"
+    "motivo": "Inactive"
    },
    {
     "equipo": 1379,
@@ -10791,15 +10803,21 @@
     "jugador": "M. Melia",
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 1379,
+    "jugador": "T. Olaofe",
+    "tipo": "Missing Fixture",
+    "motivo": "Loan agreement"
    }
   ],
   "1635649": [],
   "1635731": [
    {
     "equipo": 656,
-    "jugador": "R. Cerepkai",
+    "jugador": "S. Camara",
     "tipo": "Missing Fixture",
-    "motivo": "Back Injury"
+    "motivo": "Ankle Injury"
    },
    {
     "equipo": 656,
@@ -10815,21 +10833,51 @@
    },
    {
     "equipo": 656,
-    "jugador": "J. Medvedev",
+    "jugador": "M. Kukharevych",
     "tipo": "Missing Fixture",
-    "motivo": "Calf Injury"
+    "motivo": "Off the roster"
    },
    {
     "equipo": 656,
-    "jugador": "S. Camara",
-    "tipo": "Questionable",
+    "jugador": "J. Medvedev",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
+   },
+   {
+    "equipo": 656,
+    "jugador": "A. Mustafic",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 656,
+    "jugador": "K. Wimmer",
+    "tipo": "Missing Fixture",
     "motivo": "Injury"
+   },
+   {
+    "equipo": 656,
+    "jugador": "R. Cerepkai",
+    "tipo": "Questionable",
+    "motivo": "Back Injury"
+   },
+   {
+    "equipo": 656,
+    "jugador": "A. Gajdos",
+    "tipo": "Questionable",
+    "motivo": "Knee Injury"
    },
    {
     "equipo": 543,
     "jugador": "D. Ceballos",
     "tipo": "Missing Fixture",
     "motivo": "Injury"
+   },
+   {
+    "equipo": 543,
+    "jugador": "G. Lo Celso",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
    },
    {
     "equipo": 543,
@@ -10842,12 +10890,6 @@
     "jugador": "J. Morante",
     "tipo": "Missing Fixture",
     "motivo": "Hip Injury"
-   },
-   {
-    "equipo": 543,
-    "jugador": "Antony",
-    "tipo": "Questionable",
-    "motivo": "Injury"
    }
   ],
   "1635663": [
@@ -10860,12 +10902,6 @@
    {
     "equipo": 209,
     "jugador": "J. Bos",
-    "tipo": "Missing Fixture",
-    "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 209,
-    "jugador": "J. Moder",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
    },
@@ -10885,13 +10921,19 @@
     "equipo": 209,
     "jugador": "T. Wessels",
     "tipo": "Missing Fixture",
-    "motivo": "Inactive"
+    "motivo": "Knee Injury"
    },
    {
     "equipo": 209,
     "jugador": "A. Hadj Moussa",
     "tipo": "Questionable",
     "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 209,
+    "jugador": "J. Moder",
+    "tipo": "Questionable",
+    "motivo": "Knee Injury"
    },
    {
     "equipo": 212,
@@ -10916,12 +10958,6 @@
     "jugador": "V. Sousa",
     "tipo": "Missing Fixture",
     "motivo": "Leg Injury"
-   },
-   {
-    "equipo": 212,
-    "jugador": "William Gomes",
-    "tipo": "Missing Fixture",
-    "motivo": "Ankle Injury"
    }
   ],
   "1563275": [
@@ -10971,12 +11007,6 @@
   "1635692": [
    {
     "equipo": 50,
-    "jugador": "M. Nunes",
-    "tipo": "Missing Fixture",
-    "motivo": "Injury"
-   },
-   {
-    "equipo": 50,
     "jugador": "A. Semenyo",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
@@ -10998,12 +11028,6 @@
     "jugador": "A. Buongiorno",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 492,
-    "jugador": "David Neres",
-    "tipo": "Missing Fixture",
-    "motivo": "Thigh Injury"
    },
    {
     "equipo": 492,
@@ -11157,6 +11181,12 @@
    },
    {
     "equipo": 173,
+    "jugador": "C. Lukeba",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 173,
     "jugador": "A. Ouedraogo",
     "tipo": "Missing Fixture",
     "motivo": "Shoulder Injury"
@@ -11169,9 +11199,21 @@
    },
    {
     "equipo": 116,
-    "jugador": "A. Bulatovic",
+    "jugador": "R. Aguilar",
     "tipo": "Missing Fixture",
-    "motivo": "Neck Injury"
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 116,
+    "jugador": "J. Chavez",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
+   },
+   {
+    "equipo": 116,
+    "jugador": "M. Cuisance",
+    "tipo": "Missing Fixture",
+    "motivo": "Illness"
    },
    {
     "equipo": 116,
@@ -11187,18 +11229,6 @@
    },
    {
     "equipo": 116,
-    "jugador": "J. Gradit",
-    "tipo": "Missing Fixture",
-    "motivo": "Injury"
-   },
-   {
-    "equipo": 116,
-    "jugador": "F. Ivanovic",
-    "tipo": "Missing Fixture",
-    "motivo": "Concussion"
-   },
-   {
-    "equipo": 116,
     "jugador": "I. Jourdren",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
@@ -11208,12 +11238,6 @@
     "jugador": "M. Nawrocki",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 116,
-    "jugador": "R. Aguilar",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
    }
   ],
   "1563280": [
@@ -11249,6 +11273,18 @@
    },
    {
     "equipo": 1355,
+    "jugador": "J. Meghoma",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 1355,
+    "jugador": "M. Milovanovic",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 1355,
     "jugador": "C. Ogilvie",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
@@ -11260,15 +11296,15 @@
     "motivo": "Knee Injury"
    },
    {
-    "equipo": 1355,
-    "jugador": "M. Milovanovic",
-    "tipo": "Questionable",
-    "motivo": "Thigh Injury"
-   },
-   {
     "equipo": 48,
     "jugador": "K. Walker-Peters",
     "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 48,
+    "jugador": "A. Areola",
+    "tipo": "Questionable",
     "motivo": "Inactive"
    },
    {
@@ -11287,6 +11323,12 @@
    },
    {
     "equipo": 541,
+    "jugador": "Endrick",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 541,
     "jugador": "F. Mendy",
     "tipo": "Missing Fixture",
     "motivo": "Hip Injury"
@@ -11296,6 +11338,12 @@
     "jugador": "Rodrygo",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 197,
+    "jugador": "Mauro Junior",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
    },
    {
     "equipo": 197,
@@ -11320,12 +11368,6 @@
     "jugador": "J. Schouten",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 197,
-    "jugador": "Mauro Junior",
-    "tipo": "Questionable",
-    "motivo": "Injury"
    }
   ],
   "1563278": [
@@ -11349,15 +11391,39 @@
    },
    {
     "equipo": 76,
-    "jugador": "Ronald",
+    "jugador": "G. Franco",
     "tipo": "Missing Fixture",
-    "motivo": "Hamstring Injury"
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 76,
+    "jugador": "M. Stamenic",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
    },
    {
     "equipo": 76,
     "jugador": "J. Tymon",
     "tipo": "Missing Fixture",
     "motivo": "Yellow Cards"
+   },
+   {
+    "equipo": 76,
+    "jugador": "Ronald",
+    "tipo": "Questionable",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 76,
+    "jugador": "R. Stewart",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 76,
+    "jugador": "M. K. Yeo",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
    }
   ],
   "1563279": [
@@ -11387,15 +11453,15 @@
    },
    {
     "equipo": 72,
-    "jugador": "T. Lamptey",
-    "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 72,
     "jugador": "A. S. Mbengue",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 72,
+    "jugador": "J. Dunne",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
    },
    {
     "equipo": 72,
@@ -11428,6 +11494,12 @@
     "jugador": "S. Langas",
     "tipo": "Missing Fixture",
     "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "H. Meister",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
    },
    {
     "equipo": 69,
@@ -11469,6 +11541,12 @@
   "1635611": [
    {
     "equipo": 42,
+    "jugador": "D. Raya",
+    "tipo": "Missing Fixture",
+    "motivo": "Shoulder Injury"
+   },
+   {
+    "equipo": 42,
     "jugador": "B. Saka",
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
@@ -11480,28 +11558,10 @@
     "motivo": "Muscle Injury"
    },
    {
-    "equipo": 42,
-    "jugador": "D. Raya",
-    "tipo": "Questionable",
-    "motivo": "Injury"
-   },
-   {
     "equipo": 165,
     "jugador": "E. Can",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 165,
-    "jugador": "C. Chukwuemeka",
-    "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 165,
-    "jugador": "S. Guirassy",
-    "tipo": "Missing Fixture",
-    "motivo": "Thigh Injury"
    },
    {
     "equipo": 165,
@@ -11569,25 +11629,25 @@
     "equipo": 560,
     "jugador": "E. Pitak",
     "tipo": "Missing Fixture",
-    "motivo": "Health problems"
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 560,
+    "jugador": "L. Provod",
+    "tipo": "Missing Fixture",
+    "motivo": "Surgery"
+   },
+   {
+    "equipo": 560,
+    "jugador": "D. Sturm",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
    },
    {
     "equipo": 560,
     "jugador": "T. Diakite",
     "tipo": "Questionable",
     "motivo": "Health problems"
-   },
-   {
-    "equipo": 560,
-    "jugador": "L. Provod",
-    "tipo": "Questionable",
-    "motivo": "Injury"
-   },
-   {
-    "equipo": 560,
-    "jugador": "D. Sturm",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
    },
    {
     "equipo": 533,
@@ -11609,8 +11669,14 @@
    },
    {
     "equipo": 533,
-    "jugador": "G. Moreno",
+    "jugador": "N. Saliba",
     "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 533,
+    "jugador": "G. Moreno",
+    "tipo": "Questionable",
     "motivo": "Muscle Injury"
    }
   ],
@@ -11620,6 +11686,12 @@
     "jugador": "A. McCarthy",
     "tipo": "Missing Fixture",
     "motivo": "Red Card"
+   },
+   {
+    "equipo": 13976,
+    "jugador": "A. Khaybulaev",
+    "tipo": "Questionable",
+    "motivo": "Knock"
    },
    {
     "equipo": 13976,
@@ -11642,6 +11714,12 @@
    {
     "equipo": 529,
     "jugador": "X. Espart",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 529,
+    "jugador": "Lamine Yamal",
     "tipo": "Missing Fixture",
     "motivo": "Ankle Injury"
    },
@@ -12317,7 +12395,7 @@
    }
   ]
  },
- "ultima": "2026-11-24T18:38:41.058324+01:00",
+ "ultima": "2026-11-24T19:12:31.927473+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
