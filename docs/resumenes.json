@@ -3479,14 +3479,14 @@
   },
   "2026-11-24": {
     "dia": "2026-11-24",
-    "total": 3,
+    "total": 4,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 3,
+      "pendiente": 4,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 3
+      "sin_resolver": 4
     },
     "combis": [
       {
@@ -3506,13 +3506,19 @@
         "titulo": "⚽ AMBOS MARCAN HOY ⚽",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-24-loca-th-0200-duelo",
+        "titulo": "🥊 EL DUELO DE TIROS 🥊",
+        "estado": "pendiente",
+        "cuota": 4.4
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 21
+      "total": 23
     },
-    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x63,23 🎰 · 63,23 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x63,23 🎰 · 63,23 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 4,40 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 4 sin resolver"
   }
 }

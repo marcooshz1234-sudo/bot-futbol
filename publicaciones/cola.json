@@ -470,7 +470,14 @@
     "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar.",
     "nota": "24/11 01:20 Claude: el automático decía 2 de 2 (+9 €); faltaban Monza (✅) y Brentford (❌). Marcos: «sube solo el resumen de hoy»",
     "enviado": "2026-11-24T01:20",
-    "mensaje_id": 602
+    "mensaje_id": 602,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-23-verde-auto-6-11-23-loca-th-noche-2230-lista-corners",
@@ -508,7 +515,14 @@
     ],
     "nota": "24/11 01:26 Marcos borró el 602 (contaba el Monza borrado): «lo puede volver a subir»",
     "enviado": "2026-11-24T01:28",
-    "mensaje_id": 603
+    "mensaje_id": 603,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-24-pick-claude-1",
