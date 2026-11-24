@@ -148,3 +148,21 @@ class QuienGana(unittest.TestCase):
         self.assertEqual([x["texto"] for x in ps], ["Gana L1"])
         p["cuotas_bet365"] = {"Match Winner": [["Home", "1.10"]]}
         self.assertEqual(CS.patas_ganador(p), [])           # demasiado baja
+
+
+class EstiloTipster24Nov(unittest.TestCase):
+    """24/11 (Marcos, capturas de tipsters: «mira qué bonitas»): remates del equipo con su serie y variedad de tipos."""
+    def test_remates_de_equipo_con_serie(self):
+        p = partido(1, "21:00")
+        p["cuotas_bet365"] = {"Away Player Shots Total": [["Over 8.5", "1.73"], ["Under 8.5", "2.00"]]}
+        with mock.patch.object(CS, "_teams", lambda pid: {"home": {"id": 1}, "away": {"id": 2}}), \
+                mock.patch.object(CS, "serie_equipo", lambda tid, campo, n=8: [10, 22, 18, 12, 12, 15, 19, 15] if str(tid) == "2" else []):
+            xs = CS.patas_linea_equipo(p)
+        self.assertEqual(len(xs), 1)
+        self.assertIn("más de 8,5 remates", xs[0]["texto"])
+        self.assertIn("8 de sus últimos 8 (10-22-18-12-12-15-19-15)", xs[0]["dato"])
+
+    def test_familias(self):
+        self.assertEqual(CS.familia({"sel": "1|Player Fouls Committed|X - 1", "texto": "X: comete 1+ falta"}), "faltas")
+        self.assertEqual(CS.familia({"sel": "1|Away Player Shots Total|Over 8.5", "texto": "D: más de 8,5 remates"}), "remates equipo")
+        self.assertEqual(CS.familia({"sel": "1|Goalkeeper Saves|D - 2", "texto": "D: 2+ paradas"}), "paradas")

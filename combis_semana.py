@@ -23,7 +23,7 @@ from datetime import datetime, timedelta
 from bot import DATOS, MADRID, leer
 
 SALIDA = DATOS / "combis_semana.json"
-CUOTA_MIN, CUOTA_MAX, OBJETIVO = 1.38, 1.70, 1.50
+CUOTA_MIN, CUOTA_MAX, OBJETIVO = 1.38, 1.80, 1.50   # 24/11: hasta 1,80 (máximo de pata)
 MAX_PATAS = 7
 TODO_DIA_MAX = 14   # 22/11: «Todo el día», como mucho 14 patas
 # 20/11 (Marcos: «solo de las 5 grandes ligas»): las 5 grandes, las europeas, sus copas y las selecciones. Solo si en
@@ -46,7 +46,6 @@ JUGADOR = {  # mercado bet365 → (dato del jugador, texto)
     "Home Player Fouls Committed": ("faltas_c", "comete {n}+ falta{s}"),
     "Away Player Fouls Committed": ("faltas_c", "comete {n}+ falta{s}"),
     "Home Player Shots": ("tiros", "{n}+ remate{s}"), "Away Player Shots": ("tiros", "{n}+ remate{s}"),
-    "Home Player Shots Total": ("tiros", "{n}+ remate{s}"), "Away Player Shots Total": ("tiros", "{n}+ remate{s}"),
     "Player Shots Total": ("tiros", "{n}+ remate{s}"),
     "Home Player Shots On Target Total": ("a_puerta", "{n}+ remate{s} a puerta"),
     "Away Player Shots On Target Total": ("a_puerta", "{n}+ remate{s} a puerta"),
@@ -172,6 +171,54 @@ def candidata(sel, texto, cuota, p, dato):
         return None
     return {"sel": sel, "texto": texto, "cuota": cuota, "p": round(p, 3), "dato": dato,
             "nota": p + 0.5 * (p * cuota - 1) - abs(cuota - OBJETIVO) * 0.2}
+
+
+_EQ = None
+
+
+def serie_equipo(team_id, campo, n=8):
+    """24/11 (Marcos, capturas de tipsters: «Remates Aston Villa: ha superado la línea en 3/4»): lo que ha hecho un equipo
+    en sus últimos partidos (remates, a puerta, córners, tarjetas…), del más antiguo al más reciente."""
+    global _EQ
+    if _EQ is None:
+        _EQ = {}
+        ps = [leer(f, None) for f in glob.glob(str(DATOS / "partidos" / "*.json"))]
+        for x in sorted((x for x in ps if x and x.get("stats")), key=lambda x: x.get("fecha", "")):
+            for tid, st in x["stats"].items():
+                if st:
+                    _EQ.setdefault(str(tid), []).append(st)
+    return [st[campo] for st in _EQ.get(str(team_id), []) if st.get(campo) is not None][-n:]
+
+
+EQUIPO_LINEA = {   # mercado de bet365 → (campo, texto); opciones «Over 12.5»
+    "Home Player Shots Total": ("tiros", "remates", "L"), "Away Player Shots Total": ("tiros", "remates", "V"),
+    "Home Player Shots On Target Total": ("a_puerta", "remates a puerta", "L"),
+    "Away Player Shots On Target Total": ("a_puerta", "remates a puerta", "V"),
+}
+
+
+def patas_linea_equipo(p):
+    """Remates / a puerta de UN equipo con su serie («ha superado 13,5 en 6 de sus últimos 8: 15-17-…»)."""
+    c, t, out = p.get("cuotas_bet365") or {}, _teams(p["id"]), []
+    for m, (campo, que, lado) in EQUIPO_LINEA.items():
+        eq = t.get("home" if lado == "L" else "away") or {}
+        nombre = p["local"] if lado == "L" else p["visitante"]
+        serie = serie_equipo(eq.get("id"), campo)
+        if len(serie) < 4:
+            continue
+        for o, cu in c.get(m, []):
+            mm = re.match(r"Over (\d+)\.5$", str(o))
+            if not mm:
+                continue
+            k = int(mm.group(1)) + 1
+            hits = sum(v >= k for v in serie)
+            pr = (hits + 1) / (len(serie) + 2)
+            x = candidata(f"{p['id']}|{m}|{o}", f"{nombre}: más de {mm.group(1)},5 {que}", _num(cu), pr,
+                          f"ha superado la línea en {hits} de sus últimos {len(serie)} ({'-'.join(str(v) for v in serie)})")
+            if x:
+                x["lado"] = lado
+                out.append(x)
+    return out
 
 
 def patas_equipo(p):
@@ -305,6 +352,10 @@ def patas_equipo(p):
         if o.startswith("Over ") and o.endswith(".5") and lam_tj:
             out.append(candidata(f"{pid}|Cards Over/Under|{o}", f"Más de {o.split()[1].replace('.', ',')} tarjetas en el partido", _num(cu),
                                  poisson_al_menos(lam_tj, int(float(o.split()[1]) + 0.5)), f"{coma(lam_tj, 1)} tarjetas de media entre los dos"))
+    try:
+        out += patas_linea_equipo(p)
+    except Exception as e:
+        print("patas_linea_equipo:", str(e)[:100])
     return [x for x in out if x]
 
 
@@ -520,13 +571,23 @@ def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_de
                                    expl=f"@{DOS_DIA_CUOTA[0]}-{DOS_DIA_CUOTA[1]} con patas de @{coma(DOS_DIA_PATA[0])}-"
                                         f"{coma(DOS_DIA_PATA[1])} (la {otra}, otra distinta)", liga="Varias"))
     for clave, titulo, expl, filtro, n, orden in tipos:
-        mejores = []
-        for p, cands in pool:
+        mejores, fams = [], {}
+        # primero los partidos con menos tipos donde elegir (para que la variedad no la paguen ellos)
+        orden_pool = sorted(pool, key=lambda pc: (len({familia(x) for x in pc[1] if filtro(x)}),
+                                                  -max((x[orden] for x in pc[1]), default=0)))
+        for p, cands in orden_pool:
             gan = clave.startswith("ganan")
             libre = clave == "ganan-larga" or clave.startswith("todo-")
-            cs = [x for x in cands if filtro(x) and (libre or x["sel"] not in usadas) and gan == bool(x.get("ganador"))]
-            if cs:
-                mejores.append(max(cs, key=lambda x: x[orden]))
+            cs = sorted([x for x in cands if filtro(x) and (libre or x["sel"] not in usadas) and gan == bool(x.get("ganador"))],
+                        key=lambda x: -x[orden])
+            if clave.startswith("todo-") and cs:
+                # 24/11 (Marcos, capturas de tipsters: «mira qué bonitas»): variedad, como mucho 2 del mismo tipo
+                # (faltas, remates, paradas, goles, córners, tarjetas, remates de equipo); si no hay otra, la mejor
+                x = next((x for x in cs if fams.get(familia(x), 0) < 2), cs[0])
+                fams[familia(x)] = fams.get(familia(x), 0) + 1
+                mejores.append(x)
+            elif cs:
+                mejores.append(cs[0])
         patas = sorted(sorted(mejores, key=lambda x: -x[orden])[:n], key=lambda x: x["hora"])
         if len(patas) < min(3, n):
             continue
@@ -543,6 +604,24 @@ def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_de
         if clave.startswith("todo-"):
             out += dos.get(clave[5:], [])
     return out
+
+
+def familia(x):
+    """Tipo de pata para no repetir lo mismo en una combi: faltas, remates, paradas, goles, córners, tarjetas…"""
+    m, t = x["sel"].split("|")[1], x["texto"].lower()
+    if "falta" in t:
+        return "faltas"
+    if "parada" in t or "Saves" in m:
+        return "paradas"
+    if m in EQUIPO_LINEA or m in ("Shots.1x2", "ShotOnTarget 1x2", "Total Shots", "Total ShotOnGoal"):
+        return "remates equipo"
+    if "remate" in t or "tiro" in t:
+        return "remates"
+    if "Corners" in m:
+        return "corners"
+    if "Cards" in m:
+        return "tarjetas"
+    return "goles/resultado"
 
 
 DOS_DIA_CUOTA = (30, 40)       # 22/11 (Marcos): las dos del día, de @30 a @40…
