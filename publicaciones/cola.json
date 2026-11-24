@@ -947,5 +947,19 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-24-verde-auto-2026-11-24-pick-claude-2",
+    "fecha": "2026-11-24T22:33",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Armando Obispo (PSV): comete 1+ falta\n\n📈 Cuota @1,53\n\nSeguimos sumando 📈",
+    "foto": "publicaciones/media/2026-11-24-verde-auto-2026-11-24-pick-claude-2.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-24-pick-claude-2",
+    "solo_en": [
+      "telegram"
+    ]
   }
 ]
