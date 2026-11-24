@@ -1,17 +1,17 @@
 # 1899 Hoffenheim – FC Augsburg
 **Bundesliga** · Regular Season - 11 · 29/11/2026 17:30 (hora España) · SNP Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
-_Actualizadas: 23/11 08:33_
+_Actualizadas: 24/11 10:52_
 
 - **1X2:** 1 **1.73**  ·  X **4.33**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.20**  ·  X2 **2.05**
 - **Ambos marcan:** Sí **1.36**  ·  No **3.00**
 - **Goles más/menos:**
     - 1,5: más **1.08** · menos **8.00**
-    - 2,5: más **1.33** · menos **3.40**
+    - 2,5: más **1.30** · menos **3.50**
     - 3,5: más **1.80** · menos **2.00**
     - 4,5: más **2.75** · menos **1.44**
     - 5,5: más **4.50** · menos **1.20**
@@ -33,7 +33,7 @@ _Actualizadas: 23/11 08:33_
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 10,5: más **1.98** · menos **1.82**
+    - 10,5: más **1.91** · menos **1.80**
 - **Córners 1X2:** 1 **1.40**  ·  X **9.50**  ·  2 **3.40**
 - **1X2 descanso:** 1 **2.10**  ·  X **2.75**  ·  2 **4.00**
 - **Goals Over/Under - Second Half:**

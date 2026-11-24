@@ -1,18 +1,18 @@
 # CSKA Sofia – Trabzonspor
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España) · Stadion Balgarska Armia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 00:53_
+_Actualizadas: 24/11 10:51_
 
-- **1X2:** 1 **3.80**  ·  X **3.60**  ·  2 **1.85**
+- **1X2:** 1 **3.75**  ·  X **3.60**  ·  2 **1.90**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.25**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
     - 2,5: más **1.60** · menos **2.30**
-    - 3,5: más **2.38** · menos **1.53**
+    - 3,5: más **2.50** · menos **1.50**
     - 4,5: más **4.33** · menos **1.20**
     - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
@@ -27,16 +27,16 @@ _Actualizadas: 24/11 00:53_
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **3.40** · menos **1.30**
-    - 3,5: más **8.00** · menos **1.08**
+    - 3,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 9,5: más **1.88** · menos **1.92**
+    - 9,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **2.20**  ·  X **8.00**  ·  2 **1.91**
 - **1X2 descanso:** 1 **4.00**  ·  X **2.40**  ·  2 **2.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **9.00** · menos **1.07**
+    - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
 - **To Win Either Half:** 1 **2.20**  ·  2 **1.50**

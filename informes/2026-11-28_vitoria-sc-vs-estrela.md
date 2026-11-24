@@ -1,16 +1,16 @@
 # Vitória SC – Estrela
 **Primeira Liga** · Regular Season - 12 · 28/11/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
-_Actualizadas: 23/11 08:32_
+_Actualizadas: 24/11 10:52_
 
 - **1X2:** 1 **1.70**  ·  X **3.70**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.28**  ·  X2 **2.10**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **12.00**
+    - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.25** · menos **3.75**
     - 2,5: más **1.80** · menos **2.00**
     - 3,5: más **3.00** · menos **1.36**
@@ -30,7 +30,7 @@ _Actualizadas: 23/11 08:32_
     - 1,5: más **3.50** · menos **1.28**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **1.95** · menos **1.85**
+    - 9,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **1.36**  ·  X **9.00**  ·  2 **3.75**
 - **1X2 descanso:** 1 **2.25**  ·  X **2.30**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**

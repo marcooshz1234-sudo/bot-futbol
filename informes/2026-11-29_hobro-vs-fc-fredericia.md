@@ -1,7 +1,7 @@
 # Hobro – FC Fredericia
 **1. Division** · Regular Season - 16 · 29/11/2026 14:00 (hora España) · DS Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

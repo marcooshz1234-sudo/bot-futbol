@@ -1,10 +1,10 @@
 # Millwall – Burnley
 **Championship** · Regular Season - 18 · 28/11/2026 16:00 (hora España) · The Den
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
-_Actualizadas: 23/11 08:32_
+_Actualizadas: 24/11 10:51_
 
 - **1X2:** 1 **2.20**  ·  X **3.50**  ·  2 **2.90**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.67**

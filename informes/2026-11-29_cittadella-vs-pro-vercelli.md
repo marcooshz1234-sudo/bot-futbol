@@ -1,7 +1,7 @@
 # Cittadella – PRO Vercelli
 **Serie C** · Girone A - 16 · 29/11/2026 14:30 (hora España) · Stadio Pier Cesare Tombolato
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

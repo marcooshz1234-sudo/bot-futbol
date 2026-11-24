@@ -1,20 +1,20 @@
 # Charlton – Lincoln
 **Championship** · Regular Season - 17 · 24/11/2026 20:45 (hora España) · The Valley
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 00:51_
+_Actualizadas: 24/11 10:50_
 
-- **1X2:** 1 **2.70**  ·  X **3.20**  ·  2 **2.60**
+- **1X2:** 1 **2.70**  ·  X **3.20**  ·  2 **2.62**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.36**  ·  X2 **1.44**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
-    - 0,5: más **1.07** · menos **9.00**
-    - 1,5: más **1.33** · menos **3.40**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.30** · menos **3.50**
     - 2,5: más **2.00** · menos **1.80**
     - 3,5: más **3.50** · menos **1.30**
-    - 4,5: más **7.00** · menos **1.10**
+    - 4,5: más **6.50** · menos **1.11**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
@@ -28,7 +28,7 @@ _Actualizadas: 24/11 00:51_
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
-    - 9,5: más **1.80** · menos **1.91**
+    - 9,5: más **1.82** · menos **1.98**
 - **Córners 1X2:** 1 **2.05**  ·  X **8.00**  ·  2 **1.95**
 - **Tarjetas más/menos:**
     - 4,5: más **2.10** · menos **1.67**

@@ -1,7 +1,7 @@
 # Pergolettese – Giana Erminio
 **Serie C** · Girone A - 16 · 28/11/2026 17:30 (hora España) · Giuseppe Voltini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

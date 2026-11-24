@@ -1,10 +1,10 @@
 # Pafos – FC Midtjylland
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Alphamega Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 00:52_
+_Actualizadas: 24/11 10:50_
 
 - **1X2:** 1 **3.00**  ·  X **3.60**  ·  2 **2.15**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.28**  ·  X2 **1.36**

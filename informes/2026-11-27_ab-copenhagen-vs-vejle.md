@@ -1,7 +1,7 @@
 # AB Copenhagen – Vejle
 **1. Division** · Regular Season - 16 · 27/11/2026 19:00 (hora España) · Gladsaxe Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

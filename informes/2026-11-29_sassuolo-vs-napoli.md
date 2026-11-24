@@ -1,10 +1,10 @@
 # Sassuolo – Napoli
 **Serie A** · Regular Season - 13 · 29/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
-_Actualizadas: 23/11 08:33_
+_Actualizadas: 24/11 10:52_
 
 - **1X2:** 1 **4.50**  ·  X **3.80**  ·  2 **1.67**
 - **Doble oportunidad:** 1X **2.15**  ·  12 **1.25**  ·  X2 **1.18**

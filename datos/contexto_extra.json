@@ -18,7 +18,11 @@
    "puesto": 20,
    "de": 24
   },
-  "tiempo": null,
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 15.1,
+   "temperatura": 5.2
+  },
   "arbitro": {
    "nombre": "Oliver Langford",
    "partidos": 8,
@@ -40,7 +44,11 @@
    "dias_hasta": 14,
    "siguiente_europa": "Champions"
   },
-  "tiempo": null,
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 1.2,
+   "temperatura": 18.2
+  },
   "arbitro": {
    "nombre": "J. Alberola",
    "partidos": 9,
@@ -62,7 +70,11 @@
    "dias_hasta": 3,
    "siguiente_europa": null
   },
-  "tiempo": null,
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 4.6,
+   "temperatura": -0.0
+  },
   "arbitro": {
    "nombre": "J. Brisard",
    "partidos": 5,
@@ -86,7 +98,7 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 16.2,
+   "viento_kmh": 17.3,
    "temperatura": 0.6
   }
  },
@@ -107,8 +119,13 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 14.8,
-   "temperatura": 4.0
+   "viento_kmh": 16.2,
+   "temperatura": 6.0
+  },
+  "arbitro": {
+   "nombre": "M. Oliver",
+   "partidos": 12,
+   "tarjetas": 3.2
   }
  },
  "1563275": {
@@ -133,13 +150,9 @@
   "tiempo": {
    "lluvia_mm": 0.0,
    "viento_kmh": 12.2,
-   "temperatura": 8.4
+   "temperatura": 8.5
   },
   "cuotas": {
-   "Home": [
-    2.6,
-    2.35
-   ],
    "Away": [
     2.55,
     3.0
@@ -163,8 +176,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 13.0,
-   "temperatura": 5.3
+   "viento_kmh": 12.2,
+   "temperatura": 4.8
   }
  },
  "1635728": {
@@ -184,8 +197,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.8,
-   "temperatura": 0.4
+   "viento_kmh": 4.8,
+   "temperatura": 0.3
   }
  },
  "1635718": {
@@ -204,9 +217,14 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.2,
-   "viento_kmh": 22.4,
+   "lluvia_mm": 0.4,
+   "viento_kmh": 25.4,
    "temperatura": 8.4
+  },
+  "arbitro": {
+   "nombre": "N. Walsh",
+   "partidos": 4,
+   "tarjetas": 4.2
   }
  },
  "1563281": {
@@ -230,8 +248,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 10.8,
-   "temperatura": 4.0
+   "viento_kmh": 7.6,
+   "temperatura": 3.9
   },
   "arbitro": {
    "nombre": "Farai Hallam",
@@ -256,8 +274,13 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 3.6,
-   "temperatura": 11.8
+   "viento_kmh": 3.1,
+   "temperatura": 11.9
+  },
+  "arbitro": {
+   "nombre": "S. Marciniak",
+   "partidos": 4,
+   "tarjetas": 3.0
   }
  },
  "1563285": {
@@ -281,8 +304,13 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 9.4,
-   "temperatura": 3.6
+   "viento_kmh": 10.8,
+   "temperatura": 3.2
+  },
+  "arbitro": {
+   "nombre": "James Bell",
+   "partidos": 6,
+   "tarjetas": 3.7
   }
  },
  "1563283": {
@@ -306,8 +334,13 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 4.7,
-   "temperatura": 1.8
+   "viento_kmh": 7.6,
+   "temperatura": 2.4
+  },
+  "arbitro": {
+   "nombre": "Elliot Bell",
+   "partidos": 6,
+   "tarjetas": 4.7
   }
  },
  "1563284": {
@@ -331,8 +364,13 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 9.4,
+   "viento_kmh": 8.6,
    "temperatura": 2.7
+  },
+  "arbitro": {
+   "nombre": "Matthew Corlett",
+   "partidos": 4,
+   "tarjetas": 4.2
   },
   "cuotas": {
    "Away": [
@@ -361,9 +399,9 @@
    "de": 24
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 15.5,
-   "temperatura": 9.3
+   "lluvia_mm": 0.1,
+   "viento_kmh": 13.7,
+   "temperatura": 9.2
   },
   "arbitro": {
    "nombre": "David Webb",
@@ -388,8 +426,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 3.7,
-   "temperatura": 0.0
+   "viento_kmh": 2.9,
+   "temperatura": 0.4
   }
  },
  "1635641": {
@@ -424,15 +462,14 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
+   "lluvia_mm": 1.2,
    "viento_kmh": 8.7,
-   "temperatura": 5.4
+   "temperatura": 7.0
   },
-  "cuotas": {
-   "Home": [
-    1.33,
-    1.45
-   ]
+  "arbitro": {
+   "nombre": "G. Nyberg",
+   "partidos": 5,
+   "tarjetas": 2.4
   }
  },
  "1563286": {
@@ -457,7 +494,12 @@
   "tiempo": {
    "lluvia_mm": 0.0,
    "viento_kmh": 14.8,
-   "temperatura": 2.8
+   "temperatura": 5.1
+  },
+  "arbitro": {
+   "nombre": "Steve Martin",
+   "partidos": 4,
+   "tarjetas": 4.8
   }
  },
  "1635625": {
@@ -477,8 +519,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 9.9,
-   "temperatura": 7.0
+   "viento_kmh": 8.8,
+   "temperatura": 7.1
   }
  },
  "1635673": {
@@ -497,9 +539,14 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 1.3,
-   "viento_kmh": 4.6,
-   "temperatura": 7.4
+   "lluvia_mm": 6.1,
+   "viento_kmh": 7.2,
+   "temperatura": 8.1
+  },
+  "arbitro": {
+   "nombre": "F. Letexier",
+   "partidos": 5,
+   "tarjetas": 3.6
   }
  },
  "1563280": {
@@ -523,8 +570,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 14.8,
-   "temperatura": 9.7
+   "viento_kmh": 17.3,
+   "temperatura": 9.5
   },
   "arbitro": {
    "nombre": "Andrew Kitchen",
@@ -549,8 +596,13 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 14.4,
-   "temperatura": -0.1
+   "viento_kmh": 17.6,
+   "temperatura": 1.2
+  },
+  "arbitro": {
+   "nombre": "A. Hernandez",
+   "partidos": 7,
+   "tarjetas": 6.0
   }
  },
  "1635715": {
@@ -570,8 +622,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 8.0,
-   "temperatura": 7.1
+   "viento_kmh": 9.4,
+   "temperatura": 7.8
   }
  },
  "1635682": {
@@ -589,10 +641,15 @@
    "dias_hasta": 2,
    "siguiente_europa": null
   },
+  "arbitro": {
+   "nombre": "M. Guida",
+   "partidos": 7,
+   "tarjetas": 3.7
+  },
   "cuotas": {
    "Away": [
     1.33,
-    1.57
+    1.62
    ]
   }
  },
@@ -616,9 +673,9 @@
    "de": 24
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 4.7,
-   "temperatura": 5.0
+   "lluvia_mm": 0.1,
+   "viento_kmh": 6.8,
+   "temperatura": 4.3
   },
   "arbitro": {
    "nombre": "Tom Nield",
@@ -647,7 +704,7 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 10.4,
+   "viento_kmh": 11.5,
    "temperatura": 4.2
   },
   "arbitro": {
@@ -673,8 +730,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 4.7,
-   "temperatura": 6.4
+   "viento_kmh": 4.4,
+   "temperatura": 6.5
   },
   "arbitro": {
    "nombre": "D. Siebert",
@@ -709,8 +766,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 15.8,
-   "temperatura": 5.3
+   "viento_kmh": 16.6,
+   "temperatura": 4.3
   },
   "arbitro": {
    "nombre": "John Busby",
@@ -735,8 +792,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 14.0,
-   "temperatura": 5.4
+   "viento_kmh": 14.8,
+   "temperatura": 5.0
   },
   "arbitro": {
    "nombre": "M. Mariani",

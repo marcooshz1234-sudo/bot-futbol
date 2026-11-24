@@ -1,10 +1,10 @@
 # Borussia Dortmund – Bayer Leverkusen
 **Bundesliga** · Regular Season - 11 · 29/11/2026 19:30 (hora España) · Signal Iduna Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
-_Actualizadas: 23/11 08:33_
+_Actualizadas: 24/11 10:53_
 
 - **1X2:** 1 **2.05**  ·  X **3.80**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.25**  ·  X2 **1.73**
@@ -32,7 +32,7 @@ _Actualizadas: 23/11 08:33_
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **1.95** · menos **1.85**
+    - 9,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **1.57**  ·  X **8.00**  ·  2 **2.75**
 - **1X2 descanso:** 1 **2.60**  ·  X **2.50**  ·  2 **3.40**
 - **Goals Over/Under - Second Half:**

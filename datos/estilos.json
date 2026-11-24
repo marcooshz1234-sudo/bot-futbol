@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24 00:56",
+ "generado": "2026-11-24 10:54",
  "estilos": {
   "datos-rachas": {
    "nota": 0.939,
@@ -38,7 +38,7 @@
    "verdes": 0
   },
   "escalera": {
-   "nota": 2.402,
+   "nota": 2.763,
    "posts_threads": 25,
    "resultados": 3,
    "verdes": 2
@@ -50,9 +50,9 @@
    "verdes": 0
   },
   "combi-tres": {
-   "nota": 1.116,
+   "nota": 1.191,
    "posts_threads": 16,
-   "resultados": 2,
+   "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1550167": {
@@ -128,9 +128,9 @@
    "verdes": 0
   },
   "combi-500": {
-   "nota": 1.175,
+   "nota": 1.25,
    "posts_threads": 1,
-   "resultados": 2,
+   "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1575204": {
@@ -331,16 +331,10 @@
    "resultados": 0,
    "verdes": 0
   },
-  "picks-manana": {
-   "nota": 1.31,
-   "posts_threads": 0,
-   "resultados": 4,
-   "verdes": 1
-  },
   "ganadores-win-2": {
-   "nota": 1.464,
+   "nota": 1.589,
    "posts_threads": 2,
-   "resultados": 1,
+   "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1557463": {
@@ -401,6 +395,12 @@
    "nota": 1.097,
    "posts_threads": 1,
    "resultados": 1,
+   "verdes": 0
+  },
+  "picks-manana": {
+   "nota": 0.75,
+   "posts_threads": 0,
+   "resultados": 3,
    "verdes": 0
   },
   "combi-partido-1552221": {

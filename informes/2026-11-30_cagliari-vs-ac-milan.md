@@ -1,10 +1,10 @@
 # Cagliari – AC Milan
 **Serie A** · Regular Season - 13 · 30/11/2026 20:45 (hora España) · Unipol Domus
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
-_Actualizadas: 23/11 08:33_
+_Actualizadas: 24/11 10:53_
 
 - **1X2:** 1 **4.50**  ·  X **3.70**  ·  2 **1.70**
 - **Doble oportunidad:** 1X **2.10**  ·  12 **1.28**  ·  X2 **1.18**

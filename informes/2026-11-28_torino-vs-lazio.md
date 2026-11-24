@@ -1,10 +1,10 @@
 # Torino – Lazio
 **Serie A** · Regular Season - 13 · 28/11/2026 18:00 (hora España) · Stadio Olimpico di Torino
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
-_Actualizadas: 23/11 08:32_
+_Actualizadas: 24/11 10:52_
 
 - **1X2:** 1 **3.40**  ·  X **3.40**  ·  2 **2.05**
 - **Doble oportunidad:** 1X **1.73**  ·  12 **1.30**  ·  X2 **1.30**
@@ -13,7 +13,7 @@ _Actualizadas: 23/11 08:32_
     - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.28** · menos **3.75**
     - 2,5: más **1.91** · menos **1.91**
-    - 3,5: más **3.40** · menos **1.33**
+    - 3,5: más **3.20** · menos **1.36**
     - 4,5: más **6.00** · menos **1.12**
     - 5,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
@@ -30,7 +30,7 @@ _Actualizadas: 23/11 08:32_
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 8,5: más **1.92** · menos **1.88**
+    - 8,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **2.25**  ·  X **7.50**  ·  2 **1.91**
 - **1X2 descanso:** 1 **4.00**  ·  X **2.20**  ·  2 **2.62**
 - **Goals Over/Under - Second Half:**

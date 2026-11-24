@@ -1,16 +1,16 @@
 # Real Sociedad – Sevilla
 **LaLiga** · Regular Season - 14 · 29/11/2026 21:00 (hora España) · Anoeta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
-_Actualizadas: 23/11 08:33_
+_Actualizadas: 24/11 10:53_
 
 - **1X2:** 1 **2.10**  ·  X **3.50**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.70**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
-    - 0,5: más **1.05** · menos **11.00**
+    - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.25** · menos **4.00**
     - 2,5: más **1.80** · menos **2.00**
     - 3,5: más **3.00** · menos **1.40**

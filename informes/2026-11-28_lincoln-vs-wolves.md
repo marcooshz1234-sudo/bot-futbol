@@ -1,10 +1,10 @@
 # Lincoln – Wolves
 **Championship** · Regular Season - 18 · 28/11/2026 13:30 (hora España) · LNER stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
-_Actualizadas: 23/11 08:31_
+_Actualizadas: 24/11 10:51_
 
 - **1X2:** 1 **5.00**  ·  X **3.80**  ·  2 **1.62**
 - **Doble oportunidad:** 1X **2.25**  ·  12 **1.25**  ·  X2 **1.17**
@@ -30,7 +30,7 @@ _Actualizadas: 23/11 08:31_
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 9,5: más **1.90** · menos **1.90**
+    - 9,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **3.00**  ·  X **8.50**  ·  2 **1.53**
 - **1X2 descanso:** 1 **5.00**  ·  X **2.38**  ·  2 **2.20**
 - **Goals Over/Under - Second Half:**

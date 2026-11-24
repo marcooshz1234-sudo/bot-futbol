@@ -1,13 +1,13 @@
 # Kauno Žalgiris – Riga
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 00:52_
+_Actualizadas: 24/11 10:50_
 
-- **1X2:** 1 **3.10**  ·  X **3.50**  ·  2 **2.05**
-- **Doble oportunidad:** 1X **1.67**  ·  12 **1.25**  ·  X2 **1.33**
+- **1X2:** 1 **3.20**  ·  X **3.60**  ·  2 **2.05**
+- **Doble oportunidad:** 1X **1.73**  ·  12 **1.28**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
@@ -43,7 +43,7 @@ _Actualizadas: 24/11 00:52_
 - **To Win Either Half:** 1 **2.10**  ·  2 **1.57**
 - **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **3.25**
 - **Win Both Halves:** 1 **13.00**  ·  2 **6.50**
-- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **4.33**  ·  Home/No **6.00**  ·  Draw/No **11.00**  ·  Away/No **3.75**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **4.33**  ·  Home/No **6.00**  ·  Draw/No **11.00**  ·  Away/No **3.75**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.38**
 - **Home Corners Over/Under:**
     - 4,5: más **2.10** · menos **1.67**

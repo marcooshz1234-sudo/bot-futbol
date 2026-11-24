@@ -1,7 +1,7 @@
 # Waalwijk – Cambuur
 **KNVB Beker** · Round of 32 · 01/12/2026 18:45 (hora España) · Mandemakers Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 00:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 10:53._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
