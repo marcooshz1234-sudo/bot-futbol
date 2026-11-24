@@ -3479,14 +3479,14 @@
   },
   "2026-11-24": {
     "dia": "2026-11-24",
-    "total": 12,
+    "total": 13,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 12,
+      "pendiente": 13,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 12
+      "sin_resolver": 13
     },
     "combis": [
       {
@@ -3560,13 +3560,19 @@
         "titulo": "🎰 LA CENTENARIA x90,77 🎰",
         "estado": "pendiente",
         "cuota": 90.77
+      },
+      {
+        "id": "2026-11-24-pick-claude-1",
+        "titulo": "Guirassy (Dortmund): 2+ remates",
+        "estado": "pendiente",
+        "cuota": 1.62
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 48
+      "total": 49
     },
-    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x63,23 🎰 · 63,23 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 4,40 · pendiente\n⏳ 🧨 COMBI x38,99 🧨 · 38,99 · pendiente\n⏳ 🕵️ LA DE LOS TAPADOS 🕵️ · 21,42 · pendiente\n⏳ 🧨 COMBI x224 🧨 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 💶 RETO: DE 1€ A 736€ 💶 · pendiente\n⏳ 🎯 COMBI DE TIROS · REAL MADRID vs PSV EINDHOVEN 🎯 · 4,81 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ 🎰 LA CENTENARIA x90,77 🎰 · 90,77 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 12 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x63,23 🎰 · 63,23 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 4,40 · pendiente\n⏳ 🧨 COMBI x38,99 🧨 · 38,99 · pendiente\n⏳ 🕵️ LA DE LOS TAPADOS 🕵️ · 21,42 · pendiente\n⏳ 🧨 COMBI x224 🧨 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 💶 RETO: DE 1€ A 736€ 💶 · pendiente\n⏳ 🎯 COMBI DE TIROS · REAL MADRID vs PSV EINDHOVEN 🎯 · 4,81 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ 🎰 LA CENTENARIA x90,77 🎰 · 90,77 · pendiente\n⏳ Guirassy (Dortmund): 2+ remates · 1,62 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 13 sin resolver"
   }
 }
