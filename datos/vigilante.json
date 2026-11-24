@@ -148,7 +148,8 @@
   "directo-2026-11-24-pick-claude-2": "2026-11-24T01:42",
   "directo-2026-11-24-pick-claude-3": "2026-11-24T01:42",
   "prensa-1635703-LamineYamal": "2026-11-24T01:54",
-  "prensa-1635649-a48fe7f0": "2026-11-24T03:46"
+  "prensa-1635649-a48fe7f0": "2026-11-24T03:46",
+  "prensa-1635611-30a49b9e": "2026-11-24T04:46"
  },
  "abiertos": [
   {
@@ -184,10 +185,6 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-extra-feyenoord, loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-24-1635663|Total - Away|Over 1.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0600-x500)"
-  },
-  {
    "clave": "repe-2026-11-24-1635611|Total - Away|Over 0.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-1130-x100)"
   },
@@ -200,6 +197,14 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos)"
   },
   {
+   "clave": "repe-2026-11-24-1635663|Total - Away|Over 1.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0600-x500)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635692|Both Teams Score|Yes",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1400-x50)"
+  },
+  {
    "clave": "repe-2026-11-24-1635715|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
   },
@@ -208,32 +213,28 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
   },
   {
-   "clave": "repe-2026-11-24-1635692|Both Teams Score|Yes",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1400-x50)"
-  },
-  {
    "clave": "repe-2026-11-24-1635663|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-0030-x100, loca-th-0600-x500)"
-  },
-  {
-   "clave": "repe-2026-11-24-1635692|Total - Away|Over 0.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-0300-x50, loca-th-1130-x100)"
   },
   {
    "clave": "repe-2026-11-24-1635649|Total - Away|Over 0.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2300-hora, loca-th-0030-x100)"
   },
   {
-   "clave": "repe-2026-11-24-1635715|Player Fouls Committed|Kodai Sano - 1",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-hora, combi-tres, estrella-1635715)"
+   "clave": "repe-2026-11-24-1635692|Total - Away|Over 0.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-0300-x50, loca-th-1130-x100)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635713|Home Player Shots|Ridle Baku - 2",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-hora, loca-th-0030-x100, combi-partido-1635713)"
   },
   {
    "clave": "repe-2026-11-24-1635692|Away Player Shots|Scott McTominay - 2",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-hora, combi-tres, estrella-1635692)"
   },
   {
-   "clave": "repe-2026-11-24-1635713|Home Player Shots|Ridle Baku - 2",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-hora, loca-th-0030-x100, combi-partido-1635713)"
+   "clave": "repe-2026-11-24-1635715|Player Fouls Committed|Kodai Sano - 1",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-hora, combi-tres, estrella-1635715)"
   },
   {
    "clave": "repe-2026-11-24-1635611|Both Teams Score|Yes",
@@ -252,16 +253,16 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1400-x50)"
   },
   {
-   "clave": "repe-2026-11-24-1635641|Total - Away|Over 1.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1830-x1000)"
-  },
-  {
    "clave": "repe-2026-11-24-1635663|Match Winner|Away",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1130-x100)"
   },
   {
    "clave": "repe-2026-11-24-1635641|Anytime Goal Scorer|Jens Hauge",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1600-x500)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635641|Total - Away|Over 1.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-reto, loca-th-1830-x1000)"
   },
   {
    "clave": "repe-2026-11-24-1635715|Away Corners Over/Under|Over 2.5",
@@ -272,12 +273,25 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0800-reto, loca-th-0900-tiros, loca-th-1830-x1000)"
   },
   {
+   "clave": "prensa-1635611-30a49b9e",
+   "t": "📰 Arsenal–Borussia Dortmund: «David Raya se perderá el duelo ante el Borussia Dortmund mientras el Arsenal recibe un impulso por lesiones» (Tribuna.com) · tenemos 11 post(s) de este partido: pick-claude-1, loca-th-0500-tapados, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-1130-x100, lista-europa-1, combi-tres, loca-th-1400-x50, lista-europa-2, loca-th-1830-x1000, loca-th-1900-lista-corners"
+  },
+  {
+   "clave": "prensa-1635641-10690e46",
+   "t": "📰 Bodo/Glimt–Lask Linz: «Bodø/Glimt-Lask Linz: el Bodø/Glimt llega con tres bajas» (Tu Futbolero) · tenemos 10 post(s) de este partido: loca-th-0500-tapados, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-reto, escalera, loca-th-1130-x100, lista-europa-1, lista-europa-2, loca-th-1600-x500, loca-th-1830-x1000"
+  },
+  {
    "clave": "prensa-1635641-c9519c65",
    "t": "📰 Bodo/Glimt–Lask Linz: «Andrés Andrade sufre lesión de ligamentos en el tobillo, infirmó LASK Linz» (RPC TV) · tenemos 10 post(s) de este partido: loca-th-0500-tapados, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-reto, escalera, loca-th-1130-x100, lista-europa-1, lista-europa-2, loca-th-1600-x500, loca-th-1830-x1000"
   }
  ],
- "revisado": "2026-11-24T04:36",
+ "revisado": "2026-11-24T04:46",
  "historial": [
+  {
+   "hora": "2026-11-24T04:46",
+   "t": "📰 Arsenal–Borussia Dortmund: «David Raya se perderá el duelo ante el Borussia Dortmund mientras el Arsenal recibe un impulso por lesiones» (Tribuna.com) · tenemos 11 post(s) de este partido: pick-claude-1, loca-th-0500-tapados, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-1130-x100, lista-europa-1, combi-tres, loca-th-1400-x50, lista-europa-2, loca-th-1830-x1000, loca-th-1900-lista-corners",
+   "k": "prensa-1635611-30a49b9e"
+  },
   {
    "hora": "2026-11-24T03:46",
    "t": "📰 Como–AEK Athens FC: «Gustavo Álvarez es duda en Liga de Quito y ahora lo ponen como opción para otro equipo» (Bolavip) · tenemos 7 post(s) de este partido: loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-reto, lista-europa-1, loca-th-1400-x50, pick-seguro-5, loca-th-1900-lista-corners",
@@ -572,11 +586,6 @@
    "hora": "2026-11-23T00:28",
    "t": "📰 Arsenal–Borussia Dortmund: «Arsenal descarta el fichaje de Julián Álvarez: el motivo» (El Crack Deportivo) · tenemos 1 post(s) de este partido: ganadores-champions",
    "k": "prensa-1635611-378392d6"
-  },
-  {
-   "hora": "2026-11-23T00:07",
-   "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1630-escudos)",
-   "k": "repe-2026-11-23-1550203|Both Teams Score|Yes"
   }
  ]
 }
