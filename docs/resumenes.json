@@ -3479,14 +3479,14 @@
   },
   "2026-11-24": {
     "dia": "2026-11-24",
-    "total": 5,
+    "total": 6,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 5,
+      "pendiente": 6,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 5
+      "sin_resolver": 6
     },
     "combis": [
       {
@@ -3518,13 +3518,19 @@
         "titulo": "🧨 COMBI x38,99 🧨",
         "estado": "pendiente",
         "cuota": 38.99
+      },
+      {
+        "id": "2026-11-24-loca-th-0500-tapados",
+        "titulo": "🕵️ LA DE LOS TAPADOS 🕵️",
+        "estado": "pendiente",
+        "cuota": 21.42
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 27
+      "total": 30
     },
-    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x63,23 🎰 · 63,23 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 4,40 · pendiente\n⏳ 🧨 COMBI x38,99 🧨 · 38,99 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x63,23 🎰 · 63,23 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 4,40 · pendiente\n⏳ 🧨 COMBI x38,99 🧨 · 38,99 · pendiente\n⏳ 🕵️ LA DE LOS TAPADOS 🕵️ · 21,42 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 6 sin resolver"
   }
 }
