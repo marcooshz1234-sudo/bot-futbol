@@ -74,6 +74,57 @@ def es_de_apuestas(nombre):
     return bool(APUESTAS.search(plano))
 
 
+def mensajes_recientes(dias=2):
+    """{mensaje_id: id del post} de lo que el bot ha publicado en nuestro canal en los últimos días."""
+    from datetime import timedelta
+    raiz = DATOS.parent / "publicaciones"
+    desde = (datetime.now(MADRID) - timedelta(days=dias)).strftime("%Y-%m-%d")
+    out = {}
+    for f in ("cola.json", "auto.json", "asistente.json"):
+        d = leer(raiz / f, []) or []
+        for p in (d if isinstance(d, list) else d.get("publicaciones", [])):
+            if p.get("mensaje_id") and str(p.get("enviado") or p.get("fecha") or "")[:10] >= desde:
+                out[int(p["mensaje_id"])] = p["id"]
+    env = leer(raiz / "enviados.json", {}) or {}
+    for k, v in (env.items() if isinstance(env, dict) else []):
+        if isinstance(v, dict) and v.get("mensaje_id") and k[:10] >= desde:
+            out.setdefault(int(v["mensaje_id"]), k)
+    return out
+
+
+def apuntar_borrados(existen, recientes, borrados):
+    """Los posts cuyo mensaje ya no está en el canal, añadidos a borrados (lista de ids). Si no se ve NINGUNO, no se
+    apunta nada (sería un problema de acceso, no que Marcos lo haya borrado todo)."""
+    if not any(existen.values()):
+        return borrados, []
+    nuevos = [recientes[m] for m, ok in existen.items() if not ok and recientes[m] not in borrados]
+    return (borrados + nuevos)[-300:], nuevos
+
+
+def vigilar_borrados(cli):
+    """25/11 (Marcos: «hay que ponerlo para que lea el canal, lo que hemos subido, y si se ha borrado algo, lo sepa y
+    no lo cuente en el resumen»): con la cuenta de Marcos (dueño del canal) mira si los mensajes que publicó el bot
+    siguen ahí; los que no, a publicaciones/borrados.json (el resumen, la app y los aciertos ya no los cuentan)."""
+    import os
+    canal = int(os.environ.get("TELEGRAM_CANAL") or CANAL_NUESTRO)
+    recientes = mensajes_recientes()
+    if not recientes:
+        return
+    ids = sorted(recientes)
+    msgs = cli.get_messages(canal, ids=ids)
+    existen = {i: m is not None and not getattr(m, "action", None) for i, m in zip(ids, msgs)}
+    ruta = DATOS.parent / "publicaciones" / "borrados.json"
+    borrados, nuevos = apuntar_borrados(existen, recientes, leer(ruta, []) or [])
+    if nuevos:
+        ruta.write_text(json.dumps(borrados, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        print("Borrados del canal por Marcos:", ", ".join(nuevos))
+    else:
+        print(f"Canal: {sum(existen.values())} de {len(existen)} mensajes siguen ahí")
+
+
+CANAL_NUESTRO = "-1003953339107"
+
+
 def leer_con_cuenta(datos):
     """10/11: con la cuenta de Marcos (Telethon; secretos TG_API_ID, TG_API_HASH, TG_SESSION que pone él): lee también
     los canales privados. Guarda texto y las fotos (los boletos) para que Claude las mire en las revisiones.
@@ -136,6 +187,10 @@ def leer_con_cuenta(datos):
             lista.sort(key=lambda p: p["fecha"] or "")
             datos[nombre] = lista[-200:]
             print(f"{nombre} (cuenta): {nuevos_canal} nuevos")
+        try:   # 25/11 (Marcos): mirar en NUESTRO canal qué se ha borrado, para que el resumen no lo cuente
+            vigilar_borrados(cli)
+        except Exception as e:
+            print("vigilar_borrados:", str(e)[:150])
         (DATOS / "canales_telegram.json").write_text(json.dumps(sorted(vistos), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     return nuevos
 
