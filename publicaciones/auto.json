@@ -12876,13 +12876,13 @@
       "1635715|Away Player Shots|Guus Til - 2"
     ],
     "cuotas": [
-      2.38,
+      2.5,
       2.38,
       2.25,
       2.38,
       1.8,
-      2.35,
-      1.83,
+      2.2,
+      1.91,
       1.83
     ],
     "solo_en": [
@@ -12894,7 +12894,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-24T04:32"
   },
   {
     "id": "2026-11-24-loca-th-0700-lista-corners",
