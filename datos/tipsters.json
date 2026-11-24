@@ -4026,5 +4026,95 @@
    "Cinco goles es una línea muy alta para un partido que el Betis suele controlar"
   ],
   "argumento_propio": true
+ },
+ {
+  "tipster": "ApuestasCobrich - Canal Gratuito",
+  "fuente": "ApuestasCobrich - Canal Gratuito/196441",
+  "dia": "2026-11-24",
+  "hora": "21:00",
+  "local": "Manchester City",
+  "visitante": "Nápoles",
+  "texto": "McTominay más de 0,5 remates a puerta (1.83)",
+  "mercado": "Player Shots On Target",
+  "opcion": "Scott McTominay Over 0.5",
+  "cuota": 1.83,
+  "stake": null,
+  "argumento": [
+   "McTominay llega mucho desde segunda línea y es el centrocampista del Nápoles que más dispara",
+   "Ante un City que tendrá el balón, el Nápoles vivirá de transiciones y él suele ser quien las finaliza"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "ICARDI | PICKS",
+  "fuente": "ICARDI | PICKS/5436a",
+  "dia": "2026-11-24",
+  "hora": "21:00",
+  "local": "Feyenoord",
+  "visitante": "Oporto",
+  "texto": "Crear apuesta: Kiwior 1+ falta cometida y Targhaline 1+ falta recibida (1.86)",
+  "mercado": "Crear apuesta",
+  "opcion": "Kiwior 1+ falta cometida · Targhaline 1+ falta recibida",
+  "cuota": 1.86,
+  "stake": null,
+  "argumento": [
+   "Kiwior ha cometido falta en casi todos sus últimos partidos",
+   "Targhaline es de los que más faltas provoca en el Feyenoord y se cruzarán por su banda"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "ICARDI | PICKS",
+  "fuente": "ICARDI | PICKS/5436b",
+  "dia": "2026-11-24",
+  "hora": "21:00",
+  "local": "Manchester City",
+  "visitante": "Nápoles",
+  "texto": "Crear apuesta: Anguissa 1+ falta cometida y Anderson 1+ falta recibida (1.47)",
+  "mercado": "Crear apuesta",
+  "opcion": "Anguissa 1+ falta cometida · Anderson 1+ falta recibida",
+  "cuota": 1.47,
+  "stake": null,
+  "argumento": [
+   "Anguissa es el pivote que más corta con falta en el Nápoles",
+   "Anderson recibe faltas con regularidad y jugará en su zona"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "ICARDI | PICKS",
+  "fuente": "ICARDI | PICKS/5436c",
+  "dia": "2026-11-24",
+  "hora": "21:00",
+  "local": "RB Leipzig",
+  "visitante": "Lens",
+  "texto": "Crear apuesta: Thauvin 1+ falta cometida y Banzuzi 1+ falta recibida (2.05)",
+  "mercado": "Crear apuesta",
+  "opcion": "Thauvin 1+ falta cometida · Banzuzi 1+ falta recibida",
+  "cuota": 2.05,
+  "stake": null,
+  "argumento": [
+   "Thauvin ha hecho falta en cuatro de sus últimos cinco partidos",
+   "Banzuzi provoca faltas con frecuencia y coincidirán en el medio"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "ICARDI | PICKS",
+  "fuente": "ICARDI | PICKS/5436d",
+  "dia": "2026-11-24",
+  "hora": "21:00",
+  "local": "Real Madrid",
+  "visitante": "PSV Eindhoven",
+  "texto": "Crear apuesta: Geertruida 1+ falta cometida y Mbappé 1+ falta recibida (1.80)",
+  "mercado": "Crear apuesta",
+  "opcion": "Geertruida 1+ falta cometida · Mbappé 1+ falta recibida",
+  "cuota": 1.8,
+  "stake": null,
+  "argumento": [
+   "Geertruida defenderá a Mbappé y suele cometer falta en casi todos los partidos",
+   "Mbappé es de los que más faltas recibe y el PSV tendrá que pararle en carrera"
+  ],
+  "argumento_propio": true
  }
 ]
