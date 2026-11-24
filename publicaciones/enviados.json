@@ -924,5 +924,23 @@
     "enviado": "2026-11-24T15:00",
     "mensaje_id": 608,
     "foto_tg": "publicaciones/media/2026-11-24-pick-seguro-5.tg.jpg"
+  },
+  "2026-11-25-pick-seguro": {
+    "caducada": "cancelado"
+  },
+  "2026-11-25-pick-seguro-3": {
+    "caducada": "cancelado"
+  },
+  "2026-11-25-pick-seguro-4": {
+    "caducada": "cancelado"
+  },
+  "2026-11-25-pick-seguro-5": {
+    "caducada": "cancelado"
+  },
+  "2026-11-25-pick-seguro-6": {
+    "caducada": "cancelado"
+  },
+  "2026-11-25-pick-seguro-2": {
+    "caducada": "cancelado"
   }
 }
