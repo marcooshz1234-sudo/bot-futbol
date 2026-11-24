@@ -1,7 +1,7 @@
 """Balance diario del panel (combis) y post nocturno con los PICKS del día (28/10: sin combis ni pendientes)."""
 import json
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 
 from bot import MADRID, RAIZ, leer
 
@@ -368,21 +368,59 @@ def en_telegram(cola):
     return ids
 
 
+def sin_resolver(posts, dia, solo=None):
+    """24/11 (Marcos: «necesito que no falles nada»): picks de Telegram del día que aún no tienen verde/rojo (partido sin
+    terminar o el directo sin actualizar). El resumen del lunes salió «2 de 2» porque el Brentford (21:00) aún no
+    estaba resuelto a las 23:15 y se quedó fuera sin avisar. Ahora el resumen espera a que estén todos."""
+    n = 0
+    for p in posts:
+        if solo is not None and p['id'] not in solo:
+            continue
+        if (p['id'][:10] != dia and p['fecha'][:10] != dia) or p.get('lista') or any(k in p['id'] for k in LISTAS):
+            continue
+        for x in p.get('picks', []):
+            if x.get('exacto') or not x.get('partido_id'):
+                continue
+            if x.get('estado') not in ('verde', 'rojo', 'anulada', 'nula'):
+                n += 1
+    return n
+
+
+def dia_del_resumen(ahora):
+    """El resumen de un día se hace desde las 23:15 y, si hay partidos tardíos, hasta las 03:00 del día siguiente."""
+    hh = ahora.strftime('%H:%M')
+    if hh >= '23:15':
+        return ahora.strftime('%Y-%m-%d')
+    if hh < '03:00':
+        return (ahora - timedelta(days=1)).strftime('%Y-%m-%d')
+    return None
+
+
 def main():
     ahora = datetime.now(MADRID)
-    hoy = ahora.strftime('%Y-%m-%d')
+    hoy = dia_del_resumen(ahora)
+    if not hoy:
+        return
     pid = f'{hoy}-balance-auto'
     cola = leer(COLA, []) or []
-    if ahora.strftime('%H:%M') < '23:15' or any(p['id'] in (pid, f'{hoy}-balance') for p in cola):
+    if any(p['id'].startswith(pid) or p['id'] == f'{hoy}-balance' for p in cola):
         return
     datos = leer(RAIZ / 'docs/datos.json', {}) or {}
     # No publicar un balance basado en una copia antigua del panel.
     generado = datos.get('generado_iso')
     if not generado or (ahora - datetime.fromisoformat(generado)).total_seconds() > 20 * 60:
         return
-    solo = en_telegram(cola)
+    try:   # 24/11: lo que Marcos borró del canal no cuenta (el Monza del lunes salió en un resumen estando borrado)
+        borrados = set(json.loads((RAIZ / 'publicaciones' / 'borrados.json').read_text(encoding='utf-8')))
+    except Exception:
+        borrados = set()
+    solo = en_telegram(cola) - borrados
     picks, en_juego = picks_dia(datos.get('publicados_hoy', []), hoy, solo)
-    if not picks or (en_juego and ahora.strftime('%H:%M') < '23:45'):
+    pend = sin_resolver(datos.get('publicados_hoy', []), hoy, solo)
+    if not picks:
+        return
+    if (en_juego or pend) and not ('02:30' <= ahora.strftime('%H:%M') < '03:00'):
+        print(f'Resumen: espero, quedan {en_juego + pend} picks sin resolver')
         return
     texto, _ = textos_picks(picks, hoy, datos.get('publicados_hoy', []), cola, solo)
     if not texto:   # 13/11: si no hay nada en verde, no sale
