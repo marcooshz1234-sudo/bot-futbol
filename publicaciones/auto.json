@@ -13216,11 +13216,11 @@
       "1635713|To Win Either Half|Away"
     ],
     "cuotas": [
+      2.62,
       2.38,
-      2.38,
-      3.0,
+      2.75,
       2.25,
-      1.98,
+      1.85,
       3.0,
       3.25
     ],
@@ -13233,7 +13233,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-24T14:33"
   },
   {
     "id": "2026-11-24-pick-seguro-6",
