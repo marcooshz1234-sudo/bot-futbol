@@ -376,16 +376,18 @@
   },
   {
     "id": "2026-11-24-pick-extra-leipzig",
-    "fecha": "2026-11-24T10:30",
+    "fecha": "2026-11-24T18:00",
     "foto": null,
     "origen": "claude",
     "directo": true,
     "sel": [
       "1635713|Match Winner|Home"
     ],
-    "nota": "23/11 22:50 Marcos: «para mañana deja preparado la mayoría del día, 7-10 picks»",
+    "nota": "23/11 22:50 Marcos: «para mañana deja preparado la mayoría del día, 7-10 picks» · 24/11 15:50 Claude: se cayó a las 10:30 por chocar con un pick que solo iba en Threads (arreglado); va a las 18:00",
     "texto": "Vamos con otro pick, familia 👇\n\n⭐ RB Leipzig – Lens · 21:00\n\n🍀 Gana el RB Leipzig @1,38\n\n👨‍💻 El RB Leipzig ha ganado 7 de sus últimos 10.\n👨‍💻 El Lens ha perdido 6 de sus últimos 10.\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "caducada": "Match Winner|Home choca con Double Chance|Draw/Away (mismo partido)"
+    "solo_en": [
+      "telegram"
+    ]
   },
   {
     "id": "2026-11-24-pick-extra-city",

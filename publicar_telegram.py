@@ -53,7 +53,9 @@ def combi_no_pedida(p):
     if _re.search(r"verde|rojo|balance|boleto|lista|escalera|resumen|acertad", p.get("id", "")):
         return None
     patas = {s_ for s_ in p.get("sel") or [] if s_}
-    if len(patas) > 1 or len(p.get("cuotas") or []) > 1:
+    # 24/11: las copias de tipster sin «sel» (p. ej. «Combinada para hoy… 🍀 Doble… 🍀 Doble…») también son combis
+    lineas = (p.get("texto") or "").count("🍀")
+    if len(patas) > 1 or len(p.get("cuotas") or []) > 1 or lineas > 1 or "-combi-" in p.get("id", ""):
         return "combi: en Telegram solo picks sueltos (Marcos 20/11)"
     return None
 
@@ -396,7 +398,7 @@ def main(objetivo=None):
         from bot import mercado_prohibido
         from comprobar_post import bloquea   # 12/11: TODAS las reglas en un sitio (comprobar_post.py)
         motivo = combi_no_pedida(p) or partido_caido(p) or cuota_baja(p, control.get("textos", {}).get(p["id"])) \
-            or mercado_prohibido(p) or bloquea(p, control.get("textos", {}).get(p["id"]))
+            or mercado_prohibido(p) or bloquea(p, control.get("textos", {}).get(p["id"]), red="telegram")
         if motivo:   # 07/11: combi con un partido aplazado o ya jugado: no se publica (12/11: ni con cuota < 1,35)
             p["caducada"] = motivo
             cambios += 1

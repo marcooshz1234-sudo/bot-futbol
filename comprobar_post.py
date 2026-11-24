@@ -92,7 +92,7 @@ def es_resultado(p):
     return bool(p.get("verde_de") or p.get("resultado") or any(k in pid for k in ("verde", "rojo", "balance")))
 
 
-def comprobar(p, texto=None, otros=None):
+def comprobar(p, texto=None, otros=None, red=None):
     """Lista de (regla, motivo) que incumple el post. Vacía = se puede publicar."""
     if es_resultado(p):
         return []
@@ -129,7 +129,9 @@ def comprobar(p, texto=None, otros=None):
         loca = "loca" in pid
         # 19/11 (Marcos): Threads y Telegram pueden chocar entre ellos; dentro de la misma red, nunca
         misma_red = Counter(otros) if dado else Counter()
-        por_red = {} if dado else {r_: Counter(_sin_este(p, red=r_)) for r_ in redes_de(p)}
+        # 24/11: al publicar en una red, solo choca con lo de ESA red (el Leipzig de las 10:30 en Telegram se cayó por
+        # un «Lens o empate» que solo iba en Threads)
+        por_red = {} if dado else {r_: Counter(_sin_este(p, red=r_)) for r_ in ([red] if red else redes_de(p))}
         for c_ in por_red.values():   # por red: el máximo, no la suma (un post en 2 redes cuenta 1)
             misma_red = misma_red | c_
         for s in sels:
@@ -377,7 +379,7 @@ def partido_raro(p):
     return None
 
 
-def bloquea(p, texto=None):
+def bloquea(p, texto=None, red=None):
     """Motivo para NO publicar (las reglas graves), o None. Lo usan publicar_telegram y redes."""
     v = verde_sin_escudos(p) or partido_raro(p)
     if v:
@@ -395,7 +397,7 @@ def bloquea(p, texto=None):
     except Exception as e:
         print("comprobar_post duplicado:", e)
     try:
-        f = [x for x in comprobar(p, texto) if x[0] in GRAVES and x[0] not in ("repetido", "choca")
+        f = [x for x in comprobar(p, texto, red=red) if x[0] in GRAVES and x[0] not in ("repetido", "choca")
              or (x[0] in ("repetido", "choca") and not es_copia(p) and p.get("origen") == "claude")
              # 20/11: el mismo pick dos veces en Telegram no sale nunca, sea de quien sea (salvo la escalera: hay todos los días)
              or (x[0] == "repetido" and "en Telegram" in x[1] and not p.get("id", "").endswith("-escalera"))]
