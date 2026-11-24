@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-24",
- "generado": "2026-11-24T16:22+01:00",
+ "generado": "2026-11-24T16:52+01:00",
  "rango": [
   "2026-11-24",
   "2026-11-27"
@@ -23,20 +23,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
     },
     {
-     "sel": "1635715|Player Fouls Committed|Armando Obispo - 1",
-     "texto": "Armando Obispo: comete 1+ falta",
-     "cuota": 1.53,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 2,37 por 90' (1-2-2-2-4-3)",
-     "nota": 1.0472,
-     "equipo": "PSV Eindhoven",
-     "lado": "V",
-     "partido": "Real Madrid–PSV Eindhoven",
-     "hora": "2026-11-24T21:00",
-     "logo_l": "https://media.api-sports.io/football/teams/541.png",
-     "logo_v": "https://media.api-sports.io/football/teams/197.png"
-    },
-    {
      "sel": "1635692|Goalkeeper Saves|Gianluigi Donnarumma - 2",
      "texto": "Gianluigi Donnarumma: 2+ paradas",
      "cuota": 1.44,
@@ -49,6 +35,18 @@
      "hora": "2026-11-24T21:00",
      "logo_l": "https://media.api-sports.io/football/teams/50.png",
      "logo_v": "https://media.api-sports.io/football/teams/492.png"
+    },
+    {
+     "sel": "1635715|Total - Away|Over 0.5",
+     "texto": "PSV Eindhoven marca",
+     "cuota": 1.5,
+     "p": 0.855,
+     "dato": "marca 2,7 por partido y el rival encaja 0,8",
+     "nota": 0.9954924314600182,
+     "partido": "Real Madrid–PSV Eindhoven",
+     "hora": "2026-11-24T21:00",
+     "logo_l": "https://media.api-sports.io/football/teams/541.png",
+     "logo_v": "https://media.api-sports.io/football/teams/197.png"
     },
     {
      "sel": "1635713|Player Fouls Committed|Willi Orban - 1",
@@ -105,8 +103,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/212.png"
     }
    ],
-   "cuota": 24.43,
-   "media": 0.9455954812478533,
+   "cuota": 23.95,
+   "media": 0.9382086857421417,
    "dia": "2026-11-24"
   },
   {
@@ -670,18 +668,6 @@
    "logo": "https://media.api-sports.io/football/teams/197.png",
    "patas": [
     {
-     "sel": "1635715|Player Fouls Committed|Armando Obispo - 1",
-     "texto": "Armando Obispo: comete 1+ falta",
-     "cuota": 1.53,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 2,37 por 90' (1-2-2-2-4-3)",
-     "nota": 1.0472,
-     "equipo": "PSV Eindhoven",
-     "lado": "V",
-     "partido": "Real Madrid–PSV Eindhoven",
-     "hora": "2026-11-24T21:00"
-    },
-    {
      "sel": "1635715|Total - Away|Over 0.5",
      "texto": "PSV Eindhoven marca",
      "cuota": 1.5,
@@ -716,7 +702,7 @@
      "hora": "2026-11-24T21:00"
     }
    ],
-   "cuota": 5.78
+   "cuota": 3.78
   },
   {
    "equipo": "Sabah FA",
@@ -1691,14 +1677,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/492.png"
     },
     {
-     "sel": "1635715|Player Fouls Committed|Armando Obispo - 1",
-     "texto": "Armando Obispo: comete 1+ falta",
-     "cuota": 1.53,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 2,37 por 90' (1-2-2-2-4-3)",
-     "nota": 1.0472,
-     "equipo": "PSV Eindhoven",
-     "lado": "V",
+     "sel": "1635715|Total - Away|Over 0.5",
+     "texto": "PSV Eindhoven marca",
+     "cuota": 1.5,
+     "p": 0.855,
+     "dato": "marca 2,7 por partido y el rival encaja 0,8",
+     "nota": 0.9954924314600182,
      "partido": "Real Madrid–PSV Eindhoven",
      "hora": "2026-11-24T21:00",
      "liga": "Champions League",
@@ -1781,12 +1765,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/492.png"
     },
     {
-     "sel": "1635715|Total - Away|Over 0.5",
-     "texto": "PSV Eindhoven marca",
-     "cuota": 1.5,
-     "p": 0.855,
-     "dato": "marca 2,7 por partido y el rival encaja 0,8",
-     "nota": 0.9954924314600182,
+     "sel": "1635715|Player Fouls Committed|Mauro Junior - 1",
+     "texto": "Mauro Junior: comete 1+ falta",
+     "cuota": 1.4,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 0,94 por 90' (1-1-1-1-0-1)",
+     "nota": 0.84,
+     "equipo": "PSV Eindhoven",
+     "lado": "V",
      "partido": "Real Madrid–PSV Eindhoven",
      "hora": "2026-11-24T21:00",
      "liga": "Champions League",
@@ -1794,8 +1780,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/197.png"
     }
    ],
-   "cuota": 36.1,
-   "prob": 0.191,
+   "cuota": 33.03,
+   "prob": 0.174,
    "clave": "dia-2026-11-24-a",
    "titulo": "📅 La del martes · A",
    "expl": "@30-40 con patas de @1,40-1,60 (la B, otra distinta)",
