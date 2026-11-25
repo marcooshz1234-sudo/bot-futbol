@@ -4291,5 +4291,78 @@
    "cuota_bet365": 1.1,
    "prob_cuota": 0.909
   }
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE",
+  "fuente": "-1001550157115/101093",
+  "dia": "2026-11-25",
+  "hora": "18:45",
+  "local": "Slavia Praga",
+  "visitante": "Villarreal",
+  "texto": "Más de 2.5 goles (1.61)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.61,
+  "stake": null,
+  "argumento": [
+   "El Slavia llega en buena racha en casa y saldrá a por el partido",
+   "El Villarreal necesita ganar para seguir vivo y eso abre el partido por las dos áreas"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "TipsPro",
+  "fuente": "-1001262785423/10202",
+  "dia": "2026-11-25",
+  "hora": "18:45",
+  "local": "Sabah",
+  "visitante": "Barcelona",
+  "texto": "Crear apuesta: gana Barcelona + Barcelona más de 2.5 goles + marca Raphinha (1.54)",
+  "mercado": "Crear apuesta",
+  "opcion": "Gana Barcelona · Barcelona +2.5 goles · Raphinha marca",
+  "cuota": 1.54,
+  "stake": null,
+  "argumento": [
+   "La diferencia de plantilla es enorme: el Sabah es de los equipos más flojos de la fase de liga",
+   "El Barça suele golear a rivales menores y Raphinha es su principal fuente de gol"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "OC TIPSTER",
+  "fuente": "-1002538677212/5189",
+  "dia": "2026-11-25",
+  "hora": "21:00",
+  "local": "Inter",
+  "visitante": "Stuttgart",
+  "texto": "Portero del Stuttgart más de 3.5 paradas (1.59)",
+  "mercado": "Paradas portero",
+  "opcion": "Stuttgart +3.5 paradas",
+  "cuota": 1.59,
+  "stake": 1,
+  "argumento": [
+   "El Inter en San Siro genera muchos tiros a puerta",
+   "El Stuttgart juega abierto y concede llegadas, así que su portero tendrá trabajo"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "OC TIPSTER",
+  "fuente": "-1002538677212/5193",
+  "dia": "2026-11-25",
+  "hora": "18:45",
+  "local": "Slavia Praga",
+  "visitante": "Villarreal",
+  "texto": "Crear apuesta (cuota aumentada): Villarreal o empate + Ayaosi 2+ remates + Moleiro 2+ remates + Buchanan 2+ remates + N’Guessan 1+ falta + Ayaosi 1+ falta + Gulacsi 2+ paradas (8.25)",
+  "mercado": "Crear apuesta",
+  "opcion": "X2 · Ayaosi 2+ remates · Moleiro 2+ remates · Buchanan 2+ remates · N’Guessan 1+ falta · Ayaosi 1+ falta · Gulacsi 2+ paradas",
+  "cuota": 8.25,
+  "stake": null,
+  "argumento": [
+   "El Villarreal tiene más calidad y necesita puntuar, difícil que pierda",
+   "Moleiro y Buchanan llegan en buena forma y suelen disparar varias veces por partido",
+   "El Slavia tira mucho a puerta en casa, así que el portero rival hará al menos un par de paradas"
+  ],
+  "argumento_propio": true
  }
 ]

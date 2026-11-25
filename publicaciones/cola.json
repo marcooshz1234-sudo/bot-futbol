@@ -1208,5 +1208,50 @@
       "threads": "18015519947995685",
       "instagram": "18003596628032060"
     }
+  },
+  {
+    "id": "2026-11-25-pick-tip-1",
+    "fecha": "2026-11-25T13:42",
+    "texto": "Este nos encanta para hoy 🔥\n📋 Números en la mano antes de meterla\n\n🍀 Más de 2.5 goles (1.61) @1,61\n\n⚽ Slavia Praga – Villarreal · hoy 18:45\n\n👨‍💻 El Slavia llega en buena racha en casa y saldrá a por el partido\n👨‍💻 El Villarreal necesita ganar para seguir vivo y eso abre el partido por las dos áreas",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": true,
+    "sel": [],
+    "cuotas": [],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true,
+    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
+  },
+  {
+    "id": "2026-11-25-pick-tip-2",
+    "fecha": "2026-11-25T13:42",
+    "texto": "Este nos encanta para hoy 🔥\n🧠 Esta va con cabeza: analizada\n\n🍀 Crear apuesta: gana Barcelona + Barcelona más de 2.5 goles + marca Raphinha (1.54) @1,54\n\n⚽ Sabah – Barcelona · hoy 18:45\n\n👨‍💻 La diferencia de plantilla es enorme: el Sabah es de los equipos más flojos de la fase de liga\n👨‍💻 El Barça suele golear a rivales menores y Raphinha es su principal fuente de gol",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": true,
+    "sel": [],
+    "cuotas": [],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true,
+    "aviso": "⚠️ El bot no puede seguir esta copia (es un «Crear apuesta» de varias condiciones): si sale, su verde y el resumen van a mano."
+  },
+  {
+    "id": "2026-11-25-pick-tip-3",
+    "fecha": "2026-11-25T13:42",
+    "texto": "Pick que no podía faltar hoy ⚽\n📊 Con datos detrás, nada de corazonadas\n\n🍀 Portero del Stuttgart más de 3.5 paradas (1.59) @1,59\n\n⚽ Inter – Stuttgart · hoy 21:00\n\n👨‍💻 El Inter en San Siro genera muchos tiros a puerta\n👨‍💻 El Stuttgart juega abierto y concede llegadas, así que su portero tendrá trabajo\n\n🧠 Stake 1/10",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": false,
+    "sel": [],
+    "cuotas": [],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true,
+    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
   }
 ]
