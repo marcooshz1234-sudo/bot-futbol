@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25 12:27",
+ "actualizado": "2026-11-25 12:37",
  "redes": {
   "instagram": {
    "seguidores": 57,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3914,
-   "hoy": 124,
+   "seguidores": 3915,
+   "hoy": 125,
    "serie": [
     3230,
     3248,
@@ -24,7 +24,7 @@
     3714,
     3742,
     3790,
-    3914
+    3915
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4494,
- "total_hoy": 134,
+ "total": 4495,
+ "total_hoy": 135,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "12:30",
+  "hora": "13:30",
   "dia": "2026-11-25",
-  "titulo": "Vamos con otro pick"
+  "titulo": "Otro que nos gusta"
  },
  "ayer": {
   "aciertos": 1,
@@ -270,7 +270,7 @@
   },
   "2026-11-25": {
    "instagram": 57,
-   "threads": 3914,
+   "threads": 3915,
    "facebook": 1,
    "telegram": 522
   }
