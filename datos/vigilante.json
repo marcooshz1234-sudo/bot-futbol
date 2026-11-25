@@ -204,12 +204,8 @@
    "t": "🔁 25/11: el mismo pronóstico en 4 posts (pick-claude-8, estrella-1635703, loca-th-0400-hora, loca-th-1000-hora)"
   },
   {
-   "clave": "repe-2026-11-25-1635625|Total - Away|Over 0.5",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0500-x500)"
-  },
-  {
-   "clave": "repe-2026-11-25-1635735|To Win Either Half|Home",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0030-x100)"
+   "clave": "repe-2026-11-25-1635724|Anytime Goal Scorer|Mason Greenwood",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0400-hora)"
   },
   {
    "clave": "repe-2026-11-25-1635718|Total - Home|Over 0.5",
@@ -224,8 +220,12 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, combi-partido-1635735, loca-th-0030-x100)"
   },
   {
-   "clave": "repe-2026-11-25-1635724|Anytime Goal Scorer|Mason Greenwood",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0400-hora)"
+   "clave": "repe-2026-11-25-1635735|To Win Either Half|Home",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0030-x100)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635625|Total - Away|Over 0.5",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0500-x500)"
   },
   {
    "clave": "repe-2026-11-25-1635718|Both Teams Score|Yes",
@@ -238,6 +238,10 @@
   {
    "clave": "repe-2026-11-25-1635735|Total - Home|Over 1.5",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2330-x500, loca-th-0300-x50)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635682|Away Player Shots|Lennart Karl - 3",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1100-x50)"
   },
   {
    "clave": "repe-2026-11-25-1635673|Away Player Shots|Ermedin Demirovic - 3",
@@ -256,16 +260,12 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0300-x50)"
   },
   {
-   "clave": "repe-2026-11-25-1635682|Away Player Shots|Lennart Karl - 3",
+   "clave": "repe-2026-11-25-1635673|Double Chance|Draw/Away",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1100-x50)"
   },
   {
    "clave": "repe-2026-11-25-1635735|Match Winner|Home",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0700-reto, loca-th-1100-x50)"
-  },
-  {
-   "clave": "repe-2026-11-25-1635673|Double Chance|Draw/Away",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1100-x50)"
   },
   {
    "clave": "repe-2026-11-25-1635735|Away Player Shots|Bruno Fernandes - 2",
@@ -308,7 +308,7 @@
    "t": "📰 Slavia Praha–Villarreal: «Alineaciones probables del Slavia Praha-Villarreal: onces, bajas y dudas» (BeSoccer ES) · tenemos 1 post(s) de este partido: pick-claude-3"
   }
  ],
- "revisado": "2026-11-25T02:43",
+ "revisado": "2026-11-25T02:54",
  "historial": [
   {
    "hora": "2026-11-25T02:25",
