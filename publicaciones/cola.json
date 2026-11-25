@@ -1415,5 +1415,108 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-25-verde-auto-2026-11-25-pick-claude-1",
+    "fecha": "2026-11-25T23:33",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Inter\n\n📈 Cuota @1,40\n\nSeguimos sumando 📈",
+    "foto": "publicaciones/media/2026-11-25-verde-auto-2026-11-25-pick-claude-1.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-25-pick-claude-1",
+    "solo_en": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "2026-11-25-verde-auto-2026-11-25-estrella-1635735",
+    "fecha": "2026-11-25T23:13",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Bruno Fernandes: 2+ tiros\n✅ Sporting CP o empate\n✅ Más de 1,5 goles en la 2ª parte del Sporting CP–Manchester United\n\n📈 Cuota @3,83",
+    "foto": "publicaciones/media/2026-11-25-verde-auto-2026-11-25-estrella-1635735.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-25-estrella-1635735",
+    "requiere_ok": true,
+    "aviso": "💚 ¡VERDE! Te lo paso porque lleva varias patas del mismo partido y su cuota no está confirmada. Sale cuando le des a Publicar.",
+    "solo_redes": true
+  },
+  {
+    "id": "2026-11-25-verde-auto-2026-11-25-loca-th-noche-2200-duelo",
+    "fecha": "2026-11-25T23:13",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Nicolo Barella: 2+ tiros\n✅ Ermedin Demirovic: 2+ tiros\n\n📈 Cuota @3,08\n\n¿Quién la llevaba? 👇💚",
+    "foto": "publicaciones/media/2026-11-25-verde-auto-2026-11-25-loca-th-noche-2200-duelo.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-25-loca-th-noche-2200-duelo",
+    "solo_en": [
+      "threads"
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18156839959535621",
+      "threads_enlace": "17914124232564375"
+    }
+  },
+  {
+    "id": "2026-11-25-verde-auto-2026-11-25-loca-th-0200-duelo",
+    "fecha": "2026-11-25T23:13",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Nicolo Barella: 2+ tiros\n✅ Ermedin Demirovic: 3+ tiros\n\n📈 Cuota @4,49\n\n¿Quién la llevaba? 👇💚",
+    "foto": "publicaciones/media/2026-11-25-verde-auto-2026-11-25-loca-th-0200-duelo.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-25-loca-th-0200-duelo",
+    "solo_en": [
+      "threads"
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18143186650625074",
+      "threads_enlace": "18123307205089050"
+    }
+  },
+  {
+    "id": "2026-11-25-verde-auto-2026-11-25-escalera",
+    "fecha": "2026-11-25T23:23",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Lille marca\n✅ Sporting CP o empate\n\n📈 Cuota @2,16\n💶 20,00€ → 43,20€",
+    "foto": "publicaciones/media/2026-11-25-verde-auto-2026-11-25-escalera.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-25-escalera"
+  },
+  {
+    "id": "2026-11-25-verde-auto-2026-11-25-combi-tres",
+    "fecha": "2026-11-25T23:13",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Dayot Upamecano comete 1+ faltas\n✅ Más de 1,5 goles en la 2ª parte del Sporting CP–Manchester United\n\n📈 Cuota @2,21",
+    "foto": "publicaciones/media/2026-11-25-verde-auto-2026-11-25-combi-tres.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-25-combi-tres",
+    "solo_redes": true,
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18654459178000242",
+      "threads_enlace": "17953749450054547"
+    }
   }
 ]
