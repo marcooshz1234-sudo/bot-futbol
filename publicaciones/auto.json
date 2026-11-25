@@ -15611,8 +15611,8 @@
     ],
     "cuotas": [
       2.75,
-      1.91,
-      1.53,
+      1.67,
+      1.5,
       1.67,
       2.55
     ],
@@ -15625,7 +15625,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-25T09:30"
   },
   {
     "id": "2026-11-25-loca-th-1130-x500",
