@@ -1347,5 +1347,21 @@
       "threads": "ya-publicado",
       "instagram": "ya-publicado"
     }
+  },
+  {
+    "id": "2026-11-25-verde-auto-2026-11-25-pick-claude-8",
+    "fecha": "2026-11-25T21:32",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Roma marca\n\n📈 Cuota @1,40",
+    "foto": "publicaciones/media/2026-11-25-verde-auto-2026-11-25-pick-claude-8.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-25-pick-claude-8",
+    "solo_en": [
+      "telegram"
+    ],
+    "enviado": "2026-11-25T21:32",
+    "mensaje_id": 629
   }
 ]

@@ -15778,7 +15778,7 @@
       1.5,
       1.57,
       1.53,
-      1.62,
+      1.67,
       1.57,
       1.62,
       1.5
@@ -15792,7 +15792,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-25T21:30"
   },
   {
     "id": "2026-11-26-loca-th-noche-2330-escudos",
