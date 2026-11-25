@@ -20064,14 +20064,6 @@
  ],
  "ApuestasCobrich - Canal Gratuito": [
   {
-   "id": "-1001233274610/196308",
-   "fecha": "2026-11-22T13:06",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-22T13:14",
-   "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196308.jpg"
-  },
-  {
    "id": "-1001233274610/196309",
    "fecha": "2026-11-22T13:07",
    "texto": "",
@@ -21551,6 +21543,14 @@
    "texto": "2",
    "foto": false,
    "visto": "2026-11-25T19:22"
+  },
+  {
+   "id": "-1001233274610/196511",
+   "fecha": "2026-11-25T19:31",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-25T19:32",
+   "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196511.jpg"
   }
  ],
  "Pick Maestro": [
