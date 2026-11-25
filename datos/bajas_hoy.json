@@ -12281,12 +12281,6 @@
    },
    {
     "equipo": 759,
-    "jugador": "P. Christiansen",
-    "tipo": "Questionable",
-    "motivo": "Illness"
-   },
-   {
-    "equipo": 759,
     "jugador": "N. D'Agostino",
     "tipo": "Questionable",
     "motivo": "Knee Injury"
@@ -12449,7 +12443,7 @@
    }
   ]
  },
- "ultima": "2026-11-25T08:35:36.514709+01:00",
+ "ultima": "2026-11-25T09:09:03.152819+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
