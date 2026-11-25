@@ -204,6 +204,10 @@
    "t": "🔁 25/11: el mismo pronóstico en 4 posts (pick-claude-8, estrella-1635703, loca-th-0400-hora, loca-th-1000-hora)"
   },
   {
+   "clave": "repe-2026-11-25-1635735|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, combi-partido-1635735, loca-th-0030-x100)"
+  },
+  {
    "clave": "repe-2026-11-25-1635682|Both Teams Score|Yes",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-noche-2230-x50)"
   },
@@ -216,15 +220,11 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0500-x500)"
   },
   {
-   "clave": "repe-2026-11-25-1635718|Total - Home|Over 0.5",
+   "clave": "repe-2026-11-25-1635735|To Win Either Half|Home",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0030-x100)"
   },
   {
-   "clave": "repe-2026-11-25-1635735|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, combi-partido-1635735, loca-th-0030-x100)"
-  },
-  {
-   "clave": "repe-2026-11-25-1635735|To Win Either Half|Home",
+   "clave": "repe-2026-11-25-1635718|Total - Home|Over 0.5",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0030-x100)"
   },
   {
@@ -240,14 +240,6 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2330-x500, loca-th-0300-x50)"
   },
   {
-   "clave": "repe-2026-11-25-1635682|Away Player Shots|Lennart Karl - 3",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1100-x50)"
-  },
-  {
-   "clave": "repe-2026-11-25-1635682|Double Chance|Home/Draw",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0700-reto)"
-  },
-  {
    "clave": "repe-2026-11-25-1635735|Match Winner|Home",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0700-reto, loca-th-1100-x50)"
   },
@@ -256,16 +248,24 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1100-x50)"
   },
   {
-   "clave": "repe-2026-11-25-1635625|Anytime Goal Scorer|Alex Grimaldo",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1130-x500)"
+   "clave": "repe-2026-11-25-1635682|Double Chance|Home/Draw",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0700-reto)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635673|Away Player Shots|Ermedin Demirovic - 3",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0200-duelo, loca-th-0700-reto)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635682|Away Player Shots|Lennart Karl - 3",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1100-x50)"
   },
   {
    "clave": "repe-2026-11-25-1635625|Both Teams Score|Yes",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0300-x50)"
   },
   {
-   "clave": "repe-2026-11-25-1635673|Away Player Shots|Ermedin Demirovic - 3",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0200-duelo, loca-th-0700-reto)"
+   "clave": "repe-2026-11-25-1635625|Anytime Goal Scorer|Alex Grimaldo",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1130-x500)"
   },
   {
    "clave": "repe-2026-11-25-1635735|Away Player Shots|Bruno Fernandes - 2",
@@ -292,12 +292,12 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-0400-hora, loca-th-0800-tiros, loca-th-1000-hora)"
   },
   {
-   "clave": "repe-2026-11-25-1635703|Total - Away|Over 1.5",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0700-reto, loca-th-1130-x500)"
-  },
-  {
    "clave": "repe-2026-11-25-1635682|To Win Either Half|Home",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0930-x100, loca-th-1130-x500)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635703|Total - Away|Over 1.5",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0700-reto, loca-th-1130-x500)"
   },
   {
    "clave": "repe-2026-11-26-1636386|Total - Home|Over 0.5",
@@ -312,7 +312,7 @@
    "t": "📰 Paris Saint Germain–AS Roma: «Lamine Yamal se suma a la larga lista de estrellas de fútbol europeo con lesiones» (Ecuavisa) · tenemos 10 post(s) de este partido: pick-claude-5, pick-claude-8, estrella-1635703, loca-th-0500-x500, loca-th-0700-reto, loca-th-0930-x100, loca-th-1000-hora, loca-th-1100-x50, loca-th-1130-x500, loca-th-1200-x1000"
   }
  ],
- "revisado": "2026-11-25T04:26",
+ "revisado": "2026-11-25T04:36",
  "historial": [
   {
    "hora": "2026-11-25T02:25",
