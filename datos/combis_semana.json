@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-25",
- "generado": "2026-11-25T16:18+01:00",
+ "generado": "2026-11-25T16:49+01:00",
  "rango": [
   "2026-11-25",
   "2026-11-28"
@@ -1003,18 +1003,6 @@
      "hora": "2026-11-25T21:00"
     },
     {
-     "sel": "1635703|Away Player Shots|Paulo Dybala - 2",
-     "texto": "Paulo Dybala: 2+ remates",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 3,20 por 90' (3-6-2-1-3-3)",
-     "nota": 0.84,
-     "equipo": "AS Roma",
-     "lado": "V",
-     "partido": "Paris Saint Germain–AS Roma",
-     "hora": "2026-11-25T21:00"
-    },
-    {
      "sel": "1635703|Away Corners Over/Under|Over 2.5",
      "texto": "AS Roma: más de 2,5 córners",
      "cuota": 1.67,
@@ -1025,7 +1013,7 @@
      "hora": "2026-11-25T21:00"
     }
    ],
-   "cuota": 4.04
+   "cuota": 2.89
   },
   {
    "equipo": "Atletico Madrid",
@@ -1813,20 +1801,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/529.png"
     },
     {
-     "sel": "1635703|Cards Over/Under|Over 2.5",
-     "texto": "Más de 2,5 tarjetas (Paris Saint Germain–AS Roma)",
-     "cuota": 1.57,
-     "p": 0.588,
-     "dato": "3,0 tarjetas de media entre los dos",
-     "nota": 0.588,
-     "partido": "Paris Saint Germain–AS Roma",
-     "hora": "2026-11-25T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/85.png",
-     "logo_v": "https://media.api-sports.io/football/teams/497.png",
-     "solo_todo": true
-    },
-    {
      "sel": "1635625|Player Fouls Committed|Kang-In Lee - 1",
      "texto": "Kang-In Lee: comete 1+ falta",
      "cuota": 1.4,
@@ -1895,6 +1869,20 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/228.png",
      "logo_v": "https://media.api-sports.io/football/teams/33.png",
+     "solo_todo": true
+    },
+    {
+     "sel": "1635703|Cards Over/Under|Over 2.5",
+     "texto": "Más de 2,5 tarjetas (Paris Saint Germain–AS Roma)",
+     "cuota": 1.57,
+     "p": 0.588,
+     "dato": "3,0 tarjetas de media entre los dos",
+     "nota": 0.588,
+     "partido": "Paris Saint Germain–AS Roma",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/85.png",
+     "logo_v": "https://media.api-sports.io/football/teams/497.png",
      "solo_todo": true
     }
    ],
@@ -2016,21 +2004,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/172.png"
     },
     {
-     "sel": "1635703|Away Player Shots|Paulo Dybala - 2",
-     "texto": "Paulo Dybala: 2+ remates",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 3,20 por 90' (3-6-2-1-3-3)",
-     "nota": 0.84,
-     "equipo": "AS Roma",
-     "lado": "V",
-     "partido": "Paris Saint Germain–AS Roma",
-     "hora": "2026-11-25T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/85.png",
-     "logo_v": "https://media.api-sports.io/football/teams/497.png"
-    },
-    {
      "sel": "1635724|Away Team Total Cards|Over 1.5",
      "texto": "Fenerbahçe ve más de 1,5 tarjetas",
      "cuota": 1.5,
@@ -2070,6 +2043,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/40.png"
     },
     {
+     "sel": "1635703|Away Corners Over/Under|Over 2.5",
+     "texto": "AS Roma: más de 2,5 córners",
+     "cuota": 1.67,
+     "p": 0.688,
+     "dato": "AS Roma saca 4,8 córners y el rival concede 2,3",
+     "nota": 0.7290337185017995,
+     "partido": "Paris Saint Germain–AS Roma",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/85.png",
+     "logo_v": "https://media.api-sports.io/football/teams/497.png"
+    },
+    {
      "sel": "1635735|Both Teams Score|Yes",
      "texto": "Ambos marcan (Sporting CP–Manchester United)",
      "cuota": 1.44,
@@ -2084,8 +2070,8 @@
      "solo_todo": true
     }
    ],
-   "cuota": 36.82,
-   "prob": 0.081
+   "cuota": 43.92,
+   "prob": 0.07
   },
   {
    "clave": "todo-2026-11-25-3",
@@ -2180,30 +2166,17 @@
      "logo_v": "https://media.api-sports.io/football/teams/157.png"
     },
     {
-     "sel": "1635642|Cards Over/Under|Over 3.5",
-     "texto": "Más de 3,5 tarjetas en el partido",
-     "cuota": 1.8,
-     "p": 0.69,
-     "dato": "4,7 tarjetas de media entre los dos",
-     "nota": 0.7516012091033644,
+     "sel": "1635642|Total ShotOnGoal|Over 10.5",
+     "texto": "Más de 10,5 remates a puerta en el partido",
+     "cuota": 1.73,
+     "p": 0.688,
+     "dato": "12,4 remates a puerta de media entre los dos",
+     "nota": 0.7378005208333602,
      "partido": "Club Brugge KV–Liverpool",
      "hora": "2026-11-25T21:00",
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/569.png",
      "logo_v": "https://media.api-sports.io/football/teams/40.png"
-    },
-    {
-     "sel": "1635703|Away Corners Over/Under|Over 2.5",
-     "texto": "AS Roma: más de 2,5 córners",
-     "cuota": 1.67,
-     "p": 0.688,
-     "dato": "AS Roma saca 4,8 córners y el rival concede 2,3",
-     "nota": 0.7290337185017995,
-     "partido": "Paris Saint Germain–AS Roma",
-     "hora": "2026-11-25T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/85.png",
-     "logo_v": "https://media.api-sports.io/football/teams/497.png"
     },
     {
      "sel": "1635673|Away Team Total Cards|Over 1.5",
@@ -2218,10 +2191,24 @@
      "logo_l": "https://media.api-sports.io/football/teams/505.png",
      "logo_v": "https://media.api-sports.io/football/teams/172.png",
      "solo_todo": true
+    },
+    {
+     "sel": "1635703|Cards Over/Under|Over 2.5",
+     "texto": "Más de 2,5 tarjetas (Paris Saint Germain–AS Roma)",
+     "cuota": 1.57,
+     "p": 0.588,
+     "dato": "3,0 tarjetas de media entre los dos",
+     "nota": 0.588,
+     "partido": "Paris Saint Germain–AS Roma",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/85.png",
+     "logo_v": "https://media.api-sports.io/football/teams/497.png",
+     "solo_todo": true
     }
    ],
-   "cuota": 71.33,
-   "prob": 0.069
+   "cuota": 64.45,
+   "prob": 0.059
   },
   {
    "clave": "todo-2026-11-26",
