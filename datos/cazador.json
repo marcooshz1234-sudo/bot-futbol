@@ -71,7 +71,7 @@
    "justa": 2.19,
    "ev": 0.004,
    "fuente": "las otras casas",
-   "edad_h": 6.3
+   "edad_h": 6.6
   },
   {
    "local": "Sporting CP",
@@ -82,7 +82,7 @@
    "justa": 1.5,
    "ev": 0.002,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Brann",
@@ -93,7 +93,7 @@
    "justa": 1.82,
    "ev": -0.012,
    "fuente": "las otras casas",
-   "edad_h": 6.3
+   "edad_h": 6.6
   },
   {
    "local": "Kairat Almaty",
@@ -104,7 +104,7 @@
    "justa": 1.69,
    "ev": -0.012,
    "fuente": "las otras casas",
-   "edad_h": 6.3
+   "edad_h": 6.6
   },
   {
    "local": "Marseille",
@@ -115,11 +115,11 @@
    "justa": 1.52,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 6.3
+   "edad_h": 6.6
   }
  ],
  "ultima": {
-  "hora": "2026-11-25T15:42",
+  "hora": "2026-11-25T16:03",
   "revisadas": 0,
   "mejor": null
  },
