@@ -11755,6 +11755,12 @@
    },
    {
     "equipo": 529,
+    "jugador": "H. Abdelkarim",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 529,
     "jugador": "R. Bardghji",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
@@ -12444,7 +12450,7 @@
   ],
   "1636435": []
  },
- "ultima": "2026-11-25T10:47:13.208544+01:00",
+ "ultima": "2026-11-25T11:19:39.559468+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
