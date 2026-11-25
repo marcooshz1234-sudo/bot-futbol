@@ -141,7 +141,9 @@
   "repe-2026-11-26-1636412|Double Chance|Draw/Away": "2026-11-26T00:05",
   "repe-2026-11-26-1636395|Away Player Shots|David Matei - 1": "2026-11-26T00:05",
   "repe-2026-11-26-1636252|Double Chance|Draw/Away": "2026-11-26T00:05",
-  "prensa-1636457-8c7ba524": "2026-11-26T00:05"
+  "prensa-1636457-8c7ba524": "2026-11-26T00:05",
+  "prensa-1550216-6ab5126f": "2026-11-26T00:46",
+  "prensa-1570468-b4824e1e": "2026-11-26T00:46"
  },
  "abiertos": [
   {
@@ -153,6 +155,14 @@
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (combi-partido-1636301, loca-th-0700-tapados, loca-th-1420-tapados)"
   },
   {
+   "clave": "repe-2026-11-26-1636421|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636381|Total - Away|Over 0.5",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0020-x100, loca-th-1140-x100)"
+  },
+  {
    "clave": "repe-2026-11-26-1636435|Double Chance|Draw/Away",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0700-tapados, loca-th-1140-x100)"
   },
@@ -161,27 +171,23 @@
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0500-x50, loca-th-1140-x100)"
   },
   {
-   "clave": "repe-2026-11-26-1636381|Total - Away|Over 0.5",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0020-x100, loca-th-1140-x100)"
+   "clave": "repe-2026-11-26-1636252|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2330-escudos, loca-th-0300-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-26-1636421|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos)"
+   "clave": "repe-2026-11-26-1636261|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-26-1636393|Both Teams Score|Yes",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2300-x50, loca-th-1440-escudos)"
   },
   {
-   "clave": "repe-2026-11-26-1636252|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2330-escudos, loca-th-0300-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-26-1636381|Both Teams Score|Yes",
+   "clave": "repe-2026-11-26-1636315|Both Teams Score|Yes",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-26-1636315|Both Teams Score|Yes",
+   "clave": "repe-2026-11-26-1636349|Both Teams Score|Yes",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
   },
   {
@@ -189,16 +195,12 @@
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1700-escudos)"
   },
   {
-   "clave": "repe-2026-11-26-1636349|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-26-1636261|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
-  },
-  {
    "clave": "repe-2026-11-26-1636301|Both Teams Score|Yes",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2300-x50, loca-th-0300-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636381|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-26-1636301|Home Player Shots|Ahmetcan Kaplan - 1",
@@ -231,10 +233,28 @@
   {
    "clave": "prensa-1636252-3d1594e4",
    "t": "📰 Crystal Palace–Real Sociedad: «Aramburu no entrena y tiene a la Real pendiente de cara al viaje a Londres para visitar al Crystal Palace» (MARCA) · tenemos 9 post(s) de este partido: ganadores-resto, lista-europa-1, pick-seguro-3, estrella-1636252, loca-th-0300-lista-ambos, loca-th-0700-tapados, loca-th-0800-x500, loca-th-1420-tapados, loca-th-1920-lista-corners"
+  },
+  {
+   "clave": "prensa-1550216-6ab5126f",
+   "t": "📰 Venezia–Bologna: «Gillier deja CF Montreal tras 19 partidos y vuelve lesionado a Bologna» (AlAireLibre.cl) · tenemos 1 post(s) de este partido: ganadores-resto"
+  },
+  {
+   "clave": "prensa-1570468-b4824e1e",
+   "t": "📰 Levante–Racing Santander: «El Levante pierde varios meses a Manu Sánchez: rotura del cruzado» (Flashscore.es) · tenemos 2 post(s) de este partido: ganadores-resto, pick-seguro-3"
   }
  ],
- "revisado": "2026-11-26T00:36",
+ "revisado": "2026-11-26T00:46",
  "historial": [
+  {
+   "hora": "2026-11-26T00:46",
+   "t": "📰 Venezia–Bologna: «Gillier deja CF Montreal tras 19 partidos y vuelve lesionado a Bologna» (AlAireLibre.cl) · tenemos 1 post(s) de este partido: ganadores-resto",
+   "k": "prensa-1550216-6ab5126f"
+  },
+  {
+   "hora": "2026-11-26T00:46",
+   "t": "📰 Levante–Racing Santander: «El Levante pierde varios meses a Manu Sánchez: rotura del cruzado» (Flashscore.es) · tenemos 2 post(s) de este partido: ganadores-resto, pick-seguro-3",
+   "k": "prensa-1570468-b4824e1e"
+  },
   {
    "hora": "2026-11-26T00:05",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (combi-partido-1636301, loca-th-0700-tapados, loca-th-1420-tapados)",
@@ -524,16 +544,6 @@
    "hora": "2026-11-25T00:02",
    "t": "📰 Sporting CP–Manchester United: «Sporting CP - Manchester United, previa de la Liga de Campeones de la UEFA: el United de Pochettino, tocado an» (Goal.com) · tenemos 11 post(s) de este partido: pick-claude-2, combi-tres, combi-partido-1635735, loca-th-0030-x100, loca-th-0300-x50, loca-th-0400-hora, loca-th-0700-reto, loca-th-0930-x100, loca-th-1000-hora, loca-th-1100-x50, loca-th-1130-x500",
    "k": "prensa-1635735-ed99cdea"
-  },
-  {
-   "hora": "2026-11-25T00:02",
-   "t": "📰 Slavia Praha–Villarreal: «Nathan Saliba será operado del tobillo y podría estar hasta tres meses de baja en el Villarreal CF» (Official Press) · tenemos 1 post(s) de este partido: pick-claude-3",
-   "k": "prensa-1635728-25e07717"
-  },
-  {
-   "hora": "2026-11-25T00:02",
-   "t": "📰 Lille–Bayern München: «Informes apuntan a la ausencia de Michael Olise en el Bayern de Múnich ante el Lille por lesión» (Elbotola) · tenemos 12 post(s) de este partido: pick-claude-4, combi-tres, estrella-1635682, loca-th-0030-x100, loca-th-0100-lista-corners, loca-th-0400-hora, loca-th-0500-x500, loca-th-0700-reto, loca-th-0930-x100, loca-th-1000-hora, loca-th-1100-x50, loca-th-1130-x500",
-   "k": "prensa-1635682-MOlise"
   }
  ]
 }
