@@ -4423,7 +4423,12 @@
    "Goffi tendrá que frenar a extremos rápidos del Bayern, lo que invita a cometer faltas",
    "André es el ancla del medio del Lille y recibe muchos golpes al proteger el balón"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1635682,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "prob_cuota": 0.244
+  }
  },
  {
   "tipster": "ICARDI | PICKS",
@@ -4441,6 +4446,31 @@
    "Versión subida de líneas de la misma idea: Brown llegando, Goffi defendiendo al límite y André aguantando faltas",
    "Cuota muy alta: depende de que el Bayern domine y el Lille defienda mucho"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1635682,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "prob_cuota": 0.018
+  }
+ },
+ {
+  "tipster": "INSIDER",
+  "fuente": "-1001299202120/45115",
+  "dia": "2026-11-25",
+  "local": "Sabah FA",
+  "visitante": "Barcelona",
+  "partido_id": 1635718,
+  "texto": "Barcelona marca 3 o más",
+  "mercado": "Total - Away",
+  "opcion": "Over 2.5",
+  "cuota": 1.5,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "cuota_bet365": 1.25,
+   "prob_cuota": 0.667
+  }
  }
 ]
