@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25 20:20",
+ "actualizado": "2026-11-25 20:31",
  "redes": {
   "instagram": {
    "seguidores": 57,
@@ -58,9 +58,9 @@
  "total_hoy": 215,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "20:25",
+  "hora": "21:00",
   "dia": "2026-11-25",
-  "titulo": "Hoy hay partidazo lille bayern münchen"
+  "titulo": "La centenaria x31,36"
  },
  "ayer": {
   "aciertos": 1,
@@ -276,17 +276,17 @@
   }
  },
  "tipos_instagram": {
+  "Combi de partido (reel)": {
+   "posts": 6,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
-   "posts": 45,
+   "posts": 44,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
-   "posts": 5,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi de partido (reel)": {
    "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
