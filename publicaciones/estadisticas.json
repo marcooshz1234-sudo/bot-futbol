@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25 22:53",
+ "actualizado": "2026-11-25 23:03",
  "redes": {
   "instagram": {
    "seguidores": 57,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 523,
-   "hoy": 9,
+   "seguidores": 525,
+   "hoy": 11,
    "serie": [
     485,
     490,
@@ -50,17 +50,17 @@
     506,
     506,
     514,
-    523
+    525
    ]
   }
  },
- "total": 4591,
- "total_hoy": 231,
+ "total": 4593,
+ "total_hoy": 233,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "23:00",
+  "hora": "23:30",
   "dia": "2026-11-25",
-  "titulo": "La de x34,50"
+  "titulo": "Combi crystal palace – real sociedad"
  },
  "ayer": {
   "aciertos": 1,
@@ -272,7 +272,7 @@
    "instagram": 57,
    "threads": 4010,
    "facebook": 1,
-   "telegram": 523
+   "telegram": 525
   }
  },
  "tipos_instagram": {
