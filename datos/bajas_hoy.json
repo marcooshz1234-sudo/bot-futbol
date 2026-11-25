@@ -11959,15 +11959,33 @@
    },
    {
     "equipo": 58,
+    "jugador": "J. Coburn",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 58,
     "jugador": "T. Crama",
     "tipo": "Missing Fixture",
     "motivo": "Ankle Injury"
    },
    {
     "equipo": 58,
+    "jugador": "R. Esse",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 58,
     "jugador": "R. Leonard",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 58,
+    "jugador": "M. Luongo",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
    },
    {
     "equipo": 58,
@@ -11986,12 +12004,6 @@
     "jugador": "Z. Sturge",
     "tipo": "Missing Fixture",
     "motivo": "Red Card"
-   },
-   {
-    "equipo": 58,
-    "jugador": "M. Luongo",
-    "tipo": "Questionable",
-    "motivo": "Knee Injury"
    }
   ],
   "1563283": [
@@ -12033,6 +12045,12 @@
    },
    {
     "equipo": 60,
+    "jugador": "O. Diakite",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 60,
     "jugador": "N. Galves",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
@@ -12042,6 +12060,12 @@
     "jugador": "M. Johnston",
     "tipo": "Missing Fixture",
     "motivo": "Broken Leg"
+   },
+   {
+    "equipo": 68,
+    "jugador": "E. Toal",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
    }
   ],
   "1563284": [
@@ -12074,12 +12098,6 @@
     "jugador": "J. Bruun Larsen",
     "tipo": "Missing Fixture",
     "motivo": "Leg Injury"
-   },
-   {
-    "equipo": 44,
-    "jugador": "B. Humphreys",
-    "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
    },
    {
     "equipo": 44,
@@ -12122,6 +12140,18 @@
     "jugador": "M. Tresor Ndayishimiye",
     "tipo": "Missing Fixture",
     "motivo": "Lacking Match Fitness"
+   },
+   {
+    "equipo": 44,
+    "jugador": "B. Humphreys",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 44,
+    "jugador": "Lucas Pires",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
    },
    {
     "equipo": 54,
@@ -12195,7 +12225,19 @@
    },
    {
     "equipo": 38,
+    "jugador": "M. Boadu",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 38,
     "jugador": "N. Chikovani",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 38,
+    "jugador": "K. Diatta",
     "tipo": "Missing Fixture",
     "motivo": "Inactive"
    },
@@ -12208,6 +12250,12 @@
    {
     "equipo": 67,
     "jugador": "R. Alebiosu",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 67,
+    "jugador": "T. Atcheson",
     "tipo": "Missing Fixture",
     "motivo": "Injury"
    },
@@ -12313,6 +12361,12 @@
    },
    {
     "equipo": 172,
+    "jugador": "J. Diehl",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
+   },
+   {
+    "equipo": 172,
     "jugador": "S. Drljaca",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
@@ -12320,6 +12374,12 @@
    {
     "equipo": 172,
     "jugador": "L. Stergiou",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
+   },
+   {
+    "equipo": 172,
+    "jugador": "D. Zagadou",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
    },
@@ -13620,7 +13680,7 @@
    }
   ]
  },
- "ultima": "2026-11-25T16:55:30.523894+01:00",
+ "ultima": "2026-11-25T17:28:31.506752+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
