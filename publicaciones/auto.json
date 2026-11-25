@@ -15807,7 +15807,7 @@
     ],
     "cuotas": [
       1.5,
-      1.62,
+      1.44,
       1.73,
       2.0
     ],
@@ -15828,6 +15828,7 @@
       "liga": "UEFA Europa League"
     },
     "cuota_total": 7.25,
-    "cuota_calculada": true
+    "cuota_calculada": true,
+    "cuotas_revisadas": "2026-11-25T22:49"
   }
 ]
