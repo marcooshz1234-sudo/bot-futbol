@@ -12163,21 +12163,15 @@
    },
    {
     "equipo": 497,
+    "jugador": "D. Rensch",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 497,
     "jugador": "D. S. Vasquez Llach",
     "tipo": "Missing Fixture",
     "motivo": "Inactive"
-   },
-   {
-    "equipo": 497,
-    "jugador": "L. Balerdi",
-    "tipo": "Questionable",
-    "motivo": "Ankle Injury"
-   },
-   {
-    "equipo": 497,
-    "jugador": "D. Rensch",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
    }
   ],
   "1563286": [
@@ -12245,12 +12239,6 @@
    },
    {
     "equipo": 530,
-    "jugador": "M. Pubill",
-    "tipo": "Missing Fixture",
-    "motivo": "Ankle Injury"
-   },
-   {
-    "equipo": 530,
     "jugador": "C. Romero",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
@@ -12302,6 +12290,12 @@
     "jugador": "N. D'Agostino",
     "tipo": "Questionable",
     "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 530,
+    "jugador": "M. Pubill",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
    }
   ],
   "1635673": [
@@ -12348,12 +12342,6 @@
     "jugador": "J. Ordonez",
     "tipo": "Missing Fixture",
     "motivo": "Foot Injury"
-   },
-   {
-    "equipo": 569,
-    "jugador": "J. Virgili",
-    "tipo": "Questionable",
-    "motivo": "Groin Injury"
    },
    {
     "equipo": 40,
@@ -12467,7 +12455,7 @@
    }
   ]
  },
- "ultima": "2026-11-25T00:44:23.649084+01:00",
+ "ultima": "2026-11-25T01:16:58.264467+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
