@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25 06:50",
+ "actualizado": "2026-11-25 07:02",
  "redes": {
   "instagram": {
    "seguidores": 55,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3865,
-   "hoy": 75,
+   "seguidores": 3869,
+   "hoy": 79,
    "serie": [
     3230,
     3248,
@@ -24,7 +24,7 @@
     3714,
     3742,
     3790,
-    3865
+    3869
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4441,
- "total_hoy": 81,
+ "total": 4445,
+ "total_hoy": 85,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "07:00",
+  "hora": "08:00",
   "dia": "2026-11-25",
-  "titulo": "Reto de 1 a 584"
+  "titulo": "Combi de tiros · inter vs vfb stuttgar"
  },
  "ayer": {
   "aciertos": 1,
@@ -270,7 +270,7 @@
   },
   "2026-11-25": {
    "instagram": 55,
-   "threads": 3865,
+   "threads": 3869,
    "facebook": 1,
    "telegram": 520
   }
