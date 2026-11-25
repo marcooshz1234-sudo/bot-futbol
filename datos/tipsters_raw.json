@@ -11230,35 +11230,6 @@
  ],
  "PABLO ANALISTA": [
   {
-   "id": "-1001393609245/16425",
-   "fecha": "2026-11-17T19:34",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-17T19:37",
-   "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16425.jpg"
-  },
-  {
-   "id": "-1001393609245/16427",
-   "fecha": "2026-11-17T19:36",
-   "texto": "APUESTA UEFA NATIONS LEAGUE 🇪🇺",
-   "foto": false,
-   "visto": "2026-11-17T19:37"
-  },
-  {
-   "id": "-1001393609245/16426",
-   "fecha": "2026-11-17T19:36",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-17T19:37"
-  },
-  {
-   "id": "-1001393609245/16429",
-   "fecha": "2026-11-17T19:45",
-   "texto": "APUESTA UEFA NATIONS LEAGUE 🇪🇺",
-   "foto": false,
-   "visto": "2026-11-17T19:50"
-  },
-  {
    "id": "-1001393609245/16428",
    "fecha": "2026-11-17T19:45",
    "texto": "",
@@ -12712,6 +12683,35 @@
    "texto": "ÚLTIMOS MINUTOS PARA ENTRAR 🔒",
    "foto": false,
    "visto": "2026-11-25T01:01"
+  },
+  {
+   "id": "-1001393609245/16626",
+   "fecha": "2026-11-25T03:41",
+   "texto": "Y OTRA MÁS SEÑOREEEEEEEES",
+   "foto": false,
+   "visto": "2026-11-25T03:45"
+  },
+  {
+   "id": "-1001393609245/16629",
+   "fecha": "2026-11-25T03:42",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-25T03:45",
+   "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16629.jpg"
+  },
+  {
+   "id": "-1001393609245/16628",
+   "fecha": "2026-11-25T03:42",
+   "texto": "RACHA 13/14 A LA PRIMERA !!!!",
+   "foto": false,
+   "visto": "2026-11-25T03:45"
+  },
+  {
+   "id": "-1001393609245/16627",
+   "fecha": "2026-11-25T03:42",
+   "texto": "21/21 EN NOVIEMBREEEEE",
+   "foto": false,
+   "visto": "2026-11-25T03:45"
   }
  ],
  "CREAR APUESTA CUOTA 101 MIA - SAC": [
@@ -22345,6 +22345,54 @@
    "foto": true,
    "visto": "2026-11-25T03:32",
    "foto_ruta": "datos/tipsters_fotos/Messi_apuestas_1687.jpg"
+  },
+  {
+   "id": "-1004443249454/1696",
+   "fecha": "2026-11-25T03:33",
+   "texto": "Agregar a su boleto de apuestas: https://www.bet365.bet.ar/s/r/hvwWv",
+   "foto": true,
+   "visto": "2026-11-25T03:45",
+   "foto_ruta": "datos/tipsters_fotos/Messi_apuestas_1696.jpg"
+  },
+  {
+   "id": "-1004443249454/1695",
+   "fecha": "2026-11-25T03:33",
+   "texto": "Eso por ahora",
+   "foto": true,
+   "visto": "2026-11-25T03:45",
+   "foto_ruta": "datos/tipsters_fotos/Messi_apuestas_1695.jpg"
+  },
+  {
+   "id": "-1004443249454/1694",
+   "fecha": "2026-11-25T03:33",
+   "texto": "Agregar a su boleto de apuestas: https://www.bet365.bet.ar/s/r/hvwSY",
+   "foto": true,
+   "visto": "2026-11-25T03:45",
+   "foto_ruta": "datos/tipsters_fotos/Messi_apuestas_1694.jpg"
+  },
+  {
+   "id": "-1004443249454/1693",
+   "fecha": "2026-11-25T03:33",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-25T03:45",
+   "foto_ruta": "datos/tipsters_fotos/Messi_apuestas_1693.jpg"
+  },
+  {
+   "id": "-1004443249454/1692",
+   "fecha": "2026-11-25T03:33",
+   "texto": "Agregar a su boleto de apuestas: https://www.bet365.bet.ar/s/r/hvwSN",
+   "foto": true,
+   "visto": "2026-11-25T03:45",
+   "foto_ruta": "datos/tipsters_fotos/Messi_apuestas_1692.jpg"
+  },
+  {
+   "id": "-1004443249454/1691",
+   "fecha": "2026-11-25T03:33",
+   "texto": "Esta le jugue fuerte",
+   "foto": true,
+   "visto": "2026-11-25T03:45",
+   "foto_ruta": "datos/tipsters_fotos/Messi_apuestas_1691.jpg"
   }
  ]
 }
