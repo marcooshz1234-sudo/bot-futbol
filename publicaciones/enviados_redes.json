@@ -3884,11 +3884,11 @@
  },
  "2026-11-25-escalera": {
   "redes": {
-   "instagram_reel": null
+   "instagram_reel": null,
+   "instagram": "18121929913968866"
   },
   "errores_redes": {
-   "threads": "400: An unknown error occurred",
-   "instagram": "contenedor ERROR: ERROR"
+   "threads": "400: An unknown error occurred"
   }
  }
 }
