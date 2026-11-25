@@ -4308,7 +4308,13 @@
    "El Slavia llega en buena racha en casa y saldrá a por el partido",
    "El Villarreal necesita ganar para seguir vivo y eso abre el partido por las dos áreas"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1635728,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "cuota_bet365": 1.5,
+   "prob_cuota": 0.621
+  }
  },
  {
   "tipster": "TipsPro",
@@ -4326,7 +4332,12 @@
    "La diferencia de plantilla es enorme: el Sabah es de los equipos más flojos de la fase de liga",
    "El Barça suele golear a rivales menores y Raphinha es su principal fuente de gol"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1635718,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "prob_cuota": 0.649
+  }
  },
  {
   "tipster": "OC TIPSTER",
@@ -4344,7 +4355,12 @@
    "El Inter en San Siro genera muchos tiros a puerta",
    "El Stuttgart juega abierto y concede llegadas, así que su portero tendrá trabajo"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1635673,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "prob_cuota": 0.629
+  }
  },
  {
   "tipster": "OC TIPSTER",
@@ -4363,6 +4379,31 @@
    "Moleiro y Buchanan llegan en buena forma y suelen disparar varias veces por partido",
    "El Slavia tira mucho a puerta en casa, así que el portero rival hará al menos un par de paradas"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1635728,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "prob_cuota": 0.121
+  }
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "-1001550157115/101100",
+  "dia": "2026-11-25",
+  "local": "Lille",
+  "visitante": "Bayern München",
+  "partido_id": 1635682,
+  "texto": "Gana el Bayern München",
+  "mercado": "Match Winner",
+  "opcion": "Away",
+  "cuota": 1.57,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "cuota_bet365": 1.62,
+   "prob_cuota": 0.637
+  }
  }
 ]
