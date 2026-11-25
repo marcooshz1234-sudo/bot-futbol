@@ -3767,14 +3767,14 @@
   },
   "2026-11-26": {
     "dia": "2026-11-26",
-    "total": 2,
+    "total": 3,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 2,
+      "pendiente": 3,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 3
     },
     "combis": [
       {
@@ -3788,13 +3788,19 @@
         "titulo": "🎰 LA CENTENARIA x30,82 🎰",
         "estado": "pendiente",
         "cuota": 30.82
+      },
+      {
+        "id": "2026-11-26-loca-th-0040-ganaambos",
+        "titulo": "👑⚽ GANA Y AMBOS MARCAN 👑⚽",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 17
+      "total": 21
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x30,82 🎰 · 30,82 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x30,82 🎰 · 30,82 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
   }
 }
