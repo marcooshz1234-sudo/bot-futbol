@@ -1271,5 +1271,81 @@
     "requiere_ok": true,
     "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano.",
     "caducada": "cancelado"
+  },
+  {
+    "id": "2026-11-25-estrella-1635682",
+    "fecha": "2026-11-25T20:33",
+    "texto": "Hoy hay partidazo: Lille 🆚 Bayern München ⭐⭐\n🤪 Para soñar un poco: con poquito dinero\n\nVamos con la combi del partido estrella (21:00) 🔥\n\n🍀 Joshua Kimmich: 1+ tiros\n🍀 Dayot Upamecano: 1+ tiros\n🍀 Tom Bischof comete 1+ faltas\n🍀 Nabil Bentaleb: 1+ tiros\n🍀 Lille marca\n\n📈 Cuota @6,74 aprox.\n\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1635682|Away Player Shots|Joshua Kimmich - 1",
+      "1635682|Away Player Shots|Dayot Upamecano - 1",
+      "1635682|Player Fouls Committed|Tom Bischof - 1",
+      "1635682|Home Player Shots|Nabil Bentaleb - 1",
+      "1635682|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.44,
+      1.57,
+      1.28,
+      1.4,
+      1.57
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Lille",
+      "visitante": "Bayern München",
+      "id_l": 79,
+      "id_v": 157,
+      "logo_l": "https://media.api-sports.io/football/teams/79.png",
+      "logo_v": "https://media.api-sports.io/football/teams/157.png",
+      "fecha": "2026-11-25T21:00",
+      "liga": "Champions"
+    },
+    "solo_redes": true,
+    "cuota_total": 5.58,
+    "cuota_calculada": true,
+    "cuotas_revisadas": "2026-11-25T18:57",
+    "alineacion_ok": true
+  },
+  {
+    "id": "2026-11-25-estrella-1635735",
+    "fecha": "2026-11-25T20:33",
+    "texto": "Hoy hay partidazo: Sporting CP 🆚 Manchester United ⭐⭐\n🤪 Para soñar un poco: con poquito dinero\n\nVamos con la combi del partido estrella (21:00) 🔥\n\n🍀 Bruno Fernandes: 2+ tiros\n🍀 Sporting CP o empate\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @3,83 aprox.",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1635735|Away Player Shots|Bruno Fernandes - 2",
+      "1635735|Double Chance|Home/Draw",
+      "1635735|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.3,
+      1.5,
+      1.73
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Sporting CP",
+      "visitante": "Manchester United",
+      "id_l": 228,
+      "id_v": 33,
+      "logo_l": "https://media.api-sports.io/football/teams/228.png",
+      "logo_v": "https://media.api-sports.io/football/teams/33.png",
+      "fecha": "2026-11-25T21:00",
+      "liga": "Champions"
+    },
+    "solo_redes": true,
+    "cuota_total": 3.83,
+    "cuota_calculada": true,
+    "alineacion_ok": true,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "ya-publicado",
+      "instagram": "ya-publicado"
+    }
   }
 ]

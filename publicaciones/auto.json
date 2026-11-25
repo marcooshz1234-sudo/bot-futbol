@@ -13738,10 +13738,9 @@
   {
     "id": "2026-11-25-loca-th-1000-hora",
     "fecha": "2026-11-25T10:00",
-    "texto": "🕘 TODO A LAS 21:00 🕘\n\n🇫🇷 Paris Saint Germain – AS Roma ➜ ☄️ AS Roma marca\n🇮🇹 Inter – VfB Stuttgart ➜ 🦵 Nicolo Barella comete 1+ faltas\n🇵🇹 Sporting CP – Manchester United ➜ 🤝 Sporting CP o empate\n🇫🇷 Lille – Bayern München ➜ 🎳 Nabil Bentaleb: 1+ tiros\n🇪🇸 Atletico Madrid – Viking ➜ 🏳️ Viking hace más de 2,5 córners\n🇧🇪 Club Brugge KV – Liverpool ➜ 🎳 Alexis Mac Allister: 2+ tiros\n\n🎯 CUOTA 11,74 💎 · 10€ → 117€\n\n⏳ Todo se decide a la vez 🔥",
+    "texto": "🕘 TODO A LAS 21:00 🕘\n\n🇫🇷 Paris Saint Germain – AS Roma ➜ ☄️ AS Roma marca\n🇵🇹 Sporting CP – Manchester United ➜ 🤝 Sporting CP o empate\n🇫🇷 Lille – Bayern München ➜ 🎳 Nabil Bentaleb: 1+ tiros\n🇪🇸 Atletico Madrid – Viking ➜ 🏳️ Viking hace más de 2,5 córners\n🇧🇪 Club Brugge KV – Liverpool ➜ 🎳 Alexis Mac Allister: 2+ tiros\n\n🎯 CUOTA 6,96 💎 · 10€ → 117€\n\n⏳ Todo se decide a la vez 🔥",
     "sel": [
       "1635625|Away Corners Over/Under|Over 2.5",
-      "1635642|Away Player Shots|Alexis Mac Allister - 2",
       "1635673|Player Fouls Committed|Nicolo Barella - 1",
       "1635682|Home Player Shots|Nabil Bentaleb - 1",
       "1635703|Total - Away|Over 0.5",
@@ -13749,7 +13748,6 @@
     ],
     "cuotas": [
       1.73,
-      1.67,
       1.44,
       1.4,
       1.33,
@@ -13765,7 +13763,8 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-25T08:35"
+    "cuotas_revisadas": "2026-11-25T08:35",
+    "revisado_alineaciones": "2026-11-25T20:32"
   },
   {
     "id": "2026-11-25-loca-th-1100-x50",
@@ -13834,22 +13833,20 @@
   {
     "id": "2026-11-25-loca-th-1200-x1000",
     "fecha": "2026-11-25T12:00",
-    "texto": "🤑💸 LA MILLONARIA x462 🤑💸\n\n🇦🇿 Sabah FA–Barcelona 18:45\n✅ 📐 Sabah FA más de 2,5 córners · ✅ ⚽ Sabah FA marca 2+\n🇮🇹 Inter–VfB Stuttgart 21:00\n✅ ⚽ Ermedin Demirovic marca · ✅ 🦁 VfB Stuttgart gana una parte · ✅ 📈 VfB Stuttgart marca en las dos partes\n🇫🇷 Paris Saint Germain–AS Roma 21:00\n✅ 🔫 Bryan Cristante: 2+ tiros\n\n🎯 CUOTA 462 aprox. 💎 10€ → 4.624€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+    "texto": "🤑💸 LA MILLONARIA x462 🤑💸\n\n🇦🇿 Sabah FA–Barcelona 18:45\n✅ 📐 Sabah FA más de 2,5 córners · ✅ ⚽ Sabah FA marca 2+\n🇮🇹 Inter–VfB Stuttgart 21:00\n✅ ⚽ Ermedin Demirovic marca · ✅ 🦁 VfB Stuttgart gana una parte · ✅ 📈 VfB Stuttgart marca en las dos partes\n🇫🇷 Paris Saint Germain–AS Roma 21:00\n\n🎯 CUOTA 462 aprox. 💎 10€ → 4.624€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
     "sel": [
       "1635718|Home Corners Over/Under|Over 2.5",
       "1635718|Total - Home|Over 1.5",
       "1635673|Anytime Goal Scorer|Ermedin Demirovic",
       "1635673|To Win Either Half|Away",
-      "1635673|To Score In Both Halves By Teams|Away",
-      "1635703|Away Player Shots|Bryan Cristante - 2"
+      "1635673|To Score In Both Halves By Teams|Away"
     ],
     "cuotas": [
       2.0,
       3.75,
       3.4,
       3.0,
-      4.0,
-      3.25
+      4.0
     ],
     "solo_en": [
       "threads"
@@ -13861,7 +13858,8 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-25T10:30"
+    "cuotas_revisadas": "2026-11-25T10:30",
+    "revisado_alineaciones": "2026-11-25T20:32"
   },
   {
     "id": "2026-11-25-escalera",
@@ -15723,7 +15721,7 @@
       1.5,
       1.8,
       1.5,
-      1.57,
+      1.62,
       1.5
     ],
     "origen": "threads_locas",
@@ -15735,7 +15733,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-25T20:32"
   },
   {
     "id": "2026-11-26-loca-th-noche-2230-duelo",
