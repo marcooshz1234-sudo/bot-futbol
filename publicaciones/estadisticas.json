@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25 03:56",
+ "actualizado": "2026-11-25 04:07",
  "redes": {
   "instagram": {
    "seguidores": 55,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3828,
-   "hoy": 38,
+   "seguidores": 3829,
+   "hoy": 39,
    "serie": [
     3230,
     3248,
@@ -24,7 +24,7 @@
     3714,
     3742,
     3790,
-    3828
+    3829
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 517,
-   "hoy": 3,
+   "seguidores": 518,
+   "hoy": 4,
    "serie": [
     485,
     490,
@@ -50,17 +50,17 @@
     506,
     506,
     514,
-    517
+    518
    ]
   }
  },
- "total": 4401,
- "total_hoy": 41,
+ "total": 4403,
+ "total_hoy": 43,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "04:00",
+  "hora": "05:00",
   "dia": "2026-11-25",
-  "titulo": "Todo a las 2100"
+  "titulo": "Combi x406"
  },
  "ayer": {
   "aciertos": 1,
@@ -270,9 +270,9 @@
   },
   "2026-11-25": {
    "instagram": 55,
-   "threads": 3828,
+   "threads": 3829,
    "facebook": 1,
-   "telegram": 517
+   "telegram": 518
   }
  },
  "tipos_instagram": {
