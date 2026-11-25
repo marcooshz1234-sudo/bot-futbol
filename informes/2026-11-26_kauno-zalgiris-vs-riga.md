@@ -1,10 +1,10 @@
 # Kauno Žalgiris – Riga
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:23_
+_Actualizadas: 25/11 09:26_
 
 - **1X2:** 1 **3.20**  ·  X **3.60**  ·  2 **2.05**
 - **Doble oportunidad:** 1X **1.73**  ·  12 **1.28**  ·  X2 **1.36**
@@ -49,7 +49,7 @@ _Actualizadas: 24/11 23:23_
     - 4,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 4,5: más **1.80** · menos **1.91**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.40**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.78**  ·  Menos de 4 **2.02**
 - **Anytime Goal Scorer:** Antonijs Cernomordijs **11.00**  ·  Raivis Jurkovskis **11.00**  ·  Maksims Tonisevs **11.00**  ·  Fedor Cernych **4.75**  ·  Rokas Lekiatas **11.00**  ·  Vykintas Slivka **9.00**  ·  Gratas Sirgedas **7.50**  ·  Orlando Galo **3.75**  ·  Fabien Ourega **4.75**  ·  Amine Benchaib **4.33**  ·  Aldayr Hernandez **13.00**  ·  Tautvydas Burdzilauskas **9.00**  ·  Nosa Iyobosa Edokpolor **11.00**  ·  Anton Tolordava **13.00**  ·  Abdulrahman Taiwo **3.25**  ·  Ahmed Ankrah **11.00**  ·  Iago Siqueira **3.25**  ·  Meissa Diop **5.00**  ·  Karl Gameni Wassom **8.00**  ·  Baba Musah **13.00**  ·  Anthony Kalik **7.50**  ·  Luca Racic **13.00**  ·  Franco Baldassarra **7.50**  ·  Coli Saco **11.00**  ·  Ivan Fiolic **6.00**  ·  Lirim Kastrati **13.00**  ·  Motiejus Burba **4.33**  ·  Marko Konatar **13.00**  ·  Joris Moutachy **13.00**  ·  Leon Krekovic **4.33**  ·  Junior Reginaldo **2.60**  ·  Moreira Pedrinho **4.33**  ·  Godinho Paulo **8.00**  ·  Raki Aouani **4.33**  ·  Martins Caio **3.10**  ·  Leonardo Ribeiro **4.00**  ·  Samuel Pedro **3.00**  ·  Vejas Pocius **6.00**  ·  Adomas Uzkurnys **9.00**  ·  Muhammed Badamosi **2.40**  ·  Salah Oulad M'Hand **3.75**  ·  Gabriel Debeljuh **3.50**  ·  Yukiyoshi Karashima **6.50**  ·  Abner Renan Oliveira **3.75**
 
 ## Estadísticas de equipo

@@ -1,7 +1,7 @@
 # Real Sociedad – Real Madrid
 **LaLiga** · Regular Season - 23 · 02/12/2026 19:00 (hora España) · Anoeta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
 _Actualizadas: 24/11 23:24_

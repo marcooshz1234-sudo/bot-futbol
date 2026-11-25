@@ -1,18 +1,18 @@
 # ADO Den Haag – Utrecht
 **Eredivisie** · Regular Season - 14 · 29/11/2026 12:15 (hora España) · WerkTalent Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 00:53_
+_Actualizadas: 25/11 09:27_
 
 - **1X2:** 1 **2.70**  ·  X **3.60**  ·  2 **2.35**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.44**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
-    - 1,5: más **1.18** · menos **4.50**
-    - 2,5: más **1.62** · menos **2.25**
-    - 3,5: más **2.50** · menos **1.50**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.35**
+    - 3,5: más **2.38** · menos **1.53**
     - 4,5: más **4.33** · menos **1.20**
     - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
@@ -30,7 +30,7 @@ _Actualizadas: 24/11 00:53_
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **1.85** · menos **1.95**
+    - 9,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **1.73**  ·  X **8.00**  ·  2 **2.40**
 - **1X2 descanso:** 1 **3.20**  ·  X **2.38**  ·  2 **2.88**
 - **Goals Over/Under - Second Half:**

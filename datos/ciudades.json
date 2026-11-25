@@ -901,5 +901,112 @@
  "Brugge|World": [
   51.20892,
   3.22424
+ ],
+ "Almaty|World": [
+  43.25249,
+  76.9115
+ ],
+ "Marseille|World": [
+  43.29695,
+  5.38107
+ ],
+ "Pilsner|World": null,
+ "Sunderland|World": [
+  54.90465,
+  -1.38222
+ ],
+ "Encamp|World": [
+  42.53474,
+  1.58014
+ ],
+ "Brighton|World": [
+  50.82838,
+  -0.13947
+ ],
+ "Sinsheim|World": [
+  49.2529,
+  8.87867
+ ],
+ "Kolossi|World": [
+  34.66865,
+  32.93375
+ ],
+ "Nijmegen|World": [
+  51.8425,
+  5.85278
+ ],
+ "Vigo|World": [
+  42.23282,
+  -8.72264
+ ],
+ "Batumi|World": [
+  41.64077,
+  41.6306
+ ],
+ "Aalborg|Denmark": null,
+ "Sofia|World": [
+  42.69751,
+  23.32415
+ ],
+ "Heraklion|World": [
+  35.32787,
+  25.14341
+ ],
+ "Bergen|World": [
+  60.39299,
+  5.32415
+ ],
+ "Split|World": [
+  43.50891,
+  16.43915
+ ],
+ "Gent|World": [
+  51.05,
+  3.71667
+ ],
+ "Freiburg|World": [
+  47.9959,
+  7.85222
+ ],
+ "Piraeus|World": [
+  37.94203,
+  23.64619
+ ],
+ "Farum|World": [
+  55.80858,
+  12.36066
+ ],
+ "Zagreb|World": [
+  45.81444,
+  15.97798
+ ],
+ "Banja Luka|World": [
+  44.77879,
+  17.20629
+ ],
+ "Jablonec nad Nisou|World": [
+  50.72431,
+  15.17108
+ ],
+ "Edinburgh|World": [
+  55.95206,
+  -3.19648
+ ],
+ "Salzburg|World": [
+  47.79941,
+  13.04399
+ ],
+ "Heverley|World": null,
+ "Bruges|World": [
+  44.88287,
+  -0.61222
+ ],
+ "Leiria|World": [
+  39.74362,
+  -8.80705
+ ],
+ "Lille|World": [
+  50.63391,
+  3.05512
  ]
 }

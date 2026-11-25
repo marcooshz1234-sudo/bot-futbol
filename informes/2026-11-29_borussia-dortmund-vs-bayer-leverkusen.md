@@ -1,7 +1,7 @@
 # Borussia Dortmund – Bayer Leverkusen
 **Bundesliga** · Regular Season - 11 · 29/11/2026 19:30 (hora España) · Signal Iduna Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
 _Actualizadas: 24/11 10:53_

@@ -1,10 +1,74 @@
 # Wrexham – Portsmouth
 **Championship** · Regular Season - 18 · 28/11/2026 16:00 (hora España) · Racecourse Ground
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 25/11 09:27_
+
+- **1X2:** 1 **1.91**  ·  X **3.40**  ·  2 **3.75**
+- **Doble oportunidad:** 1X **1.25**  ·  12 **1.30**  ·  X2 **1.83**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.33** · menos **3.40**
+    - 2,5: más **2.00** · menos **1.80**
+    - 3,5: más **3.50** · menos **1.30**
+    - 4,5: más **6.50** · menos **1.11**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.40** · menos **1.30**
+    - 2,5: más **10.00** · menos **1.06**
+- **Córners más/menos:**
+    - 9,5: más **1.83** · menos **1.83**
+- **Córners 1X2:** 1 **1.62**  ·  X **8.00**  ·  2 **2.75**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.80** · menos **1.91**
+- **1X2 descanso:** 1 **2.60**  ·  X **2.20**  ·  2 **4.33**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.53**  ·  2 **2.25**
+- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **5.50**
+- **Win Both Halves:** 1 **6.00**  ·  2 **15.00**
+- **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.75**  ·  Away/Yes **7.50**  ·  Home/No **3.25**  ·  Draw/No **10.00**  ·  Away/No **6.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.25**
+- **Home Corners Over/Under:**
+    - 5,5: más **2.00** · menos **1.73**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.62** · menos **2.20**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.62**  ·  Más de 4.5 **2.00**  ·  Menos de 4.5 **1.80**
+- **Home Team Total Cards:**
+    - 1,5: más **1.80** · menos **1.91**
+- **Away Team Total Cards:**
+    - 1,5: más **1.53** · menos **2.38**
+- **Total ShotOnGoal:**
+    - 7,5: más **2.00** · menos **1.73**
+- **ShotOnTarget 1x2:** 1 **1.53**  ·  X **7.00**  ·  2 **3.10**
+- **Total Shots:**
+    - 23,5: más **1.83** · menos **1.83**
+- **Shots.1x2:** 1 **1.40**  ·  X **15.00**  ·  2 **3.00**
+- **Away Player Shots On Target Total:** Marko Milovanovic **8.50**  ·  Kieffer Moore **5.50**  ·  Rocco Robert Shein **51.00**  ·  Odin Bailey **81.00**  ·  Sam Smith **9.00**  ·  Keshi Anderson **29.00**  ·  Bailey-Tye Cadamarteri **7.50**  ·  Lewis O'Brien **41.00**  ·  Callum Doyle **19.00**  ·  John Swift **51.00**  ·  Zak Vyner **21.00**  ·  Harvey Blair **51.00**  ·  Josh Murphy **51.00**  ·  Terry Devlin **51.00**  ·  Marlon Pack **41.00**  ·  Regan Poole **34.00**  ·  Conor Shaughnessy **29.00**  ·  Zak Swanson **21.00**  ·  Dominic Hyam **17.00**  ·  Ben Sheaf **29.00**  ·  Ben Whiteman **29.00**  ·  Callum O'Hare **29.00**  ·  Ebou Adams **29.00**  ·  Joe Worrall **15.00**  ·  Josh Windass **26.00**  ·  Abu Kamara **41.00**  ·  Jacques Ekomie **41.00**  ·  Ryan Kavuma-McQueen **34.00**  ·  Danny Imray **51.00**  ·  George Dobson **51.00**  ·  Oliver Rathbone **34.00**  ·  Aaron James **81.00**  ·  Max Cleworth **17.00**  ·  George Thomason **81.00**  ·  Madiodio Dia **34.00**  ·  Tyrese Shade **34.00**  ·  Thomas Waddingham **19.00**  ·  Eoin Kenny **21.00**  ·  Issa Kabore **81.00**  ·  Adrian Segecic **23.00**  ·  Matty James **81.00**  ·  Samuel Chesworth **13.00**  ·  Colby Bishop **11.00**  ·  Ryan Longman **67.00**  ·  Liberato Cacace **81.00**  ·  Jayden Meghoma **34.00**  ·  Nathan Broadhead **21.00**  ·  Franco Umeh **26.00**  ·  Iyad Mohamed **34.00**
+- **Away Player Shots Total:**
+    - 9,5: más **1.73** · menos **2.00**
+- **Home Player Shots:** Callum O'Hare - 1 **1.04**  ·  Callum O'Hare - 2 **1.25**  ·  Callum O'Hare - 3 **1.73**  ·  Callum O'Hare - 4 **2.75**  ·  Callum O'Hare - 5 **5.00**  ·  Callum O'Hare - 6 **10.00**  ·  Callum O'Hare - 7 **19.00**  ·  Joe Worrall - 1 **2.25**  ·  Joe Worrall - 2 **8.00**  ·  Joe Worrall - 3 **21.00**  ·  Jacques Ekomie - 1 **1.50**  ·  Jacques Ekomie - 2 **3.25**  ·  Jacques Ekomie - 3 **8.00**  ·  Kieffer Moore - 1 **1.03**  ·  Sam Smith - 1 **1.08**  ·  Bailey-Tye Cadamarteri - 1 **1.07**  ·  Josh Windass - 1 **1.06**  ·  Nathan Broadhead - 1 **1.10**  ·  Oliver Rathbone - 1 **1.10**  ·  Ben Whiteman - 1 **1.50**  ·  Lewis O'Brien - 1 **1.33**  ·  Danny Imray - 1 **1.20**  ·  Callum Doyle - 1 **1.53**  ·  Ben Sheaf - 1 **1.53**  ·  George Dobson - 1 **2.10**  ·  Matty James - 1 **1.67**  ·  Zak Vyner - 1 **1.67**  ·  Max Cleworth - 1 **1.67**  ·  Ryan Longman - 1 **1.62**  ·  George Thomason - 1 **1.73**  ·  Liberato Cacace - 1 **1.67**  ·  Aaron James - 1 **2.00**  ·  Dominic Hyam - 1 **3.00**  ·  Kieffer Moore - 2 **1.20**  ·  Sam Smith - 2 **1.44**  ·  Bailey-Tye Cadamarteri - 2 **1.36**  ·  Josh Windass - 2 **1.30**  ·  Nathan Broadhead - 2 **1.44**  ·  Oliver Rathbone - 2 **1.50**  ·  Ben Whiteman - 2 **3.25**  ·  Lewis O'Brien - 2 **2.38**  ·  Danny Imray - 2 **1.83**  ·  Callum Doyle - 2 **3.40**  ·  Ben Sheaf - 2 **3.40**  ·  George Dobson - 2 **6.50**  ·  Matty James - 2 **4.00**  ·  Zak Vyner - 2 **4.00**  ·  Max Cleworth - 2 **4.00**  ·  Ryan Longman - 2 **3.75**  ·  George Thomason - 2 **4.33**  ·  Liberato Cacace - 2 **4.00**  ·  Aaron James - 2 **5.50**  ·  Dominic Hyam - 2 **11.00**  ·  Kieffer Moore - 3 **1.62**  ·  Sam Smith - 3 **2.20**  ·  Bailey-Tye Cadamarteri - 3 **2.10**  ·  Josh Windass - 3 **1.83**  ·  Nathan Broadhead - 3 **2.25**  ·  Oliver Rathbone - 3 **2.38**  ·  Ben Whiteman - 3 **8.00**  ·  Lewis O'Brien - 3 **5.50**  ·  Danny Imray - 3 **3.75**  ·  Callum Doyle - 3 **9.00**  ·  Ben Sheaf - 3 **9.00**  ·  George Dobson - 3 **19.00**  ·  Matty James - 3 **11.00**  ·  Zak Vyner - 3 **11.00**  ·  Max Cleworth - 3 **11.00**  ·  Ryan Longman - 3 **10.00**  ·  George Thomason - 3 **13.00**  ·  Liberato Cacace - 3 **11.00**  ·  Aaron James - 3 **17.00**  ·  Dominic Hyam - 3 **21.00**  ·  Kieffer Moore - 4 **2.50**  ·  Sam Smith - 4 **4.00**  ·  Bailey-Tye Cadamarteri - 4 **3.50**  ·  Josh Windass - 4 **3.25**  ·  Nathan Broadhead - 4 **4.00**  ·  Oliver Rathbone - 4 **4.33**  ·  Ben Whiteman - 4 **19.00**  ·  Lewis O'Brien - 4 **13.00**  ·  Danny Imray - 4 **8.00**  ·  Callum Doyle - 4 **21.00**  ·  Ben Sheaf - 4 **21.00**  ·  Matty James - 4 **21.00**  ·  Kieffer Moore - 5 **4.00**  ·  Sam Smith - 5 **8.00**  ·  Bailey-Tye Cadamarteri - 5 **7.00**  ·  Josh Windass - 5 **5.50**  ·  Nathan Broadhead - 5 **9.00**  ·  Oliver Rathbone - 5 **10.00**  ·  Ben Whiteman - 5 **21.00**  ·  Kieffer Moore - 6 **8.00**  ·  Sam Smith - 6 **17.00**  ·  Bailey-Tye Cadamarteri - 6 **15.00**  ·  Josh Windass - 6 **11.00**  ·  Nathan Broadhead - 6 **17.00**  ·  Oliver Rathbone - 6 **19.00**  ·  Kieffer Moore - 7 **15.00**  ·  Sam Smith - 7 **19.00**  ·  Ryan Longman - 4 **21.00**  ·  Lewis O'Brien - 5 **11.00**  ·  Josh Windass - 7 **21.00**  ·  Issa Kabore - 1 **2.62**  ·  Issa Kabore - 2 **9.00**  ·  Issa Kabore - 3 **21.00**  ·  Jacques Ekomie - 4 **19.00**  ·  George Thomason - 4 **21.00**  ·  Lewis O'Brien - 6 **21.00**  ·  Bailey-Tye Cadamarteri - 7 **21.00**  ·  Kieffer Moore - 8 **21.00**  ·  Josh Windass - 8 **21.00**  ·  Samuel Chesworth - 1 **1.06**  ·  Samuel Chesworth - 2 **1.30**  ·  Samuel Chesworth - 3 **1.83**  ·  Samuel Chesworth - 4 **3.25**  ·  Samuel Chesworth - 5 **5.50**  ·  Samuel Chesworth - 6 **11.00**  ·  Samuel Chesworth - 7 **21.00**  ·  Danny Imray - 5 **19.00**  ·  Samuel Chesworth - 8 **21.00**
+- **Away Player Shots:** Jayden Meghoma - 1 **2.10**  ·  Jayden Meghoma - 2 **6.50**  ·  Jayden Meghoma - 3 **19.00**  ·  Adrian Segecic - 1 **1.18**  ·  Josh Murphy - 1 **1.17**  ·  Colby Bishop - 1 **1.22**  ·  Marko Milovanovic - 1 **1.10**  ·  Eoin Kenny - 1 **1.28**  ·  Luke Brooke-Smith - 1 **1.36**  ·  Rocco Robert Shein - 1 **2.10**  ·  Abu Kamara - 1 **1.44**  ·  Franco Umeh - 1 **1.33**  ·  Odin Bailey - 1 **1.57**  ·  Harvey Blair - 1 **1.30**  ·  Keshi Anderson - 1 **1.30**  ·  Ryan Kavuma-McQueen - 1 **1.12**  ·  John Swift - 1 **1.44**  ·  Ebou Adams - 1 **1.53**  ·  Zak Swanson - 1 **1.73**  ·  Terry Devlin - 1 **1.67**  ·  Marlon Pack - 1 **2.00**  ·  Conor Shaughnessy - 1 **2.10**  ·  Madiodio Dia - 1 **2.50**  ·  Regan Poole - 1 **3.25**  ·  Adrian Segecic - 2 **1.80**  ·  Josh Murphy - 2 **1.80**  ·  Colby Bishop - 2 **2.00**  ·  Marko Milovanovic - 2 **1.50**  ·  Eoin Kenny - 2 **2.20**  ·  Luke Brooke-Smith - 2 **2.62**  ·  Rocco Robert Shein - 2 **6.50**  ·  Abu Kamara - 2 **2.75**  ·  Franco Umeh - 2 **2.50**  ·  Odin Bailey - 2 **3.50**  ·  Harvey Blair - 2 **2.25**  ·  Keshi Anderson - 2 **2.25**  ·  Ryan Kavuma-McQueen - 2 **1.62**  ·  John Swift - 2 **3.00**  ·  Ebou Adams - 2 **3.40**  ·  Zak Swanson - 2 **4.33**  ·  Terry Devlin - 2 **4.00**  ·  Marlon Pack - 2 **6.00**  ·  Conor Shaughnessy - 2 **6.50**  ·  Madiodio Dia - 2 **8.00**  ·  Regan Poole - 2 **13.00**  ·  Adrian Segecic - 3 **3.40**  ·  Josh Murphy - 3 **3.25**  ·  Colby Bishop - 3 **3.75**  ·  Marko Milovanovic - 3 **2.38**  ·  Eoin Kenny - 3 **4.50**  ·  Luke Brooke-Smith - 3 **6.00**  ·  Rocco Robert Shein - 3 **19.00**  ·  Abu Kamara - 3 **7.00**  ·  Franco Umeh - 3 **5.50**  ·  Odin Bailey - 3 **10.00**  ·  Harvey Blair - 3 **5.00**  ·  Keshi Anderson - 3 **5.00**  ·  Ryan Kavuma-McQueen - 3 **2.75**  ·  John Swift - 3 **7.00**  ·  Ebou Adams - 3 **9.00**  ·  Zak Swanson - 3 **13.00**  ·  Terry Devlin - 3 **11.00**  ·  Marlon Pack - 3 **19.00**  ·  Conor Shaughnessy - 3 **19.00**  ·  Madiodio Dia - 3 **21.00**  ·  Regan Poole - 3 **21.00**  ·  Adrian Segecic - 4 **7.00**  ·  Josh Murphy - 4 **6.50**  ·  Colby Bishop - 4 **9.00**  ·  Marko Milovanovic - 4 **4.33**  ·  Eoin Kenny - 4 **11.00**  ·  Luke Brooke-Smith - 4 **15.00**  ·  Abu Kamara - 4 **17.00**  ·  Franco Umeh - 4 **13.00**  ·  Odin Bailey - 4 **21.00**  ·  Harvey Blair - 4 **11.00**  ·  Keshi Anderson - 4 **11.00**  ·  Ryan Kavuma-McQueen - 4 **5.50**  ·  John Swift - 4 **19.00**  ·  Ebou Adams - 4 **21.00**  ·  Terry Devlin - 4 **19.00**  ·  Adrian Segecic - 5 **17.00**  ·  Josh Murphy - 5 **15.00**  ·  Colby Bishop - 5 **19.00**  ·  Marko Milovanovic - 5 **9.00**  ·  Eoin Kenny - 5 **21.00**  ·  Luke Brooke-Smith - 5 **21.00**  ·  Franco Umeh - 5 **21.00**  ·  Josh Murphy - 6 **11.00**  ·  Colby Bishop - 6 **21.00**  ·  Marko Milovanovic - 6 **19.00**  ·  Eoin Kenny - 6 **21.00**  ·  Josh Murphy - 7 **21.00**  ·  Iyad Mohamed - 1 **1.53**  ·  Iyad Mohamed - 2 **3.40**  ·  Iyad Mohamed - 3 **9.00**  ·  Ryan Kavuma-McQueen - 5 **11.00**  ·  Harvey Blair - 5 **21.00**  ·  Keshi Anderson - 5 **21.00**  ·  John Swift - 5 **21.00**  ·  Ryan Kavuma-McQueen - 6 **21.00**  ·  Tyrese Shade - 1 **1.28**  ·  Tyrese Shade - 2 **2.20**  ·  Tyrese Shade - 3 **4.50**  ·  Tyrese Shade - 4 **11.00**  ·  Tyrese Shade - 5 **21.00**  ·  Iyad Mohamed - 4 **21.00**  ·  Thomas Waddingham - 1 **1.12**  ·  Thomas Waddingham - 2 **1.62**  ·  Thomas Waddingham - 3 **2.75**  ·  Thomas Waddingham - 4 **5.50**  ·  Thomas Waddingham - 5 **11.00**  ·  Thomas Waddingham - 6 **21.00**
+- **Goalkeeper Saves:** Nicolas Schmid - 3 **1.73**  ·  Nicolas Schmid - 4 **2.75**  ·  Nicolas Schmid - 5 **5.50**  ·  Nicolas Schmid - 6 **11.00**  ·  Anthony Patterson - 2 **1.62**  ·  Anthony Patterson - 3 **2.75**  ·  Anthony Patterson - 4 **6.00**  ·  Anthony Patterson - 1 **1.12**  ·  Nicolas Schmid - 2 **1.25**
+- **Anytime Goal Scorer:** Marko Milovanovic **3.60**  ·  Kieffer Moore **2.50**  ·  Rocco Robert Shein **10.00**  ·  Odin Bailey **8.50**  ·  Sam Smith **2.88**  ·  Keshi Anderson **6.00**  ·  Bailey-Tye Cadamarteri **2.88**  ·  Lewis O'Brien **4.50**  ·  Callum Doyle **10.00**  ·  John Swift **6.00**  ·  Zak Vyner **9.00**  ·  Harvey Blair **6.00**  ·  Josh Murphy **4.50**  ·  Terry Devlin **9.00**  ·  Marlon Pack **10.00**  ·  Regan Poole **15.00**  ·  Conor Shaughnessy **13.00**  ·  Zak Swanson **9.00**  ·  Dominic Hyam **13.00**  ·  Ben Sheaf **8.50**  ·  Ben Whiteman **6.00**  ·  Callum O'Hare **3.20**  ·  Ebou Adams **8.50**  ·  Joe Worrall **9.00**  ·  Josh Windass **3.00**  ·  Abu Kamara **7.50**  ·  Jacques Ekomie **7.00**  ·  Ryan Kavuma-McQueen **4.00**  ·  Danny Imray **6.00**  ·  George Dobson **10.00**  ·  Oliver Rathbone **4.00**  ·  Aaron James **10.00**  ·  Max Cleworth **10.00**  ·  George Thomason **8.50**  ·  Madiodio Dia **15.00**  ·  Tyrese Shade **5.00**  ·  Thomas Waddingham **4.00**  ·  Eoin Kenny **4.00**  ·  Issa Kabore **10.00**  ·  Adrian Segecic **5.00**  ·  Matty James **8.50**  ·  Samuel Chesworth **2.62**  ·  Colby Bishop **4.00**  ·  Ryan Longman **7.50**  ·  Liberato Cacace **10.00**  ·  Jayden Meghoma **13.00**  ·  Nathan Broadhead **3.60**  ·  Franco Umeh **5.50**  ·  Luke Brooke-Smith **6.00**  ·  Iyad Mohamed **8.50**
+- **Player to Score or Assist:** Marko Milovanovic **2.88**  ·  Kieffer Moore **2.00**  ·  Rocco Robert Shein **4.33**  ·  Odin Bailey **4.33**  ·  Sam Smith **2.30**  ·  Keshi Anderson **3.20**  ·  Bailey-Tye Cadamarteri **2.30**  ·  Lewis O'Brien **2.75**  ·  Callum Doyle **6.00**  ·  John Swift **3.75**  ·  Zak Vyner **6.50**  ·  Harvey Blair **3.50**  ·  Josh Murphy **2.75**  ·  Terry Devlin **4.75**  ·  Marlon Pack **4.33**  ·  Regan Poole **11.00**  ·  Conor Shaughnessy **8.00**  ·  Zak Swanson **4.75**  ·  Dominic Hyam **9.50**  ·  Ben Sheaf **4.33**  ·  Ben Whiteman **3.10**  ·  Callum O'Hare **2.10**  ·  Ebou Adams **6.50**  ·  Joe Worrall **5.00**  ·  Josh Windass **2.00**  ·  Abu Kamara **3.40**  ·  Jacques Ekomie **3.25**  ·  Ryan Kavuma-McQueen **2.75**  ·  Danny Imray **3.50**  ·  George Dobson **4.50**  ·  Oliver Rathbone **2.75**  ·  Aaron James **5.50**  ·  Max Cleworth **4.50**  ·  George Thomason **3.25**  ·  Madiodio Dia **9.00**  ·  Tyrese Shade **3.10**  ·  Thomas Waddingham **2.88**  ·  Eoin Kenny **3.10**  ·  Issa Kabore **3.75**  ·  Adrian Segecic **3.10**  ·  Matty James **3.60**  ·  Samuel Chesworth **2.00**  ·  Colby Bishop **2.75**  ·  Ryan Longman **3.50**  ·  Liberato Cacace **3.50**  ·  Jayden Meghoma **7.50**  ·  Nathan Broadhead **2.38**  ·  Franco Umeh **3.20**  ·  Luke Brooke-Smith **4.00**  ·  Iyad Mohamed **6.00**
 
 ## Estadísticas de equipo
 | | Wrexham (total) | Wrexham en casa | Portsmouth (total) | Portsmouth fuera |

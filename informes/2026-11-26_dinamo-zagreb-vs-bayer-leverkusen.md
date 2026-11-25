@@ -1,10 +1,10 @@
 # Dinamo Zagreb – Bayer Leverkusen
 **Europa League** · League Stage - 5 · 26/11/2026 18:45 (hora España) · Stadion Maksimir
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:23_
+_Actualizadas: 25/11 09:26_
 
 - **1X2:** 1 **4.20**  ·  X **4.50**  ·  2 **1.67**
 - **Doble oportunidad:** 1X **2.15**  ·  12 **1.18**  ·  X2 **1.22**
@@ -32,7 +32,7 @@ _Actualizadas: 24/11 23:23_
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 9,5: más **1.95** · menos **1.85**
+    - 9,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **2.50**  ·  X **8.00**  ·  2 **1.73**
 - **1X2 descanso:** 1 **4.50**  ·  X **2.60**  ·  2 **2.10**
 - **Goals Over/Under - Second Half:**

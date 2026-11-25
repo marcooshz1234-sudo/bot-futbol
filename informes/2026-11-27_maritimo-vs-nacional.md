@@ -1,10 +1,10 @@
 # Maritimo – Nacional
-**Primeira Liga** · Regular Season - 12 · 27/11/2026 21:15 (hora España)
+**Primeira Liga** · Regular Season - 12 · 27/11/2026 21:15 (hora España) · Estádio do Marítimo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:24_
+_Actualizadas: 25/11 09:27_
 
 - **1X2:** 1 **2.10**  ·  X **3.30**  ·  2 **3.40**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.33**  ·  X2 **1.70**

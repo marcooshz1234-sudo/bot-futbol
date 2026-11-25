@@ -1,10 +1,51 @@
 # Hvidovre – Kolding IF
 **1. Division** · Regular Season - 16 · 27/11/2026 19:00 (hora España) · Hvidovre Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 25/11 09:27_
+
+- **1X2:** 1 **1.85**  ·  X **3.70**  ·  2 **3.90**
+- **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.91**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
+- **Goles más/menos:**
+    - 1,5: más **1.18** · menos **4.50**
+    - 2,5: más **1.62** · menos **2.25**
+    - 3,5: más **2.50** · menos **1.50**
+    - 4,5: más **4.50** · menos **1.18**
+    - 5,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Córners más/menos:**
+    - 10: más **1.78** · menos **2.02**
+    - 10,5: más **2.02** · menos **1.78**
+- **1X2 descanso:** 1 **2.40**  ·  X **2.40**  ·  2 **4.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **1.44**  ·  2 **2.20**
+- **To Score In Both Halves By Teams:** 1 **2.62**  ·  2 **4.33**
+- **Win Both Halves:** 1 **5.50**  ·  2 **15.00**
+- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **15.00**  ·  Away/No **8.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **3.00**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **2.00**  ·  Más de 4.5 **1.78**  ·  Menos de 4.5 **2.02**
+- **Anytime Goal Scorer:** Ahmed Iljazovski **8.00**  ·  Magnus Doj **8.00**  ·  Daniel Johannesson **5.50**  ·  Anton Kjaergaard **7.00**  ·  Emmanuel Aby **3.00**  ·  Marvin Egho **2.50**  ·  Isak Tannader **4.00**  ·  Sterling Yateke **3.50**  ·  Alexander Johansen **3.25**  ·  Andreas Smed **3.60**  ·  Marius Papuga **5.50**  ·  Daniel Stenderup **8.00**  ·  Nicolaj Jungvig **9.00**  ·  Malte Killerich **12.00**  ·  Nicolai Clausen **12.00**  ·  Oliver Kjaergaard **3.20**  ·  Niels Morberg **12.00**  ·  Simon Okosun **4.50**  ·  Alasana Manneh **7.00**  ·  Oliver Juul Jensen **7.00**  ·  Donavan Bagou **2.05**  ·  Abdoulie Njai **7.00**  ·  Albert Norager **10.00**  ·  Haki Bedzeti **5.50**  ·  Pascal Estrada **12.00**  ·  Nathan Huygevelde **4.00**  ·  Filip Lesniak **8.00**  ·  Louka Prip **3.25**  ·  Gustav Friberg **12.00**  ·  Abdul Arshad **5.50**  ·  Hans Hollsberg **8.00**  ·  Lasse Laursen **12.00**  ·  Malthe Nielsen **5.50**  ·  Vladislav Morozov **3.20**  ·  Mikkel Levinsen **3.20**  ·  Emil Fevre **12.00**  ·  Oliver Jensen **3.25**  ·  Tobias Augustinus-Jensen **5.50**  ·  Mikkel Lynge **8.00**  ·  Anton Klaster **12.00**  ·  Jonas Hansen **12.00**  ·  Mustapha Nyassi **10.00**  ·  Gustav Steffensen **3.20**  ·  Papa Thome **3.20**  ·  Yacouba Ouattara **4.00**  ·  Roberto Risnaes **2.38**  ·  Louis Gronemann **8.00**  ·  Issa Niare **3.20**  ·  Sebastian Christensen **8.00**  ·  Gustav Laugesen **7.00**  ·  Villads Thogersen **10.00**  ·  Markus Soomets **7.00**  ·  Morten Knudsen **5.50**  ·  Aksel Halsgaard **12.00**  ·  Julius Lockhart **9.00**  ·  Zamir Aliji **5.50**
 
 ## Estadísticas de equipo
 | | Hvidovre (total) | Hvidovre en casa | Kolding IF (total) | Kolding IF fuera |

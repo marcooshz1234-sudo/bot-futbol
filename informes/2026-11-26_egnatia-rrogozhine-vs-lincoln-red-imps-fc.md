@@ -1,38 +1,38 @@
 # Egnatia Rrogozhinë – Lincoln Red Imps FC
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Arena Kombetare
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:23_
+_Actualizadas: 25/11 09:26_
 
-- **1X2:** 1 **1.55**  ·  X **4.20**  ·  2 **5.25**
+- **1X2:** 1 **1.53**  ·  X **4.20**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.22**  ·  X2 **2.38**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 1,5: más **1.18** · menos **4.50**
-    - 2,5: más **1.62** · menos **2.25**
+    - 2,5: más **1.60** · menos **2.30**
     - 3,5: más **2.50** · menos **1.50**
-    - 4,5: más **4.50** · menos **1.18**
-    - 5,5: más **10.00** · menos **1.06**
+    - 4,5: más **4.33** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**
-    - 0,5: más **1.11** · menos **6.50**
-    - 1,5: más **1.57** · menos **2.25**
-    - 2,5: más **2.75** · menos **1.40**
-    - 3,5: más **6.00** · menos **1.12**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
-    - 0,5: más **1.50** · menos **2.50**
+    - 0,5: más **1.53** · menos **2.38**
     - 1,5: más **3.50** · menos **1.28**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **1.90** · menos **1.90**
 - **Córners 1X2:** 1 **1.06**  ·  X **15.00**  ·  2 **10.00**
-- **1X2 descanso:** 1 **2.05**  ·  X **2.50**  ·  2 **5.50**
+- **1X2 descanso:** 1 **2.00**  ·  X **2.50**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
@@ -40,17 +40,17 @@ _Actualizadas: 24/11 23:23_
     - 3,5: más **9.00** · menos **1.07**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **1.30**  ·  2 **2.75**
-- **To Score In Both Halves By Teams:** 1 **2.25**  ·  2 **6.00**
-- **Win Both Halves:** 1 **3.75**  ·  2 **21.00**
-- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **5.50**  ·  Away/Yes **9.00**  ·  Home/No **2.75**  ·  Draw/No **15.00**  ·  Away/No **11.00**
+- **To Win Either Half:** 1 **1.30**  ·  2 **3.00**
+- **To Score In Both Halves By Teams:** 1 **2.20**  ·  2 **6.00**
+- **Win Both Halves:** 1 **3.75**  ·  2 **23.00**
+- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **5.50**  ·  Away/Yes **9.50**  ·  Home/No **2.75**  ·  Draw/No **15.00**  ·  Away/No **11.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.88**
 - **Home Corners Over/Under:**
     - 7,5: más **1.91** · menos **1.80**
 - **Away Corners Over/Under:**
     - 1,5: más **1.62** · menos **2.20**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.95**  ·  Menos de 4.5 **1.85**
-- **Anytime Goal Scorer:** Deivid Hoxha **2.38**  ·  Alvaro Romero **6.50**  ·  Lee Casciaro **4.33**  ·  Graeme Torrilla **10.00**  ·  Ethan Britto **7.50**  ·  Ethan Jolley **15.00**  ·  Bernardo Lopes **15.00**  ·  Numan Ajetovikj **8.00**  ·  Toni Garcia **7.50**  ·  Kike Gomez **4.00**  ·  Christian Rutjens **17.00**  ·  Gonzalez Nano **8.00**  ·  Armando Mandi **10.00**  ·  Martinez Joe **10.00**  ·  Ayman El Ghobashy **3.60**  ·  Zamiq Aliyev **12.00**  ·  Ibrahim Diabate **5.50**  ·  Eneo Bitri **6.50**  ·  Alessandro Albanese **2.50**  ·  Julliani Eersteling **15.00**  ·  Yussef Flalhi Idrissi **6.50**  ·  Leon Mason **6.00**  ·  Facundo Alvarez **6.50**  ·  Manu Toledano **3.60**  ·  Nico Pinto **6.50**  ·  Eljon Sota **8.00**  ·  Ildi Gruda **2.50**  ·  Altin Kryeziu **8.00**  ·  Karim Loukili **3.00**  ·  Geralb Smajli **10.00**  ·  Edison Ndreca **6.50**  ·  Albano Aleksi **8.00**  ·  Jurguens Montenegro **2.38**  ·  Daniel Adjessa **2.20**  ·  Alessandro Kacbufi **10.00**  ·  Andrey Yago **8.00**  ·  Guillem Jaime **8.00**  ·  Reis Bakalli **4.75**  ·  Aly Coulibaly **7.50**  ·  Jay Coombes **15.00**  ·  da Silva Fernando Medeiros **3.50**  ·  Cardoza Tomas Gabri **15.00**  ·  Alex Mula **6.50**  ·  Ledio Beqja **7.50**
+- **Anytime Goal Scorer:** Deivid Hoxha **2.38**  ·  Alvaro Romero **6.50**  ·  Lee Casciaro **4.33**  ·  Graeme Torrilla **10.00**  ·  Ethan Britto **7.50**  ·  Ethan Jolley **13.00**  ·  Bernardo Lopes **13.00**  ·  Numan Ajetovikj **7.50**  ·  Toni Garcia **7.50**  ·  Kike Gomez **4.00**  ·  Christian Rutjens **17.00**  ·  Gonzalez Nano **8.00**  ·  Armando Mandi **10.00**  ·  Martinez Joe **10.00**  ·  Ayman El Ghobashy **3.60**  ·  Zamiq Aliyev **12.00**  ·  Ibrahim Diabate **5.50**  ·  Eneo Bitri **6.50**  ·  Alessandro Albanese **2.50**  ·  Julliani Eersteling **13.00**  ·  Yussef Flalhi Idrissi **6.50**  ·  Leon Mason **6.00**  ·  Facundo Alvarez **6.50**  ·  Manu Toledano **3.60**  ·  Nico Pinto **6.50**  ·  Eljon Sota **7.50**  ·  Ildi Gruda **2.50**  ·  Altin Kryeziu **8.00**  ·  Karim Loukili **3.00**  ·  Geralb Smajli **10.00**  ·  Edison Ndreca **6.50**  ·  Albano Aleksi **7.50**  ·  Jurguens Montenegro **2.38**  ·  Daniel Adjessa **2.20**  ·  Alessandro Kacbufi **10.00**  ·  Andrey Yago **7.50**  ·  Guillem Jaime **8.00**  ·  Reis Bakalli **4.75**  ·  Aly Coulibaly **7.50**  ·  Jay Coombes **13.00**  ·  da Silva Fernando Medeiros **3.50**  ·  Cardoza Tomas Gabri **13.00**  ·  Alex Mula **6.50**  ·  Ledio Beqja **7.50**
 
 ## Estadísticas de equipo
 | | Egnatia Rrogozhinë (total) | Egnatia Rrogozhinë en casa | Lincoln Red Imps FC (total) | Lincoln Red Imps FC fuera |

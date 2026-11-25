@@ -1,7 +1,7 @@
 # SC Freiburg – RB Leipzig
 **Bundesliga** · Regular Season - 11 · 29/11/2026 15:30 (hora España) · Europa-Park Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
 _Actualizadas: 24/11 10:52_

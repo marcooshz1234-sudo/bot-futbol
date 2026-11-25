@@ -1,13 +1,13 @@
 # CSKA Sofia – Trabzonspor
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España) · Stadion Balgarska Armia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:23_
+_Actualizadas: 25/11 09:27_
 
-- **1X2:** 1 **3.90**  ·  X **3.60**  ·  2 **1.85**
-- **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.25**
+- **1X2:** 1 **4.10**  ·  X **3.70**  ·  2 **1.80**
+- **Doble oportunidad:** 1X **1.95**  ·  12 **1.28**  ·  X2 **1.22**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
@@ -22,16 +22,16 @@ _Actualizadas: 24/11 23:23_
 - **Goles del local:**
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**
-    - 2,5: más **6.50** · menos **1.11**
+    - 2,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
-    - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.40** · menos **1.30**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.00** · menos **1.36**
     - 3,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
     - 9,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **2.20**  ·  X **8.00**  ·  2 **1.91**
-- **1X2 descanso:** 1 **4.00**  ·  X **2.40**  ·  2 **2.40**
+- **1X2 descanso:** 1 **4.00**  ·  X **2.40**  ·  2 **2.30**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.80** · menos **1.91**
@@ -39,18 +39,18 @@ _Actualizadas: 24/11 23:23_
     - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
-- **To Win Either Half:** 1 **2.20**  ·  2 **1.50**
-- **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **2.62**
-- **Win Both Halves:** 1 **13.00**  ·  2 **5.50**
-- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.40**  ·  Home/No **8.00**  ·  Draw/No **15.00**  ·  Away/No **3.75**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **3.00**
+- **To Win Either Half:** 1 **2.25**  ·  2 **1.44**
+- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **2.50**
+- **Win Both Halves:** 1 **15.00**  ·  2 **5.00**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.25**  ·  Home/No **9.00**  ·  Draw/No **15.00**  ·  Away/No **3.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.10**
 - **Home Corners Over/Under:**
     - 4,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 4,5: más **1.73** · menos **2.00**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.62**  ·  Más de 4.5 **2.00**  ·  Menos de 4.5 **1.80**
 - **Away Player Shots On Target Total:** Leo Pereira Augusto **34.00**  ·  Facundo Rodriguez **23.00**  ·  Aral Simsir **34.00**  ·  Sidny Cabral **101.00**  ·  Noah Saviolo **9.50**  ·  Angelo Martino **21.00**  ·  Jean-Philippe Gbamin **67.00**  ·  Cenk Ozkacar **13.00**  ·  Batista Mendy **26.00**  ·  Gluda Dju Franculino **13.00**  ·  Tamimou Ouorou **151.00**  ·  Mohamed Salah **23.00**
-- **Anytime Goal Scorer:** David Pastor **11.00**  ·  Leo Pereira Augusto **3.60**  ·  Yigithan Cubukcu **6.00**  ·  Facundo Rodriguez **9.50**  ·  Ernest Muci **4.00**  ·  Max Ebong **9.00**  ·  Barry Cotter **9.50**  ·  Aral Simsir **4.00**  ·  Samet Akaydin **6.50**  ·  Ioannis Pittas **2.62**  ·  Isaac Solet **6.50**  ·  Metehan Mimaroglu **3.40**  ·  Sidny Cabral **11.00**  ·  Bruno Jordao **8.00**  ·  Mohamed Brahimi **3.60**  ·  Noah Saviolo **4.00**  ·  Taha Ince **7.00**  ·  Angelo Martino **8.00**  ·  Benjamin Bouchouari **6.50**  ·  Jean-Philippe Gbamin **11.00**  ·  Leandro Godoy **2.50**  ·  Chibuike Nwaiwu **9.00**  ·  Petko Panayotov **6.00**  ·  James Eto'o **9.00**  ·  Andrey Yordanov **7.00**  ·  Teodor Ivanov **13.00**  ·  Cenk Ozkacar **8.00**  ·  Mustafa Eskihellac **6.00**  ·  Ozan Tufan **8.00**  ·  Stefan Savic **9.00**  ·  Batista Mendy **6.00**  ·  Mehmet Nayir **2.75**  ·  Melih Kabasakal **6.50**  ·  Alex Tunchev **11.00**  ·  Joel Zwarts **3.00**  ·  Oguzhan Ertem **4.00**  ·  Vasil Kaymakanov **3.00**  ·  Wagner Pina **6.50**  ·  Ali Habesoglu **2.50**  ·  Gluda Dju Franculino **2.20**  ·  Kuzey Akcay **7.00**  ·  Hakan Yilmaz **4.00**  ·  Ahmet Guren **2.50**  ·  Dinis Almeida **11.00**  ·  Fabinho **7.00**  ·  Catalin Itu **5.00**  ·  Tamimou Ouorou **9.50**  ·  Stefano Sensi **6.50**  ·  Ebere Paul Onuachu **2.05**  ·  Mohamed Salah **2.20**  ·  Georgi Chorbadzhiyski **5.00**  ·  Tim Jabol **6.00**
+- **Anytime Goal Scorer:** David Pastor **11.00**  ·  Leo Pereira Augusto **4.00**  ·  Yigithan Cubukcu **6.00**  ·  Facundo Rodriguez **9.50**  ·  Ernest Muci **4.00**  ·  Max Ebong **8.50**  ·  Barry Cotter **9.50**  ·  Aral Simsir **4.00**  ·  Samet Akaydin **6.50**  ·  Ioannis Pittas **2.62**  ·  Isaac Solet **6.50**  ·  Metehan Mimaroglu **3.25**  ·  Sidny Cabral **11.00**  ·  Bruno Jordao **7.50**  ·  Mohamed Brahimi **4.00**  ·  Noah Saviolo **4.00**  ·  Taha Ince **7.00**  ·  Angelo Martino **7.50**  ·  Benjamin Bouchouari **6.50**  ·  Jean-Philippe Gbamin **11.00**  ·  Leandro Godoy **2.50**  ·  Chibuike Nwaiwu **8.50**  ·  Petko Panayotov **6.00**  ·  James Eto'o **8.50**  ·  Andrey Yordanov **7.00**  ·  Teodor Ivanov **13.00**  ·  Cenk Ozkacar **7.50**  ·  Mustafa Eskihellac **6.00**  ·  Ozan Tufan **7.50**  ·  Stefan Savic **7.50**  ·  Batista Mendy **6.00**  ·  Mehmet Nayir **2.75**  ·  Melih Kabasakal **6.50**  ·  Alex Tunchev **11.00**  ·  Joel Zwarts **3.00**  ·  Oguzhan Ertem **4.00**  ·  Vasil Kaymakanov **3.00**  ·  Wagner Pina **6.50**  ·  Ali Habesoglu **2.50**  ·  Gluda Dju Franculino **2.20**  ·  Kuzey Akcay **7.00**  ·  Hakan Yilmaz **4.00**  ·  Ahmet Guren **2.50**  ·  Dinis Almeida **11.00**  ·  Fabinho **7.00**  ·  Catalin Itu **5.00**  ·  Tamimou Ouorou **9.50**  ·  Stefano Sensi **6.50**  ·  Ebere Paul Onuachu **2.00**  ·  Mohamed Salah **2.20**  ·  Georgi Chorbadzhiyski **5.00**  ·  Tim Jabol **6.00**
 
 ## Estadísticas de equipo
 | | CSKA Sofia (total) | CSKA Sofia en casa | Trabzonspor (total) | Trabzonspor fuera |

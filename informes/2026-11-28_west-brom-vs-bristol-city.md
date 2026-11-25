@@ -1,10 +1,76 @@
 # West Brom – Bristol City
 **Championship** · Regular Season - 18 · 28/11/2026 16:00 (hora España) · The Hawthorns
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 25/11 09:27_
+
+- **1X2:** 1 **1.73**  ·  X **3.60**  ·  2 **4.33**
+- **Doble oportunidad:** 1X **1.20**  ·  12 **1.28**  ·  X2 **2.05**
+- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **12.00**
+    - 1,5: más **1.25** · menos **4.00**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.40** · menos **1.30**
+    - 2,5: más **10.00** · menos **1.06**
+- **Córners más/menos:**
+    - 10,5: más **1.73** · menos **2.00**
+    - 11: más **2.00** · menos **1.80**
+- **Córners 1X2:** 1 **1.44**  ·  X **9.00**  ·  2 **3.10**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.80** · menos **1.91**
+- **1X2 descanso:** 1 **2.30**  ·  X **2.30**  ·  2 **4.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **To Win Either Half:** 1 **1.40**  ·  2 **2.50**
+- **To Score In Both Halves By Teams:** 1 **2.62**  ·  2 **5.50**
+- **Win Both Halves:** 1 **5.00**  ·  2 **17.00**
+- **Results/Both Teams Score:** Home/Yes **3.60**  ·  Draw/Yes **4.75**  ·  Away/Yes **8.00**  ·  Home/No **3.25**  ·  Draw/No **12.00**  ·  Away/No **8.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.60**
+- **Home Corners Over/Under:**
+    - 6,5: más **2.00** · menos **1.73**
+- **Away Corners Over/Under:**
+    - 4,5: más **2.00** · menos **1.73**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.95**  ·  Menos de 5 **1.85**
+- **Home Team Total Cards:**
+    - 1,5: más **1.62** · menos **2.20**
+- **Away Team Total Cards:**
+    - 1,5: más **1.62** · menos **2.20**
+- **Total ShotOnGoal:**
+    - 8,5: más **2.00** · menos **1.73**
+- **ShotOnTarget 1x2:** 1 **1.33**  ·  X **8.00**  ·  2 **4.00**
+- **Total Shots:**
+    - 25,5: más **1.83** · menos **1.83**
+- **Shots.1x2:** 1 **1.14**  ·  X **19.00**  ·  2 **5.50**
+- **Away Player Shots On Target Total:** Felix Myhre **21.00**  ·  Tomi Horvat **41.00**  ·  Jason Knight **41.00**  ·  Jayson Molumby **41.00**  ·  Chris Mepham **17.00**  ·  Isaac Price **11.00**  ·  Lorent Tolaj **21.00**  ·  Tammer Bany **21.00**  ·  Rio Cardines **101.00**  ·  Gibson Yah **19.00**  ·  Lisav Eissat **17.00**  ·  Elijah Adebayo **8.50**  ·  Jed Wallace **67.00**  ·  Callum Styles **101.00**  ·  Ousmane Diakite **41.00**  ·  Sam Bell **34.00**  ·  Scott Twine **41.00**  ·  Yu Hirakawa **41.00**  ·  Joe Williams **101.00**  ·  Luke McNally **19.00**  ·  Rob Dickie **26.00**  ·  Cameron Pring **34.00**  ·  Robert Atkinson **19.00**  ·  George Tanner **151.00**  ·  Adam Randell **101.00**  ·  Nathaniel Phillips **11.00**  ·  Rabby Nzingoula **29.00**  ·  Dominic Ballard **15.00**  ·  Brayann Pereira **19.00**  ·  Brian De Keersmaecker **51.00**  ·  Aune Heggebo **8.00**  ·  Noah Eile **26.00**  ·  George Campbell **15.00**  ·  Kareem Tunde **21.00**  ·  Sam Greenwood **34.00**  ·  Nolan Galves **51.00**  ·  Matthew Crowther **23.00**  ·  Alfie Maughan **34.00**  ·  Rio Parmar **19.00**  ·  Toby Collyer **41.00**  ·  Harry Whitwell **29.00**  ·  Conor Townsend **81.00**  ·  Barney Stewart **11.00**  ·  Jimmy-Jay Morgan **11.00**
+- **Away Player Shots Total:**
+    - 9,5: más **2.00** · menos **1.73**
+- **Home Player Shots:** Aune Heggebo - 1 **1.05**  ·  Barney Stewart - 1 **1.01**  ·  Jimmy-Jay Morgan - 1 **1.02**  ·  Isaac Price - 1 **1.03**  ·  Tammer Bany - 1 **1.08**  ·  Nathaniel Phillips - 1 **1.73**  ·  Felix Myhre - 1 **1.40**  ·  Jayson Molumby - 1 **1.50**  ·  Harry Whitwell - 1 **1.44**  ·  Rabby Nzingoula - 1 **1.14**  ·  George Campbell - 1 **2.00**  ·  Callum Styles - 1 **1.28**  ·  Ousmane Diakite - 1 **1.30**  ·  Nolan Galves - 1 **2.00**  ·  Chris Mepham - 1 **2.25**  ·  Conor Townsend - 1 **2.25**  ·  Aune Heggebo - 2 **1.28**  ·  Barney Stewart - 2 **1.12**  ·  Jimmy-Jay Morgan - 2 **1.14**  ·  Isaac Price - 2 **1.18**  ·  Tammer Bany - 2 **1.40**  ·  Nathaniel Phillips - 2 **4.33**  ·  Felix Myhre - 2 **2.62**  ·  Jayson Molumby - 2 **3.25**  ·  Harry Whitwell - 2 **3.00**  ·  Rabby Nzingoula - 2 **1.62**  ·  George Campbell - 2 **6.00**  ·  Callum Styles - 2 **2.20**  ·  Ousmane Diakite - 2 **2.38**  ·  Nolan Galves - 2 **6.00**  ·  Chris Mepham - 2 **7.00**  ·  Conor Townsend - 2 **7.00**  ·  Aune Heggebo - 3 **1.83**  ·  Barney Stewart - 3 **1.36**  ·  Jimmy-Jay Morgan - 3 **1.44**  ·  Isaac Price - 3 **1.53**  ·  Tammer Bany - 3 **2.10**  ·  Nathaniel Phillips - 3 **13.00**  ·  Felix Myhre - 3 **6.50**  ·  Jayson Molumby - 3 **8.00**  ·  Harry Whitwell - 3 **7.00**  ·  Rabby Nzingoula - 3 **2.75**  ·  George Campbell - 3 **19.00**  ·  Callum Styles - 3 **4.50**  ·  Ousmane Diakite - 3 **5.00**  ·  Nolan Galves - 3 **19.00**  ·  Aune Heggebo - 4 **3.00**  ·  Barney Stewart - 4 **1.91**  ·  Jimmy-Jay Morgan - 4 **2.10**  ·  Isaac Price - 4 **2.25**  ·  Tammer Bany - 4 **3.75**  ·  Nathaniel Phillips - 4 **21.00**  ·  Felix Myhre - 4 **15.00**  ·  Jayson Molumby - 4 **21.00**  ·  Aune Heggebo - 5 **5.50**  ·  Barney Stewart - 5 **3.00**  ·  Jimmy-Jay Morgan - 5 **3.40**  ·  Isaac Price - 5 **3.75**  ·  Tammer Bany - 5 **7.00**  ·  Aune Heggebo - 6 **11.00**  ·  Barney Stewart - 6 **5.00**  ·  Jimmy-Jay Morgan - 6 **6.00**  ·  Kareem Tunde - 1 **1.05**  ·  Kareem Tunde - 2 **1.25**  ·  Kareem Tunde - 3 **1.80**  ·  Kareem Tunde - 4 **2.75**  ·  Kareem Tunde - 5 **5.00**  ·  Kareem Tunde - 6 **10.00**  ·  Brayann Pereira - 1 **1.73**  ·  Brayann Pereira - 2 **4.33**  ·  Brayann Pereira - 3 **13.00**  ·  Harry Whitwell - 4 **19.00**  ·  Chris Mepham - 3 **21.00**  ·  Toby Collyer - 1 **1.67**  ·  Matthew Crowther - 1 **1.40**  ·  Toby Collyer - 2 **4.00**  ·  Matthew Crowther - 2 **2.62**  ·  Toby Collyer - 3 **11.00**  ·  Matthew Crowther - 3 **6.50**  ·  Conor Townsend - 3 **21.00**  ·  Toby Collyer - 4 **21.00**  ·  Rabby Nzingoula - 4 **5.50**  ·  Callum Styles - 4 **11.00**  ·  Matthew Crowther - 4 **15.00**  ·  Ousmane Diakite - 4 **13.00**  ·  Felix Myhre - 5 **13.00**  ·  Isaac Price - 6 **7.00**  ·  Tammer Bany - 6 **15.00**  ·  Aune Heggebo - 7 **21.00**  ·  Barney Stewart - 7 **9.00**  ·  Jimmy-Jay Morgan - 7 **11.00**  ·  Isaac Price - 7 **13.00**  ·  Tammer Bany - 7 **21.00**  ·  Aune Heggebo - 8 **21.00**  ·  Barney Stewart - 8 **17.00**  ·  Jimmy-Jay Morgan - 8 **21.00**  ·  Isaac Price - 8 **21.00**  ·  Kareem Tunde - 7 **19.00**  ·  Rabby Nzingoula - 5 **11.00**  ·  Rabby Nzingoula - 6 **21.00**  ·  Ousmane Diakite - 5 **21.00**  ·  Callum Styles - 5 **21.00**  ·  Felix Myhre - 6 **21.00**
+- **Away Player Shots:** Lorent Tolaj - 1 **1.08**  ·  Dominic Ballard - 1 **1.08**  ·  Sam Greenwood - 1 **1.22**  ·  Scott Twine - 1 **1.28**  ·  Sam Bell - 1 **1.25**  ·  Tomi Horvat - 1 **1.25**  ·  Jed Wallace - 1 **1.73**  ·  Yu Hirakawa - 1 **1.33**  ·  Jason Knight - 1 **2.00**  ·  Rio Cardines - 1 **2.10**  ·  Rob Dickie - 1 **2.62**  ·  Adam Randell - 1 **2.00**  ·  Joe Williams - 1 **2.00**  ·  Lisav Eissat - 1 **1.91**  ·  Luke McNally - 1 **2.62**  ·  Cameron Pring - 1 **3.25**  ·  Robert Atkinson - 1 **2.62**  ·  George Tanner - 1 **3.25**  ·  Gibson Yah - 1 **1.67**  ·  Noah Eile - 1 **3.50**  ·  Lorent Tolaj - 2 **1.44**  ·  Dominic Ballard - 2 **1.40**  ·  Sam Greenwood - 2 **1.91**  ·  Scott Twine - 2 **2.20**  ·  Sam Bell - 2 **2.10**  ·  Tomi Horvat - 2 **2.10**  ·  Jed Wallace - 2 **4.00**  ·  Yu Hirakawa - 2 **2.50**  ·  Jason Knight - 2 **6.00**  ·  Rio Cardines - 2 **6.50**  ·  Rob Dickie - 2 **9.00**  ·  Adam Randell - 2 **6.00**  ·  Joe Williams - 2 **6.00**  ·  Lisav Eissat - 2 **5.50**  ·  Luke McNally - 2 **9.00**  ·  Cameron Pring - 2 **13.00**  ·  Robert Atkinson - 2 **9.00**  ·  George Tanner - 2 **13.00**  ·  Gibson Yah - 2 **3.75**  ·  Noah Eile - 2 **15.00**  ·  Lorent Tolaj - 3 **2.20**  ·  Dominic Ballard - 3 **2.20**  ·  Sam Greenwood - 3 **3.75**  ·  Scott Twine - 3 **4.50**  ·  Sam Bell - 3 **4.33**  ·  Tomi Horvat - 3 **4.00**  ·  Jed Wallace - 3 **13.00**  ·  Yu Hirakawa - 3 **5.50**  ·  Jason Knight - 3 **19.00**  ·  Rio Cardines - 3 **19.00**  ·  Rob Dickie - 3 **21.00**  ·  Adam Randell - 3 **19.00**  ·  Joe Williams - 3 **19.00**  ·  Lisav Eissat - 3 **17.00**  ·  Luke McNally - 3 **21.00**  ·  Cameron Pring - 3 **21.00**  ·  Robert Atkinson - 3 **21.00**  ·  Gibson Yah - 3 **11.00**  ·  Lorent Tolaj - 4 **4.00**  ·  Dominic Ballard - 4 **3.75**  ·  Sam Greenwood - 4 **9.00**  ·  Scott Twine - 4 **11.00**  ·  Sam Bell - 4 **10.00**  ·  Tomi Horvat - 4 **10.00**  ·  Jed Wallace - 4 **19.00**  ·  Yu Hirakawa - 4 **13.00**  ·  Lorent Tolaj - 5 **8.00**  ·  Dominic Ballard - 5 **8.00**  ·  Sam Greenwood - 5 **19.00**  ·  Scott Twine - 5 **21.00**  ·  Sam Bell - 5 **21.00**  ·  Tomi Horvat - 5 **21.00**  ·  Yu Hirakawa - 5 **17.00**  ·  Lorent Tolaj - 6 **17.00**  ·  Dominic Ballard - 6 **15.00**  ·  Sam Greenwood - 6 **17.00**  ·  Scott Twine - 6 **21.00**  ·  Sam Bell - 6 **21.00**  ·  Lorent Tolaj - 7 **21.00**  ·  Dominic Ballard - 7 **19.00**  ·  Elijah Adebayo - 1 **1.17**  ·  Brian De Keersmaecker - 1 **1.44**  ·  Elijah Adebayo - 2 **1.73**  ·  Brian De Keersmaecker - 2 **2.75**  ·  Elijah Adebayo - 3 **3.25**  ·  Brian De Keersmaecker - 3 **6.50**  ·  Elijah Adebayo - 4 **6.50**  ·  Brian De Keersmaecker - 4 **17.00**  ·  Elijah Adebayo - 5 **15.00**  ·  Elijah Adebayo - 6 **21.00**  ·  Elijah Adebayo - 7 **21.00**  ·  Gibson Yah - 4 **21.00**
+- **Goalkeeper Saves:** Max O'Leary - 1 **1.11**  ·  Max O'Leary - 2 **1.53**  ·  Max O'Leary - 3 **2.62**  ·  Max O'Leary - 4 **5.50**  ·  Bradley Collins - 2 **1.11**  ·  Bradley Collins - 3 **1.36**  ·  Bradley Collins - 4 **1.91**  ·  Bradley Collins - 5 **3.25**  ·  Bradley Collins - 6 **5.50**  ·  Bradley Collins - 7 **11.00**
+- **Anytime Goal Scorer:** Felix Myhre **4.50**  ·  Tomi Horvat **5.00**  ·  Jason Knight **9.50**  ·  Jayson Molumby **6.50**  ·  Chris Mepham **11.00**  ·  Isaac Price **2.88**  ·  Lorent Tolaj **3.40**  ·  Tammer Bany **3.20**  ·  Rio Cardines **12.00**  ·  Gibson Yah **9.50**  ·  Lisav Eissat **12.00**  ·  Elijah Adebayo **3.50**  ·  Jed Wallace **7.00**  ·  Callum Styles **5.50**  ·  Ousmane Diakite **7.50**  ·  Sam Bell **4.50**  ·  Scott Twine **4.50**  ·  Yu Hirakawa **5.00**  ·  Joe Williams **11.00**  ·  Luke McNally **15.00**  ·  Rob Dickie **15.00**  ·  Cameron Pring **15.00**  ·  Robert Atkinson **15.00**  ·  George Tanner **19.00**  ·  Adam Randell **11.00**  ·  Nathaniel Phillips **7.50**  ·  Rabby Nzingoula **4.50**  ·  Dominic Ballard **3.00**  ·  Brayann Pereira **9.50**  ·  Brian De Keersmaecker **7.00**  ·  Aune Heggebo **2.50**  ·  Noah Eile **19.00**  ·  George Campbell **9.50**  ·  Kareem Tunde **3.50**  ·  Sam Greenwood **3.75**  ·  Nolan Galves **11.00**  ·  Matthew Crowther **7.50**  ·  Alfie Maughan **7.50**  ·  Rio Parmar **3.75**  ·  Toby Collyer **9.50**  ·  Harry Whitwell **6.50**  ·  Conor Townsend **12.00**  ·  Barney Stewart **2.50**  ·  Jimmy-Jay Morgan **2.30**
+- **Player to Score or Assist:** Felix Myhre **2.62**  ·  Tomi Horvat **3.00**  ·  Jason Knight **5.50**  ·  Jayson Molumby **2.88**  ·  Chris Mepham **7.00**  ·  Isaac Price **1.91**  ·  Lorent Tolaj **2.50**  ·  Tammer Bany **2.20**  ·  Rio Cardines **4.00**  ·  Gibson Yah **5.50**  ·  Lisav Eissat **7.50**  ·  Elijah Adebayo **2.88**  ·  Jed Wallace **3.60**  ·  Callum Styles **3.20**  ·  Ousmane Diakite **4.33**  ·  Sam Bell **3.10**  ·  Scott Twine **2.75**  ·  Yu Hirakawa **3.10**  ·  Joe Williams **4.33**  ·  Luke McNally **9.00**  ·  Rob Dickie **10.00**  ·  Cameron Pring **5.50**  ·  Robert Atkinson **10.00**  ·  George Tanner **10.00**  ·  Adam Randell **5.50**  ·  Nathaniel Phillips **5.00**  ·  Rabby Nzingoula **3.00**  ·  Dominic Ballard **2.50**  ·  Brayann Pereira **4.75**  ·  Brian De Keersmaecker **3.50**  ·  Aune Heggebo **1.91**  ·  Noah Eile **9.50**  ·  George Campbell **4.33**  ·  Kareem Tunde **2.05**  ·  Sam Greenwood **2.62**  ·  Nolan Galves **4.00**  ·  Matthew Crowther **4.00**  ·  Alfie Maughan **3.40**  ·  Rio Parmar **2.25**  ·  Toby Collyer **4.00**  ·  Harry Whitwell **3.50**  ·  Conor Townsend **4.50**  ·  Barney Stewart **2.00**  ·  Jimmy-Jay Morgan **1.91**
 
 ## Estadísticas de equipo
 | | West Brom (total) | West Brom en casa | Bristol City (total) | Bristol City fuera |

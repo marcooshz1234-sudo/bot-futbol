@@ -1,7 +1,7 @@
 # Blackburn – Charlton
 **Championship** · Regular Season - 18 · 28/11/2026 13:30 (hora España) · Ewood Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
 _Actualizadas: 24/11 10:51_

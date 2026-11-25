@@ -1,10 +1,10 @@
 # Stade Brestois 29 – Paris FC
 **Ligue 1** · Regular Season - 12 · 27/11/2026 20:45 (hora España) · Stade Francis-Le-Blé
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:24_
+_Actualizadas: 25/11 09:27_
 
 - **1X2:** 1 **3.25**  ·  X **3.40**  ·  2 **2.20**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.30**  ·  X2 **1.33**
@@ -30,7 +30,7 @@ _Actualizadas: 24/11 23:24_
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 8,5: más **1.80** · menos **1.91**
+    - 8,5: más **1.80** · menos **2.00**
 - **Córners 1X2:** 1 **2.50**  ·  X **7.50**  ·  2 **1.73**
 - **1X2 descanso:** 1 **3.75**  ·  X **2.25**  ·  2 **2.75**
 - **Goals Over/Under - Second Half:**
@@ -118,8 +118,8 @@ _Actualizadas: 24/11 23:24_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Stade Brestois 29:** B. Chardonnet (baja, Calf Injury)
-**Paris FC:** N. Sangui (baja, Muscle Bruise)
+**Stade Brestois 29:** B. Chardonnet (baja, Calf Injury); R. Le Guen (baja, Broken Leg); K. Doumbia (duda, Ankle Injury); K. Lala (duda, Knee Injury)
+**Paris FC:** N. Sangui (duda, Muscle Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-05-03 · Ligue 1: Paris FC 4-0 Stade Brestois 29

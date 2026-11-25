@@ -1,13 +1,13 @@
 # Pafos – FC Midtjylland
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Alphamega Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:23_
+_Actualizadas: 25/11 09:26_
 
 - **1X2:** 1 **2.90**  ·  X **3.60**  ·  2 **2.20**
-- **Doble oportunidad:** 1X **1.67**  ·  12 **1.28**  ·  X2 **1.36**
+- **Doble oportunidad:** 1X **1.67**  ·  12 **1.28**  ·  X2 **1.40**
 - **Ambos marcan:** Sí **1.50**  ·  No **2.50**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
@@ -26,13 +26,13 @@ _Actualizadas: 24/11 23:23_
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.80** · menos **1.91**
+    - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
     - 9,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **2.20**  ·  X **8.00**  ·  2 **1.91**
-- **1X2 descanso:** 1 **3.40**  ·  X **2.40**  ·  2 **2.75**
+- **1X2 descanso:** 1 **3.25**  ·  X **2.40**  ·  2 **2.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.73** · menos **2.00**
@@ -41,17 +41,17 @@ _Actualizadas: 24/11 23:23_
 - **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
 - **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
 - **To Win Either Half:** 1 **1.83**  ·  2 **1.62**
-- **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **2.75**
-- **Win Both Halves:** 1 **10.00**  ·  2 **6.50**
-- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.60**  ·  Home/No **6.50**  ·  Draw/No **17.00**  ·  Away/No **4.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **3.10**
+- **To Score In Both Halves By Teams:** 1 **3.40**  ·  2 **2.75**
+- **Win Both Halves:** 1 **10.00**  ·  2 **7.00**
+- **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.75**  ·  Home/No **6.50**  ·  Draw/No **17.00**  ·  Away/No **4.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **3.10**
 - **Home Corners Over/Under:**
     - 4,5: más **1.91** · menos **1.80**
 - **Away Corners Over/Under:**
     - 4,5: más **1.73** · menos **2.00**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
-- **Away Player Shots On Target Total:** Afonso Patrao **12.00**  ·  Gue-Sung Cho **11.00**  ·  Ken Sema **67.00**  ·  Edward Chilufya **19.00**  ·  Denil Castillo **41.00**  ·  Ousmane Diao **13.00**  ·  Pedro Bravo **41.00**  ·  Victor Bak Jensen **81.00**  ·  Mads Sorensen **19.00**  ·  David Martinez **41.00**  ·  Friday Etim **7.50**  ·  Alamara Djabi **23.00**  ·  Jaja Brito **23.00**  ·  David Luiz **17.00**  ·  Georgios Michael **34.00**  ·  Yoram Zague **51.00**  ·  Kjell-Arik Watjen **34.00**  ·  Mikael Uhre **26.00**  ·  Julius Emefile **29.00**  ·  Jonatas Noro **34.00**  ·  Pedro Rodrigues Pepe **67.00**  ·  Vlad Dragomir **41.00**  ·  Domingos Quina **67.00**  ·  David Goldar **13.00**  ·  Ivan Sunjic **67.00**  ·  Joao Correia **29.00**  ·  Mikel Gogorza **12.00**  ·  Anderson Silva **19.00**  ·  Rasmus Kristensen **34.00**  ·  Martin Erlic **15.00**  ·  Hyun-seok Hong **29.00**  ·  Philip Billing **41.00**  ·  Alexandre Brito **34.00**  ·  Lele **15.00**  ·  Bruno Felipe **51.00**
-- **Anytime Goal Scorer:** Afonso Patrao **3.10**  ·  Gue-Sung Cho **2.75**  ·  Ken Sema **7.00**  ·  Magnus Jensen **6.50**  ·  Mileta Rajovic **2.30**  ·  Edward Chilufya **2.88**  ·  Sofus Johannesen **5.00**  ·  Denil Castillo **5.00**  ·  Ousmane Diao **7.50**  ·  Pedro Bravo **8.50**  ·  Victor Bak Jensen **8.50**  ·  Mads Sorensen **9.50**  ·  David Martinez **3.25**  ·  Nicholas Ioannou **8.50**  ·  Friday Etim **2.30**  ·  Alamara Djabi **5.00**  ·  Moumi Ngamaleu **3.50**  ·  Jaja Brito **3.40**  ·  David Luiz **7.50**  ·  Georgios Michael **6.00**  ·  Yoram Zague **8.50**  ·  Kjell-Arik Watjen **6.00**  ·  Mikael Uhre **2.75**  ·  Goncalo Guga **6.00**  ·  Andreas Maxso **11.00**  ·  Samy Mmaee **11.00**  ·  Julius Emefile **3.50**  ·  Jonatas Noro **11.00**  ·  Pedro Rodrigues Pepe **7.00**  ·  Vlad Dragomir **5.00**  ·  Domingos Quina **5.00**  ·  Christos Efzona **7.50**  ·  David Goldar **7.00**  ·  Ivan Sunjic **6.50**  ·  Joao Correia **4.50**  ·  Stanley Iheanacho **2.88**  ·  Beni Junior Dje **7.50**  ·  Murad Mammadov **5.00**  ·  Melinos Kais **3.75**  ·  Frederik Vestergaard **5.00**  ·  Joseph Okuaghare **6.50**  ·  Mikel Gogorza **3.10**  ·  Anderson Silva **3.10**  ·  Abdou Aziz Ndiaye **7.50**  ·  Rasmus Kristensen **8.50**  ·  Martin Erlic **11.00**  ·  Hyun-seok Hong **3.50**  ·  Philip Billing **5.00**  ·  Alexandre Brito **8.50**  ·  Kosmas Ioannou **13.00**  ·  Biel **4.50**  ·  Lele **3.10**  ·  Bruno Felipe **6.00**
+- **Away Player Shots On Target Total:** Afonso Patrao **11.00**  ·  Gue-Sung Cho **11.00**  ·  Ken Sema **67.00**  ·  Edward Chilufya **19.00**  ·  Denil Castillo **41.00**  ·  Ousmane Diao **13.00**  ·  Pedro Bravo **41.00**  ·  Victor Bak Jensen **81.00**  ·  Mads Sorensen **19.00**  ·  David Martinez **41.00**  ·  Friday Etim **7.50**  ·  Alamara Djabi **23.00**  ·  Jaja Brito **23.00**  ·  David Luiz **17.00**  ·  Georgios Michael **34.00**  ·  Yoram Zague **51.00**  ·  Kjell-Arik Watjen **34.00**  ·  Mikael Uhre **26.00**  ·  Julius Emefile **29.00**  ·  Jonatas Noro **34.00**  ·  Pedro Rodrigues Pepe **67.00**  ·  Vlad Dragomir **41.00**  ·  Domingos Quina **67.00**  ·  David Goldar **13.00**  ·  Ivan Sunjic **67.00**  ·  Joao Correia **29.00**  ·  Mikel Gogorza **12.00**  ·  Anderson Silva **19.00**  ·  Rasmus Kristensen **34.00**  ·  Martin Erlic **15.00**  ·  Hyun-seok Hong **29.00**  ·  Philip Billing **41.00**  ·  Alexandre Brito **34.00**  ·  Lele **15.00**  ·  Bruno Felipe **51.00**
+- **Anytime Goal Scorer:** Afonso Patrao **2.88**  ·  Gue-Sung Cho **2.88**  ·  Ken Sema **7.00**  ·  Magnus Jensen **6.50**  ·  Mileta Rajovic **2.30**  ·  Edward Chilufya **2.88**  ·  Sofus Johannesen **5.00**  ·  Denil Castillo **5.00**  ·  Ousmane Diao **7.50**  ·  Pedro Bravo **8.50**  ·  Victor Bak Jensen **8.50**  ·  Mads Sorensen **9.50**  ·  David Martinez **3.25**  ·  Nicholas Ioannou **8.50**  ·  Friday Etim **2.30**  ·  Alamara Djabi **5.00**  ·  Moumi Ngamaleu **3.40**  ·  Jaja Brito **3.25**  ·  David Luiz **7.50**  ·  Georgios Michael **6.00**  ·  Yoram Zague **8.50**  ·  Kjell-Arik Watjen **6.00**  ·  Mikael Uhre **2.88**  ·  Goncalo Guga **6.00**  ·  Andreas Maxso **11.00**  ·  Samy Mmaee **11.00**  ·  Julius Emefile **3.50**  ·  Jonatas Noro **11.00**  ·  Pedro Rodrigues Pepe **7.00**  ·  Vlad Dragomir **5.00**  ·  Domingos Quina **5.00**  ·  Christos Efzona **7.50**  ·  David Goldar **7.00**  ·  Ivan Sunjic **6.50**  ·  Joao Correia **4.50**  ·  Stanley Iheanacho **2.88**  ·  Beni Junior Dje **7.50**  ·  Murad Mammadov **5.00**  ·  Melinos Kais **3.75**  ·  Frederik Vestergaard **5.00**  ·  Joseph Okuaghare **6.50**  ·  Mikel Gogorza **3.10**  ·  Anderson Silva **2.88**  ·  Abdou Aziz Ndiaye **7.50**  ·  Rasmus Kristensen **8.50**  ·  Martin Erlic **11.00**  ·  Hyun-seok Hong **3.50**  ·  Philip Billing **5.00**  ·  Alexandre Brito **8.50**  ·  Kosmas Ioannou **13.00**  ·  Biel **4.50**  ·  Lele **2.88**  ·  Bruno Felipe **6.00**
 
 ## Estadísticas de equipo
 | | Pafos (total) | Pafos en casa | FC Midtjylland (total) | FC Midtjylland fuera |

@@ -1,10 +1,10 @@
 # Juventus – Omonia Nicosia
 **Europa League** · League Stage - 5 · 26/11/2026 21:00 (hora España) · Allianz Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:23_
+_Actualizadas: 25/11 09:26_
 
 - **1X2:** 1 **1.18**  ·  X **7.50**  ·  2 **13.00**
 - **Doble oportunidad:** 1X **1.04**  ·  12 **1.10**  ·  X2 **4.50**
@@ -18,7 +18,7 @@ _Actualizadas: 24/11 23:23_
     - 6,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **2.00** · menos **1.73**
+    - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **11.00** · menos **1.05**
 - **Goles del local:**

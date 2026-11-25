@@ -1,7 +1,7 @@
 # Crystal Palace – Hull City
 **Premier League** · Regular Season - 12 · 29/11/2026 15:05 (hora España) · Selhurst Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
 _Actualizadas: 24/11 10:52_

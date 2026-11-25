@@ -1,10 +1,33 @@
 # FC Voluntari – CFR 1907 Cluj
 **Liga I** · Regular Season - 17 · 28/11/2026 13:30 (hora España) · Stadionul Anghel Iordanescu
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 25/11 09:27_
+
+- **1X2:** 1 **2.62**  ·  X **3.40**  ·  2 **2.30**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **12.00**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **3.40**  ·  X **2.25**  ·  2 **2.88**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **To Win Either Half:** 1 **1.91**  ·  2 **1.67**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **3.40**
+- **Win Both Halves:** 1 **11.00**  ·  2 **8.00**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.33**  ·  Home/No **5.50**  ·  Draw/No **12.00**  ·  Away/No **4.33**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.60**
 
 ## Estadísticas de equipo
 | | FC Voluntari (total) | FC Voluntari en casa | CFR 1907 Cluj (total) | CFR 1907 Cluj fuera |

@@ -1,7 +1,7 @@
 # Borussia Mönchengladbach – SV Darmstadt 98
 **DFB-Pokal** · Round of 16 · 01/12/2026 20:45 (hora España) · Borussia-Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

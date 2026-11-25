@@ -1,10 +1,27 @@
 # Oţelul – Uta Arad
 **Liga I** · Regular Season - 17 · 29/11/2026 14:00 (hora España) · Stadionul Otelul
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 24/11 23:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 25/11 09:27_
+
+- **1X2:** 1 **2.80**  ·  X **3.10**  ·  2 **2.30**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
+- **Goles más/menos:**
+    - 0,5: más **1.06** · menos **9.50**
+    - 1,5: más **1.30** · menos **3.40**
+    - 2,5: más **2.00** · menos **1.80**
+    - 3,5: más **3.50** · menos **1.28**
+    - 4,5: más **7.00** · menos **1.10**
+- **1X2 descanso:** 1 **3.50**  ·  X **2.10**  ·  2 **3.10**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.91**  ·  2 **1.73**
+- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **3.75**
+- **Win Both Halves:** 1 **11.00**  ·  2 **9.00**
+- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.00**  ·  Home/No **5.00**  ·  Draw/No **9.50**  ·  Away/No **4.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.30**
 
 ## Estadísticas de equipo
 | | Oţelul (total) | Oţelul en casa | Uta Arad (total) | Uta Arad fuera |
