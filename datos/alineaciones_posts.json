@@ -502,142 +502,6 @@
   "mis|2026-11-05-marcos-crear-goles-120|1636250|Home Player Shots On Target Total|Camilo Duran - 1"
  ],
  "alineaciones": {
-  "1570029": {
-   "hora": "2026-11-23T20:09:18.232886+01:00",
-   "xi": [
-    "Guille Vallejo",
-    "Alex Petxarroman",
-    "Carlos Hernández",
-    "Y. Bodiger",
-    "José Matos",
-    "Álex Meléndez",
-    "Marino Illescas",
-    "E. Sevikyan",
-    "Kuki",
-    "Cedric Teguia",
-    "Jordi Escobar",
-    "Andrés Fernández",
-    "Marcos Luna",
-    "Chumi",
-    "F. Bonini",
-    "Álex Muñoz",
-    "S. Džodić",
-    "Javi Muñoz",
-    "Quim Junyent",
-    "Sergio Arribas",
-    "B. Cipenga",
-    "Miguel de la Fuente"
-   ],
-   "banquillo": [
-    "Abraham Bueno Espinosa",
-    "Alejandro Camacho Ramírez",
-    "Albert Caparrós",
-    "Joaquín",
-    "U. Konare",
-    "Pedro López",
-    "Mawuli Mensah",
-    "A. Tuhami",
-    "Chidiebere Gabriel Okoro",
-    "Redru",
-    "O. Sadik",
-    "K. Mamah",
-    "Gui"
-   ],
-   "equipos": {
-    "10139": [
-     {
-      "n": "Guille Vallejo",
-      "pos": "G"
-     },
-     {
-      "n": "Alex Petxarroman",
-      "pos": "D"
-     },
-     {
-      "n": "Carlos Hernández",
-      "pos": "D"
-     },
-     {
-      "n": "Y. Bodiger",
-      "pos": "D"
-     },
-     {
-      "n": "José Matos",
-      "pos": "D"
-     },
-     {
-      "n": "Álex Meléndez",
-      "pos": "M"
-     },
-     {
-      "n": "Marino Illescas",
-      "pos": "M"
-     },
-     {
-      "n": "E. Sevikyan",
-      "pos": "M"
-     },
-     {
-      "n": "Kuki",
-      "pos": "M"
-     },
-     {
-      "n": "Cedric Teguia",
-      "pos": "M"
-     },
-     {
-      "n": "Jordi Escobar",
-      "pos": "F"
-     }
-    ],
-    "723": [
-     {
-      "n": "Andrés Fernández",
-      "pos": "G"
-     },
-     {
-      "n": "Marcos Luna",
-      "pos": "D"
-     },
-     {
-      "n": "Chumi",
-      "pos": "D"
-     },
-     {
-      "n": "F. Bonini",
-      "pos": "D"
-     },
-     {
-      "n": "Álex Muñoz",
-      "pos": "D"
-     },
-     {
-      "n": "S. Džodić",
-      "pos": "M"
-     },
-     {
-      "n": "Javi Muñoz",
-      "pos": "M"
-     },
-     {
-      "n": "Quim Junyent",
-      "pos": "M"
-     },
-     {
-      "n": "Sergio Arribas",
-      "pos": "M"
-     },
-     {
-      "n": "B. Cipenga",
-      "pos": "M"
-     },
-     {
-      "n": "Miguel de la Fuente",
-      "pos": "F"
-     }
-    ]
-   }
-  },
   "1550203": {
    "hora": "2026-11-23T20:19:33.084085+01:00",
    "xi": [
@@ -2670,43 +2534,43 @@
    }
   },
   "1635673": {
-   "hora": "2026-11-25T19:58:54.855016+01:00",
+   "hora": "2026-11-25T20:10:01.402634+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635642": {
-   "hora": "2026-11-25T19:58:54.855016+01:00",
+   "hora": "2026-11-25T20:10:01.402634+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635682": {
-   "hora": "2026-11-25T19:58:54.855016+01:00",
+   "hora": "2026-11-25T20:10:01.402634+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635625": {
-   "hora": "2026-11-25T19:58:54.855016+01:00",
+   "hora": "2026-11-25T20:10:01.402634+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635703": {
-   "hora": "2026-11-25T19:58:54.855016+01:00",
+   "hora": "2026-11-25T20:10:01.402634+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635735": {
-   "hora": "2026-11-25T19:58:54.855016+01:00",
+   "hora": "2026-11-25T20:10:01.402634+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635724": {
-   "hora": "2026-11-25T19:58:54.855016+01:00",
+   "hora": "2026-11-25T20:10:01.402634+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
