@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25 23:25",
+ "actualizado": "2026-11-25 23:36",
  "redes": {
   "instagram": {
    "seguidores": 57,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4013,
-   "hoy": 223,
+   "seguidores": 4016,
+   "hoy": 226,
    "serie": [
     3230,
     3248,
@@ -24,7 +24,7 @@
     3714,
     3742,
     3790,
-    4013
+    4016
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4598,
- "total_hoy": 238,
+ "total": 4601,
+ "total_hoy": 241,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "23:30",
-  "dia": "2026-11-25",
-  "titulo": "Combi crystal palace – real sociedad"
+  "hora": "00:00",
+  "dia": "2026-11-26",
+  "titulo": "Europa league - ganadores"
  },
  "ayer": {
   "aciertos": 1,
@@ -270,24 +270,24 @@
   },
   "2026-11-25": {
    "instagram": 57,
-   "threads": 4013,
+   "threads": 4016,
    "facebook": 1,
    "telegram": 527
   }
  },
  "tipos_instagram": {
+  "Otros (reel)": {
+   "posts": 45,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi de partido (reel)": {
    "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 44,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
   "Escalera (reel)": {
-   "posts": 5,
+   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
