@@ -15832,5 +15832,816 @@
     "cuota_total": 7.25,
     "cuota_calculada": true,
     "cuotas_revisadas": "2026-11-25T22:49"
+  },
+  {
+    "id": "2026-11-26-loca-th-0020-x100",
+    "fecha": "2026-11-26T00:20",
+    "texto": "🎰 LA CENTENARIA x30,82 🎰\n\n🇨🇿 Plzen–Benfica 18:45\n✅ 💣 +1,5 goles en la 2ª parte del Plzen–Benfica\n🇳🇱 Ajax–FC Thun 18:45\n✅ ☄️ FC Thun marca\n🇳🇴 Brann–Aarhus 18:45\n✅ 🥇 Brann gana una parte\n🇱🇹 Kauno Žalgiris–Riga 18:45\n✅ 🥇 Riga gana una parte\n🇳🇱 NEC Nijmegen–Rennes 21:00\n✅ 🎯 Ahmetcan Kaplan: 1+ tiros\n🇧🇪 Gent–FK Crvena Zvezda 21:00\n✅ 🤝 FK Crvena Zvezda o empate\n🇩🇰 FC Nordsjaelland–Panathinaikos 21:00\n✅ 🥇 Panathinaikos gana una parte\n\n🎯 CUOTA 30,82 💎 10€ → 308€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1636315|Goals Over/Under - Second Half|Over 1.5",
+      "1636381|Total - Away|Over 0.5",
+      "1636393|To Win Either Half|Home",
+      "1636438|To Win Either Half|Away",
+      "1636301|Home Player Shots|Ahmetcan Kaplan - 1",
+      "1636412|Double Chance|Draw/Away",
+      "1636457|To Win Either Half|Away"
+    ],
+    "cuotas": [
+      1.62,
+      1.62,
+      1.57,
+      1.57,
+      1.62,
+      1.7,
+      1.73
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 30.82,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-26-loca-th-0040-ganaambos",
+    "fecha": "2026-11-26T00:40",
+    "texto": "👑⚽ GANA Y AMBOS MARCAN 👑⚽\n\n🇨🇿 Plzen – Benfica · 18:45\n🔁 Gana Benfica y ambos marcan\n\n🇳🇴 Brann – Aarhus · 18:45\n🔁 Gana Brann y ambos marcan\n\n🇨🇿 FK Jablonec – FC Lugano · 18:45\n🔁 Gana FC Lugano y ambos marcan\n\n🇦🇩 Inter Club d'Escaldes – FC Copenhagen · 21:00\n🔁 Gana FC Copenhagen y ambos marcan\n\n🎯 CUOTA 105 💎 · 10€ → 1.053€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1636315|Results/Both Teams Score|Away/Yes",
+      "1636393|Results/Both Teams Score|Home/Yes",
+      "1636431|Results/Both Teams Score|Away/Yes",
+      "1636428|Results/Both Teams Score|Away/Yes"
+    ],
+    "cuotas": [
+      2.6,
+      3.6,
+      3.75,
+      3.0
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 105.0,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "ganadores_img": {
+      "titulo": "GANA Y AMBOS MARCAN",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Portugal",
+          "bandera": "🇵🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/211.png",
+          "nombre": "Benfica",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "Norway",
+          "bandera": "🇳🇴",
+          "escudo_url": "https://media.api-sports.io/football/teams/319.png",
+          "nombre": "Brann",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "Switzerland",
+          "bandera": "🇨🇭",
+          "escudo_url": "https://media.api-sports.io/football/teams/606.png",
+          "nombre": "FC Lugano",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "Denmark",
+          "bandera": "🇩🇰",
+          "escudo_url": "https://media.api-sports.io/football/teams/400.png",
+          "nombre": "FC Copenhagen",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        }
+      ],
+      "lema": null
+    }
+  },
+  {
+    "id": "2026-11-26-loca-th-0300-lista-ambos",
+    "fecha": "2026-11-26T03:00",
+    "texto": "⚽ AMBOS MARCAN HOY ⚽\n\n1. 🇨🇿 Plzen–Benfica ➜ Ambos marcan @1,57\n2. 🇳🇱 Ajax–FC Thun ➜ Ambos marcan @1,67\n3. 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Heart Of Midlothian–Monaco ➜ Ambos marcan @1,62\n4. 🇳🇱 NEC Nijmegen–Rennes ➜ Ambos marcan @1,50\n5. 🇭🇺 Ferencvarosi TC–Celje ➜ Ambos marcan @1,80\n6. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Crystal Palace–Real Sociedad ➜ Ambos marcan @1,50\n7. 🇩🇪 SC Freiburg–Twente ➜ Ambos marcan @1,50\n8. 🇵🇹 Torreense–Celtic ➜ Ambos marcan @1,57\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1636315|Both Teams Score|Yes",
+      "1636381|Both Teams Score|Yes",
+      "1636421|Both Teams Score|Yes",
+      "1636252|Both Teams Score|Yes",
+      "1636261|Both Teams Score|Yes",
+      "1636301|Both Teams Score|Yes",
+      "1636349|Both Teams Score|Yes",
+      "1636410|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.57,
+      1.67,
+      1.62,
+      1.5,
+      1.8,
+      1.5,
+      1.57,
+      1.5
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-26-loca-th-0400-duelo",
+    "fecha": "2026-11-26T04:00",
+    "texto": "🤺 EL DUELO DE TIROS 🤺\n\n⭐ Dinamo Zagreb vs Bayer Leverkusen · 18:45\n\n🎳 Luka Stojkovic: 3+ tiros (Dinamo Zagreb)\n🎳 Patrik Schick: 4+ tiros (Bayer Leverkusen)\n\n🎯 CUOTA 4,85 aprox. 💎 · 10€ → 48,50€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1636255|Home Player Shots|Luka Stojkovic - 3",
+      "1636255|Away Player Shots|Patrik Schick - 4"
+    ],
+    "cuotas": [
+      2.75,
+      1.73
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 4.85,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-26-loca-th-0500-x50",
+    "fecha": "2026-11-26T05:00",
+    "texto": "🎰 LA DE x15,22 🎰\n\n🇳🇱 Ajax–FC Thun 18:45\n✅ 🎯 Toluwalase Arokodare marca\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton–Universitatea Craiova 18:45\n✅ 🏹 David Matei: 1+ tiros\n🇨🇾 Pafos–FC Midtjylland 18:45\n✅ ⏱️ +1,5 goles en la 2ª parte del Pafos–FC Midtjylland\n🇭🇺 Ferencvarosi TC–Celje 21:00\n✅ 🎯 Celje marca\n🇦🇩 Inter Club d'Escaldes–FC Copenhagen 21:00\n✅ ⏱️ +1,5 goles en la 2ª parte del Inter Club d'Escaldes–FC Copenhagen\n\n🎯 CUOTA 15,22 💎 10€ → 152€\n👇 ¿Cuál quitaríais? 👇",
+    "sel": [
+      "1636381|Anytime Goal Scorer|Toluwalase Arokodare",
+      "1636395|Away Player Shots|David Matei - 1",
+      "1636460|Goals Over/Under - Second Half|Over 1.5",
+      "1636261|Total - Away|Over 0.5",
+      "1636428|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.57,
+      2.0,
+      1.73,
+      1.62,
+      1.73
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 15.22,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-26-loca-th-0700-tapados",
+    "fecha": "2026-11-26T07:00",
+    "texto": "🫣 LA DE LOS TAPADOS 🫣\n\nHoy vamos con los que nadie ve 👀\n\n🇰🇿 Kairat Almaty – Mjallby AIF ➜ 🛡️ Mjallby AIF o empate @1,67\n🇳🇱 NEC Nijmegen – Rennes ➜ 🛡️ NEC Nijmegen o empate @1,67\n🇧🇪 Gent – FK Crvena Zvezda ➜ 🛡️ FK Crvena Zvezda o empate @1,70\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Crystal Palace – Real Sociedad ➜ 🛡️ Real Sociedad o empate @1,80\n\n🎯 CUOTA 8,53 💎 · 10€ → 85,30€\n\n🤫 Si sale esta, nos retiramos 🤫",
+    "sel": [
+      "1636435|Double Chance|Draw/Away",
+      "1636252|Double Chance|Draw/Away",
+      "1636301|Double Chance|Home/Draw",
+      "1636412|Double Chance|Draw/Away"
+    ],
+    "cuotas": [
+      1.67,
+      1.8,
+      1.67,
+      1.7
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 8.53,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "ganadores_img": {
+      "titulo": "LA DE LOS TAPADOS",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Sweden",
+          "bandera": "🇸🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/2240.png",
+          "nombre": "Mjallby AIF",
+          "pick": "O EMPATE",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/548.png",
+          "nombre": "Real Sociedad",
+          "pick": "O EMPATE",
+          "seleccion": false
+        },
+        {
+          "pais": "Netherlands",
+          "bandera": "🇳🇱",
+          "escudo_url": "https://media.api-sports.io/football/teams/413.png",
+          "nombre": "NEC Nijmegen",
+          "pick": "O EMPATE",
+          "seleccion": false
+        },
+        {
+          "pais": "Serbia",
+          "bandera": "🇷🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/598.png",
+          "nombre": "FK Crvena Zvezda",
+          "pick": "O EMPATE",
+          "seleccion": false
+        }
+      ],
+      "lema": null
+    }
+  },
+  {
+    "id": "2026-11-26-loca-th-0800-x500",
+    "fecha": "2026-11-26T08:00",
+    "texto": "🧨 COMBI x43,98 🧨\n\n🇭🇷 Dinamo Zagreb–Bayer Leverkusen 18:45\n✅ ☄️ Patrik Schick marca\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton–Universitatea Craiova 18:45\n✅ 🎯 David Matei: 1+ tiros\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Crystal Palace–Real Sociedad 21:00\n✅ 🔒 Real Sociedad o empate\n🇭🇺 Ferencvarosi TC–Celje 21:00\n✅ 💣 Ferencvarosi TC marca en las dos partes\n🇮🇹 Juventus–Omonia Nicosia 21:00\n✅ ☄️ Omonia Nicosia marca\n🇳🇱 NEC Nijmegen–Rennes 21:00\n✅ 🏆 NEC Nijmegen gana una parte\n\n🎯 CUOTA 43,98 💎 10€ → 440€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+    "sel": [
+      "1636255|Anytime Goal Scorer|Patrik Schick",
+      "1636395|Away Player Shots|David Matei - 1",
+      "1636252|Double Chance|Draw/Away",
+      "1636261|To Score In Both Halves By Teams|Home",
+      "1636277|Total - Away|Over 0.5",
+      "1636301|To Win Either Half|Home"
+    ],
+    "cuotas": [
+      1.91,
+      2.0,
+      1.8,
+      1.91,
+      1.83,
+      1.83
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 43.98,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-26-loca-th-0900-lista-corners",
+    "fecha": "2026-11-26T09:00",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇰🇿 Kairat Almaty–Mjallby AIF ➜ Mjallby AIF más de 3,5 córners @1,73\n2. 🇫🇷 Marseille–Levski Sofia ➜ Levski Sofia más de 2,5 córners @1,62\n3. 🇨🇿 Plzen–Benfica ➜ Plzen más de 3,5 córners @1,80\n4. 🇨🇾 Pafos–FC Midtjylland ➜ FC Midtjylland más de 4,5 córners @1,73\n5. 🇱🇹 Kauno Žalgiris–Riga ➜ Riga más de 4,5 córners @1,80\n6. 🇪🇸 Celta Vigo–Bournemouth ➜ Bournemouth más córners @1,73\n7. 🇳🇱 Ajax–FC Thun ➜ FC Thun más de 2,5 córners @1,80\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1636435|Away Corners Over/Under|Over 3.5",
+      "1636244|Corners 1x2|Away",
+      "1636298|Away Corners Over/Under|Over 2.5",
+      "1636315|Home Corners Over/Under|Over 3.5",
+      "1636381|Away Corners Over/Under|Over 2.5",
+      "1636438|Away Corners Over/Under|Over 4.5",
+      "1636460|Away Corners Over/Under|Over 4.5"
+    ],
+    "cuotas": [
+      1.73,
+      1.73,
+      1.62,
+      1.8,
+      1.8,
+      1.8,
+      1.73
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-26-loca-th-0920-empates",
+    "fecha": "2026-11-26T09:20",
+    "texto": "⚖️ LA COMBI DE LOS EMPATES ⚖️\n\n🇳🇴 Brann – Aarhus · 18:45 ➜ ✅ 🤝 Empate @3,70\n🇩🇰 FC Nordsjaelland – Panathinaikos · 21:00 ➜ ✅ 🤝 Empate @3,50\n🇳🇱 NEC Nijmegen – Rennes · 21:00 ➜ ✅ 🤝 Empate @3,80\n\n🎯 CUOTA 49,21 💎 · 10€ → 492€\n\n😮‍💨 Para valientes 😮‍💨",
+    "sel": [
+      "1636393|Match Winner|Draw",
+      "1636301|Match Winner|Draw",
+      "1636457|Match Winner|Draw"
+    ],
+    "cuotas": [
+      3.7,
+      3.8,
+      3.5
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 49.21,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-26-loca-th-1000-tiros",
+    "fecha": "2026-11-26T10:00",
+    "texto": "🎯 COMBI DE TIROS · SC FREIBURG vs TWENTE 🎯\n\n⭐ SC Freiburg – Twente · 21:00\n💨 Daouda Weidmann: 2+ tiros\n💨 Igor Matanovic: 3+ tiros\n💨 Wout Weghorst: 3+ tiros\n💨 Ramiz Zerrouki: 2+ tiros\n\n🎯 CUOTA 10,03 aprox. 💎 · 10€ → 100€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
+    "sel": [
+      "1636410|Away Player Shots|Daouda Weidmann - 2",
+      "1636410|Home Player Shots|Igor Matanovic - 3",
+      "1636410|Away Player Shots|Wout Weghorst - 3",
+      "1636410|Away Player Shots|Ramiz Zerrouki - 2"
+    ],
+    "cuotas": [
+      1.44,
+      1.44,
+      1.67,
+      3.0
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 10.03,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-26-loca-th-1100-lista-ambos",
+    "fecha": "2026-11-26T11:00",
+    "texto": "⚽ AMBOS MARCAN HOY ⚽\n\n1. 🇨🇿 Plzen–Benfica ➜ Ambos marcan @1,57\n2. 🇳🇱 Ajax–FC Thun ➜ Ambos marcan @1,67\n3. 🇭🇺 Ferencvarosi TC–Celje ➜ Ambos marcan @1,80\n4. 🇵🇹 Torreense–Celtic ➜ Ambos marcan @1,57\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1636315|Both Teams Score|Yes",
+      "1636381|Both Teams Score|Yes",
+      "1636261|Both Teams Score|Yes",
+      "1636349|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.57,
+      1.67,
+      1.8,
+      1.57
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-26-loca-th-1140-x100",
+    "fecha": "2026-11-26T11:40",
+    "texto": "🤑💸 COMBI POR 34,84 🤑💸\n\n🇰🇿 Kairat Almaty–Mjallby AIF 16:30\n🛡️ Mjallby AIF o empate\n🇹🇷 Beşiktaş–Hapoel Beer Sheva 18:45\n🚀 Hapoel Beer Sheva marca\n🇫🇷 Marseille–Levski Sofia 18:45\n🚀 Levski Sofia marca\n🇦🇹 Red Bull Salzburg–Ararat-Armenia 18:45\n🚀 Ararat-Armenia marca\n🇳🇱 Ajax–FC Thun 18:45\n🚀 Toluwalase Arokodare marca · 🚀 FC Thun marca\n🇳🇱 NEC Nijmegen–Rennes 21:00\n🎯 Ahmetcan Kaplan: 1+ tiros\n\n🎯 CUOTA 34,84 aprox. 💎 10€ → 348€\n🔥 ¡A POR ELLA, FAMILIA! 🔥",
+    "sel": [
+      "1636435|Double Chance|Draw/Away",
+      "1636231|Total - Away|Over 0.5",
+      "1636298|Total - Away|Over 0.5",
+      "1636334|Total - Away|Over 0.5",
+      "1636381|Anytime Goal Scorer|Toluwalase Arokodare",
+      "1636381|Total - Away|Over 0.5",
+      "1636301|Home Player Shots|Ahmetcan Kaplan - 1"
+    ],
+    "cuotas": [
+      1.67,
+      1.73,
+      1.67,
+      1.8,
+      1.57,
+      1.62,
+      1.62
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 34.84,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-26-loca-th-1400-x50",
+    "fecha": "2026-11-26T14:00",
+    "texto": "🤑 LA DE x21,14 🤑\n\n🇨🇿 Plzen–Benfica 18:45\n🌋 +1,5 goles en la 2ª parte del Plzen–Benfica\n🇧🇪 Union St. Gilloise–Lech Poznan 18:45\n🚀 Lech Poznan marca\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton–Universitatea Craiova 18:45\n🎳 David Matei: 1+ tiros\n🇦🇱 Egnatia Rrogozhinë–Lincoln Red Imps FC 18:45\n🚀 Lincoln Red Imps FC marca\n🇩🇪 1899 Hoffenheim–Sturm Graz 21:00\n🎳 Luca Weinhandl: 1+ tiros\n🇳🇱 NEC Nijmegen–Rennes 21:00\n🌋 +1,5 goles en la 2ª parte del NEC Nijmegen–Rennes\n\n🎯 CUOTA 21,14 💎 10€ → 211€\n👇 ¿Cuál quitaríais? 👇",
+    "sel": [
+      "1636315|Goals Over/Under - Second Half|Over 1.5",
+      "1636329|Total - Away|Over 0.5",
+      "1636395|Away Player Shots|David Matei - 1",
+      "1636405|Total - Away|Over 0.5",
+      "1636270|Away Player Shots|Luca Weinhandl - 1",
+      "1636301|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.62,
+      1.57,
+      2.0,
+      1.53,
+      1.57,
+      1.73
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 21.14,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-26-loca-th-1420-tapados",
+    "fecha": "2026-11-26T14:20",
+    "texto": "🫣 LA DE LOS TAPADOS 🫣\n\nHoy vamos con los que nadie ve 👀\n\n🇳🇱 NEC Nijmegen – Rennes ➜ ⚖️ NEC Nijmegen o empate @1,67\n🇧🇪 Gent – FK Crvena Zvezda ➜ ⚖️ FK Crvena Zvezda o empate @1,70\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Crystal Palace – Real Sociedad ➜ ⚖️ Real Sociedad o empate @1,80\n🇧🇬 CSKA Sofia – Trabzonspor ➜ ⚖️ CSKA Sofia o empate @1,95\n\n🎯 CUOTA 9,96 💎 · 10€ → 99,60€\n\n🤫 Si sale esta, nos retiramos 🤫",
+    "sel": [
+      "1636252|Double Chance|Draw/Away",
+      "1636301|Double Chance|Home/Draw",
+      "1636402|Double Chance|Home/Draw",
+      "1636412|Double Chance|Draw/Away"
+    ],
+    "cuotas": [
+      1.8,
+      1.67,
+      1.95,
+      1.7
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 9.96,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "ganadores_img": {
+      "titulo": "LA DE LOS TAPADOS",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/548.png",
+          "nombre": "Real Sociedad",
+          "pick": "O EMPATE",
+          "seleccion": false
+        },
+        {
+          "pais": "Netherlands",
+          "bandera": "🇳🇱",
+          "escudo_url": "https://media.api-sports.io/football/teams/413.png",
+          "nombre": "NEC Nijmegen",
+          "pick": "O EMPATE",
+          "seleccion": false
+        },
+        {
+          "pais": "Bulgaria",
+          "bandera": "🇧🇬",
+          "escudo_url": "https://media.api-sports.io/football/teams/853.png",
+          "nombre": "CSKA Sofia",
+          "pick": "O EMPATE",
+          "seleccion": false
+        },
+        {
+          "pais": "Serbia",
+          "bandera": "🇷🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/598.png",
+          "nombre": "FK Crvena Zvezda",
+          "pick": "O EMPATE",
+          "seleccion": false
+        }
+      ],
+      "lema": null
+    }
+  },
+  {
+    "id": "2026-11-26-loca-th-1440-escudos",
+    "fecha": "2026-11-26T14:40",
+    "texto": "💥 COMBI BRANN – AARHUS 💥\n\n⭐ Brann vs Aarhus · 18:45\n\n✅ ⚔️ Ambos marcan\n✅ 💪 Brann gana una parte\n✅ 📈 +1,5 goles en la 2ª parte del Brann–Aarhus\n\n🎯 CUOTA 3,29 aprox. 💎 10€ → 32,90€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1636393|Both Teams Score|Yes",
+      "1636393|To Win Either Half|Home",
+      "1636393|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.5,
+      1.57,
+      1.73
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Brann",
+      "visitante": "Aarhus",
+      "id_l": 319,
+      "id_v": 406,
+      "logo_l": "https://media.api-sports.io/football/teams/319.png",
+      "logo_v": "https://media.api-sports.io/football/teams/406.png",
+      "fecha": "2026-11-26T18:45",
+      "liga": "UEFA Europa Conference League"
+    },
+    "cuota_total": 3.29,
+    "cuota_calculada": true,
+    "cuota_bet365": 3.29,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-26-loca-th-1600-x500",
+    "fecha": "2026-11-26T16:00",
+    "texto": "🎰 LA LOCURA DE x88,72 🎰\n\n🇪🇸 Celta Vigo–Bournemouth 18:45\n🥇 Gana el Bournemouth\n🇬🇷 Olympiakos Piraeus–AC Milan 18:45\n🥇 Olympiakos Piraeus gana una parte\n🇨🇿 Plzen–Benfica 18:45\n📈 Benfica marca en las dos partes\n🇬🇪 FC Iberia 1999–Getafe 18:45\n🚩 +9 córners · 💥 FC Iberia 1999 marca\n🇱🇹 Kauno Žalgiris–Riga 18:45\n🚩 +9 córners\n🇩🇪 SC Freiburg–Twente 21:00\n🥇 Twente gana una parte\n\n🎯 CUOTA 88,72 aprox. 💎 10€ → 887€\n🔥 ¡A POR ELLA, FAMILIA! 🔥",
+    "sel": [
+      "1636244|Match Winner|Away",
+      "1636307|To Win Either Half|Home",
+      "1636315|To Score In Both Halves By Teams|Away",
+      "1636426|Corners Over Under|Over 9",
+      "1636426|Total - Home|Over 0.5",
+      "1636438|Corners Over Under|Over 9",
+      "1636410|To Win Either Half|Away"
+    ],
+    "cuotas": [
+      2.0,
+      1.91,
+      1.91,
+      1.82,
+      1.91,
+      1.85,
+      1.91
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 88.72,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-26-loca-th-1700-escudos",
+    "fecha": "2026-11-26T17:00",
+    "texto": "💥 COMBI SC FREIBURG – TWENTE 💥\n\n⭐ SC Freiburg vs Twente · 21:00\n\n✅ 🎳 Daouda Weidmann: 2+ tiros\n✅ 🎳 Igor Matanovic: 3+ tiros\n✅ 🎭 Ambos marcan\n✅ ⏱️ +1,5 goles en la 2ª parte del SC Freiburg–Twente\n\n🎯 CUOTA 5,06 aprox. 💎 10€ → 50,60€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1636410|Away Player Shots|Daouda Weidmann - 2",
+      "1636410|Home Player Shots|Igor Matanovic - 3",
+      "1636410|Both Teams Score|Yes",
+      "1636410|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.44,
+      1.44,
+      1.5,
+      1.73
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "SC Freiburg",
+      "visitante": "Twente",
+      "id_l": 160,
+      "id_v": 415,
+      "logo_l": "https://media.api-sports.io/football/teams/160.png",
+      "logo_v": "https://media.api-sports.io/football/teams/415.png",
+      "fecha": "2026-11-26T21:00",
+      "liga": "UEFA Europa Conference League"
+    },
+    "cuota_total": 5.06,
+    "cuota_calculada": true,
+    "cuota_bet365": 5.06,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-26-loca-th-1720-escudos",
+    "fecha": "2026-11-26T17:20",
+    "texto": "🔥 COMBI SPARTA PRAHA – AZ ALKMAAR 🔥\n\n⭐ Sparta Praha vs AZ Alkmaar · 21:00\n\n🎳 Ro-Zangelo Daal: 2+ tiros\n🎳 Josimar Alcocer: 2+ tiros\n💪 AZ Alkmaar gana una parte\n📈 +1,5 goles en la 2ª parte del Sparta Praha–AZ Alkmaar\n\n🎯 CUOTA 7,75 aprox. 💎 10€ → 77,50€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1636336|Away Player Shots|Ro-Zangelo Daal - 2",
+      "1636336|Home Player Shots|Josimar Alcocer - 2",
+      "1636336|To Win Either Half|Away",
+      "1636336|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.4,
+      1.53,
+      1.67,
+      1.83
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Sparta Praha",
+      "visitante": "AZ Alkmaar",
+      "id_l": 628,
+      "id_v": 201,
+      "logo_l": "https://media.api-sports.io/football/teams/628.png",
+      "logo_v": "https://media.api-sports.io/football/teams/201.png",
+      "fecha": "2026-11-26T21:00",
+      "liga": "UEFA Europa League"
+    },
+    "cuota_total": 7.75,
+    "cuota_calculada": true,
+    "cuota_bet365": 7.75,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-26-loca-th-1740-escudos",
+    "fecha": "2026-11-26T17:40",
+    "texto": "🔥 COMBI HNK HAJDUK SPLIT – ST. TRUIDEN 🔥\n\n⭐ HNK Hajduk Split vs St. Truiden · 21:00\n\n✅ 🎳 Nelson Ishiwatari: 2+ tiros\n✅ 🎳 Ilias Sebaoui: 3+ tiros\n✅ 📈 +1,5 goles en la 2ª parte del HNK Hajduk Split–St. Truiden\n\n🎯 CUOTA 5,95 aprox. 💎 10€ → 59,50€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1636420|Away Player Shots|Nelson Ishiwatari - 2",
+      "1636420|Away Player Shots|Ilias Sebaoui - 3",
+      "1636420|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.67,
+      1.8,
+      1.91
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "HNK Hajduk Split",
+      "visitante": "St. Truiden",
+      "id_l": 608,
+      "id_v": 735,
+      "logo_l": "https://media.api-sports.io/football/teams/608.png",
+      "logo_v": "https://media.api-sports.io/football/teams/735.png",
+      "fecha": "2026-11-26T21:00",
+      "liga": "UEFA Europa Conference League"
+    },
+    "cuota_total": 5.95,
+    "cuota_calculada": true,
+    "cuota_bet365": 5.95,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-26-loca-th-1840-duelo",
+    "fecha": "2026-11-26T18:40",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Sparta Praha vs AZ Alkmaar · 21:00\n\n💨 Josimar Alcocer: 2+ tiros (Sparta Praha)\n💨 Ro-Zangelo Daal: 2+ tiros (AZ Alkmaar)\n\n🎯 CUOTA 2,18 aprox. 💎 · 10€ → 21,80€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1636336|Home Player Shots|Josimar Alcocer - 2",
+      "1636336|Away Player Shots|Ro-Zangelo Daal - 2"
+    ],
+    "cuotas": [
+      1.53,
+      1.4
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.18,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-26-loca-th-1900-x1000",
+    "fecha": "2026-11-26T19:00",
+    "texto": "🤑 COMBI x264 🤑\n\n🇮🇹 Juventus–Omonia Nicosia 21:00\n✅ 🎯 Jaden Montnor: 2+ tiros\n🇳🇱 NEC Nijmegen–Rennes 21:00\n✅ ⚽ Boulaye Dia marca\n🇬🇷 OFI–Anderlecht 21:00\n✅ 🦁 OFI gana una parte\n🇵🇹 Torreense–Celtic 21:00\n✅ 🔒 Torreense o empate\n🇧🇬 CSKA Sofia–Trabzonspor 21:00\n✅ 🦁 CSKA Sofia gana una parte\n🇩🇪 SC Freiburg–Twente 21:00\n✅ ⚽ Twente marca 2+\n🇦🇩 Inter Club d'Escaldes–FC Copenhagen 21:00\n✅ ↔️ Ambos marcan\n\n🎯 CUOTA 264 💎 10€ → 2.640€\n✅ 🔥 ¡A POR ELLA, FAMILIA! 🔥",
+    "sel": [
+      "1636277|Away Player Shots|Jaden Montnor - 2",
+      "1636301|Anytime Goal Scorer|Boulaye Dia",
+      "1636305|To Win Either Half|Home",
+      "1636349|Double Chance|Home/Draw",
+      "1636402|To Win Either Half|Home",
+      "1636410|Total - Away|Over 1.5",
+      "1636428|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      2.25,
+      2.1,
+      2.5,
+      2.15,
+      2.25,
+      2.2,
+      2.1
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 264.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-26-loca-th-1920-lista-corners",
+    "fecha": "2026-11-26T19:20",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Sunderland–Jagiellonia ➜ Jagiellonia más de 2,5 córners @1,80\n2. 🇦🇩 Inter Club d'Escaldes–FC Copenhagen ➜ +8,5 córners @1,67\n3. 🇨🇿 Sparta Praha–AZ Alkmaar ➜ AZ Alkmaar más de 4,5 córners @1,80\n4. 🇳🇱 NEC Nijmegen–Rennes ➜ +9,5 córners @1,83\n5. 🇭🇺 Ferencvarosi TC–Celje ➜ Celje más de 2,5 córners @1,62\n6. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Crystal Palace–Real Sociedad ➜ Crystal Palace más de 4,5 córners @1,73\n7. 🇫🇷 Lyon–Lillestrom ➜ +9,5 córners @1,67\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1636252|Home Corners Over/Under|Over 4.5",
+      "1636261|Away Corners Over/Under|Over 2.5",
+      "1636294|Corners Over Under|Over 9.5",
+      "1636301|Corners Over Under|Over 9.5",
+      "1636336|Away Corners Over/Under|Over 4.5",
+      "1636343|Away Corners Over/Under|Over 2.5",
+      "1636428|Corners Over Under|Over 8.5"
+    ],
+    "cuotas": [
+      1.73,
+      1.62,
+      1.67,
+      1.83,
+      1.8,
+      1.8,
+      1.67
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-26-loca-th-1940-x100",
+    "fecha": "2026-11-26T19:40",
+    "texto": "💰🚀 LA CENTENARIA x29,42 💰🚀\n\n🇫🇷 Lyon–Lillestrom 21:00\n💥 Lillestrom marca\n🇳🇱 NEC Nijmegen–Rennes 21:00\n💥 Rennes marca 2+\n🇧🇦 Borac Banja Luka–Atalanta 21:00\n🌋 +1,5 goles en la 2ª parte del Borac Banja Luka–Atalanta\n🇦🇩 Inter Club d'Escaldes–FC Copenhagen 21:00\n🌋 +1,5 goles en la 2ª parte del Inter Club d'Escaldes–FC Copenhagen · 💥 Inter Club d'Escaldes marca\n🇩🇰 FC Nordsjaelland–Panathinaikos 21:00\n⚡ Panathinaikos gana una parte\n\n🎯 CUOTA 29,42 aprox. 💎 10€ → 294€\n💚 ¡A POR EL VERDE! 💚",
+    "sel": [
+      "1636294|Total - Away|Over 0.5",
+      "1636301|Total - Away|Over 1.5",
+      "1636386|Goals Over/Under - Second Half|Over 1.5",
+      "1636428|Goals Over/Under - Second Half|Over 1.5",
+      "1636428|Total - Home|Over 0.5",
+      "1636457|To Win Either Half|Away"
+    ],
+    "cuotas": [
+      1.8,
+      1.8,
+      1.8,
+      1.73,
+      2.0,
+      1.73
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 29.42,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
   }
 ]

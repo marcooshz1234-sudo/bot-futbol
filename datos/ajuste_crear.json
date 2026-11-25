@@ -12,9 +12,9 @@
   "corners+tarjetas/contrario": 0.0107,
   "corners+tiros/contrario": 0.1534,
   "corners+tiros/partido": -0.1166,
-  "goleador+goles/partido": 0.1012,
-  "goleador+jugador/partido": -0.1988,
-  "goleador+resultado/partido": -0.0722,
+  "goleador+goles/partido": 0.1011,
+  "goleador+jugador/partido": -0.1989,
+  "goleador+resultado/partido": -0.072,
   "goles+goles/partido": -0.0428,
   "goles+jugador/contrario": 0.0251,
   "goles+jugador/mismo": 0.118,
@@ -40,7 +40,7 @@
   "resultado+tiros/partido": -0.1156
  },
  "beta": 0.771,
- "n": 131,
+ "n": 138,
  "error_antes": 10.1,
- "error_ahora": 3.0
+ "error_ahora": 2.8
 }

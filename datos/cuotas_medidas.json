@@ -6801,5 +6801,230 @@
     0.97
    ]
   ]
+ },
+ {
+  "id": "2026-11-26-loca-th-0400-duelo",
+  "fecha": "2026-11-26T04:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1636255|Home Player Shots|Luka Stojkovic - 3",
+   "1636255|Away Player Shots|Patrik Schick - 4"
+  ],
+  "cuotas": [
+   2.75,
+   1.73
+  ],
+  "real": 4.85,
+  "multiplicando": 4.758,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-26-loca-th-1000-tiros",
+  "fecha": "2026-11-26T10:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1636410|Away Player Shots|Daouda Weidmann - 2",
+   "1636410|Home Player Shots|Igor Matanovic - 3",
+   "1636410|Away Player Shots|Wout Weghorst - 3",
+   "1636410|Away Player Shots|Ramiz Zerrouki - 2"
+  ],
+  "cuotas": [
+   1.44,
+   1.44,
+   1.67,
+   3.0
+  ],
+  "real": 10.03,
+  "multiplicando": 10.389,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-26-loca-th-1440-escudos",
+  "fecha": "2026-11-26T14:40",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1636393|Both Teams Score|Yes",
+   "1636393|To Win Either Half|Home",
+   "1636393|Goals Over/Under - Second Half|Over 1.5"
+  ],
+  "cuotas": [
+   1.5,
+   1.57,
+   1.73
+  ],
+  "real": 3.29,
+  "multiplicando": 4.074,
+  "aj": 0.7578493997558687,
+  "parejas": []
+ },
+ {
+  "id": "2026-11-26-loca-th-1700-escudos",
+  "fecha": "2026-11-26T17:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1636410|Away Player Shots|Daouda Weidmann - 2",
+   "1636410|Home Player Shots|Igor Matanovic - 3",
+   "1636410|Both Teams Score|Yes",
+   "1636410|Goals Over/Under - Second Half|Over 1.5"
+  ],
+  "cuotas": [
+   1.44,
+   1.44,
+   1.5,
+   1.73
+  ],
+  "real": 5.06,
+  "multiplicando": 5.381,
+  "aj": 0.7591073980774189,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-26-loca-th-1720-escudos",
+  "fecha": "2026-11-26T17:20",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1636336|Away Player Shots|Ro-Zangelo Daal - 2",
+   "1636336|Home Player Shots|Josimar Alcocer - 2",
+   "1636336|To Win Either Half|Away",
+   "1636336|Goals Over/Under - Second Half|Over 1.5"
+  ],
+  "cuotas": [
+   1.4,
+   1.53,
+   1.67,
+   1.83
+  ],
+  "real": 7.75,
+  "multiplicando": 6.546,
+  "aj": 0.9662185143820015,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-26-loca-th-1740-escudos",
+  "fecha": "2026-11-26T17:40",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1636420|Away Player Shots|Nelson Ishiwatari - 2",
+   "1636420|Away Player Shots|Ilias Sebaoui - 3",
+   "1636420|Goals Over/Under - Second Half|Over 1.5"
+  ],
+  "cuotas": [
+   1.67,
+   1.8,
+   1.91
+  ],
+  "real": 5.95,
+  "multiplicando": 5.741,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-26-loca-th-1840-duelo",
+  "fecha": "2026-11-26T18:40",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1636336|Home Player Shots|Josimar Alcocer - 2",
+   "1636336|Away Player Shots|Ro-Zangelo Daal - 2"
+  ],
+  "cuotas": [
+   1.53,
+   1.4
+  ],
+  "real": 2.18,
+  "multiplicando": 2.142,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
  }
 ]
