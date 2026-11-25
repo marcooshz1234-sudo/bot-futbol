@@ -1430,7 +1430,14 @@
       "telegram"
     ],
     "enviado": "2026-11-25T23:33",
-    "mensaje_id": 632
+    "mensaje_id": 632,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-25-verde-auto-2026-11-25-estrella-1635735",
