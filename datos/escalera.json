@@ -25097,38 +25097,69 @@
   }
  ],
  "actual": {
-  "dia": "2026-11-26",
+  "dia": "2026-11-25",
   "escalon": 1,
   "stake": 20.0,
-  "cuota": 1.8,
+  "cuota": 2.16,
   "picks": [
    {
-    "partido_id": 1636393,
-    "fecha": "2026-11-26T18:45",
-    "competicion": "Conference",
-    "liga_id": 848,
-    "local": "Brann",
-    "visitante": "Aarhus",
+    "partido_id": 1635682,
+    "fecha": "2026-11-25T21:00",
+    "competicion": "Champions",
+    "liga_id": 2,
+    "local": "Lille",
+    "visitante": "Bayern München",
     "mercado": "Total - Home",
-    "opcion": "Over 1.5",
+    "opcion": "Over 0.5",
     "tipo": "goles",
-    "texto": "Brann marca 2 o más",
-    "cuota": 1.8,
-    "frecuencia": 0.556,
-    "ventaja": 0.0,
-    "detalle": "Brann 6/9 · Aarhus 4/9",
+    "texto": "Lille marca",
+    "cuota": 1.44,
+    "frecuencia": 0.8,
+    "ventaja": 0.106,
+    "detalle": "Lille 7/10 · Bayern München 9/10",
+    "contexto": null,
+    "forma": "forma_igual",
+    "bajas": "bajas_rival",
+    "claves_fuera": {
+     "79": [],
+     "157": [
+      "M. Olise"
+     ]
+    },
+    "prob_aprendida": 0.65,
+    "prob_bet365": 0.6500622508888447,
+    "prob_tipo": 0.7803703041144902,
+    "prob_sin_calibrar": 0.6832073008303686
+   },
+   {
+    "partido_id": 1635735,
+    "fecha": "2026-11-25T21:00",
+    "competicion": "Champions",
+    "liga_id": 2,
+    "local": "Sporting CP",
+    "visitante": "Manchester United",
+    "mercado": "Double Chance",
+    "opcion": "Home/Draw",
+    "tipo": "resultado",
+    "texto": "Sporting CP o empate",
+    "cuota": 1.5,
+    "frecuencia": 0.85,
+    "ventaja": 0.183,
+    "detalle": "Sporting CP 8/10 · Manchester United 9/10 · Pinnacle 1.50",
     "contexto": null,
     "forma": "forma_mejor",
     "bajas": "bajas_ninguno",
     "claves_fuera": {
-     "319": [],
-     "406": []
+     "228": [],
+     "33": []
     },
-    "prob_aprendida": 0.566,
-    "prob_sin_calibrar": 0.5949485423870401
+    "prob_aprendida": 0.613,
+    "prob_sin_calibrar": 0.6263629266237293,
+    "prob_pinnacle": 0.668,
+    "ev_pinnacle": 0.002
    }
   ],
-  "hora": null,
+  "hora": "12:58",
   "anterior": {
    "dia": "2026-11-24",
    "escalon": 1,
@@ -26608,7 +26639,8 @@
    "aciertos": [
     false
    ]
-  }
+  },
+  "nota": "25/11 12:45 Marcos: «siempre tiene que haber escalera» (había saltado al 26)"
  },
  "correccion_manual": {
   "fecha": "2026-10-25",

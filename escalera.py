@@ -59,7 +59,13 @@ def elegir_pool(fecha):
     return None
 
 
-def elegir_pool_(fecha, prob_min, comb_min):
+def elegir_pool_relajado(fecha):
+    """25/11 (Marcos: «siempre tiene que haber escalera»): el 25/11 nada pasó el filtro y la escalera saltó al 26.
+    Último recurso del día: sin «fijísimo», desde 58 % por pata (nunca «dos partes» salvo equipazo, ni córners/tarjetas)."""
+    return elegir_pool_(fecha, 0.58, 0.25, relajado=True)
+
+
+def elegir_pool_(fecha, prob_min, comb_min, relajado=False):
     import itertools
     import math
     import combis_dia as C
@@ -78,7 +84,7 @@ def elegir_pool_(fecha, prob_min, comb_min):
         for p in C.pool_partido(ex, hist, ap):
             k = f"{p['mercado']}|{p['opcion']}"
             if any(x in k for x in FUERA) or p["fecha"] <= limite \
-                    or p.get("estimada") or C.suelto_no(p) or not C.fijisimo(p) \
+                    or p.get("estimada") or C.suelto_no(p) or not (relajado or C.fijisimo(p)) \
                     or p.get("liga_id") in pausadas or es_sin_empate(p["mercado"], p["opcion"]) \
                     or (p.get("ventaja") or 0) < MIN_VENTAJA[0] \
                     or (p.get("solo_bet365") and not p.get("favorito")):   # 08/11: en el parón, solo lo del favorito
@@ -149,6 +155,11 @@ def elegir(dia, compartir=False, fecha=None):
             return elegir(dia, compartir, fecha)
         finally:
             MIN_VENTAJA[0] = antes
+    if fecha:
+        try:
+            return elegir_pool_relajado(fecha)
+        except Exception as e:
+            print("escalera (relajada):", str(e)[:150])
     return None
 
 
