@@ -4314,7 +4314,12 @@
    "liga": "UEFA Champions League",
    "cuota_bet365": 1.5,
    "prob_cuota": 0.621
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   0,
+   1
+  ]
  },
  {
   "tipster": "TipsPro",
@@ -4337,7 +4342,12 @@
   "analisis": {
    "liga": "UEFA Champions League",
    "prob_cuota": 0.649
-  }
+  },
+  "estado": null,
+  "marcador": [
+   1,
+   4
+  ]
  },
  {
   "tipster": "OC TIPSTER",
@@ -4384,7 +4394,12 @@
   "analisis": {
    "liga": "UEFA Champions League",
    "prob_cuota": 0.121
-  }
+  },
+  "estado": null,
+  "marcador": [
+   0,
+   1
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
@@ -4471,6 +4486,31 @@
    "liga": "UEFA Champions League",
    "cuota_bet365": 1.25,
    "prob_cuota": 0.667
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   4
+  ]
+ },
+ {
+  "tipster": "OC TIPSTER",
+  "fuente": "-1002538677212/5214",
+  "dia": "2026-11-25",
+  "local": "Lille",
+  "visitante": "Bayern München",
+  "partido_id": 1635682,
+  "texto": "Bayern München o empate",
+  "mercado": "Double Chance",
+  "opcion": "Draw/Away",
+  "cuota": 4.9,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "cuota_bet365": 1.17,
+   "prob_cuota": 0.204
   }
  }
 ]
