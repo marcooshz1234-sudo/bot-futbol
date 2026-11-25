@@ -67,15 +67,15 @@
    "visitante": "Manchester United",
    "inicio": "2026-11-25T21:00",
    "texto": "Sporting CP o empate",
-   "cuota": 1.5,
+   "cuota": 1.53,
    "justa": 1.5,
-   "ev": 0.002,
+   "ev": 0.022,
    "fuente": "Pinnacle",
    "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-25T18:49",
+  "hora": "2026-11-25T19:11",
   "revisadas": 0,
   "mejor": null
  },
