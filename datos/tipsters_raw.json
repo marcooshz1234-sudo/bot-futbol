@@ -11343,13 +11343,6 @@
  ],
  "PABLO ANALISTA": [
   {
-   "id": "-1001393609245/16439",
-   "fecha": "2026-11-18T00:05",
-   "texto": "ÚLTIMOS MINUTOS PARA ENTRAR ✅",
-   "foto": false,
-   "visto": "2026-11-18T00:15"
-  },
-  {
    "id": "-1001393609245/16441",
    "fecha": "2026-11-18T00:45",
    "texto": "YA EN DIRECTO EN TWITCH 🎮\n\nhttps://www.twitch.tv/pabloanalista",
@@ -12827,6 +12820,14 @@
    "texto": "MI APUESTA DE CHAMPIONS LEAGUE 🏆",
    "foto": false,
    "visto": "2026-11-25T05:23"
+  },
+  {
+   "id": "-1001393609245/16641",
+   "fecha": "2026-11-25T16:02",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-25T16:04",
+   "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16641.jpg"
   }
  ],
  "CREAR APUESTA CUOTA 101 MIA - SAC": [
@@ -19962,28 +19963,6 @@
  ],
  "ApuestasCobrich - Canal Gratuito": [
   {
-   "id": "-1001233274610/196292",
-   "fecha": "2026-11-21T17:31",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-21T21:24"
-  },
-  {
-   "id": "-1001233274610/196294",
-   "fecha": "2026-11-21T17:46",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-21T21:24",
-   "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196294.jpg"
-  },
-  {
-   "id": "-1001233274610/196295",
-   "fecha": "2026-11-21T18:22",
-   "texto": "¡EL STAKAZO 10 NBA DE LA NOCHE! 🏆\n\n🏀🇺🇸 Baloncesto - Estados Unidos, NBA:\n\n💶 Joel Embiid anota 25 o mas puntos\n\n📃 Me parece sin duda la apuesta mas clara de la jornada de NBA. Los Bucks literalmente no tienen a nadie que pueda frenar a Embiid, los 25 puntos son un regalo. Lo veo clarísimo",
-   "foto": false,
-   "visto": "2026-11-21T21:24"
-  },
-  {
    "id": "-1001233274610/196296",
    "fecha": "2026-11-21T19:30",
    "texto": "De momento Embiid fallando todo. A ver si espabila... que asco últimamente 🥶",
@@ -21448,6 +21427,29 @@
    "texto": "",
    "foto": false,
    "visto": "2026-11-25T15:44"
+  },
+  {
+   "id": "-1001233274610/196497",
+   "fecha": "2026-11-25T15:56",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-25T16:04",
+   "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196497.jpg"
+  },
+  {
+   "id": "-1001233274610/196498",
+   "fecha": "2026-11-25T15:57",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-25T16:04",
+   "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196498.jpg"
+  },
+  {
+   "id": "-1001233274610/196499",
+   "fecha": "2026-11-25T16:00",
+   "texto": "¡MI STAKAZO 10 CHAMPIONS! 🏆\n\n⚽️🇪🇺 Futbol - Champions League:\n\n💶 Karim Adeyemi hace Mas 1.5 remates a puerta\n\n📃 El Barça juega contra Sabah, uno de los peores equipos de toda la competición y nisiquiera juegan hoy en su estadio. Hoy no juega Lamine y Adeyemi tiene que adueñarse de ese extremo derecho, 2 tiros a puerta contra este equipo debería ser un verde.",
+   "foto": false,
+   "visto": "2026-11-25T16:04"
   }
  ],
  "Pick Maestro": [
