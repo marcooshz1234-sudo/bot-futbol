@@ -3437,12 +3437,12 @@
     "dia": "2026-11-24",
     "total": 30,
     "cuentas": {
-      "verde": 4,
+      "verde": 5,
       "rojo": 21,
-      "pendiente": 5,
+      "pendiente": 4,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 5
+      "sin_resolver": 4
     },
     "combis": [
       {
@@ -3604,7 +3604,7 @@
       {
         "id": "2026-11-25-loca-th-noche-2130-lista-ambos",
         "titulo": "⚽ AMBOS MARCAN MAÑANA ⚽",
-        "estado": "pendiente",
+        "estado": "verde",
         "cuota": null
       },
       {
@@ -3627,22 +3627,22 @@
       }
     ],
     "picks": {
-      "verde": 35,
+      "verde": 37,
       "rojo": 38,
       "total": 89
     },
-    "texto": "📊 BALANCE DEL MARTES: 4 DE 25 EN VERDE 📊\n\n❌ 🏆 CHAMPIONS LEAGUE - GANADORES\n❌ 🎰 LA CENTENARIA x63,23 🎰 · 63,23\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❌ 🥊 EL DUELO DE TIROS 🥊 · 4,40\n❌ 🧨 COMBI x38,99 🧨 · 38,99\n❌ 🕵️ LA DE LOS TAPADOS 🕵️ · 21,42\n❌ 🧨 COMBI x224 🧨\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 💶 RETO: DE 1€ A 736€ 💶\n❌ 🎯 COMBI DE TIROS · REAL MADRID vs PSV EINDHOVEN 🎯 · 4,81\n❌ 🪜 Reto escalera · Día 1/7\n❌ 🎰 LA CENTENARIA x90,77 🎰 · 90,77\n❌ Guirassy (Dortmund): 2+ remates · 1,62\n✅ Más de 1,5 goles en la 2.ª parte · 1,57\n✅ Vamos con la combi del martes familia 🔥\n❌ 🧨 COMBI x55,22 🧨 · 55,22\n❌ Como marca en las dos partes · 1,67\n❌ 💰🚀 COMBI x309 💰🚀\n✅ Armando Obispo (PSV): comete 1+ falta · 1,53\n❌ Ambos marcan · 1,50\n✅ Gana el RB Leipzig · 1,38\n❌ 🤑 COMBI x599 🤑\n❌ Pick para la noche 👇 · 1,40\n❌ Hoy hay partidazo: Manchester City 🆚 Napoli ⭐⭐\n❌ ¡Vamos a por ella! 🔥 COMBILOCAS CHAMPIONS 🔥\n⏳ 🎰 COMBI POR 69,70 🎰 · 69,70 · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 3,08 · pendiente\n⏳ 🤑💸 COMBI x46,47 🤑💸 · 46,47 · pendiente\n⏳ 🎰 COMBI x507 🎰 · pendiente\n\n✅ 4 acertadas · ❌ 21 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 5 DE 26 EN VERDE 📊\n\n❌ 🏆 CHAMPIONS LEAGUE - GANADORES\n❌ 🎰 LA CENTENARIA x63,23 🎰 · 63,23\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❌ 🥊 EL DUELO DE TIROS 🥊 · 4,40\n❌ 🧨 COMBI x38,99 🧨 · 38,99\n❌ 🕵️ LA DE LOS TAPADOS 🕵️ · 21,42\n❌ 🧨 COMBI x224 🧨\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 💶 RETO: DE 1€ A 736€ 💶\n❌ 🎯 COMBI DE TIROS · REAL MADRID vs PSV EINDHOVEN 🎯 · 4,81\n❌ 🪜 Reto escalera · Día 1/7\n❌ 🎰 LA CENTENARIA x90,77 🎰 · 90,77\n❌ Guirassy (Dortmund): 2+ remates · 1,62\n✅ Más de 1,5 goles en la 2.ª parte · 1,57\n✅ Vamos con la combi del martes familia 🔥\n❌ 🧨 COMBI x55,22 🧨 · 55,22\n❌ Como marca en las dos partes · 1,67\n❌ 💰🚀 COMBI x309 💰🚀\n✅ Armando Obispo (PSV): comete 1+ falta · 1,53\n❌ Ambos marcan · 1,50\n✅ Gana el RB Leipzig · 1,38\n❌ 🤑 COMBI x599 🤑\n❌ Pick para la noche 👇 · 1,40\n❌ Hoy hay partidazo: Manchester City 🆚 Napoli ⭐⭐\n❌ ¡Vamos a por ella! 🔥 COMBILOCAS CHAMPIONS 🔥\n⏳ 🎰 COMBI POR 69,70 🎰 · 69,70 · pendiente\n✅ ⚽ AMBOS MARCAN MAÑANA ⚽\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 3,08 · pendiente\n⏳ 🤑💸 COMBI x46,47 🤑💸 · 46,47 · pendiente\n⏳ 🎰 COMBI x507 🎰 · pendiente\n\n✅ 5 acertadas · ❌ 21 falladas · ⏳ 4 sin resolver"
   },
   "2026-11-25": {
     "dia": "2026-11-25",
-    "total": 28,
+    "total": 29,
     "cuentas": {
       "verde": 1,
       "rojo": 2,
-      "pendiente": 25,
+      "pendiente": 26,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 25
+      "sin_resolver": 26
     },
     "combis": [
       {
@@ -3812,13 +3812,19 @@
         "titulo": "⚽ AMBOS MARCAN MAÑANA ⚽",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-26-loca-th-noche-2230-duelo",
+        "titulo": "🥊 EL DUELO DE TIROS 🥊",
+        "estado": "pendiente",
+        "cuota": 2.86
       }
     ],
     "picks": {
-      "verde": 9,
+      "verde": 11,
       "rojo": 2,
-      "total": 73
+      "total": 74
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 1 DE 3 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🧨 COMBI POR 105 🧨 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 4,49 · pendiente\n⏳ 🤑💸 COMBI x41,13 🤑💸 · 41,13 · pendiente\n⏳ ⏰ TODO A LAS 21:00 ⏰ · 30,53 · pendiente\n⏳ 🤑💸 COMBI x406 🤑💸 · pendiente\n⏳ 💶 RETO: DE 1€ A 584€ 💶 · pendiente\n⏳ 🎯 COMBI DE TIROS · INTER vs VFB STUTTGART 🎯 · 4,99 · pendiente\n⏳ 🎰 LA CENTENARIA x95,99 🎰 · 95,99 · pendiente\n⏳ 🕘 TODO A LAS 21:00 🕘 · 6,96 · pendiente\n⏳ Gana el Inter · 1,40 · pendiente\n⏳ 🤑💸 COMBI x33,88 🤑💸 · 33,88 · pendiente\n⏳ 💰🚀 COMBI x608 💰🚀 · pendiente\n❌ 🤑💸 LA MILLONARIA x462 🤑💸\n⏳ Iván Fresneda (Sporting): comete 1+ falta · 1,40 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n❌ Otro que nos gusta 🔥 · 1,44\n⏳ Vamos con la combi del miércoles familia 🔥 · pendiente\n⏳ Bayern: más de 16,5 remates · 1,73 · pendiente\n⏳ Dybala (Roma): 2+ remates · 1,44 · pendiente\n⏳ Liverpool saca más córners · 1,57 · pendiente\n⏳ Otro que nos gusta mucho 🍀 · 1,67 · pendiente\n✅ Pick para la noche 👇 · 1,40\n⏳ Hoy hay partidazo: Sporting CP 🆚 Manchester United ⭐⭐ · pendiente\n⏳ 🤑 LA CENTENARIA x31,36 🤑 · 31,36 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n\n✅ 1 acertadas · ❌ 2 falladas · ⏳ 25 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 1 DE 3 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🧨 COMBI POR 105 🧨 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 4,49 · pendiente\n⏳ 🤑💸 COMBI x41,13 🤑💸 · 41,13 · pendiente\n⏳ ⏰ TODO A LAS 21:00 ⏰ · 30,53 · pendiente\n⏳ 🤑💸 COMBI x406 🤑💸 · pendiente\n⏳ 💶 RETO: DE 1€ A 584€ 💶 · pendiente\n⏳ 🎯 COMBI DE TIROS · INTER vs VFB STUTTGART 🎯 · 4,99 · pendiente\n⏳ 🎰 LA CENTENARIA x95,99 🎰 · 95,99 · pendiente\n⏳ 🕘 TODO A LAS 21:00 🕘 · 6,96 · pendiente\n⏳ Gana el Inter · 1,40 · pendiente\n⏳ 🤑💸 COMBI x33,88 🤑💸 · 33,88 · pendiente\n⏳ 💰🚀 COMBI x608 💰🚀 · pendiente\n❌ 🤑💸 LA MILLONARIA x462 🤑💸\n⏳ Iván Fresneda (Sporting): comete 1+ falta · 1,40 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n❌ Otro que nos gusta 🔥 · 1,44\n⏳ Vamos con la combi del miércoles familia 🔥 · pendiente\n⏳ Bayern: más de 16,5 remates · 1,73 · pendiente\n⏳ Dybala (Roma): 2+ remates · 1,44 · pendiente\n⏳ Liverpool saca más córners · 1,57 · pendiente\n⏳ Otro que nos gusta mucho 🍀 · 1,67 · pendiente\n✅ Pick para la noche 👇 · 1,40\n⏳ Hoy hay partidazo: Sporting CP 🆚 Manchester United ⭐⭐ · pendiente\n⏳ 🤑 LA CENTENARIA x31,36 🤑 · 31,36 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 2,86 · pendiente\n\n✅ 1 acertadas · ❌ 2 falladas · ⏳ 26 sin resolver"
   }
 }
