@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25 11:58",
+ "actualizado": "2026-11-25 12:06",
  "redes": {
   "instagram": {
    "seguidores": 57,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3911,
-   "hoy": 121,
+   "seguidores": 3912,
+   "hoy": 122,
    "serie": [
     3230,
     3248,
@@ -24,7 +24,7 @@
     3714,
     3742,
     3790,
-    3911
+    3912
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4490,
- "total_hoy": 130,
+ "total": 4491,
+ "total_hoy": 131,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "12:00",
+  "hora": "12:30",
   "dia": "2026-11-25",
-  "titulo": "La millonaria x462"
+  "titulo": "Vamos con otro pick"
  },
  "ayer": {
   "aciertos": 1,
@@ -270,7 +270,7 @@
   },
   "2026-11-25": {
    "instagram": 57,
-   "threads": 3911,
+   "threads": 3912,
    "facebook": 1,
    "telegram": 521
   }
