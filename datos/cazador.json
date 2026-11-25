@@ -71,7 +71,7 @@
    "justa": 2.22,
    "ev": -0.009,
    "fuente": "las otras casas",
-   "edad_h": 3.5
+   "edad_h": 3.9
   },
   {
    "local": "Slavia Praha",
@@ -82,11 +82,11 @@
    "justa": 2.23,
    "ev": -0.015,
    "fuente": "las otras casas",
-   "edad_h": 3.5
+   "edad_h": 3.9
   }
  ],
  "ultima": {
-  "hora": "2026-11-25T02:54",
+  "hora": "2026-11-25T03:17",
   "revisadas": 0,
   "mejor": null
  },
