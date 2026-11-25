@@ -12523,12 +12523,6 @@
     "motivo": "Knee Injury"
    },
    {
-    "equipo": 81,
-    "jugador": "P. Hojbjerg",
-    "tipo": "Questionable",
-    "motivo": "Illness"
-   },
-   {
     "equipo": 646,
     "jugador": "P. Hristov",
     "tipo": "Missing Fixture",
@@ -12748,9 +12742,21 @@
    },
    {
     "equipo": 489,
+    "jugador": "D. Bartesaghi",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 489,
     "jugador": "W. Bondo",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
+   },
+   {
+    "equipo": 489,
+    "jugador": "F. Camarda",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
    },
    {
     "equipo": 489,
@@ -12778,15 +12784,21 @@
    },
    {
     "equipo": 489,
+    "jugador": "S. Pavlovic",
+    "tipo": "Missing Fixture",
+    "motivo": "Illness"
+   },
+   {
+    "equipo": 489,
     "jugador": "A. Saelemaekers",
     "tipo": "Missing Fixture",
     "motivo": "Ankle Injury"
    },
    {
     "equipo": 489,
-    "jugador": "F. Tomori",
+    "jugador": "P. Terracciano",
     "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
+    "motivo": "Shoulder Injury"
    }
   ],
   "1636405": [],
@@ -12812,6 +12824,12 @@
    {
     "equipo": 620,
     "jugador": "N. Nsoki",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
+   },
+   {
+    "equipo": 620,
+    "jugador": "A. Stojakovic",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
    },
@@ -13072,6 +13090,12 @@
    },
    {
     "equipo": 336,
+    "jugador": "D. Rallis",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
+   },
+   {
+    "equipo": 336,
     "jugador": "Z. Zalewski",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
@@ -13289,9 +13313,21 @@
    },
    {
     "equipo": 201,
+    "jugador": "E. Dijkstra",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 201,
     "jugador": "J. Hornkamp",
     "tipo": "Missing Fixture",
     "motivo": "Injury"
+   },
+   {
+    "equipo": 201,
+    "jugador": "M. Meerdink",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
    },
    {
     "equipo": 201,
@@ -13310,12 +13346,6 @@
     "jugador": "K. Smit",
     "tipo": "Missing Fixture",
     "motivo": "Groin Injury"
-   },
-   {
-    "equipo": 201,
-    "jugador": "H. Verhulst",
-    "tipo": "Missing Fixture",
-    "motivo": "Off the roster"
    },
    {
     "equipo": 201,
@@ -13360,6 +13390,12 @@
     "jugador": "P. Frankowski",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 94,
+    "jugador": "A. Sishuba",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
    },
    {
     "equipo": 94,
@@ -13499,6 +13535,12 @@
    },
    {
     "equipo": 548,
+    "jugador": "J. Aramburu",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 548,
     "jugador": "L. Astiazaran",
     "tipo": "Missing Fixture",
     "motivo": "Knock"
@@ -13526,16 +13568,16 @@
     "jugador": "A. Odriozola",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 548,
-    "jugador": "J. Aramburu",
-    "tipo": "Questionable",
-    "motivo": "Hip Injury"
    }
   ],
   "1636389": [],
   "1636294": [
+   {
+    "equipo": 80,
+    "jugador": "L. Diarra",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
    {
     "equipo": 80,
     "jugador": "C. Mata",
@@ -13550,12 +13592,6 @@
    },
    {
     "equipo": 80,
-    "jugador": "L. Openda",
-    "tipo": "Missing Fixture",
-    "motivo": "Leg Injury"
-   },
-   {
-    "equipo": 80,
     "jugador": "M. Ouedraogo",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
@@ -13565,6 +13601,12 @@
     "jugador": "P. Sulc",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 80,
+    "jugador": "M. Bidstrup",
+    "tipo": "Questionable",
+    "motivo": "Foot Injury"
    },
    {
     "equipo": 321,
@@ -13577,6 +13619,12 @@
     "jugador": "E. B. Garnas",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 321,
+    "jugador": "Y. Paintsil",
+    "tipo": "Questionable",
+    "motivo": "Injury"
    }
   ],
   "1636402": [],
@@ -13604,6 +13652,12 @@
     "jugador": "A. Leya Iseka",
     "tipo": "Missing Fixture",
     "motivo": "Inactive"
+   },
+   {
+    "equipo": 1124,
+    "jugador": "N. Marinakis",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
    },
    {
     "equipo": 554,
@@ -13680,7 +13734,7 @@
    }
   ]
  },
- "ultima": "2026-11-25T22:32:11.921483+01:00",
+ "ultima": "2026-11-25T23:05:46.880971+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
