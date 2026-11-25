@@ -12290,12 +12290,6 @@
     "jugador": "N. D'Agostino",
     "tipo": "Questionable",
     "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 530,
-    "jugador": "M. Pubill",
-    "tipo": "Missing Fixture",
-    "motivo": "Ankle Injury"
    }
   ],
   "1635673": [
@@ -12455,7 +12449,7 @@
    }
   ]
  },
- "ultima": "2026-11-25T04:35:51.038448+01:00",
+ "ultima": "2026-11-25T05:12:05.138330+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",

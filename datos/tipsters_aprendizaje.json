@@ -149,6 +149,15 @@
    "nulos": 0,
    "unidades": 0.0
   },
+  "PABLO ANALISTA": {
+   "n": 3,
+   "verdes": 1,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -0.34,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.204
+  },
   "MERIDIANPICKS 🌐": {
    "n": 3,
    "verdes": 2,
@@ -166,15 +175,6 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.621
-  },
-  "PABLO ANALISTA": {
-   "n": 2,
-   "verdes": 1,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": -0.34,
-   "resueltos_con_cuota": 2,
-   "prob_cuota": 1.204
   },
   "ENZO TIPSTER": {
    "n": 2,
@@ -197,7 +197,7 @@
  },
  "mercado": {
   "Match Winner Home": {
-   "n": 29,
+   "n": 30,
    "verdes": 18,
    "rojos": 7,
    "nulos": 0,
@@ -745,6 +745,13 @@
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.813
   },
+  "Atletico Madrid": {
+   "n": 2,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "Netherlands": {
    "n": 2,
    "verdes": 2,
@@ -776,13 +783,6 @@
    "n": 1,
    "verdes": 1,
    "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
-  },
-  "Atletico Madrid": {
-   "n": 1,
-   "verdes": 0,
-   "rojos": 1,
    "nulos": 0,
    "unidades": 0.0
   },
@@ -1068,7 +1068,7 @@
  },
  "razon": {
   "sin razón": {
-   "n": 95,
+   "n": 96,
    "verdes": 54,
    "rojos": 13,
    "nulos": 0,
@@ -1151,7 +1151,7 @@
    "prob_cuota": 29.598
   },
   "<1,50": {
-   "n": 34,
+   "n": 35,
    "verdes": 20,
    "rojos": 6,
    "nulos": 0,
@@ -1205,7 +1205,7 @@
    "prob_cuota": 28.296
   },
   "UEFA Champions League": {
-   "n": 13,
+   "n": 14,
    "verdes": 5,
    "rojos": 1,
    "nulos": 0,
@@ -1288,7 +1288,7 @@
    "prob_cuota": 21.899
   },
   "local": {
-   "n": 49,
+   "n": 50,
    "verdes": 27,
    "rojos": 14,
    "nulos": 0,
@@ -1308,7 +1308,7 @@
  },
  "por_que": {
   "—": {
-   "n": 84,
+   "n": 85,
    "verdes": 32,
    "rojos": 19,
    "nulos": 0,
@@ -1382,7 +1382,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 154,
+   "n": 155,
    "verdes": 74,
    "rojos": 29,
    "nulos": 0,

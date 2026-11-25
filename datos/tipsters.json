@@ -4271,5 +4271,25 @@
    3,
    1
   ]
+ },
+ {
+  "tipster": "PABLO ANALISTA",
+  "fuente": "-1001393609245/16635",
+  "dia": "2026-11-25",
+  "local": "Atletico Madrid",
+  "visitante": "Viking",
+  "partido_id": 1635625,
+  "texto": "Gana el Atletico Madrid",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.1,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "cuota_bet365": 1.1,
+   "prob_cuota": 0.909
+  }
  }
 ]
