@@ -4405,5 +4405,42 @@
    "cuota_bet365": 1.62,
    "prob_cuota": 0.637
   }
+ },
+ {
+  "tipster": "ICARDI | PICKS",
+  "fuente": "-1002192352571/5441",
+  "dia": "2026-11-25",
+  "hora": "21:00",
+  "local": "Lille",
+  "visitante": "Bayern München",
+  "texto": "Crear apuesta: Nathaniel Brown 1+ remate a puerta + Maxima Goffi 1+ falta cometida + Benjamin André 1+ falta recibida (4.10)",
+  "mercado": "Crear apuesta",
+  "opcion": "N. Brown 1+ remate a puerta · Goffi 1+ falta cometida · André 1+ falta recibida",
+  "cuota": 4.1,
+  "stake": null,
+  "argumento": [
+   "Brown sube mucho por la banda con el Bayern y suele acabar alguna jugada con disparo",
+   "Goffi tendrá que frenar a extremos rápidos del Bayern, lo que invita a cometer faltas",
+   "André es el ancla del medio del Lille y recibe muchos golpes al proteger el balón"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "ICARDI | PICKS",
+  "fuente": "-1002192352571/5441",
+  "dia": "2026-11-25",
+  "hora": "21:00",
+  "local": "Lille",
+  "visitante": "Bayern München",
+  "texto": "Crear apuesta: Nathaniel Brown 2+ remates a puerta + Maxima Goffi 2+ faltas cometidas + Benjamin André 2+ faltas recibidas (56.00)",
+  "mercado": "Crear apuesta",
+  "opcion": "N. Brown 2+ remates a puerta · Goffi 2+ faltas cometidas · André 2+ faltas recibidas",
+  "cuota": 56.0,
+  "stake": null,
+  "argumento": [
+   "Versión subida de líneas de la misma idea: Brown llegando, Goffi defendiendo al límite y André aguantando faltas",
+   "Cuota muy alta: depende de que el Bayern domine y el Lille defienda mucho"
+  ],
+  "argumento_propio": true
  }
 ]
