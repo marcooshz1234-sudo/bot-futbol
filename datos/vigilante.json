@@ -1,9 +1,6 @@
 {
  "informe": "2026-11-25",
  "vistos": {
-  "repe-2026-11-23-1550203|Both Teams Score|Yes": "2026-11-23T00:07",
-  "repe-2026-11-23-1570457|Both Teams Score|Yes": "2026-11-23T00:07",
-  "repe-2026-11-23-1557469|Player Fouls Committed|Jarrad Branthwaite - 1": "2026-11-23T00:07",
   "prensa-1635692-31be0c46": "2026-11-23T00:28",
   "prensa-1635641-c9519c65": "2026-11-23T00:28",
   "prensa-1635611-378392d6": "2026-11-23T00:28",
@@ -159,32 +156,24 @@
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (combi-partido-1636301, loca-th-0700-tapados, loca-th-1420-tapados)"
   },
   {
-   "clave": "repe-2026-11-26-1636435|Double Chance|Draw/Away",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0700-tapados, loca-th-1140-x100)"
-  },
-  {
-   "clave": "repe-2026-11-26-1636381|Anytime Goal Scorer|Toluwalase Arokodare",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0500-x50, loca-th-1140-x100)"
-  },
-  {
    "clave": "repe-2026-11-26-1636381|Total - Away|Over 0.5",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0020-x100, loca-th-1140-x100)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636435|Double Chance|Draw/Away",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0700-tapados, loca-th-1140-x100)"
   },
   {
    "clave": "repe-2026-11-26-1636421|Both Teams Score|Yes",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-26-1636349|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
+   "clave": "repe-2026-11-26-1636381|Anytime Goal Scorer|Toluwalase Arokodare",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0500-x50, loca-th-1140-x100)"
   },
   {
    "clave": "repe-2026-11-26-1636393|Both Teams Score|Yes",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2300-x50, loca-th-1440-escudos)"
-  },
-  {
-   "clave": "repe-2026-11-26-1636410|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1700-escudos)"
   },
   {
    "clave": "repe-2026-11-26-1636301|Both Teams Score|Yes",
@@ -195,24 +184,32 @@
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-26-1636381|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
-  },
-  {
    "clave": "repe-2026-11-26-1636252|Both Teams Score|Yes",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2330-escudos, loca-th-0300-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636410|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1700-escudos)"
   },
   {
    "clave": "repe-2026-11-26-1636315|Both Teams Score|Yes",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-26-1636301|Home Player Shots|Ahmetcan Kaplan - 1",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0020-x100, loca-th-1140-x100)"
+   "clave": "repe-2026-11-26-1636381|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636349|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-26-1636393|To Win Either Half|Home",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0020-x100, loca-th-1440-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636301|Home Player Shots|Ahmetcan Kaplan - 1",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0020-x100, loca-th-1140-x100)"
   },
   {
    "clave": "repe-2026-11-26-1636412|Double Chance|Draw/Away",
@@ -237,13 +234,9 @@
   {
    "clave": "prensa-1636252-3d1594e4",
    "t": "📰 Crystal Palace–Real Sociedad: «Aramburu no entrena y tiene a la Real pendiente de cara al viaje a Londres para visitar al Crystal Palace» (MARCA) · tenemos 9 post(s) de este partido: ganadores-resto, lista-europa-1, pick-seguro-3, estrella-1636252, loca-th-0300-lista-ambos, loca-th-0700-tapados, loca-th-0800-x500, loca-th-1420-tapados, loca-th-1920-lista-corners"
-  },
-  {
-   "clave": "prensa-1636457-8c7ba524",
-   "t": "📰 FC Nordsjaelland–Panathinaikos: «Mazazo para Santino Andino: se rompió los ligamentos cruzados en Panathinaikos y se pierde el resto de la temp» (Diario Mendoza Today) · tenemos 3 post(s) de este partido: loca-th-0020-x100, loca-th-0920-empates, loca-th-1940-x100"
   }
  ],
- "revisado": "2026-11-26T00:05",
+ "revisado": "2026-11-26T00:15",
  "historial": [
   {
    "hora": "2026-11-26T00:05",
