@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25 20:50",
+ "actualizado": "2026-11-25 21:01",
  "redes": {
   "instagram": {
    "seguidores": 57,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3996,
-   "hoy": 206,
+   "seguidores": 3997,
+   "hoy": 207,
    "serie": [
     3230,
     3248,
@@ -24,7 +24,7 @@
     3714,
     3742,
     3790,
-    3996
+    3997
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4577,
- "total_hoy": 217,
+ "total": 4578,
+ "total_hoy": 218,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "21:00",
+  "hora": "21:30",
   "dia": "2026-11-25",
-  "titulo": "La centenaria x31,36"
+  "titulo": "Gana y ambos marcan"
  },
  "ayer": {
   "aciertos": 1,
@@ -270,7 +270,7 @@
   },
   "2026-11-25": {
    "instagram": 57,
-   "threads": 3996,
+   "threads": 3997,
    "facebook": 1,
    "telegram": 523
   }
