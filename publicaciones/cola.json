@@ -1370,5 +1370,27 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-25-verde-auto-026-11-25-loca-th-noche-2130-lista-ambos",
+    "fecha": "2026-11-25T22:42",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Ambos marcan en Sabah FA–Barcelona\n✅ Ambos marcan en Lille–Bayern München\n✅ Ambos marcan en Paris Saint Germain–AS Roma\n\n📈 Cuota @3,78",
+    "foto": "publicaciones/media/2026-11-25-verde-auto-026-11-25-loca-th-noche-2130-lista-ambos.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-25-loca-th-noche-2130-lista-ambos",
+    "solo_en": [
+      "threads"
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18120032996596206",
+      "threads_enlace": "18122636210610531"
+    }
   }
 ]
