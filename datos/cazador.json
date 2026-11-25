@@ -61,9 +61,32 @@
    "post": "2026-11-23-cuotaza-1608377-181ed6"
   }
  },
- "top": [],
+ "top": [
+  {
+   "local": "Sporting CP",
+   "visitante": "Manchester United",
+   "inicio": "2026-11-25T21:00",
+   "texto": "Sporting CP o empate",
+   "cuota": 1.5,
+   "justa": 1.5,
+   "ev": 0.002,
+   "fuente": "Pinnacle",
+   "edad_h": 0.3
+  },
+  {
+   "local": "Shakhtar Donetsk",
+   "visitante": "Fenerbahçe",
+   "inicio": "2026-11-25T21:00",
+   "texto": "Shakhtar Donetsk o empate",
+   "cuota": 1.57,
+   "justa": 1.58,
+   "ev": -0.004,
+   "fuente": "Pinnacle",
+   "edad_h": 0.3
+  }
+ ],
  "ultima": {
-  "hora": "2026-11-25T09:15",
+  "hora": "2026-11-25T09:44",
   "revisadas": 0,
   "mejor": null
  },
