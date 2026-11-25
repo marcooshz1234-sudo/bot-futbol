@@ -15852,8 +15852,8 @@
       1.57,
       1.57,
       1.62,
-      1.7,
-      1.73
+      1.73,
+      1.8
     ],
     "solo_en": [
       "threads"
@@ -15864,7 +15864,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-26T00:08"
   },
   {
     "id": "2026-11-26-loca-th-0040-ganaambos",
@@ -15878,7 +15879,7 @@
     ],
     "cuotas": [
       2.6,
-      3.6,
+      3.5,
       3.75,
       3.0
     ],
@@ -15929,7 +15930,8 @@
         }
       ],
       "lema": null
-    }
+    },
+    "cuotas_revisadas": "2026-11-26T00:08"
   },
   {
     "id": "2026-11-26-loca-th-0300-lista-ambos",
