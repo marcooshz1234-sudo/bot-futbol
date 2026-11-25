@@ -3635,14 +3635,14 @@
   },
   "2026-11-25": {
     "dia": "2026-11-25",
-    "total": 3,
+    "total": 4,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 3,
+      "pendiente": 4,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 3
+      "sin_resolver": 4
     },
     "combis": [
       {
@@ -3662,13 +3662,19 @@
         "titulo": "🚩 CÓRNERS DEL DÍA 🚩",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-25-loca-th-0200-duelo",
+        "titulo": "⚔️ EL DUELO DE TIROS ⚔️",
+        "estado": "pendiente",
+        "cuota": 4.49
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 18
+      "total": 20
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🧨 COMBI POR 105 🧨 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🧨 COMBI POR 105 🧨 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 4,49 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 4 sin resolver"
   }
 }
