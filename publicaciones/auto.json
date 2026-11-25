@@ -15458,7 +15458,7 @@
       2.75,
       1.91,
       2.75,
-      1.91,
+      1.67,
       2.62,
       2.75
     ],
@@ -15471,7 +15471,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-25T03:34"
   },
   {
     "id": "2026-11-25-loca-th-0700-reto",
