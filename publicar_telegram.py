@@ -55,6 +55,10 @@ def combi_no_pedida(p):
     patas = {s_ for s_ in p.get("sel") or [] if s_}
     # 24/11: las copias de tipster sin «sel» (p. ej. «Combinada para hoy… 🍀 Doble… 🍀 Doble…») también son combis
     lineas = sum(1 for l in (p.get("texto") or "").splitlines() if l.strip().startswith("🍀"))   # «otro pick 🍀» no cuenta
+    # 25/11: «🍀 Crear apuesta: gana Barcelona + más de 2,5 + marca Raphinha» es una combi en una sola línea
+    if re.search(r"crear apuesta|\S\s\+\s\S", " ".join(l for l in (p.get("texto") or "").splitlines()
+                                                     if l.strip().startswith("🍀")), re.I):
+        lineas = max(lineas, 2)
     if len(patas) > 1 or len(p.get("cuotas") or []) > 1 or lineas > 1 or "-combi-" in p.get("id", ""):
         return "combi: en Telegram solo picks sueltos (Marcos 20/11)"
     return None
