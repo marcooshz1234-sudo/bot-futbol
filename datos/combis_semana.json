@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-25",
- "generado": "2026-11-25T17:20+01:00",
+ "generado": "2026-11-25T17:51+01:00",
  "rango": [
   "2026-11-25",
   "2026-11-28"
@@ -66,18 +66,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/611.png"
     },
     {
-     "sel": "1635642|Corners 1x2|Away",
-     "texto": "Liverpool saca más córners",
-     "cuota": 1.57,
-     "p": 0.822,
-     "dato": "6,2 córners de Liverpool contra 2,9 del rival",
-     "nota": 0.9538921439107041,
-     "partido": "Club Brugge KV–Liverpool",
-     "hora": "2026-11-25T21:00",
-     "logo_l": "https://media.api-sports.io/football/teams/569.png",
-     "logo_v": "https://media.api-sports.io/football/teams/40.png"
-    },
-    {
      "sel": "1635703|Away Player Shots Total|Over 10.5",
      "texto": "AS Roma: más de 10,5 remates",
      "cuota": 1.73,
@@ -103,10 +91,24 @@
      "hora": "2026-11-25T21:00",
      "logo_l": "https://media.api-sports.io/football/teams/505.png",
      "logo_v": "https://media.api-sports.io/football/teams/172.png"
+    },
+    {
+     "sel": "1635642|Player Fouls Committed|Victor Munoz - 1",
+     "texto": "Victor Munoz: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 2,00 por 90' (4-1-0-2-1-2)",
+     "nota": 0.9000000000000001,
+     "equipo": "Liverpool",
+     "lado": "V",
+     "partido": "Club Brugge KV–Liverpool",
+     "hora": "2026-11-25T21:00",
+     "logo_l": "https://media.api-sports.io/football/teams/569.png",
+     "logo_v": "https://media.api-sports.io/football/teams/40.png"
     }
    ],
-   "cuota": 27.46,
-   "media": 1.0066131634158149,
+   "cuota": 26.23,
+   "media": 0.9989142857142858,
    "dia": "2026-11-25"
   },
   {
@@ -1185,16 +1187,6 @@
    "logo": "https://media.api-sports.io/football/teams/40.png",
    "patas": [
     {
-     "sel": "1635642|Corners 1x2|Away",
-     "texto": "Liverpool saca más córners",
-     "cuota": 1.57,
-     "p": 0.822,
-     "dato": "6,2 córners de Liverpool contra 2,9 del rival",
-     "nota": 0.9538921439107041,
-     "partido": "Club Brugge KV–Liverpool",
-     "hora": "2026-11-25T21:00"
-    },
-    {
      "sel": "1635642|Player Fouls Committed|Victor Munoz - 1",
      "texto": "Victor Munoz: comete 1+ falta",
      "cuota": 1.5,
@@ -1229,7 +1221,7 @@
      "hora": "2026-11-25T21:00"
     }
    ],
-   "cuota": 5.51
+   "cuota": 3.51
   },
   {
    "equipo": "Levski Sofia",
@@ -1515,19 +1507,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/533.png"
     },
     {
-     "sel": "1635642|Corners 1x2|Away",
-     "texto": "Liverpool saca más córners",
-     "cuota": 1.57,
-     "p": 0.822,
-     "dato": "6,2 córners de Liverpool contra 2,9 del rival",
-     "nota": 0.9538921439107041,
-     "partido": "Club Brugge KV–Liverpool",
-     "hora": "2026-11-25T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/569.png",
-     "logo_v": "https://media.api-sports.io/football/teams/40.png"
-    },
-    {
      "sel": "1635724|Home Corners Over/Under|Over 4.5",
      "texto": "Shakhtar Donetsk: más de 4,5 córners",
      "cuota": 1.67,
@@ -1599,6 +1578,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/759.png"
     },
     {
+     "sel": "1635642|Away Team Total Cards|Over 1.5",
+     "texto": "Liverpool ve más de 1,5 tarjetas",
+     "cuota": 1.67,
+     "p": 0.692,
+     "dato": "Liverpool ve 2,3 amarillas por partido",
+     "nota": 0.7350106894273554,
+     "partido": "Club Brugge KV–Liverpool",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/569.png",
+     "logo_v": "https://media.api-sports.io/football/teams/40.png"
+    },
+    {
      "sel": "1635673|Both Teams Score|Yes",
      "texto": "Ambos marcan (Inter–VfB Stuttgart)",
      "cuota": 1.4,
@@ -1613,8 +1605,8 @@
      "solo_todo": true
     }
    ],
-   "cuota": 62.07,
-   "prob": 0.116
+   "cuota": 66.02,
+   "prob": 0.098
   },
   {
    "patas": [
@@ -1664,19 +1656,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/759.png"
     },
     {
-     "sel": "1635642|Corners 1x2|Away",
-     "texto": "Liverpool saca más córners",
-     "cuota": 1.57,
-     "p": 0.822,
-     "dato": "6,2 córners de Liverpool contra 2,9 del rival",
-     "nota": 0.9538921439107041,
-     "partido": "Club Brugge KV–Liverpool",
-     "hora": "2026-11-25T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/569.png",
-     "logo_v": "https://media.api-sports.io/football/teams/40.png"
-    },
-    {
      "sel": "1635703|Player Fouls Committed|Joao Neves - 1",
      "texto": "Joao Neves: comete 1+ falta",
      "cuota": 1.53,
@@ -1722,6 +1701,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/172.png"
     },
     {
+     "sel": "1635642|Player Fouls Committed|Victor Munoz - 1",
+     "texto": "Victor Munoz: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 2,00 por 90' (4-1-0-2-1-2)",
+     "nota": 0.9000000000000001,
+     "equipo": "Liverpool",
+     "lado": "V",
+     "partido": "Club Brugge KV–Liverpool",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/569.png",
+     "logo_v": "https://media.api-sports.io/football/teams/40.png"
+    },
+    {
      "sel": "1635724|Double Chance|Home/Draw",
      "texto": "Shakhtar Donetsk o empate",
      "cuota": 1.57,
@@ -1748,8 +1742,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/157.png"
     }
    ],
-   "cuota": 36.95,
-   "prob": 0.145,
+   "cuota": 35.3,
+   "prob": 0.141,
    "clave": "dia-2026-11-25-a",
    "titulo": "📅 La del miércoles · A",
    "expl": "@30-40 con patas de @1,40-1,60 (la B, otra distinta)",
@@ -1816,12 +1810,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/759.png"
     },
     {
-     "sel": "1635642|Player Fouls Committed|Victor Munoz - 1",
-     "texto": "Victor Munoz: comete 1+ falta",
-     "cuota": 1.5,
+     "sel": "1635642|Player Fouls Committed|Dominik Szoboszlai - 1",
+     "texto": "Dominik Szoboszlai: comete 1+ falta",
+     "cuota": 1.4,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 2,00 por 90' (4-1-0-2-1-2)",
-     "nota": 0.9000000000000001,
+     "dato": "cumple 5/6 siendo titular · 1,55 por 90' (1-4-2-1-0-1)",
+     "nota": 0.84,
      "equipo": "Liverpool",
      "lado": "V",
      "partido": "Club Brugge KV–Liverpool",
@@ -1886,7 +1880,7 @@
      "solo_todo": true
     }
    ],
-   "cuota": 32.3,
+   "cuota": 30.15,
    "prob": 0.055,
    "clave": "dia-2026-11-25-b",
    "titulo": "📅 La del miércoles · B",
@@ -2030,12 +2024,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/157.png"
     },
     {
-     "sel": "1635642|Away Team Total Cards|Over 1.5",
-     "texto": "Liverpool ve más de 1,5 tarjetas",
-     "cuota": 1.67,
-     "p": 0.692,
-     "dato": "Liverpool ve 2,3 amarillas por partido",
-     "nota": 0.7350106894273554,
+     "sel": "1635642|Cards Over/Under|Over 3.5",
+     "texto": "Más de 3,5 tarjetas en el partido",
+     "cuota": 1.8,
+     "p": 0.69,
+     "dato": "4,7 tarjetas de media entre los dos",
+     "nota": 0.7516012091033644,
      "partido": "Club Brugge KV–Liverpool",
      "hora": "2026-11-25T21:00",
      "liga": "Champions League",
@@ -2070,7 +2064,7 @@
      "solo_todo": true
     }
    ],
-   "cuota": 43.92,
+   "cuota": 47.33,
    "prob": 0.07
   },
   {
