@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25 13:28",
+ "actualizado": "2026-11-25 13:39",
  "redes": {
   "instagram": {
    "seguidores": 57,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3923,
-   "hoy": 133,
+   "seguidores": 3928,
+   "hoy": 138,
    "serie": [
     3230,
     3248,
@@ -24,7 +24,7 @@
     3714,
     3742,
     3790,
-    3923
+    3928
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4503,
- "total_hoy": 143,
+ "total": 4508,
+ "total_hoy": 148,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "13:30",
+  "hora": "15:00",
   "dia": "2026-11-25",
-  "titulo": "Otro que nos gusta"
+  "titulo": "Seguimos con otro"
  },
  "ayer": {
   "aciertos": 1,
@@ -270,19 +270,19 @@
   },
   "2026-11-25": {
    "instagram": 57,
-   "threads": 3923,
+   "threads": 3928,
    "facebook": 1,
    "telegram": 522
   }
  },
  "tipos_instagram": {
-  "Escalera (reel)": {
-   "posts": 5,
+  "Otros (reel)": {
+   "posts": 45,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 45,
+  "Escalera (reel)": {
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
