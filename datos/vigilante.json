@@ -1,7 +1,6 @@
 {
  "informe": "2026-11-25",
  "vistos": {
-  "bucle-alineaciones_espera-2026112219": "2026-11-22T19:52",
   "bucle-cuotas_frescas-2026112220": "2026-11-22T20:02",
   "bucle-alineaciones_posts-2026112220": "2026-11-22T20:02",
   "bucle-alineaciones_espera-2026112220": "2026-11-22T20:02",
@@ -139,7 +138,8 @@
   "foto-2026-11-25-escalera": "2026-11-25T12:57",
   "repe-2026-11-25-1635735|Double Chance|Home/Draw": "2026-11-25T12:57",
   "prensa-1636386-f1d4d3d3": "2026-11-25T15:23",
-  "prensa-1636244-50722ec3": "2026-11-25T15:23"
+  "prensa-1636244-50722ec3": "2026-11-25T15:23",
+  "repe-2026-11-26-1636255|Home Player Shots|Luka Stojkovic - 2": "2026-11-25T20:00"
  },
  "abiertos": [
   {
@@ -147,28 +147,28 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (pick-claude-8, loca-th-0400-hora, loca-th-1000-hora)"
   },
   {
-   "clave": "repe-2026-11-25-1635735|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 25/11: el mismo pronóstico en 4 posts (loca-th-noche-2100-x100, loca-th-0030-x100, combi-tres, estrella-1635735)"
-  },
-  {
-   "clave": "repe-2026-11-25-1635718|Total - Home|Over 0.5",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0030-x100)"
-  },
-  {
-   "clave": "repe-2026-11-25-1635625|Total - Away|Over 0.5",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0500-x500)"
+   "clave": "repe-2026-11-25-1635682|Both Teams Score|Yes",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-noche-2230-x50)"
   },
   {
    "clave": "repe-2026-11-25-1635735|To Win Either Half|Home",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0030-x100)"
   },
   {
-   "clave": "repe-2026-11-25-1635682|Both Teams Score|Yes",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-noche-2230-x50)"
+   "clave": "repe-2026-11-25-1635735|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 25/11: el mismo pronóstico en 4 posts (loca-th-noche-2100-x100, loca-th-0030-x100, combi-tres, estrella-1635735)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635625|Total - Away|Over 0.5",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0500-x500)"
   },
   {
    "clave": "repe-2026-11-25-1635724|Anytime Goal Scorer|Mason Greenwood",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0400-hora)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635718|Total - Home|Over 0.5",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0030-x100)"
   },
   {
    "clave": "repe-2026-11-25-1635673|Home Player Shots|Nicolo Barella - 2",
@@ -179,32 +179,32 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2330-x500, loca-th-0300-x50)"
   },
   {
-   "clave": "repe-2026-11-25-1635625|Both Teams Score|Yes",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0300-x50)"
+   "clave": "repe-2026-11-25-1635673|Away Player Shots|Ermedin Demirovic - 3",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0200-duelo, loca-th-0700-reto)"
   },
   {
    "clave": "repe-2026-11-25-1635682|Double Chance|Home/Draw",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0700-reto)"
   },
   {
-   "clave": "repe-2026-11-25-1635673|Double Chance|Draw/Away",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1100-x50)"
-  },
-  {
    "clave": "repe-2026-11-25-1635625|Anytime Goal Scorer|Alex Grimaldo",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1130-x500)"
   },
   {
-   "clave": "repe-2026-11-25-1635735|Match Winner|Home",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0700-reto, loca-th-1100-x50)"
+   "clave": "repe-2026-11-25-1635673|Double Chance|Draw/Away",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1100-x50)"
   },
   {
    "clave": "repe-2026-11-25-1635682|Away Player Shots|Lennart Karl - 3",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1100-x50)"
   },
   {
-   "clave": "repe-2026-11-25-1635673|Away Player Shots|Ermedin Demirovic - 3",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0200-duelo, loca-th-0700-reto)"
+   "clave": "repe-2026-11-25-1635735|Match Winner|Home",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0700-reto, loca-th-1100-x50)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635625|Both Teams Score|Yes",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0300-x50)"
   },
   {
    "clave": "repe-2026-11-25-1635673|To Win Either Half|Away",
@@ -229,10 +229,19 @@
   {
    "clave": "repe-2026-11-25-1635735|Double Chance|Home/Draw",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-1000-hora, escalera, estrella-1635735)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636255|Home Player Shots|Luka Stojkovic - 2",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (estrella-1636255, loca-th-noche-2100-x100, loca-th-noche-2230-duelo)"
   }
  ],
- "revisado": "2026-11-25T19:49",
+ "revisado": "2026-11-25T20:00",
  "historial": [
+  {
+   "hora": "2026-11-25T20:00",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (estrella-1636255, loca-th-noche-2100-x100, loca-th-noche-2230-duelo)",
+   "k": "repe-2026-11-26-1636255|Home Player Shots|Luka Stojkovic - 2"
+  },
   {
    "hora": "2026-11-25T15:23",
    "t": "📰 Borac Banja Luka–Atalanta: «Hakan Calhanoglu estará de baja entre 3 y 4 semanas tras sufrir una lesión en el muslo en el emocionante parti» (Tribuna.com) · tenemos 3 post(s) de este partido: ganadores-conference, combi-tres, pick-seguro-2",
@@ -527,11 +536,6 @@
    "hora": "2026-11-24T15:30",
    "t": "⏰ No ha salido en threads ni instagram (15:00): 🏆⚽ CHAMPIONS · 10 PICKS PARA HOY 🍀 (2/2)",
    "k": "redes-2026-11-24-lista-europa-2-threads-instagram"
-  },
-  {
-   "hora": "2026-11-24T12:25",
-   "t": "⏰ No ha salido en threads ni instagram (12:00): 🏆⚽ CHAMPIONS · 11 PICKS PARA HOY 🍀 (1/2)",
-   "k": "redes-2026-11-24-lista-europa-1-threads-instagram"
   }
  ]
 }

@@ -6745,5 +6745,61 @@
     1.0
    ]
   ]
+ },
+ {
+  "id": "2026-11-26-loca-th-noche-2230-duelo",
+  "fecha": "2026-11-25T22:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1636255|Home Player Shots|Luka Stojkovic - 2",
+   "1636255|Away Player Shots|Patrik Schick - 4"
+  ],
+  "cuotas": [
+   1.62,
+   1.73
+  ],
+  "real": 2.86,
+  "multiplicando": 2.803,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-26-loca-th-noche-2330-escudos",
+  "fecha": "2026-11-25T23:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1636252|Both Teams Score|Yes",
+   "1636252|Away Player Shots|Luka Sucic - 2",
+   "1636252|Goals Over/Under - Second Half|Over 1.5",
+   "1636252|To Win Either Half|Away"
+  ],
+  "cuotas": [
+   1.5,
+   1.62,
+   1.73,
+   2.0
+  ],
+  "real": 7.25,
+  "multiplicando": 8.408,
+  "aj": 0.7068030023647043,
+  "parejas": [
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ]
+  ]
  }
 ]

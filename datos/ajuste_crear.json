@@ -27,7 +27,7 @@
   "jugador+jugador/contrario": 0.0186,
   "jugador+jugador/partido": -0.0149,
   "jugador+resultado/contrario": 0.0569,
-  "jugador+resultado/mismo": 0.084,
+  "jugador+resultado/mismo": 0.0839,
   "jugador+resultado/partido": 0.0696,
   "jugador+tiros/contrario": -0.1009,
   "jugador+tiros/mismo": -0.1009,
@@ -40,7 +40,7 @@
   "resultado+tiros/partido": -0.1156
  },
  "beta": 0.771,
- "n": 129,
+ "n": 131,
  "error_antes": 10.1,
  "error_ahora": 3.0
 }
