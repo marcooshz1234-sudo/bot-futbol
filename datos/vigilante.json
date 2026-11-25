@@ -1,15 +1,6 @@
 {
  "informe": "2026-11-25",
  "vistos": {
-  "redes-2026-11-22-loca-th-0940-empates-threads": "2026-11-22T12:40",
-  "redes-2026-11-22-loca-th-1000-ganaambos-threads": "2026-11-22T12:40",
-  "redes-2026-11-22-loca-th-1100-escudos-threads-instagram": "2026-11-22T12:40",
-  "redes-2026-11-22-loca-th-1120-escudos-threads-instagram": "2026-11-22T12:40",
-  "redes-2026-11-22-loca-th-1140-escudos-threads-instagram": "2026-11-22T12:40",
-  "prensa-1570458-HKane": "2026-11-22T12:40",
-  "regla-cuota-2026-11-23-semana-europa": "2026-11-22T12:40",
-  "regla-dia-2026-11-23-semana-europa": "2026-11-22T12:40",
-  "regla-orden-2026-11-23-semana-europa": "2026-11-22T12:40",
   "redes-2026-11-22-escalera-threads-instagram": "2026-11-22T12:49",
   "bucle-cuotas_frescas-2026112212": "2026-11-22T12:49",
   "bucle-cuotas_frescas-2026112213": "2026-11-22T13:09",
@@ -200,10 +191,6 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0500-x500)"
   },
   {
-   "clave": "repe-2026-11-25-1635735|To Win Either Half|Home",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0030-x100)"
-  },
-  {
    "clave": "repe-2026-11-25-1635735|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 25/11: el mismo pronóstico en 4 posts (loca-th-noche-2100-x100, loca-th-0030-x100, combi-tres, estrella-1635735)"
   },
@@ -212,12 +199,16 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0030-x100)"
   },
   {
-   "clave": "repe-2026-11-25-1635682|Both Teams Score|Yes",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-noche-2230-x50)"
-  },
-  {
    "clave": "repe-2026-11-25-1635724|Anytime Goal Scorer|Mason Greenwood",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0400-hora)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635735|To Win Either Half|Home",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0030-x100)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635682|Both Teams Score|Yes",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-noche-2230-x50)"
   },
   {
    "clave": "repe-2026-11-25-1635673|Home Player Shots|Nicolo Barella - 2",
@@ -228,8 +219,20 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2330-x500, loca-th-0300-x50)"
   },
   {
+   "clave": "repe-2026-11-25-1635682|Double Chance|Home/Draw",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0700-reto)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635625|Both Teams Score|Yes",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0300-x50)"
+  },
+  {
    "clave": "repe-2026-11-25-1635735|Match Winner|Home",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0700-reto, loca-th-1100-x50)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635673|Away Player Shots|Ermedin Demirovic - 3",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0200-duelo, loca-th-0700-reto)"
   },
   {
    "clave": "repe-2026-11-25-1635625|Anytime Goal Scorer|Alex Grimaldo",
@@ -238,18 +241,6 @@
   {
    "clave": "repe-2026-11-25-1635682|Away Player Shots|Lennart Karl - 3",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1100-x50)"
-  },
-  {
-   "clave": "repe-2026-11-25-1635625|Both Teams Score|Yes",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0300-x50)"
-  },
-  {
-   "clave": "repe-2026-11-25-1635682|Double Chance|Home/Draw",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0700-reto)"
-  },
-  {
-   "clave": "repe-2026-11-25-1635673|Away Player Shots|Ermedin Demirovic - 3",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0200-duelo, loca-th-0700-reto)"
   },
   {
    "clave": "repe-2026-11-25-1635673|Double Chance|Draw/Away",
@@ -280,7 +271,7 @@
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
   }
  ],
- "revisado": "2026-11-25T12:38",
+ "revisado": "2026-11-25T12:48",
  "historial": [
   {
    "hora": "2026-11-25T12:07",
