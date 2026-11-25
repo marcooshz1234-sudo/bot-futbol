@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25 23:15",
+ "actualizado": "2026-11-25 23:25",
  "redes": {
   "instagram": {
    "seguidores": 57,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4010,
-   "hoy": 220,
+   "seguidores": 4013,
+   "hoy": 223,
    "serie": [
     3230,
     3248,
@@ -24,7 +24,7 @@
     3714,
     3742,
     3790,
-    4010
+    4013
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 525,
-   "hoy": 11,
+   "seguidores": 527,
+   "hoy": 13,
    "serie": [
     485,
     490,
@@ -50,17 +50,17 @@
     506,
     506,
     514,
-    525
+    527
    ]
   }
  },
- "total": 4593,
- "total_hoy": 233,
+ "total": 4598,
+ "total_hoy": 238,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "23:23",
+  "hora": "23:30",
   "dia": "2026-11-25",
-  "titulo": "Para dentro señores"
+  "titulo": "Combi crystal palace – real sociedad"
  },
  "ayer": {
   "aciertos": 1,
@@ -270,9 +270,9 @@
   },
   "2026-11-25": {
    "instagram": 57,
-   "threads": 4010,
+   "threads": 4013,
    "facebook": 1,
-   "telegram": 525
+   "telegram": 527
   }
  },
  "tipos_instagram": {
