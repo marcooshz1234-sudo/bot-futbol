@@ -1,8 +1,6 @@
 {
  "informe": "2026-11-25",
  "vistos": {
-  "redes-2026-11-22-escalera-threads-instagram": "2026-11-22T12:49",
-  "bucle-cuotas_frescas-2026112212": "2026-11-22T12:49",
   "bucle-cuotas_frescas-2026112213": "2026-11-22T13:09",
   "redes-2026-11-22-combi-tres-threads-instagram": "2026-11-22T16:51",
   "redes-2026-11-22-loca-th-1400-escudos-threads-instagram": "2026-11-22T16:51",
@@ -155,7 +153,9 @@
   "prensa-1635718-962befb3": "2026-11-25T00:32",
   "prensa-1635642-928f4863": "2026-11-25T02:25",
   "prensa-1635728-bb7d5bd4": "2026-11-25T05:17",
-  "escalera-2026-11-25": "2026-11-25T12:07"
+  "escalera-2026-11-25": "2026-11-25T12:07",
+  "foto-2026-11-25-escalera": "2026-11-25T12:57",
+  "repe-2026-11-25-1635735|Double Chance|Home/Draw": "2026-11-25T12:57"
  },
  "abiertos": [
   {
@@ -183,8 +183,16 @@
    "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Pick para la noche 👇 (19:30)"
   },
   {
+   "clave": "foto-2026-11-25-escalera",
+   "t": "🖼️ Sale a las 12:58 y su foto no está hecha (o es vieja): 🪜 Reto escalera · Día 1/7"
+  },
+  {
    "clave": "repe-2026-11-25-1635703|Total - Away|Over 0.5",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (pick-claude-8, loca-th-0400-hora, loca-th-1000-hora)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635682|Both Teams Score|Yes",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-noche-2230-x50)"
   },
   {
    "clave": "repe-2026-11-25-1635625|Total - Away|Over 0.5",
@@ -195,20 +203,16 @@
    "t": "🔁 25/11: el mismo pronóstico en 4 posts (loca-th-noche-2100-x100, loca-th-0030-x100, combi-tres, estrella-1635735)"
   },
   {
-   "clave": "repe-2026-11-25-1635718|Total - Home|Over 0.5",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0030-x100)"
-  },
-  {
    "clave": "repe-2026-11-25-1635724|Anytime Goal Scorer|Mason Greenwood",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0400-hora)"
   },
   {
-   "clave": "repe-2026-11-25-1635735|To Win Either Half|Home",
+   "clave": "repe-2026-11-25-1635718|Total - Home|Over 0.5",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0030-x100)"
   },
   {
-   "clave": "repe-2026-11-25-1635682|Both Teams Score|Yes",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-noche-2230-x50)"
+   "clave": "repe-2026-11-25-1635735|To Win Either Half|Home",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0030-x100)"
   },
   {
    "clave": "repe-2026-11-25-1635673|Home Player Shots|Nicolo Barella - 2",
@@ -219,20 +223,20 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2330-x500, loca-th-0300-x50)"
   },
   {
+   "clave": "repe-2026-11-25-1635673|Double Chance|Draw/Away",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1100-x50)"
+  },
+  {
    "clave": "repe-2026-11-25-1635682|Double Chance|Home/Draw",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0700-reto)"
   },
   {
-   "clave": "repe-2026-11-25-1635625|Both Teams Score|Yes",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0300-x50)"
-  },
-  {
-   "clave": "repe-2026-11-25-1635735|Match Winner|Home",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0700-reto, loca-th-1100-x50)"
-  },
-  {
    "clave": "repe-2026-11-25-1635673|Away Player Shots|Ermedin Demirovic - 3",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0200-duelo, loca-th-0700-reto)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635625|Both Teams Score|Yes",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0300-x50)"
   },
   {
    "clave": "repe-2026-11-25-1635625|Anytime Goal Scorer|Alex Grimaldo",
@@ -243,8 +247,8 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1100-x50)"
   },
   {
-   "clave": "repe-2026-11-25-1635673|Double Chance|Draw/Away",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1100-x50)"
+   "clave": "repe-2026-11-25-1635735|Match Winner|Home",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0700-reto, loca-th-1100-x50)"
   },
   {
    "clave": "repe-2026-11-25-1635673|To Win Either Half|Away",
@@ -267,12 +271,22 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0700-reto, loca-th-1130-x500)"
   },
   {
-   "clave": "escalera-2026-11-25",
-   "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
+   "clave": "repe-2026-11-25-1635735|Double Chance|Home/Draw",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-1000-hora, escalera, estrella-1635735)"
   }
  ],
- "revisado": "2026-11-25T12:48",
+ "revisado": "2026-11-25T12:57",
  "historial": [
+  {
+   "hora": "2026-11-25T12:57",
+   "t": "🖼️ Sale a las 12:58 y su foto no está hecha (o es vieja): 🪜 Reto escalera · Día 1/7",
+   "k": "foto-2026-11-25-escalera"
+  },
+  {
+   "hora": "2026-11-25T12:57",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-1000-hora, escalera, estrella-1635735)",
+   "k": "repe-2026-11-25-1635735|Double Chance|Home/Draw"
+  },
   {
    "hora": "2026-11-25T12:07",
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy",
@@ -562,16 +576,6 @@
    "hora": "2026-11-24T11:24",
    "t": "📰 Atletico Madrid–Viking: «El Viking pierde a Haugen y Christiansen duda ante el Atlético» (Tu Futbolero) · tenemos 3 post(s) de este partido: ganadores-champions, pick-seguro, combi-tres",
    "k": "prensa-1635625-1ce3cceb"
-  },
-  {
-   "hora": "2026-11-24T04:46",
-   "t": "📰 Arsenal–Borussia Dortmund: «David Raya se perderá el duelo ante el Borussia Dortmund mientras el Arsenal recibe un impulso por lesiones» (Tribuna.com) · tenemos 11 post(s) de este partido: pick-claude-1, loca-th-0500-tapados, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-1130-x100, lista-europa-1, combi-tres, loca-th-1400-x50, lista-europa-2, loca-th-1830-x1000, loca-th-1900-lista-corners",
-   "k": "prensa-1635611-30a49b9e"
-  },
-  {
-   "hora": "2026-11-24T03:46",
-   "t": "📰 Como–AEK Athens FC: «Gustavo Álvarez es duda en Liga de Quito y ahora lo ponen como opción para otro equipo» (Bolavip) · tenemos 7 post(s) de este partido: loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-reto, lista-europa-1, loca-th-1400-x50, pick-seguro-5, loca-th-1900-lista-corners",
-   "k": "prensa-1635649-a48fe7f0"
   }
  ]
 }

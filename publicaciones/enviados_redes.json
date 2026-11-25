@@ -3881,5 +3881,14 @@
    "facebook": null,
    "threads": "18653880730014882"
   }
+ },
+ "2026-11-25-escalera": {
+  "redes": {
+   "instagram_reel": null
+  },
+  "errores_redes": {
+   "threads": "400: An unknown error occurred",
+   "instagram": "contenedor ERROR: ERROR"
+  }
  }
 }

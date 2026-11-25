@@ -942,5 +942,9 @@
   },
   "2026-11-25-pick-seguro-2": {
     "caducada": "cancelado"
+  },
+  "2026-11-25-escalera": {
+    "enviado": "2026-11-25T12:58",
+    "mensaje_id": 621
   }
 }
