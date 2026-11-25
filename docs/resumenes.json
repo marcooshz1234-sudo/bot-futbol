@@ -3635,14 +3635,14 @@
   },
   "2026-11-25": {
     "dia": "2026-11-25",
-    "total": 10,
+    "total": 11,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 10,
+      "pendiente": 11,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 10
+      "sin_resolver": 11
     },
     "combis": [
       {
@@ -3704,13 +3704,19 @@
         "titulo": "🎰 LA CENTENARIA x95,99 🎰",
         "estado": "pendiente",
         "cuota": 95.99
+      },
+      {
+        "id": "2026-11-25-loca-th-1000-hora",
+        "titulo": "🕘 TODO A LAS 21:00 🕘",
+        "estado": "pendiente",
+        "cuota": 11.74
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 39
+      "total": 41
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🧨 COMBI POR 105 🧨 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 4,49 · pendiente\n⏳ 🤑💸 COMBI x41,13 🤑💸 · 41,13 · pendiente\n⏳ ⏰ TODO A LAS 21:00 ⏰ · 30,53 · pendiente\n⏳ 🤑💸 COMBI x406 🤑💸 · pendiente\n⏳ 💶 RETO: DE 1€ A 584€ 💶 · pendiente\n⏳ 🎯 COMBI DE TIROS · INTER vs VFB STUTTGART 🎯 · 4,99 · pendiente\n⏳ 🎰 LA CENTENARIA x95,99 🎰 · 95,99 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 10 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🧨 COMBI POR 105 🧨 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 4,49 · pendiente\n⏳ 🤑💸 COMBI x41,13 🤑💸 · 41,13 · pendiente\n⏳ ⏰ TODO A LAS 21:00 ⏰ · 30,53 · pendiente\n⏳ 🤑💸 COMBI x406 🤑💸 · pendiente\n⏳ 💶 RETO: DE 1€ A 584€ 💶 · pendiente\n⏳ 🎯 COMBI DE TIROS · INTER vs VFB STUTTGART 🎯 · 4,99 · pendiente\n⏳ 🎰 LA CENTENARIA x95,99 🎰 · 95,99 · pendiente\n⏳ 🕘 TODO A LAS 21:00 🕘 · 11,74 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 11 sin resolver"
   }
 }
