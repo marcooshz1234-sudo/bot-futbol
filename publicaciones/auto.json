@@ -15550,7 +15550,7 @@
       1.67,
       1.67,
       3.4,
-      2.62,
+      2.75,
       1.67,
       3.0
     ],
@@ -15564,7 +15564,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-25T08:01"
+    "cuotas_revisadas": "2026-11-25T08:35"
   },
   {
     "id": "2026-11-25-loca-th-1000-hora",
@@ -15583,8 +15583,8 @@
       1.67,
       1.44,
       1.4,
-      1.4,
-      1.44
+      1.33,
+      1.5
     ],
     "solo_en": [
       "threads"
@@ -15595,7 +15595,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-25T08:35"
   },
   {
     "id": "2026-11-25-loca-th-1100-x50",
