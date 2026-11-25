@@ -11230,21 +11230,6 @@
  ],
  "PABLO ANALISTA": [
   {
-   "id": "-1001393609245/16432",
-   "fecha": "2026-11-17T22:45",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-17T22:52",
-   "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16432.jpg"
-  },
-  {
-   "id": "-1001393609245/16431",
-   "fecha": "2026-11-17T22:45",
-   "texto": "✅",
-   "foto": false,
-   "visto": "2026-11-17T22:52"
-  },
-  {
    "id": "-1001393609245/16433",
    "fecha": "2026-11-17T22:46",
    "texto": "✅ 10/10 EN NOVIEMBRE 10/10 ✅",
@@ -12714,6 +12699,20 @@
    "foto": true,
    "visto": "2026-11-25T04:36",
    "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16630.jpg"
+  },
+  {
+   "id": "-1001393609245/16632",
+   "fecha": "2026-11-25T04:37",
+   "texto": "22/22 EDICIONES NOVIEMBRE ✅\n\nEntra absolutamente todo , noviembre bendito señores mañana más 🤝\n\nAPUESTA GRATUITA CHAMPIONS ✅\nEDICIÓN CHAMPIONS ✅\nEDICIÓN NBA ✅",
+   "foto": false,
+   "visto": "2026-11-25T04:46"
+  },
+  {
+   "id": "-1001393609245/16633",
+   "fecha": "2026-11-25T04:40",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-25T04:46"
   }
  ],
  "CREAR APUESTA CUOTA 101 MIA - SAC": [
@@ -22475,6 +22474,38 @@
    "foto": true,
    "visto": "2026-11-25T04:36",
    "foto_ruta": "datos/tipsters_fotos/Messi_apuestas_1707.jpg"
+  },
+  {
+   "id": "-1004443249454/1710",
+   "fecha": "2026-11-25T04:43",
+   "texto": "Agregar a su boleto de apuestas: https://www.bet365.bet.ar/s/r/hvzCh",
+   "foto": true,
+   "visto": "2026-11-25T04:46",
+   "foto_ruta": "datos/tipsters_fotos/Messi_apuestas_1710.jpg"
+  },
+  {
+   "id": "-1004443249454/1709",
+   "fecha": "2026-11-25T04:43",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-25T04:46",
+   "foto_ruta": "datos/tipsters_fotos/Messi_apuestas_1709.jpg"
+  },
+  {
+   "id": "-1004443249454/1712",
+   "fecha": "2026-11-25T04:44",
+   "texto": "Agregar a su boleto de apuestas: https://www.bet365.bet.ar/s/r/hvzDP",
+   "foto": true,
+   "visto": "2026-11-25T04:46",
+   "foto_ruta": "datos/tipsters_fotos/Messi_apuestas_1712.jpg"
+  },
+  {
+   "id": "-1004443249454/1711",
+   "fecha": "2026-11-25T04:44",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-25T04:46",
+   "foto_ruta": "datos/tipsters_fotos/Messi_apuestas_1711.jpg"
   }
  ]
 }
