@@ -147,16 +147,16 @@
    "t": "🔁 25/11: el mismo pronóstico en 4 posts (estrella-1635735, loca-th-noche-2100-x100, loca-th-0030-x100, combi-tres)"
   },
   {
-   "clave": "repe-2026-11-25-1635724|Anytime Goal Scorer|Mason Greenwood",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0400-hora)"
+   "clave": "repe-2026-11-25-1635735|To Win Either Half|Home",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0030-x100)"
   },
   {
    "clave": "repe-2026-11-25-1635625|Total - Away|Over 0.5",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0500-x500)"
   },
   {
-   "clave": "repe-2026-11-25-1635735|To Win Either Half|Home",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-0030-x100)"
+   "clave": "repe-2026-11-25-1635724|Anytime Goal Scorer|Mason Greenwood",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0400-hora)"
   },
   {
    "clave": "repe-2026-11-25-1635718|Total - Home|Over 0.5",
@@ -175,6 +175,14 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2330-x500, loca-th-0300-x50)"
   },
   {
+   "clave": "repe-2026-11-25-1635735|Match Winner|Home",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0700-reto, loca-th-1100-x50)"
+  },
+  {
+   "clave": "repe-2026-11-25-1635673|Away Player Shots|Ermedin Demirovic - 3",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0200-duelo, loca-th-0700-reto)"
+  },
+  {
    "clave": "repe-2026-11-25-1635625|Both Teams Score|Yes",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0300-x50)"
   },
@@ -183,20 +191,12 @@
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1100-x50)"
   },
   {
-   "clave": "repe-2026-11-25-1635735|Match Winner|Home",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0700-reto, loca-th-1100-x50)"
-  },
-  {
-   "clave": "repe-2026-11-25-1635682|Double Chance|Home/Draw",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0700-reto)"
-  },
-  {
    "clave": "repe-2026-11-25-1635625|Anytime Goal Scorer|Alex Grimaldo",
    "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0500-x500, loca-th-1130-x500)"
   },
   {
-   "clave": "repe-2026-11-25-1635673|Away Player Shots|Ermedin Demirovic - 3",
-   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0200-duelo, loca-th-0700-reto)"
+   "clave": "repe-2026-11-25-1635682|Double Chance|Home/Draw",
+   "t": "🔁 25/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-x500, loca-th-0030-x100, loca-th-0700-reto)"
   },
   {
    "clave": "repe-2026-11-25-1635673|Double Chance|Draw/Away",
@@ -223,7 +223,7 @@
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (estrella-1636255, loca-th-noche-2100-x100, loca-th-noche-2230-duelo)"
   }
  ],
- "revisado": "2026-11-25T22:04",
+ "revisado": "2026-11-25T22:14",
  "historial": [
   {
    "hora": "2026-11-25T21:01",
