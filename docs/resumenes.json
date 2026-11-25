@@ -3635,14 +3635,14 @@
   },
   "2026-11-25": {
     "dia": "2026-11-25",
-    "total": 20,
+    "total": 21,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 20,
+      "pendiente": 21,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 20
+      "sin_resolver": 21
     },
     "combis": [
       {
@@ -3764,13 +3764,19 @@
         "titulo": "Bayern: más de 16,5 remates",
         "estado": "pendiente",
         "cuota": 1.73
+      },
+      {
+        "id": "2026-11-25-pick-claude-5",
+        "titulo": "Dybala (Roma): 2+ remates",
+        "estado": "pendiente",
+        "cuota": 1.44
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 53
+      "total": 54
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🧨 COMBI POR 105 🧨 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 4,49 · pendiente\n⏳ 🤑💸 COMBI x41,13 🤑💸 · 41,13 · pendiente\n⏳ ⏰ TODO A LAS 21:00 ⏰ · 30,53 · pendiente\n⏳ 🤑💸 COMBI x406 🤑💸 · pendiente\n⏳ 💶 RETO: DE 1€ A 584€ 💶 · pendiente\n⏳ 🎯 COMBI DE TIROS · INTER vs VFB STUTTGART 🎯 · 4,99 · pendiente\n⏳ 🎰 LA CENTENARIA x95,99 🎰 · 95,99 · pendiente\n⏳ 🕘 TODO A LAS 21:00 🕘 · 11,74 · pendiente\n⏳ Gana el Inter · 1,40 · pendiente\n⏳ 🤑💸 COMBI x33,88 🤑💸 · 33,88 · pendiente\n⏳ 💰🚀 COMBI x608 💰🚀 · pendiente\n⏳ 🤑💸 LA MILLONARIA x462 🤑💸 · pendiente\n⏳ Iván Fresneda (Sporting): comete 1+ falta · 1,40 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ Otro que nos gusta 🔥 · 1,44 · pendiente\n⏳ Vamos con la combi del miércoles familia 🔥 · pendiente\n⏳ Bayern: más de 16,5 remates · 1,73 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 20 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🧨 COMBI POR 105 🧨 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 4,49 · pendiente\n⏳ 🤑💸 COMBI x41,13 🤑💸 · 41,13 · pendiente\n⏳ ⏰ TODO A LAS 21:00 ⏰ · 30,53 · pendiente\n⏳ 🤑💸 COMBI x406 🤑💸 · pendiente\n⏳ 💶 RETO: DE 1€ A 584€ 💶 · pendiente\n⏳ 🎯 COMBI DE TIROS · INTER vs VFB STUTTGART 🎯 · 4,99 · pendiente\n⏳ 🎰 LA CENTENARIA x95,99 🎰 · 95,99 · pendiente\n⏳ 🕘 TODO A LAS 21:00 🕘 · 11,74 · pendiente\n⏳ Gana el Inter · 1,40 · pendiente\n⏳ 🤑💸 COMBI x33,88 🤑💸 · 33,88 · pendiente\n⏳ 💰🚀 COMBI x608 💰🚀 · pendiente\n⏳ 🤑💸 LA MILLONARIA x462 🤑💸 · pendiente\n⏳ Iván Fresneda (Sporting): comete 1+ falta · 1,40 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ Otro que nos gusta 🔥 · 1,44 · pendiente\n⏳ Vamos con la combi del miércoles familia 🔥 · pendiente\n⏳ Bayern: más de 16,5 remates · 1,73 · pendiente\n⏳ Dybala (Roma): 2+ remates · 1,44 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 21 sin resolver"
   }
 }
