@@ -13863,7 +13863,7 @@
       3.4,
       3.0,
       4.0,
-      3.5
+      3.25
     ],
     "solo_en": [
       "threads"
@@ -13874,7 +13874,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-25T10:30"
   },
   {
     "id": "2026-11-25-pick-seguro-3",
