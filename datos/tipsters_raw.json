@@ -20337,21 +20337,6 @@
  ],
  "ApuestasCobrich - Canal Gratuito": [
   {
-   "id": "-1001233274610/196327",
-   "fecha": "2026-11-22T19:34",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-22T19:38"
-  },
-  {
-   "id": "-1001233274610/196326",
-   "fecha": "2026-11-22T19:34",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-22T19:38",
-   "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196326.jpg"
-  },
-  {
    "id": "-1001233274610/196329",
    "fecha": "2026-11-22T19:35",
    "texto": "",
@@ -21821,6 +21806,21 @@
    "texto": "",
    "foto": false,
    "visto": "2026-11-26T00:21"
+  },
+  {
+   "id": "-1001233274610/196531",
+   "fecha": "2026-11-26T00:21",
+   "texto": "❗️LIVE PREMIUM PARA LA NBA 🏀🇺🇸\n\n💶 Lebron James hace 10 o mas asistencias",
+   "foto": false,
+   "visto": "2026-11-26T00:31"
+  },
+  {
+   "id": "-1001233274610/196530",
+   "fecha": "2026-11-26T00:21",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-26T00:31",
+   "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196530.jpg"
   }
  ],
  "Pick Maestro": [
