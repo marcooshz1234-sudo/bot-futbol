@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25 10:24",
+ "actualizado": "2026-11-25 10:34",
  "redes": {
   "instagram": {
    "seguidores": 57,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3895,
-   "hoy": 105,
+   "seguidores": 3898,
+   "hoy": 108,
    "serie": [
     3230,
     3248,
@@ -24,7 +24,7 @@
     3714,
     3742,
     3790,
-    3895
+    3898
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 520,
-   "hoy": 6,
+   "seguidores": 521,
+   "hoy": 7,
    "serie": [
     485,
     490,
@@ -50,17 +50,17 @@
     506,
     506,
     514,
-    520
+    521
    ]
   }
  },
- "total": 4473,
- "total_hoy": 113,
+ "total": 4477,
+ "total_hoy": 117,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "10:30",
+  "hora": "11:00",
   "dia": "2026-11-25",
-  "titulo": "Empezamos el día con este"
+  "titulo": "Combi x33,88"
  },
  "ayer": {
   "aciertos": 1,
@@ -270,9 +270,9 @@
   },
   "2026-11-25": {
    "instagram": 57,
-   "threads": 3895,
+   "threads": 3898,
    "facebook": 1,
-   "telegram": 520
+   "telegram": 521
   }
  },
  "tipos_instagram": {
