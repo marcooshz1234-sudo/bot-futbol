@@ -3635,14 +3635,14 @@
   },
   "2026-11-25": {
     "dia": "2026-11-25",
-    "total": 2,
+    "total": 3,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 2,
+      "pendiente": 3,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 3
     },
     "combis": [
       {
@@ -3656,13 +3656,19 @@
         "titulo": "🧨 COMBI POR 105 🧨",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-25-loca-th-0100-lista-corners",
+        "titulo": "🚩 CÓRNERS DEL DÍA 🚩",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 15
+      "total": 18
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🧨 COMBI POR 105 🧨 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS LEAGUE - GANADORES · pendiente\n⏳ 🧨 COMBI POR 105 🧨 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
   }
 }
