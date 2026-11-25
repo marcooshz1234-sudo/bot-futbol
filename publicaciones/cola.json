@@ -1497,7 +1497,16 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-11-25-escalera"
+    "verde_de": "2026-11-25-escalera",
+    "enviado": "2026-11-25T23:23",
+    "mensaje_id": 631,
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18080080151773259"
+    }
   },
   {
     "id": "2026-11-25-verde-auto-2026-11-25-combi-tres",
