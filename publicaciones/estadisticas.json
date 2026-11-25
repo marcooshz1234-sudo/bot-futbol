@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25 04:56",
+ "actualizado": "2026-11-25 05:07",
  "redes": {
   "instagram": {
    "seguidores": 55,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3843,
-   "hoy": 53,
+   "seguidores": 3848,
+   "hoy": 58,
    "serie": [
     3230,
     3248,
@@ -24,7 +24,7 @@
     3714,
     3742,
     3790,
-    3843
+    3848
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4417,
- "total_hoy": 57,
+ "total": 4422,
+ "total_hoy": 62,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "05:00",
+  "hora": "07:00",
   "dia": "2026-11-25",
-  "titulo": "Combi x406"
+  "titulo": "Reto de 1 a 584"
  },
  "ayer": {
   "aciertos": 1,
@@ -270,7 +270,7 @@
   },
   "2026-11-25": {
    "instagram": 55,
-   "threads": 3843,
+   "threads": 3848,
    "facebook": 1,
    "telegram": 518
   }
