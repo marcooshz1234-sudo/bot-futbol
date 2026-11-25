@@ -502,154 +502,6 @@
   "mis|2026-11-05-marcos-crear-goles-120|1636250|Home Player Shots On Target Total|Camilo Duran - 1"
  ],
  "alineaciones": {
-  "1550203": {
-   "hora": "2026-11-23T20:19:33.084085+01:00",
-   "xi": [
-    "D. Thiam",
-    "E. Kouadio",
-    "S. Goglichidze",
-    "A. Carboni",
-    "S. Birindelli",
-    "E. Akinsanmiro",
-    "L. Colombo",
-    "M. Pessina",
-    "Ricardo Mangas",
-    "Gustavo Varela",
-    "Jay Robinson",
-    "David de Gea",
-    "Álex Jiménez",
-    "R. Drăgușin",
-    "Viery",
-    "João Mário",
-    "C. Ndour",
-    "C. Inao OulaÃ¯",
-    "Franco Mastantuono",
-    "Pote",
-    "W. Gnonto",
-    "Mateo Pellegrino"
-   ],
-   "banquillo": [
-    "J. Ziółkowski",
-    "A. Bakoune",
-    "E. Zeballos",
-    "V. Antov",
-    "A. Colpani",
-    "P. Cutrone",
-    "O. Forson",
-    "L. Lucchesi",
-    "Dany Mota",
-    "M. Mout",
-    "M. Ondoa",
-    "A. Strajnar",
-    "N. Törnqvist",
-    "I. Touré",
-    "L. Ranieri",
-    "A. Njie",
-    "L. Lezzerini",
-    "N. Fagioli",
-    "Dodô",
-    "O. Christensen",
-    "M. Brescianini",
-    "Beto",
-    "A. Atta",
-    "Valde",
-    "B. Mazzeo"
-   ],
-   "equipos": {
-    "1579": [
-     {
-      "n": "D. Thiam",
-      "pos": "G"
-     },
-     {
-      "n": "E. Kouadio",
-      "pos": "D"
-     },
-     {
-      "n": "S. Goglichidze",
-      "pos": "D"
-     },
-     {
-      "n": "A. Carboni",
-      "pos": "D"
-     },
-     {
-      "n": "S. Birindelli",
-      "pos": "M"
-     },
-     {
-      "n": "E. Akinsanmiro",
-      "pos": "M"
-     },
-     {
-      "n": "L. Colombo",
-      "pos": "M"
-     },
-     {
-      "n": "M. Pessina",
-      "pos": "M"
-     },
-     {
-      "n": "Ricardo Mangas",
-      "pos": "M"
-     },
-     {
-      "n": "Gustavo Varela",
-      "pos": "F"
-     },
-     {
-      "n": "Jay Robinson",
-      "pos": "F"
-     }
-    ],
-    "502": [
-     {
-      "n": "David de Gea",
-      "pos": "G"
-     },
-     {
-      "n": "Álex Jiménez",
-      "pos": "D"
-     },
-     {
-      "n": "R. Drăgușin",
-      "pos": "D"
-     },
-     {
-      "n": "Viery",
-      "pos": "D"
-     },
-     {
-      "n": "João Mário",
-      "pos": "D"
-     },
-     {
-      "n": "C. Ndour",
-      "pos": "M"
-     },
-     {
-      "n": "C. Inao OulaÃ¯",
-      "pos": "M"
-     },
-     {
-      "n": "Franco Mastantuono",
-      "pos": "M"
-     },
-     {
-      "n": "Pote",
-      "pos": "M"
-     },
-     {
-      "n": "W. Gnonto",
-      "pos": "M"
-     },
-     {
-      "n": "Mateo Pellegrino",
-      "pos": "F"
-     }
-    ]
-   }
-  },
   "1557469": {
    "hora": "2026-11-23T20:35:32.835110+01:00",
    "xi": [
@@ -2534,43 +2386,43 @@
    }
   },
   "1635673": {
-   "hora": "2026-11-25T20:10:01.402634+01:00",
+   "hora": "2026-11-25T20:22:07.086373+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635642": {
-   "hora": "2026-11-25T20:10:01.402634+01:00",
+   "hora": "2026-11-25T20:22:07.086373+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635682": {
-   "hora": "2026-11-25T20:10:01.402634+01:00",
+   "hora": "2026-11-25T20:22:07.086373+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635625": {
-   "hora": "2026-11-25T20:10:01.402634+01:00",
+   "hora": "2026-11-25T20:22:07.086373+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635703": {
-   "hora": "2026-11-25T20:10:01.402634+01:00",
+   "hora": "2026-11-25T20:22:07.086373+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635735": {
-   "hora": "2026-11-25T20:10:01.402634+01:00",
+   "hora": "2026-11-25T20:22:07.086373+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1635724": {
-   "hora": "2026-11-25T20:10:01.402634+01:00",
+   "hora": "2026-11-25T20:22:07.086373+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
