@@ -63,6 +63,17 @@
  },
  "top": [
   {
+   "local": "Brann",
+   "visitante": "Aarhus",
+   "inicio": "2026-11-26T18:45",
+   "texto": "Aarhus marca 2 o más",
+   "cuota": 2.2,
+   "justa": 2.19,
+   "ev": 0.004,
+   "fuente": "las otras casas",
+   "edad_h": 3.7
+  },
+  {
    "local": "Sporting CP",
    "visitante": "Manchester United",
    "inicio": "2026-11-25T21:00",
@@ -71,7 +82,7 @@
    "justa": 1.5,
    "ev": 0.002,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Shakhtar Donetsk",
@@ -82,7 +93,7 @@
    "justa": 1.58,
    "ev": -0.004,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Kairat Almaty",
@@ -93,11 +104,33 @@
    "justa": 1.69,
    "ev": -0.012,
    "fuente": "las otras casas",
-   "edad_h": 3.2
+   "edad_h": 3.7
+  },
+  {
+   "local": "Brann",
+   "visitante": "Aarhus",
+   "inicio": "2026-11-26T18:45",
+   "texto": "Brann marca 2 o más",
+   "cuota": 1.8,
+   "justa": 1.82,
+   "ev": -0.012,
+   "fuente": "las otras casas",
+   "edad_h": 3.7
+  },
+  {
+   "local": "Marseille",
+   "visitante": "Levski Sofia",
+   "inicio": "2026-11-26T18:45",
+   "texto": "Marseille marca 2 o más",
+   "cuota": 1.5,
+   "justa": 1.52,
+   "ev": -0.016,
+   "fuente": "las otras casas",
+   "edad_h": 3.7
   }
  ],
  "ultima": {
-  "hora": "2026-11-25T12:38",
+  "hora": "2026-11-25T13:08",
   "revisadas": 0,
   "mejor": null
  },
