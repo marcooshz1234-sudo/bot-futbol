@@ -83,21 +83,10 @@
    "ev": -0.016,
    "fuente": "Pinnacle",
    "edad_h": 0.0
-  },
-  {
-   "local": "Heart Of Midlothian",
-   "visitante": "Monaco",
-   "inicio": "2026-11-26T18:45",
-   "texto": "Monaco marca 2 o más",
-   "cuota": 1.5,
-   "justa": 1.53,
-   "ev": -0.018,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
   }
  ],
  "ultima": {
-  "hora": "2026-11-26T08:27",
+  "hora": "2026-11-26T08:57",
   "revisadas": 0,
   "mejor": null
  },
