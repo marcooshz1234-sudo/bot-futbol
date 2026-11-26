@@ -3767,14 +3767,14 @@
   },
   "2026-11-26": {
     "dia": "2026-11-26",
-    "total": 17,
+    "total": 18,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 17,
+      "pendiente": 18,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 17
+      "sin_resolver": 18
     },
     "combis": [
       {
@@ -3878,13 +3878,19 @@
         "titulo": "Orri Steinn Oskarsson (Real Sociedad): 3+ tiros",
         "estado": "pendiente",
         "cuota": 1.62
+      },
+      {
+        "id": "2026-11-26-pick-seguro-4",
+        "titulo": "Richard Sedlacek (FK Jablonec): 1+ tiros",
+        "estado": "pendiente",
+        "cuota": 1.53
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 81
+      "total": 82
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x30,82 🎰 · 30,82 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · pendiente\n⏳ 🏆 CONFERENCE LEAGUE - GANADORES · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 4,85 · pendiente\n⏳ 🎰 LA DE x15,22 🎰 · 15,22 · pendiente\n⏳ 🫣 LA DE LOS TAPADOS 🫣 · 8,53 · pendiente\n⏳ 🧨 COMBI x43,98 🧨 · 43,98 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚖️ LA COMBI DE LOS EMPATES ⚖️ · 49,21 · pendiente\n⏳ 🎯 COMBI DE TIROS · SC FREIBURG vs TWENTE 🎯 · 10,03 · pendiente\n⏳ Artur Serobyan (Ararat-Armenia): 2+ tiros · 1,50 · pendiente\n⏳ Bournemouth marca 2 o más · 2,00 · pendiente\n⏳ 🤑💸 COMBI POR 34,84 🤑💸 · 34,84 · pendiente\n⏳ Orri Steinn Oskarsson (Real Sociedad): 3+ tiros · 1,62 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 17 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x30,82 🎰 · 30,82 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · pendiente\n⏳ 🏆 CONFERENCE LEAGUE - GANADORES · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 4,85 · pendiente\n⏳ 🎰 LA DE x15,22 🎰 · 15,22 · pendiente\n⏳ 🫣 LA DE LOS TAPADOS 🫣 · 8,53 · pendiente\n⏳ 🧨 COMBI x43,98 🧨 · 43,98 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚖️ LA COMBI DE LOS EMPATES ⚖️ · 49,21 · pendiente\n⏳ 🎯 COMBI DE TIROS · SC FREIBURG vs TWENTE 🎯 · 10,03 · pendiente\n⏳ Artur Serobyan (Ararat-Armenia): 2+ tiros · 1,50 · pendiente\n⏳ Bournemouth marca 2 o más · 2,00 · pendiente\n⏳ 🤑💸 COMBI POR 34,84 🤑💸 · 34,84 · pendiente\n⏳ Orri Steinn Oskarsson (Real Sociedad): 3+ tiros · 1,62 · pendiente\n⏳ Richard Sedlacek (FK Jablonec): 1+ tiros · 1,53 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 18 sin resolver"
   }
 }

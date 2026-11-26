@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 13:24",
+ "actualizado": "2026-11-26 13:34",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4076,
-   "hoy": 56,
+   "seguidores": 4079,
+   "hoy": 59,
    "serie": [
     3248,
     3475,
@@ -24,7 +24,7 @@
     3742,
     3790,
     4020,
-    4076
+    4079
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4667,
- "total_hoy": 62,
+ "total": 4670,
+ "total_hoy": 65,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "14:00",
   "dia": "2026-11-26",
-  "titulo": "Este lo tenemos claro"
+  "titulo": "La de x21,14"
  },
  "ayer": null,
  "escalera": {
@@ -273,7 +273,7 @@
   },
   "2026-11-26": {
    "instagram": 58,
-   "threads": 4076,
+   "threads": 4079,
    "facebook": 1,
    "telegram": 532
   }
