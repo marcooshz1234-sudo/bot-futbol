@@ -202,6 +202,9 @@ STATS_OU = {
     "Home Shots On Target": ("a_puerta", "home"), "Away Shots On Target": ("a_puerta", "away"),
     "Total Shots": ("tiros", "total"),
     "Shots. Home Total": ("tiros", "home"), "Shots. Away Total": ("tiros", "away"),
+    # 26/11: el «Bayern: más de 16,5 remates» (bet365 lo llama así) se quedó sin verde/rojo y paró el resumen
+    "Home Player Shots Total": ("tiros", "home"), "Away Player Shots Total": ("tiros", "away"),
+    "Home Player Shots On Target Total": ("a_puerta", "home"), "Away Player Shots On Target Total": ("a_puerta", "away"),
     "Fouls. Total": ("faltas", "total"),
     "Fouls. Home Total": ("faltas", "home"), "Fouls. Away Total": ("faltas", "away"),
     "Offsides Total": ("fueras_juego", "total"),
@@ -904,7 +907,8 @@ def evaluar_pick(pick, partido):
     """Evalúa una selección estructurada; None significa que faltan datos, no un fallo."""
     partido = corregir_partido(partido)
     mercado = pick.get("mercado")
-    if pick.get("tipo") == "jugador" or pick.get("jugador_id") or mercado in JUG_MERCADOS:
+    equipo_total = str(pick.get("opcion") or "").startswith(("Over ", "Under ")) and mercado in STATS_OU   # 26/11
+    if not equipo_total and (pick.get("tipo") == "jugador" or pick.get("jugador_id") or mercado in JUG_MERCADOS):
         campo = pick.get("campo") or (JUG_MERCADOS.get(mercado) or (None,))[0]
         nombre = pick.get("jugador")
         n = pick.get("n")
