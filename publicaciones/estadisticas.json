@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 15:51",
+ "actualizado": "2026-11-26 16:02",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4100,
-   "hoy": 80,
+   "seguidores": 4104,
+   "hoy": 84,
    "serie": [
     3248,
     3475,
@@ -24,7 +24,7 @@
     3742,
     3790,
     4020,
-    4100
+    4104
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4692,
- "total_hoy": 87,
+ "total": 4696,
+ "total_hoy": 91,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:00",
+  "hora": "16:30",
   "dia": "2026-11-26",
-  "titulo": "La locura de x88,72"
+  "titulo": "Pick de hoy, con datos detrás"
  },
  "ayer": null,
  "escalera": {
@@ -273,7 +273,7 @@
   },
   "2026-11-26": {
    "instagram": 58,
-   "threads": 4100,
+   "threads": 4104,
    "facebook": 1,
    "telegram": 533
   }
