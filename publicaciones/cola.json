@@ -1741,5 +1741,20 @@
       "threads": "ya-publicado",
       "instagram": "ya-publicado"
     }
+  },
+  {
+    "id": "2026-11-26-pick-tip-4",
+    "fecha": "2026-11-26T18:43",
+    "texto": "Este nos encanta para hoy 🔥\n🧠 Esta va con cabeza: analizada\n\n🍀 Más de 2.5 goles @1,50\n\n⚽ NEC – Rennes · hoy 21:00\n\n👨‍💻 Dos equipos irregulares en la Europa League, con más derrotas y empates que victorias seguras: partido abierto.\n👨‍💻 Ninguno de los dos defiende con solidez en sus últimos partidos, lo que favorece que haya goles por ambos lados.\n👨‍💻 El mercado ve muy probable el +2.5 y la cuota 1.50 lo refleja.",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": false,
+    "sel": [],
+    "cuotas": [],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true,
+    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
   }
 ]

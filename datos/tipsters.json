@@ -4675,5 +4675,24 @@
    "cuota_bet365": 1.44,
    "prob_cuota": 0.546
   }
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "telegram",
+  "dia": "2026-11-26",
+  "hora": "21:00",
+  "local": "NEC",
+  "visitante": "Rennes",
+  "texto": "Más de 2.5 goles",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.5,
+  "stake": null,
+  "argumento": [
+   "Dos equipos irregulares en la Europa League, con más derrotas y empates que victorias seguras: partido abierto.",
+   "Ninguno de los dos defiende con solidez en sus últimos partidos, lo que favorece que haya goles por ambos lados.",
+   "El mercado ve muy probable el +2.5 y la cuota 1.50 lo refleja."
+  ],
+  "argumento_propio": true
  }
 ]
