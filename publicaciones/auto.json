@@ -16105,10 +16105,10 @@
     "cuotas": [
       1.91,
       2.0,
-      1.8,
+      1.73,
       1.91,
-      1.83,
-      1.83
+      1.91,
+      1.91
     ],
     "solo_en": [
       "threads"
@@ -16119,7 +16119,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-26T06:32"
   },
   {
     "id": "2026-11-26-loca-th-0900-lista-corners",
