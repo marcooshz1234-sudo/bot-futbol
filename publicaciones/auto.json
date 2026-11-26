@@ -16624,8 +16624,8 @@
       1.62,
       1.67,
       1.83,
-      1.8,
-      1.8,
+      1.91,
+      1.67,
       1.67
     ],
     "solo_en": [
@@ -16637,7 +16637,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-26T17:50"
   },
   {
     "id": "2026-11-26-loca-th-1940-x100",
