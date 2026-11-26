@@ -14100,9 +14100,118 @@
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
    }
-  ]
+  ],
+  "1563294": [
+   {
+    "equipo": 41,
+    "jugador": "K. Schlotterbeck",
+    "tipo": "Missing Fixture",
+    "motivo": "Shoulder Injury"
+   },
+   {
+    "equipo": 41,
+    "jugador": "C. Jander",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 70,
+    "jugador": "A. Jones",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 70,
+    "jugador": "R. Pukstas",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   }
+  ],
+  "1570468": [
+   {
+    "equipo": 539,
+    "jugador": "M. Sanchez",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 539,
+    "jugador": "J. Toljan",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 4665,
+    "jugador": "M. Gueye",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 4665,
+    "jugador": "A. Mantilla",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 4665,
+    "jugador": "A. Martin",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1557485": [
+   {
+    "equipo": 65,
+    "jugador": "N. Dominguez",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 65,
+    "jugador": "N. Savona",
+    "tipo": "Questionable",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 49,
+    "jugador": "J. Gittens",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 49,
+    "jugador": "J. Hato",
+    "tipo": "Missing Fixture",
+    "motivo": "Back Injury"
+   },
+   {
+    "equipo": 49,
+    "jugador": "R. James",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 49,
+    "jugador": "Joao Pedro",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 49,
+    "jugador": "M. Lacroix",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 49,
+    "jugador": "M. Caicedo",
+    "tipo": "Questionable",
+    "motivo": "Back Injury"
+   }
+  ],
+  "1575551": []
  },
- "ultima": "2026-11-26T14:46:14.242480+01:00",
+ "ultima": "2026-11-26T15:16:19.083236+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
