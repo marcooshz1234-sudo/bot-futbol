@@ -13881,9 +13881,47 @@
   "1551384": [],
   "1551387": [],
   "1576542": [],
-  "1565316": []
+  "1565316": [],
+  "1552238": [
+   {
+    "equipo": 202,
+    "jugador": "T. Hernes",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 202,
+    "jugador": "M. Jeng",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 195,
+    "jugador": "T. Didillon Hodl",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 195,
+    "jugador": "J. Hoogma",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 195,
+    "jugador": "A. Lachkar",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 195,
+    "jugador": "N. Tjoe a On",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
+   }
+  ]
  },
- "ultima": "2026-11-26T13:44:14.696172+01:00",
+ "ultima": "2026-11-26T14:14:35.599001+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
