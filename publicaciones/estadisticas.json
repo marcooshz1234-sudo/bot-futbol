@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 16:50",
+ "actualizado": "2026-11-26 17:01",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4119,
-   "hoy": 99,
+   "seguidores": 4122,
+   "hoy": 102,
    "serie": [
     3248,
     3475,
@@ -24,7 +24,7 @@
     3742,
     3790,
     4020,
-    4119
+    4122
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4713,
- "total_hoy": 108,
+ "total": 4716,
+ "total_hoy": 111,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "17:00",
+  "hora": "17:20",
   "dia": "2026-11-26",
-  "titulo": "Combi sc freiburg – twente"
+  "titulo": "Combi sparta praha – az alkmaar"
  },
  "ayer": null,
  "escalera": {
@@ -273,19 +273,19 @@
   },
   "2026-11-26": {
    "instagram": 58,
-   "threads": 4119,
+   "threads": 4122,
    "facebook": 1,
    "telegram": 535
   }
  },
  "tipos_instagram": {
-  "Cuota 3 (reel)": {
-   "posts": 3,
+  "Otros (reel)": {
+   "posts": 46,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 45,
+  "Cuota 3 (reel)": {
+   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
