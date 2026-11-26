@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-26",
- "generado": "2026-11-26T20:37+01:00",
+ "generado": "2026-11-26T21:07+01:00",
  "rango": [
   "2026-11-26",
   "2026-11-29"
@@ -599,40 +599,6 @@
     }
    ],
    "cuota": 4.68
-  },
-  {
-   "equipo": "Venezia",
-   "liga": "Serie A",
-   "partido": "Venezia–Bologna",
-   "hora": "2026-11-27T20:45",
-   "logo": "https://media.api-sports.io/football/teams/517.png",
-   "patas": [
-    {
-     "sel": "1550216|Player Fouls Committed|Kike Perez - 2",
-     "texto": "Kike Perez: comete 2+ faltas",
-     "cuota": 1.8,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 2,14 por 90' (2-2-2-2-2-2)",
-     "nota": 1.112,
-     "equipo": "Venezia",
-     "lado": "L",
-     "partido": "Venezia–Bologna",
-     "hora": "2026-11-27T20:45"
-    },
-    {
-     "sel": "1550216|Home Player Shots|Antoine Hainaut - 1",
-     "texto": "Antoine Hainaut: 1+ remate",
-     "cuota": 1.8,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,00 por 90' (1-1-1-1-2-0)",
-     "nota": 0.96,
-     "equipo": "Venezia",
-     "lado": "L",
-     "partido": "Venezia–Bologna",
-     "hora": "2026-11-27T20:45"
-    }
-   ],
-   "cuota": 3.24
   },
   {
    "equipo": "Frosinone",
