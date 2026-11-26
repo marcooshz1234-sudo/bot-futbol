@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-26",
- "generado": "2026-11-26T11:37+01:00",
+ "generado": "2026-11-26T12:09+01:00",
  "rango": [
   "2026-11-26",
   "2026-11-29"
@@ -36,28 +36,18 @@
      "logo_v": "https://media.api-sports.io/football/teams/35.png"
     },
     {
-     "sel": "1636298|Total - Away|Over 0.5",
-     "texto": "Levski Sofia marca",
-     "cuota": 1.67,
-     "p": 0.797,
-     "dato": "marca 1,2 por partido y el rival encaja 1,7",
-     "nota": 0.9276437814091534,
-     "partido": "Marseille–Levski Sofia",
+     "sel": "1636255|Away Player Shots|Miguel Gutierrez - 1",
+     "texto": "Miguel Gutierrez: 1+ remate",
+     "cuota": 1.44,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 0,83 por 90' (1-1-1-1-1-0)",
+     "nota": 0.864,
+     "equipo": "Bayer Leverkusen",
+     "lado": "V",
+     "partido": "Dinamo Zagreb–Bayer Leverkusen",
      "hora": "2026-11-26T18:45",
-     "logo_l": "https://media.api-sports.io/football/teams/81.png",
-     "logo_v": "https://media.api-sports.io/football/teams/646.png"
-    },
-    {
-     "sel": "1636334|Total - Away|Over 0.5",
-     "texto": "Ararat-Armenia marca",
-     "cuota": 1.8,
-     "p": 0.772,
-     "dato": "marca 1,2 por partido y el rival encaja 1,3",
-     "nota": 0.9063204429828194,
-     "partido": "Red Bull Salzburg–Ararat-Armenia",
-     "hora": "2026-11-26T18:45",
-     "logo_l": "https://media.api-sports.io/football/teams/571.png",
-     "logo_v": "https://media.api-sports.io/football/teams/3683.png"
+     "logo_l": "https://media.api-sports.io/football/teams/620.png",
+     "logo_v": "https://media.api-sports.io/football/teams/168.png"
     },
     {
      "sel": "1636349|Home Corners Over/Under|Over 3.5",
@@ -96,10 +86,24 @@
      "hora": "2026-11-26T21:00",
      "logo_l": "https://media.api-sports.io/football/teams/52.png",
      "logo_v": "https://media.api-sports.io/football/teams/548.png"
+    },
+    {
+     "sel": "1636343|Player Fouls Committed|Kevin Danso - 1",
+     "texto": "Kevin Danso: comete 1+ falta",
+     "cuota": 1.44,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (1-0-2-1-2-1)",
+     "nota": 0.864,
+     "equipo": "Sunderland",
+     "lado": "L",
+     "partido": "Sunderland–Jagiellonia",
+     "hora": "2026-11-26T21:00",
+     "logo_l": "https://media.api-sports.io/football/teams/746.png",
+     "logo_v": "https://media.api-sports.io/football/teams/336.png"
     }
    ],
-   "cuota": 29.79,
-   "media": 0.9785600095339758,
+   "cuota": 20.55,
+   "media": 0.9634222631922654,
    "dia": "2026-11-26"
   },
   {
@@ -1541,19 +1545,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/168.png"
     },
     {
-     "sel": "1636298|Total - Away|Over 0.5",
-     "texto": "Levski Sofia marca",
-     "cuota": 1.67,
-     "p": 0.797,
-     "dato": "marca 1,2 por partido y el rival encaja 1,7",
-     "nota": 0.9276437814091534,
-     "partido": "Marseille–Levski Sofia",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/81.png",
-     "logo_v": "https://media.api-sports.io/football/teams/646.png"
-    },
-    {
      "sel": "1636315|Goals Over/Under|Over 2.5",
      "texto": "Más de 2,5 goles",
      "cuota": 1.44,
@@ -1565,6 +1556,21 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/567.png",
      "logo_v": "https://media.api-sports.io/football/teams/211.png"
+    },
+    {
+     "sel": "1636431|Home Player Shots|Richard Sedlacek - 1",
+     "texto": "Richard Sedlacek: 1+ remate",
+     "cuota": 1.53,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 0,78 por 90' (1-0-1-1-1)",
+     "nota": 0.8429642857142858,
+     "equipo": "FK Jablonec",
+     "lado": "L",
+     "partido": "FK Jablonec–FC Lugano",
+     "hora": "2026-11-26T18:45",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/1122.png",
+     "logo_v": "https://media.api-sports.io/football/teams/606.png"
     },
     {
      "sel": "1636428|Home Corners Over/Under|Over 2.5",
@@ -1634,8 +1640,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/336.png"
     }
    ],
-   "cuota": 493.19,
-   "prob": 0.123
+   "cuota": 451.85,
+   "prob": 0.118
   },
   {
    "patas": [
@@ -2095,19 +2101,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/632.png"
     },
     {
-     "sel": "1636298|Total - Away|Over 0.5",
-     "texto": "Levski Sofia marca",
-     "cuota": 1.67,
-     "p": 0.797,
-     "dato": "marca 1,2 por partido y el rival encaja 1,7",
-     "nota": 0.9276437814091534,
-     "partido": "Marseille–Levski Sofia",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/81.png",
-     "logo_v": "https://media.api-sports.io/football/teams/646.png"
-    },
-    {
      "sel": "1636255|Goals Over/Under|Over 2.5",
      "texto": "Más de 2,5 goles",
      "cuota": 1.44,
@@ -2119,34 +2112,6 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/620.png",
      "logo_v": "https://media.api-sports.io/football/teams/168.png"
-    },
-    {
-     "sel": "1636334|Total - Away|Over 0.5",
-     "texto": "Ararat-Armenia marca",
-     "cuota": 1.8,
-     "p": 0.772,
-     "dato": "marca 1,2 por partido y el rival encaja 1,3",
-     "nota": 0.9063204429828194,
-     "partido": "Red Bull Salzburg–Ararat-Armenia",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/571.png",
-     "logo_v": "https://media.api-sports.io/football/teams/3683.png"
-    },
-    {
-     "sel": "1636431|Home Player Shots|Richard Sedlacek - 1",
-     "texto": "Richard Sedlacek: 1+ remate",
-     "cuota": 1.53,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 0,78 por 90' (1-0-1-1-1)",
-     "nota": 0.8429642857142858,
-     "equipo": "FK Jablonec",
-     "lado": "L",
-     "partido": "FK Jablonec–FC Lugano",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/1122.png",
-     "logo_v": "https://media.api-sports.io/football/teams/606.png"
     },
     {
      "sel": "1636386|Home Corners Over/Under|Over 3.5",
@@ -2229,10 +2194,49 @@
      "liga": "Conference League",
      "logo_l": "https://media.api-sports.io/football/teams/608.png",
      "logo_v": "https://media.api-sports.io/football/teams/735.png"
+    },
+    {
+     "sel": "1636428|Corners Over Under|Over 8.5",
+     "texto": "Más de 8,5 córners",
+     "cuota": 1.67,
+     "p": 0.75,
+     "dato": "10,8 córners de media en los partidos de los dos",
+     "nota": 0.8418300010141287,
+     "partido": "Inter Club d'Escaldes–FC Copenhagen",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/3342.png",
+     "logo_v": "https://media.api-sports.io/football/teams/400.png"
+    },
+    {
+     "sel": "1636457|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.67,
+     "p": 0.747,
+     "dato": "más de 2,5 goles en el 75% y el 100% de sus partidos",
+     "nota": 0.8358301841905904,
+     "partido": "FC Nordsjaelland–Panathinaikos",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/398.png",
+     "logo_v": "https://media.api-sports.io/football/teams/617.png"
+    },
+    {
+     "sel": "1636343|Away Corners Over/Under|Over 2.5",
+     "texto": "Jagiellonia: más de 2,5 córners",
+     "cuota": 1.8,
+     "p": 0.747,
+     "dato": "Jagiellonia saca 3,0 córners y el rival concede 4,8",
+     "nota": 0.8590623050034107,
+     "partido": "Sunderland–Jagiellonia",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/746.png",
+     "logo_v": "https://media.api-sports.io/football/teams/336.png"
     }
    ],
-   "cuota": 458.53,
-   "prob": 0.055
+   "cuota": 500.48,
+   "prob": 0.049
   },
   {
    "clave": "todo-2026-11-26-3",
@@ -2295,30 +2299,30 @@
      "logo_v": "https://media.api-sports.io/football/teams/632.png"
     },
     {
-     "sel": "1636298|Total - Away|Over 0.5",
-     "texto": "Levski Sofia marca",
-     "cuota": 1.67,
-     "p": 0.797,
-     "dato": "marca 1,2 por partido y el rival encaja 1,7",
-     "nota": 0.9276437814091534,
-     "partido": "Marseille–Levski Sofia",
+     "sel": "1636329|Corners 1x2|Home",
+     "texto": "Union St. Gilloise saca más córners",
+     "cuota": 1.4,
+     "p": 0.736,
+     "dato": "4,8 córners de Union St. Gilloise contra 2,6 del rival",
+     "nota": 0.7308401549296453,
+     "partido": "Union St. Gilloise–Lech Poznan",
      "hora": "2026-11-26T18:45",
      "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/81.png",
-     "logo_v": "https://media.api-sports.io/football/teams/646.png"
+     "logo_l": "https://media.api-sports.io/football/teams/1393.png",
+     "logo_v": "https://media.api-sports.io/football/teams/347.png"
     },
     {
-     "sel": "1636334|Total - Away|Over 0.5",
-     "texto": "Ararat-Armenia marca",
-     "cuota": 1.8,
-     "p": 0.772,
-     "dato": "marca 1,2 por partido y el rival encaja 1,3",
-     "nota": 0.9063204429828194,
-     "partido": "Red Bull Salzburg–Ararat-Armenia",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/571.png",
-     "logo_v": "https://media.api-sports.io/football/teams/3683.png"
+     "sel": "1636428|Home Corners Over/Under|Over 2.5",
+     "texto": "Inter Club d'Escaldes: más de 2,5 córners",
+     "cuota": 1.73,
+     "p": 0.946,
+     "dato": "Inter Club d'Escaldes saca 7,2 córners y el rival concede 5,2",
+     "nota": 1.2190032554286094,
+     "partido": "Inter Club d'Escaldes–FC Copenhagen",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/3342.png",
+     "logo_v": "https://media.api-sports.io/football/teams/400.png"
     },
     {
      "sel": "1636386|Total - Home|Over 0.5",
@@ -2332,6 +2336,21 @@
      "liga": "Conference League",
      "logo_l": "https://media.api-sports.io/football/teams/3364.png",
      "logo_v": "https://media.api-sports.io/football/teams/499.png"
+    },
+    {
+     "sel": "1636343|Player Fouls Committed|Kevin Danso - 1",
+     "texto": "Kevin Danso: comete 1+ falta",
+     "cuota": 1.44,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (1-0-2-1-2-1)",
+     "nota": 0.864,
+     "equipo": "Sunderland",
+     "lado": "L",
+     "partido": "Sunderland–Jagiellonia",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/746.png",
+     "logo_v": "https://media.api-sports.io/football/teams/336.png"
     },
     {
      "sel": "1636349|Goals Over/Under|Over 2.5",
@@ -2375,19 +2394,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/735.png"
     },
     {
-     "sel": "1636428|Corners Over Under|Over 8.5",
-     "texto": "Más de 8,5 córners",
-     "cuota": 1.67,
-     "p": 0.75,
-     "dato": "10,8 córners de media en los partidos de los dos",
-     "nota": 0.8418300010141287,
-     "partido": "Inter Club d'Escaldes–FC Copenhagen",
-     "hora": "2026-11-26T21:00",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/3342.png",
-     "logo_v": "https://media.api-sports.io/football/teams/400.png"
-    },
-    {
      "sel": "1636410|Goals Over/Under|Over 2.5",
      "texto": "Más de 2,5 goles",
      "cuota": 1.53,
@@ -2401,34 +2407,34 @@
      "logo_v": "https://media.api-sports.io/football/teams/415.png"
     },
     {
-     "sel": "1636457|Goals Over/Under|Over 2.5",
-     "texto": "Más de 2,5 goles",
-     "cuota": 1.67,
-     "p": 0.747,
-     "dato": "más de 2,5 goles en el 75% y el 100% de sus partidos",
-     "nota": 0.8358301841905904,
-     "partido": "FC Nordsjaelland–Panathinaikos",
-     "hora": "2026-11-26T21:00",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/398.png",
-     "logo_v": "https://media.api-sports.io/football/teams/617.png"
-    },
-    {
-     "sel": "1636343|Away Corners Over/Under|Over 2.5",
-     "texto": "Jagiellonia: más de 2,5 córners",
-     "cuota": 1.8,
-     "p": 0.747,
-     "dato": "Jagiellonia saca 3,0 córners y el rival concede 4,8",
-     "nota": 0.8590623050034107,
-     "partido": "Sunderland–Jagiellonia",
+     "sel": "1636301|Home Corners Over/Under|Over 4.5",
+     "texto": "NEC Nijmegen: más de 4,5 córners",
+     "cuota": 1.73,
+     "p": 0.741,
+     "dato": "NEC Nijmegen saca 6,5 córners y el rival concede 5,9",
+     "nota": 0.8356342069960049,
+     "partido": "NEC Nijmegen–Rennes",
      "hora": "2026-11-26T21:00",
      "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/746.png",
-     "logo_v": "https://media.api-sports.io/football/teams/336.png"
+     "logo_l": "https://media.api-sports.io/football/teams/413.png",
+     "logo_v": "https://media.api-sports.io/football/teams/94.png"
+    },
+    {
+     "sel": "1636412|Home Corners Over/Under|Over 4.5",
+     "texto": "Gent: más de 4,5 córners",
+     "cuota": 1.73,
+     "p": 0.735,
+     "dato": "Gent saca 8,3 córners y el rival concede 4,0",
+     "nota": 0.8238793354553463,
+     "partido": "Gent–FK Crvena Zvezda",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/631.png",
+     "logo_v": "https://media.api-sports.io/football/teams/598.png"
     }
    ],
-   "cuota": 753.4,
-   "prob": 0.049
+   "cuota": 521.15,
+   "prob": 0.057
   },
   {
    "clave": "todo-2026-11-28",
