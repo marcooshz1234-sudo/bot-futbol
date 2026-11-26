@@ -1606,10 +1606,10 @@
     "redes": {
       "instagram_reel": null,
       "instagram_story": null,
-      "facebook": null
+      "facebook": null,
+      "threads": "17987113730900988"
     },
     "errores_redes": {
-      "threads": "400: An unknown error occurred",
       "instagram": "contenedor ERROR: ERROR"
     }
   }
