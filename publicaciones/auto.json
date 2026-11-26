@@ -16290,9 +16290,9 @@
       1.62,
       1.57,
       2.0,
-      1.53,
-      1.57,
-      1.73
+      1.5,
+      1.4,
+      1.67
     ],
     "solo_en": [
       "threads"
@@ -16303,7 +16303,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-26T12:33"
   },
   {
     "id": "2026-11-26-loca-th-1420-tapados",
