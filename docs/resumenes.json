@@ -3767,14 +3767,14 @@
   },
   "2026-11-26": {
     "dia": "2026-11-26",
-    "total": 5,
+    "total": 6,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 5,
+      "pendiente": 6,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 5
+      "sin_resolver": 6
     },
     "combis": [
       {
@@ -3806,13 +3806,19 @@
         "titulo": "🏆 PARTIDOS DE HOY - GANADORES",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-26-loca-th-0300-lista-ambos",
+        "titulo": "⚽ AMBOS MARCAN HOY ⚽",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 39
+      "total": 47
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x30,82 🎰 · 30,82 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · pendiente\n⏳ 🏆 CONFERENCE LEAGUE - GANADORES · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x30,82 🎰 · 30,82 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · pendiente\n⏳ 🏆 CONFERENCE LEAGUE - GANADORES · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 6 sin resolver"
   }
 }
