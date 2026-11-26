@@ -3564,11 +3564,11 @@
     "total": 31,
     "cuentas": {
       "verde": 7,
-      "rojo": 15,
+      "rojo": 16,
       "pendiente": 8,
-      "sin_datos": 1,
+      "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 9
+      "sin_resolver": 8
     },
     "combis": [
       {
@@ -3688,7 +3688,7 @@
       {
         "id": "2026-11-25-pick-claude-4",
         "titulo": "Bayern: más de 16,5 remates",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 1.73
       },
       {
@@ -3760,10 +3760,10 @@
     ],
     "picks": {
       "verde": 28,
-      "rojo": 25,
+      "rojo": 26,
       "total": 83
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 7 DE 22 EN VERDE 📊\n\n❌ 🏆 CHAMPIONS LEAGUE - GANADORES\n❌ 🧨 COMBI POR 105 🧨\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n✅ ⚔️ EL DUELO DE TIROS ⚔️ · 4,49\n❌ 🤑💸 COMBI x41,13 🤑💸 · 41,13\n❌ ⏰ TODO A LAS 21:00 ⏰ · 30,53\n❌ 🤑💸 COMBI x406 🤑💸\n❌ 💶 RETO: DE 1€ A 584€ 💶\n❌ 🎯 COMBI DE TIROS · INTER vs VFB STUTTGART 🎯 · 4,99\n⏳ 🎰 LA CENTENARIA x95,99 🎰 · 95,99 · pendiente\n❌ 🕘 TODO A LAS 21:00 🕘 · 6,96\n✅ Gana el Inter · 1,40\n❌ 🤑💸 COMBI x33,88 🤑💸 · 33,88\n❌ 💰🚀 COMBI x608 💰🚀\n❌ 🤑💸 LA MILLONARIA x462 🤑💸\n✅ Iván Fresneda (Sporting): comete 1+ falta · 1,40\n✅ 🪜 Reto escalera · Día 1/7\n❌ Otro que nos gusta 🔥 · 1,44\n✅ Vamos con la combi del miércoles familia 🔥\n❔ Bayern: más de 16,5 remates · 1,73 · faltan datos\n⏳ Dybala (Roma): 2+ remates · 1,44 · pendiente\n❌ Liverpool saca más córners · 1,57\n❌ Otro que nos gusta mucho 🍀 · 1,67\n✅ Pick para la noche 👇 · 1,40\n✅ Hoy hay partidazo: Sporting CP 🆚 Manchester United ⭐⭐\n⏳ 🤑 LA CENTENARIA x31,36 🤑 · 31,36 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 2,86 · pendiente\n⏳ 🤑💸 LA DE x34,50 🤑💸 · 34,50 · pendiente\n⏳ 💥 COMBI CRYSTAL PALACE – REAL SOCIEDAD 💥 · 7,25 · pendiente\n\n✅ 7 acertadas · ❌ 15 falladas · ⏳ 9 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 7 DE 23 EN VERDE 📊\n\n❌ 🏆 CHAMPIONS LEAGUE - GANADORES\n❌ 🧨 COMBI POR 105 🧨\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n✅ ⚔️ EL DUELO DE TIROS ⚔️ · 4,49\n❌ 🤑💸 COMBI x41,13 🤑💸 · 41,13\n❌ ⏰ TODO A LAS 21:00 ⏰ · 30,53\n❌ 🤑💸 COMBI x406 🤑💸\n❌ 💶 RETO: DE 1€ A 584€ 💶\n❌ 🎯 COMBI DE TIROS · INTER vs VFB STUTTGART 🎯 · 4,99\n⏳ 🎰 LA CENTENARIA x95,99 🎰 · 95,99 · pendiente\n❌ 🕘 TODO A LAS 21:00 🕘 · 6,96\n✅ Gana el Inter · 1,40\n❌ 🤑💸 COMBI x33,88 🤑💸 · 33,88\n❌ 💰🚀 COMBI x608 💰🚀\n❌ 🤑💸 LA MILLONARIA x462 🤑💸\n✅ Iván Fresneda (Sporting): comete 1+ falta · 1,40\n✅ 🪜 Reto escalera · Día 1/7\n❌ Otro que nos gusta 🔥 · 1,44\n✅ Vamos con la combi del miércoles familia 🔥\n❌ Bayern: más de 16,5 remates · 1,73\n⏳ Dybala (Roma): 2+ remates · 1,44 · pendiente\n❌ Liverpool saca más córners · 1,57\n❌ Otro que nos gusta mucho 🍀 · 1,67\n✅ Pick para la noche 👇 · 1,40\n✅ Hoy hay partidazo: Sporting CP 🆚 Manchester United ⭐⭐\n⏳ 🤑 LA CENTENARIA x31,36 🤑 · 31,36 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 2,86 · pendiente\n⏳ 🤑💸 LA DE x34,50 🤑💸 · 34,50 · pendiente\n⏳ 💥 COMBI CRYSTAL PALACE – REAL SOCIEDAD 💥 · 7,25 · pendiente\n\n✅ 7 acertadas · ❌ 16 falladas · ⏳ 8 sin resolver"
   },
   "2026-11-26": {
     "dia": "2026-11-26",
