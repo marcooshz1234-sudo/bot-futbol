@@ -12542,9 +12542,27 @@
    },
    {
     "equipo": 646,
+    "jugador": "A. Mitkov",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 646,
+    "jugador": "A. Raychev",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 646,
     "jugador": "M. Sangare",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
+   },
+   {
+    "equipo": 646,
+    "jugador": "S. Araujo",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
    }
   ],
   "1636315": [
@@ -12559,12 +12577,36 @@
     "jugador": "M. Tvrdon",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
+   },
+   {
+    "equipo": 211,
+    "jugador": "F. Aursnes",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 211,
+    "jugador": "L. Barreiro",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 211,
+    "jugador": "G. Prestianni",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
    }
   ],
   "1636395": [],
   "1636460": [],
   "1636438": [],
   "1636244": [
+   {
+    "equipo": 538,
+    "jugador": "H. Gonzalez",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
    {
     "equipo": 538,
     "jugador": "B. Iglesias",
@@ -12603,13 +12645,13 @@
    },
    {
     "equipo": 35,
-    "jugador": "D. Jebbison",
+    "jugador": "B. Gannon-Doak",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
    },
    {
     "equipo": 35,
-    "jugador": "E. J. Kroupi",
+    "jugador": "D. Jebbison",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
    },
@@ -12653,6 +12695,12 @@
     "motivo": "Off the roster"
    },
    {
+    "equipo": 549,
+    "jugador": "E. Agbadou",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
     "equipo": 563,
     "jugador": "D. Biton",
     "tipo": "Missing Fixture",
@@ -12666,6 +12714,18 @@
    },
    {
     "equipo": 563,
+    "jugador": "E. Peretz",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 563,
+    "jugador": "I. Rotman",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 563,
     "jugador": "Y. Stoyanov",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
@@ -12674,6 +12734,12 @@
   "1636393": [],
   "1636426": [],
   "1636307": [
+   {
+    "equipo": 553,
+    "jugador": "L. Bailey",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
    {
     "equipo": 553,
     "jugador": "Chiquinho",
@@ -12696,7 +12762,7 @@
     "equipo": 553,
     "jugador": "S. Hezze",
     "tipo": "Missing Fixture",
-    "motivo": "Inactive"
+    "motivo": "Knee Injury"
    },
    {
     "equipo": 553,
@@ -12799,12 +12865,6 @@
   "1636255": [
    {
     "equipo": 620,
-    "jugador": "S. McKenna",
-    "tipo": "Missing Fixture",
-    "motivo": "Inactive"
-   },
-   {
-    "equipo": 620,
     "jugador": "R. Mudrazija",
     "tipo": "Missing Fixture",
     "motivo": "Inactive"
@@ -12838,6 +12898,12 @@
     "jugador": "F. Topic",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
+   },
+   {
+    "equipo": 620,
+    "jugador": "S. McKenna",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
    },
    {
     "equipo": 168,
@@ -12923,8 +12989,20 @@
    },
    {
     "equipo": 571,
+    "jugador": "L. Morgalla",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 571,
+    "jugador": "D. Redzic",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 571,
     "jugador": "N. Veratschnig",
-    "tipo": "Missing Fixture",
+    "tipo": "Questionable",
     "motivo": "Knee Injury"
    },
    {
@@ -13003,8 +13081,14 @@
    },
    {
     "equipo": 347,
-    "jugador": "A. Sayyadmanesh",
+    "jugador": "P. Walemark",
     "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 347,
+    "jugador": "A. Sayyadmanesh",
+    "tipo": "Questionable",
     "motivo": "Groin Injury"
    }
   ],
@@ -13096,7 +13180,19 @@
    },
    {
     "equipo": 336,
+    "jugador": "O. Sow",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 336,
     "jugador": "Y. Sylla",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 336,
+    "jugador": "N. Wojtuszek",
     "tipo": "Questionable",
     "motivo": "Inactive"
    }
@@ -13239,6 +13335,12 @@
    },
    {
     "equipo": 637,
+    "jugador": "S. Jatta",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 637,
     "jugador": "P. Koller",
     "tipo": "Questionable",
     "motivo": "Inactive"
@@ -13363,14 +13465,38 @@
    },
    {
     "equipo": 413,
+    "jugador": "P. Sandler",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 413,
     "jugador": "A. Tahaui",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
    },
    {
     "equipo": 413,
+    "jugador": "D. Geiger",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 413,
+    "jugador": "Y. Moslih",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 413,
     "jugador": "P. Schuurs",
     "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 94,
+    "jugador": "M. Camara",
+    "tipo": "Missing Fixture",
     "motivo": "Injury"
    },
    {
@@ -13381,15 +13507,15 @@
    },
    {
     "equipo": 94,
-    "jugador": "A. Sishuba",
+    "jugador": "V. Rongier",
     "tipo": "Missing Fixture",
-    "motivo": "Off the roster"
+    "motivo": "Thigh Injury"
    },
    {
     "equipo": 94,
-    "jugador": "V. Rongier",
-    "tipo": "Questionable",
-    "motivo": "Thigh Injury"
+    "jugador": "A. Sishuba",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
    }
   ],
   "1636261": [
@@ -13452,6 +13578,12 @@
     "jugador": "Z. L. Sega",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
+   },
+   {
+    "equipo": 4360,
+    "jugador": "P. Sirvys",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
    },
    {
     "equipo": 4360,
@@ -13562,6 +13694,12 @@
   "1636294": [
    {
     "equipo": 80,
+    "jugador": "M. Bidstrup",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 80,
     "jugador": "L. Diarra",
     "tipo": "Missing Fixture",
     "motivo": "Injury"
@@ -13589,12 +13727,6 @@
     "jugador": "P. Sulc",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 80,
-    "jugador": "M. Bidstrup",
-    "tipo": "Questionable",
-    "motivo": "Foot Injury"
    },
    {
     "equipo": 321,
@@ -13625,13 +13757,13 @@
    },
    {
     "equipo": 1124,
-    "jugador": "K. Kodro",
+    "jugador": "B. Gonzalez",
     "tipo": "Missing Fixture",
-    "motivo": "Injury"
+    "motivo": "Inactive"
    },
    {
     "equipo": 1124,
-    "jugador": "K. Krizmanic",
+    "jugador": "K. Kodro",
     "tipo": "Missing Fixture",
     "motivo": "Injury"
    },
@@ -13648,6 +13780,18 @@
     "motivo": "Off the roster"
    },
    {
+    "equipo": 1124,
+    "jugador": "A. Poungouras",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 554,
+    "jugador": "I. Camara",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
     "equipo": 554,
     "jugador": "L. Hey",
     "tipo": "Missing Fixture",
@@ -13658,12 +13802,6 @@
     "jugador": "I. Koutsoupias",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
-   },
-   {
-    "equipo": 554,
-    "jugador": "I. Camara",
-    "tipo": "Questionable",
-    "motivo": "Foot Injury"
    }
   ],
   "1636420": [],
@@ -13674,14 +13812,32 @@
   "1636349": [
    {
     "equipo": 4799,
+    "jugador": "M. Abubakari",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 4799,
     "jugador": "J. Aguirre",
     "tipo": "Missing Fixture",
     "motivo": "Red Card"
    },
    {
     "equipo": 4799,
-    "jugador": "A. Baradji",
+    "jugador": "N. Jatta",
     "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 4799,
+    "jugador": "L. Paes Souza",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 4799,
+    "jugador": "A. Baradji",
+    "tipo": "Questionable",
     "motivo": "Injury"
    },
    {
@@ -13722,7 +13878,7 @@
    }
   ]
  },
- "ultima": "2026-11-26T06:42:29.382737+01:00",
+ "ultima": "2026-11-26T07:13:32.706073+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
