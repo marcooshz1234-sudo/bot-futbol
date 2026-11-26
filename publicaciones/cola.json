@@ -1950,7 +1950,14 @@
     "resultado": "verde",
     "verde_de": "2026-11-26-pick-seguro-6",
     "enviado": "2026-11-26T23:15",
-    "mensaje_id": 647
+    "mensaje_id": 647,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-26-verde-auto-2026-11-26-loca-th-1700-escudos",
@@ -1979,6 +1986,13 @@
       "telegram"
     ],
     "enviado": "2026-11-26T23:17",
-    "mensaje_id": 648
+    "mensaje_id": 648,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
