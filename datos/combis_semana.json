@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-26",
- "generado": "2026-11-26T13:12+01:00",
+ "generado": "2026-11-26T13:44+01:00",
  "rango": [
   "2026-11-26",
   "2026-11-29"
@@ -160,20 +160,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/10124.png"
     },
     {
-     "sel": "1636431|Home Player Shots|Richard Sedlacek - 1",
-     "texto": "Richard Sedlacek: 1+ remate",
-     "cuota": 1.53,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 0,78 por 90' (1-0-1-1-1)",
-     "nota": 0.8429642857142858,
-     "equipo": "FK Jablonec",
-     "lado": "L",
-     "partido": "FK Jablonec–FC Lugano",
-     "hora": "2026-11-26T18:45",
-     "logo_l": "https://media.api-sports.io/football/teams/1122.png",
-     "logo_v": "https://media.api-sports.io/football/teams/606.png"
-    },
-    {
      "sel": "1636428|Home Corners Over/Under|Over 2.5",
      "texto": "Inter Club d'Escaldes: más de 2,5 córners",
      "cuota": 1.73,
@@ -196,10 +182,22 @@
      "hora": "2026-11-26T21:00",
      "logo_l": "https://media.api-sports.io/football/teams/3364.png",
      "logo_v": "https://media.api-sports.io/football/teams/499.png"
+    },
+    {
+     "sel": "1636420|To Win Either Half|Home",
+     "texto": "HNK Hajduk Split gana alguna de las dos partes",
+     "cuota": 1.62,
+     "p": 0.755,
+     "dato": "HNK Hajduk Split: VEVVV en sus últimos 5",
+     "nota": 0.8417805913037967,
+     "partido": "HNK Hajduk Split–St. Truiden",
+     "hora": "2026-11-26T21:00",
+     "logo_l": "https://media.api-sports.io/football/teams/608.png",
+     "logo_v": "https://media.api-sports.io/football/teams/735.png"
     }
    ],
-   "cuota": 27.48,
-   "media": 1.066873013136431,
+   "cuota": 29.1,
+   "media": 1.0667039139349326,
    "dia": "2026-11-26"
   },
   {
@@ -1558,21 +1556,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/211.png"
     },
     {
-     "sel": "1636431|Home Player Shots|Richard Sedlacek - 1",
-     "texto": "Richard Sedlacek: 1+ remate",
-     "cuota": 1.53,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 0,78 por 90' (1-0-1-1-1)",
-     "nota": 0.8429642857142858,
-     "equipo": "FK Jablonec",
-     "lado": "L",
-     "partido": "FK Jablonec–FC Lugano",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/1122.png",
-     "logo_v": "https://media.api-sports.io/football/teams/606.png"
-    },
-    {
      "sel": "1636428|Home Corners Over/Under|Over 2.5",
      "texto": "Inter Club d'Escaldes: más de 2,5 córners",
      "cuota": 1.73,
@@ -1638,9 +1621,24 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/746.png",
      "logo_v": "https://media.api-sports.io/football/teams/336.png"
+    },
+    {
+     "sel": "1636410|Home Player Shots|Lukas Kubler - 1",
+     "texto": "Lukas Kubler: 1+ remate",
+     "cuota": 1.4,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,50 por 90' (1-0-2-3-1)",
+     "nota": 0.7792857142857144,
+     "equipo": "SC Freiburg",
+     "lado": "L",
+     "partido": "SC Freiburg–Twente",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/160.png",
+     "logo_v": "https://media.api-sports.io/football/teams/415.png"
     }
    ],
-   "cuota": 451.85,
+   "cuota": 413.45,
    "prob": 0.118
   },
   {
@@ -1796,21 +1794,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/211.png"
     },
     {
-     "sel": "1636431|Home Player Shots|Richard Sedlacek - 1",
-     "texto": "Richard Sedlacek: 1+ remate",
-     "cuota": 1.53,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 0,78 por 90' (1-0-1-1-1)",
-     "nota": 0.8429642857142858,
-     "equipo": "FK Jablonec",
-     "lado": "L",
-     "partido": "FK Jablonec–FC Lugano",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/1122.png",
-     "logo_v": "https://media.api-sports.io/football/teams/606.png"
-    },
-    {
      "sel": "1636329|Corners 1x2|Home",
      "texto": "Union St. Gilloise saca más córners",
      "cuota": 1.4,
@@ -1903,10 +1886,24 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/413.png",
      "logo_v": "https://media.api-sports.io/football/teams/94.png"
+    },
+    {
+     "sel": "1636402|Both Teams Score|Yes",
+     "texto": "Ambos marcan (CSKA Sofia–Trabzonspor)",
+     "cuota": 1.53,
+     "p": 0.629,
+     "dato": "marcan los dos en el 60% y el 50% de sus partidos",
+     "nota": 0.629,
+     "partido": "CSKA Sofia–Trabzonspor",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/853.png",
+     "logo_v": "https://media.api-sports.io/football/teams/998.png",
+     "solo_todo": true
     }
    ],
    "cuota": 30.57,
-   "prob": 0.06,
+   "prob": 0.049,
    "clave": "dia-2026-11-26-b",
    "titulo": "📅 La del jueves · B",
    "expl": "@30-40 con patas de @1,40-1,60 (la A, otra distinta)",
@@ -2155,21 +2152,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/548.png"
     },
     {
-     "sel": "1636410|Home Player Shots|Lukas Kubler - 1",
-     "texto": "Lukas Kubler: 1+ remate",
-     "cuota": 1.4,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 1,50 por 90' (1-0-2-3-1)",
-     "nota": 0.7792857142857144,
-     "equipo": "SC Freiburg",
-     "lado": "L",
-     "partido": "SC Freiburg–Twente",
-     "hora": "2026-11-26T21:00",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/160.png",
-     "logo_v": "https://media.api-sports.io/football/teams/415.png"
-    },
-    {
      "sel": "1636336|Double Chance|Draw/Away",
      "texto": "AZ Alkmaar o empate",
      "cuota": 1.4,
@@ -2209,6 +2191,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/400.png"
     },
     {
+     "sel": "1636410|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.53,
+     "p": 0.75,
+     "dato": "más de 2,5 goles en el 88% y el 70% de sus partidos",
+     "nota": 0.8172983809101242,
+     "partido": "SC Freiburg–Twente",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/160.png",
+     "logo_v": "https://media.api-sports.io/football/teams/415.png"
+    },
+    {
      "sel": "1636457|Goals Over/Under|Over 2.5",
      "texto": "Más de 2,5 goles",
      "cuota": 1.67,
@@ -2235,8 +2230,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/336.png"
     }
    ],
-   "cuota": 500.48,
-   "prob": 0.049
+   "cuota": 546.96,
+   "prob": 0.048
   },
   {
    "clave": "todo-2026-11-26-3",
@@ -2366,6 +2361,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/247.png"
     },
     {
+     "sel": "1636410|Home Player Shots|Lukas Kubler - 1",
+     "texto": "Lukas Kubler: 1+ remate",
+     "cuota": 1.4,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,50 por 90' (1-0-2-3-1)",
+     "nota": 0.7792857142857144,
+     "equipo": "SC Freiburg",
+     "lado": "L",
+     "partido": "SC Freiburg–Twente",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/160.png",
+     "logo_v": "https://media.api-sports.io/football/teams/415.png"
+    },
+    {
      "sel": "1636252|Player Fouls Committed|Oscar Mingueza - 1",
      "texto": "Oscar Mingueza: comete 1+ falta",
      "cuota": 1.53,
@@ -2394,19 +2404,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/735.png"
     },
     {
-     "sel": "1636410|Goals Over/Under|Over 2.5",
-     "texto": "Más de 2,5 goles",
-     "cuota": 1.53,
-     "p": 0.75,
-     "dato": "más de 2,5 goles en el 88% y el 70% de sus partidos",
-     "nota": 0.8172983809101242,
-     "partido": "SC Freiburg–Twente",
-     "hora": "2026-11-26T21:00",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/160.png",
-     "logo_v": "https://media.api-sports.io/football/teams/415.png"
-    },
-    {
      "sel": "1636301|Home Corners Over/Under|Over 4.5",
      "texto": "NEC Nijmegen: más de 4,5 córners",
      "cuota": 1.73,
@@ -2433,8 +2430,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/598.png"
     }
    ],
-   "cuota": 521.15,
-   "prob": 0.057
+   "cuota": 476.87,
+   "prob": 0.058
   },
   {
    "clave": "todo-2026-11-28",
