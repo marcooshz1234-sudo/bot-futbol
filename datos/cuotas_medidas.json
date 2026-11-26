@@ -7026,5 +7026,61 @@
     1.0
    ]
   ]
+ },
+ {
+  "id": "2026-11-27-loca-th-noche-2230-duelo",
+  "fecha": "2026-11-26T22:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1557485|Home Player Shots|Liam Delap - 3",
+   "1557485|Away Player Shots|Morgan Rogers - 2"
+  ],
+  "cuotas": [
+   1.73,
+   1.44
+  ],
+  "real": 2.54,
+  "multiplicando": 2.491,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-27-loca-th-noche-2330-escudos",
+  "fecha": "2026-11-26T23:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1575237|Home Player Shots|Niclas Fullkrug - 4",
+   "1575237|To Win Either Half|Home",
+   "1575237|Both Teams Score|Yes",
+   "1575237|Goals Over/Under - Second Half|Over 1.5"
+  ],
+  "cuotas": [
+   1.73,
+   1.4,
+   1.5,
+   1.67
+  ],
+  "real": 5.57,
+  "multiplicando": 6.067,
+  "aj": 0.7655388869147157,
+  "parejas": [
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ]
+  ]
  }
 ]
