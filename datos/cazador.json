@@ -63,19 +63,19 @@
  },
  "top": [
   {
-   "local": "Pafos",
-   "visitante": "FC Midtjylland",
+   "local": "Celta Vigo",
+   "visitante": "Bournemouth",
    "inicio": "2026-11-26T18:45",
-   "texto": "Pafos o empate",
-   "cuota": 1.67,
-   "justa": 1.7,
+   "texto": "Gana el Bournemouth",
+   "cuota": 2.0,
+   "justa": 2.03,
    "ev": -0.016,
    "fuente": "Pinnacle",
    "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-26T11:00",
+  "hora": "2026-11-26T11:20",
   "revisadas": 0,
   "mejor": null
  },
