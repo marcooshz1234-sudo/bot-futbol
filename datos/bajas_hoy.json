@@ -12559,12 +12559,6 @@
     "jugador": "M. Tvrdon",
     "tipo": "Missing Fixture",
     "motivo": "Off the roster"
-   },
-   {
-    "equipo": 211,
-    "jugador": "L. Barreiro",
-    "tipo": "Missing Fixture",
-    "motivo": "Inactive"
    }
   ],
   "1636395": [],
@@ -13163,12 +13157,6 @@
     "motivo": "Off the roster"
    },
    {
-    "equipo": 496,
-    "jugador": "K. Alajbegovic",
-    "tipo": "Questionable",
-    "motivo": "Leg Injury"
-   },
-   {
     "equipo": 3402,
     "jugador": "C. Eiting",
     "tipo": "Missing Fixture",
@@ -13734,7 +13722,7 @@
    }
   ]
  },
- "ultima": "2026-11-26T02:59:20.710303+01:00",
+ "ultima": "2026-11-26T03:29:24.147036+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
