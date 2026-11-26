@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 19:33",
+ "actualizado": "2026-11-26 19:42",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4154,
-   "hoy": 134,
+   "seguidores": 4156,
+   "hoy": 136,
    "serie": [
     3248,
     3475,
@@ -24,7 +24,7 @@
     3742,
     3790,
     4020,
-    4154
+    4156
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4751,
- "total_hoy": 146,
+ "total": 4753,
+ "total_hoy": 148,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "19:40",
+  "hora": "20:25",
   "dia": "2026-11-26",
-  "titulo": "La centenaria x29,42"
+  "titulo": "Os dejo la combi del nec nijmegen – re"
  },
  "ayer": null,
  "escalera": {
@@ -273,7 +273,7 @@
   },
   "2026-11-26": {
    "instagram": 58,
-   "threads": 4154,
+   "threads": 4156,
    "facebook": 1,
    "telegram": 538
   }
