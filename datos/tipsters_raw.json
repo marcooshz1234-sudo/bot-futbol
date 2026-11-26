@@ -1245,22 +1245,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/47301",
-   "fecha": "2026-11-17T23:05",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-17T23:18",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47301.jpg"
-  },
-  {
-   "id": "-1001468963672/47307",
-   "fecha": "2026-11-17T23:22",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-17T23:31",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47307.jpg"
-  },
-  {
    "id": "-1001468963672/47306",
    "fecha": "2026-11-17T23:22",
    "texto": "🔥 Estamos en una RACHA DE 15",
@@ -2728,6 +2712,21 @@
    "texto": "⏰… ¡en una hora comienza nuestra apuesta!",
    "foto": false,
    "visto": "2026-11-26T17:48"
+  },
+  {
+   "id": "-1001468963672/47523",
+   "fecha": "2026-11-26T19:16",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-26T19:19",
+   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47523.jpg"
+  },
+  {
+   "id": "-1001468963672/47524",
+   "fecha": "2026-11-26T19:17",
+   "texto": "Nos expulsan un jugador, en el minuto 22.",
+   "foto": false,
+   "visto": "2026-11-26T19:19"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
@@ -20708,6 +20707,13 @@
    "foto": true,
    "visto": "2026-11-26T18:45",
    "foto_ruta": "datos/tipsters_fotos/OC_TIPSTER_5228.jpg"
+  },
+  {
+   "id": "-1002538677212/5229",
+   "fecha": "2026-11-26T19:16",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-26T19:19"
   }
  ],
  "ApuestasCobrich - Canal Gratuito": [
