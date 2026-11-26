@@ -1245,21 +1245,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/47306",
-   "fecha": "2026-11-17T23:22",
-   "texto": "🔥 Estamos en una RACHA DE 15",
-   "foto": false,
-   "visto": "2026-11-17T23:31"
-  },
-  {
-   "id": "-1001468963672/47305",
-   "fecha": "2026-11-17T23:22",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-17T23:31",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47305.jpg"
-  },
-  {
    "id": "-1001468963672/47304",
    "fecha": "2026-11-17T23:22",
    "texto": "",
@@ -2727,6 +2712,21 @@
    "texto": "Nos expulsan un jugador, en el minuto 22.",
    "foto": false,
    "visto": "2026-11-26T19:19"
+  },
+  {
+   "id": "-1001468963672/47526",
+   "fecha": "2026-11-26T19:51",
+   "texto": "Hasta con una ROJA, VAMOS! 👏",
+   "foto": false,
+   "visto": "2026-11-26T19:53"
+  },
+  {
+   "id": "-1001468963672/47525",
+   "fecha": "2026-11-26T19:51",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-26T19:53",
+   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47525.jpg"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [

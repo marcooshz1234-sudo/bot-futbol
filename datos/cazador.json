@@ -63,30 +63,19 @@
  },
  "top": [
   {
-   "local": "FC Nordsjaelland",
-   "visitante": "Panathinaikos",
+   "local": "SC Freiburg",
+   "visitante": "Twente",
    "inicio": "2026-11-26T21:00",
-   "texto": "FC Nordsjaelland o empate",
-   "cuota": 1.5,
-   "justa": 1.52,
-   "ev": -0.011,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Torreense",
-   "visitante": "Celtic",
-   "inicio": "2026-11-26T21:00",
-   "texto": "Gana el Celtic",
-   "cuota": 1.65,
-   "justa": 1.68,
-   "ev": -0.018,
+   "texto": "Gana el SC Freiburg",
+   "cuota": 1.85,
+   "justa": 1.84,
+   "ev": 0.005,
    "fuente": "Pinnacle",
    "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-26T19:23",
+  "hora": "2026-11-26T19:53",
   "revisadas": 0,
   "mejor": null
  },
