@@ -3767,14 +3767,14 @@
   },
   "2026-11-26": {
     "dia": "2026-11-26",
-    "total": 10,
+    "total": 11,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 10,
+      "pendiente": 11,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 10
+      "sin_resolver": 11
     },
     "combis": [
       {
@@ -3836,13 +3836,19 @@
         "titulo": "🧨 COMBI x43,98 🧨",
         "estado": "pendiente",
         "cuota": 43.98
+      },
+      {
+        "id": "2026-11-26-loca-th-0900-lista-corners",
+        "titulo": "🚩 CÓRNERS DEL DÍA 🚩",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 61
+      "total": 68
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x30,82 🎰 · 30,82 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · pendiente\n⏳ 🏆 CONFERENCE LEAGUE - GANADORES · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 4,85 · pendiente\n⏳ 🎰 LA DE x15,22 🎰 · 15,22 · pendiente\n⏳ 🫣 LA DE LOS TAPADOS 🫣 · 8,53 · pendiente\n⏳ 🧨 COMBI x43,98 🧨 · 43,98 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 10 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x30,82 🎰 · 30,82 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · pendiente\n⏳ 🏆 CONFERENCE LEAGUE - GANADORES · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 4,85 · pendiente\n⏳ 🎰 LA DE x15,22 🎰 · 15,22 · pendiente\n⏳ 🫣 LA DE LOS TAPADOS 🫣 · 8,53 · pendiente\n⏳ 🧨 COMBI x43,98 🧨 · 43,98 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 11 sin resolver"
   }
 }

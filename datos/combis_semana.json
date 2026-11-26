@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-26",
- "generado": "2026-11-26T08:28+01:00",
+ "generado": "2026-11-26T09:00+01:00",
  "rango": [
   "2026-11-26",
   "2026-11-29"
@@ -1281,36 +1281,6 @@
    "cuota": 3.89
   },
   {
-   "equipo": "Levski Sofia",
-   "liga": "Europa League",
-   "partido": "Marseille–Levski Sofia",
-   "hora": "2026-11-26T18:45",
-   "logo": "https://media.api-sports.io/football/teams/646.png",
-   "patas": [
-    {
-     "sel": "1636298|Total - Away|Over 0.5",
-     "texto": "Levski Sofia marca",
-     "cuota": 1.67,
-     "p": 0.797,
-     "dato": "marca 1,2 por partido y el rival encaja 1,7",
-     "nota": 0.9276437814091534,
-     "partido": "Marseille–Levski Sofia",
-     "hora": "2026-11-26T18:45"
-    },
-    {
-     "sel": "1636298|Away Corners Over/Under|Over 2.5",
-     "texto": "Levski Sofia: más de 2,5 córners",
-     "cuota": 1.62,
-     "p": 0.697,
-     "dato": "Levski Sofia saca 3,3 córners y el rival concede 3,9",
-     "nota": 0.7380282110640372,
-     "partido": "Marseille–Levski Sofia",
-     "hora": "2026-11-26T18:45"
-    }
-   ],
-   "cuota": 2.71
-  },
-  {
    "equipo": "Celta Vigo",
    "liga": "Europa League",
    "partido": "Celta Vigo–Bournemouth",
@@ -2127,6 +2097,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/632.png"
     },
     {
+     "sel": "1636298|Total - Away|Over 0.5",
+     "texto": "Levski Sofia marca",
+     "cuota": 1.67,
+     "p": 0.797,
+     "dato": "marca 1,2 por partido y el rival encaja 1,7",
+     "nota": 0.9276437814091534,
+     "partido": "Marseille–Levski Sofia",
+     "hora": "2026-11-26T18:45",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/81.png",
+     "logo_v": "https://media.api-sports.io/football/teams/646.png"
+    },
+    {
      "sel": "1636315|Goals Over/Under|Over 2.5",
      "texto": "Más de 2,5 goles",
      "cuota": 1.44,
@@ -2248,23 +2231,10 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/628.png",
      "logo_v": "https://media.api-sports.io/football/teams/201.png"
-    },
-    {
-     "sel": "1636420|To Win Either Half|Home",
-     "texto": "HNK Hajduk Split gana alguna de las dos partes",
-     "cuota": 1.62,
-     "p": 0.755,
-     "dato": "HNK Hajduk Split: VEVVV en sus últimos 5",
-     "nota": 0.8417805913037967,
-     "partido": "HNK Hajduk Split–St. Truiden",
-     "hora": "2026-11-26T21:00",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/608.png",
-     "logo_v": "https://media.api-sports.io/football/teams/735.png"
     }
    ],
-   "cuota": 395.38,
-   "prob": 0.055
+   "cuota": 407.58,
+   "prob": 0.058
   },
   {
    "clave": "todo-2026-11-26-3",
@@ -2325,6 +2295,19 @@
      "liga": "Conference League",
      "logo_l": "https://media.api-sports.io/football/teams/51.png",
      "logo_v": "https://media.api-sports.io/football/teams/632.png"
+    },
+    {
+     "sel": "1636298|Total - Away|Over 0.5",
+     "texto": "Levski Sofia marca",
+     "cuota": 1.67,
+     "p": 0.797,
+     "dato": "marca 1,2 por partido y el rival encaja 1,7",
+     "nota": 0.9276437814091534,
+     "partido": "Marseille–Levski Sofia",
+     "hora": "2026-11-26T18:45",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/81.png",
+     "logo_v": "https://media.api-sports.io/football/teams/646.png"
     },
     {
      "sel": "1636334|Total - Away|Over 0.5",
@@ -2444,23 +2427,10 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/746.png",
      "logo_v": "https://media.api-sports.io/football/teams/336.png"
-    },
-    {
-     "sel": "1636301|Home Corners Over/Under|Over 4.5",
-     "texto": "NEC Nijmegen: más de 4,5 córners",
-     "cuota": 1.73,
-     "p": 0.741,
-     "dato": "NEC Nijmegen saca 6,5 córners y el rival concede 5,9",
-     "nota": 0.8356342069960049,
-     "partido": "NEC Nijmegen–Rennes",
-     "hora": "2026-11-26T21:00",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/413.png",
-     "logo_v": "https://media.api-sports.io/football/teams/94.png"
     }
    ],
-   "cuota": 780.47,
-   "prob": 0.045
+   "cuota": 753.4,
+   "prob": 0.049
   },
   {
    "clave": "todo-2026-11-28",
