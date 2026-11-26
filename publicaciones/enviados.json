@@ -950,5 +950,10 @@
   "2026-11-26-pick-seguro": {
     "enviado": "2026-11-26T10:30",
     "mensaje_id": 635
+  },
+  "2026-11-26-pick-seguro-3": {
+    "enviado": "2026-11-26T12:30",
+    "mensaje_id": 637,
+    "foto_tg": "publicaciones/media/2026-11-26-pick-seguro-3.tg.jpg"
   }
 }
