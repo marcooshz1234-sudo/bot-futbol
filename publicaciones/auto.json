@@ -16252,9 +16252,9 @@
       "1636301|Home Player Shots|Ahmetcan Kaplan - 1"
     ],
     "cuotas": [
-      1.67,
+      1.7,
+      1.62,
       1.73,
-      1.67,
       1.8,
       1.57,
       1.62,
@@ -16269,7 +16269,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-26T10:13"
   },
   {
     "id": "2026-11-26-loca-th-1400-x50",
