@@ -1,108 +1,4 @@
 {
-  "2026-10-28": {
-    "dia": "2026-10-28",
-    "total": 14,
-    "cuentas": {
-      "verde": 0,
-      "rojo": 14,
-      "pendiente": 0,
-      "sin_datos": 0,
-      "no_jugo": 0,
-      "sin_resolver": 0
-    },
-    "combis": [
-      {
-        "id": "2026-10-28-combi-partido-1550176",
-        "titulo": "✅ COMBI LOCAS | SERIE A",
-        "estado": "rojo",
-        "cuota": 4.39
-      },
-      {
-        "id": "2026-10-28-combi-partido-1640575",
-        "titulo": "✅ COMBI LOCAS | CARABAO CUP",
-        "estado": "rojo",
-        "cuota": 4.25
-      },
-      {
-        "id": "2026-10-28-combi-partido-1638558",
-        "titulo": "✅ COMBI LOCAS | DFB-POKAL",
-        "estado": "rojo",
-        "cuota": 3.66
-      },
-      {
-        "id": "2026-10-28-combi-partido-1638557",
-        "titulo": "✅ COMBI LOCAS | DFB-POKAL",
-        "estado": "rojo",
-        "cuota": 3.04
-      },
-      {
-        "id": "2026-10-28-escalera",
-        "titulo": "🪜 RETO ESCALERA · DÍA 2/7 · x1,90 🍀",
-        "estado": "rojo",
-        "cuota": 1.9
-      },
-      {
-        "id": "2026-10-28-boleto-mil",
-        "titulo": "🎉 COMBILOCAS — ¡COMBI DE LOS 1.000 x1.110,84! 🍀",
-        "estado": "rojo",
-        "cuota": null
-      },
-      {
-        "id": "2026-10-28-combi-tres",
-        "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,88! 🍀",
-        "estado": "rojo",
-        "cuota": 2.88
-      },
-      {
-        "id": "2026-10-28-boleto-aumento-milan",
-        "titulo": "🚀 ¡SUPERAUMENTO EN BET365! 2,55 ➜ 4,00 🔥",
-        "estado": "rojo",
-        "cuota": null
-      },
-      {
-        "id": "2026-10-28-combi-partido-1550167",
-        "titulo": "✅ COMBI LOCAS | SERIE A",
-        "estado": "rojo",
-        "cuota": 10.04
-      },
-      {
-        "id": "2026-10-28-combi-partido-1640388-b",
-        "titulo": "✅ COMBI LOCAS | CARABAO CUP",
-        "estado": "rojo",
-        "cuota": 9.78
-      },
-      {
-        "id": "2026-10-28-combi-partido-1640387",
-        "titulo": "✅ COMBI LOCAS | CARABAO CUP",
-        "estado": "rojo",
-        "cuota": 10.06
-      },
-      {
-        "id": "2026-10-28-combi-partido-1640383",
-        "titulo": "✅ COMBI LOCAS | CARABAO CUP",
-        "estado": "rojo",
-        "cuota": 8.62
-      },
-      {
-        "id": "2026-10-28-combi-partido-1550171",
-        "titulo": "✅ COMBI LOCAS | SERIE A",
-        "estado": "rojo",
-        "cuota": 8.36
-      },
-      {
-        "id": "2026-10-28-combi-partido-1550172",
-        "titulo": "✅ COMBI LOCAS | SERIE A",
-        "estado": "rojo",
-        "cuota": 7.65
-      }
-    ],
-    "picks": {
-      "verde": 37,
-      "rojo": 28,
-      "total": 72
-    },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 14 EN VERDE 📊\n\n❌ ✅ COMBI LOCAS | SERIE A · 4,39\n❌ ✅ COMBI LOCAS | CARABAO CUP · 4,25\n❌ ✅ COMBI LOCAS | DFB-POKAL · 3,66\n❌ ✅ COMBI LOCAS | DFB-POKAL · 3,04\n❌ 🪜 RETO ESCALERA · DÍA 2/7 · x1,90 🍀 · 1,90\n❌ 🎉 COMBILOCAS — ¡COMBI DE LOS 1.000 x1.110,84! 🍀\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL MIÉRCOLES x2,88! 🍀 · 2,88\n❌ 🚀 ¡SUPERAUMENTO EN BET365! 2,55 ➜ 4,00 🔥\n❌ ✅ COMBI LOCAS | SERIE A · 10,04\n❌ ✅ COMBI LOCAS | CARABAO CUP · 9,78\n❌ ✅ COMBI LOCAS | CARABAO CUP · 10,06\n❌ ✅ COMBI LOCAS | CARABAO CUP · 8,62\n❌ ✅ COMBI LOCAS | SERIE A · 8,36\n❌ ✅ COMBI LOCAS | SERIE A · 7,65\n\n✅ 0 acertadas · ❌ 14 falladas · ⏳ 0 sin resolver"
-  },
   "2026-10-29": {
     "dia": "2026-10-29",
     "total": 7,
@@ -3994,5 +3890,31 @@
       "total": 143
     },
     "texto": "📊 BALANCE DEL JUEVES: 6 DE 32 EN VERDE 📊\n\n❌ 🏆 EUROPA LEAGUE - GANADORES\n❌ 🎰 LA CENTENARIA x30,82 🎰 · 30,82\n❌ 👑⚽ GANA Y AMBOS MARCAN 👑⚽\n❌ 🏆 CONFERENCE LEAGUE - GANADORES\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❌ 🤺 EL DUELO DE TIROS 🤺 · 4,85\n❌ 🎰 LA DE x15,22 🎰 · 15,22\n❌ 🫣 LA DE LOS TAPADOS 🫣 · 8,53\n❌ 🧨 COMBI x43,98 🧨 · 43,98\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ ⚖️ LA COMBI DE LOS EMPATES ⚖️ · 49,21\n❌ 🎯 COMBI DE TIROS · SC FREIBURG vs TWENTE 🎯 · 10,03\n✅ Artur Serobyan (Ararat-Armenia): 2+ tiros · 1,50\n✅ Bournemouth marca 2 o más · 2,00\n❌ 🤑💸 COMBI POR 34,84 🤑💸 · 34,84\n❌ Orri Steinn Oskarsson (Real Sociedad): 3+ tiros · 1,62\n✅ Richard Sedlacek (FK Jablonec): 1+ tiros · 1,53\n❌ 🤑 LA DE x8,92 🤑 · 8,92\n❌ 💥 COMBI BRANN – AARHUS 💥 · 3,29\n❌ Justin Kluivert (Bournemouth) comete 2+ faltas · 1,62\n❌ 🎰 LA LOCURA DE x88,72 🎰 · 88,72\n✅ Trai Hume (Sunderland) comete 1+ faltas · 1,36\n✅ 💥 COMBI SC FREIBURG – TWENTE 💥 · 5,06\n❌ 🔥 COMBI SPARTA PRAHA – AZ ALKMAAR 🔥 · 7,75\n❌ 🔥 COMBI HNK HAJDUK SPLIT – ST. TRUIDEN 🔥 · 5,95\n✅ Borac Banja Luka marca · 1,53\n❌ Hoy hay partidazo: Dinamo Zagreb 🆚 Bayer Leverkusen 🟠⭐\n❌ ⚔️ EL DUELO DE TIROS ⚔️ · 2,18\n❌ 🤑 COMBI x264 🤑\n❌ 💰🚀 LA CENTENARIA x29,42 💰🚀 · 29,42\n❌ Combi de 4 picks\n⏳ 🧨 LA CENTENARIA x20,31 🧨 · 20,31 · pendiente\n⏳ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 54,00 · pendiente\n⏳ 🚩 CÓRNERS DE MAÑANA 🚩 · pendiente\n\n✅ 6 acertadas · ❌ 26 falladas · ⏳ 3 sin resolver"
+  },
+  "2026-11-27": {
+    "dia": "2026-11-27",
+    "total": 1,
+    "cuentas": {
+      "verde": 0,
+      "rojo": 0,
+      "pendiente": 1,
+      "sin_datos": 0,
+      "no_jugo": 0,
+      "sin_resolver": 1
+    },
+    "combis": [
+      {
+        "id": "2026-11-27-ganadores-resto",
+        "titulo": "🏆 PARTIDOS DE HOY - GANADORES",
+        "estado": "pendiente",
+        "cuota": null
+      }
+    ],
+    "picks": {
+      "verde": 0,
+      "rojo": 0,
+      "total": 4
+    },
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
   }
 }
