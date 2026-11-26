@@ -16166,8 +16166,8 @@
     ],
     "cuotas": [
       3.7,
-      3.8,
-      3.5
+      3.9,
+      3.6
     ],
     "solo_en": [
       "threads"
@@ -16178,7 +16178,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-26T07:54"
   },
   {
     "id": "2026-11-26-loca-th-1000-tiros",
