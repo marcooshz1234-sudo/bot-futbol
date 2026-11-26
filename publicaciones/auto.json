@@ -16281,11 +16281,10 @@
   {
     "id": "2026-11-26-loca-th-1400-x50",
     "fecha": "2026-11-26T14:00",
-    "texto": "🤑 LA DE x21,14 🤑\n\n🇨🇿 Plzen–Benfica 18:45\n🌋 +1,5 goles en la 2ª parte del Plzen–Benfica\n🇧🇪 Union St. Gilloise–Lech Poznan 18:45\n🚀 Lech Poznan marca\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton–Universitatea Craiova 18:45\n🎳 David Matei: 1+ tiros\n🇦🇱 Egnatia Rrogozhinë–Lincoln Red Imps FC 18:45\n🚀 Lincoln Red Imps FC marca\n🇩🇪 1899 Hoffenheim–Sturm Graz 21:00\n🎳 Luca Weinhandl: 1+ tiros\n🇳🇱 NEC Nijmegen–Rennes 21:00\n🌋 +1,5 goles en la 2ª parte del NEC Nijmegen–Rennes\n\n🎯 CUOTA 21,14 💎 10€ → 211€\n👇 ¿Cuál quitaríais? 👇",
+    "texto": "🤑 LA DE x8,92 🤑\n\n🇨🇿 Plzen–Benfica 18:45\n🌋 +1,5 goles en la 2ª parte del Plzen–Benfica\n🇧🇪 Union St. Gilloise–Lech Poznan 18:45\n🚀 Lech Poznan marca\n🎳 David Matei: 1+ tiros\n🇦🇱 Egnatia Rrogozhinë–Lincoln Red Imps FC 18:45\n🚀 Lincoln Red Imps FC marca\n🇩🇪 1899 Hoffenheim–Sturm Graz 21:00\n🎳 Luca Weinhandl: 1+ tiros\n🇳🇱 NEC Nijmegen–Rennes 21:00\n🌋 +1,5 goles en la 2ª parte del NEC Nijmegen–Rennes\n\n🎯 CUOTA 8,92 💎 10€ → 211€\n👇 ¿Cuál quitaríais? 👇",
     "sel": [
       "1636315|Goals Over/Under - Second Half|Over 1.5",
       "1636329|Total - Away|Over 0.5",
-      "1636395|Away Player Shots|David Matei - 1",
       "1636405|Total - Away|Over 0.5",
       "1636270|Away Player Shots|Luca Weinhandl - 1",
       "1636301|Goals Over/Under - Second Half|Over 1.5"
@@ -16293,7 +16292,6 @@
     "cuotas": [
       1.62,
       1.57,
-      2.0,
       1.5,
       1.4,
       1.67
@@ -16308,7 +16306,8 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-26T12:33"
+    "cuotas_revisadas": "2026-11-26T12:33",
+    "revisado_alineaciones": "2026-11-26T18:15"
   },
   {
     "id": "2026-11-26-loca-th-1420-tapados",
@@ -16653,12 +16652,12 @@
       "1636457|To Win Either Half|Away"
     ],
     "cuotas": [
-      1.8,
-      1.8,
-      1.8,
+      1.83,
+      1.73,
+      1.73,
       1.73,
       2.0,
-      1.73
+      1.8
     ],
     "solo_en": [
       "threads"
@@ -16669,6 +16668,7 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-26T18:15"
   }
 ]
