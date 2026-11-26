@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27 00:09",
+ "actualizado": "2026-11-27 00:19",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4197,
-   "hoy": 2,
+   "seguidores": 4199,
+   "hoy": 4,
    "serie": [
     3475,
     3714,
@@ -24,7 +24,7 @@
     3790,
     4020,
     4195,
-    4197
+    4199
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 539,
-   "hoy": 0,
+   "seguidores": 540,
+   "hoy": 1,
    "serie": [
     496,
     506,
@@ -50,17 +50,17 @@
     514,
     527,
     539,
-    539
+    540
    ]
   }
  },
- "total": 4795,
- "total_hoy": 2,
+ "total": 4798,
+ "total_hoy": 5,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:00",
+  "hora": "01:00",
   "dia": "2026-11-27",
-  "titulo": "Reto escalera · día 2/7"
+  "titulo": "Gana y ambos marcan"
  },
  "ayer": {
   "aciertos": 3,
@@ -282,9 +282,9 @@
   },
   "2026-11-27": {
    "instagram": 58,
-   "threads": 4197,
+   "threads": 4199,
    "facebook": 1,
-   "telegram": 539
+   "telegram": 540
   }
  },
  "tipos_instagram": {
