@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 23:16",
+ "actualizado": "2026-11-26 23:27",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4181,
-   "hoy": 161,
+   "seguidores": 4188,
+   "hoy": 168,
    "serie": [
     3248,
     3475,
@@ -24,7 +24,7 @@
     3742,
     3790,
     4020,
-    4181
+    4188
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 538,
-   "hoy": 11,
+   "seguidores": 539,
+   "hoy": 12,
    "serie": [
     490,
     496,
@@ -50,25 +50,28 @@
     506,
     514,
     527,
-    538
+    539
    ]
   }
  },
- "total": 4778,
- "total_hoy": 173,
+ "total": 4786,
+ "total_hoy": 181,
  "likes_hoy": 0,
  "proximo": {
   "hora": "23:30",
   "dia": "2026-11-26",
   "titulo": "Combi werder bremen – borussia mönchen"
  },
- "ayer": null,
+ "ayer": {
+  "aciertos": 5,
+  "total": 6
+ },
  "escalera": {
-  "dia": 1,
+  "dia": 2,
   "de": 7,
-  "stake": 20.0,
-  "objetivo": 43.2,
-  "fecha": "2026-11-25"
+  "stake": 43.2,
+  "objetivo": 82.08,
+  "fecha": "2026-11-27"
  },
  "historial": {
   "2026-10-23": {
@@ -273,9 +276,9 @@
   },
   "2026-11-26": {
    "instagram": 58,
-   "threads": 4181,
+   "threads": 4188,
    "facebook": 1,
-   "telegram": 538
+   "telegram": 539
   }
  },
  "tipos_instagram": {
