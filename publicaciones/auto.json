@@ -14368,7 +14368,7 @@
   {
     "id": "2026-11-26-pick-seguro",
     "fecha": "2026-11-26T10:30",
-    "texto": "Pick de hoy, con datos detrás 📊\n🧠 Esta va con cabeza: analizada\n\n🟠 Red Bull Salzburg – Ararat-Armenia · 18:45\n\n🍀 Artur Serobyan (Ararat-Armenia): 2+ tiros @1,67\n🧠 Stake 4/10\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+    "texto": "Pick de hoy, con datos detrás 📊\n🧠 Esta va con cabeza: analizada\n\n🟠 Red Bull Salzburg – Ararat-Armenia · 18:45\n\n🍀 Artur Serobyan (Ararat-Armenia): 2+ tiros @1,50\n🧠 Stake 4/10\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -14376,8 +14376,9 @@
       "1636334|Away Player Shots|Artur Serobyan - 2"
     ],
     "cuotas": [
-      1.67
-    ]
+      1.5
+    ],
+    "cuotas_revisadas": "2026-11-26T09:01"
   },
   {
     "id": "2026-11-26-lista-europa-1",
