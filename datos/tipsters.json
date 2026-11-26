@@ -4290,7 +4290,12 @@
    "liga": "UEFA Champions League",
    "cuota_bet365": 1.1,
    "prob_cuota": 0.909
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   2,
+   0
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL || FREE",
@@ -4370,7 +4375,12 @@
   "analisis": {
    "liga": "UEFA Champions League",
    "prob_cuota": 0.629
-  }
+  },
+  "estado": null,
+  "marcador": [
+   2,
+   0
+  ]
  },
  {
   "tipster": "OC TIPSTER",
@@ -4419,7 +4429,12 @@
    "liga": "UEFA Champions League",
    "cuota_bet365": 1.62,
    "prob_cuota": 0.637
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   2,
+   1
+  ]
  },
  {
   "tipster": "ICARDI | PICKS",
@@ -4443,7 +4458,12 @@
   "analisis": {
    "liga": "UEFA Champions League",
    "prob_cuota": 0.244
-  }
+  },
+  "estado": null,
+  "marcador": [
+   2,
+   1
+  ]
  },
  {
   "tipster": "ICARDI | PICKS",
@@ -4466,7 +4486,12 @@
   "analisis": {
    "liga": "UEFA Champions League",
    "prob_cuota": 0.018
-  }
+  },
+  "estado": null,
+  "marcador": [
+   2,
+   1
+  ]
  },
  {
   "tipster": "INSIDER",
@@ -4511,6 +4536,31 @@
    "liga": "UEFA Champions League",
    "cuota_bet365": 1.17,
    "prob_cuota": 0.204
+  },
+  "estado": "rojo",
+  "marcador": [
+   2,
+   1
+  ]
+ },
+ {
+  "tipster": "TipsPro🤙",
+  "fuente": "-1001262785423/10216",
+  "dia": "2026-11-26",
+  "local": "Celta Vigo",
+  "visitante": "Bournemouth",
+  "partido_id": 1636244,
+  "texto": "Bournemouth marca 2 o más",
+  "mercado": "Total - Away",
+  "opcion": "Over 1.5",
+  "cuota": 1.56,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Europa League",
+   "cuota_bet365": 2.0,
+   "prob_cuota": 0.641
   }
  }
 ]

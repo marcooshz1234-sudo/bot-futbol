@@ -1559,5 +1559,22 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-26-pick-tip-1",
+    "fecha": "2026-11-26T10:53",
+    "texto": "Pick que no podía faltar hoy ⚽\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🍀 Bournemouth marca 2 o más @2,00\n\n⚽ Celta Vigo – Bournemouth · hoy 18:45",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": true,
+    "sel": [
+      "1636244|Total - Away|Over 1.5"
+    ],
+    "cuotas": [
+      2.0
+    ],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
   }
 ]
