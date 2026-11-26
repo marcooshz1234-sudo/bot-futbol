@@ -1854,5 +1854,39 @@
     "cuota_calculada": true,
     "alineacion_ok": true,
     "caducada": "no titular: Orri Steinn Oskarsson"
+  },
+  {
+    "id": "2026-11-26-rojo-auto-2026-11-26-pick-seguro-5",
+    "fecha": "2026-11-26T20:57",
+    "texto": "Hoy no ha podido ser ❌\n\n❌ Justin Kluivert comete 2+ faltas (Celta Vigo – Bournemouth 1–2)\n\nAquí se marcan también los fallos. Mañana volvemos con todo 💪",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "resultado": "rojo",
+    "rojo_de": "2026-11-26-pick-seguro-5",
+    "requiere_ok": true,
+    "sin_instagram": true
+  },
+  {
+    "id": "2026-11-26-verde-auto-2026-11-26-pick-tip-1",
+    "fecha": "2026-11-26T21:07",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Bournemouth marca 2 o más\n\n📈 Cuota @2,00",
+    "foto": "publicaciones/media/2026-11-26-verde-auto-2026-11-26-pick-tip-1.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-26-pick-tip-1"
+  },
+  {
+    "id": "2026-11-26-verde-auto-2026-11-26-pick-seguro-4",
+    "fecha": "2026-11-26T20:57",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Richard Sedlacek (FK Jablonec): 1+ tiros\n\n📈 Cuota @1,53",
+    "foto": "publicaciones/media/2026-11-26-verde-auto-2026-11-26-pick-seguro-4.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-26-pick-seguro-4"
   }
 ]

@@ -3564,11 +3564,11 @@
     "total": 31,
     "cuentas": {
       "verde": 7,
-      "rojo": 17,
+      "rojo": 21,
       "pendiente": 3,
-      "sin_datos": 4,
+      "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 7
+      "sin_resolver": 3
     },
     "combis": [
       {
@@ -3730,25 +3730,25 @@
       {
         "id": "2026-11-26-loca-th-noche-2130-ganaambos",
         "titulo": "👑⚽ GANA Y AMBOS MARCAN 👑⚽",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
         "id": "2026-11-26-loca-th-noche-2200-lista-ambos",
         "titulo": "⚽ AMBOS MARCAN MAÑANA ⚽",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
         "id": "2026-11-26-loca-th-noche-2230-duelo",
         "titulo": "🥊 EL DUELO DE TIROS 🥊",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 2.86
       },
       {
         "id": "2026-11-26-loca-th-noche-2300-x50",
         "titulo": "🤑💸 LA DE x34,50 🤑💸",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 34.5
       },
       {
@@ -3759,70 +3759,70 @@
       }
     ],
     "picks": {
-      "verde": 28,
-      "rojo": 27,
+      "verde": 32,
+      "rojo": 35,
       "total": 83
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 7 DE 24 EN VERDE 📊\n\n❌ 🏆 CHAMPIONS LEAGUE - GANADORES\n❌ 🧨 COMBI POR 105 🧨\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n✅ ⚔️ EL DUELO DE TIROS ⚔️ · 4,49\n❌ 🤑💸 COMBI x41,13 🤑💸 · 41,13\n❌ ⏰ TODO A LAS 21:00 ⏰ · 30,53\n❌ 🤑💸 COMBI x406 🤑💸\n❌ 💶 RETO: DE 1€ A 584€ 💶\n❌ 🎯 COMBI DE TIROS · INTER vs VFB STUTTGART 🎯 · 4,99\n⏳ 🎰 LA CENTENARIA x95,99 🎰 · 95,99 · pendiente\n❌ 🕘 TODO A LAS 21:00 🕘 · 6,96\n✅ Gana el Inter · 1,40\n❌ 🤑💸 COMBI x33,88 🤑💸 · 33,88\n❌ 💰🚀 COMBI x608 💰🚀\n❌ 🤑💸 LA MILLONARIA x462 🤑💸\n✅ Iván Fresneda (Sporting): comete 1+ falta · 1,40\n✅ 🪜 Reto escalera · Día 1/7\n❌ Otro que nos gusta 🔥 · 1,44\n✅ Vamos con la combi del miércoles familia 🔥\n❌ Bayern: más de 16,5 remates · 1,73\n⏳ Dybala (Roma): 2+ remates · 1,44 · pendiente\n❌ Liverpool saca más córners · 1,57\n❌ Otro que nos gusta mucho 🍀 · 1,67\n✅ Pick para la noche 👇 · 1,40\n✅ Hoy hay partidazo: Sporting CP 🆚 Manchester United ⭐⭐\n❌ 🤑 LA CENTENARIA x31,36 🤑 · 31,36\n❔ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · faltan datos\n❔ ⚽ AMBOS MARCAN MAÑANA ⚽ · faltan datos\n❔ 🥊 EL DUELO DE TIROS 🥊 · 2,86 · faltan datos\n❔ 🤑💸 LA DE x34,50 🤑💸 · 34,50 · faltan datos\n⏳ 💥 COMBI CRYSTAL PALACE – REAL SOCIEDAD 💥 · 7,25 · pendiente\n\n✅ 7 acertadas · ❌ 17 falladas · ⏳ 7 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 7 DE 28 EN VERDE 📊\n\n❌ 🏆 CHAMPIONS LEAGUE - GANADORES\n❌ 🧨 COMBI POR 105 🧨\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n✅ ⚔️ EL DUELO DE TIROS ⚔️ · 4,49\n❌ 🤑💸 COMBI x41,13 🤑💸 · 41,13\n❌ ⏰ TODO A LAS 21:00 ⏰ · 30,53\n❌ 🤑💸 COMBI x406 🤑💸\n❌ 💶 RETO: DE 1€ A 584€ 💶\n❌ 🎯 COMBI DE TIROS · INTER vs VFB STUTTGART 🎯 · 4,99\n⏳ 🎰 LA CENTENARIA x95,99 🎰 · 95,99 · pendiente\n❌ 🕘 TODO A LAS 21:00 🕘 · 6,96\n✅ Gana el Inter · 1,40\n❌ 🤑💸 COMBI x33,88 🤑💸 · 33,88\n❌ 💰🚀 COMBI x608 💰🚀\n❌ 🤑💸 LA MILLONARIA x462 🤑💸\n✅ Iván Fresneda (Sporting): comete 1+ falta · 1,40\n✅ 🪜 Reto escalera · Día 1/7\n❌ Otro que nos gusta 🔥 · 1,44\n✅ Vamos con la combi del miércoles familia 🔥\n❌ Bayern: más de 16,5 remates · 1,73\n⏳ Dybala (Roma): 2+ remates · 1,44 · pendiente\n❌ Liverpool saca más córners · 1,57\n❌ Otro que nos gusta mucho 🍀 · 1,67\n✅ Pick para la noche 👇 · 1,40\n✅ Hoy hay partidazo: Sporting CP 🆚 Manchester United ⭐⭐\n❌ 🤑 LA CENTENARIA x31,36 🤑 · 31,36\n❌ 👑⚽ GANA Y AMBOS MARCAN 👑⚽\n❌ ⚽ AMBOS MARCAN MAÑANA ⚽\n❌ 🥊 EL DUELO DE TIROS 🥊 · 2,86\n❌ 🤑💸 LA DE x34,50 🤑💸 · 34,50\n⏳ 💥 COMBI CRYSTAL PALACE – REAL SOCIEDAD 💥 · 7,25 · pendiente\n\n✅ 7 acertadas · ❌ 21 falladas · ⏳ 3 sin resolver"
   },
   "2026-11-26": {
     "dia": "2026-11-26",
     "total": 32,
     "cuentas": {
-      "verde": 0,
-      "rojo": 2,
+      "verde": 3,
+      "rojo": 18,
       "pendiente": 11,
-      "sin_datos": 19,
+      "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 30
+      "sin_resolver": 11
     },
     "combis": [
       {
         "id": "2026-11-26-ganadores-europa",
         "titulo": "🏆 EUROPA LEAGUE - GANADORES",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
         "id": "2026-11-26-loca-th-0020-x100",
         "titulo": "🎰 LA CENTENARIA x30,82 🎰",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 30.82
       },
       {
         "id": "2026-11-26-loca-th-0040-ganaambos",
         "titulo": "👑⚽ GANA Y AMBOS MARCAN 👑⚽",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
         "id": "2026-11-26-ganadores-conference",
         "titulo": "🏆 CONFERENCE LEAGUE - GANADORES",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
         "id": "2026-11-26-ganadores-resto",
         "titulo": "🏆 PARTIDOS DE HOY - GANADORES",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
         "id": "2026-11-26-loca-th-0300-lista-ambos",
         "titulo": "⚽ AMBOS MARCAN HOY ⚽",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
         "id": "2026-11-26-loca-th-0400-duelo",
         "titulo": "🤺 EL DUELO DE TIROS 🤺",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 4.85
       },
       {
         "id": "2026-11-26-loca-th-0500-x50",
         "titulo": "🎰 LA DE x15,22 🎰",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 15.22
       },
       {
@@ -3834,19 +3834,19 @@
       {
         "id": "2026-11-26-loca-th-0800-x500",
         "titulo": "🧨 COMBI x43,98 🧨",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 43.98
       },
       {
         "id": "2026-11-26-loca-th-0900-lista-corners",
         "titulo": "🚩 CÓRNERS DEL DÍA 🚩",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
         "id": "2026-11-26-loca-th-0920-empates",
         "titulo": "⚖️ LA COMBI DE LOS EMPATES ⚖️",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 49.21
       },
       {
@@ -3858,13 +3858,13 @@
       {
         "id": "2026-11-26-pick-seguro",
         "titulo": "Artur Serobyan (Ararat-Armenia): 2+ tiros",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": 1.5
       },
       {
         "id": "2026-11-26-pick-tip-1",
         "titulo": "Bournemouth marca 2 o más",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": 2.0
       },
       {
@@ -3882,31 +3882,31 @@
       {
         "id": "2026-11-26-pick-seguro-4",
         "titulo": "Richard Sedlacek (FK Jablonec): 1+ tiros",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": 1.53
       },
       {
         "id": "2026-11-26-loca-th-1400-x50",
         "titulo": "🤑 LA DE x8,92 🤑",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 8.92
       },
       {
         "id": "2026-11-26-loca-th-1440-escudos",
         "titulo": "💥 COMBI BRANN – AARHUS 💥",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 3.29
       },
       {
         "id": "2026-11-26-pick-seguro-5",
         "titulo": "Justin Kluivert (Bournemouth) comete 2+ faltas",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 1.62
       },
       {
         "id": "2026-11-26-loca-th-1600-x500",
         "titulo": "🎰 LA LOCURA DE x88,72 🎰",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 88.72
       },
       {
@@ -3942,7 +3942,7 @@
       {
         "id": "2026-11-26-estrella-1636255",
         "titulo": "Hoy hay partidazo: Dinamo Zagreb 🆚 Bayer Leverkusen 🟠⭐",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
@@ -3971,10 +3971,10 @@
       }
     ],
     "picks": {
-      "verde": 1,
-      "rojo": 1,
+      "verde": 24,
+      "rojo": 27,
       "total": 129
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 2 EN VERDE 📊\n\n❔ 🏆 EUROPA LEAGUE - GANADORES · faltan datos\n❔ 🎰 LA CENTENARIA x30,82 🎰 · 30,82 · faltan datos\n❔ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · faltan datos\n❔ 🏆 CONFERENCE LEAGUE - GANADORES · faltan datos\n❔ 🏆 PARTIDOS DE HOY - GANADORES · faltan datos\n❔ ⚽ AMBOS MARCAN HOY ⚽ · faltan datos\n❔ 🤺 EL DUELO DE TIROS 🤺 · 4,85 · faltan datos\n❔ 🎰 LA DE x15,22 🎰 · 15,22 · faltan datos\n❌ 🫣 LA DE LOS TAPADOS 🫣 · 8,53\n❔ 🧨 COMBI x43,98 🧨 · 43,98 · faltan datos\n❔ 🚩 CÓRNERS DEL DÍA 🚩 · faltan datos\n❔ ⚖️ LA COMBI DE LOS EMPATES ⚖️ · 49,21 · faltan datos\n⏳ 🎯 COMBI DE TIROS · SC FREIBURG vs TWENTE 🎯 · 10,03 · pendiente\n❔ Artur Serobyan (Ararat-Armenia): 2+ tiros · 1,50 · faltan datos\n❔ Bournemouth marca 2 o más · 2,00 · faltan datos\n❌ 🤑💸 COMBI POR 34,84 🤑💸 · 34,84\n⏳ Orri Steinn Oskarsson (Real Sociedad): 3+ tiros · 1,62 · pendiente\n❔ Richard Sedlacek (FK Jablonec): 1+ tiros · 1,53 · faltan datos\n❔ 🤑 LA DE x8,92 🤑 · 8,92 · faltan datos\n❔ 💥 COMBI BRANN – AARHUS 💥 · 3,29 · faltan datos\n❔ Justin Kluivert (Bournemouth) comete 2+ faltas · 1,62 · faltan datos\n❔ 🎰 LA LOCURA DE x88,72 🎰 · 88,72 · faltan datos\n⏳ Trai Hume (Sunderland) comete 1+ faltas · 1,36 · pendiente\n⏳ 💥 COMBI SC FREIBURG – TWENTE 💥 · 5,06 · pendiente\n⏳ 🔥 COMBI SPARTA PRAHA – AZ ALKMAAR 🔥 · 7,75 · pendiente\n⏳ 🔥 COMBI HNK HAJDUK SPLIT – ST. TRUIDEN 🔥 · 5,95 · pendiente\n⏳ Borac Banja Luka marca · 1,53 · pendiente\n❔ Hoy hay partidazo: Dinamo Zagreb 🆚 Bayer Leverkusen 🟠⭐ · faltan datos\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,18 · pendiente\n⏳ 🤑 COMBI x264 🤑 · pendiente\n⏳ 💰🚀 LA CENTENARIA x29,42 💰🚀 · 29,42 · pendiente\n⏳ Combi de 4 picks · pendiente\n\n✅ 0 acertadas · ❌ 2 falladas · ⏳ 30 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 3 DE 21 EN VERDE 📊\n\n❌ 🏆 EUROPA LEAGUE - GANADORES\n❌ 🎰 LA CENTENARIA x30,82 🎰 · 30,82\n❌ 👑⚽ GANA Y AMBOS MARCAN 👑⚽\n❌ 🏆 CONFERENCE LEAGUE - GANADORES\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❌ 🤺 EL DUELO DE TIROS 🤺 · 4,85\n❌ 🎰 LA DE x15,22 🎰 · 15,22\n❌ 🫣 LA DE LOS TAPADOS 🫣 · 8,53\n❌ 🧨 COMBI x43,98 🧨 · 43,98\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ ⚖️ LA COMBI DE LOS EMPATES ⚖️ · 49,21\n⏳ 🎯 COMBI DE TIROS · SC FREIBURG vs TWENTE 🎯 · 10,03 · pendiente\n✅ Artur Serobyan (Ararat-Armenia): 2+ tiros · 1,50\n✅ Bournemouth marca 2 o más · 2,00\n❌ 🤑💸 COMBI POR 34,84 🤑💸 · 34,84\n⏳ Orri Steinn Oskarsson (Real Sociedad): 3+ tiros · 1,62 · pendiente\n✅ Richard Sedlacek (FK Jablonec): 1+ tiros · 1,53\n❌ 🤑 LA DE x8,92 🤑 · 8,92\n❌ 💥 COMBI BRANN – AARHUS 💥 · 3,29\n❌ Justin Kluivert (Bournemouth) comete 2+ faltas · 1,62\n❌ 🎰 LA LOCURA DE x88,72 🎰 · 88,72\n⏳ Trai Hume (Sunderland) comete 1+ faltas · 1,36 · pendiente\n⏳ 💥 COMBI SC FREIBURG – TWENTE 💥 · 5,06 · pendiente\n⏳ 🔥 COMBI SPARTA PRAHA – AZ ALKMAAR 🔥 · 7,75 · pendiente\n⏳ 🔥 COMBI HNK HAJDUK SPLIT – ST. TRUIDEN 🔥 · 5,95 · pendiente\n⏳ Borac Banja Luka marca · 1,53 · pendiente\n❌ Hoy hay partidazo: Dinamo Zagreb 🆚 Bayer Leverkusen 🟠⭐\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,18 · pendiente\n⏳ 🤑 COMBI x264 🤑 · pendiente\n⏳ 💰🚀 LA CENTENARIA x29,42 💰🚀 · 29,42 · pendiente\n⏳ Combi de 4 picks · pendiente\n\n✅ 3 acertadas · ❌ 18 falladas · ⏳ 11 sin resolver"
   }
 }
