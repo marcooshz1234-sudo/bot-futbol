@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 23:27",
+ "actualizado": "2026-11-26 23:37",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4188,
-   "hoy": 168,
+   "seguidores": 4189,
+   "hoy": 169,
    "serie": [
     3248,
     3475,
@@ -24,7 +24,7 @@
     3742,
     3790,
     4020,
-    4188
+    4189
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4786,
- "total_hoy": 181,
+ "total": 4787,
+ "total_hoy": 182,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "23:30",
-  "dia": "2026-11-26",
-  "titulo": "Combi werder bremen – borussia mönchen"
+  "hora": "00:00",
+  "dia": "2026-11-27",
+  "titulo": "Partidos de hoy - ganadores"
  },
  "ayer": {
   "aciertos": 5,
@@ -276,7 +276,7 @@
   },
   "2026-11-26": {
    "instagram": 58,
-   "threads": 4188,
+   "threads": 4189,
    "facebook": 1,
    "telegram": 539
   }
