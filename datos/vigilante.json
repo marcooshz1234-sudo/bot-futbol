@@ -152,24 +152,12 @@
  },
  "abiertos": [
   {
-   "clave": "foto-2026-11-26-verde-auto-2026-11-26-pick-tip-1",
-   "t": "🖼️ Sale a las 21:07 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
-  },
-  {
    "clave": "repe-2026-11-26-1636255|Home Player Shots|Luka Stojkovic - 2",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (estrella-1636255, loca-th-noche-2100-x100, loca-th-noche-2230-duelo)"
   },
   {
    "clave": "repe-2026-11-26-1636301|Home Player Shots|Ahmetcan Kaplan - 1",
    "t": "🔁 26/11: el mismo pronóstico en 4 posts (combi-partido-1636301, loca-th-noche-2300-x50, loca-th-0020-x100, loca-th-1140-x100)"
-  },
-  {
-   "clave": "repe-2026-11-26-1636381|Total - Away|Over 0.5",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0020-x100, loca-th-1140-x100)"
-  },
-  {
-   "clave": "repe-2026-11-26-1636435|Double Chance|Draw/Away",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0700-tapados, loca-th-1140-x100)"
   },
   {
    "clave": "repe-2026-11-26-1636421|Both Teams Score|Yes",
@@ -180,20 +168,12 @@
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0500-x50, loca-th-1140-x100)"
   },
   {
-   "clave": "repe-2026-11-26-1636381|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
+   "clave": "repe-2026-11-26-1636435|Double Chance|Draw/Away",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0700-tapados, loca-th-1140-x100)"
   },
   {
-   "clave": "repe-2026-11-26-1636393|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2300-x50, loca-th-1440-escudos)"
-  },
-  {
-   "clave": "repe-2026-11-26-1636410|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1700-escudos)"
-  },
-  {
-   "clave": "repe-2026-11-26-1636261|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
+   "clave": "repe-2026-11-26-1636381|Total - Away|Over 0.5",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0020-x100, loca-th-1140-x100)"
   },
   {
    "clave": "repe-2026-11-26-1636252|Both Teams Score|Yes",
@@ -204,12 +184,28 @@
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2300-x50, loca-th-0300-lista-ambos)"
   },
   {
+   "clave": "repe-2026-11-26-1636349|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
+  },
+  {
    "clave": "repe-2026-11-26-1636315|Both Teams Score|Yes",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-26-1636349|Both Teams Score|Yes",
+   "clave": "repe-2026-11-26-1636393|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2300-x50, loca-th-1440-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636381|Both Teams Score|Yes",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636261|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636410|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1700-escudos)"
   },
   {
    "clave": "repe-2026-11-26-1636393|To Win Either Half|Home",
@@ -240,7 +236,7 @@
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
   }
  ],
- "revisado": "2026-11-26T21:03",
+ "revisado": "2026-11-26T21:13",
  "historial": [
   {
    "hora": "2026-11-26T21:03",
