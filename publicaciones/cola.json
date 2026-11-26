@@ -1756,5 +1756,16 @@
     "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
     "requiere_ok": true,
     "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
+  },
+  {
+    "id": "2026-11-26-verde-auto-2026-11-26-pick-seguro",
+    "fecha": "2026-11-26T20:21",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Artur Serobyan (Ararat-Armenia): 2+ tiros\n\n📈 Cuota @1,50\n\nOtra más pa' la saca familia 😎",
+    "foto": "publicaciones/media/2026-11-26-verde-auto-2026-11-26-pick-seguro.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-26-pick-seguro"
   }
 ]
