@@ -61,65 +61,9 @@
    "post": "2026-11-23-cuotaza-1608377-181ed6"
   }
  },
- "top": [
-  {
-   "local": "FK Jablonec",
-   "visitante": "FC Lugano",
-   "inicio": "2026-11-26T18:45",
-   "texto": "FC Lugano marca 2 o más",
-   "cuota": 2.0,
-   "justa": 1.98,
-   "ev": 0.008,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Ajax",
-   "visitante": "FC Thun",
-   "inicio": "2026-11-26T18:45",
-   "texto": "Ambos marcan en Ajax–FC Thun",
-   "cuota": 1.73,
-   "justa": 1.73,
-   "ev": -0.0,
-   "fuente": "las otras casas",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Brann",
-   "visitante": "Aarhus",
-   "inicio": "2026-11-26T18:45",
-   "texto": "Gana el Brann",
-   "cuota": 2.15,
-   "justa": 2.16,
-   "ev": -0.003,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Dinamo Zagreb",
-   "visitante": "Bayer Leverkusen",
-   "inicio": "2026-11-26T18:45",
-   "texto": "Gana el Bayer Leverkusen",
-   "cuota": 1.67,
-   "justa": 1.68,
-   "ev": -0.008,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "FK Jablonec",
-   "visitante": "FC Lugano",
-   "inicio": "2026-11-26T18:45",
-   "texto": "FC Lugano o empate",
-   "cuota": 1.4,
-   "justa": 1.42,
-   "ev": -0.014,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  }
- ],
+ "top": [],
  "ultima": {
-  "hora": "2026-11-26T18:12",
+  "hora": "2026-11-26T18:33",
   "revisadas": 0,
   "mejor": null
  },
