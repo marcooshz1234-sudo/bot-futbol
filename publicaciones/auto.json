@@ -14498,18 +14498,19 @@
       "1636270|Away Player Shots|Jon Stankovic - 1"
     ],
     "cuotas": [
-      1.8,
+      1.73,
       1.62,
-      1.36,
+      1.33,
       1.73,
       1.53,
-      1.67,
+      1.5,
       1.4,
       1.73,
-      1.44,
+      1.57,
       1.3
     ],
-    "solo_redes": true
+    "solo_redes": true,
+    "cuotas_revisadas": "2026-11-26T13:31"
   },
   {
     "id": "2026-11-26-pick-seguro-6",
