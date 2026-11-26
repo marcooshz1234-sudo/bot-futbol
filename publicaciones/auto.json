@@ -16816,9 +16816,9 @@
       "1575237|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.73,
-      1.4,
-      1.5,
+      1.57,
+      1.36,
+      1.53,
       1.67
     ],
     "origen": "threads_locas",
@@ -16838,6 +16838,7 @@
       "liga": "Bundesliga"
     },
     "cuota_total": 5.57,
-    "cuota_calculada": true
+    "cuota_calculada": true,
+    "cuotas_revisadas": "2026-11-26T22:04"
   }
 ]
