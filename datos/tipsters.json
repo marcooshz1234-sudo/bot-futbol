@@ -4561,7 +4561,12 @@
    "liga": "UEFA Europa League",
    "cuota_bet365": 2.0,
    "prob_cuota": 0.641
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   2
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
@@ -4586,7 +4591,12 @@
    "liga": "UEFA Europa League",
    "cuota_bet365": 1.44,
    "prob_cuota": 0.667
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   0,
+   2
+  ]
  },
  {
   "tipster": "Tipster Pérez",
@@ -4610,7 +4620,12 @@
   "analisis": {
    "liga": "UEFA Europa League",
    "prob_cuota": 0.602
-  }
+  },
+  "estado": null,
+  "marcador": [
+   1,
+   2
+  ]
  },
  {
   "tipster": "OC TIPSTER",
@@ -4634,7 +4649,12 @@
   "analisis": {
    "liga": "UEFA Europa League",
    "prob_cuota": 0.042
-  }
+  },
+  "estado": null,
+  "marcador": [
+   1,
+   2
+  ]
  },
  {
   "tipster": "ICARDI | PICKS",
@@ -4674,7 +4694,12 @@
    "liga": "UEFA Europa League",
    "cuota_bet365": 1.44,
    "prob_cuota": 0.546
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   0,
+   2
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
@@ -4693,6 +4718,37 @@
    "Ninguno de los dos defiende con solidez en sus últimos partidos, lo que favorece que haya goles por ambos lados.",
    "El mercado ve muy probable el +2.5 y la cuota 1.50 lo refleja."
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1636301,
+  "analisis": {
+   "liga": "UEFA Europa League",
+   "cuota_bet365": 1.53,
+   "prob_cuota": 0.667
+  }
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "-1001550157115/101181",
+  "dia": "2026-11-26",
+  "local": "Celta Vigo",
+  "visitante": "Bournemouth",
+  "partido_id": 1636244,
+  "texto": "Gana el Bournemouth",
+  "mercado": "Match Winner",
+  "opcion": "Away",
+  "cuota": 1.9,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Europa League",
+   "cuota_bet365": 2.0,
+   "prob_cuota": 0.526
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   2
+  ]
  }
 ]
