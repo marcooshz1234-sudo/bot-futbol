@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-26",
- "generado": "2026-11-26T17:55+01:00",
+ "generado": "2026-11-26T18:27+01:00",
  "rango": [
   "2026-11-26",
   "2026-11-29"
@@ -9,46 +9,6 @@
   {
    "liga": "Europa League",
    "patas": [
-    {
-     "sel": "1636307|Corners 1x2|Home",
-     "texto": "Olympiakos Piraeus saca más córners",
-     "cuota": 1.57,
-     "p": 0.927,
-     "dato": "7,3 córners de Olympiakos Piraeus contra 2,4 del rival",
-     "nota": 1.141273627557095,
-     "partido": "Olympiakos Piraeus–AC Milan",
-     "hora": "2026-11-26T18:45",
-     "logo_l": "https://media.api-sports.io/football/teams/553.png",
-     "logo_v": "https://media.api-sports.io/football/teams/489.png"
-    },
-    {
-     "sel": "1636244|Player Fouls Committed|Alvaro Nunez - 1",
-     "texto": "Alvaro Nunez: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,04 por 90' (1-1-1-1-1)",
-     "nota": 0.976,
-     "equipo": "Celta Vigo",
-     "lado": "L",
-     "partido": "Celta Vigo–Bournemouth",
-     "hora": "2026-11-26T18:45",
-     "logo_l": "https://media.api-sports.io/football/teams/538.png",
-     "logo_v": "https://media.api-sports.io/football/teams/35.png"
-    },
-    {
-     "sel": "1636255|Away Player Shots|Miguel Gutierrez - 1",
-     "texto": "Miguel Gutierrez: 1+ remate",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 0,83 por 90' (1-1-1-1-1-0)",
-     "nota": 0.864,
-     "equipo": "Bayer Leverkusen",
-     "lado": "V",
-     "partido": "Dinamo Zagreb–Bayer Leverkusen",
-     "hora": "2026-11-26T18:45",
-     "logo_l": "https://media.api-sports.io/football/teams/620.png",
-     "logo_v": "https://media.api-sports.io/football/teams/168.png"
-    },
     {
      "sel": "1636349|Home Corners Over/Under|Over 3.5",
      "texto": "Torreense: más de 3,5 córners",
@@ -100,65 +60,39 @@
      "hora": "2026-11-26T21:00",
      "logo_l": "https://media.api-sports.io/football/teams/746.png",
      "logo_v": "https://media.api-sports.io/football/teams/336.png"
+    },
+    {
+     "sel": "1636301|Home Corners Over/Under|Over 4.5",
+     "texto": "NEC Nijmegen: más de 4,5 córners",
+     "cuota": 1.73,
+     "p": 0.741,
+     "dato": "NEC Nijmegen saca 6,5 córners y el rival concede 5,9",
+     "nota": 0.8356342069960049,
+     "partido": "NEC Nijmegen–Rennes",
+     "hora": "2026-11-26T21:00",
+     "logo_l": "https://media.api-sports.io/football/teams/413.png",
+     "logo_v": "https://media.api-sports.io/football/teams/94.png"
+    },
+    {
+     "sel": "1636261|Away Corners Over/Under|Over 2.5",
+     "texto": "Celje: más de 2,5 córners",
+     "cuota": 1.62,
+     "p": 0.688,
+     "dato": "Celje saca 2,8 córners y el rival concede 4,3",
+     "nota": 0.7218261746530013,
+     "partido": "Ferencvarosi TC–Celje",
+     "hora": "2026-11-26T21:00",
+     "logo_l": "https://media.api-sports.io/football/teams/651.png",
+     "logo_v": "https://media.api-sports.io/football/teams/4360.png"
     }
    ],
-   "cuota": 20.55,
-   "media": 0.9634222631922654,
+   "cuota": 18.2,
+   "media": 0.8866904327396282,
    "dia": "2026-11-26"
   },
   {
    "liga": "Conference League",
    "patas": [
-    {
-     "sel": "1636393|Corners 1x2|Home",
-     "texto": "Brann saca más córners",
-     "cuota": 1.62,
-     "p": 0.992,
-     "dato": "11,2 córners de Brann contra 2,4 del rival",
-     "nota": 1.2711149069570369,
-     "partido": "Brann–Aarhus",
-     "hora": "2026-11-26T18:45",
-     "logo_l": "https://media.api-sports.io/football/teams/319.png",
-     "logo_v": "https://media.api-sports.io/football/teams/406.png"
-    },
-    {
-     "sel": "1636405|Away Corners Over/Under|Over 1.5",
-     "texto": "Lincoln Red Imps FC: más de 1,5 córners",
-     "cuota": 1.62,
-     "p": 0.954,
-     "dato": "Lincoln Red Imps FC saca 4,5 córners y el rival concede 5,2",
-     "nota": 1.203109224320023,
-     "partido": "Egnatia Rrogozhinë–Lincoln Red Imps FC",
-     "hora": "2026-11-26T18:45",
-     "logo_l": "https://media.api-sports.io/football/teams/3327.png",
-     "logo_v": "https://media.api-sports.io/football/teams/667.png"
-    },
-    {
-     "sel": "1636395|Away Player Shots|Carlos Mora - 1",
-     "texto": "Carlos Mora: 1+ remate",
-     "cuota": 1.57,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 0,84 por 90' (1-1-1-0-1-1)",
-     "nota": 0.9140000000000001,
-     "equipo": "Universitatea Craiova",
-     "lado": "V",
-     "partido": "Brighton–Universitatea Craiova",
-     "hora": "2026-11-26T18:45",
-     "logo_l": "https://media.api-sports.io/football/teams/51.png",
-     "logo_v": "https://media.api-sports.io/football/teams/632.png"
-    },
-    {
-     "sel": "1636438|Total - Home|Over 0.5",
-     "texto": "Kauno Žalgiris marca",
-     "cuota": 1.4,
-     "p": 0.834,
-     "dato": "marca 1,0 por partido y el rival encaja 1,2",
-     "nota": 0.8970595788566323,
-     "partido": "Kauno Žalgiris–Riga",
-     "hora": "2026-11-26T18:45",
-     "logo_l": "https://media.api-sports.io/football/teams/3872.png",
-     "logo_v": "https://media.api-sports.io/football/teams/10124.png"
-    },
     {
      "sel": "1636428|Home Corners Over/Under|Over 2.5",
      "texto": "Inter Club d'Escaldes: más de 2,5 córners",
@@ -194,10 +128,58 @@
      "hora": "2026-11-26T21:00",
      "logo_l": "https://media.api-sports.io/football/teams/608.png",
      "logo_v": "https://media.api-sports.io/football/teams/735.png"
+    },
+    {
+     "sel": "1636457|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.67,
+     "p": 0.747,
+     "dato": "más de 2,5 goles en el 75% y el 100% de sus partidos",
+     "nota": 0.8358301841905904,
+     "partido": "FC Nordsjaelland–Panathinaikos",
+     "hora": "2026-11-26T21:00",
+     "logo_l": "https://media.api-sports.io/football/teams/398.png",
+     "logo_v": "https://media.api-sports.io/football/teams/617.png"
+    },
+    {
+     "sel": "1636412|Home Corners Over/Under|Over 4.5",
+     "texto": "Gent: más de 4,5 córners",
+     "cuota": 1.73,
+     "p": 0.735,
+     "dato": "Gent saca 8,3 córners y el rival concede 4,0",
+     "nota": 0.8238793354553463,
+     "partido": "Gent–FK Crvena Zvezda",
+     "hora": "2026-11-26T21:00",
+     "logo_l": "https://media.api-sports.io/football/teams/631.png",
+     "logo_v": "https://media.api-sports.io/football/teams/598.png"
+    },
+    {
+     "sel": "1636410|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.53,
+     "p": 0.75,
+     "dato": "más de 2,5 goles en el 88% y el 70% de sus partidos",
+     "nota": 0.8172983809101242,
+     "partido": "SC Freiburg–Twente",
+     "hora": "2026-11-26T21:00",
+     "logo_l": "https://media.api-sports.io/football/teams/160.png",
+     "logo_v": "https://media.api-sports.io/football/teams/415.png"
+    },
+    {
+     "sel": "1636402|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte",
+     "cuota": 1.8,
+     "p": 0.702,
+     "dato": "2,4 goles de media en las segundas partes de los dos",
+     "nota": 0.7743455404966263,
+     "partido": "CSKA Sofia–Trabzonspor",
+     "hora": "2026-11-26T21:00",
+     "logo_l": "https://media.api-sports.io/football/teams/853.png",
+     "logo_v": "https://media.api-sports.io/football/teams/998.png"
     }
    ],
-   "cuota": 29.1,
-   "media": 1.0667039139349326,
+   "cuota": 40.14,
+   "media": 0.9189995897805032,
    "dia": "2026-11-26"
   },
   {
@@ -1283,38 +1265,6 @@
    "cuota": 3.89
   },
   {
-   "equipo": "Celta Vigo",
-   "liga": "Europa League",
-   "partido": "Celta Vigo–Bournemouth",
-   "hora": "2026-11-26T18:45",
-   "logo": "https://media.api-sports.io/football/teams/538.png",
-   "patas": [
-    {
-     "sel": "1636244|Player Fouls Committed|Alvaro Nunez - 1",
-     "texto": "Alvaro Nunez: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,04 por 90' (1-1-1-1-1)",
-     "nota": 0.976,
-     "equipo": "Celta Vigo",
-     "lado": "L",
-     "partido": "Celta Vigo–Bournemouth",
-     "hora": "2026-11-26T18:45"
-    },
-    {
-     "sel": "1636244|Total - Home|Over 0.5",
-     "texto": "Celta Vigo marca",
-     "cuota": 1.4,
-     "p": 0.719,
-     "dato": "marca 1,2 por partido y el rival encaja 1,7",
-     "nota": 0.7030837072442692,
-     "partido": "Celta Vigo–Bournemouth",
-     "hora": "2026-11-26T18:45"
-    }
-   ],
-   "cuota": 1.96
-  },
-  {
    "equipo": "Real Sociedad",
    "liga": "Europa League",
    "partido": "Crystal Palace–Real Sociedad",
@@ -1406,36 +1356,6 @@
     }
    ],
    "cuota": 2.34
-  },
-  {
-   "equipo": "Borac Banja Luka",
-   "liga": "Conference League",
-   "partido": "Borac Banja Luka–Atalanta",
-   "hora": "2026-11-26T21:00",
-   "logo": "https://media.api-sports.io/football/teams/3364.png",
-   "patas": [
-    {
-     "sel": "1636386|Home Corners Over/Under|Over 3.5",
-     "texto": "Borac Banja Luka: más de 3,5 córners",
-     "cuota": 1.8,
-     "p": 0.885,
-     "dato": "Borac Banja Luka saca 5,8 córners y el rival concede 7,1",
-     "nota": 1.1208598406784296,
-     "partido": "Borac Banja Luka–Atalanta",
-     "hora": "2026-11-26T21:00"
-    },
-    {
-     "sel": "1636386|Total - Home|Over 0.5",
-     "texto": "Borac Banja Luka marca",
-     "cuota": 1.5,
-     "p": 0.916,
-     "dato": "marca 2,0 por partido y el rival encaja 1,6",
-     "nota": 1.1031775716248373,
-     "partido": "Borac Banja Luka–Atalanta",
-     "hora": "2026-11-26T21:00"
-    }
-   ],
-   "cuota": 2.7
   }
  ],
  "destacadas": [
@@ -1445,116 +1365,6 @@
    "expl": "Una pata de cada partido del jueves 26 (opción 1 de 3)",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1636393|Corners 1x2|Home",
-     "texto": "Brann saca más córners",
-     "cuota": 1.62,
-     "p": 0.992,
-     "dato": "11,2 córners de Brann contra 2,4 del rival",
-     "nota": 1.2711149069570369,
-     "partido": "Brann–Aarhus",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/319.png",
-     "logo_v": "https://media.api-sports.io/football/teams/406.png"
-    },
-    {
-     "sel": "1636405|Away Corners Over/Under|Over 1.5",
-     "texto": "Lincoln Red Imps FC: más de 1,5 córners",
-     "cuota": 1.62,
-     "p": 0.954,
-     "dato": "Lincoln Red Imps FC saca 4,5 córners y el rival concede 5,2",
-     "nota": 1.203109224320023,
-     "partido": "Egnatia Rrogozhinë–Lincoln Red Imps FC",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/3327.png",
-     "logo_v": "https://media.api-sports.io/football/teams/667.png"
-    },
-    {
-     "sel": "1636307|Corners 1x2|Home",
-     "texto": "Olympiakos Piraeus saca más córners",
-     "cuota": 1.57,
-     "p": 0.927,
-     "dato": "7,3 córners de Olympiakos Piraeus contra 2,4 del rival",
-     "nota": 1.141273627557095,
-     "partido": "Olympiakos Piraeus–AC Milan",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/553.png",
-     "logo_v": "https://media.api-sports.io/football/teams/489.png"
-    },
-    {
-     "sel": "1636244|Player Fouls Committed|Alvaro Nunez - 1",
-     "texto": "Alvaro Nunez: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,04 por 90' (1-1-1-1-1)",
-     "nota": 0.976,
-     "equipo": "Celta Vigo",
-     "lado": "L",
-     "partido": "Celta Vigo–Bournemouth",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/538.png",
-     "logo_v": "https://media.api-sports.io/football/teams/35.png"
-    },
-    {
-     "sel": "1636438|Total - Home|Over 0.5",
-     "texto": "Kauno Žalgiris marca",
-     "cuota": 1.4,
-     "p": 0.834,
-     "dato": "marca 1,0 por partido y el rival encaja 1,2",
-     "nota": 0.8970595788566323,
-     "partido": "Kauno Žalgiris–Riga",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/3872.png",
-     "logo_v": "https://media.api-sports.io/football/teams/10124.png"
-    },
-    {
-     "sel": "1636395|Away Player Shots|Carlos Mora - 1",
-     "texto": "Carlos Mora: 1+ remate",
-     "cuota": 1.57,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 0,84 por 90' (1-1-1-0-1-1)",
-     "nota": 0.9140000000000001,
-     "equipo": "Universitatea Craiova",
-     "lado": "V",
-     "partido": "Brighton–Universitatea Craiova",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/51.png",
-     "logo_v": "https://media.api-sports.io/football/teams/632.png"
-    },
-    {
-     "sel": "1636255|Away Player Shots|Miguel Gutierrez - 1",
-     "texto": "Miguel Gutierrez: 1+ remate",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 0,83 por 90' (1-1-1-1-1-0)",
-     "nota": 0.864,
-     "equipo": "Bayer Leverkusen",
-     "lado": "V",
-     "partido": "Dinamo Zagreb–Bayer Leverkusen",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/620.png",
-     "logo_v": "https://media.api-sports.io/football/teams/168.png"
-    },
-    {
-     "sel": "1636315|Goals Over/Under|Over 2.5",
-     "texto": "Más de 2,5 goles",
-     "cuota": 1.44,
-     "p": 0.79,
-     "dato": "más de 2,5 goles en el 100% y el 83% de sus partidos",
-     "nota": 0.8460909863721154,
-     "partido": "Plzen–Benfica",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/567.png",
-     "logo_v": "https://media.api-sports.io/football/teams/211.png"
-    },
     {
      "sel": "1636428|Home Corners Over/Under|Over 2.5",
      "texto": "Inter Club d'Escaldes: más de 2,5 córners",
@@ -1569,12 +1379,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/400.png"
     },
     {
-     "sel": "1636386|Total - Home|Over 0.5",
-     "texto": "Borac Banja Luka marca",
-     "cuota": 1.5,
-     "p": 0.916,
-     "dato": "marca 2,0 por partido y el rival encaja 1,6",
-     "nota": 1.1031775716248373,
+     "sel": "1636386|Home Corners Over/Under|Over 3.5",
+     "texto": "Borac Banja Luka: más de 3,5 córners",
+     "cuota": 1.8,
+     "p": 0.885,
+     "dato": "Borac Banja Luka saca 5,8 córners y el rival concede 7,1",
+     "nota": 1.1208598406784296,
      "partido": "Borac Banja Luka–Atalanta",
      "hora": "2026-11-26T21:00",
      "liga": "Conference League",
@@ -1623,6 +1433,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/336.png"
     },
     {
+     "sel": "1636252|Player Fouls Committed|Jon Aramburu - 2",
+     "texto": "Jon Aramburu: comete 2+ faltas",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 3,83 por 90' (5-8-3-4-2-1)",
+     "nota": 0.9000000000000001,
+     "equipo": "Real Sociedad",
+     "lado": "V",
+     "partido": "Crystal Palace–Real Sociedad",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/52.png",
+     "logo_v": "https://media.api-sports.io/football/teams/548.png"
+    },
+    {
      "sel": "1636410|Home Player Shots|Lukas Kubler - 1",
      "texto": "Lukas Kubler: 1+ remate",
      "cuota": 1.4,
@@ -1636,97 +1461,105 @@
      "liga": "Conference League",
      "logo_l": "https://media.api-sports.io/football/teams/160.png",
      "logo_v": "https://media.api-sports.io/football/teams/415.png"
+    },
+    {
+     "sel": "1636420|To Win Either Half|Home",
+     "texto": "HNK Hajduk Split gana alguna de las dos partes",
+     "cuota": 1.62,
+     "p": 0.755,
+     "dato": "HNK Hajduk Split: VEVVV en sus últimos 5",
+     "nota": 0.8417805913037967,
+     "partido": "HNK Hajduk Split–St. Truiden",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/608.png",
+     "logo_v": "https://media.api-sports.io/football/teams/735.png"
+    },
+    {
+     "sel": "1636457|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.67,
+     "p": 0.747,
+     "dato": "más de 2,5 goles en el 75% y el 100% de sus partidos",
+     "nota": 0.8358301841905904,
+     "partido": "FC Nordsjaelland–Panathinaikos",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/398.png",
+     "logo_v": "https://media.api-sports.io/football/teams/617.png"
+    },
+    {
+     "sel": "1636301|Home Corners Over/Under|Over 4.5",
+     "texto": "NEC Nijmegen: más de 4,5 córners",
+     "cuota": 1.73,
+     "p": 0.741,
+     "dato": "NEC Nijmegen saca 6,5 córners y el rival concede 5,9",
+     "nota": 0.8356342069960049,
+     "partido": "NEC Nijmegen–Rennes",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/413.png",
+     "logo_v": "https://media.api-sports.io/football/teams/94.png"
+    },
+    {
+     "sel": "1636412|Home Corners Over/Under|Over 4.5",
+     "texto": "Gent: más de 4,5 córners",
+     "cuota": 1.73,
+     "p": 0.735,
+     "dato": "Gent saca 8,3 córners y el rival concede 4,0",
+     "nota": 0.8238793354553463,
+     "partido": "Gent–FK Crvena Zvezda",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/631.png",
+     "logo_v": "https://media.api-sports.io/football/teams/598.png"
+    },
+    {
+     "sel": "1636402|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte",
+     "cuota": 1.8,
+     "p": 0.702,
+     "dato": "2,4 goles de media en las segundas partes de los dos",
+     "nota": 0.7743455404966263,
+     "partido": "CSKA Sofia–Trabzonspor",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/853.png",
+     "logo_v": "https://media.api-sports.io/football/teams/998.png"
+    },
+    {
+     "sel": "1636261|Away Corners Over/Under|Over 2.5",
+     "texto": "Celje: más de 2,5 córners",
+     "cuota": 1.62,
+     "p": 0.688,
+     "dato": "Celje saca 2,8 córners y el rival concede 4,3",
+     "nota": 0.7218261746530013,
+     "partido": "Ferencvarosi TC–Celje",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/651.png",
+     "logo_v": "https://media.api-sports.io/football/teams/4360.png"
+    },
+    {
+     "sel": "1636270|Both Teams Score|Yes",
+     "texto": "Ambos marcan (1899 Hoffenheim–Sturm Graz)",
+     "cuota": 1.62,
+     "p": 0.58,
+     "dato": "los dos marcan con facilidad",
+     "nota": 0.58,
+     "partido": "1899 Hoffenheim–Sturm Graz",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/167.png",
+     "logo_v": "https://media.api-sports.io/football/teams/637.png",
+     "solo_todo": true
     }
    ],
-   "cuota": 413.45,
-   "prob": 0.118
+   "cuota": 1082.72,
+   "prob": 0.024
   },
   {
    "patas": [
-    {
-     "sel": "1636307|Corners 1x2|Home",
-     "texto": "Olympiakos Piraeus saca más córners",
-     "cuota": 1.57,
-     "p": 0.927,
-     "dato": "7,3 córners de Olympiakos Piraeus contra 2,4 del rival",
-     "nota": 1.141273627557095,
-     "partido": "Olympiakos Piraeus–AC Milan",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/553.png",
-     "logo_v": "https://media.api-sports.io/football/teams/489.png"
-    },
-    {
-     "sel": "1636244|Player Fouls Committed|Alvaro Nunez - 1",
-     "texto": "Alvaro Nunez: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,04 por 90' (1-1-1-1-1)",
-     "nota": 0.976,
-     "equipo": "Celta Vigo",
-     "lado": "L",
-     "partido": "Celta Vigo–Bournemouth",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/538.png",
-     "logo_v": "https://media.api-sports.io/football/teams/35.png"
-    },
-    {
-     "sel": "1636438|Total - Home|Over 0.5",
-     "texto": "Kauno Žalgiris marca",
-     "cuota": 1.4,
-     "p": 0.834,
-     "dato": "marca 1,0 por partido y el rival encaja 1,2",
-     "nota": 0.8970595788566323,
-     "partido": "Kauno Žalgiris–Riga",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/3872.png",
-     "logo_v": "https://media.api-sports.io/football/teams/10124.png"
-    },
-    {
-     "sel": "1636255|Away Player Shots|Miguel Gutierrez - 1",
-     "texto": "Miguel Gutierrez: 1+ remate",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 0,83 por 90' (1-1-1-1-1-0)",
-     "nota": 0.864,
-     "equipo": "Bayer Leverkusen",
-     "lado": "V",
-     "partido": "Dinamo Zagreb–Bayer Leverkusen",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/620.png",
-     "logo_v": "https://media.api-sports.io/football/teams/168.png"
-    },
-    {
-     "sel": "1636395|Away Player Shots|Carlos Mora - 1",
-     "texto": "Carlos Mora: 1+ remate",
-     "cuota": 1.57,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 0,84 por 90' (1-1-1-0-1-1)",
-     "nota": 0.9140000000000001,
-     "equipo": "Universitatea Craiova",
-     "lado": "V",
-     "partido": "Brighton–Universitatea Craiova",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/51.png",
-     "logo_v": "https://media.api-sports.io/football/teams/632.png"
-    },
-    {
-     "sel": "1636386|Total - Home|Over 0.5",
-     "texto": "Borac Banja Luka marca",
-     "cuota": 1.5,
-     "p": 0.916,
-     "dato": "marca 2,0 por partido y el rival encaja 1,6",
-     "nota": 1.1031775716248373,
-     "partido": "Borac Banja Luka–Atalanta",
-     "hora": "2026-11-26T21:00",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/3364.png",
-     "logo_v": "https://media.api-sports.io/football/teams/499.png"
-    },
     {
      "sel": "1636349|Total - Home|Over 0.5",
      "texto": "Torreense marca",
@@ -1769,69 +1602,6 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/746.png",
      "logo_v": "https://media.api-sports.io/football/teams/336.png"
-    }
-   ],
-   "cuota": 31.56,
-   "prob": 0.216,
-   "clave": "dia-2026-11-26-a",
-   "titulo": "📅 La del jueves · A",
-   "expl": "@30-40 con patas de @1,40-1,60 (la B, otra distinta)",
-   "liga": "Varias"
-  },
-  {
-   "patas": [
-    {
-     "sel": "1636315|Goals Over/Under|Over 2.5",
-     "texto": "Más de 2,5 goles",
-     "cuota": 1.44,
-     "p": 0.79,
-     "dato": "más de 2,5 goles en el 100% y el 83% de sus partidos",
-     "nota": 0.8460909863721154,
-     "partido": "Plzen–Benfica",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/567.png",
-     "logo_v": "https://media.api-sports.io/football/teams/211.png"
-    },
-    {
-     "sel": "1636329|Corners 1x2|Home",
-     "texto": "Union St. Gilloise saca más córners",
-     "cuota": 1.4,
-     "p": 0.736,
-     "dato": "4,8 córners de Union St. Gilloise contra 2,6 del rival",
-     "nota": 0.7308401549296453,
-     "partido": "Union St. Gilloise–Lech Poznan",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/1393.png",
-     "logo_v": "https://media.api-sports.io/football/teams/347.png"
-    },
-    {
-     "sel": "1636421|Total - Home|Over 0.5",
-     "texto": "Heart Of Midlothian marca",
-     "cuota": 1.44,
-     "p": 0.713,
-     "dato": "marca 1,0 por partido y el rival encaja 1,2",
-     "nota": 0.7137988780718192,
-     "partido": "Heart Of Midlothian–Monaco",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/254.png",
-     "logo_v": "https://media.api-sports.io/football/teams/91.png"
-    },
-    {
-     "sel": "1636460|Both Teams Score|Yes",
-     "texto": "Ambos marcan (Pafos–FC Midtjylland)",
-     "cuota": 1.5,
-     "p": 0.631,
-     "dato": "marcan los dos en el 75% y el 50% de sus partidos",
-     "nota": 0.631,
-     "partido": "Pafos–FC Midtjylland",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/3403.png",
-     "logo_v": "https://media.api-sports.io/football/teams/397.png",
-     "solo_todo": true
     },
     {
      "sel": "1636410|Home Player Shots|Lukas Kubler - 1",
@@ -1900,87 +1670,30 @@
      "logo_l": "https://media.api-sports.io/football/teams/853.png",
      "logo_v": "https://media.api-sports.io/football/teams/998.png",
      "solo_todo": true
-    }
-   ],
-   "cuota": 30.57,
-   "prob": 0.049,
-   "clave": "dia-2026-11-26-b",
-   "titulo": "📅 La del jueves · B",
-   "expl": "@30-40 con patas de @1,40-1,60 (la A, otra distinta)",
-   "liga": "Varias"
-  },
-  {
-   "patas": [
-    {
-     "sel": "1636381|Results/Both Teams Score|Home/Yes",
-     "texto": "Gana Ajax y ambos marcan",
-     "cuota": 2.2,
-     "p": 0.439,
-     "dato": "Ajax: VVVEE en sus últimos 5 · se esperan 3,1-1,1 goles",
-     "partido": "Ajax–FC Thun",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/194.png",
-     "logo_v": "https://media.api-sports.io/football/teams/1012.png"
     },
     {
-     "sel": "1636315|Results/Both Teams Score|Away/Yes",
-     "texto": "Gana Benfica y ambos marcan",
-     "cuota": 2.6,
-     "p": 0.368,
-     "dato": "Benfica: VVVVD en sus últimos 5 · se esperan 1,5-2,4 goles",
-     "partido": "Plzen–Benfica",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/567.png",
-     "logo_v": "https://media.api-sports.io/football/teams/211.png"
-    },
-    {
-     "sel": "1636231|Results/Both Teams Score|Home/Yes",
-     "texto": "Gana Beşiktaş y ambos marcan",
-     "cuota": 2.5,
-     "p": 0.356,
-     "dato": "Beşiktaş: EVVVV en sus últimos 5 · se esperan 2,4-0,9 goles",
-     "partido": "Beşiktaş–Hapoel Beer Sheva",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/549.png",
-     "logo_v": "https://media.api-sports.io/football/teams/563.png"
-    }
-   ],
-   "cuota": 14.3,
-   "prob": 0.058,
-   "clave": "tema-2026-11-26-gana_btts",
-   "titulo": "⚽🏆 Gana y ambos marcan · jueves",
-   "expl": "El favorito gana y marcan los dos · @10-15",
-   "liga": "Varias"
-  },
-  {
-   "patas": [
-    {
-     "sel": "1636315|Both Teams Score|Yes",
-     "texto": "Ambos marcan (Plzen–Benfica)",
+     "sel": "1636349|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
      "cuota": 1.57,
-     "p": 0.644,
-     "dato": "marcan los dos en el 67% y el 67% de sus partidos",
-     "partido": "Plzen–Benfica",
-     "hora": "2026-11-26T18:45",
+     "p": 0.777,
+     "dato": "más de 2,5 goles en el 75% y el 100% de sus partidos",
+     "nota": 0.8734085585232001,
+     "partido": "Torreense–Celtic",
+     "hora": "2026-11-26T21:00",
      "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/567.png",
-     "logo_v": "https://media.api-sports.io/football/teams/211.png"
-    },
-    {
-     "sel": "1636255|Both Teams Score|Yes",
-     "texto": "Ambos marcan (Dinamo Zagreb–Bayer Leverkusen)",
-     "cuota": 1.5,
-     "p": 0.641,
-     "dato": "marcan los dos en el 60% y el 50% de sus partidos",
-     "partido": "Dinamo Zagreb–Bayer Leverkusen",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/620.png",
-     "logo_v": "https://media.api-sports.io/football/teams/168.png"
-    },
+     "logo_l": "https://media.api-sports.io/football/teams/4799.png",
+     "logo_v": "https://media.api-sports.io/football/teams/247.png"
+    }
+   ],
+   "cuota": 33.33,
+   "prob": 0.079,
+   "clave": "dia-2026-11-26-a",
+   "titulo": "📅 La del jueves · A",
+   "expl": "@30-40 con patas de @1,40-1,60 (la B, otra distinta)",
+   "liga": "Varias"
+  },
+  {
+   "patas": [
     {
      "sel": "1636301|Both Teams Score|Yes",
      "texto": "Ambos marcan (NEC Nijmegen–Rennes)",
@@ -2028,10 +1741,34 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/52.png",
      "logo_v": "https://media.api-sports.io/football/teams/548.png"
+    },
+    {
+     "sel": "1636336|Both Teams Score|Yes",
+     "texto": "Ambos marcan (Sparta Praha–AZ Alkmaar)",
+     "cuota": 1.53,
+     "p": 0.638,
+     "dato": "marcan los dos en el 100% y el 44% de sus partidos",
+     "partido": "Sparta Praha–AZ Alkmaar",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/628.png",
+     "logo_v": "https://media.api-sports.io/football/teams/201.png"
+    },
+    {
+     "sel": "1636457|Both Teams Score|Yes",
+     "texto": "Ambos marcan (FC Nordsjaelland–Panathinaikos)",
+     "cuota": 1.57,
+     "p": 0.635,
+     "dato": "marcan los dos en el 25% y el 100% de sus partidos",
+     "partido": "FC Nordsjaelland–Panathinaikos",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/398.png",
+     "logo_v": "https://media.api-sports.io/football/teams/617.png"
     }
    ],
-   "cuota": 12.48,
-   "prob": 0.092,
+   "cuota": 12.73,
+   "prob": 0.09,
    "clave": "tema-2026-11-26-btts",
    "titulo": "⚽⚽ Ambos marcan · jueves",
    "expl": "Partidos en los que marcan los dos · @10-15",
@@ -2043,73 +1780,6 @@
    "expl": "Una pata de cada partido del jueves 26 (opción 2 de 3)",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1636393|Corners 1x2|Home",
-     "texto": "Brann saca más córners",
-     "cuota": 1.62,
-     "p": 0.992,
-     "dato": "11,2 córners de Brann contra 2,4 del rival",
-     "nota": 1.2711149069570369,
-     "partido": "Brann–Aarhus",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/319.png",
-     "logo_v": "https://media.api-sports.io/football/teams/406.png"
-    },
-    {
-     "sel": "1636307|Home Corners Over/Under|Over 4.5",
-     "texto": "Olympiakos Piraeus: más de 4,5 córners",
-     "cuota": 1.62,
-     "p": 0.853,
-     "dato": "Olympiakos Piraeus saca 10,7 córners y el rival concede 3,9",
-     "nota": 1.0193148696072023,
-     "partido": "Olympiakos Piraeus–AC Milan",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/553.png",
-     "logo_v": "https://media.api-sports.io/football/teams/489.png"
-    },
-    {
-     "sel": "1636438|Total - Home|Over 0.5",
-     "texto": "Kauno Žalgiris marca",
-     "cuota": 1.4,
-     "p": 0.834,
-     "dato": "marca 1,0 por partido y el rival encaja 1,2",
-     "nota": 0.8970595788566323,
-     "partido": "Kauno Žalgiris–Riga",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/3872.png",
-     "logo_v": "https://media.api-sports.io/football/teams/10124.png"
-    },
-    {
-     "sel": "1636395|Away Player Shots|Carlos Mora - 1",
-     "texto": "Carlos Mora: 1+ remate",
-     "cuota": 1.57,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 0,84 por 90' (1-1-1-0-1-1)",
-     "nota": 0.9140000000000001,
-     "equipo": "Universitatea Craiova",
-     "lado": "V",
-     "partido": "Brighton–Universitatea Craiova",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/51.png",
-     "logo_v": "https://media.api-sports.io/football/teams/632.png"
-    },
-    {
-     "sel": "1636255|Goals Over/Under|Over 2.5",
-     "texto": "Más de 2,5 goles",
-     "cuota": 1.44,
-     "p": 0.788,
-     "dato": "más de 2,5 goles en el 80% y el 88% de sus partidos",
-     "nota": 0.8435199760813242,
-     "partido": "Dinamo Zagreb–Bayer Leverkusen",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/620.png",
-     "logo_v": "https://media.api-sports.io/football/teams/168.png"
-    },
     {
      "sel": "1636386|Home Corners Over/Under|Over 3.5",
      "texto": "Borac Banja Luka: más de 3,5 córners",
@@ -2137,14 +1807,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/247.png"
     },
     {
-     "sel": "1636252|Player Fouls Committed|Jon Aramburu - 2",
-     "texto": "Jon Aramburu: comete 2+ faltas",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 3,83 por 90' (5-8-3-4-2-1)",
-     "nota": 0.9000000000000001,
-     "equipo": "Real Sociedad",
-     "lado": "V",
+     "sel": "1636252|Player Fouls Committed|Oscar Mingueza - 1",
+     "texto": "Oscar Mingueza: comete 1+ falta",
+     "cuota": 1.53,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 2,01 por 90' (1-0-1-4-3)",
+     "nota": 0.8429642857142858,
+     "equipo": "Crystal Palace",
+     "lado": "L",
      "partido": "Crystal Palace–Real Sociedad",
      "hora": "2026-11-26T21:00",
      "liga": "Europa League",
@@ -2204,19 +1874,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/415.png"
     },
     {
-     "sel": "1636457|Goals Over/Under|Over 2.5",
-     "texto": "Más de 2,5 goles",
-     "cuota": 1.67,
-     "p": 0.747,
-     "dato": "más de 2,5 goles en el 75% y el 100% de sus partidos",
-     "nota": 0.8358301841905904,
-     "partido": "FC Nordsjaelland–Panathinaikos",
-     "hora": "2026-11-26T21:00",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/398.png",
-     "logo_v": "https://media.api-sports.io/football/teams/617.png"
-    },
-    {
      "sel": "1636343|Away Corners Over/Under|Over 2.5",
      "texto": "Jagiellonia: más de 2,5 córners",
      "cuota": 1.8,
@@ -2228,10 +1885,90 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/746.png",
      "logo_v": "https://media.api-sports.io/football/teams/336.png"
+    },
+    {
+     "sel": "1636412|Home Corners Over/Under|Over 4.5",
+     "texto": "Gent: más de 4,5 córners",
+     "cuota": 1.73,
+     "p": 0.735,
+     "dato": "Gent saca 8,3 córners y el rival concede 4,0",
+     "nota": 0.8238793354553463,
+     "partido": "Gent–FK Crvena Zvezda",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/631.png",
+     "logo_v": "https://media.api-sports.io/football/teams/598.png"
+    },
+    {
+     "sel": "1636457|Double Chance|Home/Draw",
+     "texto": "FC Nordsjaelland o empate",
+     "cuota": 1.53,
+     "p": 0.721,
+     "dato": "FC Nordsjaelland: EVVV en sus últimos 5",
+     "nota": 0.7674302737791584,
+     "partido": "FC Nordsjaelland–Panathinaikos",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/398.png",
+     "logo_v": "https://media.api-sports.io/football/teams/617.png"
+    },
+    {
+     "sel": "1636301|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.53,
+     "p": 0.713,
+     "dato": "más de 2,5 goles en el 82% y el 71% de sus partidos",
+     "nota": 0.7519261587288875,
+     "partido": "NEC Nijmegen–Rennes",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/413.png",
+     "logo_v": "https://media.api-sports.io/football/teams/94.png"
+    },
+    {
+     "sel": "1636261|Away Corners Over/Under|Over 2.5",
+     "texto": "Celje: más de 2,5 córners",
+     "cuota": 1.62,
+     "p": 0.688,
+     "dato": "Celje saca 2,8 córners y el rival concede 4,3",
+     "nota": 0.7218261746530013,
+     "partido": "Ferencvarosi TC–Celje",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/651.png",
+     "logo_v": "https://media.api-sports.io/football/teams/4360.png"
+    },
+    {
+     "sel": "1636402|Both Teams Score|Yes",
+     "texto": "Ambos marcan (CSKA Sofia–Trabzonspor)",
+     "cuota": 1.53,
+     "p": 0.629,
+     "dato": "marcan los dos en el 60% y el 50% de sus partidos",
+     "nota": 0.629,
+     "partido": "CSKA Sofia–Trabzonspor",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/853.png",
+     "logo_v": "https://media.api-sports.io/football/teams/998.png",
+     "solo_todo": true
+    },
+    {
+     "sel": "1636270|Both Teams Score|Yes",
+     "texto": "Ambos marcan (1899 Hoffenheim–Sturm Graz)",
+     "cuota": 1.62,
+     "p": 0.58,
+     "dato": "los dos marcan con facilidad",
+     "nota": 0.58,
+     "partido": "1899 Hoffenheim–Sturm Graz",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/167.png",
+     "logo_v": "https://media.api-sports.io/football/teams/637.png",
+     "solo_todo": true
     }
    ],
-   "cuota": 546.96,
-   "prob": 0.048
+   "cuota": 653.98,
+   "prob": 0.013
   },
   {
    "clave": "todo-2026-11-26-3",
@@ -2239,73 +1976,6 @@
    "expl": "Una pata de cada partido del jueves 26 (opción 3 de 3)",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1636393|Corners 1x2|Home",
-     "texto": "Brann saca más córners",
-     "cuota": 1.62,
-     "p": 0.992,
-     "dato": "11,2 córners de Brann contra 2,4 del rival",
-     "nota": 1.2711149069570369,
-     "partido": "Brann–Aarhus",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/319.png",
-     "logo_v": "https://media.api-sports.io/football/teams/406.png"
-    },
-    {
-     "sel": "1636307|Corners 1x2|Home",
-     "texto": "Olympiakos Piraeus saca más córners",
-     "cuota": 1.57,
-     "p": 0.927,
-     "dato": "7,3 córners de Olympiakos Piraeus contra 2,4 del rival",
-     "nota": 1.141273627557095,
-     "partido": "Olympiakos Piraeus–AC Milan",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/553.png",
-     "logo_v": "https://media.api-sports.io/football/teams/489.png"
-    },
-    {
-     "sel": "1636438|Total - Home|Over 0.5",
-     "texto": "Kauno Žalgiris marca",
-     "cuota": 1.4,
-     "p": 0.834,
-     "dato": "marca 1,0 por partido y el rival encaja 1,2",
-     "nota": 0.8970595788566323,
-     "partido": "Kauno Žalgiris–Riga",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/3872.png",
-     "logo_v": "https://media.api-sports.io/football/teams/10124.png"
-    },
-    {
-     "sel": "1636395|Away Player Shots|Carlos Mora - 1",
-     "texto": "Carlos Mora: 1+ remate",
-     "cuota": 1.57,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 0,84 por 90' (1-1-1-0-1-1)",
-     "nota": 0.9140000000000001,
-     "equipo": "Universitatea Craiova",
-     "lado": "V",
-     "partido": "Brighton–Universitatea Craiova",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/51.png",
-     "logo_v": "https://media.api-sports.io/football/teams/632.png"
-    },
-    {
-     "sel": "1636329|Corners 1x2|Home",
-     "texto": "Union St. Gilloise saca más córners",
-     "cuota": 1.4,
-     "p": 0.736,
-     "dato": "4,8 córners de Union St. Gilloise contra 2,6 del rival",
-     "nota": 0.7308401549296453,
-     "partido": "Union St. Gilloise–Lech Poznan",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/1393.png",
-     "logo_v": "https://media.api-sports.io/football/teams/347.png"
-    },
     {
      "sel": "1636428|Home Corners Over/Under|Over 2.5",
      "texto": "Inter Club d'Escaldes: más de 2,5 córners",
@@ -2320,12 +1990,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/400.png"
     },
     {
-     "sel": "1636386|Total - Home|Over 0.5",
-     "texto": "Borac Banja Luka marca",
-     "cuota": 1.5,
-     "p": 0.916,
-     "dato": "marca 2,0 por partido y el rival encaja 1,6",
-     "nota": 1.1031775716248373,
+     "sel": "1636386|Home Corners Over/Under|Over 3.5",
+     "texto": "Borac Banja Luka: más de 3,5 córners",
+     "cuota": 1.8,
+     "p": 0.885,
+     "dato": "Borac Banja Luka saca 5,8 córners y el rival concede 7,1",
+     "nota": 1.1208598406784296,
      "partido": "Borac Banja Luka–Atalanta",
      "hora": "2026-11-26T21:00",
      "liga": "Conference League",
@@ -2376,21 +2046,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/415.png"
     },
     {
-     "sel": "1636252|Player Fouls Committed|Oscar Mingueza - 1",
-     "texto": "Oscar Mingueza: comete 1+ falta",
-     "cuota": 1.53,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 2,01 por 90' (1-0-1-4-3)",
-     "nota": 0.8429642857142858,
-     "equipo": "Crystal Palace",
-     "lado": "L",
-     "partido": "Crystal Palace–Real Sociedad",
-     "hora": "2026-11-26T21:00",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/52.png",
-     "logo_v": "https://media.api-sports.io/football/teams/548.png"
-    },
-    {
      "sel": "1636420|To Win Either Half|Home",
      "texto": "HNK Hajduk Split gana alguna de las dos partes",
      "cuota": 1.62,
@@ -2417,6 +2072,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/94.png"
     },
     {
+     "sel": "1636252|Total Shots|Over 27.5",
+     "texto": "Más de 27,5 remates en el partido",
+     "cuota": 1.8,
+     "p": 0.738,
+     "dato": "31,1 remates de media entre los dos",
+     "nota": 0.8419628872315175,
+     "partido": "Crystal Palace–Real Sociedad",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/52.png",
+     "logo_v": "https://media.api-sports.io/football/teams/548.png"
+    },
+    {
      "sel": "1636412|Home Corners Over/Under|Over 4.5",
      "texto": "Gent: más de 4,5 córners",
      "cuota": 1.73,
@@ -2428,10 +2096,77 @@
      "liga": "Conference League",
      "logo_l": "https://media.api-sports.io/football/teams/631.png",
      "logo_v": "https://media.api-sports.io/football/teams/598.png"
+    },
+    {
+     "sel": "1636336|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners",
+     "cuota": 1.73,
+     "p": 0.716,
+     "dato": "11,6 córners de media en los partidos de los dos",
+     "nota": 0.789505898410761,
+     "partido": "Sparta Praha–AZ Alkmaar",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/628.png",
+     "logo_v": "https://media.api-sports.io/football/teams/201.png"
+    },
+    {
+     "sel": "1636402|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte",
+     "cuota": 1.8,
+     "p": 0.702,
+     "dato": "2,4 goles de media en las segundas partes de los dos",
+     "nota": 0.7743455404966263,
+     "partido": "CSKA Sofia–Trabzonspor",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/853.png",
+     "logo_v": "https://media.api-sports.io/football/teams/998.png"
+    },
+    {
+     "sel": "1636261|Away Corners Over/Under|Over 2.5",
+     "texto": "Celje: más de 2,5 córners",
+     "cuota": 1.62,
+     "p": 0.688,
+     "dato": "Celje saca 2,8 córners y el rival concede 4,3",
+     "nota": 0.7218261746530013,
+     "partido": "Ferencvarosi TC–Celje",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/651.png",
+     "logo_v": "https://media.api-sports.io/football/teams/4360.png"
+    },
+    {
+     "sel": "1636457|Both Teams Score|Yes",
+     "texto": "Ambos marcan (FC Nordsjaelland–Panathinaikos)",
+     "cuota": 1.57,
+     "p": 0.635,
+     "dato": "marcan los dos en el 25% y el 100% de sus partidos",
+     "nota": 0.635,
+     "partido": "FC Nordsjaelland–Panathinaikos",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/398.png",
+     "logo_v": "https://media.api-sports.io/football/teams/617.png",
+     "solo_todo": true
+    },
+    {
+     "sel": "1636270|Both Teams Score|Yes",
+     "texto": "Ambos marcan (1899 Hoffenheim–Sturm Graz)",
+     "cuota": 1.62,
+     "p": 0.58,
+     "dato": "los dos marcan con facilidad",
+     "nota": 0.58,
+     "partido": "1899 Hoffenheim–Sturm Graz",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/167.png",
+     "logo_v": "https://media.api-sports.io/football/teams/637.png",
+     "solo_todo": true
     }
    ],
-   "cuota": 476.87,
-   "prob": 0.058
+   "cuota": 1103.66,
+   "prob": 0.015
   },
   {
    "clave": "todo-2026-11-28",
