@@ -1,4 +1,6 @@
 {
-  "comprobado": "2026-11-26 02:12",
-  "error": "Telegram 502: Bad Gateway"
+  "comprobado": "2026-11-26 02:13",
+  "bot": "@combilocas_publica_bot",
+  "rol": "administrator",
+  "puede_publicar": true
 }
