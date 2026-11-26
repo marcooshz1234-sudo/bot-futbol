@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-26",
- "generado": "2026-11-26T09:33+01:00",
+ "generado": "2026-11-26T10:03+01:00",
  "rango": [
   "2026-11-26",
   "2026-11-29"
@@ -156,6 +156,20 @@
      "logo_v": "https://media.api-sports.io/football/teams/10124.png"
     },
     {
+     "sel": "1636431|Home Player Shots|Richard Sedlacek - 1",
+     "texto": "Richard Sedlacek: 1+ remate",
+     "cuota": 1.53,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 0,78 por 90' (1-0-1-1-1)",
+     "nota": 0.8429642857142858,
+     "equipo": "FK Jablonec",
+     "lado": "L",
+     "partido": "FK Jablonec–FC Lugano",
+     "hora": "2026-11-26T18:45",
+     "logo_l": "https://media.api-sports.io/football/teams/1122.png",
+     "logo_v": "https://media.api-sports.io/football/teams/606.png"
+    },
+    {
      "sel": "1636428|Home Corners Over/Under|Over 2.5",
      "texto": "Inter Club d'Escaldes: más de 2,5 córners",
      "cuota": 1.73,
@@ -178,24 +192,10 @@
      "hora": "2026-11-26T21:00",
      "logo_l": "https://media.api-sports.io/football/teams/3364.png",
      "logo_v": "https://media.api-sports.io/football/teams/499.png"
-    },
-    {
-     "sel": "1636410|Away Player Shots|Daouda Weidmann - 2",
-     "texto": "Daouda Weidmann: 2+ remates",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 2,56 por 90' (3-2-1-2-2-4)",
-     "nota": 0.864,
-     "equipo": "Twente",
-     "lado": "V",
-     "partido": "SC Freiburg–Twente",
-     "hora": "2026-11-26T21:00",
-     "logo_l": "https://media.api-sports.io/football/teams/160.png",
-     "logo_v": "https://media.api-sports.io/football/teams/415.png"
     }
    ],
-   "cuota": 25.87,
-   "media": 1.0698781151772472,
+   "cuota": 27.48,
+   "media": 1.066873013136431,
    "dia": "2026-11-26"
   },
   {
@@ -1554,6 +1554,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/646.png"
     },
     {
+     "sel": "1636315|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.44,
+     "p": 0.79,
+     "dato": "más de 2,5 goles en el 100% y el 83% de sus partidos",
+     "nota": 0.8460909863721154,
+     "partido": "Plzen–Benfica",
+     "hora": "2026-11-26T18:45",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/567.png",
+     "logo_v": "https://media.api-sports.io/football/teams/211.png"
+    },
+    {
      "sel": "1636428|Home Corners Over/Under|Over 2.5",
      "texto": "Inter Club d'Escaldes: más de 2,5 córners",
      "cuota": 1.73,
@@ -1619,25 +1632,10 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/746.png",
      "logo_v": "https://media.api-sports.io/football/teams/336.png"
-    },
-    {
-     "sel": "1636410|Away Player Shots|Daouda Weidmann - 2",
-     "texto": "Daouda Weidmann: 2+ remates",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 2,56 por 90' (3-2-1-2-2-4)",
-     "nota": 0.864,
-     "equipo": "Twente",
-     "lado": "V",
-     "partido": "SC Freiburg–Twente",
-     "hora": "2026-11-26T21:00",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/160.png",
-     "logo_v": "https://media.api-sports.io/football/teams/415.png"
     }
    ],
    "cuota": 493.19,
-   "prob": 0.125
+   "prob": 0.123
   },
   {
    "patas": [
@@ -1847,14 +1845,14 @@
      "solo_todo": true
     },
     {
-     "sel": "1636410|Away Player Shots|Daouda Weidmann - 2",
-     "texto": "Daouda Weidmann: 2+ remates",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 2,56 por 90' (3-2-1-2-2-4)",
-     "nota": 0.864,
-     "equipo": "Twente",
-     "lado": "V",
+     "sel": "1636410|Home Player Shots|Lukas Kubler - 1",
+     "texto": "Lukas Kubler: 1+ remate",
+     "cuota": 1.4,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,50 por 90' (1-0-2-3-1)",
+     "nota": 0.7792857142857144,
+     "equipo": "SC Freiburg",
+     "lado": "L",
      "partido": "SC Freiburg–Twente",
      "hora": "2026-11-26T21:00",
      "liga": "Conference League",
@@ -1901,8 +1899,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/94.png"
     }
    ],
-   "cuota": 31.44,
-   "prob": 0.063,
+   "cuota": 30.57,
+   "prob": 0.06,
    "clave": "dia-2026-11-26-b",
    "titulo": "📅 La del jueves · B",
    "expl": "@30-40 con patas de @1,40-1,60 (la A, otra distinta)",
@@ -2110,19 +2108,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/646.png"
     },
     {
-     "sel": "1636315|Goals Over/Under|Over 2.5",
-     "texto": "Más de 2,5 goles",
-     "cuota": 1.44,
-     "p": 0.79,
-     "dato": "más de 2,5 goles en el 100% y el 83% de sus partidos",
-     "nota": 0.8460909863721154,
-     "partido": "Plzen–Benfica",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/567.png",
-     "logo_v": "https://media.api-sports.io/football/teams/211.png"
-    },
-    {
      "sel": "1636255|Goals Over/Under|Over 2.5",
      "texto": "Más de 2,5 goles",
      "cuota": 1.44,
@@ -2231,10 +2216,23 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/628.png",
      "logo_v": "https://media.api-sports.io/football/teams/201.png"
+    },
+    {
+     "sel": "1636420|To Win Either Half|Home",
+     "texto": "HNK Hajduk Split gana alguna de las dos partes",
+     "cuota": 1.62,
+     "p": 0.755,
+     "dato": "HNK Hajduk Split: VEVVV en sus últimos 5",
+     "nota": 0.8417805913037967,
+     "partido": "HNK Hajduk Split–St. Truiden",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/608.png",
+     "logo_v": "https://media.api-sports.io/football/teams/735.png"
     }
    ],
-   "cuota": 407.58,
-   "prob": 0.058
+   "cuota": 458.53,
+   "prob": 0.055
   },
   {
    "clave": "todo-2026-11-26-3",
