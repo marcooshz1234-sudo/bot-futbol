@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 18:51",
+ "actualizado": "2026-11-26 19:02",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4151,
-   "hoy": 131,
+   "seguidores": 4153,
+   "hoy": 133,
    "serie": [
     3248,
     3475,
@@ -24,7 +24,7 @@
     3742,
     3790,
     4020,
-    4151
+    4153
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4748,
- "total_hoy": 143,
+ "total": 4750,
+ "total_hoy": 145,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "19:00",
+  "hora": "19:20",
   "dia": "2026-11-26",
-  "titulo": "Combi x264"
+  "titulo": "Córners del día"
  },
  "ayer": null,
  "escalera": {
@@ -273,7 +273,7 @@
   },
   "2026-11-26": {
    "instagram": 58,
-   "threads": 4151,
+   "threads": 4153,
    "facebook": 1,
    "telegram": 538
   }
