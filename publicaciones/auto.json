@@ -16453,10 +16453,10 @@
       "1636410|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.73,
+      1.57,
       1.5,
-      1.53,
-      1.73
+      1.57,
+      1.8
     ],
     "solo_redes": true,
     "origen": "threads_locas",
@@ -16476,7 +16476,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-26T15:31"
+    "cuotas_revisadas": "2026-11-26T16:03"
   },
   {
     "id": "2026-11-26-loca-th-1720-escudos",

@@ -3119,10 +3119,146 @@
    }
   },
   "1636435": {
-   "hora": "2026-11-26T15:52:48.977269+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-26T16:04:01.111758+01:00",
+   "xi": [
+    "T. Anarbekov",
+    "D. Kasabulat",
+    "A. Martynovich",
+    "A. Shirobokov",
+    "Luís Mata",
+    "E. Tapalov",
+    "J. Oksanen",
+    "Gustavo Mendonça",
+    "O. Jukkola",
+    "Edmilson",
+    "Marc Gual",
+    "A. Lundin",
+    "Abdullah Iqbal",
+    "A. Norén",
+    "T. Pettersson",
+    "M. Agnarsson",
+    "R. Leandersson",
+    "J. Gustavsson",
+    "V. Gustafson",
+    "Villiam Granath",
+    "A. Youssef",
+    "J. Kjær"
+   ],
+   "banquillo": [
+    "I. Bekbolat",
+    "M. Birkurmanov",
+    "K. Makhametzhan",
+    "A. Mrynskiy",
+    "A. Sadybekov",
+    "A. Tuyakbayev",
+    "A. Nurgaliev",
+    "O. Baybek",
+    "S. Kalmurza",
+    "R. Wallinder",
+    "L. Tidstrand",
+    "L. Svanberg",
+    "Á. Samuelsen",
+    "M. Nielsen",
+    "Olle Lindberg",
+    "Mans Isaksson",
+    "I. Hoffmann",
+    "T. Helge",
+    "S. Hansen"
+   ],
+   "equipos": {
+    "664": [
+     {
+      "n": "T. Anarbekov",
+      "pos": "G"
+     },
+     {
+      "n": "D. Kasabulat",
+      "pos": "D"
+     },
+     {
+      "n": "A. Martynovich",
+      "pos": "D"
+     },
+     {
+      "n": "A. Shirobokov",
+      "pos": "D"
+     },
+     {
+      "n": "Luís Mata",
+      "pos": "D"
+     },
+     {
+      "n": "E. Tapalov",
+      "pos": "M"
+     },
+     {
+      "n": "J. Oksanen",
+      "pos": "M"
+     },
+     {
+      "n": "Gustavo Mendonça",
+      "pos": "M"
+     },
+     {
+      "n": "O. Jukkola",
+      "pos": "M"
+     },
+     {
+      "n": "Edmilson",
+      "pos": "F"
+     },
+     {
+      "n": "Marc Gual",
+      "pos": "F"
+     }
+    ],
+    "2240": [
+     {
+      "n": "A. Lundin",
+      "pos": "G"
+     },
+     {
+      "n": "Abdullah Iqbal",
+      "pos": "D"
+     },
+     {
+      "n": "A. Norén",
+      "pos": "D"
+     },
+     {
+      "n": "T. Pettersson",
+      "pos": "D"
+     },
+     {
+      "n": "M. Agnarsson",
+      "pos": "D"
+     },
+     {
+      "n": "R. Leandersson",
+      "pos": "M"
+     },
+     {
+      "n": "J. Gustavsson",
+      "pos": "M"
+     },
+     {
+      "n": "V. Gustafson",
+      "pos": "M"
+     },
+     {
+      "n": "Villiam Granath",
+      "pos": "F"
+     },
+     {
+      "n": "A. Youssef",
+      "pos": "F"
+     },
+     {
+      "n": "J. Kjær",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
