@@ -16902,5 +16902,306 @@
     "solo_redes": true,
     "cuota_total": 4.62,
     "cuota_calculada": true
+  },
+  {
+    "id": "2026-11-27-loca-th-0100-ganaambos",
+    "fecha": "2026-11-27T01:00",
+    "texto": "👑⚽ GANA Y AMBOS MARCAN 👑⚽\n\n🇩🇪 Werder Bremen – Borussia Mönchengladbach · 20:30\n✅ ↔️ Gana Werder Bremen y ambos marcan\n\n🇫🇷 Stade Brestois 29 – Paris FC · 20:45\n✅ ↔️ Gana Paris FC y ambos marcan\n\n🇮🇹 Venezia – Bologna · 20:45\n✅ ↔️ Gana Bologna y ambos marcan\n\n🎯 CUOTA 61,70 💎 · 10€ → 617€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1575237|Results/Both Teams Score|Home/Yes",
+      "1550216|Results/Both Teams Score|Away/Yes",
+      "1552830|Results/Both Teams Score|Away/Yes"
+    ],
+    "cuotas": [
+      3.0,
+      4.75,
+      4.33
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 61.7,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "ganadores_img": {
+      "titulo": "GANA Y AMBOS MARCAN",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Germany",
+          "bandera": "🇩🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/162.png",
+          "nombre": "Werder Bremen",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/500.png",
+          "nombre": "Bologna",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/114.png",
+          "nombre": "Paris FC",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        }
+      ],
+      "lema": null
+    }
+  },
+  {
+    "id": "2026-11-27-loca-th-0200-lista-corners",
+    "fecha": "2026-11-27T02:00",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇩🇪 Werder Bremen–Borussia Mönchengladbach ➜ Borussia Mönchengladbach más de 3,5 córners @1,67\n2. 🇫🇷 Stade Brestois 29–Paris FC ➜ Paris FC más córners @1,73\n3. 🇪🇸 Levante–Racing Santander ➜ Levante más córners @1,73\n4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Nottingham Forest–Chelsea ➜ +9,5 córners @1,73\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1575237|Away Corners Over/Under|Over 3.5",
+      "1552830|Corners 1x2|Away",
+      "1557485|Corners Over Under|Over 9.5",
+      "1570468|Corners 1x2|Home"
+    ],
+    "cuotas": [
+      1.67,
+      1.73,
+      1.73,
+      1.73
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-27-loca-th-0300-duelo",
+    "fecha": "2026-11-27T03:00",
+    "texto": "🥊 EL DUELO DE TIROS 🥊\n\n⭐ Nottingham Forest vs Chelsea · 21:00\n\n✅ 🎯 Liam Delap: 3+ tiros (Nottingham Forest)\n✅ 🎯 Morgan Rogers: 2+ tiros (Chelsea)\n\n🎯 CUOTA 2,54 aprox. 💎 · 10€ → 25,40€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1557485|Home Player Shots|Liam Delap - 3",
+      "1557485|Away Player Shots|Morgan Rogers - 2"
+    ],
+    "cuotas": [
+      1.73,
+      1.44
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.54,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-27-loca-th-0500-x500",
+    "fecha": "2026-11-27T05:00",
+    "texto": "🎰 COMBI x161 🎰\n\n🇩🇪 Werder Bremen–Borussia Mönchengladbach 20:30\n🌀 +9,5 córners · 🥅 Niclas Fullkrug marca\n🇮🇹 Venezia–Bologna 20:45\n🌀 +9,5 córners · ⏱️ +1,5 goles en la 2ª parte del Venezia–Bologna · ⚡ Gana el Bologna\n🇫🇷 Stade Brestois 29–Paris FC 20:45\n⏱️ +1,5 goles en la 2ª parte del Stade Brestois 29–Paris FC\n🇪🇸 Levante–Racing Santander 21:00\n🥅 Racing Santander marca 2+ · ⚡ Racing Santander gana una parte\n\n🎯 CUOTA 161 aprox. 💎 10€ → 1.612€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+    "sel": [
+      "1575237|Corners Over Under|Over 9.5",
+      "1575237|Anytime Goal Scorer|Niclas Fullkrug",
+      "1550216|Corners Over Under|Over 9.5",
+      "1550216|Goals Over/Under - Second Half|Over 1.5",
+      "1550216|Match Winner|Away",
+      "1552830|Goals Over/Under - Second Half|Over 1.5",
+      "1570468|Total - Away|Over 1.5",
+      "1570468|To Win Either Half|Away"
+    ],
+    "cuotas": [
+      1.9,
+      1.91,
+      2.1,
+      2.2,
+      2.2,
+      2.0,
+      2.1,
+      1.91
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 161.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-27-loca-th-0800-reto",
+    "fecha": "2026-11-27T08:00",
+    "texto": "💶 RETO: DE 1€ A 299€ 💶\n\n🇩🇪 Werder Bremen–Borussia Mönchengladbach 20:30\n⚽ Borussia Mönchengladbach marca 2+\n🇮🇹 Venezia–Bologna 20:45\n📈 +1,5 goles en la 2ª parte del Venezia–Bologna · ⚡ Gana el Bologna\n🇫🇷 Stade Brestois 29–Paris FC 20:45\n⚽ Stade Brestois 29 marca 2+\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Nottingham Forest–Chelsea 21:00\n⚽ Chelsea marca 2+ · 🚩 Chelsea más de 5,5 córners\n🇪🇸 Levante–Racing Santander 21:00\n⚽ Racing Santander marca 2+\n\n🎯 CUOTA 299 aprox. 💎 1€ → 299€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+    "sel": [
+      "1575237|Total - Away|Over 1.5",
+      "1550216|Goals Over/Under - Second Half|Over 1.5",
+      "1550216|Match Winner|Away",
+      "1552830|Total - Home|Over 1.5",
+      "1557485|Total - Away|Over 1.5",
+      "1557485|Away Corners Over/Under|Over 5.5",
+      "1570468|Total - Away|Over 1.5"
+    ],
+    "cuotas": [
+      2.62,
+      2.2,
+      2.2,
+      2.62,
+      2.25,
+      2.2,
+      2.1
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 299.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-27-loca-th-0900-tiros",
+    "fecha": "2026-11-27T09:00",
+    "texto": "🎯 COMBI DE TIROS · NOTTINGHAM FOREST vs CHELSEA 🎯\n\n⭐ Nottingham Forest – Chelsea · 21:00\n🦵 Cole Palmer comete 1+ faltas\n🎯 Morgan Rogers: 2+ tiros\n🎯 Liam Delap: 3+ tiros\n\n🎯 CUOTA 3,99 aprox. 💎 · 10€ → 39,90€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
+    "sel": [
+      "1557485|Player Fouls Committed|Cole Palmer - 1",
+      "1557485|Away Player Shots|Morgan Rogers - 2",
+      "1557485|Home Player Shots|Liam Delap - 3"
+    ],
+    "cuotas": [
+      1.62,
+      1.44,
+      1.73
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 3.99,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-27-loca-th-1230-x500",
+    "fecha": "2026-11-27T12:30",
+    "texto": "🤑💸 LA LOCURA DE x117 🤑💸\n\n🇩🇪 Werder Bremen–Borussia Mönchengladbach 20:30\n✅ 🚩 +9,5 córners · ✅ 🎯 Niclas Fullkrug marca\n🇮🇹 Venezia–Bologna 20:45\n✅ 🚩 Bologna más de 4,5 córners · ✅ 🎯 Bologna marca 2+ · ✅ 🏆 Gana el Bologna\n🇫🇷 Stade Brestois 29–Paris FC 20:45\n✅ 📈 +1,5 goles en la 2ª parte del Stade Brestois 29–Paris FC\n🇪🇸 Levante–Racing Santander 21:00\n✅ 🏆 Racing Santander gana una parte · ✅ 🎯 Racing Santander marca 2+\n\n🎯 CUOTA 117 aprox. 💎 10€ → 1.172€\n✅ 🔥 ¡A POR ELLA, FAMILIA! 🔥",
+    "sel": [
+      "1575237|Corners Over Under|Over 9.5",
+      "1575237|Anytime Goal Scorer|Niclas Fullkrug",
+      "1550216|Away Corners Over/Under|Over 4.5",
+      "1550216|Total - Away|Over 1.5",
+      "1550216|Match Winner|Away",
+      "1552830|Goals Over/Under - Second Half|Over 1.5",
+      "1570468|To Win Either Half|Away",
+      "1570468|Total - Away|Over 1.5"
+    ],
+    "cuotas": [
+      1.9,
+      1.91,
+      2.0,
+      2.2,
+      2.2,
+      2.0,
+      1.91,
+      2.1
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 117.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-27-loca-th-1630-escudos",
+    "fecha": "2026-11-27T16:30",
+    "texto": "🔥 COMBI VENEZIA – BOLOGNA 🔥\n\n⭐ Venezia vs Bologna · 20:45\n\n🦵 Kike Perez comete 2+ faltas\n🎳 Jens Odgaard: 2+ tiros\n🦁 Bologna gana una parte\n💥 Bologna marca 2+\n\n🎯 CUOTA 7,01 aprox. 💎 10€ → 70,10€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1550216|Player Fouls Committed|Kike Perez - 2",
+      "1550216|Away Player Shots|Jens Odgaard - 2",
+      "1550216|To Win Either Half|Away",
+      "1550216|Total - Away|Over 1.5"
+    ],
+    "cuotas": [
+      1.62,
+      1.44,
+      1.67,
+      2.2
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Venezia",
+      "visitante": "Bologna",
+      "id_l": 517,
+      "id_v": 500,
+      "logo_l": "https://media.api-sports.io/football/teams/517.png",
+      "logo_v": "https://media.api-sports.io/football/teams/500.png",
+      "fecha": "2026-11-27T20:45",
+      "liga": "Serie A"
+    },
+    "cuota_total": 7.01,
+    "cuota_calculada": true,
+    "cuota_bet365": 7.01,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-27-loca-th-1700-escudos",
+    "fecha": "2026-11-27T17:00",
+    "texto": "🚨 COMBI LEVANTE – RACING SANTANDER 🚨\n\n⭐ Levante vs Racing Santander · 21:00\n\n✅ ↔️ Ambos marcan\n✅ 📈 +1,5 goles en la 2ª parte del Levante–Racing Santander\n✅ ⚡ Racing Santander gana una parte\n\n🎯 CUOTA 3,59 aprox. 💎 10€ → 35,90€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1570468|Both Teams Score|Yes",
+      "1570468|Goals Over/Under - Second Half|Over 1.5",
+      "1570468|To Win Either Half|Away"
+    ],
+    "cuotas": [
+      1.44,
+      1.67,
+      1.91
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Levante",
+      "visitante": "Racing Santander",
+      "id_l": 539,
+      "id_v": 4665,
+      "logo_l": "https://media.api-sports.io/football/teams/539.png",
+      "logo_v": "https://media.api-sports.io/football/teams/4665.png",
+      "fecha": "2026-11-27T21:00",
+      "liga": "La Liga"
+    },
+    "cuota_total": 3.59,
+    "cuota_calculada": true,
+    "cuota_bet365": 3.59,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
   }
 ]
