@@ -16525,7 +16525,7 @@
     "cuotas": [
       1.67,
       1.8,
-      1.91
+      1.83
     ],
     "solo_redes": true,
     "origen": "threads_locas",
@@ -16544,7 +16544,8 @@
     "cuota_bet365": 5.95,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-26T16:14"
   },
   {
     "id": "2026-11-26-loca-th-1840-duelo",
