@@ -61,9 +61,32 @@
    "post": "2026-11-23-cuotaza-1608377-181ed6"
   }
  },
- "top": [],
+ "top": [
+  {
+   "local": "Brighton",
+   "visitante": "Universitatea Craiova",
+   "inicio": "2026-11-26T18:45",
+   "texto": "Brighton marca 3 o más",
+   "cuota": 1.67,
+   "justa": 1.7,
+   "ev": -0.016,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Pafos",
+   "visitante": "FC Midtjylland",
+   "inicio": "2026-11-26T18:45",
+   "texto": "Pafos o empate",
+   "cuota": 1.67,
+   "justa": 1.7,
+   "ev": -0.016,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  }
+ ],
  "ultima": {
-  "hora": "2026-11-26T06:35",
+  "hora": "2026-11-26T07:04",
   "revisadas": 0,
   "mejor": null
  },
