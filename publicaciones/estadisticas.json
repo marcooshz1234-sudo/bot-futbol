@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 17:30",
+ "actualizado": "2026-11-26 17:42",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4130,
-   "hoy": 110,
+   "seguidores": 4136,
+   "hoy": 116,
    "serie": [
     3248,
     3475,
@@ -24,7 +24,7 @@
     3742,
     3790,
     4020,
-    4130
+    4136
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4725,
- "total_hoy": 120,
+ "total": 4731,
+ "total_hoy": 126,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "17:40",
+  "hora": "18:00",
   "dia": "2026-11-26",
-  "titulo": "Combi hnk hajduk split – st. truiden"
+  "titulo": "Vamos con otro pick"
  },
  "ayer": null,
  "escalera": {
@@ -273,7 +273,7 @@
   },
   "2026-11-26": {
    "instagram": 58,
-   "threads": 4130,
+   "threads": 4136,
    "facebook": 1,
    "telegram": 536
   }
