@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 16:29",
+ "actualizado": "2026-11-26 16:39",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4111,
-   "hoy": 91,
+   "seguidores": 4114,
+   "hoy": 94,
    "serie": [
     3248,
     3475,
@@ -24,7 +24,7 @@
     3742,
     3790,
     4020,
-    4111
+    4114
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4704,
- "total_hoy": 99,
+ "total": 4707,
+ "total_hoy": 102,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:30",
+  "hora": "17:00",
   "dia": "2026-11-26",
-  "titulo": "Pick de hoy, con datos detrás"
+  "titulo": "Combi sc freiburg – twente"
  },
  "ayer": null,
  "escalera": {
@@ -273,7 +273,7 @@
   },
   "2026-11-26": {
    "instagram": 58,
-   "threads": 4111,
+   "threads": 4114,
    "facebook": 1,
    "telegram": 534
   }
