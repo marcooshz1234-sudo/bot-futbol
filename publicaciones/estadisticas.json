@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 12:24",
+ "actualizado": "2026-11-26 12:35",
  "redes": {
   "instagram": {
    "seguidores": 57,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4061,
-   "hoy": 41,
+   "seguidores": 4065,
+   "hoy": 45,
    "serie": [
     3248,
     3475,
@@ -24,7 +24,7 @@
     3742,
     3790,
     4020,
-    4061
+    4065
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4650,
- "total_hoy": 45,
+ "total": 4654,
+ "total_hoy": 49,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "12:30",
+  "hora": "13:30",
   "dia": "2026-11-26",
-  "titulo": "Os dejo el pick, familia"
+  "titulo": "Este lo tenemos claro"
  },
  "ayer": null,
  "escalera": {
@@ -273,7 +273,7 @@
   },
   "2026-11-26": {
    "instagram": 57,
-   "threads": 4061,
+   "threads": 4065,
    "facebook": 1,
    "telegram": 531
   }
