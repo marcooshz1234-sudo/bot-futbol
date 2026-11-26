@@ -1948,6 +1948,35 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-11-26-pick-seguro-6"
+    "verde_de": "2026-11-26-pick-seguro-6",
+    "enviado": "2026-11-26T23:15",
+    "mensaje_id": 647
+  },
+  {
+    "id": "2026-11-26-verde-auto-2026-11-26-loca-th-1700-escudos",
+    "fecha": "2026-11-26T23:15",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Daouda Weidmann: 2+ tiros\n✅ Igor Matanovic: 3+ tiros\n✅ Ambos marcan en SC Freiburg–Twente\n✅ Más de 1,5 goles en la 2ª parte del SC Freiburg–Twente\n\n📈 Cuota @5,06",
+    "foto": "publicaciones/media/2026-11-26-verde-auto-2026-11-26-loca-th-1700-escudos.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-26-loca-th-1700-escudos",
+    "requiere_ok": true,
+    "aviso": "💚 ¡VERDE! Te lo paso porque lleva varias patas del mismo partido y su cuota no está confirmada. Sale cuando le des a Publicar.",
+    "solo_redes": true
+  },
+  {
+    "id": "2026-11-26-balance-auto",
+    "fecha": "2026-11-26T23:17",
+    "texto": "📊 RESUMEN DEL JUEVES 🍀\n\n✅ 5 de 7 picks en verde\n💶 10 € a cada pick → +9,20 €\n\n😤 Se nos escaparon:\n🔸 Orri Steinn Oskarsson: 3+ tiros @1,62 · Crystal Palace 2–1 Real Sociedad (1 de 3 tiros)\n🔸 Justin Kluivert comete 2+ faltas @1,62 · Celta Vigo 1–2 Bournemouth (0 de 2 faltas)\n\n🔔 Mañana más. Activad las notificaciones 👀",
+    "foto": "publicaciones/media/2026-11-26-balance-auto.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true,
+    "solo_en": [
+      "telegram"
+    ]
   }
 ]
