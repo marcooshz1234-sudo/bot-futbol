@@ -16587,10 +16587,10 @@
     "cuotas": [
       2.25,
       2.1,
-      2.38,
+      2.5,
       2.25,
       2.38,
-      2.5,
+      2.75,
       2.2
     ],
     "solo_en": [
@@ -16603,7 +16603,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-26T17:34"
+    "cuotas_revisadas": "2026-11-26T18:42"
   },
   {
     "id": "2026-11-26-loca-th-1920-lista-corners",
