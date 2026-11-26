@@ -151,10 +151,6 @@
  },
  "abiertos": [
   {
-   "clave": "redes-2026-11-26-lista-europa-1-threads-instagram",
-   "t": "⏰ No ha salido en threads ni instagram (12:00): 🏆⚽ COPAS EUROPEAS · 11 PICKS PARA HOY 🍀 (1/2)"
-  },
-  {
    "clave": "redes-2026-11-26-combi-tres-threads-instagram",
    "t": "⏰ No ha salido en threads ni instagram (13:30): Vamos con la combi del jueves familia 🔥"
   },
@@ -175,20 +171,32 @@
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (combi-partido-1636301, loca-th-0700-tapados, loca-th-1420-tapados)"
   },
   {
-   "clave": "repe-2026-11-26-1636435|Double Chance|Draw/Away",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0700-tapados, loca-th-1140-x100)"
-  },
-  {
-   "clave": "repe-2026-11-26-1636381|Anytime Goal Scorer|Toluwalase Arokodare",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0500-x50, loca-th-1140-x100)"
-  },
-  {
    "clave": "repe-2026-11-26-1636421|Both Teams Score|Yes",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-26-1636381|Total - Away|Over 0.5",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0020-x100, loca-th-1140-x100)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636381|Anytime Goal Scorer|Toluwalase Arokodare",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0500-x50, loca-th-1140-x100)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636435|Double Chance|Draw/Away",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0700-tapados, loca-th-1140-x100)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636252|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2330-escudos, loca-th-0300-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636349|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636261|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-26-1636393|Both Teams Score|Yes",
@@ -199,36 +207,24 @@
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2300-x50, loca-th-0300-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-26-1636381|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-26-1636349|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
-  },
-  {
    "clave": "repe-2026-11-26-1636410|Both Teams Score|Yes",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1700-escudos)"
-  },
-  {
-   "clave": "repe-2026-11-26-1636252|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2330-escudos, loca-th-0300-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-26-1636261|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-26-1636315|Both Teams Score|Yes",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-26-1636393|To Win Either Half|Home",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0020-x100, loca-th-1440-escudos)"
+   "clave": "repe-2026-11-26-1636381|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-26-1636301|Home Player Shots|Ahmetcan Kaplan - 1",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0020-x100, loca-th-1140-x100)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636393|To Win Either Half|Home",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0020-x100, loca-th-1440-escudos)"
   },
   {
    "clave": "repe-2026-11-26-1636412|Double Chance|Draw/Away",
@@ -243,12 +239,12 @@
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-0700-tapados, loca-th-0800-x500, loca-th-1420-tapados)"
   },
   {
-   "clave": "prensa-1636386-f1d4d3d3",
-   "t": "📰 Borac Banja Luka–Atalanta: «Hakan Calhanoglu estará de baja entre 3 y 4 semanas tras sufrir una lesión en el muslo en el emocionante parti» (Tribuna.com) · tenemos 2 post(s) de este partido: pick-seguro-2, loca-th-1940-x100"
-  },
-  {
    "clave": "prensa-1636244-50722ec3",
    "t": "📰 Celta Vigo–Bournemouth: «Marca: Hugo González se pierde el partido contra el Bournemouth y Ángel Arcos entra en la convocatoria para la» (AllFootball) · tenemos 1 post(s) de este partido: combi-partido-1636244"
+  },
+  {
+   "clave": "prensa-1636386-f1d4d3d3",
+   "t": "📰 Borac Banja Luka–Atalanta: «Hakan Calhanoglu estará de baja entre 3 y 4 semanas tras sufrir una lesión en el muslo en el emocionante parti» (Tribuna.com) · tenemos 1 post(s) de este partido: loca-th-1940-x100"
   },
   {
    "clave": "regla-formato-2026-11-28-picks-manana",
@@ -259,7 +255,7 @@
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
   }
  ],
- "revisado": "2026-11-26T17:53",
+ "revisado": "2026-11-26T18:00",
  "historial": [
   {
    "hora": "2026-11-26T16:50",

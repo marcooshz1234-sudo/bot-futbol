@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 17:53",
+ "actualizado": "2026-11-26 18:00",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4137,
-   "hoy": 117,
+   "seguidores": 4141,
+   "hoy": 121,
    "serie": [
     3248,
     3475,
@@ -24,7 +24,7 @@
     3742,
     3790,
     4020,
-    4137
+    4141
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 536,
-   "hoy": 9,
+   "seguidores": 537,
+   "hoy": 10,
    "serie": [
     490,
     496,
@@ -50,17 +50,17 @@
     506,
     514,
     527,
-    536
+    537
    ]
   }
  },
- "total": 4732,
- "total_hoy": 127,
+ "total": 4737,
+ "total_hoy": 132,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "18:00",
+  "hora": "18:10",
   "dia": "2026-11-26",
-  "titulo": "Vamos con otro pick"
+  "titulo": "Os dejo la combi del celta vigo – bour"
  },
  "ayer": null,
  "escalera": {
@@ -273,9 +273,9 @@
   },
   "2026-11-26": {
    "instagram": 58,
-   "threads": 4137,
+   "threads": 4141,
    "facebook": 1,
-   "telegram": 536
+   "telegram": 537
   }
  },
  "tipos_instagram": {
