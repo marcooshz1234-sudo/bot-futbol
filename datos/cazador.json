@@ -71,7 +71,7 @@
    "justa": 2.15,
    "ev": 0.002,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "FK Jablonec",
@@ -82,17 +82,6 @@
    "justa": 1.71,
    "ev": -0.007,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "FC Nordsjaelland",
-   "visitante": "Panathinaikos",
-   "inicio": "2026-11-26T21:00",
-   "texto": "FC Nordsjaelland o empate",
-   "cuota": 1.5,
-   "justa": 1.52,
-   "ev": -0.011,
-   "fuente": "Pinnacle",
    "edad_h": 0.0
   },
   {
@@ -101,25 +90,14 @@
    "inicio": "2026-11-26T18:45",
    "texto": "Gana el Bayer Leverkusen",
    "cuota": 1.67,
-   "justa": 1.7,
-   "ev": -0.016,
+   "justa": 1.68,
+   "ev": -0.008,
    "fuente": "Pinnacle",
    "edad_h": 0.0
-  },
-  {
-   "local": "Red Bull Salzburg",
-   "visitante": "Ararat-Armenia",
-   "inicio": "2026-11-26T18:45",
-   "texto": "Red Bull Salzburg marca 3 o más",
-   "cuota": 1.57,
-   "justa": 1.6,
-   "ev": -0.019,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
   }
  ],
  "ultima": {
-  "hora": "2026-11-26T16:50",
+  "hora": "2026-11-26T17:19",
   "revisadas": 0,
   "mejor": null
  },
