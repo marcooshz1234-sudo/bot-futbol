@@ -1537,5 +1537,18 @@
       "threads": "18654459178000242",
       "threads_enlace": "17953749450054547"
     }
+  },
+  {
+    "id": "2026-11-25-balance-auto",
+    "fecha": "2026-11-26T01:23",
+    "texto": "📊 RESUMEN DEL MIÉRCOLES 🍀\n\n✅ 4 de 8 picks en verde\n\n😤 Se nos escaparon:\n🔸 Ambos marcan en Slavia Praha–Villarreal @1,44 · Slavia Praha 0–1 Villarreal\n🔸 Over 16.5: 1+ tiros @1,73 · Lille 2–1 Bayern München\n🔸 Liverpool hace más córners @1,57 · Club Brugge KV 0–3 Liverpool\n🔸 Marlon Gomes comete 2+ faltas @1,67 · Shakhtar Donetsk 0–1 Fenerbahçe (0 de 2 faltas)\n\n🔔 Mañana más. Activad las notificaciones 👀",
+    "foto": "publicaciones/media/2026-11-25-balance-auto.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true,
+    "solo_en": [
+      "telegram"
+    ]
   }
 ]
