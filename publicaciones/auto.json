@@ -16317,10 +16317,10 @@
       "1636412|Double Chance|Draw/Away"
     ],
     "cuotas": [
-      1.8,
-      1.67,
-      1.95,
-      1.7
+      1.7,
+      1.7,
+      2.05,
+      1.67
     ],
     "solo_en": [
       "threads"
@@ -16369,7 +16369,8 @@
         }
       ],
       "lema": null
-    }
+    },
+    "cuotas_revisadas": "2026-11-26T12:50"
   },
   {
     "id": "2026-11-26-loca-th-1440-escudos",
