@@ -4580,7 +4580,13 @@
    "El Dinamo en casa sale a por el partido y deja espacios atrás",
    "Duelo abierto de Europa League con dos equipos que necesitan sumar"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1636255,
+  "analisis": {
+   "liga": "UEFA Europa League",
+   "cuota_bet365": 1.44,
+   "prob_cuota": 0.667
+  }
  },
  {
   "tipster": "Tipster Pérez",
@@ -4599,7 +4605,12 @@
    "El Celta llega con bajas en ataque y en el centro de la defensa, así que le costará dejar la portería a cero",
    "Se espera un partido abierto con ocasiones en las dos áreas"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1636244,
+  "analisis": {
+   "liga": "UEFA Europa League",
+   "prob_cuota": 0.602
+  }
  },
  {
   "tipster": "OC TIPSTER",
@@ -4618,6 +4629,31 @@
    "Carreira sube mucho por su banda: dispara y comete faltas con regularidad en Europa",
    "Burcio se anima a tirar desde fuera del área casi cada partido"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1636244,
+  "analisis": {
+   "liga": "UEFA Europa League",
+   "prob_cuota": 0.042
+  }
+ },
+ {
+  "tipster": "ICARDI | PICKS",
+  "fuente": "-1002192352571/5445",
+  "dia": "2026-11-26",
+  "local": "Sunderland",
+  "visitante": "Jagiellonia",
+  "partido_id": 1636343,
+  "texto": "Sunderland marca 2 o más",
+  "mercado": "Total - Home",
+  "opcion": "Over 1.5",
+  "cuota": null,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Europa League",
+   "cuota_bet365": 1.33,
+   "prob_cuota": 0.752
+  }
  }
 ]

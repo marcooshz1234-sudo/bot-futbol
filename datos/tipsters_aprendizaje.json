@@ -19,13 +19,22 @@
    "prob_cuota": 6.561
   },
   "Tipster Pérez": {
-   "n": 15,
+   "n": 16,
    "verdes": 5,
    "rojos": 5,
    "nulos": 0,
    "unidades": -2.5,
    "resueltos_con_cuota": 10,
    "prob_cuota": 7.087
+  },
+  "TRADER FOOTBALL || FREE👨🏼‍💻": {
+   "n": 15,
+   "verdes": 8,
+   "rojos": 3,
+   "nulos": 0,
+   "unidades": 1.3,
+   "resueltos_con_cuota": 11,
+   "prob_cuota": 7.181
   },
   "INSIDER": {
    "n": 14,
@@ -35,15 +44,6 @@
    "unidades": 1.91,
    "resueltos_con_cuota": 10,
    "prob_cuota": 7.743
-  },
-  "TRADER FOOTBALL || FREE👨🏼‍💻": {
-   "n": 14,
-   "verdes": 8,
-   "rojos": 3,
-   "nulos": 0,
-   "unidades": 1.3,
-   "resueltos_con_cuota": 11,
-   "prob_cuota": 7.181
   },
   "TRADER FOOTBALL || FREE": {
    "n": 12,
@@ -81,6 +81,15 @@
    "resueltos_con_cuota": 6,
    "prob_cuota": 3.77
   },
+  "OC TIPSTER": {
+   "n": 8,
+   "verdes": 2,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 1.35,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 1.169
+  },
   "TipsPro": {
    "n": 7,
    "verdes": 4,
@@ -90,14 +99,12 @@
    "resueltos_con_cuota": 6,
    "prob_cuota": 4.52
   },
-  "OC TIPSTER": {
+  "ICARDI | PICKS": {
    "n": 7,
-   "verdes": 2,
-   "rojos": 1,
+   "verdes": 0,
+   "rojos": 0,
    "nulos": 0,
-   "unidades": 1.35,
-   "resueltos_con_cuota": 3,
-   "prob_cuota": 1.169
+   "unidades": 0.0
   },
   "STAKE REAL | JB APUESTAS": {
    "n": 6,
@@ -107,13 +114,6 @@
    "unidades": 2.33,
    "resueltos_con_cuota": 3,
    "prob_cuota": 1.69
-  },
-  "ICARDI | PICKS": {
-   "n": 6,
-   "verdes": 0,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
   },
   "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️": {
    "n": 5,
@@ -206,7 +206,7 @@
    "prob_cuota": 13.771
   },
   "Goals Over/Under Over 2.5": {
-   "n": 18,
+   "n": 19,
    "verdes": 9,
    "rojos": 6,
    "nulos": 0,
@@ -259,21 +259,21 @@
    "resueltos_con_cuota": 4,
    "prob_cuota": 2.325
   },
-  "Goals Over/Under Over 3.0": {
-   "n": 5,
-   "verdes": 0,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
-  },
   "Total - Home Over 1.5": {
-   "n": 5,
+   "n": 6,
    "verdes": 3,
    "rojos": 0,
    "nulos": 0,
    "unidades": 1.32,
    "resueltos_con_cuota": 3,
    "prob_cuota": 2.097
+  },
+  "Goals Over/Under Over 3.0": {
+   "n": 5,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   },
   "Goals Over/Under Under 3.5": {
    "n": 5,
@@ -714,11 +714,25 @@
    "unidades": 0.5,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.667
+  },
+  "Crear apuesta Más de 7.5 remates a puerta + Bournemouth marca": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Crear apuesta Durán 2+ remates a puerta + Carreira 1+ remate + Burcio 1+ remate + Carreira 1+ falta": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "equipo": {
   "—": {
-   "n": 104,
+   "n": 108,
    "verdes": 40,
    "rojos": 15,
    "nulos": 0,
@@ -1116,7 +1130,7 @@
  },
  "razon": {
   "sin razón": {
-   "n": 102,
+   "n": 103,
    "verdes": 56,
    "rojos": 15,
    "nulos": 0,
@@ -1125,7 +1139,7 @@
    "prob_cuota": 34.442
   },
   "goles": {
-   "n": 42,
+   "n": 44,
    "verdes": 15,
    "rojos": 11,
    "nulos": 0,
@@ -1134,7 +1148,7 @@
    "prob_cuota": 18.399
   },
   "casa/fuera": {
-   "n": 35,
+   "n": 36,
    "verdes": 14,
    "rojos": 9,
    "nulos": 0,
@@ -1143,13 +1157,22 @@
    "prob_cuota": 12.707
   },
   "motivación": {
-   "n": 15,
+   "n": 16,
    "verdes": 7,
    "rojos": 4,
    "nulos": 0,
    "unidades": 1.73,
    "resueltos_con_cuota": 10,
    "prob_cuota": 6.112
+  },
+  "racha": {
+   "n": 15,
+   "verdes": 5,
+   "rojos": 6,
+   "nulos": 0,
+   "unidades": -1.94,
+   "resueltos_con_cuota": 9,
+   "prob_cuota": 5.574
   },
   "clasificación": {
    "n": 14,
@@ -1160,17 +1183,8 @@
    "resueltos_con_cuota": 9,
    "prob_cuota": 5.714
   },
-  "racha": {
-   "n": 14,
-   "verdes": 5,
-   "rojos": 6,
-   "nulos": 0,
-   "unidades": -1.94,
-   "resueltos_con_cuota": 9,
-   "prob_cuota": 5.574
-  },
   "bajas": {
-   "n": 9,
+   "n": 10,
    "verdes": 2,
    "rojos": 6,
    "nulos": 0,
@@ -1190,7 +1204,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 73,
+   "n": 75,
    "verdes": 32,
    "rojos": 18,
    "nulos": 0,
@@ -1208,7 +1222,7 @@
    "prob_cuota": 21.934
   },
   "?": {
-   "n": 28,
+   "n": 29,
    "verdes": 16,
    "rojos": 3,
    "nulos": 0,
@@ -1224,7 +1238,7 @@
    "prob_cuota": 7.345
   },
   ">2,20": {
-   "n": 12,
+   "n": 13,
    "verdes": 4,
    "rojos": 3,
    "nulos": 0,
@@ -1288,6 +1302,13 @@
    "resueltos_con_cuota": 5,
    "prob_cuota": 3.596
   },
+  "UEFA Europa League": {
+   "n": 5,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "La Liga": {
    "n": 3,
    "verdes": 1,
@@ -1323,18 +1344,11 @@
    "unidades": 0.66,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.602
-  },
-  "UEFA Europa League": {
-   "n": 1,
-   "verdes": 0,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
   }
  },
  "lado": {
   "partido": {
-   "n": 87,
+   "n": 90,
    "verdes": 31,
    "rojos": 11,
    "nulos": 0,
@@ -1343,7 +1357,7 @@
    "prob_cuota": 22.52
   },
   "local": {
-   "n": 50,
+   "n": 51,
    "verdes": 28,
    "rojos": 14,
    "nulos": 0,
@@ -1363,7 +1377,7 @@
  },
  "por_que": {
   "—": {
-   "n": 95,
+   "n": 99,
    "verdes": 34,
    "rojos": 22,
    "nulos": 0,
@@ -1437,7 +1451,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 165,
+   "n": 169,
    "verdes": 76,
    "rojos": 32,
    "nulos": 0,
