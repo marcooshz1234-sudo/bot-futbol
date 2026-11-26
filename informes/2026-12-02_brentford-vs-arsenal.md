@@ -1,10 +1,10 @@
 # Brentford – Arsenal
 **Premier League** · Regular Season - 13 · 02/12/2026 21:15 (hora España) · Brentford Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:25_
+_Actualizadas: 26/11 23:05_
 
 - **1X2:** 1 **4.20**  ·  X **3.70**  ·  2 **1.80**
 - **Doble oportunidad:** 1X **1.95**  ·  12 **1.28**  ·  X2 **1.22**

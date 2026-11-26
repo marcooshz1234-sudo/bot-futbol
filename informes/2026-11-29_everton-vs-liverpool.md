@@ -1,15 +1,16 @@
 # Everton – Liverpool
 **Premier League** · Regular Season - 12 · 29/11/2026 13:00 (hora España) · Hill Dickinson Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Actualizadas: 25/11 09:27_
+_Actualizadas: 26/11 23:03_
 
-- **1X2:** 1 **3.80**  ·  X **3.70**  ·  2 **1.80**
-- **Doble oportunidad:** 1X **1.95**  ·  12 **1.28**  ·  X2 **1.25**
+- **1X2:** 1 **3.90**  ·  X **3.75**  ·  2 **1.83**
+- **Doble oportunidad:** 1X **1.91**  ·  12 **1.25**  ·  X2 **1.25**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.33**
     - 2,5: más **1.67** · menos **2.20**
     - 3,5: más **2.75** · menos **1.44**
@@ -45,7 +46,7 @@ _Actualizadas: 25/11 09:27_
 - **To Win Either Half:** 1 **2.25**  ·  2 **1.44**
 - **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **2.62**
 - **Win Both Halves:** 1 **15.00**  ·  2 **5.50**
-- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **3.50**  ·  Home/No **8.00**  ·  Draw/No **15.00**  ·  Away/No **3.50**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **3.50**  ·  Home/No **8.00**  ·  Draw/No **15.00**  ·  Away/No **3.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.75**
 - **Home Corners Over/Under:**
     - 3,5: más **1.62** · menos **2.20**
@@ -58,7 +59,7 @@ _Actualizadas: 25/11 09:27_
     - 2,5: más **2.38** · menos **1.53**
 - **Total ShotOnGoal:**
     - 9,5: más **1.91** · menos **1.80**
-- **ShotOnTarget 1x2:** 1 **3.00**  ·  X **7.50**  ·  2 **1.53**
+- **ShotOnTarget 1x2:** 1 **2.88**  ·  X **7.50**  ·  2 **1.53**
 - **Total Shots:**
     - 28,5: más **1.83** · menos **1.83**
 - **Shots.1x2:** 1 **3.10**  ·  X **17.00**  ·  2 **1.36**
@@ -70,69 +71,71 @@ _Actualizadas: 25/11 09:27_
     - 0,5: más **1.50** · menos **2.50**
 - **Away Player Shots On Target Total:** Bradley Barcola **29.00**  ·  Lewis Koumas **9.00**  ·  Konstantinos Tsimikas **81.00**  ·  Luke Chambers **41.00**  ·  Hayden Hackney **67.00**  ·  Carlos Alcaraz **51.00**  ·  Ainsley Maitland-Niles **81.00**  ·  Ronald Araujo **13.00**  ·  Merlin Rohl **67.00**  ·  Vitaliy Mykolenko **101.00**  ·  Christian Norgaard **34.00**  ·  Braiden Graham **19.00**  ·  Alexis Mac Allister **23.00**  ·  Cody Gakpo **15.00**  ·  Dominik Szoboszlai **41.00**  ·  Federico Chiesa **15.00**  ·  Joe Gomez **23.00**  ·  Kiernan Dewsbury-Hall **41.00**  ·  Ryan Gravenberch **51.00**  ·  Virgil van Dijk **11.00**  ·  Wataru Endo **29.00**  ·  Jack Grealish **51.00**  ·  Milos Kerkez **81.00**  ·  Alexander Isak **9.00**  ·  Jake O'Brien **19.00**  ·  James Garner **67.00**  ·  James Tarkowski **15.00**  ·  Jarrad Branthwaite **17.00**  ·  Michael Keane **15.00**  ·  Tyler Dibling **41.00**  ·  Brennan Johnson **29.00**  ·  Tyrique George **26.00**  ·  Thierno Barry **9.50**  ·  Harrison Armstrong **51.00**  ·  Florian Wirtz **34.00**  ·  Jeremie Frimpong **101.00**  ·  Trey Nyoni **23.00**  ·  James McConnell **29.00**  ·  Victor Munoz **41.00**  ·  Jayden Danns **11.00**  ·  Rio Ngumoha **19.00**  ·  Jeremy Jacquet **19.00**
 - **Away Player Shots Total:**
+    - 15,5: más **1.73** · menos **2.00**
     - 16,5: más **2.00** · menos **1.73**
 - **Home Player Shots:** Tyrique George - 1 **1.11**  ·  Thierno Barry - 1 **1.07**  ·  Brennan Johnson - 1 **1.28**  ·  Kiernan Dewsbury-Hall - 1 **1.22**  ·  Carlos Alcaraz - 1 **1.05**  ·  Merlin Rohl - 1 **1.25**  ·  Tyler Dibling - 1 **1.40**  ·  Hayden Hackney - 1 **1.25**  ·  James Garner - 1 **1.30**  ·  Harrison Armstrong - 1 **1.50**  ·  Michael Keane - 1 **1.57**  ·  Jake O'Brien - 1 **2.50**  ·  James Tarkowski - 1 **1.67**  ·  Christian Norgaard - 1 **1.57**  ·  Jarrad Branthwaite - 1 **1.62**  ·  Vitaliy Mykolenko - 1 **3.25**  ·  Tyrique George - 2 **1.53**  ·  Thierno Barry - 2 **1.36**  ·  Brennan Johnson - 2 **2.20**  ·  Kiernan Dewsbury-Hall - 2 **2.00**  ·  Carlos Alcaraz - 2 **1.30**  ·  Merlin Rohl - 2 **2.10**  ·  Tyler Dibling - 2 **2.75**  ·  Hayden Hackney - 2 **2.10**  ·  James Garner - 2 **2.25**  ·  Harrison Armstrong - 2 **3.25**  ·  Michael Keane - 2 **3.50**  ·  Jake O'Brien - 2 **9.00**  ·  James Tarkowski - 2 **4.00**  ·  Christian Norgaard - 2 **3.50**  ·  Jarrad Branthwaite - 2 **3.75**  ·  Vitaliy Mykolenko - 2 **13.00**  ·  Tyrique George - 3 **2.50**  ·  Thierno Barry - 3 **2.00**  ·  Brennan Johnson - 3 **4.50**  ·  Kiernan Dewsbury-Hall - 3 **4.00**  ·  Carlos Alcaraz - 3 **1.83**  ·  Merlin Rohl - 3 **4.33**  ·  Tyler Dibling - 3 **7.00**  ·  Hayden Hackney - 3 **4.33**  ·  James Garner - 3 **5.00**  ·  Harrison Armstrong - 3 **8.00**  ·  Michael Keane - 3 **10.00**  ·  Jake O'Brien - 3 **21.00**  ·  James Tarkowski - 3 **11.00**  ·  Christian Norgaard - 3 **10.00**  ·  Jarrad Branthwaite - 3 **11.00**  ·  Vitaliy Mykolenko - 3 **19.00**  ·  Tyrique George - 4 **4.50**  ·  Thierno Barry - 4 **3.50**  ·  Brennan Johnson - 4 **11.00**  ·  Kiernan Dewsbury-Hall - 4 **9.00**  ·  Carlos Alcaraz - 4 **3.25**  ·  Merlin Rohl - 4 **10.00**  ·  Tyler Dibling - 4 **17.00**  ·  Hayden Hackney - 4 **10.00**  ·  James Garner - 4 **11.00**  ·  Harrison Armstrong - 4 **21.00**  ·  Michael Keane - 4 **21.00**  ·  Tyrique George - 5 **10.00**  ·  Thierno Barry - 5 **7.00**  ·  Brennan Johnson - 5 **21.00**  ·  Kiernan Dewsbury-Hall - 5 **21.00**  ·  Carlos Alcaraz - 5 **5.50**  ·  Tyrique George - 6 **21.00**  ·  Thierno Barry - 6 **13.00**  ·  Ainsley Maitland-Niles - 1 **1.80**  ·  Ainsley Maitland-Niles - 2 **4.33**  ·  Ainsley Maitland-Niles - 3 **13.00**  ·  Jack Grealish - 1 **1.22**  ·  Jack Grealish - 2 **1.91**  ·  Jack Grealish - 3 **3.75**  ·  Jack Grealish - 4 **8.00**  ·  Jack Grealish - 5 **19.00**  ·  Christian Norgaard - 4 **21.00**  ·  Hayden Hackney - 5 **21.00**  ·  Kiernan Dewsbury-Hall - 6 **21.00**  ·  James Garner - 5 **21.00**  ·  Merlin Rohl - 5 **21.00**  ·  Jarrad Branthwaite - 4 **21.00**  ·  Braiden Graham - 1 **1.12**  ·  Braiden Graham - 2 **1.62**  ·  Braiden Graham - 3 **2.75**  ·  Braiden Graham - 4 **5.50**  ·  Braiden Graham - 5 **11.00**  ·  Carlos Alcaraz - 6 **11.00**  ·  Carlos Alcaraz - 7 **21.00**  ·  Braiden Graham - 6 **21.00**  ·  Brennan Johnson - 6 **21.00**  ·  Thierno Barry - 7 **21.00**
-- **Away Player Shots:** Victor Munoz - 1 **1.05**  ·  Lewis Koumas - 1 **1.04**  ·  Alexander Isak - 1 **1.03**  ·  Cody Gakpo - 1 **1.03**  ·  Federico Chiesa - 1 **1.04**  ·  Rio Ngumoha - 1 **1.07**  ·  Dominik Szoboszlai - 1 **1.11**  ·  Florian Wirtz - 1 **1.12**  ·  Alexis Mac Allister - 1 **1.25**  ·  James McConnell - 1 **1.73**  ·  Trey Nyoni - 1 **1.40**  ·  Virgil van Dijk - 1 **1.73**  ·  Ryan Gravenberch - 1 **1.40**  ·  Luke Chambers - 1 **1.83**  ·  Konstantinos Tsimikas - 1 **2.20**  ·  Jeremy Jacquet - 1 **2.75**  ·  Wataru Endo - 1 **2.50**  ·  Milos Kerkez - 1 **2.50**  ·  Ronald Araujo - 1 **1.62**  ·  Victor Munoz - 2 **1.28**  ·  Lewis Koumas - 2 **1.25**  ·  Alexander Isak - 2 **1.18**  ·  Cody Gakpo - 2 **1.20**  ·  Federico Chiesa - 2 **1.25**  ·  Rio Ngumoha - 2 **1.36**  ·  Dominik Szoboszlai - 2 **1.50**  ·  Florian Wirtz - 2 **1.57**  ·  Alexis Mac Allister - 2 **2.10**  ·  James McConnell - 2 **4.33**  ·  Trey Nyoni - 2 **2.62**  ·  Virgil van Dijk - 2 **4.33**  ·  Ryan Gravenberch - 2 **2.62**  ·  Luke Chambers - 2 **5.00**  ·  Konstantinos Tsimikas - 2 **7.00**  ·  Jeremy Jacquet - 2 **11.00**  ·  Wataru Endo - 2 **9.00**  ·  Milos Kerkez - 2 **9.00**  ·  Ronald Araujo - 2 **3.75**  ·  Victor Munoz - 3 **1.83**  ·  Lewis Koumas - 3 **1.73**  ·  Alexander Isak - 3 **1.57**  ·  Cody Gakpo - 3 **1.62**  ·  Federico Chiesa - 3 **1.73**  ·  Rio Ngumoha - 3 **2.00**  ·  Dominik Szoboszlai - 3 **2.50**  ·  Florian Wirtz - 3 **2.62**  ·  Alexis Mac Allister - 3 **4.33**  ·  James McConnell - 3 **13.00**  ·  Trey Nyoni - 3 **6.50**  ·  Virgil van Dijk - 3 **13.00**  ·  Ryan Gravenberch - 3 **6.50**  ·  Luke Chambers - 3 **15.00**  ·  Konstantinos Tsimikas - 3 **21.00**  ·  Jeremy Jacquet - 3 **13.00**  ·  Wataru Endo - 3 **21.00**  ·  Milos Kerkez - 3 **21.00**  ·  Ronald Araujo - 3 **10.00**  ·  Victor Munoz - 4 **3.00**  ·  Lewis Koumas - 4 **2.62**  ·  Alexander Isak - 4 **2.38**  ·  Cody Gakpo - 4 **2.50**  ·  Federico Chiesa - 4 **2.62**  ·  Rio Ngumoha - 4 **3.50**  ·  Dominik Szoboszlai - 4 **4.50**  ·  Florian Wirtz - 4 **5.00**  ·  Alexis Mac Allister - 4 **10.00**  ·  James McConnell - 4 **13.00**  ·  Trey Nyoni - 4 **17.00**  ·  Virgil van Dijk - 4 **13.00**  ·  Ryan Gravenberch - 4 **17.00**  ·  Luke Chambers - 4 **19.00**  ·  Konstantinos Tsimikas - 4 **21.00**  ·  Wataru Endo - 4 **21.00**  ·  Ronald Araujo - 4 **21.00**  ·  Victor Munoz - 5 **5.50**  ·  Lewis Koumas - 5 **4.50**  ·  Alexander Isak - 5 **4.00**  ·  Cody Gakpo - 5 **4.00**  ·  Federico Chiesa - 5 **4.50**  ·  Rio Ngumoha - 5 **7.00**  ·  Dominik Szoboszlai - 5 **10.00**  ·  Florian Wirtz - 5 **11.00**  ·  Alexis Mac Allister - 5 **21.00**  ·  James McConnell - 5 **21.00**  ·  Victor Munoz - 6 **11.00**  ·  Lewis Koumas - 6 **9.00**  ·  Alexander Isak - 6 **7.00**  ·  Cody Gakpo - 6 **8.00**  ·  Federico Chiesa - 6 **9.00**  ·  Rio Ngumoha - 6 **15.00**  ·  Dominik Szoboszlai - 6 **19.00**  ·  Florian Wirtz - 6 **21.00**  ·  Victor Munoz - 7 **21.00**  ·  Lewis Koumas - 7 **19.00**  ·  Alexander Isak - 7 **15.00**  ·  Cody Gakpo - 7 **15.00**  ·  Federico Chiesa - 7 **19.00**  ·  Rio Ngumoha - 7 **21.00**  ·  Lewis Koumas - 8 **13.00**  ·  Alexander Isak - 8 **21.00**  ·  Cody Gakpo - 8 **21.00**  ·  Bradley Barcola - 1 **1.03**  ·  Bradley Barcola - 2 **1.18**  ·  Bradley Barcola - 3 **1.57**  ·  Bradley Barcola - 4 **2.38**  ·  Bradley Barcola - 5 **4.00**  ·  Bradley Barcola - 6 **7.00**  ·  Bradley Barcola - 7 **15.00**  ·  Bradley Barcola - 8 **21.00**  ·  Jayden Danns - 1 **1.05**  ·  Jayden Danns - 2 **1.25**  ·  Jayden Danns - 3 **1.80**  ·  Jayden Danns - 4 **2.75**  ·  Jayden Danns - 5 **5.00**  ·  Jayden Danns - 6 **10.00**  ·  Jayden Danns - 7 **19.00**  ·  Joe Gomez - 1 **1.83**  ·  Joe Gomez - 2 **5.00**  ·  Joe Gomez - 3 **15.00**  ·  Lewis Koumas - 9 **21.00**
+- **Away Player Shots:** Victor Munoz - 1 **1.05**  ·  Lewis Koumas - 1 **1.04**  ·  Alexander Isak - 1 **1.03**  ·  Cody Gakpo - 1 **1.04**  ·  Federico Chiesa - 1 **1.04**  ·  Rio Ngumoha - 1 **1.07**  ·  Dominik Szoboszlai - 1 **1.11**  ·  Florian Wirtz - 1 **1.12**  ·  Alexis Mac Allister - 1 **1.25**  ·  James McConnell - 1 **1.73**  ·  Trey Nyoni - 1 **1.40**  ·  Virgil van Dijk - 1 **1.73**  ·  Ryan Gravenberch - 1 **1.40**  ·  Luke Chambers - 1 **1.83**  ·  Konstantinos Tsimikas - 1 **2.20**  ·  Jeremy Jacquet - 1 **2.75**  ·  Wataru Endo - 1 **2.50**  ·  Milos Kerkez - 1 **2.50**  ·  Ronald Araujo - 1 **1.62**  ·  Victor Munoz - 2 **1.28**  ·  Lewis Koumas - 2 **1.25**  ·  Alexander Isak - 2 **1.18**  ·  Cody Gakpo - 2 **1.20**  ·  Federico Chiesa - 2 **1.25**  ·  Rio Ngumoha - 2 **1.36**  ·  Dominik Szoboszlai - 2 **1.50**  ·  Florian Wirtz - 2 **1.57**  ·  Alexis Mac Allister - 2 **2.10**  ·  James McConnell - 2 **4.33**  ·  Trey Nyoni - 2 **2.62**  ·  Virgil van Dijk - 2 **4.33**  ·  Ryan Gravenberch - 2 **2.62**  ·  Luke Chambers - 2 **5.00**  ·  Konstantinos Tsimikas - 2 **7.00**  ·  Jeremy Jacquet - 2 **11.00**  ·  Wataru Endo - 2 **9.00**  ·  Milos Kerkez - 2 **9.00**  ·  Ronald Araujo - 2 **3.75**  ·  Victor Munoz - 3 **1.83**  ·  Lewis Koumas - 3 **1.73**  ·  Alexander Isak - 3 **1.57**  ·  Cody Gakpo - 3 **1.62**  ·  Federico Chiesa - 3 **1.73**  ·  Rio Ngumoha - 3 **2.00**  ·  Dominik Szoboszlai - 3 **2.50**  ·  Florian Wirtz - 3 **2.62**  ·  Alexis Mac Allister - 3 **4.33**  ·  James McConnell - 3 **13.00**  ·  Trey Nyoni - 3 **6.50**  ·  Virgil van Dijk - 3 **13.00**  ·  Ryan Gravenberch - 3 **6.50**  ·  Luke Chambers - 3 **15.00**  ·  Konstantinos Tsimikas - 3 **21.00**  ·  Jeremy Jacquet - 3 **13.00**  ·  Wataru Endo - 3 **21.00**  ·  Milos Kerkez - 3 **21.00**  ·  Ronald Araujo - 3 **11.00**  ·  Victor Munoz - 4 **3.00**  ·  Lewis Koumas - 4 **2.62**  ·  Alexander Isak - 4 **2.38**  ·  Cody Gakpo - 4 **2.50**  ·  Federico Chiesa - 4 **2.62**  ·  Rio Ngumoha - 4 **3.50**  ·  Dominik Szoboszlai - 4 **4.50**  ·  Florian Wirtz - 4 **5.00**  ·  Alexis Mac Allister - 4 **10.00**  ·  James McConnell - 4 **13.00**  ·  Trey Nyoni - 4 **17.00**  ·  Virgil van Dijk - 4 **13.00**  ·  Ryan Gravenberch - 4 **17.00**  ·  Luke Chambers - 4 **19.00**  ·  Konstantinos Tsimikas - 4 **21.00**  ·  Wataru Endo - 4 **21.00**  ·  Ronald Araujo - 4 **21.00**  ·  Victor Munoz - 5 **5.50**  ·  Lewis Koumas - 5 **4.50**  ·  Alexander Isak - 5 **4.00**  ·  Cody Gakpo - 5 **4.33**  ·  Federico Chiesa - 5 **4.50**  ·  Rio Ngumoha - 5 **7.00**  ·  Dominik Szoboszlai - 5 **10.00**  ·  Florian Wirtz - 5 **11.00**  ·  Alexis Mac Allister - 5 **21.00**  ·  James McConnell - 5 **21.00**  ·  Victor Munoz - 6 **11.00**  ·  Lewis Koumas - 6 **10.00**  ·  Alexander Isak - 6 **7.00**  ·  Cody Gakpo - 6 **8.00**  ·  Federico Chiesa - 6 **10.00**  ·  Rio Ngumoha - 6 **15.00**  ·  Dominik Szoboszlai - 6 **19.00**  ·  Florian Wirtz - 6 **21.00**  ·  Victor Munoz - 7 **21.00**  ·  Lewis Koumas - 7 **19.00**  ·  Alexander Isak - 7 **15.00**  ·  Cody Gakpo - 7 **15.00**  ·  Federico Chiesa - 7 **19.00**  ·  Rio Ngumoha - 7 **21.00**  ·  Lewis Koumas - 8 **13.00**  ·  Alexander Isak - 8 **21.00**  ·  Cody Gakpo - 8 **21.00**  ·  Bradley Barcola - 1 **1.03**  ·  Bradley Barcola - 2 **1.18**  ·  Bradley Barcola - 3 **1.57**  ·  Bradley Barcola - 4 **2.38**  ·  Bradley Barcola - 5 **4.00**  ·  Bradley Barcola - 6 **7.00**  ·  Bradley Barcola - 7 **15.00**  ·  Bradley Barcola - 8 **21.00**  ·  Jayden Danns - 1 **1.05**  ·  Jayden Danns - 2 **1.25**  ·  Jayden Danns - 3 **1.80**  ·  Jayden Danns - 4 **2.75**  ·  Jayden Danns - 5 **5.00**  ·  Jayden Danns - 6 **10.00**  ·  Jayden Danns - 7 **19.00**  ·  Joe Gomez - 1 **1.83**  ·  Joe Gomez - 2 **5.00**  ·  Joe Gomez - 3 **15.00**  ·  Lewis Koumas - 9 **21.00**
 - **Player Fouls Committed:** Tyrique George - 1 **1.25**  ·  Thierno Barry - 1 **1.22**  ·  Brennan Johnson - 1 **1.20**  ·  Kiernan Dewsbury-Hall - 1 **1.33**  ·  Carlos Alcaraz - 1 **1.25**  ·  Merlin Rohl - 1 **1.10**  ·  Tyler Dibling - 1 **1.25**  ·  Hayden Hackney - 1 **1.22**  ·  James Garner - 1 **1.40**  ·  Harrison Armstrong - 1 **1.36**  ·  Michael Keane - 1 **2.10**  ·  Jake O'Brien - 1 **1.73**  ·  Christian Norgaard - 1 **1.14**  ·  Jarrad Branthwaite - 1 **1.91**  ·  Vitaliy Mykolenko - 1 **1.50**  ·  Tyrique George - 2 **2.20**  ·  Thierno Barry - 2 **2.00**  ·  Brennan Johnson - 2 **1.91**  ·  Kiernan Dewsbury-Hall - 2 **2.50**  ·  Carlos Alcaraz - 2 **2.20**  ·  Merlin Rohl - 2 **1.50**  ·  Tyler Dibling - 2 **2.20**  ·  Hayden Hackney - 2 **2.00**  ·  James Garner - 2 **2.75**  ·  Harrison Armstrong - 2 **2.62**  ·  Michael Keane - 2 **6.50**  ·  Jake O'Brien - 2 **4.50**  ·  Christian Norgaard - 2 **1.67**  ·  Jarrad Branthwaite - 2 **6.00**  ·  Vitaliy Mykolenko - 2 **3.40**  ·  Tyrique George - 3 **4.50**  ·  Thierno Barry - 3 **4.00**  ·  Brennan Johnson - 3 **3.75**  ·  Kiernan Dewsbury-Hall - 3 **6.00**  ·  Carlos Alcaraz - 3 **4.50**  ·  Merlin Rohl - 3 **2.50**  ·  Tyler Dibling - 3 **4.50**  ·  Hayden Hackney - 3 **4.00**  ·  James Garner - 3 **7.00**  ·  Harrison Armstrong - 3 **6.50**  ·  Michael Keane - 3 **21.00**  ·  Jake O'Brien - 3 **15.00**  ·  Christian Norgaard - 3 **3.00**  ·  Jarrad Branthwaite - 3 **19.00**  ·  Vitaliy Mykolenko - 3 **9.00**  ·  Tyrique George - 4 **13.00**  ·  Thierno Barry - 4 **10.00**  ·  Brennan Johnson - 4 **9.00**  ·  Kiernan Dewsbury-Hall - 4 **17.00**  ·  Carlos Alcaraz - 4 **13.00**  ·  Merlin Rohl - 4 **4.50**  ·  Tyler Dibling - 4 **13.00**  ·  Hayden Hackney - 4 **10.00**  ·  James Garner - 4 **19.00**  ·  Harrison Armstrong - 4 **17.00**  ·  Tyrique George - 5 **26.00**  ·  Thierno Barry - 5 **23.00**  ·  Brennan Johnson - 5 **21.00**  ·  Carlos Alcaraz - 5 **26.00**  ·  Victor Munoz - 1 **1.40**  ·  Lewis Koumas - 1 **1.20**  ·  Alexander Isak - 1 **1.36**  ·  Cody Gakpo - 1 **1.25**  ·  Federico Chiesa - 1 **1.25**  ·  Rio Ngumoha - 1 **1.50**  ·  Dominik Szoboszlai - 1 **1.30**  ·  Florian Wirtz - 1 **1.33**  ·  Alexis Mac Allister - 1 **1.25**  ·  James McConnell - 1 **1.30**  ·  Trey Nyoni - 1 **1.40**  ·  Virgil van Dijk - 1 **1.80**  ·  Ryan Gravenberch - 1 **1.28**  ·  Luke Chambers - 1 **1.80**  ·  Konstantinos Tsimikas - 1 **1.28**  ·  Jeremy Jacquet - 1 **1.25**  ·  Wataru Endo - 1 **1.08**  ·  Milos Kerkez - 1 **1.30**  ·  Ronald Araujo - 1 **1.40**  ·  Victor Munoz - 2 **2.75**  ·  Lewis Koumas - 2 **1.91**  ·  Alexander Isak - 2 **2.62**  ·  Cody Gakpo - 2 **2.10**  ·  Federico Chiesa - 2 **2.20**  ·  Rio Ngumoha - 2 **3.25**  ·  Dominik Szoboszlai - 2 **2.38**  ·  Florian Wirtz - 2 **2.50**  ·  Alexis Mac Allister - 2 **2.10**  ·  James McConnell - 2 **2.38**  ·  Trey Nyoni - 2 **2.75**  ·  Virgil van Dijk - 2 **5.00**  ·  Ryan Gravenberch - 2 **2.25**  ·  Luke Chambers - 2 **5.00**  ·  Konstantinos Tsimikas - 2 **2.25**  ·  Jeremy Jacquet - 2 **2.20**  ·  Wataru Endo - 2 **1.40**  ·  Milos Kerkez - 2 **2.38**  ·  Ronald Araujo - 2 **2.75**  ·  Victor Munoz - 3 **7.00**  ·  Lewis Koumas - 3 **3.75**  ·  Alexander Isak - 3 **6.50**  ·  Cody Gakpo - 3 **4.33**  ·  Federico Chiesa - 3 **4.50**  ·  Rio Ngumoha - 3 **9.00**  ·  Dominik Szoboszlai - 3 **5.50**  ·  Florian Wirtz - 3 **6.00**  ·  Alexis Mac Allister - 3 **4.33**  ·  James McConnell - 3 **5.50**  ·  Trey Nyoni - 3 **7.00**  ·  Virgil van Dijk - 3 **15.00**  ·  Ryan Gravenberch - 3 **5.00**  ·  Luke Chambers - 3 **15.00**  ·  Konstantinos Tsimikas - 3 **5.00**  ·  Jeremy Jacquet - 3 **4.50**  ·  Wataru Endo - 3 **2.20**  ·  Milos Kerkez - 3 **5.50**  ·  Ronald Araujo - 3 **7.00**  ·  Victor Munoz - 4 **19.00**  ·  Lewis Koumas - 4 **9.00**  ·  Alexander Isak - 4 **17.00**  ·  Cody Gakpo - 4 **11.00**  ·  Federico Chiesa - 4 **11.00**  ·  Rio Ngumoha - 4 **23.00**  ·  Dominik Szoboszlai - 4 **15.00**  ·  Florian Wirtz - 4 **15.00**  ·  Alexis Mac Allister - 4 **11.00**  ·  James McConnell - 4 **15.00**  ·  Trey Nyoni - 4 **19.00**  ·  Ryan Gravenberch - 4 **13.00**  ·  Konstantinos Tsimikas - 4 **13.00**  ·  Jeremy Jacquet - 4 **11.00**  ·  Wataru Endo - 4 **4.00**  ·  Milos Kerkez - 4 **15.00**  ·  Ronald Araujo - 4 **19.00**  ·  Lewis Koumas - 5 **21.00**  ·  Cody Gakpo - 5 **26.00**  ·  Federico Chiesa - 5 **26.00**  ·  Alexis Mac Allister - 5 **26.00**  ·  Ainsley Maitland-Niles - 1 **1.30**  ·  Ainsley Maitland-Niles - 2 **2.38**  ·  Ainsley Maitland-Niles - 3 **5.50**  ·  Ainsley Maitland-Niles - 4 **15.00**  ·  Bradley Barcola - 1 **1.22**  ·  Bradley Barcola - 2 **2.00**  ·  Bradley Barcola - 3 **4.00**  ·  Bradley Barcola - 4 **10.00**  ·  Bradley Barcola - 5 **23.00**  ·  Jack Grealish - 1 **1.44**  ·  Jack Grealish - 2 **3.00**  ·  Jack Grealish - 3 **8.00**  ·  Jack Grealish - 4 **21.00**  ·  Christian Norgaard - 4 **6.00**  ·  Christian Norgaard - 5 **15.00**  ·  Hayden Hackney - 5 **23.00**  ·  Wataru Endo - 5 **9.00**  ·  Wataru Endo - 6 **19.00**  ·  Vitaliy Mykolenko - 4 **23.00**  ·  Merlin Rohl - 5 **11.00**  ·  Braiden Graham - 1 **1.83**  ·  Braiden Graham - 2 **5.00**  ·  Braiden Graham - 3 **17.00**  ·  Tyler Dibling - 5 **26.00**  ·  Jayden Danns - 1 **1.44**  ·  Jayden Danns - 2 **3.00**  ·  Jayden Danns - 3 **8.00**  ·  Jayden Danns - 4 **21.00**  ·  Merlin Rohl - 6 **21.00**  ·  Jeremy Jacquet - 5 **26.00**  ·  Joe Gomez - 1 **1.25**  ·  Joe Gomez - 2 **2.20**  ·  Joe Gomez - 3 **4.50**  ·  Joe Gomez - 4 **11.00**  ·  Joe Gomez - 5 **26.00**
 - **Goalkeeper Saves:** Jordan Pickford - 2 **1.10**  ·  Jordan Pickford - 3 **1.33**  ·  Jordan Pickford - 4 **1.83**  ·  Jordan Pickford - 5 **3.00**  ·  Jordan Pickford - 6 **5.00**  ·  Jordan Pickford - 7 **10.00**  ·  Alisson Becker - 2 **1.22**  ·  Alisson Becker - 3 **1.73**  ·  Alisson Becker - 4 **2.75**  ·  Alisson Becker - 5 **5.00**  ·  Alisson Becker - 6 **11.00**
-- **Anytime Goal Scorer:** Bradley Barcola **3.10**  ·  Lewis Koumas **2.40**  ·  Konstantinos Tsimikas **10.00**  ·  Luke Chambers **9.00**  ·  Hayden Hackney **8.00**  ·  Carlos Alcaraz **7.00**  ·  Ainsley Maitland-Niles **10.00**  ·  Ronald Araujo **9.00**  ·  Merlin Rohl **7.50**  ·  Vitaliy Mykolenko **12.00**  ·  Christian Norgaard **10.00**  ·  Braiden Graham **4.00**  ·  Alexis Mac Allister **6.00**  ·  Cody Gakpo **3.10**  ·  Dominik Szoboszlai **4.50**  ·  Federico Chiesa **3.10**  ·  Joe Gomez **15.00**  ·  Kiernan Dewsbury-Hall **4.75**  ·  Ryan Gravenberch **7.00**  ·  Virgil van Dijk **8.00**  ·  Wataru Endo **8.00**  ·  Jack Grealish **5.50**  ·  Milos Kerkez **9.00**  ·  Alexander Isak **2.40**  ·  Jake O'Brien **12.00**  ·  James Garner **7.50**  ·  James Tarkowski **10.00**  ·  Jarrad Branthwaite **12.00**  ·  Michael Keane **10.00**  ·  Tyler Dibling **7.00**  ·  Brennan Johnson **4.75**  ·  Tyrique George **4.00**  ·  Thierno Barry **3.40**  ·  Harrison Armstrong **8.00**  ·  Florian Wirtz **4.50**  ·  Trey Nyoni **6.00**  ·  James McConnell **6.00**  ·  Victor Munoz **4.50**  ·  Jayden Danns **3.10**  ·  Rio Ngumoha **4.00**  ·  Jeremy Jacquet **10.00**
-- **Player to Score or Assist:** Bradley Barcola **2.00**  ·  Lewis Koumas **1.91**  ·  Konstantinos Tsimikas **4.33**  ·  Luke Chambers **4.00**  ·  Hayden Hackney **4.33**  ·  Carlos Alcaraz **3.60**  ·  Ainsley Maitland-Niles **4.75**  ·  Ronald Araujo **6.00**  ·  Merlin Rohl **4.33**  ·  Vitaliy Mykolenko **7.00**  ·  Christian Norgaard **6.00**  ·  Braiden Graham **3.20**  ·  Alexis Mac Allister **3.20**  ·  Cody Gakpo **2.10**  ·  Dominik Szoboszlai **2.38**  ·  Federico Chiesa **2.05**  ·  Joe Gomez **5.00**  ·  Kiernan Dewsbury-Hall **3.00**  ·  Ryan Gravenberch **3.75**  ·  Virgil van Dijk **5.00**  ·  Wataru Endo **5.00**  ·  Jack Grealish **2.75**  ·  Milos Kerkez **4.50**  ·  Alexander Isak **1.91**  ·  Jake O'Brien **8.00**  ·  James Garner **3.75**  ·  James Tarkowski **8.00**  ·  Jarrad Branthwaite **8.50**  ·  Michael Keane **8.00**  ·  Tyler Dibling **4.00**  ·  Brennan Johnson **3.40**  ·  Tyrique George **3.00**  ·  Thierno Barry **2.75**  ·  Harrison Armstrong **4.75**  ·  Florian Wirtz **2.38**  ·  Jeremie Frimpong **3.40**  ·  Trey Nyoni **4.00**  ·  James McConnell **2.75**  ·  Victor Munoz **2.62**  ·  Jayden Danns **2.20**  ·  Rio Ngumoha **2.50**  ·  Jeremy Jacquet **6.00**
+- **Anytime Goal Scorer:** Bradley Barcola **3.10**  ·  Lewis Koumas **2.40**  ·  Konstantinos Tsimikas **10.00**  ·  Luke Chambers **9.00**  ·  Hayden Hackney **8.00**  ·  Carlos Alcaraz **7.00**  ·  Ainsley Maitland-Niles **10.00**  ·  Ronald Araujo **9.00**  ·  Merlin Rohl **7.50**  ·  Vitaliy Mykolenko **12.00**  ·  Christian Norgaard **10.00**  ·  Braiden Graham **4.00**  ·  Alexis Mac Allister **6.00**  ·  Cody Gakpo **3.10**  ·  Dominik Szoboszlai **4.33**  ·  Federico Chiesa **3.10**  ·  Joe Gomez **15.00**  ·  Kiernan Dewsbury-Hall **4.75**  ·  Ryan Gravenberch **7.00**  ·  Virgil van Dijk **8.00**  ·  Wataru Endo **8.00**  ·  Jack Grealish **5.50**  ·  Milos Kerkez **9.00**  ·  Alexander Isak **2.40**  ·  Jake O'Brien **12.00**  ·  James Garner **7.50**  ·  James Tarkowski **10.00**  ·  Jarrad Branthwaite **12.00**  ·  Michael Keane **10.00**  ·  Tyler Dibling **7.00**  ·  Brennan Johnson **4.75**  ·  Tyrique George **4.00**  ·  Thierno Barry **3.40**  ·  Harrison Armstrong **8.00**  ·  Florian Wirtz **4.33**  ·  Jeremie Frimpong **9.00**  ·  Trey Nyoni **6.00**  ·  James McConnell **6.00**  ·  Victor Munoz **4.33**  ·  Jayden Danns **3.10**  ·  Rio Ngumoha **4.00**  ·  Jeremy Jacquet **10.00**
+- **Player to Score or Assist:** Bradley Barcola **2.00**  ·  Lewis Koumas **1.91**  ·  Konstantinos Tsimikas **4.33**  ·  Luke Chambers **4.00**  ·  Hayden Hackney **4.33**  ·  Carlos Alcaraz **3.60**  ·  Ainsley Maitland-Niles **4.75**  ·  Ronald Araujo **6.00**  ·  Merlin Rohl **4.33**  ·  Vitaliy Mykolenko **7.00**  ·  Christian Norgaard **6.00**  ·  Braiden Graham **3.20**  ·  Alexis Mac Allister **3.20**  ·  Cody Gakpo **2.10**  ·  Dominik Szoboszlai **2.38**  ·  Federico Chiesa **2.05**  ·  Joe Gomez **5.00**  ·  Kiernan Dewsbury-Hall **3.00**  ·  Ryan Gravenberch **3.75**  ·  Virgil van Dijk **4.75**  ·  Wataru Endo **4.75**  ·  Jack Grealish **2.75**  ·  Milos Kerkez **4.50**  ·  Alexander Isak **1.91**  ·  Jake O'Brien **8.00**  ·  James Garner **3.75**  ·  James Tarkowski **8.00**  ·  Jarrad Branthwaite **8.50**  ·  Michael Keane **8.00**  ·  Tyler Dibling **4.00**  ·  Brennan Johnson **3.40**  ·  Tyrique George **3.00**  ·  Thierno Barry **2.75**  ·  Harrison Armstrong **4.75**  ·  Florian Wirtz **2.38**  ·  Jeremie Frimpong **3.40**  ·  Trey Nyoni **4.00**  ·  James McConnell **2.75**  ·  Victor Munoz **2.60**  ·  Jayden Danns **2.20**  ·  Rio Ngumoha **2.50**  ·  Jeremy Jacquet **6.00**
 
 ## Estadísticas de equipo
 | | Everton (total) | Everton en casa | Liverpool (total) | Liverpool fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 7 | 17 | 7 |
-| Forma (últimos 5) | DVVVD | VVDVV | VVDDE | VDVVV |
-| Balance | 7V 4E 3D | 5V 1E 1D | 10V 4E 3D | 5V 1E 1D |
-| Goles a favor / partido | 1,43 | 1,71 | 2,12 | 2,57 |
-| Goles en contra / partido | 1,07 | 0,86 | 1,29 | 1,43 |
+| Partidos analizados | 14 | 7 | 18 | 8 |
+| Forma (últimos 5) | DVVVD | VVDVV | VVVDD | VVDVV |
+| Balance | 7V 4E 3D | 5V 1E 1D | 11V 4E 3D | 6V 1E 1D |
+| Goles a favor / partido | 1,43 | 1,71 | 2,17 | 2,62 |
+| Goles en contra / partido | 1,07 | 0,86 | 1,22 | 1,25 |
 | Goles a favor 1ª parte | 0,36 | 0,57 | 0,94 | 1,00 |
-| Goles a favor 2ª parte | 1,07 | 1,14 | 1,18 | 1,57 |
-| Goles en contra 1ª parte | 0,29 | 0,00 | 0,53 | 0,43 |
-| Goles en contra 2ª parte | 0,79 | 0,86 | 0,76 | 1,00 |
-| Más de 1,5 goles | 71% | 71% | 82% | 86% |
-| Más de 2,5 goles | 43% | 43% | 65% | 71% |
-| Más de 3,5 goles | 43% | 43% | 47% | 57% |
-| Ambos marcan | 36% | 43% | 59% | 71% |
-| Portería a cero | 43% | 43% | 29% | 29% |
-| Se queda sin marcar | 29% | 14% | 18% | 0% |
-| xG a favor | 1,38 | 1,50 | 1,96 | 2,07 |
-| xG en contra | 1,62 | 1,52 | 1,38 | 1,48 |
-| Tiros / partido | 14,4 | 14,9 | 17,3 | 19,7 |
-| Tiros a puerta / partido | 5,2 | 5,1 | 5,5 | 6,4 |
-| Tiros recibidos | 14,9 | 15,0 | 12,9 | 13,4 |
-| Tiros a puerta recibidos | 4,2 | 4,7 | 3,9 | 4,3 |
-| Posesión media % | 48 | 48 | 55 | 58 |
-| Córners a favor | 4,6 | 4,1 | 6,8 | 7,3 |
-| Córners en contra | 5,4 | 4,0 | 4,4 | 3,3 |
-| Córners a favor 1ª parte | 2,4 | 1,7 | 3,8 | 4,1 |
-| Córners a favor 2ª parte | 2,2 | 2,4 | 3,0 | 3,1 |
-| Córners totales del partido | 9,9 | 8,1 | 11,2 | 10,6 |
-| Córners totales 1ª parte | 5,0 | 3,4 | 5,9 | 6,6 |
-| Córners totales 2ª parte | 4,9 | 4,7 | 5,3 | 4,0 |
-| Más de 8,5 córners | 57% | 29% | 71% | 57% |
-| Más de 9,5 córners | 43% | 29% | 65% | 57% |
-| Más de 10,5 córners | 43% | 29% | 65% | 57% |
-| Faltas cometidas | 9,2 | 9,4 | 13,4 | 12,6 |
-| Faltas recibidas | 11,6 | 12,4 | 9,9 | 10,0 |
-| Amarillas propias | 1,8 | 2,1 | 2,1 | 2,3 |
-| Amarillas del rival | 1,8 | 2,4 | 1,9 | 2,1 |
+| Goles a favor 2ª parte | 1,07 | 1,14 | 1,22 | 1,62 |
+| Goles en contra 1ª parte | 0,29 | 0,00 | 0,50 | 0,38 |
+| Goles en contra 2ª parte | 0,79 | 0,86 | 0,72 | 0,88 |
+| Más de 1,5 goles | 71% | 71% | 83% | 88% |
+| Más de 2,5 goles | 43% | 43% | 67% | 75% |
+| Más de 3,5 goles | 43% | 43% | 44% | 50% |
+| Ambos marcan | 36% | 43% | 56% | 62% |
+| Portería a cero | 43% | 43% | 33% | 38% |
+| Se queda sin marcar | 29% | 14% | 17% | 0% |
+| xG a favor | 1,38 | 1,50 | 1,97 | 2,09 |
+| xG en contra | 1,62 | 1,52 | 1,38 | 1,45 |
+| Tiros / partido | 14,4 | 14,9 | 17,1 | 18,9 |
+| Tiros a puerta / partido | 5,2 | 5,1 | 5,4 | 6,1 |
+| Tiros recibidos | 14,9 | 15,0 | 13,1 | 13,9 |
+| Tiros a puerta recibidos | 4,2 | 4,7 | 4,0 | 4,4 |
+| Posesión media % | 48 | 48 | 54 | 57 |
+| Córners a favor | 4,6 | 4,1 | 6,7 | 6,9 |
+| Córners en contra | 5,4 | 4,0 | 4,6 | 3,9 |
+| Córners a favor 1ª parte | 2,4 | 1,7 | 3,8 | 4,0 |
+| Córners a favor 2ª parte | 2,2 | 2,4 | 2,9 | 2,9 |
+| Córners totales del partido | 9,9 | 8,1 | 11,2 | 10,8 |
+| Córners totales 1ª parte | 5,0 | 3,4 | 5,9 | 6,5 |
+| Córners totales 2ª parte | 4,9 | 4,7 | 5,3 | 4,2 |
+| Más de 8,5 córners | 57% | 29% | 72% | 62% |
+| Más de 9,5 córners | 43% | 29% | 67% | 62% |
+| Más de 10,5 córners | 43% | 29% | 67% | 62% |
+| Faltas cometidas | 9,2 | 9,4 | 13,3 | 12,6 |
+| Faltas recibidas | 11,6 | 12,4 | 9,8 | 9,9 |
+| Amarillas propias | 1,8 | 2,1 | 1,9 | 2,0 |
+| Amarillas del rival | 1,8 | 2,4 | 1,8 | 1,9 |
 | Rojas / partido | 0,07 | 0,00 | 0,06 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Everton | Recibe Everton | Tarjetas Everton | Goles Liverpool | Recibe Liverpool | Tarjetas Liverpool |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 1 | 2 | 4 | 2 | 3 |
+| 1-15' | 1 | 1 | 2 | 5 | 2 | 3 |
 | 16-30' | 1 | 2 | 2 | 6 | 5 | 5 |
 | 31-45' | 3 | 1 | 5 | 7 | 2 | 4 |
 | 46-60' | 5 | 4 | 3 | 7 | 1 | 10 |
-| 61-75' | 5 | 3 | 5 | 8 | 7 | 6 |
-| 76-90' | 5 | 4 | 11 | 5 | 5 | 9 |
+| 61-75' | 5 | 3 | 5 | 8 | 7 | 7 |
+| 76-90' | 5 | 4 | 11 | 7 | 5 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Liverpool:** A. Nallo (baja, Leg Injury); J. Frimpong (baja, Muscle Bruise); G. Leoni (baja, Jumpers Knee); C. Bradley (baja, Jumpers Knee)
+**Everton:** J. Tarkowski (baja, Red Card)
+**Liverpool:** C. Bradley (baja, Knee Injury); H. Ekitike (baja, Achilles Tendon Injury); C. Gakpo (baja, Calf Injury); R. Gravenberch (baja, Heel Injury); G. Leoni (baja, Knee Injury); V. Munoz (baja, Knee Injury); A. Nallo (baja, Leg Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-04-19 · Premier League: Everton 1-2 Liverpool
@@ -179,33 +182,33 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Liverpool
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-25 | Champions League | Club Brugge KV 0-3 Liverpool | fuera | 4-8 | 13 (4) - 17 (5) | 0-0 |
 | 2026-11-22 | Premier League | Liverpool 4-0 Manchester United | casa | 15-5 | 28 (11) - 10 (3) | 1-0 |
 | 2026-11-08 | Premier League | Crystal Palace 1-3 Liverpool | fuera | 7-4 | 20 (8) - 19 (7) | 4-2 |
 | 2026-11-04 | Champions League | Fenerbahçe 3-2 Liverpool | fuera | 12-4 | 22 (6) - 17 (6) | 1-1 |
 | 2026-11-01 | Premier League | Liverpool 0-1 Arsenal | casa | 7-4 | 17 (0) - 10 (3) | 4-4 |
 | 2026-10-28 | Carabao Cup | Liverpool 1-1 Chelsea | casa | 7-5 | 10 (4) - 11 (4) | 2-2 |
-| 2026-10-25 | Premier League | Liverpool 2-0 Brighton | casa | 4-2 | 13 (4) - 17 (1) | 0-2 |
 
 ## Jugadores de Liverpool
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| V. van Dijk | D | 16 | 1360 | 0 | 0 | 13 | 0,8 | 4 | 0,2 | 13 | 5 | 0,3 | 3 | 0 |
-| Alisson Becker | G | 15 | 1350 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
-| J. Jacquet | D | 17 | 1334 | 0 | 0 | 7 | 0,4 | 1 | 0,1 | 17 | 11 | 0,6 | 2 | 0 |
-| A. Mac Allister | M | 17 | 1183 | 5 | 1 | 27 | 1,6 | 11 | 0,6 | 19 | 14 | 0,8 | 6 | 0 |
-| F. Wirtz | M | 16 | 1165 | 3 | 5 | 27 | 1,7 | 10 | 0,6 | 24 | 13 | 0,8 | 1 | 0 |
-| R. Araújo | D | 16 | 1127 | 2 | 1 | 15 | 0,9 | 5 | 0,3 | 11 | 3 | 0,2 | 4 | 0 |
-| M. Kerkez | D | 14 | 1107 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 21 | 19 | 1,4 | 4 | 0 |
-| A. Isak | F | 15 | 983 | 8 | 1 | 35 | 2,3 | 15 | 1,0 | 4 | 8 | 0,5 | 1 | 0 |
-| B. Barcola | M | 15 | 944 | 3 | 4 | 27 | 1,8 | 9 | 0,6 | 15 | 5 | 0,3 | 4 | 0 |
+| Alisson Becker | G | 16 | 1440 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
+| J. Jacquet | D | 18 | 1424 | 0 | 0 | 7 | 0,4 | 1 | 0,1 | 21 | 13 | 0,7 | 2 | 0 |
+| V. van Dijk | D | 17 | 1377 | 0 | 0 | 13 | 0,8 | 4 | 0,2 | 13 | 5 | 0,3 | 3 | 0 |
+| F. Wirtz | M | 17 | 1255 | 4 | 5 | 28 | 1,6 | 11 | 0,6 | 24 | 15 | 0,9 | 1 | 0 |
+| R. Araújo | D | 17 | 1217 | 2 | 1 | 15 | 0,9 | 5 | 0,3 | 11 | 3 | 0,2 | 4 | 0 |
+| A. Mac Allister | M | 18 | 1200 | 5 | 1 | 27 | 1,5 | 11 | 0,6 | 20 | 14 | 0,8 | 6 | 0 |
+| M. Kerkez | D | 15 | 1197 | 0 | 0 | 4 | 0,3 | 1 | 0,1 | 24 | 21 | 1,4 | 4 | 0 |
+| A. Isak | F | 16 | 1069 | 10 | 1 | 40 | 2,5 | 17 | 1,1 | 4 | 9 | 0,6 | 1 | 0 |
+| B. Barcola | M | 16 | 1030 | 3 | 4 | 29 | 1,8 | 9 | 0,6 | 15 | 5 | 0,3 | 4 | 0 |
+| D. Szoboszlai | M | 13 | 961 | 4 | 2 | 24 | 1,8 | 12 | 0,9 | 16 | 4 | 0,3 | 1 | 0 |
 | C. Gakpo | M | 12 | 898 | 3 | 6 | 17 | 1,4 | 7 | 0,6 | 15 | 16 | 1,3 | 0 | 0 |
-| D. Szoboszlai | M | 12 | 871 | 4 | 1 | 23 | 1,9 | 11 | 0,9 | 14 | 4 | 0,3 | 1 | 0 |
-| R. Ngumoha | M | 15 | 720 | 1 | 3 | 13 | 0,9 | 2 | 0,1 | 8 | 19 | 1,3 | 0 | 0 |
+| R. Ngumoha | F | 16 | 768 | 1 | 4 | 14 | 0,9 | 2 | 0,1 | 8 | 20 | 1,2 | 0 | 0 |
+| T. Nyoni | M | 15 | 716 | 1 | 0 | 7 | 0,5 | 1 | 0,1 | 9 | 2 | 0,1 | 0 | 0 |
 | R. Gravenberch | M | 12 | 663 | 0 | 1 | 6 | 0,5 | 3 | 0,2 | 13 | 11 | 0,9 | 2 | 1 |
-| T. Nyoni | M | 14 | 643 | 1 | 0 | 7 | 0,5 | 1 | 0,1 | 9 | 2 | 0,1 | 0 | 0 |
-| Víctor Muñoz | F | 13 | 589 | 3 | 0 | 15 | 1,2 | 7 | 0,5 | 11 | 12 | 0,9 | 2 | 0 |
-| L. Koumas | F | 15 | 450 | 1 | 1 | 9 | 0,6 | 5 | 0,3 | 8 | 4 | 0,3 | 1 | 0 |
+| Víctor Muñoz | M | 14 | 631 | 3 | 0 | 17 | 1,2 | 7 | 0,5 | 13 | 12 | 0,9 | 2 | 0 |
+| J. Frimpong | D | 10 | 496 | 1 | 2 | 2 | 0,2 | 1 | 0,1 | 7 | 3 | 0,3 | 2 | 0 |
+| L. Koumas | F | 16 | 454 | 1 | 1 | 9 | 0,6 | 5 | 0,3 | 8 | 4 | 0,2 | 1 | 0 |
 | K. Tsimikas | D | 9 | 429 | 0 | 3 | 2 | 0,2 | 1 | 0,1 | 10 | 7 | 0,8 | 0 | 0 |
-| J. Frimpong | D | 9 | 423 | 1 | 2 | 2 | 0,2 | 1 | 0,1 | 6 | 3 | 0,3 | 2 | 0 |
 | J. Gomez | D | 9 | 264 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 2 | 3 | 0,3 | 0 | 0 |
 | G. Mamardashvili | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |

@@ -1,86 +1,86 @@
 {
- "generado": "2026-11-25 09:30",
+ "generado": "2026-11-26 23:06",
  "estilos": {
   "datos-rachas": {
-   "nota": 0.94,
+   "nota": 0.938,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-segura": {
-   "nota": 0.907,
+   "nota": 0.906,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-dia": {
-   "nota": 1.285,
+   "nota": 1.27,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-tema": {
-   "nota": 0.912,
+   "nota": 0.911,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "datos-manana": {
-   "nota": 0.915,
+   "nota": 0.913,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "ganadores": {
-   "nota": 1.351,
+   "nota": 1.333,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "escalera": {
-   "nota": 2.351,
-   "posts_threads": 26,
-   "resultados": 2,
-   "verdes": 1
+   "nota": 1.235,
+   "posts_threads": 27,
+   "resultados": 0,
+   "verdes": 0
   },
   "combi-liga": {
-   "nota": 1.367,
+   "nota": 1.349,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-tres": {
-   "nota": 1.307,
-   "posts_threads": 17,
+   "nota": 1.273,
+   "posts_threads": 18,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1550167": {
-   "nota": 1.082,
+   "nota": 1.075,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1640387": {
-   "nota": 1.096,
+   "nota": 1.088,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1640383": {
-   "nota": 1.055,
+   "nota": 1.048,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1550171": {
-   "nota": 1.086,
+   "nota": 1.078,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1550172": {
-   "nota": 1.084,
+   "nota": 1.076,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
@@ -92,193 +92,193 @@
    "verdes": 0
   },
   "combi-partido-1640385": {
-   "nota": 0.935,
+   "nota": 0.933,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1550169": {
-   "nota": 0.942,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "combi-partido-1575211": {
-   "nota": 0.928,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "combi-partido-1570442": {
    "nota": 0.94,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
+  "combi-partido-1575211": {
+   "nota": 0.926,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1570442": {
+   "nota": 0.937,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
   "combi-partido-1563233": {
-   "nota": 0.912,
+   "nota": 0.911,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1552802": {
-   "nota": 0.923,
+   "nota": 0.922,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-500": {
-   "nota": 1.25,
+   "nota": 1.375,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1575204": {
-   "nota": 0.941,
+   "nota": 0.938,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1557454": {
-   "nota": 0.952,
+   "nota": 0.95,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-loca": {
-   "nota": 0.972,
+   "nota": 0.959,
    "posts_threads": 9,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1550186": {
-   "nota": 0.949,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "combi-partido-1557456": {
-   "nota": 0.958,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "combi-partido-1575203": {
-   "nota": 0.961,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "combi-partido-1550177": {
-   "nota": 0.931,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "combi-partido-1552210": {
-   "nota": 0.92,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "combi-partido-1550183": {
-   "nota": 0.963,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "combi-partido-1575207": {
-   "nota": 0.944,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "combi-partido-1570440": {
-   "nota": 1.012,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "combi-partido-1570437": {
    "nota": 0.947,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
-  "combi-partido-1550182": {
-   "nota": 0.99,
+  "combi-partido-1557456": {
+   "nota": 0.955,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
-  "combi-partido-1570433": {
+  "combi-partido-1575203": {
+   "nota": 0.958,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1550177": {
    "nota": 0.929,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
+  "combi-partido-1552210": {
+   "nota": 0.919,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1550183": {
+   "nota": 0.96,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1575207": {
+   "nota": 0.941,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1570440": {
+   "nota": 1.007,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1570437": {
+   "nota": 0.944,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1550182": {
+   "nota": 0.986,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1570433": {
+   "nota": 0.927,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
   "pick-seguro": {
-   "nota": 1.279,
+   "nota": 1.26,
    "posts_threads": 11,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1570436": {
-   "nota": 1.192,
+   "nota": 1.181,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1569998": {
-   "nota": 0.974,
+   "nota": 0.97,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "lista-europa-2": {
-   "nota": 1.402,
+   "nota": 1.39,
    "posts_threads": 3,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1635677": {
-   "nota": 1.135,
+   "nota": 1.126,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "lista-europa-1": {
-   "nota": 1.203,
+   "nota": 1.189,
    "posts_threads": 2,
    "resultados": 0,
    "verdes": 0
   },
   "combi-multi": {
-   "nota": 1.325,
+   "nota": 1.308,
    "posts_threads": 7,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1635745": {
-   "nota": 1.02,
+   "nota": 1.014,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "estrella-1635656": {
-   "nota": 1.008,
+   "nota": 1.003,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "estrella-1635651": {
-   "nota": 1.034,
+   "nota": 1.028,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "lista-europa-3": {
-   "nota": 0.985,
+   "nota": 0.981,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
@@ -290,25 +290,25 @@
    "verdes": 0
   },
   "combi-partido-1636254": {
-   "nota": 1.169,
+   "nota": 1.158,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1636229": {
-   "nota": 1.121,
+   "nota": 1.112,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "estrella-1636223": {
-   "nota": 1.003,
+   "nota": 0.998,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "estrella-1636219": {
-   "nota": 1.002,
+   "nota": 0.998,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
@@ -320,19 +320,19 @@
    "verdes": 0
   },
   "combi-partido-1570450": {
-   "nota": 0.949,
+   "nota": 0.947,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1575539": {
-   "nota": 0.928,
+   "nota": 0.926,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "ganadores-win-2": {
-   "nota": 1.598,
+   "nota": 1.583,
    "posts_threads": 2,
    "resultados": 0,
    "verdes": 0
@@ -344,61 +344,61 @@
    "verdes": 0
   },
   "combi-partido-1575212": {
-   "nota": 1.306,
+   "nota": 1.291,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1557457": {
-   "nota": 1.149,
+   "nota": 1.139,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1557461": {
-   "nota": 1.305,
+   "nota": 1.289,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1570005": {
-   "nota": 1.148,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "estrella-1557457": {
-   "nota": 1.124,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "combi-partido-1570448": {
    "nota": 1.138,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
+  "estrella-1557457": {
+   "nota": 1.115,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1570448": {
+   "nota": 1.129,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
   "estrella-1557465": {
-   "nota": 1.245,
+   "nota": 1.232,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1550187": {
-   "nota": 1.221,
+   "nota": 1.209,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1552815": {
-   "nota": 1.23,
+   "nota": 1.217,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1552221": {
-   "nota": 1.195,
+   "nota": 1.183,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
@@ -410,7 +410,7 @@
    "verdes": 0
   },
   "combi-partido-1552222": {
-   "nota": 1.02,
+   "nota": 1.015,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
@@ -422,37 +422,37 @@
    "verdes": 0
   },
   "estrella-1557464": {
-   "nota": 1.216,
+   "nota": 1.204,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1570011": {
-   "nota": 0.99,
+   "nota": 0.983,
    "posts_threads": 2,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1575544": {
-   "nota": 1.03,
+   "nota": 1.025,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1550189": {
-   "nota": 1.055,
+   "nota": 1.048,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "estrella-1570443": {
-   "nota": 1.234,
+   "nota": 1.221,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1575538": {
-   "nota": 0.949,
+   "nota": 0.946,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
@@ -464,27 +464,9 @@
    "verdes": 0
   },
   "pick-seguro-2": {
-   "nota": 0.878,
+   "nota": 0.873,
    "posts_threads": 3,
    "resultados": 0,
-   "verdes": 0
-  },
-  "ganadores-nations": {
-   "nota": 0.875,
-   "posts_threads": 0,
-   "resultados": 1,
-   "verdes": 0
-  },
-  "ganadores-nations-texto": {
-   "nota": 0.875,
-   "posts_threads": 0,
-   "resultados": 1,
-   "verdes": 0
-  },
-  "loca-th-0400-x100": {
-   "nota": 0.875,
-   "posts_threads": 0,
-   "resultados": 1,
    "verdes": 0
   },
   "loca-th-0800-x50": {
@@ -494,25 +476,25 @@
    "verdes": 0
   },
   "loca-th-1000-x500": {
-   "nota": 0.99,
+   "nota": 0.986,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1130-lista-gana": {
-   "nota": 0.847,
+   "nota": 0.969,
    "posts_threads": 1,
-   "resultados": 1,
+   "resultados": 0,
    "verdes": 0
   },
   "loca-th-1300-reto": {
-   "nota": 0.943,
+   "nota": 0.94,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "combi-m": {
-   "nota": 1.166,
+   "nota": 1.155,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
@@ -524,13 +506,13 @@
    "verdes": 0
   },
   "loca-th-1430-lista-corners": {
-   "nota": 0.972,
+   "nota": 0.968,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1500-duelo": {
-   "nota": 0.927,
+   "nota": 0.922,
    "posts_threads": 2,
    "resultados": 0,
    "verdes": 0
@@ -542,14 +524,14 @@
    "verdes": 0
   },
   "combi-partido-m-1528990": {
-   "nota": 1.055,
+   "nota": 1.048,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1700-escudos": {
-   "nota": 1.197,
-   "posts_threads": 6,
+   "nota": 1.189,
+   "posts_threads": 7,
    "resultados": 0,
    "verdes": 0
   },
@@ -566,38 +548,38 @@
    "verdes": 0
   },
   "loca-th-1900-x50": {
-   "nota": 0.984,
+   "nota": 0.98,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1930-tapados": {
-   "nota": 1.144,
+   "nota": 1.134,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-2000-lista-corners": {
-   "nota": 0.931,
+   "nota": 0.929,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-2030-ganaambos": {
-   "nota": 1.142,
+   "nota": 1.133,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-noche-2100-x100": {
-   "nota": 0.765,
-   "posts_threads": 6,
+   "nota": 0.727,
+   "posts_threads": 8,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-noche-2130-ganaambos": {
-   "nota": 0.714,
-   "posts_threads": 4,
+   "nota": 0.667,
+   "posts_threads": 6,
    "resultados": 0,
    "verdes": 0
   },
@@ -608,25 +590,25 @@
    "verdes": 0
   },
   "loca-th-0900-reto": {
-   "nota": 0.995,
+   "nota": 0.991,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-0930-tiros": {
-   "nota": 1.073,
+   "nota": 1.063,
    "posts_threads": 2,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1000-lista-corners": {
-   "nota": 1.085,
+   "nota": 1.077,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1130-duelo": {
-   "nota": 0.914,
+   "nota": 0.909,
    "posts_threads": 2,
    "resultados": 0,
    "verdes": 0
@@ -644,61 +626,61 @@
    "verdes": 0
   },
   "loca-th-1300-tapados": {
-   "nota": 1.029,
+   "nota": 1.021,
    "posts_threads": 2,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1400-lista-corners": {
-   "nota": 1.049,
+   "nota": 1.043,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1430-x500": {
-   "nota": 1.007,
+   "nota": 1.003,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1530-lista-corners": {
-   "nota": 1.005,
+   "nota": 1.0,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1600-x500": {
-   "nota": 1.309,
-   "posts_threads": 2,
+   "nota": 1.302,
+   "posts_threads": 3,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1630-escudos": {
-   "nota": 1.099,
+   "nota": 1.085,
    "posts_threads": 4,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1730-lista-corners": {
-   "nota": 0.964,
+   "nota": 0.961,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1830-tiros": {
-   "nota": 1.021,
+   "nota": 1.015,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1900-x1000": {
-   "nota": 1.197,
-   "posts_threads": 1,
+   "nota": 1.215,
+   "posts_threads": 2,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1300-x100": {
-   "nota": 1.192,
+   "nota": 1.18,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
@@ -710,73 +692,73 @@
    "verdes": 0
   },
   "loca-th-1430-escudos": {
-   "nota": 1.256,
+   "nota": 1.254,
    "posts_threads": 2,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1500-escudos": {
-   "nota": 1.167,
+   "nota": 1.152,
    "posts_threads": 3,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1530-lista-ambos": {
-   "nota": 0.961,
+   "nota": 0.958,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1545-goleadoras": {
-   "nota": 0.946,
+   "nota": 0.943,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1600-duelo": {
-   "nota": 0.922,
+   "nota": 0.921,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1730-x50": {
-   "nota": 1.081,
+   "nota": 1.074,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1745-sustos-copa": {
-   "nota": 1.024,
+   "nota": 1.018,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1800-x500": {
-   "nota": 0.924,
+   "nota": 0.922,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1830-lista-corners": {
-   "nota": 0.93,
+   "nota": 0.928,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1900-tiros": {
-   "nota": 0.937,
+   "nota": 0.934,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1930-duelo": {
-   "nota": 0.895,
+   "nota": 0.894,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-2000-tiros": {
-   "nota": 0.942,
+   "nota": 0.939,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
@@ -788,103 +770,103 @@
    "verdes": 0
   },
   "loca-th-1100-duelo": {
-   "nota": 0.921,
+   "nota": 0.919,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1130-hora": {
-   "nota": 1.375,
+   "nota": 1.362,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1400-x500": {
-   "nota": 0.957,
+   "nota": 0.954,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1530-duelo": {
-   "nota": 0.92,
+   "nota": 0.919,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1630-x100": {
-   "nota": 0.951,
+   "nota": 0.949,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1900-lista-corners": {
-   "nota": 0.708,
+   "nota": 0.83,
    "posts_threads": 3,
    "resultados": 1,
    "verdes": 0
   },
   "loca-th-1930-ganaambos": {
-   "nota": 1.193,
+   "nota": 1.179,
    "posts_threads": 2,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-0400-x50": {
-   "nota": 0.875,
+   "nota": 1.0,
    "posts_threads": 0,
    "resultados": 1,
    "verdes": 0
   },
   "loca-th-0800-lista-corners": {
-   "nota": 0.792,
+   "nota": 0.915,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 0
   },
   "loca-th-0900-empates": {
-   "nota": 0.981,
+   "nota": 0.977,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1000-reto": {
-   "nota": 1.193,
+   "nota": 1.181,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1100-tiros": {
-   "nota": 0.933,
+   "nota": 0.931,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1200-hora": {
-   "nota": 1.134,
+   "nota": 1.125,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1230-escudos": {
-   "nota": 1.325,
+   "nota": 1.309,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1400-lista-ambos": {
-   "nota": 0.942,
+   "nota": 0.939,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1600-escudos": {
-   "nota": 0.928,
+   "nota": 0.926,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1830-x1000": {
-   "nota": 0.937,
+   "nota": 0.932,
    "posts_threads": 2,
    "resultados": 0,
    "verdes": 0
@@ -896,169 +878,169 @@
    "verdes": 0
   },
   "picks-manana": {
-   "nota": 0.8,
+   "nota": 1.0,
    "posts_threads": 0,
    "resultados": 2,
    "verdes": 0
   },
   "loca-th-0800-x500": {
-   "nota": 1.31,
-   "posts_threads": 1,
+   "nota": 1.444,
+   "posts_threads": 2,
    "resultados": 0,
    "verdes": 0
   },
   "ganadores-resto": {
    "nota": 1.375,
    "posts_threads": 1,
-   "resultados": 0,
+   "resultados": 1,
    "verdes": 0
   },
   "loca-th-0920-escudos": {
-   "nota": 1.055,
+   "nota": 1.048,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-0940-lista-corners": {
-   "nota": 0.966,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "loca-th-1000-escudos": {
-   "nota": 1.227,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "loca-th-1100-escudos": {
    "nota": 0.963,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
+  "loca-th-1000-escudos": {
+   "nota": 1.214,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1100-escudos": {
+   "nota": 0.96,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
   "loca-th-1120-escudos": {
-   "nota": 1.012,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "loca-th-1140-escudos": {
-   "nota": 1.006,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "estrella-1557474": {
-   "nota": 1.225,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "loca-th-1400-escudos": {
-   "nota": 0.994,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "loca-th-1420-escudos": {
    "nota": 1.007,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
+  "loca-th-1140-escudos": {
+   "nota": 1.002,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "estrella-1557474": {
+   "nota": 1.212,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1400-escudos": {
+   "nota": 0.99,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1420-escudos": {
+   "nota": 1.002,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
   "loca-th-1520-empates": {
-   "nota": 1.058,
+   "nota": 1.051,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "ganadores-seriea": {
-   "nota": 0.875,
+   "nota": 1.0,
    "posts_threads": 0,
    "resultados": 1,
    "verdes": 0
   },
   "loca-th-0800-escudos": {
-   "nota": 1.029,
+   "nota": 1.024,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-0900-x500": {
-   "nota": 1.0,
+   "nota": 0.995,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-0920-lista-corners": {
-   "nota": 1.049,
+   "nota": 1.042,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1200-escudos": {
-   "nota": 0.991,
+   "nota": 0.987,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1300-escudos": {
-   "nota": 1.021,
+   "nota": 1.016,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "estrella-1557473": {
-   "nota": 0.942,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "loca-th-1720-escudos": {
-   "nota": 1.122,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "loca-th-1740-escudos": {
-   "nota": 1.076,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "loca-th-1820-lista-gana": {
-   "nota": 0.942,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "loca-th-1840-duelo": {
-   "nota": 0.915,
-   "posts_threads": 1,
-   "resultados": 0,
-   "verdes": 0
-  },
-  "loca-th-1900-tapados": {
    "nota": 0.94,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
-  "loca-th-1920-lista-corners": {
-   "nota": 0.92,
+  "loca-th-1720-escudos": {
+   "nota": 1.071,
+   "posts_threads": 2,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1740-escudos": {
+   "nota": 1.025,
+   "posts_threads": 2,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1820-lista-gana": {
+   "nota": 0.94,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
+  "loca-th-1840-duelo": {
+   "nota": 0.868,
+   "posts_threads": 2,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1900-tapados": {
+   "nota": 0.937,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1920-lista-corners": {
+   "nota": 0.886,
+   "posts_threads": 2,
+   "resultados": 0,
+   "verdes": 0
+  },
   "loca-th-1940-x500": {
-   "nota": 0.971,
+   "nota": 0.968,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "estrella-1550198": {
-   "nota": 0.921,
+   "nota": 0.92,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
@@ -1076,37 +1058,145 @@
    "verdes": 0
   },
   "loca-th-1030-x500": {
-   "nota": 1.083,
+   "nota": 1.076,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-0800-reto": {
-   "nota": 0.953,
+   "nota": 0.95,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-0900-tiros": {
-   "nota": 1.0,
+   "nota": 0.995,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1130-x100": {
-   "nota": 1.19,
+   "nota": 1.178,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-1400-x50": {
-   "nota": 1.359,
-   "posts_threads": 1,
+   "nota": 1.267,
+   "posts_threads": 2,
    "resultados": 0,
    "verdes": 0
   },
   "estrella-1635692": {
-   "nota": 0.956,
+   "nota": 0.953,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-noche-2230-x50": {
+   "nota": 1.0,
+   "posts_threads": 0,
+   "resultados": 1,
+   "verdes": 0
+  },
+  "loca-th-0800-tiros": {
+   "nota": 0.992,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-0930-x100": {
+   "nota": 1.03,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1000-hora": {
+   "nota": 1.358,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1100-x50": {
+   "nota": 0.998,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1130-x500": {
+   "nota": 1.045,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1200-x1000": {
+   "nota": 1.04,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "estrella-1635735": {
+   "nota": 0.941,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-0900-lista-corners": {
+   "nota": 1.012,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-0920-empates": {
+   "nota": 1.375,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1000-tiros": {
+   "nota": 1.138,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1100-lista-ambos": {
+   "nota": 1.003,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1140-x100": {
+   "nota": 1.049,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1420-tapados": {
+   "nota": 1.011,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1440-escudos": {
+   "nota": 1.375,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "estrella-1636255": {
+   "nota": 1.19,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1940-x100": {
+   "nota": 1.094,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-1636301": {
+   "nota": 0.946,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0

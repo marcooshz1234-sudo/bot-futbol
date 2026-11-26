@@ -4674,7 +4674,12 @@
    "liga": "UEFA Europa League",
    "cuota_bet365": 1.33,
    "prob_cuota": 0.752
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   1,
+   1
+  ]
  },
  {
   "tipster": "CRIMINALPICKS🕵🏻‍♂️",
@@ -4724,7 +4729,12 @@
    "liga": "UEFA Europa League",
    "cuota_bet365": 1.53,
    "prob_cuota": 0.667
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   3,
+   1
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",

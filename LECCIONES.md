@@ -1,5 +1,42 @@
 # Lecciones del bot
 
+## 2026-11-26
+
+```
+🧠 LECCIONES DEL 26/11
+Picks del bot: 3 ✅ · 3 ❌
+
+❌ Lo que falló en lo publicado:
+• Ambos marcan en Ajax–FC Thun → 1 de 2 equipos que marcan
+• Ambos marcan en Plzen–Benfica → 1 de 2 equipos que marcan
+• Ararat-Armenia marca → 0 de 1 gol
+• Benfica marca en las dos partes → Marcador: 4–0
+• Bournemouth hace más córners → Córners: 6 – 5
+• Brann gana alguna de las dos partes → Marcador: 1–4
+• David Matei: 1+ tiros → 0 de 1 tiro
+• Empate en Brann–Aarhus → Marcador: 1–4
+• FC Thun marca → 0 de 1 gol
+• Gana el Benfica y ambos marcan → Marcador: 4–0
+• Gana el Benfica → Marcador: 4–0
+• Gana el Brann y ambos marcan → Marcador: 1–4
+• Gana el Brann → Marcador: 1–4
+• Gana el FC Lugano y ambos marcan → Marcador: 2–0
+• Gana el FC Lugano → Marcador: 2–0
+
+❌ Fallos de los picks del bot y por qué:
+• Gana el Brann — resultado 1-4
+• Orri Steinn Oskarsson: 2+ tiros — jugó 22′ e hizo 1 (necesitaba 2)
+• Bournemouth hace más tiros — no llegó a la línea (1-2)
+
+📐 Modelo: 399/640 aciertos reales (62%) frente al 71% que prometían las estadísticas y el 70% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬇️ castigo tipo tiros: 6/12 (-7 pts)
+⬇️ castigo mercado Shots.1x2|Away: 3/6 (-6 pts)
+⬇️ castigo mercado jugador:tiros:2: 10/16 (-4 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-24
 
 ```

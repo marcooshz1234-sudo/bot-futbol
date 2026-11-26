@@ -1,12 +1,13 @@
 # Renate – Folgore Caratese
 **Serie C** · Girone A - 16 · 29/11/2026 17:30 (hora España) · Mino Favini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:24_
+_Actualizadas: 26/11 23:03_
 
 - **1X2:** 1 **1.90**  ·  X **3.25**  ·  2 **3.50**
+- **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **1.80**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
     - 1,5: más **1.28** · menos **3.50**
@@ -14,6 +15,19 @@ _Actualizadas: 24/11 23:24_
     - 3,5: más **3.25** · menos **1.33**
     - 4,5: más **6.00** · menos **1.11**
     - 5,5: más **9.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **6.50** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **8.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **7.50** · menos **1.07**
 - **1X2 descanso:** 1 **2.50**  ·  X **2.20**  ·  2 **4.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**

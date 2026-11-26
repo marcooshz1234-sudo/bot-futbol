@@ -1,12 +1,13 @@
 # Ospitaletto – Union Brescia
 **Serie C** · Girone A - 16 · 28/11/2026 17:30 (hora España) · Stadio Comunale Gino Corioni
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:24_
+_Actualizadas: 26/11 23:02_
 
 - **1X2:** 1 **3.40**  ·  X **3.20**  ·  2 **1.95**
+- **Doble oportunidad:** 1X **1.70**  ·  12 **1.28**  ·  X2 **1.25**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 1,5: más **1.30** · menos **3.40**

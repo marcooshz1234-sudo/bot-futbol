@@ -1008,5 +1008,33 @@
  "Lille|World": [
   50.63391,
   3.05512
+ ],
+ "Copenhagen|Denmark": [
+  55.67594,
+  12.56553
+ ],
+ "Nottingham|England": [
+  52.9536,
+  -1.15047
+ ],
+ "Hvidovre|Denmark": [
+  55.64297,
+  12.47708
+ ],
+ "Brest|France": [
+  48.39029,
+  -4.48628
+ ],
+ "Santa Maria da Feira|Portugal": [
+  40.92726,
+  -8.54839
+ ],
+ "Ploiesti|Romania": [
+  44.95,
+  26.01667
+ ],
+ "Venice|Italy": [
+  45.43713,
+  12.33265
  ]
 }

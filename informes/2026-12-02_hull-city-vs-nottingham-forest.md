@@ -1,20 +1,20 @@
 # Hull City – Nottingham Forest
 **Premier League** · Regular Season - 13 · 02/12/2026 20:30 (hora España) · MKM Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:24_
+_Actualizadas: 26/11 23:04_
 
 - **1X2:** 1 **3.90**  ·  X **3.50**  ·  2 **1.90**
-- **Doble oportunidad:** 1X **1.80**  ·  12 **1.30**  ·  X2 **1.28**
+- **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.25**
 - **Ambos marcan:** Sí **1.75**  ·  No **2.00**
 - **Goles más/menos:**
-    - 0,5: más **1.05** · menos **11.00**
-    - 1,5: más **1.28** · menos **3.75**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.30** · menos **3.50**
     - 2,5: más **1.91** · menos **1.91**
     - 3,5: más **3.40** · menos **1.33**
-    - 4,5: más **6.00** · menos **1.12**
+    - 4,5: más **6.50** · menos **1.11**
     - 5,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**

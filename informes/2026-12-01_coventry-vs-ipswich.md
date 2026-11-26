@@ -1,10 +1,10 @@
 # Coventry – Ipswich
 **Premier League** · Regular Season - 13 · 01/12/2026 21:00 (hora España) · Coventry Building Society Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Actualizadas: 25/11 09:27_
+_Actualizadas: 26/11 23:04_
 
 - **1X2:** 1 **2.20**  ·  X **3.50**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.67**

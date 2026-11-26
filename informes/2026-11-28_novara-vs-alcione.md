@@ -1,12 +1,13 @@
 # Novara – Alcione
 **Serie C** · Girone A - 16 · 28/11/2026 14:30 (hora España) · Stadio Silvio Piola
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:24_
+_Actualizadas: 26/11 23:02_
 
 - **1X2:** 1 **2.30**  ·  X **3.00**  ·  2 **2.88**
+- **Doble oportunidad:** 1X **1.33**  ·  12 **1.30**  ·  X2 **1.50**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **8.50**
@@ -14,6 +15,10 @@ _Actualizadas: 24/11 23:24_
     - 2,5: más **2.08** · menos **1.73**
     - 3,5: más **3.75** · menos **1.25**
     - 4,5: más **7.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **7.50** · menos **1.07**
 - **Goles del local:**
     - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.50** · menos **1.50**

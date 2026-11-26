@@ -1,19 +1,45 @@
 # Lumezzane – Desenzano Calvina
 **Serie C** · Girone A - 16 · 28/11/2026 17:30 (hora España) · Tullio Saleri
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:24_
+_Actualizadas: 26/11 23:02_
 
 - **1X2:** 1 **2.10**  ·  X **3.20**  ·  2 **3.10**
+- **Doble oportunidad:** 1X **1.28**  ·  12 **1.28**  ·  X2 **1.60**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
     - 1,5: más **1.28** · menos **3.50**
     - 2,5: más **2.00** · menos **1.80**
     - 3,5: más **3.40** · menos **1.30**
     - 4,5: más **6.00** · menos **1.11**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **7.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **4.50** · menos **1.17**
+    - 3,5: más **9.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **7.00** · menos **1.08**
+- **1X2 descanso:** 1 **2.75**  ·  X **2.10**  ·  2 **3.60**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.67**  ·  2 **2.00**
+- **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **4.50**
+- **Win Both Halves:** 1 **7.00**  ·  2 **13.00**
 - **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **10.00**  ·  Away/No **5.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.30**
 
 ## Estadísticas de equipo
 | | Lumezzane (total) | Lumezzane en casa | Desenzano Calvina (total) | Desenzano Calvina fuera |

@@ -1,54 +1,53 @@
 # Feirense – Portimonense
 **Segunda Liga** · Regular Season - 12 · 27/11/2026 19:00 (hora España) · Estádio Marcolino de Castro
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Actualizadas: 25/11 09:27_
+_Actualizadas: 26/11 23:01_
 
-- **1X2:** 1 **2.75**  ·  X **3.00**  ·  2 **2.38**
-- **Doble oportunidad:** 1X **1.50**  ·  12 **1.33**  ·  X2 **1.36**
+- **1X2:** 1 **3.10**  ·  X **3.00**  ·  2 **2.15**
+- **Doble oportunidad:** 1X **1.62**  ·  12 **1.33**  ·  X2 **1.33**
 - **Ambos marcan:** Sí **1.91**  ·  No **1.80**
 - **Goles más/menos:**
     - 0,5: más **1.08** · menos **8.00**
     - 1,5: más **1.40** · menos **2.75**
     - 2,5: más **2.25** · menos **1.62**
-    - 3,5: más **4.33** · menos **1.20**
+    - 3,5: más **4.00** · menos **1.22**
     - 4,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.50** · menos **2.50**
     - 1,5: más **3.40** · menos **1.30**
     - 2,5: más **10.00** · menos **1.06**
 - **Goles del local:**
-    - 0,5: más **1.40** · menos **2.75**
-    - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **8.00** · menos **1.08**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.40** · menos **1.30**
+    - 2,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
-    - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.62** · menos **1.44**
-    - 2,5: más **7.00** · menos **1.10**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
     - 10: más **1.82** · menos **1.98**
     - 10,5: más **2.00** · menos **1.73**
 - **Córners 1X2:** 1 **1.80**  ·  X **8.00**  ·  2 **2.38**
-- **1X2 descanso:** 1 **3.60**  ·  X **2.05**  ·  2 **3.20**
+- **1X2 descanso:** 1 **4.00**  ·  X **2.05**  ·  2 **3.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.30** · menos **3.40**
-    - 1,5: más **2.50** · menos **1.50**
+    - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **6.00** · menos **1.12**
 - **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **2.00**  ·  2 **1.83**
-- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **4.33**
-- **Win Both Halves:** 1 **11.00**  ·  2 **9.00**
-- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **4.50**  ·  Draw/No **8.00**  ·  Away/No **3.75**
+- **To Win Either Half:** 1 **2.10**  ·  2 **1.73**
+- **To Score In Both Halves By Teams:** 1 **5.50**  ·  2 **4.00**
+- **Win Both Halves:** 1 **13.00**  ·  2 **8.00**
+- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **5.00**  ·  Draw/No **8.00**  ·  Away/No **3.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.62**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.05**
 - **Home Corners Over/Under:**
     - 5,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 4,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):**
-    - 4,5: más **1.82** · menos **1.98**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.75**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.82**  ·  Menos de 4.5 **1.98**
 
 ## Estadísticas de equipo
 | | Feirense (total) | Feirense en casa | Portimonense (total) | Portimonense fuera |

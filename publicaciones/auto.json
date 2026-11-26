@@ -13878,20 +13878,6 @@
     ]
   },
   {
-    "id": "2026-11-25-pick-seguro-4",
-    "fecha": "2026-11-25T13:30",
-    "texto": "Este lo tenemos claro 🔥\n📈 De las que hemos estudiado bien\n\n⭐ Paris Saint Germain – AS Roma · 21:00\n\n🍀 Achraf Hakimi (PSG): 2+ tiros @1,53\n🧠 Stake 4/10\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1635703|Home Player Shots|Achraf Hakimi - 2"
-    ],
-    "cuotas": [
-      1.53
-    ]
-  },
-  {
     "id": "2026-11-25-combi-tres",
     "fecha": "2026-11-25T13:30",
     "texto": "Vamos con la combi del miércoles familia 🔥\n🧠 Pensada con calma, sin prisas\n\n🇩🇪 Dayot Upamecano (Bayern) comete 1+ faltas\n🇵🇹 Más de 1,5 goles en la 2ª parte del Sporting CP–Manchester United\n\n📈 Cuota @2,21",
@@ -13907,85 +13893,6 @@
       1.73
     ],
     "solo_redes": true
-  },
-  {
-    "id": "2026-11-25-pick-seguro-5",
-    "fecha": "2026-11-25T15:00",
-    "texto": "Este lo tenemos claro 🔥\n📈 De las que hemos estudiado bien\n\n⭐ Lille – Bayern München · 21:00\n\n🍀 Dayot Upamecano (Bayern): 1+ tiros @1,57\n🧠 Stake 4/10\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1635682|Away Player Shots|Dayot Upamecano - 1"
-    ],
-    "cuotas": [
-      1.57
-    ]
-  },
-  {
-    "id": "2026-11-25-pick-seguro-6",
-    "fecha": "2026-11-25T16:30",
-    "texto": "Pick que nos gusta mucho para hoy 👀\n📈 De las que hemos estudiado bien\n\n⭐ Sporting CP – Manchester United · 21:00\n\n🍀 Sporting CP o empate @1,50\n\n👨‍💻 El Manchester United no ha ganado fuera en sus últimos 6 partidos.\n👨‍💻 El Sporting CP ha ganado 4 de sus últimos 5 partidos.\n👨‍💻 El Manchester United solo ha ganado 1 de sus últimos 5.\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1635735|Double Chance|Home/Draw"
-    ],
-    "cuotas": [
-      1.5
-    ]
-  },
-  {
-    "id": "2026-11-25-pick-seguro-2",
-    "fecha": "2026-11-25T18:00",
-    "texto": "Este lo tenemos claro 🔥\n\n⭐ Lille – Bayern München · 21:00\n\n🍀 Joshua Kimmich (Bayern): 1+ tiros @1,44\n🧠 Stake 4/10\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1635682|Away Player Shots|Joshua Kimmich - 1"
-    ],
-    "cuotas": [
-      1.44
-    ]
-  },
-  {
-    "id": "2026-11-25-estrella-1635682",
-    "fecha": "2026-11-25T20:25",
-    "texto": "Hoy hay partidazo: Lille 🆚 Bayern München ⭐⭐\n🤪 Para soñar un poco: con poquito dinero\n\nVamos con la combi del partido estrella (21:00) 🔥\n\n🍀 Joshua Kimmich: 1+ tiros\n🍀 Dayot Upamecano: 1+ tiros\n🍀 Tom Bischof comete 1+ faltas\n🍀 Nabil Bentaleb: 1+ tiros\n🍀 Lille marca\n\n📈 Cuota @6,74 aprox.\n\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1635682|Away Player Shots|Joshua Kimmich - 1",
-      "1635682|Away Player Shots|Dayot Upamecano - 1",
-      "1635682|Player Fouls Committed|Tom Bischof - 1",
-      "1635682|Home Player Shots|Nabil Bentaleb - 1",
-      "1635682|Total - Home|Over 0.5"
-    ],
-    "cuotas": [
-      1.44,
-      1.57,
-      1.28,
-      1.4,
-      1.57
-    ],
-    "espera_alineacion": true,
-    "tarjeta": {
-      "local": "Lille",
-      "visitante": "Bayern München",
-      "id_l": 79,
-      "id_v": 157,
-      "logo_l": "https://media.api-sports.io/football/teams/79.png",
-      "logo_v": "https://media.api-sports.io/football/teams/157.png",
-      "fecha": "2026-11-25T21:00",
-      "liga": "Champions"
-    },
-    "solo_redes": true,
-    "cuota_total": 5.58,
-    "cuota_calculada": true,
-    "cuotas_revisadas": "2026-11-25T18:57"
   },
   {
     "id": "2026-11-25-estrella-1635735",
@@ -14017,1596 +13924,6 @@
     },
     "solo_redes": true,
     "cuota_total": 3.83,
-    "cuota_calculada": true
-  },
-  {
-    "id": "2026-11-26-ganadores-europa",
-    "fecha": "2026-11-26T00:00",
-    "texto": "🏆 EUROPA LEAGUE - GANADORES\n\n1. 🇵🇹 Benfica - Win\n2. 🇹🇷 Beşiktaş - Win\n3. 🇫🇷 Marseille - Win\n4. 🇦🇹 Red Bull Salzburg - Win\n5. 🇧🇪 Union St. Gilloise - Win\n6. 🇩🇪 Hoffenheim - Win\n7. 🇭🇺 Ferencvarosi TC - Win\n8. 🇮🇹 Juventus - Win\n9. 🇫🇷 Lyon - Win\n10. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Sunderland - Win\n\n🍀 ¿CUÁNTOS ACERTAMOS HOY? 👀💚",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "solo_redes": true,
-    "forzar": true,
-    "sel": [
-      "1636315|Match Winner|Away",
-      "1636231|Match Winner|Home",
-      "1636298|Match Winner|Home",
-      "1636334|Match Winner|Home",
-      "1636329|Match Winner|Home",
-      "1636270|Match Winner|Home",
-      "1636261|Match Winner|Home",
-      "1636277|Match Winner|Home",
-      "1636294|Match Winner|Home",
-      "1636343|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.45,
-      1.22,
-      1.38,
-      1.17,
-      1.33,
-      1.33,
-      1.36,
-      1.18,
-      1.18,
-      1.25
-    ],
-    "ganadores_img": {
-      "titulo": "EUROPA LEAGUE",
-      "liga": 3,
-      "filas": [
-        {
-          "pais": "Portugal",
-          "bandera": "🇵🇹",
-          "escudo_url": "https://media.api-sports.io/football/teams/211.png",
-          "nombre": "Benfica",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Turkey",
-          "bandera": "🇹🇷",
-          "escudo_url": "https://media.api-sports.io/football/teams/549.png",
-          "nombre": "Beşiktaş",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "France",
-          "bandera": "🇫🇷",
-          "escudo_url": "https://media.api-sports.io/football/teams/81.png",
-          "nombre": "Marseille",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Austria",
-          "bandera": "🇦🇹",
-          "escudo_url": "https://media.api-sports.io/football/teams/571.png",
-          "nombre": "Red Bull Salzburg",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Belgium",
-          "bandera": "🇧🇪",
-          "escudo_url": "https://media.api-sports.io/football/teams/1393.png",
-          "nombre": "Union St. Gilloise",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Germany",
-          "bandera": "🇩🇪",
-          "escudo_url": "https://media.api-sports.io/football/teams/167.png",
-          "nombre": "Hoffenheim",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Hungary",
-          "bandera": "🇭🇺",
-          "escudo_url": "https://media.api-sports.io/football/teams/651.png",
-          "nombre": "Ferencvarosi TC",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Italy",
-          "bandera": "🇮🇹",
-          "escudo_url": "https://media.api-sports.io/football/teams/496.png",
-          "nombre": "Juventus",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "France",
-          "bandera": "🇫🇷",
-          "escudo_url": "https://media.api-sports.io/football/teams/80.png",
-          "nombre": "Lyon",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "England",
-          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "escudo_url": "https://media.api-sports.io/football/teams/746.png",
-          "nombre": "Sunderland",
-          "pick": "WIN",
-          "seleccion": false
-        }
-      ],
-      "lema": "¿CUÁNTOS ACERTAMOS HOY?"
-    },
-    "cuotas_revisadas": "2026-11-25T23:05"
-  },
-  {
-    "id": "2026-11-26-ganadores-conference",
-    "fecha": "2026-11-26T01:00",
-    "texto": "🏆 CONFERENCE LEAGUE - GANADORES\n\n1. 🇳🇱 Ajax - Win\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton - Win\n3. 🇦🇱 Egnatia Rrogozhinë - Win\n4. 🇪🇸 Getafe - Win\n5. 🇫🇷 Mónaco - Win\n6. 🇮🇹 Atalanta - Win\n7. 🇩🇰 Copenhague - Win\n8. 🇵🇹 Braga - Win\n\n🍀 ¿TODO VERDE HOY? 👀💚",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "solo_redes": true,
-    "forzar": true,
-    "sel": [
-      "1636381|Match Winner|Home",
-      "1636395|Match Winner|Home",
-      "1636405|Match Winner|Home",
-      "1636426|Match Winner|Away",
-      "1636421|Match Winner|Away",
-      "1636386|Match Winner|Away",
-      "1636428|Match Winner|Away",
-      "1636389|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.17,
-      1.14,
-      1.53,
-      1.44,
-      1.55,
-      1.42,
-      1.2,
-      1.11
-    ],
-    "ganadores_img": {
-      "titulo": "CONFERENCE LEAGUE",
-      "liga": 848,
-      "filas": [
-        {
-          "pais": "Netherlands",
-          "bandera": "🇳🇱",
-          "escudo_url": "https://media.api-sports.io/football/teams/194.png",
-          "nombre": "Ajax",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "England",
-          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "escudo_url": "https://media.api-sports.io/football/teams/51.png",
-          "nombre": "Brighton",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Albania",
-          "bandera": "🇦🇱",
-          "escudo_url": "https://media.api-sports.io/football/teams/3327.png",
-          "nombre": "Egnatia Rrogozhinë",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Spain",
-          "bandera": "🇪🇸",
-          "escudo_url": "https://media.api-sports.io/football/teams/546.png",
-          "nombre": "Getafe",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "France",
-          "bandera": "🇫🇷",
-          "escudo_url": "https://media.api-sports.io/football/teams/91.png",
-          "nombre": "Mónaco",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Italy",
-          "bandera": "🇮🇹",
-          "escudo_url": "https://media.api-sports.io/football/teams/499.png",
-          "nombre": "Atalanta",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Denmark",
-          "bandera": "🇩🇰",
-          "escudo_url": "https://media.api-sports.io/football/teams/400.png",
-          "nombre": "Copenhague",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Portugal",
-          "bandera": "🇵🇹",
-          "escudo_url": "https://media.api-sports.io/football/teams/217.png",
-          "nombre": "Braga",
-          "pick": "WIN",
-          "seleccion": false
-        }
-      ],
-      "lema": "¿TODO VERDE HOY?"
-    },
-    "cuotas_revisadas": "2026-11-25T23:34"
-  },
-  {
-    "id": "2026-11-26-ganadores-resto",
-    "fecha": "2026-11-26T02:00",
-    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇮🇹 Milan - Win\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bournemouth - Win\n3. 🇳🇴 Brann - Win\n4. 🇨🇭 Lugano - Win\n5. 🇱🇻 Riga - Win\n6. 🇧🇪 Anderlecht - Win\n7. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Crystal Palace - Win\n8. 🇧🇪 Gent - Win\n9. 🇩🇪 Friburgo - Win\n10. 🇹🇷 Trabzonspor - Win",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "solo_redes": true,
-    "forzar": true,
-    "sel": [
-      "1636307|Match Winner|Away",
-      "1636244|Match Winner|Away",
-      "1636393|Match Winner|Home",
-      "1636431|Match Winner|Away",
-      "1636438|Match Winner|Away",
-      "1636305|Match Winner|Away",
-      "1636252|Match Winner|Home",
-      "1636412|Match Winner|Home",
-      "1636410|Match Winner|Home",
-      "1636402|Match Winner|Away"
-    ],
-    "cuotas": [
-      2.45,
-      2.05,
-      2.1,
-      2.0,
-      2.05,
-      1.75,
-      2.05,
-      2.05,
-      2.05,
-      1.8
-    ],
-    "ganadores_img": {
-      "titulo": "PARTIDOS DE HOY",
-      "liga": null,
-      "filas": [
-        {
-          "pais": "Italy",
-          "bandera": "🇮🇹",
-          "escudo_url": "https://media.api-sports.io/football/teams/489.png",
-          "nombre": "Milan",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "England",
-          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "escudo_url": "https://media.api-sports.io/football/teams/35.png",
-          "nombre": "Bournemouth",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Norway",
-          "bandera": "🇳🇴",
-          "escudo_url": "https://media.api-sports.io/football/teams/319.png",
-          "nombre": "Brann",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Switzerland",
-          "bandera": "🇨🇭",
-          "escudo_url": "https://media.api-sports.io/football/teams/606.png",
-          "nombre": "Lugano",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Latvia",
-          "bandera": "🇱🇻",
-          "escudo_url": "https://media.api-sports.io/football/teams/10124.png",
-          "nombre": "Riga",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Belgium",
-          "bandera": "🇧🇪",
-          "escudo_url": "https://media.api-sports.io/football/teams/554.png",
-          "nombre": "Anderlecht",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "England",
-          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "escudo_url": "https://media.api-sports.io/football/teams/52.png",
-          "nombre": "Crystal Palace",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Belgium",
-          "bandera": "🇧🇪",
-          "escudo_url": "https://media.api-sports.io/football/teams/631.png",
-          "nombre": "Gent",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Germany",
-          "bandera": "🇩🇪",
-          "escudo_url": "https://media.api-sports.io/football/teams/160.png",
-          "nombre": "Friburgo",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Turkey",
-          "bandera": "🇹🇷",
-          "escudo_url": "https://media.api-sports.io/football/teams/998.png",
-          "nombre": "Trabzonspor",
-          "pick": "WIN",
-          "seleccion": false
-        }
-      ],
-      "lema": "¿QUIÉN SE APUNTA?"
-    },
-    "cuotas_revisadas": "2026-11-26T00:30"
-  },
-  {
-    "id": "2026-11-26-pick-seguro",
-    "fecha": "2026-11-26T10:30",
-    "texto": "Pick de hoy, con datos detrás 📊\n🧠 Esta va con cabeza: analizada\n\n🟠 Red Bull Salzburg – Ararat-Armenia · 18:45\n\n🍀 Artur Serobyan (Ararat-Armenia): 2+ tiros @1,50\n🧠 Stake 4/10\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1636334|Away Player Shots|Artur Serobyan - 2"
-    ],
-    "cuotas": [
-      1.5
-    ],
-    "cuotas_revisadas": "2026-11-26T09:01"
-  },
-  {
-    "id": "2026-11-26-lista-europa-1",
-    "fecha": "2026-11-26T12:00",
-    "texto": "🏆⚽ COPAS EUROPEAS · 11 PICKS PARA HOY 🍀 (1/2)\n🤪 Para soñar un poco: con poquito dinero\n\n🇨🇿 Richard Sedlacek (FK Jablonec): 1+ tiros\n🇦🇲 Artur Serobyan (Ararat-Armenia): 2+ tiros\n🇱🇹 Kauno Žalgiris marca\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Heart Of Midlothian marca\n🇨🇿 Plzen marca\n🇳🇱 Ramiz Zerrouki (Twente): 1+ tiros\n🇦🇹 Jon Stankovic (Sturm Graz): 1+ tiros\n🇧🇪 Ilias Sebaoui (St. Truiden): 2+ tiros\n🇵🇹 Torreense marca\n\n👉 ¡Coge los que más te gusten! ✅",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1636431|Home Player Shots|Richard Sedlacek - 1",
-      "1636334|Away Player Shots|Artur Serobyan - 2",
-      "1636438|Total - Home|Over 0.5",
-      "1636421|Total - Home|Over 0.5",
-      "1636315|Total - Home|Over 0.5",
-      "1636410|Away Player Shots|Ramiz Zerrouki - 1",
-      "1636270|Away Player Shots|Jon Stankovic - 1",
-      "1636420|Away Player Shots|Ilias Sebaoui - 2",
-      "1636349|Total - Home|Over 0.5"
-    ],
-    "cuotas": [
-      1.53,
-      1.5,
-      1.4,
-      1.44,
-      1.44,
-      1.57,
-      1.3,
-      1.28,
-      1.4
-    ],
-    "solo_redes": true,
-    "cuotas_revisadas": "2026-11-26T10:33",
-    "revisado_alineaciones": "2026-11-26T20:30"
-  },
-  {
-    "id": "2026-11-26-pick-seguro-3",
-    "fecha": "2026-11-26T12:30",
-    "texto": "Os dejo el pick, familia 👇\n🧠 Esta va con cabeza: analizada\n\n🟠 Crystal Palace – Real Sociedad · 21:00\n\n🍀 Orri Steinn Oskarsson (Real Sociedad): 3+ tiros @1,62\n🧠 Stake 4/10\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1636252|Away Player Shots|Orri Steinn Oskarsson - 3"
-    ],
-    "cuotas": [
-      1.62
-    ]
-  },
-  {
-    "id": "2026-11-26-pick-seguro-4",
-    "fecha": "2026-11-26T13:30",
-    "texto": "Este lo tenemos claro 🔥\n🧠 Esta va con cabeza: analizada\n\n🟢 FK Jablonec – FC Lugano · 18:45\n\n🍀 Richard Sedlacek (FK Jablonec): 1+ tiros @1,53\n🧠 Stake 4/10\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1636431|Home Player Shots|Richard Sedlacek - 1"
-    ],
-    "cuotas": [
-      1.53
-    ]
-  },
-  {
-    "id": "2026-11-26-combi-tres",
-    "fecha": "2026-11-26T13:30",
-    "texto": "Vamos con la combi del jueves familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇦🇲 Artur Serobyan (Ararat-Armenia): 2+ tiros\n🇳🇱 Ramiz Zerrouki (Twente): 1+ tiros\n🇧🇦 Borac Banja Luka marca\n\n📈 Cuota @3,60",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1636334|Away Player Shots|Artur Serobyan - 2",
-      "1636410|Away Player Shots|Ramiz Zerrouki - 1",
-      "1636386|Total - Home|Over 0.5"
-    ],
-    "cuotas": [
-      1.5,
-      1.57,
-      1.53
-    ],
-    "solo_redes": true,
-    "cuotas_revisadas": "2026-11-26T12:01"
-  },
-  {
-    "id": "2026-11-26-pick-seguro-5",
-    "fecha": "2026-11-26T15:00",
-    "texto": "Pick de hoy, con datos detrás 📊\n🧠 Esta va con cabeza: analizada\n\n🟠 Celta Vigo – Bournemouth · 18:45\n\n🍀 Justin Kluivert (Bournemouth) comete 2+ faltas @1,62\n🧠 Stake 4/10\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1636244|Player Fouls Committed|Justin Kluivert - 2"
-    ],
-    "cuotas": [
-      1.62
-    ]
-  },
-  {
-    "id": "2026-11-26-lista-europa-2",
-    "fecha": "2026-11-26T15:00",
-    "texto": "🏆⚽ COPAS EUROPEAS · 10 PICKS PARA HOY 🍀 (2/2)\n🤪 Para soñar un poco: con poquito dinero\n\n🇳🇴 Brann marca 2 o más\n🇨🇿 Más de 1,5 goles en la 2ª parte del Plzen–Benfica\n🇧🇪 Union St. Gilloise marca 2 o más\n🇳🇴 Más de 1,5 goles en la 2ª parte del Brann–Aarhus\n🇨🇿 Richard Sedlacek (FK Jablonec): 1+ tiros\n🇦🇲 Artur Serobyan (Ararat-Armenia): 2+ tiros\n🇱🇹 Kauno Žalgiris marca\n🇵🇹 Más de 1,5 goles en la 2ª parte del Torreense–Celtic\n🇳🇱 Ramiz Zerrouki (Twente): 1+ tiros\n🇦🇹 Jon Stankovic (Sturm Graz): 1+ tiros\n\n👉 ¡Coge los que más te gusten! ✅\n\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1636393|Total - Home|Over 1.5",
-      "1636315|Goals Over/Under - Second Half|Over 1.5",
-      "1636329|Total - Home|Over 1.5",
-      "1636393|Goals Over/Under - Second Half|Over 1.5",
-      "1636431|Home Player Shots|Richard Sedlacek - 1",
-      "1636334|Away Player Shots|Artur Serobyan - 2",
-      "1636438|Total - Home|Over 0.5",
-      "1636349|Goals Over/Under - Second Half|Over 1.5",
-      "1636410|Away Player Shots|Ramiz Zerrouki - 1",
-      "1636270|Away Player Shots|Jon Stankovic - 1"
-    ],
-    "cuotas": [
-      1.73,
-      1.62,
-      1.36,
-      1.73,
-      1.53,
-      1.5,
-      1.4,
-      1.73,
-      1.57,
-      1.3
-    ],
-    "solo_redes": true,
-    "cuotas_revisadas": "2026-11-26T13:37"
-  },
-  {
-    "id": "2026-11-26-pick-seguro-6",
-    "fecha": "2026-11-26T16:30",
-    "texto": "Pick de hoy, con datos detrás 📊\n🧠 Esta va con cabeza: analizada\n\n🟠 Sunderland – Jagiellonia · 21:00\n\n🍀 Trai Hume (Sunderland) comete 1+ faltas @1,36\n🧠 Stake 4/10\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1636343|Player Fouls Committed|Trai Hume - 1"
-    ],
-    "cuotas": [
-      1.36
-    ],
-    "cuotas_revisadas": "2026-11-26T15:04"
-  },
-  {
-    "id": "2026-11-26-pick-seguro-2",
-    "fecha": "2026-11-26T18:00",
-    "texto": "Vamos con otro pick 🍀\n\n🟢 Borac Banja Luka – Atalanta · 21:00\n\n🍀 Borac Banja Luka marca @1,53\n🧠 Stake 3/10\n\n👨‍💻 Los partidos del Borac Banja Luka llevan 2,9 goles de media (últimos 8).\n👨‍💻 Los partidos del Atalanta llevan 4,1 goles de media (últimos 8).\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1636386|Total - Home|Over 0.5"
-    ],
-    "cuotas": [
-      1.53
-    ],
-    "cuotas_revisadas": "2026-11-26T16:34"
-  },
-  {
-    "id": "2026-11-26-combi-partido-1636244",
-    "fecha": "2026-11-26T18:10",
-    "texto": "Os dejo la combi del Celta Vigo – Bournemouth 🟠🔥\n🍿 Para darle emoción al día, con calma en el stake\n\n🍀 Evanilson comete 1+ faltas\n🍀 Justin Kluivert comete 2+ faltas\n🍀 Sergio Carreira: 1+ tiros\n🍀 Bournemouth hace más tiros\n\n📈 Cuota @5,80 aprox.\n\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1636244|Player Fouls Committed|Evanilson - 1",
-      "1636244|Player Fouls Committed|Justin Kluivert - 2",
-      "1636244|Home Player Shots|Sergio Carreira - 1",
-      "1636244|Shots.1x2|Away"
-    ],
-    "cuotas": [
-      1.28,
-      1.62,
-      1.83,
-      1.44
-    ],
-    "espera_alineacion": true,
-    "tarjeta": {
-      "local": "Celta Vigo",
-      "visitante": "Bournemouth",
-      "id_l": 538,
-      "id_v": 35,
-      "logo_l": "https://media.api-sports.io/football/teams/538.png",
-      "logo_v": "https://media.api-sports.io/football/teams/35.png",
-      "fecha": "2026-11-26T18:45",
-      "liga": "Europa League"
-    },
-    "solo_redes": true,
-    "cuota_total": 5.8,
-    "cuota_calculada": true
-  },
-  {
-    "id": "2026-11-26-estrella-1636255",
-    "fecha": "2026-11-26T18:10",
-    "texto": "Hoy hay partidazo: Dinamo Zagreb 🆚 Bayer Leverkusen 🟠⭐\n🎢 Cuota grande, stake pequeño 🤏\n\nVamos con la combi del partido estrella (18:45) 🔥\n\n🍀 Luka Stojkovic: 2+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Bayer Leverkusen gana alguna de las dos partes\n🍀 Bayer Leverkusen marca 2 o más\n\n📈 Cuota @4,14 aprox.\n\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1636255|Home Player Shots|Luka Stojkovic - 2",
-      "1636255|Goals Over/Under - Second Half|Over 1.5",
-      "1636255|To Win Either Half|Away",
-      "1636255|Total - Away|Over 1.5"
-    ],
-    "cuotas": [
-      1.62,
-      1.67,
-      1.33,
-      1.5
-    ],
-    "espera_alineacion": true,
-    "tarjeta": {
-      "local": "Dinamo Zagreb",
-      "visitante": "Bayer Leverkusen",
-      "id_l": 620,
-      "id_v": 168,
-      "logo_l": "https://media.api-sports.io/football/teams/620.png",
-      "logo_v": "https://media.api-sports.io/football/teams/168.png",
-      "fecha": "2026-11-26T18:45",
-      "liga": "Europa League"
-    },
-    "solo_redes": true,
-    "cuota_total": 4.72,
-    "cuota_calculada": true,
-    "cuotas_revisadas": "2026-11-26T16:40"
-  },
-  {
-    "id": "2026-11-26-combi-partido-1636301",
-    "fecha": "2026-11-26T20:25",
-    "texto": "Os dejo la combi del NEC Nijmegen – Rennes 🟠🔥\n🍿 Para darle emoción al día, con calma en el stake\n\n🍀 Mousa Tamari: 2+ tiros\n🍀 Kevin Kers: 2+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 NEC Nijmegen o empate\n\n📈 Cuota @6,12 aprox.",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1636301|Away Player Shots|Mousa Tamari - 2",
-      "1636301|Home Player Shots|Kevin Kers - 2",
-      "1636301|Goals Over/Under - Second Half|Over 1.5",
-      "1636301|Double Chance|Home/Draw"
-    ],
-    "cuotas": [
-      1.28,
-      1.28,
-      1.73,
-      1.7
-    ],
-    "espera_alineacion": true,
-    "tarjeta": {
-      "local": "NEC Nijmegen",
-      "visitante": "Rennes",
-      "id_l": 413,
-      "id_v": 94,
-      "logo_l": "https://media.api-sports.io/football/teams/413.png",
-      "logo_v": "https://media.api-sports.io/football/teams/94.png",
-      "fecha": "2026-11-26T21:00",
-      "liga": "Europa League"
-    },
-    "solo_redes": true,
-    "cuota_total": 5.05,
-    "cuota_calculada": true,
-    "cuotas_revisadas": "2026-11-26T18:55"
-  },
-  {
-    "id": "2026-11-26-estrella-1636252",
-    "fecha": "2026-11-26T20:25",
-    "texto": "Hoy hay partidazo: Crystal Palace 🆚 Real Sociedad 🟠⭐\n🎢 Cuota grande, stake pequeño 🤏\n\nVamos con la combi del partido estrella (21:00) 🔥\n\n🍀 Jon Gorrotxategi comete 1+ faltas\n🍀 Orri Steinn Oskarsson: 3+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @3,81 aprox.\n\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1636252|Player Fouls Committed|Jon Gorrotxategi - 1",
-      "1636252|Away Player Shots|Orri Steinn Oskarsson - 3",
-      "1636252|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.3,
-      1.62,
-      1.73
-    ],
-    "espera_alineacion": true,
-    "tarjeta": {
-      "local": "Crystal Palace",
-      "visitante": "Real Sociedad",
-      "id_l": 52,
-      "id_v": 548,
-      "logo_l": "https://media.api-sports.io/football/teams/52.png",
-      "logo_v": "https://media.api-sports.io/football/teams/548.png",
-      "fecha": "2026-11-26T21:00",
-      "liga": "Europa League"
-    },
-    "solo_redes": true,
-    "cuota_total": 3.81,
-    "cuota_calculada": true
-  },
-  {
-    "id": "2026-11-27-ganadores-resto",
-    "fecha": "2026-11-27T00:00",
-    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇩🇪 Werder Bremen - Win\n2. 🇮🇹 Bologna - Win\n3. 🇫🇷 Paris FC - Win\n4. 🇪🇸 Levante - Win",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "solo_redes": true,
-    "forzar": true,
-    "sel": [
-      "1575237|Match Winner|Home",
-      "1550216|Match Winner|Away",
-      "1552830|Match Winner|Away",
-      "1570468|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.7,
-      2.2,
-      2.15,
-      2.0
-    ],
-    "ganadores_img": {
-      "titulo": "PARTIDOS DE HOY",
-      "liga": null,
-      "filas": [
-        {
-          "pais": "Germany",
-          "bandera": "🇩🇪",
-          "escudo_url": "https://media.api-sports.io/football/teams/162.png",
-          "nombre": "Werder Bremen",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Italy",
-          "bandera": "🇮🇹",
-          "escudo_url": "https://media.api-sports.io/football/teams/500.png",
-          "nombre": "Bologna",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "France",
-          "bandera": "🇫🇷",
-          "escudo_url": "https://media.api-sports.io/football/teams/114.png",
-          "nombre": "Paris FC",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Spain",
-          "bandera": "🇪🇸",
-          "escudo_url": "https://media.api-sports.io/football/teams/539.png",
-          "nombre": "Levante",
-          "pick": "WIN",
-          "seleccion": false
-        }
-      ],
-      "lema": "¿PLENO HOY?"
-    },
-    "cuotas_revisadas": "2026-11-26T22:34"
-  },
-  {
-    "id": "2026-11-27-pick-seguro-3",
-    "fecha": "2026-11-27T12:30",
-    "texto": "Pick de hoy, con datos detrás 📊\n📋 Números en la mano antes de meterla\n\n🇪🇸 Levante – Racing Santander · 21:00\n\n🍀 Más de 1,5 goles en la 2ª parte del Levante–Racing Santander @1,73\n\n👨‍💻 Los partidos del Levante llevan 2,6 goles de media (últimos 8).\n👨‍💻 Los partidos del Racing Santander llevan 3,4 goles de media (últimos 8).\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1570468|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.73
-    ]
-  },
-  {
-    "id": "2026-11-27-combi-tres",
-    "fecha": "2026-11-27T13:30",
-    "texto": "Vamos con la combi del viernes familia 🔥\n🧠 Esta va con cabeza: analizada\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Nottingham Forest ve más de 1,5 tarjetas\n🇪🇸 Más de 1,5 goles en la 2ª parte del Levante–Racing Santander\n\n📈 Cuota @2,72\n\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1557485|Home Team Total Cards|Over 1.5",
-      "1570468|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.57,
-      1.73
-    ],
-    "solo_redes": true
-  },
-  {
-    "id": "2026-11-27-estrella-1557485",
-    "fecha": "2026-11-27T20:25",
-    "texto": "Hoy hay partidazo: Nottingham Forest 🆚 Chelsea 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n🍿 Para darle emoción al día, con calma en el stake\n\nVamos con la combi del partido estrella (21:00) 🔥\n\n🍀 Morgan Rogers comete 1+ faltas\n🍀 Cole Palmer comete 1+ faltas\n🍀 Liam Delap: 2+ tiros\n🍀 Nottingham Forest o empate\n\n📈 Cuota @3,93 aprox.\n\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1557485|Player Fouls Committed|Morgan Rogers - 1",
-      "1557485|Player Fouls Committed|Cole Palmer - 1",
-      "1557485|Home Player Shots|Liam Delap - 2",
-      "1557485|Double Chance|Home/Draw"
-    ],
-    "cuotas": [
-      1.3,
-      1.62,
-      1.25,
-      1.5
-    ],
-    "espera_alineacion": true,
-    "tarjeta": {
-      "local": "Nottingham Forest",
-      "visitante": "Chelsea",
-      "id_l": 65,
-      "id_v": 49,
-      "logo_l": "https://media.api-sports.io/football/teams/65.png",
-      "logo_v": "https://media.api-sports.io/football/teams/49.png",
-      "fecha": "2026-11-27T21:00",
-      "liga": "Premier"
-    },
-    "solo_redes": true,
-    "cuota_total": 3.93,
-    "cuota_calculada": true
-  },
-  {
-    "id": "2026-11-28-picks-manana",
-    "fecha": "2026-11-27T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡6 PICKS PARA MAÑANA! 🍀\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana el Blackburn\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Rafiki Said (Wolves): 2+ tiros\n🇩🇪 Más de 1,5 goles en la 2ª parte del FSV Mainz 05–Union Berlin\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 West Ham ve más de 1,5 tarjetas\n🇪🇸 Gana el Valladolid\n🇳🇱 Cambuur gana alguna de las dos partes\n\n⚽ ¡Combina máximo 2 o 3! ✅",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1563288|Match Winner|Home",
-      "1563290|Away Player Shots|Rafiki Said - 2",
-      "1575234|Goals Over/Under - Second Half|Over 1.5",
-      "1563297|Home Team Total Cards|Over 1.5",
-      "1570046|Match Winner|Home",
-      "1552234|To Win Either Half|Home"
-    ],
-    "cuotas": [
-      1.8,
-      1.28,
-      1.73,
-      1.8,
-      1.7,
-      1.62
-    ],
-    "solo_redes": true
-  },
-  {
-    "id": "2026-11-28-ganadores-laliga",
-    "fecha": "2026-11-28T00:00",
-    "texto": "🏆 LALIGA - GANADORES\n\n1. 🇪🇸 Betis - Win\n2. 🇪🇸 Athletic Club - Win\n3. 🇪🇸 Atlético - Win\n4. 🇪🇸 Real Madrid - Win\n\n🍀 ¿NOS LA JUGAMOS? 👀💚",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "solo_redes": true,
-    "forzar": true,
-    "sel": [
-      "1570463|Match Winner|Home",
-      "1570469|Match Winner|Away",
-      "1570466|Match Winner|Away",
-      "1570470|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.57,
-      1.73,
-      1.48,
-      1.14
-    ],
-    "ganadores_img": {
-      "titulo": "LALIGA",
-      "liga": 140,
-      "filas": [
-        {
-          "pais": "Spain",
-          "bandera": "🇪🇸",
-          "escudo_url": "https://media.api-sports.io/football/teams/543.png",
-          "nombre": "Betis",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Spain",
-          "bandera": "🇪🇸",
-          "escudo_url": "https://media.api-sports.io/football/teams/531.png",
-          "nombre": "Athletic Club",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Spain",
-          "bandera": "🇪🇸",
-          "escudo_url": "https://media.api-sports.io/football/teams/530.png",
-          "nombre": "Atlético",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Spain",
-          "bandera": "🇪🇸",
-          "escudo_url": "https://media.api-sports.io/football/teams/541.png",
-          "nombre": "Real Madrid",
-          "pick": "WIN",
-          "seleccion": false
-        }
-      ],
-      "lema": "¿NOS LA JUGAMOS?"
-    }
-  },
-  {
-    "id": "2026-11-28-ganadores-premier",
-    "fecha": "2026-11-28T01:00",
-    "texto": "🏆 PREMIER LEAGUE - GANADORES\n\n1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Leeds - Win\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man United - Win\n3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa - Win\n\n🍀 ¿CUÁL FALLA? 👀💚",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "solo_redes": true,
-    "forzar": true,
-    "sel": [
-      "1557483|Match Winner|Home",
-      "1557484|Match Winner|Home",
-      "1557482|Match Winner|Away"
-    ],
-    "cuotas": [
-      1.5,
-      1.95,
-      1.9
-    ],
-    "ganadores_img": {
-      "titulo": "PREMIER LEAGUE",
-      "liga": 39,
-      "filas": [
-        {
-          "pais": "England",
-          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "escudo_url": "https://media.api-sports.io/football/teams/63.png",
-          "nombre": "Leeds",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "England",
-          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "escudo_url": "https://media.api-sports.io/football/teams/33.png",
-          "nombre": "Man United",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "England",
-          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "escudo_url": "https://media.api-sports.io/football/teams/66.png",
-          "nombre": "Aston Villa",
-          "pick": "WIN",
-          "seleccion": false
-        }
-      ],
-      "lema": "¿CUÁL FALLA?"
-    }
-  },
-  {
-    "id": "2026-11-28-ganadores-resto",
-    "fecha": "2026-11-28T02:00",
-    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇮🇹 Frosinone - Win\n2. 🇩🇪 Bayern - Win\n3. 🇩🇪 FSV Mainz 05 - Win\n4. 🇫🇷 Lens - Win\n5. 🇮🇹 Inter - Win\n6. 🇫🇷 Nice - Win\n7. 🇫🇷 PSG - Win",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "solo_redes": true,
-    "forzar": true,
-    "sel": [
-      "1550210|Match Winner|Home",
-      "1575235|Match Winner|Away",
-      "1575234|Match Winner|Home",
-      "1552828|Match Winner|Away",
-      "1550211|Match Winner|Home",
-      "1552834|Match Winner|Home",
-      "1552835|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.55,
-      1.25,
-      1.5,
-      1.7,
-      1.3,
-      1.65,
-      1.22
-    ],
-    "ganadores_img": {
-      "titulo": "PARTIDOS DE HOY",
-      "liga": null,
-      "filas": [
-        {
-          "pais": "Italy",
-          "bandera": "🇮🇹",
-          "escudo_url": "https://media.api-sports.io/football/teams/512.png",
-          "nombre": "Frosinone",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Germany",
-          "bandera": "🇩🇪",
-          "escudo_url": "https://media.api-sports.io/football/teams/157.png",
-          "nombre": "Bayern",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Germany",
-          "bandera": "🇩🇪",
-          "escudo_url": "https://media.api-sports.io/football/teams/164.png",
-          "nombre": "FSV Mainz 05",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "France",
-          "bandera": "🇫🇷",
-          "escudo_url": "https://media.api-sports.io/football/teams/116.png",
-          "nombre": "Lens",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Italy",
-          "bandera": "🇮🇹",
-          "escudo_url": "https://media.api-sports.io/football/teams/505.png",
-          "nombre": "Inter",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "France",
-          "bandera": "🇫🇷",
-          "escudo_url": "https://media.api-sports.io/football/teams/84.png",
-          "nombre": "Nice",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "France",
-          "bandera": "🇫🇷",
-          "escudo_url": "https://media.api-sports.io/football/teams/85.png",
-          "nombre": "PSG",
-          "pick": "WIN",
-          "seleccion": false
-        }
-      ],
-      "lema": "¿PLENO HOY?"
-    }
-  },
-  {
-    "id": "2026-11-28-pick-seguro",
-    "fecha": "2026-11-28T10:30",
-    "texto": "Vamos con el pick de hoy familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇪🇸 Real Betis – Rayo Vallecano · 14:00\n\n🍀 Gana el Real Betis @1,57\n🧠 Stake 3/10\n\n👨‍💻 El Rayo Vallecano no ha ganado fuera en sus últimos 6 partidos.\n👨‍💻 El Real Betis va 4º y el Rayo Vallecano 16º en la liga.\n👨‍💻 El Rayo Vallecano solo ha ganado 1 de sus últimos 5.\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1570463|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.57
-    ]
-  },
-  {
-    "id": "2026-11-28-combi-500",
-    "fecha": "2026-11-28T12:00",
-    "texto": "Vamos con la combi del día familia 🔥\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana el Blackburn\n🇪🇸 Las Palmas marca 2 o más\n🇩🇪 Más de 1,5 goles en la 2ª parte del FSV Mainz 05–Union Berlin\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 QPR gana alguna de las dos partes\n🇵🇹 Gana el Academico Viseu\n🇫🇷 Le Mans o empate\n🇫🇷 Más de 1,5 goles en la 2ª parte del Le Havre–Strasbourg\n🇳🇱 Gana el Cambuur\n🇪🇸 Gana el Valladolid\n🇪🇸 Ambos marcan en Real Madrid–Alaves\n\n📈 Cuota @566,06\n\n🔔 Activad las notificaciones 👀\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1563288|Match Winner|Home",
-      "1570042|Total - Home|Over 1.5",
-      "1575234|Goals Over/Under - Second Half|Over 1.5",
-      "1563293|To Win Either Half|Home",
-      "1575545|Match Winner|Home",
-      "1552832|Double Chance|Home/Draw",
-      "1552831|Goals Over/Under - Second Half|Over 1.5",
-      "1552234|Match Winner|Home",
-      "1570046|Match Winner|Home",
-      "1570470|Both Teams Score|Yes"
-    ],
-    "cuotas": [
-      1.8,
-      2.0,
-      1.73,
-      1.57,
-      2.45,
-      1.8,
-      1.8,
-      2.2,
-      1.7,
-      1.95
-    ],
-    "solo_redes": true
-  },
-  {
-    "id": "2026-11-28-pick-seguro-3",
-    "fecha": "2026-11-28T12:30",
-    "texto": "Vamos con el pick de hoy familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇮🇹 Frosinone – Parma · 15:00\n\n🍀 Gana el Frosinone @1,55\n🧠 Stake 3/10\n\n👨‍💻 El Frosinone va 7º y el Parma 17º en la liga.\n👨‍💻 El Parma solo ha ganado 1 de sus últimos 5.\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1550210|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.55
-    ]
-  },
-  {
-    "id": "2026-11-28-pick-seguro-4",
-    "fecha": "2026-11-28T13:30",
-    "texto": "Este lo tenemos claro 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇩🇪 Hamburger SV – Bayern München · 15:30\n\n🍀 Hamburger SV marca @1,50\n\n👨‍💻 Los partidos del Hamburger SV llevan 3,2 goles de media (últimos 8).\n👨‍💻 Los partidos del Bayern München llevan 4,1 goles de media (últimos 8).\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1575235|Total - Home|Over 0.5"
-    ],
-    "cuotas": [
-      1.5
-    ]
-  },
-  {
-    "id": "2026-11-28-combi-tres",
-    "fecha": "2026-11-28T13:30",
-    "texto": "Vamos con la combi del sábado familia 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🇮🇹 Gana el Frosinone\n🇫🇷 Gana el Nice\n\n📈 Cuota @2,56\n\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1550210|Match Winner|Home",
-      "1552834|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.55,
-      1.65
-    ],
-    "solo_redes": true
-  },
-  {
-    "id": "2026-11-28-pick-seguro-5",
-    "fecha": "2026-11-28T15:00",
-    "texto": "Este lo tenemos claro 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇫🇷 Nice – Estac Troyes · 20:45\n\n🍀 Gana el Nice @1,65\n\n👨‍💻 El Nice va 7º y el Estac Troyes 14º en la liga.\n👨‍💻 El Nice ha ganado 3 de sus últimos 5 partidos.\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1552834|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.65
-    ]
-  },
-  {
-    "id": "2026-11-28-pick-seguro-6",
-    "fecha": "2026-11-28T16:30",
-    "texto": "Vamos con otro pick 🍀\n📊 Con datos detrás, nada de corazonadas\n\n🇫🇷 Le Havre – Strasbourg · 20:45\n\n🍀 Más de 1,5 goles en la 2ª parte del Le Havre–Strasbourg @1,80\n\n👨‍💻 Los partidos del Le Havre llevan 3,6 goles de media (últimos 8).\n👨‍💻 Los partidos del Strasbourg llevan 3,2 goles de media (últimos 8).\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1552831|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.8
-    ]
-  },
-  {
-    "id": "2026-11-28-pick-seguro-2",
-    "fecha": "2026-11-28T18:00",
-    "texto": "Vamos con el pick de hoy familia 🔥\n\n🇫🇷 Le Mans – Lille · 20:45\n\n🍀 Le Mans marca @1,44\n\n👨‍💻 Los partidos del Le Mans llevan 3,1 goles de media (últimos 8).\n👨‍💻 Los partidos del Lille llevan 2,2 goles de media (últimos 8).\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1552832|Total - Home|Over 0.5"
-    ],
-    "cuotas": [
-      1.44
-    ]
-  },
-  {
-    "id": "2026-11-29-picks-manana",
-    "fecha": "2026-11-28T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡5 PICKS PARA MAÑANA! 🍀\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Alexis Mac Allister (Liverpool): 1+ tiros\n🇪🇸 Granada CF gana alguna de las dos partes\n🇪🇸 Deportivo La Coruna marca\n🇫🇷 Sebastian Szymanski (Rennes): 1+ tiros\n🇵🇹 Gana el GIL Vicente\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1557480|Away Player Shots|Alexis Mac Allister - 1",
-      "1570041|To Win Either Half|Home",
-      "1570465|Total - Home|Over 0.5",
-      "1552836|Away Player Shots|Sebastian Szymanski - 1",
-      "1575550|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.25,
-      1.3,
-      1.44,
-      1.33,
-      1.8
-    ],
-    "solo_redes": true
-  },
-  {
-    "id": "2026-11-29-ganadores-laliga",
-    "fecha": "2026-11-29T00:00",
-    "texto": "🏆 LALIGA - GANADORES\n\n1. 🇪🇸 Valencia - Win\n2. 🇪🇸 Barcelona - Win\n3. 🇪🇸 Real Sociedad - Win",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "solo_redes": true,
-    "forzar": true,
-    "sel": [
-      "1570472|Match Winner|Home",
-      "1570465|Match Winner|Away",
-      "1570471|Match Winner|Home"
-    ],
-    "cuotas": [
-      2.05,
-      1.25,
-      2.1
-    ],
-    "ganadores_img": {
-      "titulo": "LALIGA",
-      "liga": 140,
-      "filas": [
-        {
-          "pais": "Spain",
-          "bandera": "🇪🇸",
-          "escudo_url": "https://media.api-sports.io/football/teams/532.png",
-          "nombre": "Valencia",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Spain",
-          "bandera": "🇪🇸",
-          "escudo_url": "https://media.api-sports.io/football/teams/529.png",
-          "nombre": "Barcelona",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Spain",
-          "bandera": "🇪🇸",
-          "escudo_url": "https://media.api-sports.io/football/teams/548.png",
-          "nombre": "Real Sociedad",
-          "pick": "WIN",
-          "seleccion": false
-        }
-      ],
-      "lema": "¿NOS LA JUGAMOS?"
-    }
-  },
-  {
-    "id": "2026-11-29-ganadores-premier",
-    "fecha": "2026-11-29T01:00",
-    "texto": "🏆 PREMIER LEAGUE - GANADORES\n\n1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool - Win\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton - Win\n3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Crystal Palace - Win\n4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Tottenham - Win\n5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal - Win",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "solo_redes": true,
-    "forzar": true,
-    "sel": [
-      "1557480|Match Winner|Away",
-      "1557478|Match Winner|Home",
-      "1557479|Match Winner|Home",
-      "1557486|Match Winner|Away",
-      "1557477|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.8,
-      1.57,
-      1.8,
-      2.0,
-      1.9
-    ],
-    "ganadores_img": {
-      "titulo": "PREMIER LEAGUE",
-      "liga": 39,
-      "filas": [
-        {
-          "pais": "England",
-          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "escudo_url": "https://media.api-sports.io/football/teams/40.png",
-          "nombre": "Liverpool",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "England",
-          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "escudo_url": "https://media.api-sports.io/football/teams/51.png",
-          "nombre": "Brighton",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "England",
-          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "escudo_url": "https://media.api-sports.io/football/teams/52.png",
-          "nombre": "Crystal Palace",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "England",
-          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "escudo_url": "https://media.api-sports.io/football/teams/47.png",
-          "nombre": "Tottenham",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "England",
-          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "escudo_url": "https://media.api-sports.io/football/teams/42.png",
-          "nombre": "Arsenal",
-          "pick": "WIN",
-          "seleccion": false
-        }
-      ],
-      "lema": "¿CUÁL FALLA?"
-    }
-  },
-  {
-    "id": "2026-11-29-ganadores-resto",
-    "fecha": "2026-11-29T02:00",
-    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇮🇹 Fiorentina - Win\n2. 🇫🇷 Marseille - Win\n3. 🇮🇹 Napoli - Win\n4. 🇩🇪 Leipzig - Win\n5. 🇩🇪 Hoffenheim - Win\n6. 🇮🇹 Roma - Win\n7. 🇩🇪 Dortmund - Win\n8. 🇮🇹 Como - Win",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "solo_redes": true,
-    "forzar": true,
-    "sel": [
-      "1550215|Match Winner|Away",
-      "1552829|Match Winner|Away",
-      "1550213|Match Winner|Away",
-      "1575233|Match Winner|Away",
-      "1575232|Match Winner|Home",
-      "1550207|Match Winner|Home",
-      "1575230|Match Winner|Home",
-      "1550209|Match Winner|Home"
-    ],
-    "cuotas": [
-      2.2,
-      1.83,
-      1.67,
-      2.3,
-      1.73,
-      1.18,
-      2.05,
-      2.1
-    ],
-    "ganadores_img": {
-      "titulo": "PARTIDOS DE HOY",
-      "liga": null,
-      "filas": [
-        {
-          "pais": "Italy",
-          "bandera": "🇮🇹",
-          "escudo_url": "https://media.api-sports.io/football/teams/502.png",
-          "nombre": "Fiorentina",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "France",
-          "bandera": "🇫🇷",
-          "escudo_url": "https://media.api-sports.io/football/teams/81.png",
-          "nombre": "Marseille",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Italy",
-          "bandera": "🇮🇹",
-          "escudo_url": "https://media.api-sports.io/football/teams/492.png",
-          "nombre": "Napoli",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Germany",
-          "bandera": "🇩🇪",
-          "escudo_url": "https://media.api-sports.io/football/teams/173.png",
-          "nombre": "Leipzig",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Germany",
-          "bandera": "🇩🇪",
-          "escudo_url": "https://media.api-sports.io/football/teams/167.png",
-          "nombre": "Hoffenheim",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Italy",
-          "bandera": "🇮🇹",
-          "escudo_url": "https://media.api-sports.io/football/teams/497.png",
-          "nombre": "Roma",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Germany",
-          "bandera": "🇩🇪",
-          "escudo_url": "https://media.api-sports.io/football/teams/165.png",
-          "nombre": "Dortmund",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Italy",
-          "bandera": "🇮🇹",
-          "escudo_url": "https://media.api-sports.io/football/teams/895.png",
-          "nombre": "Como",
-          "pick": "WIN",
-          "seleccion": false
-        }
-      ],
-      "lema": "¿PLENO HOY?"
-    }
-  },
-  {
-    "id": "2026-11-29-pick-seguro",
-    "fecha": "2026-11-29T10:30",
-    "texto": "Vamos con el pick de hoy familia 🔥\n📈 De las que hemos estudiado bien\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton – Newcastle · 15:05\n\n🍀 Gana el Brighton @1,57\n🧠 Stake 3/10\n\n👨‍💻 El Brighton no ha perdido en casa en sus últimos 6 partidos (5V 1E).\n👨‍💻 El Brighton va 3º y el Newcastle 13º en la liga.\n👨‍💻 El Brighton ha ganado 3 de sus últimos 5 partidos.\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1557478|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.57
-    ]
-  },
-  {
-    "id": "2026-11-29-pick-seguro-3",
-    "fecha": "2026-11-29T12:30",
-    "texto": "Vamos con el pick de hoy familia 🔥\n📈 De las que hemos estudiado bien\n\n🇩🇪 1899 Hoffenheim – FC Augsburg · 17:30\n\n🍀 Más de 1,5 goles en la 2ª parte del 1899 Hoffenheim–FC Augsburg @1,50\n\n👨‍💻 Los partidos del 1899 Hoffenheim llevan 2,4 goles de media (últimos 8).\n👨‍💻 Los partidos del FC Augsburg llevan 4,8 goles de media (últimos 8).\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1575232|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.5
-    ]
-  },
-  {
-    "id": "2026-11-29-pick-seguro-4",
-    "fecha": "2026-11-29T13:30",
-    "texto": "Pick que nos gusta mucho para hoy 👀\n📈 De las que hemos estudiado bien\n\n🇮🇹 AS Roma – Monza · 18:00\n\n🍀 AS Roma marca 3 o más @1,67\n\n👨‍💻 El AS Roma va 2º y el Monza 14º en la liga.\n👨‍💻 Los partidos del AS Roma llevan 4,9 goles de media (últimos 8).\n👨‍💻 Los partidos del Monza llevan 3,5 goles de media (últimos 8).\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1550207|Total - Home|Over 2.5"
-    ],
-    "cuotas": [
-      1.67
-    ]
-  },
-  {
-    "id": "2026-11-29-combi-tres",
-    "fecha": "2026-11-29T13:30",
-    "texto": "Vamos con la combi del domingo familia 🔥\n🧠 Pensada con calma, sin prisas\n\n🇫🇷 Más de 1,5 goles en la 2ª parte del Auxerre–Marseille\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal marca 2 o más\n\n📈 Cuota @3,24\n\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1552829|Goals Over/Under - Second Half|Over 1.5",
-      "1557477|Total - Home|Over 1.5"
-    ],
-    "cuotas": [
-      1.8,
-      1.8
-    ],
-    "solo_redes": true
-  },
-  {
-    "id": "2026-11-29-estrella-1557478",
-    "fecha": "2026-11-29T14:30",
-    "texto": "Hoy hay partidazo: Brighton 🆚 Newcastle 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n🎉 Esta es por diversión: stake mínimo 🤏\n\nVamos con la combi del partido estrella (15:05) 🔥\n\n🍀 Harvey Barnes: 2+ tiros\n🍀 Gana el Brighton\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @4,50 aprox.\n\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1557478|Away Player Shots|Harvey Barnes - 2",
-      "1557478|Match Winner|Home",
-      "1557478|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.44,
-      1.57,
-      1.73
-    ],
-    "espera_alineacion": true,
-    "tarjeta": {
-      "local": "Brighton",
-      "visitante": "Newcastle",
-      "id_l": 51,
-      "id_v": 34,
-      "logo_l": "https://media.api-sports.io/football/teams/51.png",
-      "logo_v": "https://media.api-sports.io/football/teams/34.png",
-      "fecha": "2026-11-29T15:05",
-      "liga": "Premier"
-    },
-    "solo_redes": true,
-    "cuota_total": 4.5,
-    "cuota_calculada": true
-  },
-  {
-    "id": "2026-11-29-pick-seguro-5",
-    "fecha": "2026-11-29T15:00",
-    "texto": "Os dejo el pick, familia 👇\n📈 De las que hemos estudiado bien\n\n🇪🇸 Deportivo La Coruna – Barcelona · 16:15\n\n🍀 Deportivo La Coruna marca @1,44\n🧠 Stake 3/10\n\n👨‍💻 Los partidos del Deportivo La Coruna llevan 2,5 goles de media (últimos 8).\n👨‍💻 Los partidos del Barcelona llevan 4,9 goles de media (últimos 8).\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1570465|Total - Home|Over 0.5"
-    ],
-    "cuotas": [
-      1.44
-    ]
-  },
-  {
-    "id": "2026-11-29-pick-seguro-6",
-    "fecha": "2026-11-29T16:30",
-    "texto": "Vamos con otro pick 🍀\n📈 De las que hemos estudiado bien\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal – Manchester City · 17:30\n\n🍀 Arsenal marca 2 o más @1,80\n\n👨‍💻 Los partidos del Arsenal llevan 2,4 goles de media (últimos 8).\n👨‍💻 Los partidos del Manchester City llevan 3,6 goles de media (últimos 8).\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1557477|Total - Home|Over 1.5"
-    ],
-    "cuotas": [
-      1.8
-    ]
-  },
-  {
-    "id": "2026-11-29-estrella-1575230",
-    "fecha": "2026-11-29T18:55",
-    "texto": "Hoy hay partidazo: Borussia Dortmund 🆚 Bayer Leverkusen 🇩🇪⭐\n🎉 Esta es por diversión: stake mínimo 🤏\n\nVamos con la combi del partido estrella (19:30) 🔥\n\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Felix Nmecha: 2+ tiros\n🍀 Bayer Leverkusen o empate\n\n📈 Cuota @5,56 aprox.\n\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1575230|Goals Over/Under - Second Half|Over 1.5",
-      "1575230|Home Player Shots|Felix Nmecha - 2",
-      "1575230|Double Chance|Draw/Away"
-    ],
-    "cuotas": [
-      1.67,
-      1.62,
-      1.73
-    ],
-    "espera_alineacion": true,
-    "tarjeta": {
-      "local": "Borussia Dortmund",
-      "visitante": "Bayer Leverkusen",
-      "id_l": 165,
-      "id_v": 168,
-      "logo_l": "https://media.api-sports.io/football/teams/165.png",
-      "logo_v": "https://media.api-sports.io/football/teams/168.png",
-      "fecha": "2026-11-29T19:30",
-      "liga": "Bundesliga"
-    },
-    "solo_redes": true,
-    "cuota_total": 5.56,
-    "cuota_calculada": true
-  },
-  {
-    "id": "2026-11-30-pick-seguro",
-    "fecha": "2026-11-30T10:30",
-    "texto": "Vamos con el pick de hoy familia 🔥\n\n🇮🇹 Cagliari – AC Milan · 20:45\n\n🍀 Cagliari marca @1,50\n\n👨‍💻 Los partidos del Cagliari llevan 2,6 goles de media (últimos 8).\n👨‍💻 Los partidos del AC Milan llevan 3,9 goles de media (últimos 8).\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1550208|Total - Home|Over 0.5"
-    ],
-    "cuotas": [
-      1.5
-    ]
-  },
-  {
-    "id": "2026-11-30-estrella-1550208",
-    "fecha": "2026-11-30T20:10",
-    "texto": "Hoy hay partidazo: Cagliari 🆚 AC Milan 🇮🇹⭐\n\nVamos con la combi del partido estrella (20:45) 🔥\n\n🍀 Alessandro Romano: 1+ tiros\n🍀 Gana el AC Milan\n🍀 Cagliari hace más de 2,5 córners\n🍀 AC Milan marca 2 o más\n\n📈 Cuota @4,92 aprox.\n\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1550208|Home Player Shots|Alessandro Romano - 1",
-      "1550208|Match Winner|Away",
-      "1550208|Home Corners Over/Under|Over 2.5",
-      "1550208|Total - Away|Over 1.5"
-    ],
-    "cuotas": [
-      1.44,
-      1.7,
-      1.57,
-      1.73
-    ],
-    "espera_alineacion": true,
-    "tarjeta": {
-      "local": "Cagliari",
-      "visitante": "AC Milan",
-      "id_l": 490,
-      "id_v": 489,
-      "logo_l": "https://media.api-sports.io/football/teams/490.png",
-      "logo_v": "https://media.api-sports.io/football/teams/489.png",
-      "fecha": "2026-11-30T20:45",
-      "liga": "Serie A"
-    },
-    "solo_redes": true,
-    "cuota_total": 4.92,
     "cuota_calculada": true
   },
   {
@@ -15841,6 +14158,128 @@
     "cuotas_revisadas": "2026-11-25T22:49"
   },
   {
+    "id": "2026-11-26-ganadores-europa",
+    "fecha": "2026-11-26T00:00",
+    "texto": "🏆 EUROPA LEAGUE - GANADORES\n\n1. 🇵🇹 Benfica - Win\n2. 🇹🇷 Beşiktaş - Win\n3. 🇫🇷 Marseille - Win\n4. 🇦🇹 Red Bull Salzburg - Win\n5. 🇧🇪 Union St. Gilloise - Win\n6. 🇩🇪 Hoffenheim - Win\n7. 🇭🇺 Ferencvarosi TC - Win\n8. 🇮🇹 Juventus - Win\n9. 🇫🇷 Lyon - Win\n10. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Sunderland - Win\n\n🍀 ¿CUÁNTOS ACERTAMOS HOY? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1636315|Match Winner|Away",
+      "1636231|Match Winner|Home",
+      "1636298|Match Winner|Home",
+      "1636334|Match Winner|Home",
+      "1636329|Match Winner|Home",
+      "1636270|Match Winner|Home",
+      "1636261|Match Winner|Home",
+      "1636277|Match Winner|Home",
+      "1636294|Match Winner|Home",
+      "1636343|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.45,
+      1.22,
+      1.38,
+      1.17,
+      1.33,
+      1.33,
+      1.36,
+      1.18,
+      1.18,
+      1.25
+    ],
+    "ganadores_img": {
+      "titulo": "EUROPA LEAGUE",
+      "liga": 3,
+      "filas": [
+        {
+          "pais": "Portugal",
+          "bandera": "🇵🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/211.png",
+          "nombre": "Benfica",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Turkey",
+          "bandera": "🇹🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/549.png",
+          "nombre": "Beşiktaş",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/81.png",
+          "nombre": "Marseille",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Austria",
+          "bandera": "🇦🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/571.png",
+          "nombre": "Red Bull Salzburg",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Belgium",
+          "bandera": "🇧🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/1393.png",
+          "nombre": "Union St. Gilloise",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Germany",
+          "bandera": "🇩🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/167.png",
+          "nombre": "Hoffenheim",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Hungary",
+          "bandera": "🇭🇺",
+          "escudo_url": "https://media.api-sports.io/football/teams/651.png",
+          "nombre": "Ferencvarosi TC",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/496.png",
+          "nombre": "Juventus",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/80.png",
+          "nombre": "Lyon",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/746.png",
+          "nombre": "Sunderland",
+          "pick": "WIN",
+          "seleccion": false
+        }
+      ],
+      "lema": "¿CUÁNTOS ACERTAMOS HOY?"
+    },
+    "cuotas_revisadas": "2026-11-25T23:05"
+  },
+  {
     "id": "2026-11-26-loca-th-0020-x100",
     "fecha": "2026-11-26T00:20",
     "texto": "🎰 LA CENTENARIA x30,82 🎰\n\n🇨🇿 Plzen–Benfica 18:45\n✅ 💣 +1,5 goles en la 2ª parte del Plzen–Benfica\n🇳🇱 Ajax–FC Thun 18:45\n✅ ☄️ FC Thun marca\n🇳🇴 Brann–Aarhus 18:45\n✅ 🥇 Brann gana una parte\n🇱🇹 Kauno Žalgiris–Riga 18:45\n✅ 🥇 Riga gana una parte\n🇳🇱 NEC Nijmegen–Rennes 21:00\n✅ 🎯 Ahmetcan Kaplan: 1+ tiros\n🇧🇪 Gent–FK Crvena Zvezda 21:00\n✅ 🤝 FK Crvena Zvezda o empate\n🇩🇰 FC Nordsjaelland–Panathinaikos 21:00\n✅ 🥇 Panathinaikos gana una parte\n\n🎯 CUOTA 30,82 💎 10€ → 308€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
@@ -15939,6 +14378,230 @@
       "lema": null
     },
     "cuotas_revisadas": "2026-11-26T00:08"
+  },
+  {
+    "id": "2026-11-26-ganadores-conference",
+    "fecha": "2026-11-26T01:00",
+    "texto": "🏆 CONFERENCE LEAGUE - GANADORES\n\n1. 🇳🇱 Ajax - Win\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton - Win\n3. 🇦🇱 Egnatia Rrogozhinë - Win\n4. 🇪🇸 Getafe - Win\n5. 🇫🇷 Mónaco - Win\n6. 🇮🇹 Atalanta - Win\n7. 🇩🇰 Copenhague - Win\n8. 🇵🇹 Braga - Win\n\n🍀 ¿TODO VERDE HOY? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1636381|Match Winner|Home",
+      "1636395|Match Winner|Home",
+      "1636405|Match Winner|Home",
+      "1636426|Match Winner|Away",
+      "1636421|Match Winner|Away",
+      "1636386|Match Winner|Away",
+      "1636428|Match Winner|Away",
+      "1636389|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.17,
+      1.14,
+      1.53,
+      1.44,
+      1.55,
+      1.42,
+      1.2,
+      1.11
+    ],
+    "ganadores_img": {
+      "titulo": "CONFERENCE LEAGUE",
+      "liga": 848,
+      "filas": [
+        {
+          "pais": "Netherlands",
+          "bandera": "🇳🇱",
+          "escudo_url": "https://media.api-sports.io/football/teams/194.png",
+          "nombre": "Ajax",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/51.png",
+          "nombre": "Brighton",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Albania",
+          "bandera": "🇦🇱",
+          "escudo_url": "https://media.api-sports.io/football/teams/3327.png",
+          "nombre": "Egnatia Rrogozhinë",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/546.png",
+          "nombre": "Getafe",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/91.png",
+          "nombre": "Mónaco",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/499.png",
+          "nombre": "Atalanta",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Denmark",
+          "bandera": "🇩🇰",
+          "escudo_url": "https://media.api-sports.io/football/teams/400.png",
+          "nombre": "Copenhague",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Portugal",
+          "bandera": "🇵🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/217.png",
+          "nombre": "Braga",
+          "pick": "WIN",
+          "seleccion": false
+        }
+      ],
+      "lema": "¿TODO VERDE HOY?"
+    },
+    "cuotas_revisadas": "2026-11-25T23:34"
+  },
+  {
+    "id": "2026-11-26-ganadores-resto",
+    "fecha": "2026-11-26T02:00",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇮🇹 Milan - Win\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bournemouth - Win\n3. 🇳🇴 Brann - Win\n4. 🇨🇭 Lugano - Win\n5. 🇱🇻 Riga - Win\n6. 🇧🇪 Anderlecht - Win\n7. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Crystal Palace - Win\n8. 🇧🇪 Gent - Win\n9. 🇩🇪 Friburgo - Win\n10. 🇹🇷 Trabzonspor - Win",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1636307|Match Winner|Away",
+      "1636244|Match Winner|Away",
+      "1636393|Match Winner|Home",
+      "1636431|Match Winner|Away",
+      "1636438|Match Winner|Away",
+      "1636305|Match Winner|Away",
+      "1636252|Match Winner|Home",
+      "1636412|Match Winner|Home",
+      "1636410|Match Winner|Home",
+      "1636402|Match Winner|Away"
+    ],
+    "cuotas": [
+      2.45,
+      2.05,
+      2.1,
+      2.0,
+      2.05,
+      1.75,
+      2.05,
+      2.05,
+      2.05,
+      1.8
+    ],
+    "ganadores_img": {
+      "titulo": "PARTIDOS DE HOY",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/489.png",
+          "nombre": "Milan",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/35.png",
+          "nombre": "Bournemouth",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Norway",
+          "bandera": "🇳🇴",
+          "escudo_url": "https://media.api-sports.io/football/teams/319.png",
+          "nombre": "Brann",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Switzerland",
+          "bandera": "🇨🇭",
+          "escudo_url": "https://media.api-sports.io/football/teams/606.png",
+          "nombre": "Lugano",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Latvia",
+          "bandera": "🇱🇻",
+          "escudo_url": "https://media.api-sports.io/football/teams/10124.png",
+          "nombre": "Riga",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Belgium",
+          "bandera": "🇧🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/554.png",
+          "nombre": "Anderlecht",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/52.png",
+          "nombre": "Crystal Palace",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Belgium",
+          "bandera": "🇧🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/631.png",
+          "nombre": "Gent",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Germany",
+          "bandera": "🇩🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/160.png",
+          "nombre": "Friburgo",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Turkey",
+          "bandera": "🇹🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/998.png",
+          "nombre": "Trabzonspor",
+          "pick": "WIN",
+          "seleccion": false
+        }
+      ],
+      "lema": "¿QUIÉN SE APUNTA?"
+    },
+    "cuotas_revisadas": "2026-11-26T00:30"
   },
   {
     "id": "2026-11-26-loca-th-0300-lista-ambos",
@@ -16216,6 +14879,21 @@
     "cuotas_revisadas": "2026-11-26T09:42"
   },
   {
+    "id": "2026-11-26-pick-seguro",
+    "fecha": "2026-11-26T10:30",
+    "texto": "Pick de hoy, con datos detrás 📊\n🧠 Esta va con cabeza: analizada\n\n🟠 Red Bull Salzburg – Ararat-Armenia · 18:45\n\n🍀 Artur Serobyan (Ararat-Armenia): 2+ tiros @1,50\n🧠 Stake 4/10\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1636334|Away Player Shots|Artur Serobyan - 2"
+    ],
+    "cuotas": [
+      1.5
+    ],
+    "cuotas_revisadas": "2026-11-26T09:01"
+  },
+  {
     "id": "2026-11-26-loca-th-1100-lista-ambos",
     "fecha": "2026-11-26T11:00",
     "texto": "⚽ AMBOS MARCAN HOY ⚽\n\n1. 🇨🇿 Plzen–Benfica ➜ Ambos marcan @1,57\n2. 🇳🇱 Ajax–FC Thun ➜ Ambos marcan @1,67\n3. 🇭🇺 Ferencvarosi TC–Celje ➜ Ambos marcan @1,80\n4. 🇵🇹 Torreense–Celtic ➜ Ambos marcan @1,57\n\n👇 ¿Con cuál os quedáis? 👇",
@@ -16276,6 +14954,34 @@
     "directo": true,
     "enlace_telegram": true,
     "cuotas_revisadas": "2026-11-26T10:13"
+  },
+  {
+    "id": "2026-11-26-pick-seguro-3",
+    "fecha": "2026-11-26T12:30",
+    "texto": "Os dejo el pick, familia 👇\n🧠 Esta va con cabeza: analizada\n\n🟠 Crystal Palace – Real Sociedad · 21:00\n\n🍀 Orri Steinn Oskarsson (Real Sociedad): 3+ tiros @1,62\n🧠 Stake 4/10\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1636252|Away Player Shots|Orri Steinn Oskarsson - 3"
+    ],
+    "cuotas": [
+      1.62
+    ]
+  },
+  {
+    "id": "2026-11-26-pick-seguro-4",
+    "fecha": "2026-11-26T13:30",
+    "texto": "Este lo tenemos claro 🔥\n🧠 Esta va con cabeza: analizada\n\n🟢 FK Jablonec – FC Lugano · 18:45\n\n🍀 Richard Sedlacek (FK Jablonec): 1+ tiros @1,53\n🧠 Stake 4/10\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1636431|Home Player Shots|Richard Sedlacek - 1"
+    ],
+    "cuotas": [
+      1.53
+    ]
   },
   {
     "id": "2026-11-26-loca-th-1400-x50",
@@ -16409,6 +15115,20 @@
     "cuotas_revisadas": "2026-11-26T13:10"
   },
   {
+    "id": "2026-11-26-pick-seguro-5",
+    "fecha": "2026-11-26T15:00",
+    "texto": "Pick de hoy, con datos detrás 📊\n🧠 Esta va con cabeza: analizada\n\n🟠 Celta Vigo – Bournemouth · 18:45\n\n🍀 Justin Kluivert (Bournemouth) comete 2+ faltas @1,62\n🧠 Stake 4/10\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1636244|Player Fouls Committed|Justin Kluivert - 2"
+    ],
+    "cuotas": [
+      1.62
+    ]
+  },
+  {
     "id": "2026-11-26-loca-th-1600-x500",
     "fecha": "2026-11-26T16:00",
     "texto": "🎰 LA LOCURA DE x88,72 🎰\n\n🇪🇸 Celta Vigo–Bournemouth 18:45\n🥇 Gana el Bournemouth\n🇬🇷 Olympiakos Piraeus–AC Milan 18:45\n🥇 Olympiakos Piraeus gana una parte\n🇨🇿 Plzen–Benfica 18:45\n📈 Benfica marca en las dos partes\n🇬🇪 FC Iberia 1999–Getafe 18:45\n🚩 +9 córners · 💥 FC Iberia 1999 marca\n🇱🇹 Kauno Žalgiris–Riga 18:45\n🚩 +9 córners\n🇩🇪 SC Freiburg–Twente 21:00\n🥇 Twente gana una parte\n\n🎯 CUOTA 88,72 aprox. 💎 10€ → 887€\n🔥 ¡A POR ELLA, FAMILIA! 🔥",
@@ -16441,6 +15161,21 @@
     "directo": true,
     "enlace_telegram": true,
     "cuotas_revisadas": "2026-11-26T14:31"
+  },
+  {
+    "id": "2026-11-26-pick-seguro-6",
+    "fecha": "2026-11-26T16:30",
+    "texto": "Pick de hoy, con datos detrás 📊\n🧠 Esta va con cabeza: analizada\n\n🟠 Sunderland – Jagiellonia · 21:00\n\n🍀 Trai Hume (Sunderland) comete 1+ faltas @1,36\n🧠 Stake 4/10\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1636343|Player Fouls Committed|Trai Hume - 1"
+    ],
+    "cuotas": [
+      1.36
+    ],
+    "cuotas_revisadas": "2026-11-26T15:04"
   },
   {
     "id": "2026-11-26-loca-th-1700-escudos",
@@ -16546,6 +15281,56 @@
     "directo": true,
     "enlace_telegram": false,
     "cuotas_revisadas": "2026-11-26T16:14"
+  },
+  {
+    "id": "2026-11-26-pick-seguro-2",
+    "fecha": "2026-11-26T18:00",
+    "texto": "Vamos con otro pick 🍀\n\n🟢 Borac Banja Luka – Atalanta · 21:00\n\n🍀 Borac Banja Luka marca @1,53\n🧠 Stake 3/10\n\n👨‍💻 Los partidos del Borac Banja Luka llevan 2,9 goles de media (últimos 8).\n👨‍💻 Los partidos del Atalanta llevan 4,1 goles de media (últimos 8).\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1636386|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.53
+    ],
+    "cuotas_revisadas": "2026-11-26T16:34"
+  },
+  {
+    "id": "2026-11-26-estrella-1636255",
+    "fecha": "2026-11-26T18:10",
+    "texto": "Hoy hay partidazo: Dinamo Zagreb 🆚 Bayer Leverkusen 🟠⭐\n🎢 Cuota grande, stake pequeño 🤏\n\nVamos con la combi del partido estrella (18:45) 🔥\n\n🍀 Luka Stojkovic: 2+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Bayer Leverkusen gana alguna de las dos partes\n🍀 Bayer Leverkusen marca 2 o más\n\n📈 Cuota @4,14 aprox.\n\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1636255|Home Player Shots|Luka Stojkovic - 2",
+      "1636255|Goals Over/Under - Second Half|Over 1.5",
+      "1636255|To Win Either Half|Away",
+      "1636255|Total - Away|Over 1.5"
+    ],
+    "cuotas": [
+      1.62,
+      1.67,
+      1.33,
+      1.5
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Dinamo Zagreb",
+      "visitante": "Bayer Leverkusen",
+      "id_l": 620,
+      "id_v": 168,
+      "logo_l": "https://media.api-sports.io/football/teams/620.png",
+      "logo_v": "https://media.api-sports.io/football/teams/168.png",
+      "fecha": "2026-11-26T18:45",
+      "liga": "Europa League"
+    },
+    "solo_redes": true,
+    "cuota_total": 4.72,
+    "cuota_calculada": true,
+    "cuotas_revisadas": "2026-11-26T16:40"
   },
   {
     "id": "2026-11-26-loca-th-1840-duelo",
@@ -16669,6 +15454,41 @@
     "directo": true,
     "enlace_telegram": false,
     "cuotas_revisadas": "2026-11-26T18:15"
+  },
+  {
+    "id": "2026-11-26-combi-partido-1636301",
+    "fecha": "2026-11-26T20:25",
+    "texto": "Os dejo la combi del NEC Nijmegen – Rennes 🟠🔥\n🍿 Para darle emoción al día, con calma en el stake\n\n🍀 Mousa Tamari: 2+ tiros\n🍀 Kevin Kers: 2+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 NEC Nijmegen o empate\n\n📈 Cuota @6,12 aprox.",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1636301|Away Player Shots|Mousa Tamari - 2",
+      "1636301|Home Player Shots|Kevin Kers - 2",
+      "1636301|Goals Over/Under - Second Half|Over 1.5",
+      "1636301|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      1.28,
+      1.28,
+      1.73,
+      1.7
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "NEC Nijmegen",
+      "visitante": "Rennes",
+      "id_l": 413,
+      "id_v": 94,
+      "logo_l": "https://media.api-sports.io/football/teams/413.png",
+      "logo_v": "https://media.api-sports.io/football/teams/94.png",
+      "fecha": "2026-11-26T21:00",
+      "liga": "Europa League"
+    },
+    "solo_redes": true,
+    "cuota_total": 5.05,
+    "cuota_calculada": true,
+    "cuotas_revisadas": "2026-11-26T18:55"
   },
   {
     "id": "2026-11-27-loca-th-noche-2100-x100",
@@ -16841,5 +15661,1246 @@
     "cuota_total": 5.57,
     "cuota_calculada": true,
     "cuotas_revisadas": "2026-11-26T22:50"
+  },
+  {
+    "id": "2026-11-27-ganadores-resto",
+    "fecha": "2026-11-27T00:00",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇩🇪 Werder Bremen - Win\n2. 🇮🇹 Bologna - Win\n3. 🇫🇷 Paris FC - Win\n4. 🇪🇸 Levante - Win",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1575237|Match Winner|Home",
+      "1550216|Match Winner|Away",
+      "1552830|Match Winner|Away",
+      "1570468|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.7,
+      2.2,
+      2.15,
+      2.0
+    ],
+    "ganadores_img": {
+      "titulo": "PARTIDOS DE HOY",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Germany",
+          "bandera": "🇩🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/162.png",
+          "nombre": "Werder Bremen",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/500.png",
+          "nombre": "Bologna",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/114.png",
+          "nombre": "Paris FC",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/539.png",
+          "nombre": "Levante",
+          "pick": "WIN",
+          "seleccion": false
+        }
+      ],
+      "lema": "¿PLENO HOY?"
+    }
+  },
+  {
+    "id": "2026-11-27-escalera",
+    "fecha": "2026-11-27T11:00",
+    "texto": "🪜 Reto escalera · Día 2/7\n\n✅ Día 1 superado: 20,00€ → 43,20€\n\n🇫🇷 Stade Brestois 29 marca\n🇮🇹 Venezia marca\n\n📈 Cuota @1,90\n💶 43,20€ → 82,08€",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552830|Total - Home|Over 0.5",
+      "1550216|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.36,
+      1.4
+    ]
+  },
+  {
+    "id": "2026-11-27-combi-tres",
+    "fecha": "2026-11-27T13:30",
+    "texto": "Vamos con la combi del viernes familia 🔥\n🧠 Esta va con cabeza: analizada\n\n🇫🇷 Stade Brestois 29 marca\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Nottingham Forest ve más de 1,5 tarjetas\n🇪🇸 Levante ve más de 1,5 tarjetas\n\n📈 Cuota @3,35\n\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552830|Total - Home|Over 0.5",
+      "1557485|Home Team Total Cards|Over 1.5",
+      "1570468|Home Team Total Cards|Over 1.5"
+    ],
+    "cuotas": [
+      1.36,
+      1.57,
+      1.57
+    ],
+    "solo_redes": true
+  },
+  {
+    "id": "2026-11-27-estrella-1557485",
+    "fecha": "2026-11-27T20:25",
+    "texto": "Hoy hay partidazo: Nottingham Forest 🆚 Chelsea 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n🍿 Para darle emoción al día, con calma en el stake\n\nVamos con la combi del partido estrella (21:00) 🔥\n\n🍀 Morgan Rogers comete 1+ faltas\n🍀 Cole Palmer comete 1+ faltas\n🍀 Liam Delap: 2+ tiros\n🍀 Nottingham Forest o empate\n\n📈 Cuota @3,68 aprox.\n\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1557485|Player Fouls Committed|Morgan Rogers - 1",
+      "1557485|Player Fouls Committed|Cole Palmer - 1",
+      "1557485|Home Player Shots|Liam Delap - 2",
+      "1557485|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      1.3,
+      1.62,
+      1.25,
+      1.4
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Nottingham Forest",
+      "visitante": "Chelsea",
+      "id_l": 65,
+      "id_v": 49,
+      "logo_l": "https://media.api-sports.io/football/teams/65.png",
+      "logo_v": "https://media.api-sports.io/football/teams/49.png",
+      "fecha": "2026-11-27T21:00",
+      "liga": "Premier"
+    },
+    "solo_redes": true,
+    "cuota_total": 3.68,
+    "cuota_calculada": true
+  },
+  {
+    "id": "2026-11-28-picks-manana",
+    "fecha": "2026-11-27T23:00",
+    "texto": "🔥⚽ COMBILOCAS — ¡5 PICKS PARA MAÑANA! 🍀\n\n🇩🇪 Más de 1,5 goles en la 2ª parte del FSV Mainz 05–Union Berlin\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 West Ham ve más de 1,5 tarjetas\n🇪🇸 Nico Williams (Athletic Club): 2+ tiros\n🇳🇱 Cambuur gana alguna de las dos partes\n🇪🇸 Gana el Valladolid\n\n⚽ ¡Combina máximo 2 o 3! ✅",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1575234|Goals Over/Under - Second Half|Over 1.5",
+      "1563297|Home Team Total Cards|Over 1.5",
+      "1570469|Away Player Shots|Nico Williams - 2",
+      "1552234|To Win Either Half|Home",
+      "1570046|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.73,
+      1.8,
+      1.28,
+      1.57,
+      1.73
+    ],
+    "solo_redes": true
+  },
+  {
+    "id": "2026-11-28-ganadores-laliga",
+    "fecha": "2026-11-28T00:00",
+    "texto": "🏆 LALIGA - GANADORES\n\n1. 🇪🇸 Betis - Win\n2. 🇪🇸 Athletic Club - Win\n3. 🇪🇸 Atlético - Win\n4. 🇪🇸 Real Madrid - Win\n\n🍀 ¿NOS LA JUGAMOS? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1570463|Match Winner|Home",
+      "1570469|Match Winner|Away",
+      "1570466|Match Winner|Away",
+      "1570470|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.67,
+      1.62,
+      1.4,
+      1.1
+    ],
+    "ganadores_img": {
+      "titulo": "LALIGA",
+      "liga": 140,
+      "filas": [
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/543.png",
+          "nombre": "Betis",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/531.png",
+          "nombre": "Athletic Club",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/530.png",
+          "nombre": "Atlético",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/541.png",
+          "nombre": "Real Madrid",
+          "pick": "WIN",
+          "seleccion": false
+        }
+      ],
+      "lema": "¿NOS LA JUGAMOS?"
+    }
+  },
+  {
+    "id": "2026-11-28-ganadores-premier",
+    "fecha": "2026-11-28T01:00",
+    "texto": "🏆 PREMIER LEAGUE - GANADORES\n\n1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Leeds - Win\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man United - Win\n3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa - Win\n\n🍀 ¿CUÁL FALLA? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1557483|Match Winner|Home",
+      "1557484|Match Winner|Home",
+      "1557482|Match Winner|Away"
+    ],
+    "cuotas": [
+      1.45,
+      2.1,
+      1.91
+    ],
+    "ganadores_img": {
+      "titulo": "PREMIER LEAGUE",
+      "liga": 39,
+      "filas": [
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/63.png",
+          "nombre": "Leeds",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/33.png",
+          "nombre": "Man United",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/66.png",
+          "nombre": "Aston Villa",
+          "pick": "WIN",
+          "seleccion": false
+        }
+      ],
+      "lema": "¿CUÁL FALLA?"
+    }
+  },
+  {
+    "id": "2026-11-28-ganadores-resto",
+    "fecha": "2026-11-28T02:00",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇮🇹 Frosinone - Win\n2. 🇩🇪 Bayern - Win\n3. 🇩🇪 FSV Mainz 05 - Win\n4. 🇫🇷 Lens - Win\n5. 🇮🇹 Inter - Win\n6. 🇫🇷 Nice - Win\n7. 🇫🇷 PSG - Win",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1550210|Match Winner|Home",
+      "1575235|Match Winner|Away",
+      "1575234|Match Winner|Home",
+      "1552828|Match Winner|Away",
+      "1550211|Match Winner|Home",
+      "1552834|Match Winner|Home",
+      "1552835|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.48,
+      1.25,
+      1.5,
+      1.65,
+      1.33,
+      1.67,
+      1.2
+    ],
+    "ganadores_img": {
+      "titulo": "PARTIDOS DE HOY",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/512.png",
+          "nombre": "Frosinone",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Germany",
+          "bandera": "🇩🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/157.png",
+          "nombre": "Bayern",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Germany",
+          "bandera": "🇩🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/164.png",
+          "nombre": "FSV Mainz 05",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/116.png",
+          "nombre": "Lens",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/505.png",
+          "nombre": "Inter",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/84.png",
+          "nombre": "Nice",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/85.png",
+          "nombre": "PSG",
+          "pick": "WIN",
+          "seleccion": false
+        }
+      ],
+      "lema": "¿PLENO HOY?"
+    }
+  },
+  {
+    "id": "2026-11-28-pick-seguro",
+    "fecha": "2026-11-28T10:30",
+    "texto": "Vamos con el pick de hoy familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇪🇸 Real Betis – Rayo Vallecano · 14:00\n\n🍀 Gana el Real Betis @1,67\n🧠 Stake 3/10\n\n👨‍💻 El Rayo Vallecano no ha ganado fuera en sus últimos 6 partidos.\n👨‍💻 El Real Betis va 4º y el Rayo Vallecano 16º en la liga.\n👨‍💻 El Rayo Vallecano solo ha ganado 1 de sus últimos 5.\n\n📊 Historial: 17 de 25 en verde · +6 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570463|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.67
+    ]
+  },
+  {
+    "id": "2026-11-28-combi-500",
+    "fecha": "2026-11-28T12:00",
+    "texto": "Vamos con la combi del día familia 🔥\n\n🇪🇸 Las Palmas marca 2 o más\n🇩🇪 Más de 1,5 goles en la 2ª parte del FSV Mainz 05–Union Berlin\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 QPR gana alguna de las dos partes\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 West Ham ve más de 1,5 tarjetas\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford gana alguna de las dos partes\n🇵🇹 Gana el Academico Viseu\n🇫🇷 Más de 1,5 goles en la 2ª parte del Le Havre–Strasbourg\n🇳🇱 Gana el Cambuur\n🇪🇸 Gana el Valladolid\n🇪🇸 Ambos marcan en Real Madrid–Alaves\n\n📈 Cuota @621,14\n\n🔔 Activad las notificaciones 👀\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570042|Total - Home|Over 1.5",
+      "1575234|Goals Over/Under - Second Half|Over 1.5",
+      "1563293|To Win Either Half|Home",
+      "1563297|Home Team Total Cards|Over 1.5",
+      "1557484|To Win Either Half|Away",
+      "1575545|Match Winner|Home",
+      "1552831|Goals Over/Under - Second Half|Over 1.5",
+      "1552234|Match Winner|Home",
+      "1570046|Match Winner|Home",
+      "1570470|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.91,
+      1.73,
+      1.53,
+      1.8,
+      2.0,
+      2.45,
+      1.83,
+      2.2,
+      1.73,
+      2.0
+    ],
+    "solo_redes": true
+  },
+  {
+    "id": "2026-11-28-pick-seguro-3",
+    "fecha": "2026-11-28T12:30",
+    "texto": "Vamos con el pick de hoy familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇪🇸 Malaga – Athletic Club · 16:15\n\n🍀 Malaga marca @1,57\n\n👨‍💻 Los partidos del Malaga llevan 2,8 goles de media (últimos 8).\n👨‍💻 Los partidos del Athletic Club llevan 2,6 goles de media (últimos 8).\n\n📊 Historial: 17 de 25 en verde · +6 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570469|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.57
+    ]
+  },
+  {
+    "id": "2026-11-28-pick-seguro-4",
+    "fecha": "2026-11-28T13:30",
+    "texto": "Este lo tenemos claro 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇫🇷 Nice – Estac Troyes · 20:45\n\n🍀 Gana el Nice @1,67\n🧠 Stake 3/10\n\n👨‍💻 El Nice va 7º y el Estac Troyes 14º en la liga.\n👨‍💻 El Nice ha ganado 3 de sus últimos 5 partidos.\n\n📊 Historial: 17 de 25 en verde · +6 %\n\n🔞 Juega con cabeza",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552834|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.67
+    ]
+  },
+  {
+    "id": "2026-11-28-combi-tres",
+    "fecha": "2026-11-28T13:30",
+    "texto": "Vamos con la combi del sábado familia 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🇪🇸 Malaga marca\n🇫🇷 Gana el Nice\n\n📈 Cuota @2,62\n\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570469|Total - Home|Over 0.5",
+      "1552834|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.57,
+      1.67
+    ],
+    "solo_redes": true
+  },
+  {
+    "id": "2026-11-28-estrella-1575235",
+    "fecha": "2026-11-28T14:55",
+    "texto": "Hoy hay partidazo: Hamburger SV 🆚 Bayern München 🇩🇪⭐\n🤪 Para soñar un poco: con poquito dinero\n\nVamos con la combi del partido estrella (15:30) 🔥\n\n🍀 Dayot Upamecano: 1+ tiros\n🍀 David Wolfe comete 1+ faltas\n🍀 Tom Bischof comete 1+ faltas\n🍀 Joshua Kimmich: 1+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @6,99 aprox.",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1575235|Away Player Shots|Dayot Upamecano - 1",
+      "1575235|Player Fouls Committed|David Wolfe - 1",
+      "1575235|Player Fouls Committed|Tom Bischof - 1",
+      "1575235|Away Player Shots|Joshua Kimmich - 1",
+      "1575235|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.73,
+      1.5,
+      1.25,
+      1.36,
+      1.5
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Hamburger SV",
+      "visitante": "Bayern München",
+      "id_l": 175,
+      "id_v": 157,
+      "logo_l": "https://media.api-sports.io/football/teams/175.png",
+      "logo_v": "https://media.api-sports.io/football/teams/157.png",
+      "fecha": "2026-11-28T15:30",
+      "liga": "Bundesliga"
+    },
+    "solo_redes": true,
+    "cuota_total": 6.99,
+    "cuota_calculada": true
+  },
+  {
+    "id": "2026-11-28-pick-seguro-5",
+    "fecha": "2026-11-28T15:00",
+    "texto": "Este lo tenemos claro 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇫🇷 Nice – Estac Troyes · 20:45\n\n🍀 Nice marca 2 o más @1,62\n\n👨‍💻 El Nice va 7º y el Estac Troyes 14º en la liga.\n👨‍💻 Los partidos del Nice llevan 3,4 goles de media (últimos 8).\n👨‍💻 Los partidos del Estac Troyes llevan 2,1 goles de media (últimos 8).\n\n📊 Historial: 17 de 25 en verde · +6 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552834|Total - Home|Over 1.5"
+    ],
+    "cuotas": [
+      1.62
+    ]
+  },
+  {
+    "id": "2026-11-28-estrella-1575231",
+    "fecha": "2026-11-28T17:55",
+    "texto": "Hoy hay partidazo: VfB Stuttgart 🆚 Eintracht Frankfurt 🇩🇪⭐\n🤪 Para soñar un poco: con poquito dinero\n\nVamos con la combi del partido estrella (18:30) 🔥\n\n🍀 Robin Koch comete 1+ faltas\n🍀 Lilian Brassier comete 1+ faltas\n🍀 Jonathan Burkardt: 2+ tiros\n🍀 Younes Ebnoutalib: 2+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @5,84 aprox.",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1575231|Player Fouls Committed|Robin Koch - 1",
+      "1575231|Player Fouls Committed|Lilian Brassier - 1",
+      "1575231|Away Player Shots|Jonathan Burkardt - 2",
+      "1575231|Away Player Shots|Younes Ebnoutalib - 2",
+      "1575231|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.62,
+      1.53,
+      1.25,
+      1.25,
+      1.44
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "VfB Stuttgart",
+      "visitante": "Eintracht Frankfurt",
+      "id_l": 172,
+      "id_v": 169,
+      "logo_l": "https://media.api-sports.io/football/teams/172.png",
+      "logo_v": "https://media.api-sports.io/football/teams/169.png",
+      "fecha": "2026-11-28T18:30",
+      "liga": "Bundesliga"
+    },
+    "solo_redes": true,
+    "cuota_total": 5.84,
+    "cuota_calculada": true
+  },
+  {
+    "id": "2026-11-28-pick-seguro-2",
+    "fecha": "2026-11-28T18:00",
+    "texto": "Vamos con el pick de hoy familia 🔥\n\n🇫🇷 Le Mans – Lille · 20:45\n\n🍀 Le Mans marca @1,44\n🧠 Stake 3/10\n\n👨‍💻 Los partidos del Le Mans llevan 3,1 goles de media (últimos 8).\n👨‍💻 Los partidos del Lille llevan 2,2 goles de media (últimos 8).\n\n📊 Historial: 17 de 25 en verde · +6 %\n\n🔞 Juega con cabeza",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552832|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.44
+    ]
+  },
+  {
+    "id": "2026-11-29-picks-manana",
+    "fecha": "2026-11-28T23:00",
+    "texto": "🔥⚽ COMBILOCAS — ¡6 PICKS PARA MAÑANA! 🍀\n\n🇪🇸 Granada CF gana alguna de las dos partes\n🇮🇹 Scott McTominay (Napoli): 2+ tiros\n🇩🇪 Más de 1,5 goles en la 2ª parte del SC Freiburg–RB Leipzig\n🇫🇷 Toulouse o empate\n🇪🇸 Más de 1,5 goles en la 2ª parte del Cadiz–Cordoba\n🇵🇹 Gana el GIL Vicente\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570041|To Win Either Half|Home",
+      "1550213|Away Player Shots|Scott McTominay - 2",
+      "1575233|Goals Over/Under - Second Half|Over 1.5",
+      "1552836|Double Chance|Home/Draw",
+      "1570038|Goals Over/Under - Second Half|Over 1.5",
+      "1575550|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.33,
+      1.25,
+      1.67,
+      1.44,
+      1.73,
+      1.8
+    ],
+    "solo_redes": true
+  },
+  {
+    "id": "2026-11-29-ganadores-laliga",
+    "fecha": "2026-11-29T00:00",
+    "texto": "🏆 LALIGA - GANADORES\n\n1. 🇪🇸 Valencia - Win\n2. 🇪🇸 Barcelona - Win\n3. 🇪🇸 Real Sociedad - Win",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1570472|Match Winner|Home",
+      "1570465|Match Winner|Away",
+      "1570471|Match Winner|Home"
+    ],
+    "cuotas": [
+      2.15,
+      1.2,
+      2.05
+    ],
+    "ganadores_img": {
+      "titulo": "LALIGA",
+      "liga": 140,
+      "filas": [
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/532.png",
+          "nombre": "Valencia",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/529.png",
+          "nombre": "Barcelona",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/548.png",
+          "nombre": "Real Sociedad",
+          "pick": "WIN",
+          "seleccion": false
+        }
+      ],
+      "lema": "¿NOS LA JUGAMOS?"
+    }
+  },
+  {
+    "id": "2026-11-29-ganadores-premier",
+    "fecha": "2026-11-29T01:00",
+    "texto": "🏆 PREMIER LEAGUE - GANADORES\n\n1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool - Win\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton - Win\n3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Crystal Palace - Win\n4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Tottenham - Win\n5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal - Win",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1557480|Match Winner|Away",
+      "1557478|Match Winner|Home",
+      "1557479|Match Winner|Home",
+      "1557486|Match Winner|Away",
+      "1557477|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.83,
+      1.57,
+      1.85,
+      2.0,
+      1.95
+    ],
+    "ganadores_img": {
+      "titulo": "PREMIER LEAGUE",
+      "liga": 39,
+      "filas": [
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/40.png",
+          "nombre": "Liverpool",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/51.png",
+          "nombre": "Brighton",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/52.png",
+          "nombre": "Crystal Palace",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/47.png",
+          "nombre": "Tottenham",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/42.png",
+          "nombre": "Arsenal",
+          "pick": "WIN",
+          "seleccion": false
+        }
+      ],
+      "lema": "¿CUÁL FALLA?"
+    }
+  },
+  {
+    "id": "2026-11-29-ganadores-resto",
+    "fecha": "2026-11-29T02:00",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇮🇹 Fiorentina - Win\n2. 🇫🇷 Marseille - Win\n3. 🇮🇹 Napoli - Win\n4. 🇩🇪 Hoffenheim - Win\n5. 🇮🇹 Roma - Win\n6. 🇩🇪 Dortmund - Win\n7. 🇮🇹 Como - Win",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1550215|Match Winner|Away",
+      "1552829|Match Winner|Away",
+      "1550213|Match Winner|Away",
+      "1575232|Match Winner|Home",
+      "1550207|Match Winner|Home",
+      "1575230|Match Winner|Home",
+      "1550209|Match Winner|Home"
+    ],
+    "cuotas": [
+      2.2,
+      1.83,
+      1.65,
+      1.73,
+      1.18,
+      2.05,
+      2.0
+    ],
+    "ganadores_img": {
+      "titulo": "PARTIDOS DE HOY",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/502.png",
+          "nombre": "Fiorentina",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/81.png",
+          "nombre": "Marseille",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/492.png",
+          "nombre": "Napoli",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Germany",
+          "bandera": "🇩🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/167.png",
+          "nombre": "Hoffenheim",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/497.png",
+          "nombre": "Roma",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Germany",
+          "bandera": "🇩🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/165.png",
+          "nombre": "Dortmund",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/895.png",
+          "nombre": "Como",
+          "pick": "WIN",
+          "seleccion": false
+        }
+      ],
+      "lema": "¿PLENO HOY?"
+    }
+  },
+  {
+    "id": "2026-11-29-pick-seguro",
+    "fecha": "2026-11-29T10:30",
+    "texto": "Vamos con el pick de hoy familia 🔥\n📈 De las que hemos estudiado bien\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton – Newcastle · 15:05\n\n🍀 Gana el Brighton @1,57\n🧠 Stake 3/10\n\n👨‍💻 El Brighton no ha perdido en casa en sus últimos 6 partidos (5V 1E).\n👨‍💻 El Brighton va 3º y el Newcastle 13º en la liga.\n👨‍💻 El Brighton ha ganado 4 de sus últimos 5 partidos.\n\n📊 Historial: 17 de 25 en verde · +6 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1557478|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.57
+    ]
+  },
+  {
+    "id": "2026-11-29-pick-seguro-3",
+    "fecha": "2026-11-29T12:30",
+    "texto": "Os dejo el pick, familia 👇\n📈 De las que hemos estudiado bien\n\n🇪🇸 Deportivo La Coruna – Barcelona · 16:15\n\n🍀 Deportivo La Coruna marca @1,50\n🧠 Stake 3/10\n\n👨‍💻 Los partidos del Deportivo La Coruna llevan 2,5 goles de media (últimos 8).\n👨‍💻 Los partidos del Barcelona llevan 4,9 goles de media (últimos 8).\n\n📊 Historial: 17 de 25 en verde · +6 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570465|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.5
+    ]
+  },
+  {
+    "id": "2026-11-29-pick-seguro-4",
+    "fecha": "2026-11-29T13:30",
+    "texto": "Pick que nos gusta mucho para hoy 👀\n📈 De las que hemos estudiado bien\n\n🇮🇹 AS Roma – Monza · 18:00\n\n🍀 AS Roma marca 3 o más @1,67\n\n👨‍💻 El AS Roma va 2º y el Monza 14º en la liga.\n👨‍💻 Los partidos del AS Roma llevan 5,1 goles de media (últimos 8).\n👨‍💻 Los partidos del Monza llevan 3,5 goles de media (últimos 8).\n\n📊 Historial: 17 de 25 en verde · +6 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550207|Total - Home|Over 2.5"
+    ],
+    "cuotas": [
+      1.67
+    ]
+  },
+  {
+    "id": "2026-11-29-combi-tres",
+    "fecha": "2026-11-29T13:30",
+    "texto": "Vamos con la combi del domingo familia 🔥\n🧠 Pensada con calma, sin prisas\n\n🇪🇸 Deportivo La Coruna marca\n🇮🇹 AS Roma marca 3 o más\n\n📈 Cuota @2,50\n\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570465|Total - Home|Over 0.5",
+      "1550207|Total - Home|Over 2.5"
+    ],
+    "cuotas": [
+      1.5,
+      1.67
+    ],
+    "solo_redes": true
+  },
+  {
+    "id": "2026-11-29-combi-partido-1550213",
+    "fecha": "2026-11-29T14:00",
+    "texto": "Os dejo la combi del Sassuolo – Napoli 🇮🇹🔥\n\n🍀 Gana el Napoli\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Napoli hace más tiros\n\n📈 Cuota @4,22 aprox.\n\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550213|Match Winner|Away",
+      "1550213|Goals Over/Under - Second Half|Over 1.5",
+      "1550213|Shots.1x2|Away"
+    ],
+    "cuotas": [
+      1.65,
+      1.8,
+      1.36
+    ],
+    "tarjeta": {
+      "local": "Sassuolo",
+      "visitante": "Napoli",
+      "id_l": 488,
+      "id_v": 492,
+      "logo_l": "https://media.api-sports.io/football/teams/488.png",
+      "logo_v": "https://media.api-sports.io/football/teams/492.png",
+      "fecha": "2026-11-29T15:00",
+      "liga": "Serie A"
+    },
+    "solo_redes": true,
+    "cuota_total": 4.22,
+    "cuota_calculada": true
+  },
+  {
+    "id": "2026-11-29-combi-partido-1552829",
+    "fecha": "2026-11-29T14:25",
+    "texto": "Os dejo la combi del Auxerre – Marseille 🇫🇷🔥\n\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Igor Paixao: 2+ tiros\n🍀 Marseille hace más tiros\n🍀 Marseille marca 2 o más\n\n📈 Cuota @5,87 aprox.",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552829|Goals Over/Under - Second Half|Over 1.5",
+      "1552829|Away Player Shots|Igor Paixao - 2",
+      "1552829|Shots.1x2|Away",
+      "1552829|Total - Away|Over 1.5"
+    ],
+    "cuotas": [
+      1.8,
+      1.36,
+      1.53,
+      1.67
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Auxerre",
+      "visitante": "Marseille",
+      "id_l": 108,
+      "id_v": 81,
+      "logo_l": "https://media.api-sports.io/football/teams/108.png",
+      "logo_v": "https://media.api-sports.io/football/teams/81.png",
+      "fecha": "2026-11-29T15:00",
+      "liga": "Ligue 1"
+    },
+    "solo_redes": true,
+    "cuota_total": 5.87,
+    "cuota_calculada": true
+  },
+  {
+    "id": "2026-11-29-estrella-1557478",
+    "fecha": "2026-11-29T14:30",
+    "texto": "Hoy hay partidazo: Brighton 🆚 Newcastle 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n🎉 Esta es por diversión: stake mínimo 🤏\n\nVamos con la combi del partido estrella (15:05) 🔥\n\n🍀 Harvey Barnes: 2+ tiros\n🍀 Gana el Brighton\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @4,49 aprox.\n\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1557478|Away Player Shots|Harvey Barnes - 2",
+      "1557478|Match Winner|Home",
+      "1557478|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.44,
+      1.57,
+      1.73
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Brighton",
+      "visitante": "Newcastle",
+      "id_l": 51,
+      "id_v": 34,
+      "logo_l": "https://media.api-sports.io/football/teams/51.png",
+      "logo_v": "https://media.api-sports.io/football/teams/34.png",
+      "fecha": "2026-11-29T15:05",
+      "liga": "Premier"
+    },
+    "solo_redes": true,
+    "cuota_total": 4.49,
+    "cuota_calculada": true
+  },
+  {
+    "id": "2026-11-29-pick-seguro-5",
+    "fecha": "2026-11-29T15:00",
+    "texto": "Vamos con el pick de hoy familia 🔥\n📈 De las que hemos estudiado bien\n\n🇩🇪 1899 Hoffenheim – FC Augsburg · 17:30\n\n🍀 Más de 1,5 goles en la 2ª parte del 1899 Hoffenheim–FC Augsburg @1,50\n\n👨‍💻 Los partidos del 1899 Hoffenheim llevan 2,5 goles de media (últimos 8).\n👨‍💻 Los partidos del FC Augsburg llevan 4,8 goles de media (últimos 8).\n\n📊 Historial: 17 de 25 en verde · +6 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1575232|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.5
+    ]
+  },
+  {
+    "id": "2026-11-29-pick-seguro-6",
+    "fecha": "2026-11-29T16:30",
+    "texto": "Vamos con otro pick 🍀\n📈 De las que hemos estudiado bien\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal – Manchester City · 17:30\n\n🍀 Arsenal marca 2 o más @1,80\n\n👨‍💻 Los partidos del Arsenal llevan 2,4 goles de media (últimos 8).\n👨‍💻 Los partidos del Manchester City llevan 3,6 goles de media (últimos 8).\n\n📊 Historial: 17 de 25 en verde · +6 %\n\n🔞 Juega con cabeza",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1557477|Total - Home|Over 1.5"
+    ],
+    "cuotas": [
+      1.8
+    ]
+  },
+  {
+    "id": "2026-11-29-combi-partido-1557477",
+    "fecha": "2026-11-29T16:55",
+    "texto": "Os dejo la combi del Arsenal – Manchester City 🏴󠁧󠁢󠁥󠁮󠁧󠁿🔥\n\n🍀 Arsenal marca 2 o más\n🍀 Arsenal hace más tiros a puerta\n🍀 Elliot Anderson: 1+ tiros\n\n📈 Cuota @4,98 aprox.\n\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1557477|Total - Home|Over 1.5",
+      "1557477|ShotOnTarget 1x2|Home",
+      "1557477|Away Player Shots|Elliot Anderson - 1"
+    ],
+    "cuotas": [
+      1.8,
+      1.73,
+      1.53
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Arsenal",
+      "visitante": "Manchester City",
+      "id_l": 42,
+      "id_v": 50,
+      "logo_l": "https://media.api-sports.io/football/teams/42.png",
+      "logo_v": "https://media.api-sports.io/football/teams/50.png",
+      "fecha": "2026-11-29T17:30",
+      "liga": "Premier"
+    },
+    "solo_redes": true,
+    "cuota_total": 4.98,
+    "cuota_calculada": true
+  },
+  {
+    "id": "2026-11-29-estrella-1557477",
+    "fecha": "2026-11-29T16:55",
+    "texto": "Hoy hay partidazo: Arsenal 🆚 Manchester City 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n🎉 Esta es por diversión: stake mínimo 🤏\n\nVamos con la combi del partido estrella (17:30) 🔥\n\n🍀 Gabriel Magalhaes comete 1+ faltas\n🍀 Declan Rice: 1+ tiros\n🍀 Enzo Fernandez: 1+ tiros\n🍀 Erling Haaland: 3+ tiros\n🍀 Manchester City marca\n\n📈 Cuota @6,15 aprox.\n\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1557477|Player Fouls Committed|Gabriel Magalhaes - 1",
+      "1557477|Home Player Shots|Declan Rice - 1",
+      "1557477|Away Player Shots|Enzo Fernandez - 1",
+      "1557477|Away Player Shots|Erling Haaland - 3",
+      "1557477|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.67,
+      1.57,
+      1.33,
+      1.53,
+      1.36
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Arsenal",
+      "visitante": "Manchester City",
+      "id_l": 42,
+      "id_v": 50,
+      "logo_l": "https://media.api-sports.io/football/teams/42.png",
+      "logo_v": "https://media.api-sports.io/football/teams/50.png",
+      "fecha": "2026-11-29T17:30",
+      "liga": "Premier"
+    },
+    "solo_redes": true,
+    "cuota_total": 6.15,
+    "cuota_calculada": true
+  },
+  {
+    "id": "2026-11-30-pick-seguro",
+    "fecha": "2026-11-30T10:30",
+    "texto": "Vamos con el pick de hoy familia 🔥\n\n🇮🇹 Cagliari – AC Milan · 20:45\n\n🍀 Cagliari marca @1,53\n🧠 Stake 3/10\n\n👨‍💻 Los partidos del Cagliari llevan 2,6 goles de media (últimos 8).\n👨‍💻 Los partidos del AC Milan llevan 4,0 goles de media (últimos 8).\n\n📊 Historial: 17 de 25 en verde · +6 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550208|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.53
+    ]
+  },
+  {
+    "id": "2026-11-30-pick-seguro-3",
+    "fecha": "2026-11-30T12:30",
+    "texto": "Pick que nos gusta mucho para hoy 👀\n\n🇮🇹 Lecce – Atalanta · 18:30\n\n🍀 Más de 1,5 goles en la 2ª parte del Lecce–Atalanta @1,80\n\n👨‍💻 Los partidos del Lecce llevan 3,1 goles de media (últimos 8).\n👨‍💻 Los partidos del Atalanta llevan 4,1 goles de media (últimos 8).\n\n📊 Historial: 17 de 25 en verde · +6 %\n\n🔞 Juega con cabeza",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550212|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.8
+    ]
+  },
+  {
+    "id": "2026-11-30-combi-tres",
+    "fecha": "2026-11-30T13:30",
+    "texto": "Vamos con la combi del lunes familia 🔥\n\n🇮🇹 Lecce ve más de 1,5 tarjetas\n🇮🇹 Cagliari marca\n\n📈 Cuota @2,29",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550212|Home Team Total Cards|Over 1.5",
+      "1550208|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.5,
+      1.53
+    ],
+    "solo_redes": true
+  },
+  {
+    "id": "2026-11-30-estrella-1550212",
+    "fecha": "2026-11-30T17:55",
+    "texto": "Hoy hay partidazo: Lecce 🆚 Atalanta 🇮🇹⭐\n\nVamos con la combi del partido estrella (18:30) 🔥\n\n🍀 Jamil Siebert comete 1+ faltas\n🍀 Nicola Zalewski comete 1+ faltas\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Atalanta hace más tiros\n\n📈 Cuota @6,25 aprox.\n\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550212|Player Fouls Committed|Jamil Siebert - 1",
+      "1550212|Player Fouls Committed|Nicola Zalewski - 1",
+      "1550212|Goals Over/Under - Second Half|Over 1.5",
+      "1550212|Shots.1x2|Away"
+    ],
+    "cuotas": [
+      1.44,
+      1.36,
+      1.8,
+      1.67
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Lecce",
+      "visitante": "Atalanta",
+      "id_l": 867,
+      "id_v": 499,
+      "logo_l": "https://media.api-sports.io/football/teams/867.png",
+      "logo_v": "https://media.api-sports.io/football/teams/499.png",
+      "fecha": "2026-11-30T18:30",
+      "liga": "Serie A"
+    },
+    "solo_redes": true,
+    "cuota_total": 6.25,
+    "cuota_calculada": true
+  },
+  {
+    "id": "2026-11-30-estrella-1550208",
+    "fecha": "2026-11-30T20:10",
+    "texto": "Hoy hay partidazo: Cagliari 🆚 AC Milan 🇮🇹⭐\n\nVamos con la combi del partido estrella (20:45) 🔥\n\n🍀 Paul Mendy comete 2+ faltas\n🍀 Alessandro Romano: 1+ tiros\n🍀 Gana el AC Milan\n🍀 Cagliari hace más de 2,5 córners\n\n📈 Cuota @5,17 aprox.\n\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550208|Player Fouls Committed|Paul Mendy - 2",
+      "1550208|Home Player Shots|Alessandro Romano - 1",
+      "1550208|Match Winner|Away",
+      "1550208|Home Corners Over/Under|Over 2.5"
+    ],
+    "cuotas": [
+      1.4,
+      1.25,
+      1.67,
+      1.57
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Cagliari",
+      "visitante": "AC Milan",
+      "id_l": 490,
+      "id_v": 489,
+      "logo_l": "https://media.api-sports.io/football/teams/490.png",
+      "logo_v": "https://media.api-sports.io/football/teams/489.png",
+      "fecha": "2026-11-30T20:45",
+      "liga": "Serie A"
+    },
+    "solo_redes": true,
+    "cuota_total": 5.17,
+    "cuota_calculada": true
+  },
+  {
+    "id": "2026-12-04-pick-seguro",
+    "fecha": "2026-12-04T10:30",
+    "texto": "Os dejo el pick, familia 👇\n\n🇮🇹 Bologna – AS Roma · 20:45\n\n🍀 Bologna marca @1,36\n🧠 Stake 3/10\n\n👨‍💻 Los partidos del Bologna llevan 3,1 goles de media (últimos 8).\n👨‍💻 Los partidos del AS Roma llevan 5,1 goles de media (últimos 8).\n\n📊 Historial: 17 de 25 en verde · +6 %\n\n🔞 Juega con cabeza",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550218|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.36
+    ]
+  },
+  {
+    "id": "2026-12-04-pick-seguro-3",
+    "fecha": "2026-12-04T12:30",
+    "texto": "Pick de hoy, con datos detrás 📊\n\n🇫🇷 Toulouse – Paris Saint Germain · 20:45\n\n🍀 Achraf Hakimi (PSG): 2+ tiros @1,80\n\n📊 Historial: 17 de 25 en verde · +6 %\n\n🔞 Juega con cabeza",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552844|Away Player Shots|Achraf Hakimi - 2"
+    ],
+    "cuotas": [
+      1.8
+    ]
+  },
+  {
+    "id": "2026-12-04-pick-seguro-4",
+    "fecha": "2026-12-04T13:30",
+    "texto": "Pick de hoy, con datos detrás 📊\n\n🇫🇷 Toulouse – Paris Saint Germain · 20:45\n\n🍀 Más de 1,5 goles en la 2ª parte del Toulouse–Paris Saint Germain @1,67\n\n👨‍💻 Los partidos del Toulouse llevan 3,0 goles de media (últimos 8).\n👨‍💻 Los partidos del Paris Saint Germain llevan 4,2 goles de media (últimos 8).\n\n📊 Historial: 17 de 25 en verde · +6 %\n\n🔞 Juega con cabeza",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552844|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.67
+    ]
+  },
+  {
+    "id": "2026-12-04-pick-seguro-2",
+    "fecha": "2026-12-04T18:00",
+    "texto": "Pick de hoy, con datos detrás 📊\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🇫🇷 Toulouse – Paris Saint Germain · 20:45\n\n🍀 Toulouse marca @1,40\n🧠 Stake 3/10\n\n👨‍💻 Los partidos del Toulouse llevan 3,0 goles de media (últimos 8).\n👨‍💻 Los partidos del Paris Saint Germain llevan 4,2 goles de media (últimos 8).\n\n📊 Historial: 17 de 25 en verde · +6 %\n\n🔞 Juega con cabeza",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552844|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.4
+    ]
+  },
+  {
+    "id": "2026-12-04-estrella-1552844",
+    "fecha": "2026-12-04T20:10",
+    "texto": "Hoy hay partidazo: Toulouse 🆚 Paris Saint Germain 🇫🇷⭐\n🎲 De las locas: stake bajito 🤏\n\nVamos con la combi del partido estrella (20:45) 🔥\n\n🍀 Fabian Ruiz: 1+ tiros\n🍀 Casper Tengstedt: 2+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Gana el Paris Saint Germain\n\n📈 Cuota @4,62 aprox.",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1552844|Away Player Shots|Fabian Ruiz - 1",
+      "1552844|Home Player Shots|Casper Tengstedt - 2",
+      "1552844|Goals Over/Under - Second Half|Over 1.5",
+      "1552844|Match Winner|Away"
+    ],
+    "cuotas": [
+      1.25,
+      1.36,
+      1.67,
+      1.5
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Toulouse",
+      "visitante": "Paris Saint Germain",
+      "id_l": 96,
+      "id_v": 85,
+      "logo_l": "https://media.api-sports.io/football/teams/96.png",
+      "logo_v": "https://media.api-sports.io/football/teams/85.png",
+      "fecha": "2026-12-04T20:45",
+      "liga": "Ligue 1"
+    },
+    "solo_redes": true,
+    "cuota_total": 4.62,
+    "cuota_calculada": true
   }
 ]

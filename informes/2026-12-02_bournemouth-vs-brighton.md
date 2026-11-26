@@ -1,10 +1,10 @@
 # Bournemouth – Brighton
 **Premier League** · Regular Season - 13 · 02/12/2026 21:15 (hora España) · Vitality Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:25_
+_Actualizadas: 26/11 23:04_
 
 - **1X2:** 1 **2.40**  ·  X **3.50**  ·  2 **2.62**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.53**
@@ -52,53 +52,53 @@ _Actualizadas: 24/11 23:25_
 ## Estadísticas de equipo
 | | Bournemouth (total) | Bournemouth en casa | Brighton (total) | Brighton fuera |
 |---|---|---|---|---|
-| Partidos analizados | 17 | 10 | 18 | 11 |
-| Forma (últimos 5) | VVVVV | VVVVV | DVVVE | DVVED |
-| Balance | 11V 3E 3D | 7V 2E 1D | 11V 4E 3D | 5V 3E 3D |
-| Goles a favor / partido | 2,12 | 2,20 | 2,22 | 1,55 |
-| Goles en contra / partido | 0,94 | 0,40 | 0,72 | 1,09 |
-| Goles a favor 1ª parte | 1,12 | 1,10 | 1,17 | 0,45 |
-| Goles a favor 2ª parte | 1,00 | 1,10 | 1,06 | 1,09 |
-| Goles en contra 1ª parte | 0,29 | 0,10 | 0,50 | 0,73 |
-| Goles en contra 2ª parte | 0,65 | 0,30 | 0,22 | 0,36 |
-| Más de 1,5 goles | 94% | 90% | 78% | 64% |
-| Más de 2,5 goles | 71% | 50% | 50% | 36% |
-| Más de 3,5 goles | 29% | 20% | 44% | 36% |
-| Ambos marcan | 47% | 20% | 22% | 27% |
-| Portería a cero | 47% | 70% | 67% | 55% |
-| Se queda sin marcar | 6% | 10% | 22% | 36% |
-| xG a favor | 2,15 | 2,46 | 2,04 | 1,68 |
-| xG en contra | 1,19 | 1,01 | 1,16 | 1,28 |
-| Tiros / partido | 17,1 | 20,3 | 18,6 | 16,7 |
-| Tiros a puerta / partido | 5,7 | 6,4 | 5,6 | 4,7 |
-| Tiros recibidos | 10,5 | 9,2 | 10,0 | 12,2 |
-| Tiros a puerta recibidos | 2,9 | 2,1 | 3,1 | 4,2 |
-| Posesión media % | 51 | 56 | 62 | 60 |
-| Córners a favor | 5,6 | 5,9 | 5,9 | 5,0 |
-| Córners en contra | 3,8 | 3,1 | 4,0 | 4,5 |
-| Córners a favor 1ª parte | 2,7 | 2,6 | 2,8 | 2,5 |
-| Córners a favor 2ª parte | 2,9 | 3,3 | 3,1 | 2,5 |
-| Córners totales del partido | 9,4 | 9,0 | 9,9 | 9,5 |
-| Córners totales 1ª parte | 4,1 | 3,8 | 4,6 | 4,6 |
-| Córners totales 2ª parte | 5,3 | 5,2 | 5,4 | 4,9 |
-| Más de 8,5 córners | 59% | 50% | 61% | 55% |
-| Más de 9,5 córners | 47% | 50% | 61% | 55% |
-| Más de 10,5 córners | 24% | 10% | 39% | 27% |
-| Faltas cometidas | 13,5 | 12,6 | 13,3 | 14,0 |
-| Faltas recibidas | 12,5 | 13,3 | 8,5 | 7,5 |
+| Partidos analizados | 18 | 10 | 19 | 11 |
+| Forma (últimos 5) | VVVVV | VVVVV | VDVVV | DVVED |
+| Balance | 12V 3E 3D | 7V 2E 1D | 12V 4E 3D | 5V 3E 3D |
+| Goles a favor / partido | 2,11 | 2,20 | 2,32 | 1,55 |
+| Goles en contra / partido | 0,94 | 0,40 | 0,68 | 1,09 |
+| Goles a favor 1ª parte | 1,06 | 1,10 | 1,21 | 0,45 |
+| Goles a favor 2ª parte | 1,06 | 1,10 | 1,11 | 1,09 |
+| Goles en contra 1ª parte | 0,33 | 0,10 | 0,47 | 0,73 |
+| Goles en contra 2ª parte | 0,61 | 0,30 | 0,21 | 0,36 |
+| Más de 1,5 goles | 94% | 90% | 79% | 64% |
+| Más de 2,5 goles | 72% | 50% | 53% | 36% |
+| Más de 3,5 goles | 28% | 20% | 47% | 36% |
+| Ambos marcan | 50% | 20% | 21% | 27% |
+| Portería a cero | 44% | 70% | 68% | 55% |
+| Se queda sin marcar | 6% | 10% | 21% | 36% |
+| xG a favor | 2,05 | 2,46 | 2,08 | 1,68 |
+| xG en contra | 1,23 | 1,01 | 1,10 | 1,28 |
+| Tiros / partido | 16,7 | 20,3 | 19,1 | 16,7 |
+| Tiros a puerta / partido | 5,7 | 6,4 | 5,8 | 4,7 |
+| Tiros recibidos | 11,0 | 9,2 | 9,7 | 12,2 |
+| Tiros a puerta recibidos | 3,1 | 2,1 | 3,0 | 4,2 |
+| Posesión media % | 50 | 56 | 63 | 60 |
+| Córners a favor | 5,6 | 5,9 | 6,1 | 5,0 |
+| Córners en contra | 3,9 | 3,1 | 3,8 | 4,5 |
+| Córners a favor 1ª parte | 2,8 | 2,6 | 2,8 | 2,5 |
+| Córners a favor 2ª parte | 2,8 | 3,3 | 3,3 | 2,5 |
+| Córners totales del partido | 9,5 | 9,0 | 9,9 | 9,5 |
+| Córners totales 1ª parte | 4,1 | 3,8 | 4,4 | 4,6 |
+| Córners totales 2ª parte | 5,4 | 5,2 | 5,5 | 4,9 |
+| Más de 8,5 córners | 61% | 50% | 63% | 55% |
+| Más de 9,5 córners | 50% | 50% | 58% | 55% |
+| Más de 10,5 córners | 28% | 10% | 37% | 27% |
+| Faltas cometidas | 13,4 | 12,6 | 13,3 | 14,0 |
+| Faltas recibidas | 12,7 | 13,3 | 8,4 | 7,5 |
 | Amarillas propias | 2,5 | 2,5 | 2,2 | 2,3 |
 | Amarillas del rival | 2,3 | 2,4 | 1,2 | 0,8 |
-| Rojas / partido | 0,00 | 0,00 | 0,11 | 0,18 |
+| Rojas / partido | 0,06 | 0,00 | 0,11 | 0,18 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Bournemouth | Recibe Bournemouth | Tarjetas Bournemouth | Goles Brighton | Recibe Brighton | Tarjetas Brighton |
 |---|---|---|---|---|---|---|
-| 1-15' | 7 | 2 | 2 | 6 | 5 | 3 |
-| 16-30' | 3 | 0 | 9 | 4 | 2 | 4 |
-| 31-45' | 9 | 3 | 9 | 11 | 2 | 8 |
-| 46-60' | 6 | 4 | 4 | 6 | 0 | 8 |
-| 61-75' | 3 | 3 | 9 | 7 | 2 | 7 |
-| 76-90' | 8 | 4 | 10 | 6 | 2 | 13 |
+| 1-15' | 7 | 2 | 2 | 7 | 5 | 3 |
+| 16-30' | 3 | 1 | 11 | 4 | 2 | 4 |
+| 31-45' | 9 | 3 | 10 | 12 | 2 | 8 |
+| 46-60' | 7 | 4 | 4 | 6 | 0 | 9 |
+| 61-75' | 3 | 3 | 9 | 9 | 2 | 7 |
+| 76-90' | 9 | 4 | 10 | 6 | 2 | 14 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -117,67 +117,67 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Bournemouth
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-26 | Europa League | Celta Vigo 1-2 Bournemouth | fuera | 5-6 | 10 (6) - 20 (5) | 2-3 |
 | 2026-11-21 | Premier League | Bournemouth 2-0 Nottingham Forest | casa | 6-4 | 19 (7) - 18 (1) | 1-3 |
 | 2026-11-08 | Premier League | Ipswich 1-2 Bournemouth | fuera | 7-2 | 15 (4) - 10 (2) | 3-2 |
 | 2026-11-05 | Europa League | Sparta Praha 1-3 Bournemouth | fuera | 10-3 | 20 (9) - 12 (3) | 2-3 |
 | 2026-10-31 | Premier League | Bournemouth 2-0 Leeds | casa | 4-4 | 11 (5) - 10 (1) | 2-2 |
 | 2026-10-28 | Carabao Cup | Bournemouth 3-0 Aston Villa | casa | 6-2 | 19 (7) - 17 (5) | 3-3 |
-| 2026-10-25 | Premier League | Manchester United 0-3 Bournemouth | fuera | 4-5 | 10 (4) - 17 (5) | 1-4 |
 
 ## Jugadores de Bournemouth
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| António Silva | D | 16 | 1432 | 0 | 0 | 10 | 0,6 | 2 | 0,1 | 17 | 4 | 0,2 | 5 | 0 |
-| J. Hill | D | 16 | 1378 | 0 | 1 | 14 | 0,9 | 2 | 0,1 | 15 | 14 | 0,9 | 1 | 0 |
-| M. Tavernier | M | 17 | 1244 | 6 | 1 | 29 | 1,7 | 16 | 0,9 | 10 | 16 | 0,9 | 4 | 0 |
-| A. Truffert | D | 14 | 1194 | 0 | 2 | 9 | 0,6 | 2 | 0,1 | 23 | 5 | 0,4 | 3 | 0 |
+| António Silva | D | 17 | 1522 | 0 | 0 | 10 | 0,6 | 2 | 0,1 | 18 | 6 | 0,4 | 5 | 0 |
+| J. Hill | D | 17 | 1468 | 0 | 1 | 15 | 0,9 | 3 | 0,2 | 15 | 14 | 0,8 | 1 | 0 |
+| M. Tavernier | M | 18 | 1266 | 6 | 2 | 29 | 1,6 | 16 | 0,9 | 11 | 16 | 0,9 | 4 | 0 |
+| A. Truffert | D | 15 | 1216 | 0 | 2 | 9 | 0,6 | 2 | 0,1 | 23 | 5 | 0,3 | 3 | 0 |
+| Rayan | F | 18 | 1185 | 6 | 0 | 40 | 2,2 | 19 | 1,1 | 10 | 14 | 0,8 | 0 | 0 |
 | Đ. Petrović | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Evanilson | F | 15 | 1169 | 8 | 5 | 37 | 2,5 | 15 | 1,0 | 21 | 30 | 2,0 | 2 | 0 |
-| Rayan | M | 17 | 1163 | 5 | 0 | 38 | 2,2 | 18 | 1,1 | 10 | 14 | 0,8 | 0 | 0 |
+| T. Adams | M | 17 | 1110 | 1 | 1 | 5 | 0,3 | 2 | 0,1 | 20 | 12 | 0,7 | 4 | 0 |
 | A. Smith | D | 14 | 1108 | 0 | 1 | 2 | 0,1 | 0 | 0,0 | 17 | 19 | 1,4 | 4 | 0 |
-| T. Adams | M | 16 | 1065 | 1 | 1 | 5 | 0,3 | 2 | 0,1 | 20 | 11 | 0,7 | 4 | 0 |
-| R. Christie | M | 16 | 871 | 3 | 1 | 24 | 1,5 | 6 | 0,4 | 13 | 16 | 1,0 | 4 | 0 |
-| J. Kluivert | M | 14 | 866 | 4 | 2 | 28 | 2,0 | 12 | 0,9 | 28 | 14 | 1,0 | 3 | 0 |
-| L. Cook | M | 16 | 790 | 1 | 1 | 8 | 0,5 | 1 | 0,1 | 12 | 2 | 0,1 | 3 | 0 |
-| A. Scott | M | 7 | 557 | 1 | 1 | 6 | 0,9 | 1 | 0,1 | 5 | 25 | 3,6 | 2 | 0 |
-| B. Diakité | D | 11 | 497 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 7 | 1 | 0,1 | 3 | 0 |
+| J. Kluivert | F | 15 | 911 | 4 | 2 | 29 | 1,9 | 13 | 0,9 | 28 | 14 | 0,9 | 3 | 0 |
+| R. Christie | M | 17 | 896 | 3 | 1 | 25 | 1,5 | 6 | 0,4 | 13 | 17 | 1,0 | 4 | 0 |
+| L. Cook | M | 17 | 880 | 1 | 1 | 8 | 0,5 | 1 | 0,1 | 13 | 2 | 0,1 | 3 | 0 |
+| A. Scott | M | 8 | 622 | 1 | 1 | 8 | 1,0 | 2 | 0,2 | 8 | 28 | 3,5 | 3 | 0 |
+| Á. Rodríguez | F | 13 | 529 | 3 | 0 | 21 | 1,6 | 8 | 0,6 | 10 | 7 | 0,5 | 1 | 0 |
+| B. Diakité | D | 12 | 520 | 0 | 1 | 4 | 0,3 | 2 | 0,2 | 9 | 1 | 0,1 | 3 | 1 |
 | B. Doak | F | 14 | 487 | 0 | 2 | 14 | 1,0 | 3 | 0,2 | 7 | 8 | 0,6 | 1 | 0 |
-| Á. Rodríguez | F | 12 | 439 | 2 | 0 | 19 | 1,6 | 7 | 0,6 | 8 | 6 | 0,5 | 0 | 0 |
-| M. Di Gregorio | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| J. Soler | D | 5 | 342 | 0 | 1 | 3 | 0,6 | 0 | 0,0 | 4 | 6 | 1,2 | 1 | 0 |
-| D. Brooks | M | 9 | 280 | 0 | 1 | 5 | 0,6 | 2 | 0,2 | 4 | 4 | 0,4 | 1 | 0 |
-| A. Adli | F | 8 | 145 | 3 | 0 | 8 | 1,0 | 3 | 0,4 | 5 | 3 | 0,4 | 1 | 0 |
+| M. Di Gregorio | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| J. Soler | D | 6 | 410 | 0 | 1 | 3 | 0,5 | 0 | 0,0 | 5 | 8 | 1,3 | 1 | 0 |
+| D. Brooks | M | 10 | 348 | 0 | 1 | 5 | 0,5 | 2 | 0,2 | 4 | 6 | 0,6 | 1 | 0 |
+| A. Adli | M | 9 | 213 | 3 | 1 | 9 | 1,0 | 4 | 0,4 | 6 | 6 | 0,7 | 1 | 0 |
 
 ## Últimos partidos de Brighton
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-26 | Conference League | Brighton 4-0 Universitatea Craiova | casa | 9-0 | 27 (10) - 4 (2) | 2-2 |
 | 2026-11-22 | Premier League | Hull City 2-0 Brighton | fuera | 4-3 | 15 (8) - 11 (5) | 2-2 |
 | 2026-11-08 | Premier League | Brighton 2-0 Brentford | casa | 7-3 | 20 (6) - 5 (0) | 4-2 |
 | 2026-11-05 | Conference League | Getafe 0-1 Brighton | fuera | 5-5 | 15 (3) - 8 (4) | 4-1 |
 | 2026-10-31 | Premier League | Manchester City 0-1 Brighton | fuera | 2-8 | 7 (3) - 21 (6) | 3-0 |
 | 2026-10-28 | Carabao Cup | Manchester City 2-2 Brighton | fuera | 7-3 | 17 (6) - 13 (3) | 3-1 |
-| 2026-10-25 | Premier League | Liverpool 2-0 Brighton | fuera | 2-4 | 17 (1) - 13 (4) | 2-0 |
 
 ## Jugadores de Brighton
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| P. Groß | M | 18 | 1526 | 5 | 4 | 24 | 1,3 | 9 | 0,5 | 21 | 4 | 0,2 | 4 | 0 |
+| P. Groß | M | 19 | 1598 | 5 | 4 | 28 | 1,5 | 11 | 0,6 | 21 | 4 | 0,2 | 4 | 0 |
 | B. Verbruggen | G | 16 | 1436 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
 | O. Boscagli | D | 18 | 1387 | 1 | 1 | 9 | 0,5 | 3 | 0,2 | 15 | 13 | 0,7 | 4 | 0 |
-| L. Vušković | D | 17 | 1356 | 1 | 1 | 21 | 1,2 | 4 | 0,2 | 21 | 20 | 1,2 | 2 | 0 |
-| Y. Ayari | M | 17 | 1240 | 3 | 0 | 33 | 1,9 | 11 | 0,6 | 10 | 14 | 0,8 | 2 | 0 |
+| L. Vušković | D | 18 | 1384 | 1 | 1 | 21 | 1,2 | 4 | 0,2 | 24 | 20 | 1,1 | 2 | 0 |
+| Y. Ayari | M | 18 | 1285 | 3 | 0 | 34 | 1,9 | 11 | 0,6 | 11 | 14 | 0,8 | 3 | 0 |
 | D. Gómez | M | 16 | 1211 | 2 | 2 | 32 | 2,0 | 13 | 0,8 | 18 | 4 | 0,2 | 0 | 0 |
-| M. De Cuyper | M | 17 | 1098 | 4 | 4 | 16 | 0,9 | 5 | 0,3 | 17 | 12 | 0,7 | 4 | 0 |
+| M. De Cuyper | D | 18 | 1143 | 5 | 4 | 18 | 1,0 | 6 | 0,3 | 18 | 13 | 0,7 | 4 | 0 |
+| C. Kostoulas | F | 15 | 1038 | 6 | 3 | 41 | 2,7 | 15 | 1,0 | 19 | 13 | 0,9 | 1 | 0 |
+| Costinha | D | 17 | 986 | 0 | 1 | 10 | 0,6 | 2 | 0,1 | 16 | 7 | 0,4 | 5 | 1 |
 | L. Dunk | D | 14 | 979 | 1 | 0 | 3 | 0,2 | 2 | 0,1 | 9 | 6 | 0,4 | 3 | 0 |
-| C. Kostoulas | F | 14 | 948 | 5 | 3 | 38 | 2,7 | 14 | 1,0 | 17 | 13 | 0,9 | 1 | 0 |
-| Costinha | D | 16 | 941 | 0 | 1 | 10 | 0,6 | 2 | 0,1 | 16 | 6 | 0,4 | 4 | 1 |
 | M. Yalcouyé | M | 17 | 826 | 4 | 0 | 13 | 0,8 | 7 | 0,4 | 13 | 15 | 0,9 | 0 | 0 |
+| F. Kadıoğlu | D | 11 | 723 | 0 | 1 | 8 | 0,7 | 2 | 0,2 | 3 | 8 | 0,7 | 2 | 0 |
+| José María Andrés Baixauli | M | 11 | 695 | 1 | 1 | 6 | 0,5 | 1 | 0,1 | 20 | 5 | 0,5 | 5 | 0 |
 | G. Rutter | F | 14 | 661 | 3 | 4 | 24 | 1,7 | 12 | 0,9 | 12 | 5 | 0,4 | 1 | 0 |
-| José María Andrés Baixauli | M | 10 | 650 | 1 | 1 | 6 | 0,6 | 1 | 0,1 | 19 | 4 | 0,4 | 5 | 0 |
-| F. Kadıoğlu | D | 10 | 633 | 0 | 0 | 6 | 0,6 | 2 | 0,2 | 3 | 8 | 0,8 | 2 | 0 |
-| J. Hinshelwood | M | 11 | 484 | 4 | 0 | 15 | 1,4 | 8 | 0,7 | 9 | 5 | 0,5 | 0 | 0 |
+| J. Hinshelwood | M | 12 | 574 | 4 | 1 | 22 | 1,8 | 10 | 0,8 | 9 | 5 | 0,4 | 0 | 0 |
+| M. Svoboda | D | 7 | 453 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 8 | 0 | 0,0 | 2 | 0 |
+| I. Osman | F | 10 | 397 | 2 | 3 | 15 | 1,5 | 4 | 0,4 | 8 | 4 | 0,4 | 0 | 0 |
+| M. O&apos;Riley | F | 9 | 384 | 1 | 0 | 8 | 0,9 | 3 | 0,3 | 1 | 4 | 0,4 | 0 | 0 |
 | M. Wieffer | M | 7 | 373 | 1 | 0 | 7 | 1,0 | 1 | 0,1 | 6 | 5 | 0,7 | 2 | 0 |
 | Jaouen Hadjam | M | 7 | 366 | 1 | 2 | 4 | 0,6 | 2 | 0,3 | 6 | 1 | 0,1 | 2 | 0 |
-| Michael Svoboda | D | 6 | 363 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 7 | 0 | 0,0 | 2 | 0 |
-| Matt O'Riley | M | 8 | 339 | 1 | 0 | 8 | 1,0 | 3 | 0,4 | 1 | 3 | 0,4 | 0 | 0 |
-| I. Osman | F | 9 | 307 | 0 | 2 | 11 | 1,2 | 1 | 0,1 | 7 | 3 | 0,3 | 0 | 0 |

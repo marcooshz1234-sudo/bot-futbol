@@ -1,10 +1,57 @@
 # Farense – União de Leiria
-**Segunda Liga** · Regular Season - 12 · 28/11/2026 16:30 (hora España)
+**Segunda Liga** · Regular Season - 12 · 28/11/2026 16:30 (hora España) · Estádio de São Luís
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 26/11 23:02_
+
+- **1X2:** 1 **2.05**  ·  X **3.10**  ·  2 **3.20**
+- **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.67**
+- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
+- **Goles más/menos:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Córners más/menos:**
+    - 9,5: más **1.67** · menos **2.10**
+    - 10: más **1.90** · menos **1.90**
+    - 10,5: más **2.10** · menos **1.67**
+- **Córners 1X2:** 1 **1.62**  ·  X **8.50**  ·  2 **2.62**
+- **1X2 descanso:** 1 **2.75**  ·  X **2.25**  ·  2 **3.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **1.62**  ·  2 **2.00**
+- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **4.33**
+- **Win Both Halves:** 1 **7.00**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.00**  ·  Away/Yes **6.00**  ·  Home/No **4.00**  ·  Draw/No **11.00**  ·  Away/No **6.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.60**
+- **Home Corners Over/Under:**
+    - 5,5: más **1.83** · menos **1.83**
+- **Away Corners Over/Under:**
+    - 4,5: más **2.10** · menos **1.67**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.85**  ·  Menos de 4.5 **1.95**
 
 ## Estadísticas de equipo
 | | Farense (total) | Farense en casa | União de Leiria (total) | União de Leiria fuera |

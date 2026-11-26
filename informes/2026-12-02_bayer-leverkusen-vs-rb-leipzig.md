@@ -1,7 +1,7 @@
 # Bayer Leverkusen – RB Leipzig
 **DFB-Pokal** · Round of 16 · 02/12/2026 18:00 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,40 +9,40 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Bayer Leverkusen (total) | Bayer Leverkusen en casa | RB Leipzig (total) | RB Leipzig fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 8 | 17 | 9 |
-| Forma (últimos 5) | VVDDV | VDDVV | VVVDV | VVVDD |
-| Balance | 11V 1E 4D | 6V 0E 2D | 11V 0E 6D | 4V 0E 5D |
-| Goles a favor / partido | 2,56 | 2,62 | 2,82 | 2,11 |
-| Goles en contra / partido | 1,25 | 1,00 | 1,59 | 2,33 |
-| Goles a favor 1ª parte | 1,12 | 1,00 | 1,00 | 0,56 |
-| Goles a favor 2ª parte | 1,44 | 1,62 | 1,82 | 1,56 |
-| Goles en contra 1ª parte | 0,56 | 0,62 | 0,71 | 1,11 |
-| Goles en contra 2ª parte | 0,69 | 0,38 | 0,88 | 1,22 |
+| Partidos analizados | 17 | 8 | 17 | 9 |
+| Forma (últimos 5) | VVVDD | VDDVV | VVVDV | VVVDD |
+| Balance | 12V 1E 4D | 6V 0E 2D | 11V 0E 6D | 4V 0E 5D |
+| Goles a favor / partido | 2,53 | 2,62 | 2,82 | 2,11 |
+| Goles en contra / partido | 1,18 | 1,00 | 1,59 | 2,33 |
+| Goles a favor 1ª parte | 1,18 | 1,00 | 1,00 | 0,56 |
+| Goles a favor 2ª parte | 1,35 | 1,62 | 1,82 | 1,56 |
+| Goles en contra 1ª parte | 0,53 | 0,62 | 0,71 | 1,11 |
+| Goles en contra 2ª parte | 0,65 | 0,38 | 0,88 | 1,22 |
 | Más de 1,5 goles | 94% | 88% | 94% | 100% |
-| Más de 2,5 goles | 75% | 62% | 82% | 78% |
-| Más de 3,5 goles | 56% | 50% | 71% | 67% |
-| Ambos marcan | 44% | 38% | 53% | 67% |
-| Portería a cero | 44% | 50% | 41% | 22% |
+| Más de 2,5 goles | 71% | 62% | 82% | 78% |
+| Más de 3,5 goles | 53% | 50% | 71% | 67% |
+| Ambos marcan | 41% | 38% | 53% | 67% |
+| Portería a cero | 47% | 50% | 41% | 22% |
 | Se queda sin marcar | 12% | 12% | 6% | 11% |
-| xG a favor | 2,43 | 2,39 | 2,31 | 2,26 |
-| xG en contra | 1,36 | 1,15 | 1,65 | 1,97 |
-| Tiros / partido | 19,4 | 18,4 | 17,6 | 17,4 |
-| Tiros a puerta / partido | 7,4 | 7,5 | 6,7 | 6,1 |
-| Tiros recibidos | 10,4 | 8,6 | 13,0 | 14,0 |
+| xG a favor | 2,36 | 2,39 | 2,31 | 2,26 |
+| xG en contra | 1,35 | 1,15 | 1,65 | 1,97 |
+| Tiros / partido | 18,8 | 18,4 | 17,6 | 17,4 |
+| Tiros a puerta / partido | 7,1 | 7,5 | 6,7 | 6,1 |
+| Tiros recibidos | 10,6 | 8,6 | 13,0 | 14,0 |
 | Tiros a puerta recibidos | 3,4 | 2,6 | 5,8 | 6,6 |
 | Posesión media % | 60 | 58 | 54 | 56 |
 | Córners a favor | 7,2 | 8,6 | 5,7 | 6,1 |
-| Córners en contra | 3,3 | 2,9 | 5,3 | 4,9 |
-| Córners a favor 1ª parte | 2,9 | 3,6 | 2,4 | 2,7 |
-| Córners a favor 2ª parte | 4,4 | 5,0 | 3,3 | 3,4 |
+| Córners en contra | 3,5 | 2,9 | 5,3 | 4,9 |
+| Córners a favor 1ª parte | 3,1 | 3,6 | 2,4 | 2,7 |
+| Córners a favor 2ª parte | 4,1 | 5,0 | 3,3 | 3,4 |
 | Córners totales del partido | 10,6 | 11,5 | 11,0 | 11,0 |
-| Córners totales 1ª parte | 4,8 | 5,0 | 4,6 | 4,2 |
-| Córners totales 2ª parte | 5,8 | 6,5 | 6,4 | 6,8 |
-| Más de 8,5 córners | 50% | 62% | 76% | 78% |
-| Más de 9,5 córners | 44% | 62% | 65% | 67% |
-| Más de 10,5 córners | 44% | 62% | 53% | 56% |
-| Faltas cometidas | 12,0 | 11,0 | 11,0 | 10,1 |
-| Faltas recibidas | 10,1 | 9,5 | 12,1 | 12,3 |
+| Córners totales 1ª parte | 5,1 | 5,0 | 4,6 | 4,2 |
+| Córners totales 2ª parte | 5,5 | 6,5 | 6,4 | 6,8 |
+| Más de 8,5 córners | 53% | 62% | 76% | 78% |
+| Más de 9,5 córners | 47% | 62% | 65% | 67% |
+| Más de 10,5 córners | 47% | 62% | 53% | 56% |
+| Faltas cometidas | 11,5 | 11,0 | 11,0 | 10,1 |
+| Faltas recibidas | 10,5 | 9,5 | 12,1 | 12,3 |
 | Amarillas propias | 1,9 | 1,6 | 1,4 | 1,4 |
 | Amarillas del rival | 2,1 | 1,8 | 1,8 | 1,6 |
 | Rojas / partido | 0,00 | 0,00 | 0,06 | 0,11 |
@@ -50,12 +50,12 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Bayer Leverkusen | Recibe Bayer Leverkusen | Tarjetas Bayer Leverkusen | Goles RB Leipzig | Recibe RB Leipzig | Tarjetas RB Leipzig |
 |---|---|---|---|---|---|---|
-| 1-15' | 6 | 5 | 2 | 6 | 5 | 4 |
+| 1-15' | 7 | 5 | 2 | 6 | 5 | 4 |
 | 16-30' | 5 | 2 | 3 | 4 | 1 | 4 |
-| 31-45' | 7 | 2 | 4 | 7 | 6 | 3 |
+| 31-45' | 8 | 2 | 4 | 7 | 6 | 3 |
 | 46-60' | 8 | 4 | 7 | 7 | 7 | 4 |
 | 61-75' | 5 | 1 | 5 | 8 | 2 | 6 |
-| 76-90' | 10 | 6 | 13 | 16 | 6 | 7 |
+| 76-90' | 10 | 6 | 14 | 16 | 6 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -73,35 +73,35 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Bayer Leverkusen
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-26 | Europa League | Dinamo Zagreb 0-2 Bayer Leverkusen | fuera | 6-6 | 9 (2) - 14 (3) | 1-3 |
 | 2026-11-21 | Bundesliga | Bayer Leverkusen 4-0 SC Paderborn 07 | casa | 8-3 | 20 (10) - 8 (1) | 2-0 |
 | 2026-11-08 | Bundesliga | 1. FC Köln 1-2 Bayer Leverkusen | fuera | 6-2 | 14 (8) - 12 (6) | 5-6 |
 | 2026-11-05 | Europa League | Bayer Leverkusen 0-1 Marseille | casa | 6-2 | 10 (3) - 8 (2) | 1-3 |
 | 2026-10-31 | Bundesliga | Bayer Leverkusen 2-4 VfB Stuttgart | casa | 12-3 | 24 (8) - 15 (7) | 4-4 |
 | 2026-10-28 | DFB-Pokal | Bayer Leverkusen 5-2 1. FC Nürnberg | casa | 13-3 | 25 (10) - 5 (3) | 2-1 |
-| 2026-10-25 | Bundesliga | 1899 Hoffenheim 3-0 Bayer Leverkusen | fuera | 3-5 | 9 (1) - 20 (6) | 4-2 |
 
 ## Jugadores de Bayer Leverkusen
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Aleix García | M | 16 | 1399 | 1 | 5 | 18 | 1,1 | 6 | 0,4 | 5 | 4 | 0,2 | 3 | 0 |
-| E. Tapsoba | D | 16 | 1354 | 2 | 1 | 12 | 0,8 | 5 | 0,3 | 7 | 6 | 0,4 | 2 | 0 |
-| Miguel Gutiérrez | D | 15 | 1252 | 1 | 4 | 10 | 0,7 | 4 | 0,3 | 14 | 10 | 0,7 | 3 | 0 |
-| M. Flekken | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| P. Schick | F | 16 | 1166 | 13 | 2 | 52 | 3,2 | 26 | 1,6 | 13 | 13 | 0,8 | 1 | 0 |
-| F. Medina | D | 15 | 1100 | 2 | 0 | 10 | 0,7 | 6 | 0,4 | 16 | 8 | 0,5 | 4 | 0 |
-| I. Maza | M | 14 | 1096 | 4 | 4 | 30 | 2,1 | 9 | 0,6 | 21 | 20 | 1,4 | 3 | 0 |
-| J. Quansah | D | 15 | 1049 | 1 | 1 | 15 | 1,0 | 3 | 0,2 | 16 | 9 | 0,6 | 2 | 0 |
+| Aleix García | M | 17 | 1489 | 1 | 5 | 19 | 1,1 | 6 | 0,4 | 5 | 5 | 0,3 | 3 | 0 |
+| E. Tapsoba | D | 17 | 1370 | 2 | 1 | 12 | 0,7 | 5 | 0,3 | 7 | 6 | 0,4 | 2 | 0 |
+| Miguel Gutiérrez | D | 16 | 1326 | 1 | 4 | 10 | 0,6 | 4 | 0,2 | 14 | 11 | 0,7 | 3 | 0 |
+| M. Flekken | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| P. Schick | F | 17 | 1228 | 13 | 2 | 52 | 3,1 | 26 | 1,5 | 13 | 15 | 0,9 | 1 | 0 |
+| F. Medina | D | 16 | 1190 | 2 | 0 | 10 | 0,6 | 6 | 0,4 | 16 | 8 | 0,5 | 4 | 0 |
+| I. Maza | M | 15 | 1158 | 4 | 4 | 31 | 2,1 | 9 | 0,6 | 21 | 21 | 1,4 | 3 | 0 |
+| J. Quansah | D | 16 | 1131 | 2 | 1 | 18 | 1,1 | 4 | 0,2 | 16 | 12 | 0,8 | 2 | 0 |
 | Afonso Moreira | M | 16 | 1045 | 2 | 4 | 34 | 2,1 | 18 | 1,1 | 12 | 19 | 1,2 | 2 | 0 |
 | E. Fernández | M | 16 | 1007 | 2 | 0 | 9 | 0,6 | 4 | 0,2 | 16 | 23 | 1,4 | 5 | 0 |
-| M. Tillman | M | 15 | 757 | 1 | 3 | 10 | 0,7 | 5 | 0,3 | 12 | 16 | 1,1 | 0 | 0 |
+| M. Tillman | M | 16 | 847 | 2 | 3 | 12 | 0,8 | 6 | 0,4 | 12 | 19 | 1,2 | 0 | 0 |
+| L. Badé | D | 10 | 626 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 14 | 1 | 0,1 | 2 | 0 |
+| M. Diaby | M | 11 | 619 | 1 | 1 | 9 | 0,8 | 2 | 0,2 | 7 | 2 | 0,2 | 1 | 0 |
 | Lucas Vázquez | M | 11 | 587 | 2 | 0 | 6 | 0,5 | 3 | 0,3 | 9 | 12 | 1,1 | 1 | 0 |
-| M. Diaby | F | 10 | 545 | 1 | 0 | 8 | 0,8 | 2 | 0,2 | 6 | 2 | 0,2 | 1 | 0 |
-| L. Badé | D | 9 | 536 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 13 | 1 | 0,1 | 1 | 0 |
-| R. Andrich | M | 11 | 430 | 1 | 0 | 8 | 0,7 | 4 | 0,4 | 12 | 3 | 0,3 | 1 | 0 |
-| N. Tella | M | 8 | 351 | 1 | 2 | 17 | 2,1 | 7 | 0,9 | 6 | 4 | 0,5 | 0 | 0 |
-| J. Hofmann | M | 10 | 349 | 3 | 0 | 11 | 1,1 | 7 | 0,7 | 2 | 1 | 0,1 | 1 | 0 |
+| R. Andrich | M | 12 | 520 | 1 | 0 | 8 | 0,7 | 4 | 0,3 | 13 | 4 | 0,3 | 1 | 0 |
+| N. Tella | F | 9 | 379 | 1 | 2 | 17 | 1,9 | 7 | 0,8 | 6 | 7 | 0,8 | 0 | 0 |
+| J. Hofmann | M | 11 | 365 | 3 | 0 | 11 | 1,0 | 7 | 0,6 | 2 | 1 | 0,1 | 1 | 0 |
 | J. Blaswich | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,7 | 0 | 0 |
-| Christian Kofane | F | 7 | 199 | 3 | 0 | 12 | 1,7 | 5 | 0,7 | 8 | 1 | 0,1 | 0 | 0 |
+| Christian Kofane | F | 8 | 227 | 3 | 0 | 13 | 1,6 | 5 | 0,6 | 8 | 1 | 0,1 | 0 | 0 |
 | M. Terrier | F | 4 | 117 | 0 | 0 | 5 | 1,2 | 3 | 0,8 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de RB Leipzig

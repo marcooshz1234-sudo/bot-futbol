@@ -1,10 +1,10 @@
 # Chelsea – Crystal Palace
 **Premier League** · Regular Season - 13 · 02/12/2026 20:30 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:24_
+_Actualizadas: 26/11 23:04_
 
 - **1X2:** 1 **1.60**  ·  X **4.33**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.20**  ·  X2 **2.30**
@@ -52,53 +52,53 @@ _Actualizadas: 24/11 23:24_
 ## Estadísticas de equipo
 | | Chelsea (total) | Chelsea en casa | Crystal Palace (total) | Crystal Palace fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 8 | 17 | 9 |
-| Forma (últimos 5) | DDVED | DVDVE | DDEDV | DDVED |
-| Balance | 7V 2E 5D | 5V 1E 2D | 5V 3E 9D | 2V 2E 5D |
-| Goles a favor / partido | 2,07 | 2,75 | 1,47 | 1,11 |
-| Goles en contra / partido | 1,71 | 1,88 | 1,94 | 2,11 |
-| Goles a favor 1ª parte | 0,79 | 0,88 | 0,65 | 0,44 |
-| Goles a favor 2ª parte | 1,29 | 1,88 | 0,82 | 0,67 |
-| Goles en contra 1ª parte | 0,64 | 0,62 | 1,06 | 1,33 |
-| Goles en contra 2ª parte | 1,07 | 1,25 | 0,88 | 0,78 |
-| Más de 1,5 goles | 93% | 100% | 88% | 78% |
-| Más de 2,5 goles | 57% | 62% | 65% | 56% |
-| Más de 3,5 goles | 43% | 62% | 59% | 56% |
-| Ambos marcan | 57% | 62% | 53% | 44% |
-| Portería a cero | 21% | 25% | 24% | 22% |
-| Se queda sin marcar | 21% | 12% | 29% | 44% |
-| xG a favor | 1,49 | 1,72 | 1,29 | 1,15 |
-| xG en contra | 1,59 | 1,35 | 1,97 | 1,93 |
-| Tiros / partido | 14,5 | 15,1 | 10,8 | 8,7 |
+| Partidos analizados | 14 | 8 | 18 | 9 |
+| Forma (últimos 5) | DDVED | DVDVE | VDDED | DDVED |
+| Balance | 7V 2E 5D | 5V 1E 2D | 6V 3E 9D | 2V 2E 5D |
+| Goles a favor / partido | 2,07 | 2,75 | 1,50 | 1,11 |
+| Goles en contra / partido | 1,71 | 1,88 | 1,89 | 2,11 |
+| Goles a favor 1ª parte | 0,79 | 0,88 | 0,61 | 0,44 |
+| Goles a favor 2ª parte | 1,29 | 1,88 | 0,89 | 0,67 |
+| Goles en contra 1ª parte | 0,64 | 0,62 | 1,00 | 1,33 |
+| Goles en contra 2ª parte | 1,07 | 1,25 | 0,89 | 0,78 |
+| Más de 1,5 goles | 93% | 100% | 89% | 78% |
+| Más de 2,5 goles | 57% | 62% | 67% | 56% |
+| Más de 3,5 goles | 43% | 62% | 56% | 56% |
+| Ambos marcan | 57% | 62% | 56% | 44% |
+| Portería a cero | 21% | 25% | 22% | 22% |
+| Se queda sin marcar | 21% | 12% | 28% | 44% |
+| xG a favor | 1,49 | 1,72 | 1,50 | 1,15 |
+| xG en contra | 1,59 | 1,35 | 2,02 | 1,93 |
+| Tiros / partido | 14,5 | 15,1 | 11,1 | 8,7 |
 | Tiros a puerta / partido | 5,6 | 6,4 | 4,1 | 3,3 |
-| Tiros recibidos | 12,8 | 13,9 | 16,4 | 16,2 |
-| Tiros a puerta recibidos | 5,1 | 4,9 | 5,5 | 5,3 |
-| Posesión media % | 51 | 51 | 46 | 42 |
-| Córners a favor | 5,4 | 5,2 | 3,4 | 2,3 |
+| Tiros recibidos | 12,8 | 13,9 | 16,5 | 16,2 |
+| Tiros a puerta recibidos | 5,1 | 4,9 | 5,6 | 5,3 |
+| Posesión media % | 51 | 51 | 45 | 42 |
+| Córners a favor | 5,4 | 5,2 | 3,3 | 2,3 |
 | Córners en contra | 5,0 | 5,1 | 6,2 | 6,8 |
 | Córners a favor 1ª parte | 2,5 | 3,0 | 1,5 | 0,8 |
 | Córners a favor 2ª parte | 2,9 | 2,2 | 1,8 | 1,6 |
 | Córners totales del partido | 10,4 | 10,4 | 9,5 | 9,1 |
-| Córners totales 1ª parte | 5,3 | 5,9 | 3,9 | 3,6 |
-| Córners totales 2ª parte | 5,1 | 4,5 | 5,6 | 5,6 |
-| Más de 8,5 córners | 64% | 62% | 59% | 44% |
-| Más de 9,5 córners | 64% | 62% | 47% | 33% |
-| Más de 10,5 córners | 50% | 50% | 35% | 22% |
+| Córners totales 1ª parte | 5,3 | 5,9 | 3,8 | 3,6 |
+| Córners totales 2ª parte | 5,1 | 4,5 | 5,7 | 5,6 |
+| Más de 8,5 córners | 64% | 62% | 61% | 44% |
+| Más de 9,5 córners | 64% | 62% | 44% | 33% |
+| Más de 10,5 córners | 50% | 50% | 33% | 22% |
 | Faltas cometidas | 9,1 | 8,1 | 10,9 | 11,7 |
-| Faltas recibidas | 12,6 | 13,1 | 10,5 | 8,9 |
-| Amarillas propias | 1,7 | 0,9 | 1,6 | 1,6 |
+| Faltas recibidas | 12,6 | 13,1 | 10,4 | 8,9 |
+| Amarillas propias | 1,7 | 0,9 | 1,7 | 1,6 |
 | Amarillas del rival | 2,8 | 2,9 | 1,8 | 1,1 |
-| Rojas / partido | 0,07 | 0,12 | 0,18 | 0,11 |
+| Rojas / partido | 0,07 | 0,12 | 0,17 | 0,11 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Chelsea | Recibe Chelsea | Tarjetas Chelsea | Goles Crystal Palace | Recibe Crystal Palace | Tarjetas Crystal Palace |
 |---|---|---|---|---|---|---|
 | 1-15' | 7 | 0 | 3 | 3 | 8 | 1 |
 | 16-30' | 1 | 5 | 1 | 1 | 4 | 2 |
-| 31-45' | 3 | 4 | 5 | 7 | 6 | 5 |
+| 31-45' | 3 | 4 | 5 | 7 | 6 | 6 |
 | 46-60' | 8 | 6 | 5 | 7 | 7 | 7 |
-| 61-75' | 6 | 3 | 4 | 2 | 2 | 8 |
-| 76-90' | 4 | 6 | 9 | 5 | 6 | 8 |
+| 61-75' | 6 | 3 | 4 | 3 | 3 | 9 |
+| 76-90' | 4 | 6 | 9 | 6 | 6 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -150,33 +150,33 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Crystal Palace
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-26 | Europa League | Crystal Palace 2-1 Real Sociedad | casa | 2-7 | 16 (4) - 19 (7) | 2-3 |
 | 2026-11-21 | Premier League | Coventry 3-2 Crystal Palace | fuera | 6-4 | 14 (5) - 11 (7) | 2-1 |
 | 2026-11-08 | Premier League | Crystal Palace 1-3 Liverpool | casa | 4-7 | 19 (7) - 20 (8) | 2-4 |
 | 2026-11-05 | Europa League | Crystal Palace 1-1 1899 Hoffenheim | casa | 5-5 | 13 (5) - 15 (5) | 5-3 |
 | 2026-10-31 | Premier League | Tottenham 2-0 Crystal Palace | fuera | 0-19 | 2 (1) - 34 (9) | 1-1 |
 | 2026-10-28 | Carabao Cup | Fulham 0-1 Crystal Palace | fuera | 0-9 | 4 (3) - 14 (4) | 2-1 |
-| 2026-10-25 | Premier League | Crystal Palace 0-2 Newcastle | casa | 7-4 | 17 (4) - 10 (2) | 3-3 |
 
 ## Jugadores de Crystal Palace
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| C. Richards | D | 16 | 1424 | 1 | 0 | 9 | 0,6 | 4 | 0,2 | 11 | 2 | 0,1 | 2 | 0 |
+| C. Richards | D | 17 | 1514 | 1 | 0 | 10 | 0,6 | 4 | 0,2 | 11 | 2 | 0,1 | 2 | 0 |
+| D. Kamada | M | 18 | 1387 | 4 | 3 | 17 | 0,9 | 9 | 0,5 | 6 | 18 | 1,0 | 2 | 0 |
 | A. Wharton | M | 17 | 1382 | 0 | 3 | 7 | 0,4 | 3 | 0,2 | 12 | 21 | 1,2 | 2 | 1 |
-| T. Mitchell | D | 16 | 1350 | 2 | 0 | 8 | 0,5 | 3 | 0,2 | 13 | 9 | 0,6 | 0 | 0 |
-| D. Kamada | M | 17 | 1297 | 4 | 3 | 17 | 1,0 | 9 | 0,5 | 6 | 16 | 0,9 | 2 | 0 |
-| Yeremy Pino | M | 17 | 1184 | 5 | 1 | 27 | 1,6 | 12 | 0,7 | 17 | 22 | 1,3 | 8 | 0 |
-| J. Canvot | D | 13 | 1023 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 9 | 5 | 0,4 | 2 | 0 |
-| A. Khalaili | D | 15 | 978 | 1 | 1 | 11 | 0,7 | 2 | 0,1 | 12 | 3 | 0,2 | 2 | 0 |
-| A. Disasi | D | 11 | 843 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 11 | 3 | 0,3 | 0 | 1 |
-| J. Strand Larsen | F | 13 | 829 | 5 | 2 | 23 | 1,8 | 12 | 0,9 | 11 | 15 | 1,2 | 0 | 0 |
+| T. Mitchell | D | 17 | 1360 | 2 | 0 | 8 | 0,5 | 3 | 0,2 | 13 | 9 | 0,5 | 0 | 0 |
+| Yeremy Pino | M | 18 | 1274 | 5 | 1 | 31 | 1,7 | 13 | 0,7 | 21 | 24 | 1,3 | 9 | 0 |
+| J. Canvot | D | 14 | 1102 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 10 | 6 | 0,4 | 2 | 0 |
+| A. Khalaili | D | 16 | 989 | 1 | 1 | 11 | 0,7 | 2 | 0,1 | 12 | 3 | 0,2 | 2 | 0 |
+| A. Disasi | D | 12 | 933 | 0 | 0 | 4 | 0,3 | 0 | 0,0 | 12 | 3 | 0,2 | 1 | 1 |
+| Q. Timber | M | 12 | 874 | 0 | 1 | 11 | 0,9 | 3 | 0,2 | 12 | 21 | 1,8 | 0 | 0 |
+| J. Strand Larsen | F | 14 | 839 | 5 | 3 | 26 | 1,9 | 12 | 0,9 | 11 | 15 | 1,1 | 0 | 0 |
+| D. Henderson | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
 | W. Benítez | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Q. Timber | M | 11 | 784 | 0 | 1 | 10 | 0,9 | 3 | 0,3 | 11 | 20 | 1,8 | 0 | 0 |
-| D. Henderson | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| D. McNeil | M | 14 | 512 | 0 | 1 | 7 | 0,5 | 2 | 0,1 | 6 | 6 | 0,4 | 0 | 0 |
+| D. McNeil | F | 15 | 545 | 1 | 1 | 10 | 0,7 | 4 | 0,3 | 6 | 6 | 0,4 | 0 | 0 |
+| E. Nketiah | M | 16 | 516 | 3 | 1 | 11 | 0,7 | 5 | 0,3 | 12 | 3 | 0,2 | 1 | 0 |
 | H. Ahanor | D | 7 | 506 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 10 | 1,4 | 1 | 0 |
 | Óscar Mingueza | M | 9 | 481 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 11 | 7 | 0,8 | 1 | 0 |
-| E. Nketiah | F | 15 | 459 | 3 | 1 | 11 | 0,7 | 5 | 0,3 | 12 | 3 | 0,2 | 1 | 0 |
+| J. Mateta | F | 7 | 391 | 2 | 0 | 13 | 1,9 | 7 | 1,0 | 5 | 7 | 1,0 | 0 | 1 |
 | J. Lerma | M | 9 | 382 | 1 | 0 | 7 | 0,8 | 3 | 0,3 | 10 | 4 | 0,4 | 4 | 0 |
-| J. Mateta | F | 6 | 303 | 1 | 0 | 11 | 1,8 | 6 | 1,0 | 5 | 6 | 1,0 | 0 | 1 |
+| W. Hughes | M | 7 | 300 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 3 | 0,4 | 0 | 0 |
 | Takehiro Tomiyasu | D | 5 | 280 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 3 | 0,6 | 0 | 0 |
-| D. Osorio | M | 10 | 256 | 0 | 0 | 6 | 0,6 | 2 | 0,2 | 6 | 6 | 0,6 | 0 | 0 |

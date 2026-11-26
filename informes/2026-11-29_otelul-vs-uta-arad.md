@@ -1,27 +1,54 @@
 # Oţelul – Uta Arad
 **Liga I** · Regular Season - 17 · 29/11/2026 14:00 (hora España) · Stadionul Otelul
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Actualizadas: 25/11 09:27_
+_Actualizadas: 26/11 23:03_
 
-- **1X2:** 1 **2.80**  ·  X **3.10**  ·  2 **2.30**
-- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
+- **1X2:** 1 **2.30**  ·  X **3.10**  ·  2 **2.88**
+- **Doble oportunidad:** 1X **1.36**  ·  12 **1.33**  ·  X2 **1.53**
+- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **9.50**
-    - 1,5: más **1.30** · menos **3.40**
-    - 2,5: más **2.00** · menos **1.80**
-    - 3,5: más **3.50** · menos **1.28**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.95** · menos **1.85**
+    - 3,5: más **3.40** · menos **1.30**
     - 4,5: más **7.00** · menos **1.10**
-- **1X2 descanso:** 1 **3.50**  ·  X **2.10**  ·  2 **3.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del visitante:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Córners más/menos:**
+    - 9,5: más **1.73** · menos **2.00**
+    - 10: más **1.98** · menos **1.82**
+- **Córners 1X2:** 1 **1.83**  ·  X **8.00**  ·  2 **2.25**
+- **1X2 descanso:** 1 **3.00**  ·  X **2.20**  ·  2 **3.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
-- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **1.91**  ·  2 **1.73**
-- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **3.75**
-- **Win Both Halves:** 1 **11.00**  ·  2 **9.00**
-- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.00**  ·  Home/No **5.00**  ·  Draw/No **9.50**  ·  Away/No **4.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.30**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **To Win Either Half:** 1 **1.73**  ·  2 **1.91**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **4.33**
+- **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.00**  ·  Home/No **4.00**  ·  Draw/No **10.00**  ·  Away/No **5.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.38**
+- **Home Corners Over/Under:**
+    - 5,5: más **2.20** · menos **1.62**
+- **Away Corners Over/Under:**
+    - 4,5: más **1.83** · menos **1.83**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.88**  ·  Más de 4.5 **1.90**  ·  Menos de 4.5 **1.90**
 
 ## Estadísticas de equipo
 | | Oţelul (total) | Oţelul en casa | Uta Arad (total) | Uta Arad fuera |

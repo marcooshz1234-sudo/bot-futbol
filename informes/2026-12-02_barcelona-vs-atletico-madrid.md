@@ -1,25 +1,25 @@
 # Barcelona – Atletico Madrid
 **LaLiga** · Regular Season - 23 · 02/12/2026 21:30 (hora España) · Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:25_
+_Actualizadas: 26/11 23:05_
 
 - **1X2:** 1 **1.38**  ·  X **5.00**  ·  2 **6.50**
-- **Doble oportunidad:** 1X **1.12**  ·  12 **1.17**  ·  X2 **2.75**
+- **Doble oportunidad:** 1X **1.11**  ·  12 **1.17**  ·  X2 **3.00**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
     - 1,5: más **1.08** · menos **8.00**
-    - 2,5: más **1.28** · menos **3.75**
+    - 2,5: más **1.30** · menos **3.50**
     - 3,5: más **1.73** · menos **2.10**
     - 4,5: más **2.62** · menos **1.50**
-    - 5,5: más **4.33** · menos **1.22**
+    - 5,5: más **4.50** · menos **1.20**
     - 6,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.40** · menos **1.30**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
     - 3,5: más **8.00** · menos **1.08**
 - **Goles del local:**
     - 0,5: más **1.04** · menos **13.00**
@@ -55,52 +55,52 @@ _Actualizadas: 24/11 23:25_
 ## Estadísticas de equipo
 | | Barcelona (total) | Barcelona en casa | Atletico Madrid (total) | Atletico Madrid fuera |
 |---|---|---|---|---|
-| Partidos analizados | 17 | 9 | 17 | 9 |
-| Forma (últimos 5) | VVVVD | VVVDV | VDDVV | VVEVV |
-| Balance | 15V 0E 2D | 8V 0E 1D | 11V 2E 4D | 6V 1E 2D |
-| Goles a favor / partido | 3,82 | 3,89 | 1,76 | 1,78 |
-| Goles en contra / partido | 1,24 | 1,11 | 0,88 | 0,89 |
-| Goles a favor 1ª parte | 1,59 | 1,78 | 0,65 | 0,89 |
-| Goles a favor 2ª parte | 2,24 | 2,11 | 1,12 | 0,89 |
-| Goles en contra 1ª parte | 0,59 | 0,56 | 0,24 | 0,33 |
-| Goles en contra 2ª parte | 0,65 | 0,56 | 0,65 | 0,56 |
-| Más de 1,5 goles | 100% | 100% | 88% | 89% |
-| Más de 2,5 goles | 94% | 89% | 59% | 67% |
-| Más de 3,5 goles | 71% | 56% | 18% | 11% |
-| Ambos marcan | 71% | 67% | 41% | 44% |
-| Portería a cero | 29% | 33% | 47% | 44% |
-| Se queda sin marcar | 0% | 0% | 12% | 11% |
-| xG a favor | 3,07 | 3,10 | 1,63 | 1,57 |
-| xG en contra | 1,11 | 0,86 | 1,21 | 1,06 |
-| Tiros / partido | 20,6 | 22,4 | 15,2 | 14,6 |
-| Tiros a puerta / partido | 7,9 | 8,3 | 5,6 | 5,6 |
-| Tiros recibidos | 7,7 | 6,6 | 12,4 | 13,3 |
-| Tiros a puerta recibidos | 3,6 | 2,4 | 3,6 | 3,6 |
-| Posesión media % | 68 | 71 | 56 | 59 |
-| Córners a favor | 6,2 | 8,4 | 5,2 | 6,0 |
-| Córners en contra | 2,8 | 3,3 | 3,7 | 4,8 |
+| Partidos analizados | 18 | 9 | 18 | 9 |
+| Forma (últimos 5) | VVVVV | VVVDV | VVDDV | VVEVV |
+| Balance | 16V 0E 2D | 8V 0E 1D | 12V 2E 4D | 6V 1E 2D |
+| Goles a favor / partido | 3,83 | 3,89 | 1,78 | 1,78 |
+| Goles en contra / partido | 1,22 | 1,11 | 0,83 | 0,89 |
+| Goles a favor 1ª parte | 1,56 | 1,78 | 0,72 | 0,89 |
+| Goles a favor 2ª parte | 2,28 | 2,11 | 1,06 | 0,89 |
+| Goles en contra 1ª parte | 0,56 | 0,56 | 0,22 | 0,33 |
+| Goles en contra 2ª parte | 0,67 | 0,56 | 0,61 | 0,56 |
+| Más de 1,5 goles | 100% | 100% | 89% | 89% |
+| Más de 2,5 goles | 94% | 89% | 56% | 67% |
+| Más de 3,5 goles | 72% | 56% | 17% | 11% |
+| Ambos marcan | 72% | 67% | 39% | 44% |
+| Portería a cero | 28% | 33% | 50% | 44% |
+| Se queda sin marcar | 0% | 0% | 11% | 11% |
+| xG a favor | 3,14 | 3,10 | 1,65 | 1,57 |
+| xG en contra | 1,11 | 0,86 | 1,17 | 1,06 |
+| Tiros / partido | 20,9 | 22,4 | 15,5 | 14,6 |
+| Tiros a puerta / partido | 8,3 | 8,3 | 5,8 | 5,6 |
+| Tiros recibidos | 7,7 | 6,6 | 12,2 | 13,3 |
+| Tiros a puerta recibidos | 3,6 | 2,4 | 3,4 | 3,6 |
+| Posesión media % | 69 | 71 | 56 | 59 |
+| Córners a favor | 6,2 | 8,4 | 5,3 | 6,0 |
+| Córners en contra | 2,8 | 3,3 | 3,6 | 4,8 |
 | Córners a favor 1ª parte | 3,2 | 4,8 | 2,4 | 2,6 |
-| Córners a favor 2ª parte | 2,9 | 3,7 | 2,9 | 3,4 |
-| Córners totales del partido | 8,9 | 11,8 | 8,9 | 10,8 |
-| Córners totales 1ª parte | 4,8 | 6,4 | 4,1 | 4,8 |
-| Córners totales 2ª parte | 4,2 | 5,3 | 4,8 | 6,0 |
-| Más de 8,5 córners | 41% | 78% | 41% | 78% |
-| Más de 9,5 córners | 41% | 78% | 35% | 67% |
-| Más de 10,5 córners | 35% | 67% | 29% | 56% |
-| Faltas cometidas | 10,9 | 11,1 | 11,4 | 9,9 |
-| Faltas recibidas | 11,2 | 11,4 | 10,8 | 11,8 |
-| Amarillas propias | 1,4 | 1,7 | 1,9 | 1,7 |
-| Amarillas del rival | 2,1 | 2,6 | 1,5 | 1,2 |
-| Rojas / partido | 0,06 | 0,11 | 0,12 | 0,11 |
+| Córners a favor 2ª parte | 3,0 | 3,7 | 2,8 | 3,4 |
+| Córners totales del partido | 9,0 | 11,8 | 8,8 | 10,8 |
+| Córners totales 1ª parte | 4,7 | 6,4 | 4,1 | 4,8 |
+| Córners totales 2ª parte | 4,3 | 5,3 | 4,7 | 6,0 |
+| Más de 8,5 córners | 44% | 78% | 39% | 78% |
+| Más de 9,5 córners | 44% | 78% | 33% | 67% |
+| Más de 10,5 córners | 33% | 67% | 28% | 56% |
+| Faltas cometidas | 10,7 | 11,1 | 11,1 | 9,9 |
+| Faltas recibidas | 11,1 | 11,4 | 10,7 | 11,8 |
+| Amarillas propias | 1,3 | 1,7 | 1,8 | 1,7 |
+| Amarillas del rival | 2,0 | 2,6 | 1,5 | 1,2 |
+| Rojas / partido | 0,06 | 0,11 | 0,11 | 0,11 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Barcelona | Recibe Barcelona | Tarjetas Barcelona | Goles Atletico Madrid | Recibe Atletico Madrid | Tarjetas Atletico Madrid |
 |---|---|---|---|---|---|---|
 | 1-15' | 9 | 4 | 0 | 4 | 0 | 1 |
-| 16-30' | 9 | 4 | 3 | 4 | 0 | 2 |
-| 31-45' | 9 | 2 | 5 | 3 | 4 | 10 |
-| 46-60' | 11 | 2 | 6 | 6 | 4 | 4 |
-| 61-75' | 14 | 2 | 5 | 3 | 4 | 4 |
+| 16-30' | 9 | 4 | 3 | 6 | 0 | 2 |
+| 31-45' | 10 | 2 | 5 | 3 | 4 | 10 |
+| 46-60' | 14 | 2 | 6 | 6 | 4 | 4 |
+| 61-75' | 14 | 3 | 5 | 3 | 4 | 4 |
 | 76-90' | 13 | 7 | 6 | 10 | 3 | 15 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -119,67 +119,67 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Barcelona
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-25 | Champions League | Sabah FA 1-4 Barcelona | fuera | 6-4 | 25 (14) - 8 (3) | 0-1 |
 | 2026-11-22 | LaLiga | Barcelona 3-2 Villarreal | casa | 10-0 | 30 (9) - 4 (2) | 2-4 |
 | 2026-11-08 | LaLiga | Atletico Madrid 1-2 Barcelona | fuera | 2-4 | 19 (4) - 9 (4) | 1-3 |
 | 2026-11-03 | Champions League | Barcelona 3-0 Aston Villa | casa | 4-8 | 16 (8) - 9 (1) | 1-3 |
 | 2026-10-31 | LaLiga | Barcelona 6-1 Alaves | casa | 4-3 | 13 (7) - 7 (3) | 2-3 |
 | 2026-10-25 | LaLiga | Barcelona 1-2 Real Madrid | casa | 6-6 | 18 (6) - 10 (5) | 3-3 |
-| 2026-10-20 | Champions League | Paris Saint Germain 4-2 Barcelona | fuera | 3-2 | 18 (5) - 22 (14) | 1-0 |
 
 ## Jugadores de Barcelona
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Joan García | G | 17 | 1485 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,2 | 0 | 0 |
 | Lamine Yamal | F | 17 | 1445 | 13 | 13 | 78 | 4,6 | 26 | 1,5 | 20 | 33 | 1,9 | 2 | 0 |
-| Joan García | G | 16 | 1395 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
-| Pedri | M | 17 | 1202 | 1 | 4 | 10 | 0,6 | 1 | 0,1 | 3 | 16 | 0,9 | 1 | 0 |
+| Pedri | M | 18 | 1247 | 1 | 4 | 12 | 0,7 | 2 | 0,1 | 3 | 17 | 0,9 | 1 | 0 |
+| Gerard Martín | D | 16 | 1209 | 1 | 0 | 4 | 0,2 | 2 | 0,1 | 11 | 7 | 0,4 | 1 | 0 |
+| Fermín | M | 17 | 1175 | 9 | 7 | 35 | 2,1 | 21 | 1,2 | 26 | 14 | 0,8 | 3 | 1 |
 | Pau Cubarsí Paredes | D | 13 | 1142 | 0 | 2 | 3 | 0,2 | 0 | 0,0 | 9 | 3 | 0,2 | 1 | 0 |
-| Gerard Martín | D | 15 | 1119 | 1 | 0 | 4 | 0,3 | 2 | 0,1 | 11 | 7 | 0,5 | 1 | 0 |
-| Raphinha | F | 15 | 1104 | 19 | 3 | 38 | 2,5 | 24 | 1,6 | 9 | 10 | 0,7 | 2 | 0 |
-| Fermín | M | 16 | 1085 | 9 | 7 | 33 | 2,1 | 20 | 1,2 | 26 | 14 | 0,9 | 3 | 1 |
-| A. Gordon | F | 16 | 971 | 3 | 4 | 31 | 1,9 | 19 | 1,2 | 9 | 9 | 0,6 | 1 | 0 |
+| Raphinha | F | 16 | 1118 | 19 | 3 | 38 | 2,4 | 24 | 1,5 | 9 | 10 | 0,6 | 2 | 0 |
+| A. Gordon | F | 17 | 1047 | 5 | 4 | 36 | 2,1 | 22 | 1,3 | 12 | 9 | 0,5 | 1 | 0 |
 | Rodri | M | 14 | 945 | 1 | 1 | 5 | 0,4 | 2 | 0,1 | 10 | 11 | 0,8 | 1 | 0 |
-| João Cancelo | D | 14 | 872 | 2 | 3 | 13 | 0,9 | 5 | 0,4 | 11 | 5 | 0,4 | 3 | 0 |
+| João Cancelo | D | 15 | 898 | 2 | 3 | 14 | 0,9 | 6 | 0,4 | 12 | 5 | 0,3 | 3 | 0 |
 | Eric García | D | 11 | 777 | 1 | 0 | 7 | 0,6 | 3 | 0,3 | 5 | 3 | 0,3 | 0 | 0 |
 | X. Espart | D | 9 | 724 | 2 | 2 | 7 | 0,8 | 3 | 0,3 | 15 | 6 | 0,7 | 1 | 0 |
+| K. Adeyemi | F | 17 | 704 | 5 | 2 | 30 | 1,8 | 13 | 0,8 | 8 | 21 | 1,2 | 2 | 0 |
 | Marc Bernal | M | 15 | 674 | 0 | 2 | 8 | 0,5 | 1 | 0,1 | 15 | 8 | 0,5 | 2 | 0 |
-| K. Adeyemi | F | 16 | 614 | 4 | 2 | 26 | 1,6 | 11 | 0,7 | 7 | 20 | 1,2 | 2 | 0 |
-| Dani Olmo | M | 13 | 538 | 1 | 4 | 19 | 1,5 | 9 | 0,7 | 6 | 14 | 1,1 | 2 | 0 |
+| Dani Olmo | M | 14 | 583 | 1 | 4 | 19 | 1,4 | 9 | 0,6 | 6 | 17 | 1,2 | 2 | 0 |
+| J. Koundé | D | 10 | 554 | 1 | 1 | 5 | 0,5 | 3 | 0,3 | 5 | 6 | 0,6 | 0 | 0 |
 | A. Christensen | D | 8 | 522 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 8 | 2 | 0,2 | 0 | 0 |
-| J. Koundé | D | 9 | 464 | 1 | 1 | 3 | 0,3 | 2 | 0,2 | 5 | 6 | 0,7 | 0 | 0 |
-| Gabriel Jesus | F | 10 | 296 | 4 | 1 | 10 | 1,0 | 5 | 0,5 | 2 | 6 | 0,6 | 0 | 0 |
-| F. de Jong | D | 5 | 253 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 1 | 0,2 | 0 | 0 |
-| Gavi | M | 10 | 231 | 0 | 0 | 2 | 0,2 | 2 | 0,2 | 6 | 2 | 0,2 | 0 | 0 |
+| Gabriel Jesus | F | 11 | 386 | 5 | 1 | 17 | 1,5 | 9 | 0,8 | 2 | 7 | 0,6 | 0 | 0 |
+| Gavi | M | 11 | 317 | 0 | 0 | 2 | 0,2 | 2 | 0,2 | 9 | 3 | 0,3 | 0 | 0 |
+| F. de Jong | D | 6 | 317 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Últimos partidos de Atletico Madrid
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-25 | Champions League | Atletico Madrid 2-0 Viking | casa | 6-1 | 20 (9) - 9 (1) | 0-1 |
 | 2026-11-22 | LaLiga | Getafe 0-3 Atletico Madrid | fuera | 7-2 | 20 (10) - 11 (1) | 2-2 |
 | 2026-11-08 | LaLiga | Atletico Madrid 1-2 Barcelona | casa | 4-2 | 9 (4) - 19 (4) | 3-1 |
 | 2026-11-03 | Champions League | Atletico Madrid 0-2 Bayern München | casa | 4-4 | 9 (3) - 19 (5) | 1-2 |
 | 2026-10-31 | LaLiga | Levante 0-2 Atletico Madrid | fuera | 3-5 | 11 (5) - 20 (4) | 0-0 |
 | 2026-10-24 | LaLiga | Atletico Madrid 1-0 Deportivo La Coruna | casa | 3-4 | 20 (4) - 15 (5) | 4-2 |
-| 2026-10-20 | Champions League | VfB Stuttgart 1-1 Atletico Madrid | fuera | 4-9 | 10 (3) - 18 (5) | 0-1 |
 
 ## Jugadores de Atletico Madrid
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| J. Oblak | G | 17 | 1530 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,1 | 0 | 0 |
-| D. Hancko | D | 17 | 1387 | 0 | 2 | 16 | 0,9 | 4 | 0,2 | 3 | 3 | 0,2 | 1 | 0 |
-| Álex Grimaldo | D | 16 | 1331 | 5 | 2 | 20 | 1,2 | 11 | 0,7 | 12 | 6 | 0,4 | 0 | 0 |
-| Marcos Llorente | D | 17 | 1310 | 1 | 1 | 8 | 0,5 | 8 | 0,5 | 16 | 5 | 0,3 | 2 | 0 |
-| G. Simeone | M | 17 | 1307 | 4 | 2 | 14 | 0,8 | 6 | 0,4 | 18 | 25 | 1,5 | 2 | 0 |
-| Álex Baena | M | 17 | 1105 | 6 | 4 | 29 | 1,7 | 14 | 0,8 | 22 | 17 | 1,0 | 4 | 0 |
+| J. Oblak | G | 18 | 1620 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,1 | 0 | 0 |
+| D. Hancko | D | 18 | 1477 | 0 | 2 | 17 | 0,9 | 4 | 0,2 | 4 | 3 | 0,2 | 1 | 0 |
+| Álex Grimaldo | D | 17 | 1421 | 5 | 3 | 22 | 1,3 | 12 | 0,7 | 12 | 6 | 0,4 | 0 | 0 |
+| Marcos Llorente | D | 18 | 1400 | 1 | 1 | 8 | 0,4 | 8 | 0,4 | 16 | 6 | 0,3 | 2 | 0 |
+| G. Simeone | F | 18 | 1340 | 4 | 2 | 15 | 0,8 | 6 | 0,3 | 19 | 27 | 1,5 | 2 | 0 |
+| Álex Baena | M | 18 | 1150 | 6 | 4 | 32 | 1,8 | 15 | 0,8 | 23 | 17 | 0,9 | 4 | 0 |
 | Marc Pubill | D | 14 | 1063 | 1 | 0 | 6 | 0,4 | 1 | 0,1 | 15 | 8 | 0,6 | 5 | 0 |
-| Pablo Barrios | M | 14 | 985 | 1 | 1 | 11 | 0,8 | 5 | 0,4 | 7 | 15 | 1,1 | 0 | 0 |
-| Lee Kang-In | M | 16 | 954 | 2 | 1 | 22 | 1,4 | 8 | 0,5 | 16 | 19 | 1,2 | 2 | 0 |
-| J. Álvarez | F | 13 | 809 | 2 | 5 | 29 | 2,2 | 14 | 1,1 | 6 | 6 | 0,5 | 0 | 0 |
+| Pablo Barrios | M | 15 | 1030 | 1 | 1 | 11 | 0,7 | 5 | 0,3 | 7 | 15 | 1,0 | 0 | 0 |
+| Lee Kang-In | M | 17 | 1011 | 2 | 1 | 24 | 1,4 | 9 | 0,5 | 18 | 20 | 1,2 | 2 | 0 |
+| J. Álvarez | F | 14 | 866 | 3 | 5 | 31 | 2,2 | 16 | 1,1 | 7 | 7 | 0,5 | 0 | 0 |
+| Koke | M | 13 | 768 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 4 | 12 | 0,9 | 0 | 0 |
+| M. Hjulmand | M | 15 | 749 | 0 | 0 | 9 | 0,6 | 0 | 0,0 | 10 | 14 | 0,9 | 3 | 1 |
 | A. Lookman | F | 15 | 735 | 2 | 1 | 10 | 0,7 | 4 | 0,3 | 11 | 9 | 0,6 | 2 | 0 |
-| M. Hjulmand | M | 14 | 727 | 0 | 0 | 9 | 0,6 | 0 | 0,0 | 10 | 14 | 1,0 | 3 | 1 |
-| Koke | M | 12 | 700 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 4 | 11 | 0,9 | 0 | 0 |
+| Robin Le Normand | D | 13 | 657 | 1 | 0 | 2 | 0,2 | 2 | 0,2 | 10 | 6 | 0,5 | 3 | 1 |
 | C. Romero | D | 8 | 602 | 1 | 0 | 5 | 0,6 | 3 | 0,4 | 5 | 7 | 0,9 | 2 | 0 |
-| Robin Le Normand | D | 12 | 567 | 1 | 0 | 2 | 0,2 | 2 | 0,2 | 10 | 5 | 0,4 | 3 | 1 |
-| J. Cardoso | M | 10 | 496 | 1 | 1 | 3 | 0,3 | 1 | 0,1 | 9 | 7 | 0,7 | 3 | 0 |
-| J. David | F | 11 | 436 | 3 | 2 | 14 | 1,3 | 10 | 0,9 | 3 | 8 | 0,7 | 0 | 0 |
-| Rodrigo Mendoza | M | 7 | 185 | 0 | 0 | 4 | 0,6 | 3 | 0,4 | 3 | 4 | 0,6 | 1 | 0 |
-| A. Sørloth | F | 7 | 170 | 0 | 0 | 4 | 0,6 | 1 | 0,1 | 10 | 3 | 0,4 | 1 | 0 |
+| J. Cardoso | M | 11 | 586 | 1 | 1 | 6 | 0,5 | 3 | 0,3 | 9 | 7 | 0,6 | 3 | 0 |
+| J. David | F | 12 | 469 | 3 | 2 | 15 | 1,2 | 10 | 0,8 | 3 | 8 | 0,7 | 0 | 0 |
+| A. Sørloth | F | 8 | 241 | 1 | 0 | 7 | 0,9 | 2 | 0,2 | 11 | 4 | 0,5 | 1 | 0 |
+| Rodrigo Mendoza | M | 8 | 204 | 0 | 0 | 5 | 0,6 | 4 | 0,5 | 3 | 4 | 0,5 | 1 | 0 |
 | Arnau Ortiz | F | 5 | 149 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 2 | 4 | 0,8 | 0 | 0 |

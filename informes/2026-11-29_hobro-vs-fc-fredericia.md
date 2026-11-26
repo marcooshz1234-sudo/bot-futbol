@@ -1,10 +1,53 @@
 # Hobro – FC Fredericia
 **1. Division** · Regular Season - 16 · 29/11/2026 14:00 (hora España) · DS Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 26/11 23:03_
+
+- **1X2:** 1 **6.50**  ·  X **4.75**  ·  2 **1.42**
+- **Doble oportunidad:** 1X **2.75**  ·  12 **1.18**  ·  X2 **1.11**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
+- **Goles más/menos:**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.50** · menos **2.50**
+    - 3,5: más **2.20** · menos **1.62**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.53** · menos **2.38**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.40** · menos **2.75**
+    - 2,5: más **2.25** · menos **1.57**
+    - 3,5: más **4.33** · menos **1.20**
+    - 4,5: más **10.00** · menos **1.06**
+- **Córners más/menos:**
+    - 10: más **1.80** · menos **2.00**
+    - 10,5: más **2.00** · menos **1.73**
+- **1X2 descanso:** 1 **6.00**  ·  X **2.62**  ·  2 **1.83**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **3.25**  ·  2 **1.25**
+- **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **2.00**
+- **Win Both Halves:** 1 **26.00**  ·  2 **3.40**
+- **Results/Both Teams Score:** Home/Yes **10.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **2.75**  ·  Home/No **13.00**  ·  Draw/No **17.00**  ·  Away/No **2.62**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **3.10**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **2.00**  ·  Más de 4.5 **1.75**  ·  Menos de 4.5 **2.05**
+- **Anytime Goal Scorer:** Svenn Crone **6.50**  ·  Mikkel Londal **5.00**  ·  Emilio Simonsen **2.60**  ·  Vedad Halilovic **5.00**  ·  Alexander Lyng **2.50**  ·  Adam Nygaard **7.00**  ·  Malthe Ladefoged **7.00**  ·  Anders Noshe **7.50**  ·  Elias Hansborg-Sorensen **2.20**  ·  Marco Bruhn **4.50**  ·  Asbjorn Bondergaard **1.95**  ·  Patrick Egelund **2.60**  ·  William Madsen **3.75**  ·  Daniel Haarbo **4.50**  ·  Felix Winther **4.50**  ·  Jonatan Lindekilde **4.00**  ·  Anders Dahl **5.50**  ·  Frederik Rieper **6.50**  ·  Oliver Klitten **5.50**  ·  Oscar Meedom **6.50**  ·  Mikkel Pedersen **7.00**  ·  Theo Hansen **7.00**  ·  Zander Hyltoft **9.50**  ·  Lukas Klitten **11.00**  ·  Frederik Dietz **11.00**  ·  Emil Jensen Sogaard **17.00**  ·  Marius Jacobsen **17.00**  ·  Oliver Dorph **17.00**  ·  Frederik Christensen **3.50**  ·  Casper Jorgensen **3.40**  ·  Christian Enemark **11.00**  ·  Runar Hauge **4.50**  ·  Jonathan Lind **3.75**  ·  Bork Bang-Kittilsen **2.60**  ·  Andreas Pyndt **5.00**  ·  Onyebuchi Obasi **5.00**  ·  Lukas Falk **8.50**  ·  Hjalte Dahl **7.00**  ·  Jeppe Kudsk **7.50**  ·  Nemo Thomsen **2.20**  ·  Lauritz Dauerhoj **7.00**  ·  Oliver Vest **9.50**  ·  August Breum **3.75**  ·  Phillip Flak **11.00**  ·  Frederik Bunten **3.75**  ·  Magnus Rosengreen **5.00**  ·  Martin Huldahl **5.00**  ·  Mikkel Kristensen **13.00**
 
 ## Estadísticas de equipo
 | | Hobro (total) | Hobro en casa | FC Fredericia (total) | FC Fredericia fuera |

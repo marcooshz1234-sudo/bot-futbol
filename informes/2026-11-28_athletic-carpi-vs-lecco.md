@@ -1,10 +1,10 @@
 # Athletic Carpi – Lecco
 **Serie C** · Girone A - 16 · 28/11/2026 14:30 (hora España) · Stadio Sandro Cabassi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Actualizadas: 24/11 23:24_
+_Actualizadas: 26/11 23:02_
 
 - **1X2:** 1 **3.40**  ·  X **3.30**  ·  2 **1.95**
 - **Doble oportunidad:** 1X **1.70**  ·  12 **1.25**  ·  X2 **1.25**

@@ -1,10 +1,10 @@
 # Hvidovre – Kolding IF
 **1. Division** · Regular Season - 16 · 27/11/2026 19:00 (hora España) · Hvidovre Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Actualizadas: 25/11 09:27_
+_Actualizadas: 26/11 23:01_
 
 - **1X2:** 1 **1.85**  ·  X **3.70**  ·  2 **3.90**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.91**
@@ -13,7 +13,7 @@ _Actualizadas: 25/11 09:27_
     - 1,5: más **1.18** · menos **4.50**
     - 2,5: más **1.62** · menos **2.25**
     - 3,5: más **2.50** · menos **1.50**
-    - 4,5: más **4.50** · menos **1.18**
+    - 4,5: más **4.33** · menos **1.20**
     - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.28** · menos **3.50**
@@ -30,7 +30,7 @@ _Actualizadas: 25/11 09:27_
     - 2,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
     - 10: más **1.78** · menos **2.02**
-    - 10,5: más **2.02** · menos **1.78**
+    - 10,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **2.40**  ·  X **2.40**  ·  2 **4.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**

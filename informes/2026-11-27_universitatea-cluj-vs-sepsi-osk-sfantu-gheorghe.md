@@ -1,33 +1,56 @@
 # Universitatea Cluj – Sepsi OSK Sfantu Gheorghe
 **Liga I** · Regular Season - 17 · 27/11/2026 16:30 (hora España) · Cluj Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 25/11 09:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
 
 ## Cuotas Bet365
-_Actualizadas: 25/11 09:27_
+_Actualizadas: 26/11 23:01_
 
 - **1X2:** 1 **1.53**  ·  X **3.75**  ·  2 **5.25**
-- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **Doble oportunidad:** 1X **1.14**  ·  12 **1.22**  ·  X2 **2.25**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
-    - 1,5: más **1.20** · menos **4.33**
-    - 2,5: más **1.67** · menos **2.15**
-    - 3,5: más **2.62** · menos **1.44**
-    - 4,5: más **5.00** · menos **1.17**
-    - 5,5: más **10.00** · menos **1.06**
-- **1X2 descanso:** 1 **2.05**  ·  X **2.40**  ·  2 **5.50**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.75** · menos **2.05**
+    - 3,5: más **2.75** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
+- **Goles del visitante:**
+    - 0,5: más **1.57** · menos **2.25**
+    - 1,5: más **4.00** · menos **1.22**
+    - 2,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 9,5: más **1.73** · menos **2.00**
+    - 10: más **1.95** · menos **1.85**
+- **Córners 1X2:** 1 **1.36**  ·  X **9.50**  ·  2 **3.75**
+- **1X2 descanso:** 1 **2.10**  ·  X **2.38**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **10.00** · menos **1.06**
-- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
-- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **1.30**  ·  2 **3.00**
-- **To Score In Both Halves By Teams:** 1 **2.25**  ·  2 **6.00**
-- **Win Both Halves:** 1 **4.00**  ·  2 **21.00**
-- **Results/Both Teams Score:** Home/Yes **3.20**  ·  Draw/Yes **5.00**  ·  Away/Yes **10.00**  ·  Home/No **2.75**  ·  Draw/No **13.00**  ·  Away/No **11.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.75**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.33**  ·  2 **3.00**
+- **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **6.50**
+- **Win Both Halves:** 1 **4.00**  ·  2 **23.00**
+- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **5.00**  ·  Away/Yes **10.00**  ·  Home/No **2.62**  ·  Draw/No **12.00**  ·  Away/No **10.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.50**
+- **Home Corners Over/Under:**
+    - 6,5: más **2.10** · menos **1.67**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.83** · menos **1.83**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.82**  ·  Menos de 4.5 **1.98**
 
 ## Estadísticas de equipo
 | | Universitatea Cluj (total) | Universitatea Cluj en casa | Sepsi OSK Sfantu Gheorghe (total) | Sepsi OSK Sfantu Gheorghe fuera |

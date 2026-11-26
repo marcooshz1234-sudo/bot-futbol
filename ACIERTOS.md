@@ -1,16 +1,16 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 628 · aciertos: 391 (62%) · beneficio a 1 € por pick: -67.07 €
+Picks ya jugados: 640 · aciertos: 399 (62%) · beneficio a 1 € por pick: -66.14 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| jugador | 133 | 205 | 65% | -21.07 € |
-| goles | 152 | 235 | 65% | -21.17 € |
-| resultado | 77 | 122 | 63% | -6.13 € |
+| goles | 154 | 237 | 65% | -20.10 € |
+| jugador | 134 | 208 | 64% | -22.63 € |
+| resultado | 82 | 128 | 64% | -3.71 € |
 | tarjetas | 16 | 27 | 59% | -1.68 € |
-| tiros | 6 | 11 | 55% | -0.47 € |
+| tiros | 6 | 12 | 50% | -1.47 € |
 | corners | 7 | 22 | 32% | -10.55 € |
 | fueras de juego | 0 | 4 | 0% | -4.00 € |
 | tiros a puerta | 0 | 2 | 0% | -2.00 € |
@@ -21,25 +21,25 @@ Picks ya jugados: 628 · aciertos: 391 (62%) · beneficio a 1 € por pick: -67.
 |---|---|---|---|
 | Player Fouls Committed · Jayden Bogle - 1 | 3 | 3 | 100% |
 | Player Fouls Committed · James Hill - 1 | 3 | 3 | 100% |
-| To Win Either Half · Home | 9 | 11 | 82% |
+| To Win Either Half · Home | 10 | 12 | 83% |
 | Goals Over/Under · Over 1.5 | 33 | 42 | 79% |
+| Double Chance · Home/Draw | 13 | 17 | 76% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
 | Goals Over/Under - Second Half · Over 1.5 | 9 | 12 | 75% |
 | Home Team Total Cards · Over 1.5 | 11 | 15 | 73% |
-| Match Winner · Home | 13 | 18 | 72% |
-| Double Chance · Home/Draw | 10 | 14 | 71% |
 | Match Winner · Away | 10 | 14 | 71% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
+| Match Winner · Home | 14 | 20 | 70% |
 | Goals Over/Under First Half · Over 0.5 | 31 | 45 | 69% |
 | Away Player Shots · Nicolo Barella - 1 | 2 | 3 | 67% |
 | Player Fouls Committed · Radu Dragusin - 1 | 2 | 3 | 67% |
 | Player Fouls Committed · Evanilson - 1 | 2 | 3 | 67% |
-| Shots.1x2 · Away | 3 | 5 | 60% |
-| Total - Home · Over 0.5 | 9 | 15 | 60% |
+| Total - Home · Over 0.5 | 11 | 17 | 65% |
 | Goals Over/Under - Second Half · Over 0.5 | 6 | 10 | 60% |
 | Total - Home · Over 1.5 | 3 | 5 | 60% |
 | Total - Away · Over 0.5 | 28 | 50 | 56% |
 | Both Teams Score · Yes | 12 | 23 | 52% |
+| Shots.1x2 · Away | 3 | 6 | 50% |
 | Away Team Total Cards · Over 1.5 | 2 | 4 | 50% |
 | Away Corners Over/Under · Over 3.5 | 3 | 6 | 50% |
 | Total - Away · Over 1.5 | 2 | 4 | 50% |
@@ -52,6 +52,22 @@ Picks ya jugados: 628 · aciertos: 391 (62%) · beneficio a 1 € por pick: -67.
 | Home Team Total Cards · Over 0.5 | 1 | 4 | 25% |
 
 ## Últimos días
+
+### 2026-11-26 · 3/6
+- ❌ Gana el Brann · 2.10 (1-4)
+- ❌ Bournemouth hace más tiros · 1.44 (1-2)
+- ✅ NEC Nijmegen o empate · 1.67 (3-1)
+- ✅ Daouda Weidmann: 2+ tiros · 1.44 (2-1)
+- ❌ Orri Steinn Oskarsson: 2+ tiros · 1.25 (2-1)
+- ✅ Borac Banja Luka marca · 1.50 (2-3)
+
+### 2026-11-25 · 5/6
+- ✅ Sabah FA marca · 1.57 (1-4)
+- ✅ Sporting CP o empate · 1.50 (2-2)
+- ❌ Achraf Hakimi: 2+ tiros · 1.53 (2-2)
+- ✅ Gana el Stoke City · 2.25 (2-1)
+- ✅ Stoke City gana alguna de las dos partes · 1.67 (2-1)
+- ✅ Stoke City o empate · 1.33 (2-1)
 
 ### 2026-11-24 · 1/2
 - ❌ Manchester City hace más de 0,5 fueras de juego · 1.53 (2-2)
@@ -111,17 +127,4 @@ Picks ya jugados: 628 · aciertos: 391 (62%) · beneficio a 1 € por pick: -67.
 - ❌ 1. FC Köln hace más de 2,5 córners · 1.73 (1-1)
 - ✅ Ambos marcan en Bayern München–1. FC Köln · 1.75 (1-1)
 - ✅ 1. FC Köln marca · 1.73 (1-1)
-
-### 2026-11-17 · 3/4
-- ✅ Austria hace más córners · 1.57 (1-1)
-- ❌ Portugal hace más tiros a puerta · 1.30 (2-3)
-- ✅ Gana el Denmark · 2.25 (2-3)
-- ✅ Denmark marca 2 o más · 1.80 (2-3)
-
-### 2026-11-16 · 3/5
-- ✅ Slovakia marca 2 o más · 1.80 (2-2)
-- ❌ Gana el Slovakia · 1.80 (2-2)
-- ❌ Más de 8,5 córners en Estonia–Bulgaria · 1.73 (2-1)
-- ✅ Gana el Greece · 1.42 (1-0)
-- ✅ Konstantinos Mavropanos: 1+ tiros · 1.36 (1-0)
 
