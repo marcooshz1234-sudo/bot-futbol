@@ -73,8 +73,11 @@ jobs:
         run: python -u plantillas.py
       - name: Imágenes y reels de los posts del bot
         run: |
-          sudo apt-get install -y -qq ffmpeg fonts-noto-color-emoji >/dev/null
-          pip install -q playwright pillow && python -m playwright install --with-deps chromium >/dev/null
+          # 26/11: sin «apt-get update» el índice viejo daba 404 (pipewire) y el paso tumbaba la recogida entera:
+          # no se guardaban datos, escalera ni posts. Ahora se actualiza el índice y un fallo aquí no bloquea
+          sudo apt-get update -qq >/dev/null || true
+          sudo apt-get install -y -qq ffmpeg fonts-noto-color-emoji >/dev/null || echo "apt falló (no bloquea)"
+          pip install -q playwright pillow && python -m playwright install --with-deps chromium >/dev/null || echo "playwright falló (no bloquea)"
           python -u imagenes.py publicaciones/auto.json --pendientes || echo "imagenes.py falló (no bloquea)"
       - name: Quitar imágenes de posts viejos (01/11)
         run: python -u limpiar_media.py || echo "limpiar_media falló (no bloquea)"
@@ -85,6 +88,7 @@ jobs:
       - name: Informe de redes del mes (01/11, va a Obsidian)
         run: python -u redes_informe.py || echo "redes_informe falló (no bloquea)"
       - name: Guardar cambios
+        if: always()
         run: |
           git config user.name "bot-futbol"
           git config user.email "bot-futbol@users.noreply.github.com"
