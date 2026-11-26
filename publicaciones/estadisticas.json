@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 22:24",
+ "actualizado": "2026-11-26 22:35",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4174,
-   "hoy": 154,
+   "seguidores": 4175,
+   "hoy": 155,
    "serie": [
     3248,
     3475,
@@ -24,7 +24,7 @@
     3742,
     3790,
     4020,
-    4174
+    4175
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4773,
- "total_hoy": 168,
+ "total": 4774,
+ "total_hoy": 169,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "22:30",
+  "hora": "23:30",
   "dia": "2026-11-26",
-  "titulo": "El duelo de tiros"
+  "titulo": "Combi werder bremen – borussia mönchen"
  },
  "ayer": null,
  "escalera": {
@@ -273,7 +273,7 @@
   },
   "2026-11-26": {
    "instagram": 58,
-   "threads": 4174,
+   "threads": 4175,
    "facebook": 1,
    "telegram": 540
   }
