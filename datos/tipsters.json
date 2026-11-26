@@ -4562,5 +4562,62 @@
    "cuota_bet365": 2.0,
    "prob_cuota": 0.641
   }
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "-1001550157115/101143",
+  "dia": "2026-11-26",
+  "hora": "18:45",
+  "local": "Dinamo Zagreb",
+  "visitante": "Bayer Leverkusen",
+  "texto": "Más de 2.5 goles",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.5,
+  "stake": 3,
+  "argumento": [
+   "El Leverkusen llega a Zagreb con mucha pegada y suele dominar con balón",
+   "El Dinamo en casa sale a por el partido y deja espacios atrás",
+   "Duelo abierto de Europa League con dos equipos que necesitan sumar"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "fuente": "-1001468963672/47512",
+  "dia": "2026-11-26",
+  "hora": "18:45",
+  "local": "Celta Vigo",
+  "visitante": "Bournemouth",
+  "texto": "Crear apuesta: Más de 7.5 remates a puerta + Gol del Bournemouth",
+  "mercado": "Crear apuesta",
+  "opcion": "Más de 7.5 remates a puerta + Bournemouth marca",
+  "cuota": 1.66,
+  "stake": null,
+  "argumento": [
+   "El Bournemouth promedia más de 5 tiros entre palos por partido y tiene más fondo de banquillo",
+   "El Celta llega con bajas en ataque y en el centro de la defensa, así que le costará dejar la portería a cero",
+   "Se espera un partido abierto con ocasiones en las dos áreas"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "OC TIPSTER",
+  "fuente": "-1002538677212/5219",
+  "dia": "2026-11-26",
+  "hora": "18:45",
+  "local": "Celta Vigo",
+  "visitante": "Bournemouth",
+  "texto": "Crear apuesta: Pablo Durán 2+ remates a puerta, Carreira 1+ remate, Burcio 1+ remate, Carreira 1+ falta",
+  "mercado": "Crear apuesta",
+  "opcion": "Durán 2+ remates a puerta + Carreira 1+ remate + Burcio 1+ remate + Carreira 1+ falta",
+  "cuota": 24,
+  "stake": null,
+  "argumento": [
+   "Durán viene enchufado tras marcar al Madrid y lleva varios partidos seguidos probando portería",
+   "Carreira sube mucho por su banda: dispara y comete faltas con regularidad en Europa",
+   "Burcio se anima a tirar desde fuera del área casi cada partido"
+  ],
+  "argumento_propio": true
  }
 ]

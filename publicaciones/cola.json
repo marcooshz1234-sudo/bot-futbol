@@ -1634,5 +1634,35 @@
       "threads": "18110024360198132",
       "instagram": "18133463675491889"
     }
+  },
+  {
+    "id": "2026-11-26-pick-tip-2",
+    "fecha": "2026-11-26T13:42",
+    "texto": "Otro pick que nos gusta mucho familia 🔥\n📈 De las que hemos estudiado bien\n\n🍀 Más de 2.5 goles @1,50\n\n⚽ Dinamo Zagreb – Bayer Leverkusen · hoy 18:45\n\n👨‍💻 El Leverkusen llega a Zagreb con mucha pegada y suele dominar con balón\n👨‍💻 El Dinamo en casa sale a por el partido y deja espacios atrás\n👨‍💻 Duelo abierto de Europa League con dos equipos que necesitan sumar\n\n🧠 Stake 3/10",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": false,
+    "sel": [],
+    "cuotas": [],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true,
+    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
+  },
+  {
+    "id": "2026-11-26-pick-tip-3",
+    "fecha": "2026-11-26T13:42",
+    "texto": "Os dejo otro pick que pinta muy bien 👀\n🧠 Pensada con calma, sin prisas\n\n🍀 Crear apuesta: Más de 7.5 remates a puerta + Gol del Bournemouth @1,66\n\n⚽ Celta Vigo – Bournemouth · hoy 18:45\n\n👨‍💻 El Bournemouth promedia más de 5 tiros entre palos por partido y tiene más fondo de banquillo\n👨‍💻 El Celta llega con bajas en ataque y en el centro de la defensa, así que le costará dejar la portería a cero\n👨‍💻 Se espera un partido abierto con ocasiones en las dos áreas",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": false,
+    "sel": [],
+    "cuotas": [],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true,
+    "aviso": "⚠️ El bot no puede seguir esta copia (es un «Crear apuesta» de varias condiciones): si sale, su verde y el resumen van a mano."
   }
 ]
