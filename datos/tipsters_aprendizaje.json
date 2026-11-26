@@ -55,7 +55,7 @@
    "prob_cuota": 2.536
   },
   "CRIMINALPICKS🕵🏻‍♂️": {
-   "n": 11,
+   "n": 12,
    "verdes": 6,
    "rojos": 3,
    "nulos": 0,
@@ -206,7 +206,7 @@
    "prob_cuota": 13.771
   },
   "Goals Over/Under Over 2.5": {
-   "n": 19,
+   "n": 20,
    "verdes": 9,
    "rojos": 6,
    "nulos": 0,
@@ -732,7 +732,7 @@
  },
  "equipo": {
   "—": {
-   "n": 108,
+   "n": 109,
    "verdes": 40,
    "rojos": 15,
    "nulos": 0,
@@ -1130,7 +1130,7 @@
  },
  "razon": {
   "sin razón": {
-   "n": 103,
+   "n": 104,
    "verdes": 56,
    "rojos": 15,
    "nulos": 0,
@@ -1229,7 +1229,7 @@
    "unidades": 0.0
   },
   "1,80-2,20": {
-   "n": 26,
+   "n": 27,
    "verdes": 10,
    "rojos": 4,
    "nulos": 0,
@@ -1293,6 +1293,13 @@
    "resueltos_con_cuota": 5,
    "prob_cuota": 2.921
   },
+  "UEFA Europa League": {
+   "n": 6,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "Copa del Rey": {
    "n": 5,
    "verdes": 3,
@@ -1301,13 +1308,6 @@
    "unidades": -0.64,
    "resueltos_con_cuota": 5,
    "prob_cuota": 3.596
-  },
-  "UEFA Europa League": {
-   "n": 5,
-   "verdes": 0,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
   },
   "La Liga": {
    "n": 3,
@@ -1348,7 +1348,7 @@
  },
  "lado": {
   "partido": {
-   "n": 90,
+   "n": 91,
    "verdes": 31,
    "rojos": 11,
    "nulos": 0,
@@ -1377,7 +1377,7 @@
  },
  "por_que": {
   "—": {
-   "n": 99,
+   "n": 100,
    "verdes": 34,
    "rojos": 22,
    "nulos": 0,
@@ -1451,7 +1451,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 169,
+   "n": 170,
    "verdes": 76,
    "rojos": 32,
    "nulos": 0,

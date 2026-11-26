@@ -4655,5 +4655,25 @@
    "cuota_bet365": 1.33,
    "prob_cuota": 0.752
   }
+ },
+ {
+  "tipster": "CRIMINALPICKS🕵🏻‍♂️",
+  "fuente": "-1002685171001/11136",
+  "dia": "2026-11-26",
+  "local": "Dinamo Zagreb",
+  "visitante": "Bayer Leverkusen",
+  "partido_id": 1636255,
+  "texto": "Más de 2,5 goles en Dinamo Zagreb–Bayer Leverkusen",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.83,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Europa League",
+   "cuota_bet365": 1.44,
+   "prob_cuota": 0.546
+  }
  }
 ]
