@@ -1,9 +1,9 @@
 {
- "dia": "2026-11-26",
- "generado": "2026-11-26T23:39+01:00",
+ "dia": "2026-11-27",
+ "generado": "2026-11-27T00:12+01:00",
  "rango": [
-  "2026-11-26",
-  "2026-11-29"
+  "2026-11-27",
+  "2026-11-30"
  ],
  "combis": [
   {
@@ -596,6 +596,38 @@
     }
    ],
    "cuota": 4.2
+  },
+  {
+   "equipo": "Espanyol",
+   "liga": "LaLiga",
+   "partido": "Espanyol–Getafe",
+   "hora": "2026-11-30T21:00",
+   "logo": "https://media.api-sports.io/football/teams/540.png",
+   "patas": [
+    {
+     "sel": "1570467|Shots.1x2|Home",
+     "texto": "Espanyol remata más que el rival",
+     "cuota": 1.44,
+     "p": 0.806,
+     "dato": "14,8 remates de Espanyol contra 10,1 del rival",
+     "nota": 0.8744334892294799,
+     "partido": "Espanyol–Getafe",
+     "hora": "2026-11-30T21:00"
+    },
+    {
+     "sel": "1570467|Player Fouls Committed|Leandro Cabrera - 1",
+     "texto": "Leandro Cabrera: comete 1+ falta",
+     "cuota": 1.44,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,42 por 90' (3-1-2-1-0-2)",
+     "nota": 0.864,
+     "equipo": "Espanyol",
+     "lado": "L",
+     "partido": "Espanyol–Getafe",
+     "hora": "2026-11-30T21:00"
+    }
+   ],
+   "cuota": 2.07
   },
   {
    "equipo": "Nottingham Forest",
@@ -1468,6 +1500,38 @@
    "cuota": 2.52
   },
   {
+   "equipo": "Cagliari",
+   "liga": "Serie A",
+   "partido": "Cagliari–AC Milan",
+   "hora": "2026-11-30T20:45",
+   "logo": "https://media.api-sports.io/football/teams/490.png",
+   "patas": [
+    {
+     "sel": "1550208|Home Corners Over/Under|Over 2.5",
+     "texto": "Cagliari: más de 2,5 córners",
+     "cuota": 1.57,
+     "p": 0.776,
+     "dato": "Cagliari saca 4,1 córners y el rival concede 4,1",
+     "nota": 0.8714920433780974,
+     "partido": "Cagliari–AC Milan",
+     "hora": "2026-11-30T20:45"
+    },
+    {
+     "sel": "1550208|Player Fouls Committed|Paul Mendy - 2",
+     "texto": "Paul Mendy: comete 2+ faltas",
+     "cuota": 1.4,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 2,41 por 90' (1-2-2-3-2)",
+     "nota": 0.7792857142857144,
+     "equipo": "Cagliari",
+     "lado": "L",
+     "partido": "Cagliari–AC Milan",
+     "hora": "2026-11-30T20:45"
+    }
+   ],
+   "cuota": 2.2
+  },
+  {
    "equipo": "Werder Bremen",
    "liga": "Bundesliga",
    "partido": "Werder Bremen–Borussia Mönchengladbach",
@@ -1487,16 +1551,6 @@
      "hora": "2026-11-27T20:30"
     },
     {
-     "sel": "1575237|Match Winner|Home",
-     "texto": "Gana Werder Bremen",
-     "cuota": 1.7,
-     "p": 0.727,
-     "dato": "Werder Bremen: VVEVV en sus últimos 5",
-     "nota": 0.805363296877329,
-     "partido": "Werder Bremen–Borussia Mönchengladbach",
-     "hora": "2026-11-27T20:30"
-    },
-    {
      "sel": "1575237|Total - Home|Over 1.5",
      "texto": "Werder Bremen marca 2 o más",
      "cuota": 1.53,
@@ -1507,7 +1561,7 @@
      "hora": "2026-11-27T20:30"
     }
    ],
-   "cuota": 3.98
+   "cuota": 2.34
   },
   {
    "equipo": "FSV Mainz 05",
