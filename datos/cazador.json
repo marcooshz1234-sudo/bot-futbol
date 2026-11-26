@@ -63,17 +63,6 @@
  },
  "top": [
   {
-   "local": "FC Iberia 1999",
-   "visitante": "Getafe",
-   "inicio": "2026-11-26T18:45",
-   "texto": "Gana el Getafe",
-   "cuota": 1.5,
-   "justa": 1.52,
-   "ev": -0.012,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
-  },
-  {
    "local": "Pafos",
    "visitante": "FC Midtjylland",
    "inicio": "2026-11-26T18:45",
@@ -82,11 +71,11 @@
    "justa": 1.7,
    "ev": -0.016,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-26T09:58",
+  "hora": "2026-11-26T10:18",
   "revisadas": 0,
   "mejor": null
  },
