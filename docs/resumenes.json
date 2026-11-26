@@ -3767,14 +3767,14 @@
   },
   "2026-11-26": {
     "dia": "2026-11-26",
-    "total": 15,
+    "total": 16,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 15,
+      "pendiente": 16,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 15
+      "sin_resolver": 16
     },
     "combis": [
       {
@@ -3866,13 +3866,19 @@
         "titulo": "Bournemouth marca 2 o más",
         "estado": "pendiente",
         "cuota": 2.0
+      },
+      {
+        "id": "2026-11-26-loca-th-1140-x100",
+        "titulo": "🤑💸 COMBI POR 34,84 🤑💸",
+        "estado": "pendiente",
+        "cuota": 34.84
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 77
+      "total": 80
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x30,82 🎰 · 30,82 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · pendiente\n⏳ 🏆 CONFERENCE LEAGUE - GANADORES · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 4,85 · pendiente\n⏳ 🎰 LA DE x15,22 🎰 · 15,22 · pendiente\n⏳ 🫣 LA DE LOS TAPADOS 🫣 · 8,53 · pendiente\n⏳ 🧨 COMBI x43,98 🧨 · 43,98 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚖️ LA COMBI DE LOS EMPATES ⚖️ · 49,21 · pendiente\n⏳ 🎯 COMBI DE TIROS · SC FREIBURG vs TWENTE 🎯 · 10,03 · pendiente\n⏳ Artur Serobyan (Ararat-Armenia): 2+ tiros · 1,50 · pendiente\n⏳ Bournemouth marca 2 o más · 2,00 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 15 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x30,82 🎰 · 30,82 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · pendiente\n⏳ 🏆 CONFERENCE LEAGUE - GANADORES · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 4,85 · pendiente\n⏳ 🎰 LA DE x15,22 🎰 · 15,22 · pendiente\n⏳ 🫣 LA DE LOS TAPADOS 🫣 · 8,53 · pendiente\n⏳ 🧨 COMBI x43,98 🧨 · 43,98 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚖️ LA COMBI DE LOS EMPATES ⚖️ · 49,21 · pendiente\n⏳ 🎯 COMBI DE TIROS · SC FREIBURG vs TWENTE 🎯 · 10,03 · pendiente\n⏳ Artur Serobyan (Ararat-Armenia): 2+ tiros · 1,50 · pendiente\n⏳ Bournemouth marca 2 o más · 2,00 · pendiente\n⏳ 🤑💸 COMBI POR 34,84 🤑💸 · 34,84 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 16 sin resolver"
   }
 }
