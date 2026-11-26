@@ -14447,7 +14447,7 @@
   {
     "id": "2026-11-26-combi-tres",
     "fecha": "2026-11-26T13:30",
-    "texto": "Vamos con la combi del jueves familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇦🇲 Artur Serobyan (Ararat-Armenia): 2+ tiros\n🇳🇱 Ramiz Zerrouki (Twente): 1+ tiros\n🇧🇦 Borac Banja Luka marca\n\n📈 Cuota @3,61",
+    "texto": "Vamos con la combi del jueves familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇦🇲 Artur Serobyan (Ararat-Armenia): 2+ tiros\n🇳🇱 Ramiz Zerrouki (Twente): 1+ tiros\n🇧🇦 Borac Banja Luka marca\n\n📈 Cuota @3,60",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -14457,11 +14457,12 @@
       "1636386|Total - Home|Over 0.5"
     ],
     "cuotas": [
-      1.67,
-      1.44,
-      1.5
+      1.5,
+      1.57,
+      1.53
     ],
-    "solo_redes": true
+    "solo_redes": true,
+    "cuotas_revisadas": "2026-11-26T12:01"
   },
   {
     "id": "2026-11-26-pick-seguro-5",

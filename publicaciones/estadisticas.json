@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 11:51",
+ "actualizado": "2026-11-26 12:03",
  "redes": {
   "instagram": {
    "seguidores": 57,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4055,
-   "hoy": 35,
+   "seguidores": 4059,
+   "hoy": 39,
    "serie": [
     3248,
     3475,
@@ -24,7 +24,7 @@
     3742,
     3790,
     4020,
-    4055
+    4059
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 532,
-   "hoy": 5,
+   "seguidores": 531,
+   "hoy": 4,
    "serie": [
     490,
     496,
@@ -50,17 +50,17 @@
     506,
     514,
     527,
-    532
+    531
    ]
   }
  },
- "total": 4645,
- "total_hoy": 40,
+ "total": 4648,
+ "total_hoy": 43,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "12:00",
+  "hora": "12:30",
   "dia": "2026-11-26",
-  "titulo": "Copas europeas · 11 picks para hoy (1/"
+  "titulo": "Os dejo el pick, familia"
  },
  "ayer": null,
  "escalera": {
@@ -273,9 +273,9 @@
   },
   "2026-11-26": {
    "instagram": 57,
-   "threads": 4055,
+   "threads": 4059,
    "facebook": 1,
-   "telegram": 532
+   "telegram": 531
   }
  },
  "tipos_instagram": {
