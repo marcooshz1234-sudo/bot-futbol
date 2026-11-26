@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 14:36",
+ "actualizado": "2026-11-26 14:47",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4089,
-   "hoy": 69,
+   "seguidores": 4087,
+   "hoy": 67,
    "serie": [
     3248,
     3475,
@@ -24,7 +24,7 @@
     3742,
     3790,
     4020,
-    4089
+    4087
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4680,
- "total_hoy": 75,
+ "total": 4678,
+ "total_hoy": 73,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "14:40",
+  "hora": "15:00",
   "dia": "2026-11-26",
-  "titulo": "Combi brann – aarhus"
+  "titulo": "Pick de hoy, con datos detrás"
  },
  "ayer": null,
  "escalera": {
@@ -273,12 +273,17 @@
   },
   "2026-11-26": {
    "instagram": 58,
-   "threads": 4089,
+   "threads": 4087,
    "facebook": 1,
    "telegram": 532
   }
  },
  "tipos_instagram": {
+  "Cuota 3 (reel)": {
+   "posts": 3,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
    "posts": 45,
    "likes_media": 0.0,
@@ -290,7 +295,7 @@
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
-   "posts": 4,
+   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -301,11 +306,6 @@
   },
   "Picks (reel)": {
    "posts": 1,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Cuota 3 (reel)": {
-   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }

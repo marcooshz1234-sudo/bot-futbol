@@ -13919,9 +13919,190 @@
     "tipo": "Missing Fixture",
     "motivo": "Red Card"
    }
+  ],
+  "1575237": [
+   {
+    "equipo": 162,
+    "jugador": "F. Agu",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 162,
+    "jugador": "S. Alvero",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 162,
+    "jugador": "M. Grull",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 162,
+    "jugador": "S. Musah",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 162,
+    "jugador": "M. N'Diaye",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 162,
+    "jugador": "J. Stage",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 162,
+    "jugador": "K. Topp",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 162,
+    "jugador": "S. Lynen",
+    "tipo": "Questionable",
+    "motivo": "Illness"
+   },
+   {
+    "equipo": 163,
+    "jugador": "H. Bolin",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "D. Hashioka",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "T. Kleindienst",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "E. Leopold",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "J. Leszczynski",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 163,
+    "jugador": "L. Ullrich",
+    "tipo": "Missing Fixture",
+    "motivo": "Broken collarbone"
+   }
+  ],
+  "1552830": [
+   {
+    "equipo": 106,
+    "jugador": "B. Chardonnet",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 106,
+    "jugador": "R. Le Guen",
+    "tipo": "Missing Fixture",
+    "motivo": "Broken Leg"
+   },
+   {
+    "equipo": 106,
+    "jugador": "K. Doumbia",
+    "tipo": "Questionable",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 106,
+    "jugador": "K. Lala",
+    "tipo": "Questionable",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 114,
+    "jugador": "N. Sangui",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1570043": [],
+  "1550216": [
+   {
+    "equipo": 517,
+    "jugador": "A. Adorante",
+    "tipo": "Missing Fixture",
+    "motivo": "Hernia"
+   },
+   {
+    "equipo": 517,
+    "jugador": "T. Basic",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 517,
+    "jugador": "T. Correia",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 517,
+    "jugador": "B. Franjic",
+    "tipo": "Missing Fixture",
+    "motivo": "Shoulder Injury"
+   },
+   {
+    "equipo": 517,
+    "jugador": "P. Mazzocchi",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 517,
+    "jugador": "M. Sverko",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 500,
+    "jugador": "O. El Azzouzi",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 500,
+    "jugador": "J. Enem",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Injury"
+   },
+   {
+    "equipo": 500,
+    "jugador": "E. Holm",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 500,
+    "jugador": "J. Miranda",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   }
   ]
  },
- "ultima": "2026-11-26T14:14:35.599001+01:00",
+ "ultima": "2026-11-26T14:46:14.242480+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
