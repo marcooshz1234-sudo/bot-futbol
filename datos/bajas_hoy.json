@@ -13501,12 +13501,6 @@
    },
    {
     "equipo": 94,
-    "jugador": "P. Frankowski",
-    "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 94,
     "jugador": "V. Rongier",
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
@@ -13694,21 +13688,9 @@
   "1636294": [
    {
     "equipo": 80,
-    "jugador": "M. Bidstrup",
-    "tipo": "Missing Fixture",
-    "motivo": "Foot Injury"
-   },
-   {
-    "equipo": 80,
     "jugador": "L. Diarra",
     "tipo": "Missing Fixture",
     "motivo": "Injury"
-   },
-   {
-    "equipo": 80,
-    "jugador": "C. Mata",
-    "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
    },
    {
     "equipo": 80,
@@ -13729,6 +13711,18 @@
     "motivo": "Knee Injury"
    },
    {
+    "equipo": 80,
+    "jugador": "M. Bidstrup",
+    "tipo": "Questionable",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 80,
+    "jugador": "C. Mata",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
     "equipo": 321,
     "jugador": "D. Bassi",
     "tipo": "Missing Fixture",
@@ -13739,6 +13733,12 @@
     "jugador": "E. B. Garnas",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 321,
+    "jugador": "F. Gulbrandsen",
+    "tipo": "Questionable",
+    "motivo": "Groin Injury"
    },
    {
     "equipo": 321,
@@ -13965,9 +13965,9 @@
    },
    {
     "equipo": 162,
-    "jugador": "S. Lynen",
+    "jugador": "J. Njinmah",
     "tipo": "Questionable",
-    "motivo": "Illness"
+    "motivo": "Muscle Injury"
    },
    {
     "equipo": 163,
@@ -14018,18 +14018,6 @@
     "jugador": "R. Le Guen",
     "tipo": "Missing Fixture",
     "motivo": "Broken Leg"
-   },
-   {
-    "equipo": 106,
-    "jugador": "K. Doumbia",
-    "tipo": "Questionable",
-    "motivo": "Ankle Injury"
-   },
-   {
-    "equipo": 106,
-    "jugador": "K. Lala",
-    "tipo": "Questionable",
-    "motivo": "Knee Injury"
    },
    {
     "equipo": 114,
@@ -14141,6 +14129,12 @@
     "motivo": "Hamstring Injury"
    },
    {
+    "equipo": 539,
+    "jugador": "P. Ratkov",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
     "equipo": 4665,
     "jugador": "M. Gueye",
     "tipo": "Missing Fixture",
@@ -14211,7 +14205,7 @@
   ],
   "1575551": []
  },
- "ultima": "2026-11-26T19:01:24.068191+01:00",
+ "ultima": "2026-11-26T19:38:10.661402+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
