@@ -16382,8 +16382,8 @@
       "1636393|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.5,
-      1.57,
+      1.44,
+      1.62,
       1.73
     ],
     "solo_redes": true,
@@ -16403,7 +16403,8 @@
     "cuota_bet365": 3.29,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-26T13:10"
   },
   {
     "id": "2026-11-26-loca-th-1600-x500",
