@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 20:15",
+ "actualizado": "2026-11-26 20:26",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -58,9 +58,9 @@
  "total_hoy": 152,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "20:25",
+  "hora": "21:00",
   "dia": "2026-11-26",
-  "titulo": "Os dejo la combi del nec nijmegen – re"
+  "titulo": "La centenaria x20,31"
  },
  "ayer": null,
  "escalera": {
@@ -279,13 +279,13 @@
   }
  },
  "tipos_instagram": {
-  "Combi de partido (reel)": {
-   "posts": 7,
+  "Otros (reel)": {
+   "posts": 46,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 46,
+  "Combi de partido (reel)": {
+   "posts": 7,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
