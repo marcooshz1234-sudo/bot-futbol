@@ -1918,6 +1918,13 @@
     "resultado": "verde",
     "verde_de": "2026-11-26-pick-seguro-2",
     "enviado": "2026-11-26T21:49",
-    "mensaje_id": 646
+    "mensaje_id": 646,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
