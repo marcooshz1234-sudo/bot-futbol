@@ -14515,7 +14515,7 @@
   {
     "id": "2026-11-26-pick-seguro-6",
     "fecha": "2026-11-26T16:30",
-    "texto": "Pick de hoy, con datos detrás 📊\n🧠 Esta va con cabeza: analizada\n\n🟠 Sunderland – Jagiellonia · 21:00\n\n🍀 Trai Hume (Sunderland) comete 1+ faltas @1,53\n🧠 Stake 4/10\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+    "texto": "Pick de hoy, con datos detrás 📊\n🧠 Esta va con cabeza: analizada\n\n🟠 Sunderland – Jagiellonia · 21:00\n\n🍀 Trai Hume (Sunderland) comete 1+ faltas @1,36\n🧠 Stake 4/10\n\n📊 Historial: 14 de 21 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -14523,8 +14523,9 @@
       "1636343|Player Fouls Committed|Trai Hume - 1"
     ],
     "cuotas": [
-      1.53
-    ]
+      1.36
+    ],
+    "cuotas_revisadas": "2026-11-26T15:04"
   },
   {
     "id": "2026-11-26-pick-seguro-2",
