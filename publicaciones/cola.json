@@ -1889,6 +1889,13 @@
     "resultado": "verde",
     "verde_de": "2026-11-26-pick-seguro-4",
     "enviado": "2026-11-26T20:59",
-    "mensaje_id": 644
+    "mensaje_id": 644,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
