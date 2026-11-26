@@ -16194,9 +16194,9 @@
     ],
     "cuotas": [
       1.73,
-      1.44,
-      1.73,
-      3.4
+      1.5,
+      1.8,
+      3.5
     ],
     "solo_en": [
       "threads"
@@ -16208,7 +16208,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-26T08:35"
+    "cuotas_revisadas": "2026-11-26T09:42"
   },
   {
     "id": "2026-11-26-loca-th-1100-lista-ambos",
