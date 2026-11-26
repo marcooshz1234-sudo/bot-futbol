@@ -1926,5 +1926,28 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-26-rojo-auto-2026-11-26-pick-seguro-3",
+    "fecha": "2026-11-26T23:13",
+    "texto": "Hoy no ha podido ser ❌\n\n❌ Orri Steinn Oskarsson: 3+ tiros (Crystal Palace – Real Sociedad 2–1)\n\nAquí se marcan también los fallos. Mañana volvemos con todo 💪",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "resultado": "rojo",
+    "rojo_de": "2026-11-26-pick-seguro-3",
+    "requiere_ok": true,
+    "sin_instagram": true
+  },
+  {
+    "id": "2026-11-26-verde-auto-2026-11-26-pick-seguro-6",
+    "fecha": "2026-11-26T23:13",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Trai Hume (Sunderland) comete 1+ faltas\n\n📈 Cuota @1,36\n\n¿Quién la llevaba? 👇💚",
+    "foto": "publicaciones/media/2026-11-26-verde-auto-2026-11-26-pick-seguro-6.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-26-pick-seguro-6"
   }
 ]
