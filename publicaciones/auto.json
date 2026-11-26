@@ -14383,7 +14383,7 @@
   {
     "id": "2026-11-26-lista-europa-1",
     "fecha": "2026-11-26T12:00",
-    "texto": "🏆⚽ COPAS EUROPEAS · 11 PICKS PARA HOY 🍀 (1/2)\n🤪 Para soñar un poco: con poquito dinero\n\n🇨🇿 Richard Sedlacek (FK Jablonec): 1+ tiros\n🇦🇲 Artur Serobyan (Ararat-Armenia): 2+ tiros\n🇱🇹 Kauno Žalgiris marca\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Heart Of Midlothian marca\n🇨🇿 Plzen marca\n🇳🇱 Ramiz Zerrouki (Twente): 1+ tiros\n🇦🇹 Jon Stankovic (Sturm Graz): 1+ tiros\n🇳🇱 Dave Kwakman (AZ): 1+ tiros\n🇧🇪 Ilias Sebaoui (St. Truiden): 2+ tiros\n🇪🇸 Orri Steinn Oskarsson (Real Sociedad): 3+ tiros\n🇵🇹 Torreense marca\n\n👉 ¡Coge los que más te gusten! ✅",
+    "texto": "🏆⚽ COPAS EUROPEAS · 11 PICKS PARA HOY 🍀 (1/2)\n🤪 Para soñar un poco: con poquito dinero\n\n🇨🇿 Richard Sedlacek (FK Jablonec): 1+ tiros\n🇦🇲 Artur Serobyan (Ararat-Armenia): 2+ tiros\n🇱🇹 Kauno Žalgiris marca\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Heart Of Midlothian marca\n🇨🇿 Plzen marca\n🇳🇱 Ramiz Zerrouki (Twente): 1+ tiros\n🇦🇹 Jon Stankovic (Sturm Graz): 1+ tiros\n🇧🇪 Ilias Sebaoui (St. Truiden): 2+ tiros\n🇵🇹 Torreense marca\n\n👉 ¡Coge los que más te gusten! ✅",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -14395,9 +14395,7 @@
       "1636315|Total - Home|Over 0.5",
       "1636410|Away Player Shots|Ramiz Zerrouki - 1",
       "1636270|Away Player Shots|Jon Stankovic - 1",
-      "1636336|Away Player Shots|Dave Kwakman - 1",
       "1636420|Away Player Shots|Ilias Sebaoui - 2",
-      "1636252|Away Player Shots|Orri Steinn Oskarsson - 3",
       "1636349|Total - Home|Over 0.5"
     ],
     "cuotas": [
@@ -14409,12 +14407,11 @@
       1.57,
       1.3,
       1.28,
-      1.28,
-      1.62,
       1.4
     ],
     "solo_redes": true,
-    "cuotas_revisadas": "2026-11-26T10:33"
+    "cuotas_revisadas": "2026-11-26T10:33",
+    "revisado_alineaciones": "2026-11-26T20:30"
   },
   {
     "id": "2026-11-26-pick-seguro-3",
