@@ -165,8 +165,8 @@
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (combi-partido-1636301, loca-th-0700-tapados, loca-th-1420-tapados)"
   },
   {
-   "clave": "repe-2026-11-26-1636421|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos)"
+   "clave": "repe-2026-11-26-1636381|Total - Away|Over 0.5",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0020-x100, loca-th-1140-x100)"
   },
   {
    "clave": "repe-2026-11-26-1636435|Double Chance|Draw/Away",
@@ -177,12 +177,20 @@
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0500-x50, loca-th-1140-x100)"
   },
   {
-   "clave": "repe-2026-11-26-1636381|Total - Away|Over 0.5",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0020-x100, loca-th-1140-x100)"
+   "clave": "repe-2026-11-26-1636421|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636349|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-26-1636393|Both Teams Score|Yes",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2300-x50, loca-th-1440-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-26-1636315|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-26-1636261|Both Teams Score|Yes",
@@ -193,10 +201,6 @@
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2300-x50, loca-th-0300-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-26-1636252|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2330-escudos, loca-th-0300-lista-ambos)"
-  },
-  {
    "clave": "repe-2026-11-26-1636410|Both Teams Score|Yes",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1700-escudos)"
   },
@@ -205,12 +209,8 @@
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-26-1636349|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-26-1636315|Both Teams Score|Yes",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)"
+   "clave": "repe-2026-11-26-1636252|Both Teams Score|Yes",
+   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2330-escudos, loca-th-0300-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-26-1636393|To Win Either Half|Home",
@@ -249,7 +249,7 @@
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
   }
  ],
- "revisado": "2026-11-26T14:28",
+ "revisado": "2026-11-26T14:36",
  "historial": [
   {
    "hora": "2026-11-26T13:57",
