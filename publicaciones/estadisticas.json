@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 19:12",
+ "actualizado": "2026-11-26 19:23",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4154,
-   "hoy": 134,
+   "seguidores": 4155,
+   "hoy": 135,
    "serie": [
     3248,
     3475,
@@ -24,7 +24,7 @@
     3742,
     3790,
     4020,
-    4154
+    4155
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4751,
- "total_hoy": 146,
+ "total": 4752,
+ "total_hoy": 147,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "19:20",
+  "hora": "19:40",
   "dia": "2026-11-26",
-  "titulo": "Córners del día"
+  "titulo": "La centenaria x29,42"
  },
  "ayer": null,
  "escalera": {
@@ -273,7 +273,7 @@
   },
   "2026-11-26": {
    "instagram": 58,
-   "threads": 4154,
+   "threads": 4155,
    "facebook": 1,
    "telegram": 538
   }

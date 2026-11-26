@@ -61,9 +61,32 @@
    "post": "2026-11-23-cuotaza-1608377-181ed6"
   }
  },
- "top": [],
+ "top": [
+  {
+   "local": "FC Nordsjaelland",
+   "visitante": "Panathinaikos",
+   "inicio": "2026-11-26T21:00",
+   "texto": "FC Nordsjaelland o empate",
+   "cuota": 1.5,
+   "justa": 1.52,
+   "ev": -0.011,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Torreense",
+   "visitante": "Celtic",
+   "inicio": "2026-11-26T21:00",
+   "texto": "Gana el Celtic",
+   "cuota": 1.65,
+   "justa": 1.68,
+   "ev": -0.018,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  }
+ ],
  "ultima": {
-  "hora": "2026-11-26T19:02",
+  "hora": "2026-11-26T19:23",
   "revisadas": 0,
   "mejor": null
  },
