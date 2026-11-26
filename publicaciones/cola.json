@@ -1586,5 +1586,31 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-26-combi-larga-a",
+    "fecha": "2026-11-26T11:30",
+    "texto": "🔥 COMBI LARGA DEL DÍA · 12 PARTIDOS 🔥\n\n➡️ 🇫🇷 Marseille — Win\n➡️ 🇹🇷 Beşiktaş — Win\n➡️ 🇨🇿 Plzen — BTTS\n➡️ 🇭🇷 Dinamo Zagreb — BTTS\n➡️ 🇳🇱 Ajax — BTTS\n➡️ 🇳🇴 Brann — Over 2.5\n➡️ 🇦🇱 Egnatia Rrogozhinë — Win\n➡️ 🇬🇪 Iberia 1999 — Over 1.5\n➡️ 🇩🇰 Aalborg — X1\n➡️ 🇫🇷 Lyon — Win\n➡️ 🇫🇷 Rennes — X2\n➡️ 🇨🇿 Sparta Praha — Over 1.5\n\n📈 Cuota @46,85\n💶 10€ → 469€\n\n🍀 ¿La pintamos de verde? 👀💚",
+    "texto_threads": "🔥 COMBI LARGA DEL DÍA · 12 PARTIDOS 🔥\n\n➡️ 🇫🇷 Marseille — Win\n➡️ 🇹🇷 Beşiktaş — Win\n➡️ 🇨🇿 Plzen — BTTS\n➡️ 🇭🇷 Dinamo Zagreb — BTTS\n➡️ 🇳🇱 Ajax — BTTS\n➡️ 🇳🇴 Brann — Over 2.5\n➡️ 🇦🇱 Egnatia Rrogozhinë — Win\n➡️ 🇬🇪 Iberia 1999 — Over 1.5\n➡️ 🇩🇰 Aalborg — X1\n➡️ 🇫🇷 Lyon — Win\n➡️ 🇫🇷 Rennes — X2\n➡️ 🇨🇿 Sparta Praha — Over 1.5\n\n📈 Cuota @46,85\n\n🍀 ¿La pintamos de verde? 👀💚",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "solo_en": [
+      "threads",
+      "instagram"
+    ],
+    "sel": [],
+    "cuotas": [],
+    "excepcion_cuota": "combi larga diaria (Marcos 15/11)",
+    "nota": "patas: 1636298|Match Winner|Home · 1636231|Match Winner|Home · 1636315|Both Teams Score|Yes · 1636255|Both Teams Score|Yes · 1636381|Both Teams Score|Yes · 1636393|Goals Over/Under|Over 2.5 · 1636405|Match Winner|Home · 1636426|Goals Over/Under|Over 1.5 · 1551383|Double Chance|Home/Draw · 1636294|Match Winner|Home · 1636301|Double Chance|Draw/Away · 1636336|Goals Over/Under|Over 1.5",
+    "redes": {
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    },
+    "errores_redes": {
+      "threads": "400: An unknown error occurred",
+      "instagram": "contenedor ERROR: ERROR"
+    }
   }
 ]
