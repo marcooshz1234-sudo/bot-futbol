@@ -3767,14 +3767,14 @@
   },
   "2026-11-26": {
     "dia": "2026-11-26",
-    "total": 3,
+    "total": 4,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 3,
+      "pendiente": 4,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 3
+      "sin_resolver": 4
     },
     "combis": [
       {
@@ -3794,13 +3794,19 @@
         "titulo": "👑⚽ GANA Y AMBOS MARCAN 👑⚽",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-26-ganadores-conference",
+        "titulo": "🏆 CONFERENCE LEAGUE - GANADORES",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 21
+      "total": 29
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x30,82 🎰 · 30,82 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 EUROPA LEAGUE - GANADORES · pendiente\n⏳ 🎰 LA CENTENARIA x30,82 🎰 · 30,82 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · pendiente\n⏳ 🏆 CONFERENCE LEAGUE - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 4 sin resolver"
   }
 }
