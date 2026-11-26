@@ -14036,12 +14036,6 @@
    },
    {
     "equipo": 517,
-    "jugador": "T. Basic",
-    "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 517,
     "jugador": "T. Correia",
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
@@ -14051,12 +14045,6 @@
     "jugador": "B. Franjic",
     "tipo": "Missing Fixture",
     "motivo": "Shoulder Injury"
-   },
-   {
-    "equipo": 517,
-    "jugador": "P. Mazzocchi",
-    "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
    },
    {
     "equipo": 517,
@@ -14205,7 +14193,7 @@
   ],
   "1575551": []
  },
- "ultima": "2026-11-26T19:38:10.661402+01:00",
+ "ultima": "2026-11-26T20:08:59.233306+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",

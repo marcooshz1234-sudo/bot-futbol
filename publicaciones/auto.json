@@ -16684,11 +16684,11 @@
       "1570468|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.8,
+      1.62,
       2.0,
-      1.8,
+      1.83,
       1.73,
-      1.73
+      1.67
     ],
     "origen": "threads_locas",
     "cuota_bet365": 20.31,
@@ -16699,7 +16699,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-26T20:08"
   },
   {
     "id": "2026-11-27-loca-th-noche-2130-ganaambos",
@@ -16712,8 +16713,8 @@
     ],
     "cuotas": [
       3.0,
-      4.5,
-      4.0
+      4.75,
+      4.33
     ],
     "origen": "threads_locas",
     "cuota_bet365": 54.0,
@@ -16754,7 +16755,8 @@
         }
       ],
       "lema": null
-    }
+    },
+    "cuotas_revisadas": "2026-11-26T20:08"
   },
   {
     "id": "2026-11-27-loca-th-noche-2200-lista-corners",
