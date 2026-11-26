@@ -63,15 +63,15 @@
  },
  "top": [
   {
-   "local": "Brighton",
-   "visitante": "Universitatea Craiova",
+   "local": "FC Iberia 1999",
+   "visitante": "Getafe",
    "inicio": "2026-11-26T18:45",
-   "texto": "Brighton marca 3 o más",
-   "cuota": 1.67,
-   "justa": 1.7,
-   "ev": -0.016,
+   "texto": "Gana el Getafe",
+   "cuota": 1.5,
+   "justa": 1.52,
+   "ev": -0.012,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Pafos",
@@ -82,22 +82,11 @@
    "justa": 1.7,
    "ev": -0.016,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
-  },
-  {
-   "local": "Heart Of Midlothian",
-   "visitante": "Monaco",
-   "inicio": "2026-11-26T18:45",
-   "texto": "Monaco marca 2 o más",
-   "cuota": 1.5,
-   "justa": 1.53,
-   "ev": -0.018,
-   "fuente": "Pinnacle",
    "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-26T07:25",
+  "hora": "2026-11-26T07:45",
   "revisadas": 0,
   "mejor": null
  },
