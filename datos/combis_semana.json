@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-26",
- "generado": "2026-11-26T18:58+01:00",
+ "generado": "2026-11-26T19:28+01:00",
  "rango": [
   "2026-11-26",
   "2026-11-29"
@@ -20,18 +20,6 @@
      "hora": "2026-11-26T21:00",
      "logo_l": "https://media.api-sports.io/football/teams/4799.png",
      "logo_v": "https://media.api-sports.io/football/teams/247.png"
-    },
-    {
-     "sel": "1636336|Away Corners Over/Under|Over 4.5",
-     "texto": "AZ Alkmaar: más de 4,5 córners",
-     "cuota": 1.8,
-     "p": 0.808,
-     "dato": "AZ Alkmaar saca 6,9 córners y el rival concede 6,7",
-     "nota": 0.9751413396839115,
-     "partido": "Sparta Praha–AZ Alkmaar",
-     "hora": "2026-11-26T21:00",
-     "logo_l": "https://media.api-sports.io/football/teams/628.png",
-     "logo_v": "https://media.api-sports.io/football/teams/201.png"
     },
     {
      "sel": "1636252|Player Fouls Committed|Jon Aramburu - 2",
@@ -74,20 +62,20 @@
      "logo_v": "https://media.api-sports.io/football/teams/94.png"
     },
     {
-     "sel": "1636261|Away Corners Over/Under|Over 2.5",
-     "texto": "Celje: más de 2,5 córners",
-     "cuota": 1.62,
-     "p": 0.688,
-     "dato": "Celje saca 2,8 córners y el rival concede 4,3",
-     "nota": 0.7218261746530013,
-     "partido": "Ferencvarosi TC–Celje",
+     "sel": "1636336|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners",
+     "cuota": 1.73,
+     "p": 0.716,
+     "dato": "11,6 córners de media en los partidos de los dos",
+     "nota": 0.789505898410761,
+     "partido": "Sparta Praha–AZ Alkmaar",
      "hora": "2026-11-26T21:00",
-     "logo_l": "https://media.api-sports.io/football/teams/651.png",
-     "logo_v": "https://media.api-sports.io/football/teams/4360.png"
+     "logo_l": "https://media.api-sports.io/football/teams/628.png",
+     "logo_v": "https://media.api-sports.io/football/teams/201.png"
     }
    ],
-   "cuota": 18.2,
-   "media": 0.8866904327396282,
+   "cuota": 10.8,
+   "media": 0.8825361961023234,
    "dia": "2026-11-26"
   },
   {
@@ -1298,36 +1286,6 @@
    "cuota": 2.59
   },
   {
-   "equipo": "AZ Alkmaar",
-   "liga": "Europa League",
-   "partido": "Sparta Praha–AZ Alkmaar",
-   "hora": "2026-11-26T21:00",
-   "logo": "https://media.api-sports.io/football/teams/201.png",
-   "patas": [
-    {
-     "sel": "1636336|Away Corners Over/Under|Over 4.5",
-     "texto": "AZ Alkmaar: más de 4,5 córners",
-     "cuota": 1.8,
-     "p": 0.808,
-     "dato": "AZ Alkmaar saca 6,9 córners y el rival concede 6,7",
-     "nota": 0.9751413396839115,
-     "partido": "Sparta Praha–AZ Alkmaar",
-     "hora": "2026-11-26T21:00"
-    },
-    {
-     "sel": "1636336|Double Chance|Draw/Away",
-     "texto": "AZ Alkmaar o empate",
-     "cuota": 1.4,
-     "p": 0.763,
-     "dato": "AZ Alkmaar: VDVED en sus últimos 5",
-     "nota": 0.7764637950328129,
-     "partido": "Sparta Praha–AZ Alkmaar",
-     "hora": "2026-11-26T21:00"
-    }
-   ],
-   "cuota": 2.52
-  },
-  {
    "equipo": "Torreense",
    "liga": "Europa League",
    "partido": "Torreense–Celtic",
@@ -1405,19 +1363,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/247.png"
     },
     {
-     "sel": "1636336|Away Corners Over/Under|Over 4.5",
-     "texto": "AZ Alkmaar: más de 4,5 córners",
-     "cuota": 1.8,
-     "p": 0.808,
-     "dato": "AZ Alkmaar saca 6,9 córners y el rival concede 6,7",
-     "nota": 0.9751413396839115,
-     "partido": "Sparta Praha–AZ Alkmaar",
-     "hora": "2026-11-26T21:00",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/628.png",
-     "logo_v": "https://media.api-sports.io/football/teams/201.png"
-    },
-    {
      "sel": "1636343|Player Fouls Committed|Kevin Danso - 1",
      "texto": "Kevin Danso: comete 1+ falta",
      "cuota": 1.44,
@@ -1461,6 +1406,19 @@
      "liga": "Conference League",
      "logo_l": "https://media.api-sports.io/football/teams/160.png",
      "logo_v": "https://media.api-sports.io/football/teams/415.png"
+    },
+    {
+     "sel": "1636336|Double Chance|Draw/Away",
+     "texto": "AZ Alkmaar o empate",
+     "cuota": 1.4,
+     "p": 0.763,
+     "dato": "AZ Alkmaar: VDVED en sus últimos 5",
+     "nota": 0.7764637950328129,
+     "partido": "Sparta Praha–AZ Alkmaar",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/628.png",
+     "logo_v": "https://media.api-sports.io/football/teams/201.png"
     },
     {
      "sel": "1636420|To Win Either Half|Home",
@@ -1528,19 +1486,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/998.png"
     },
     {
-     "sel": "1636261|Away Corners Over/Under|Over 2.5",
-     "texto": "Celje: más de 2,5 córners",
-     "cuota": 1.62,
-     "p": 0.688,
-     "dato": "Celje saca 2,8 córners y el rival concede 4,3",
-     "nota": 0.7218261746530013,
-     "partido": "Ferencvarosi TC–Celje",
-     "hora": "2026-11-26T21:00",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/651.png",
-     "logo_v": "https://media.api-sports.io/football/teams/4360.png"
-    },
-    {
      "sel": "1636270|Both Teams Score|Yes",
      "texto": "Ambos marcan (1899 Hoffenheim–Sturm Graz)",
      "cuota": 1.62,
@@ -1555,8 +1500,8 @@
      "solo_todo": true
     }
    ],
-   "cuota": 1082.72,
-   "prob": 0.024
+   "cuota": 519.82,
+   "prob": 0.033
   },
   {
    "patas": [
@@ -1781,6 +1726,19 @@
    "liga": "Varias",
    "patas": [
     {
+     "sel": "1636428|Home Corners Over/Under|Over 2.5",
+     "texto": "Inter Club d'Escaldes: más de 2,5 córners",
+     "cuota": 1.73,
+     "p": 0.946,
+     "dato": "Inter Club d'Escaldes saca 7,2 córners y el rival concede 5,2",
+     "nota": 1.2190032554286094,
+     "partido": "Inter Club d'Escaldes–FC Copenhagen",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/3342.png",
+     "logo_v": "https://media.api-sports.io/football/teams/400.png"
+    },
+    {
      "sel": "1636386|Home Corners Over/Under|Over 3.5",
      "texto": "Borac Banja Luka: más de 3,5 córners",
      "cuota": 1.8,
@@ -1807,6 +1765,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/247.png"
     },
     {
+     "sel": "1636343|Player Fouls Committed|Kevin Danso - 1",
+     "texto": "Kevin Danso: comete 1+ falta",
+     "cuota": 1.44,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (1-0-2-1-2-1)",
+     "nota": 0.864,
+     "equipo": "Sunderland",
+     "lado": "L",
+     "partido": "Sunderland–Jagiellonia",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/746.png",
+     "logo_v": "https://media.api-sports.io/football/teams/336.png"
+    },
+    {
      "sel": "1636252|Player Fouls Committed|Oscar Mingueza - 1",
      "texto": "Oscar Mingueza: comete 1+ falta",
      "cuota": 1.53,
@@ -1822,19 +1795,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/548.png"
     },
     {
-     "sel": "1636336|Double Chance|Draw/Away",
-     "texto": "AZ Alkmaar o empate",
-     "cuota": 1.4,
-     "p": 0.763,
-     "dato": "AZ Alkmaar: VDVED en sus últimos 5",
-     "nota": 0.7764637950328129,
-     "partido": "Sparta Praha–AZ Alkmaar",
-     "hora": "2026-11-26T21:00",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/628.png",
-     "logo_v": "https://media.api-sports.io/football/teams/201.png"
-    },
-    {
      "sel": "1636420|To Win Either Half|Home",
      "texto": "HNK Hajduk Split gana alguna de las dos partes",
      "cuota": 1.62,
@@ -1848,19 +1808,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/735.png"
     },
     {
-     "sel": "1636428|Corners Over Under|Over 8.5",
-     "texto": "Más de 8,5 córners",
-     "cuota": 1.67,
-     "p": 0.75,
-     "dato": "10,8 córners de media en los partidos de los dos",
-     "nota": 0.8418300010141287,
-     "partido": "Inter Club d'Escaldes–FC Copenhagen",
-     "hora": "2026-11-26T21:00",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/3342.png",
-     "logo_v": "https://media.api-sports.io/football/teams/400.png"
-    },
-    {
      "sel": "1636410|Goals Over/Under|Over 2.5",
      "texto": "Más de 2,5 goles",
      "cuota": 1.53,
@@ -1872,19 +1819,6 @@
      "liga": "Conference League",
      "logo_l": "https://media.api-sports.io/football/teams/160.png",
      "logo_v": "https://media.api-sports.io/football/teams/415.png"
-    },
-    {
-     "sel": "1636343|Away Corners Over/Under|Over 2.5",
-     "texto": "Jagiellonia: más de 2,5 córners",
-     "cuota": 1.8,
-     "p": 0.747,
-     "dato": "Jagiellonia saca 3,0 córners y el rival concede 4,8",
-     "nota": 0.8590623050034107,
-     "partido": "Sunderland–Jagiellonia",
-     "hora": "2026-11-26T21:00",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/746.png",
-     "logo_v": "https://media.api-sports.io/football/teams/336.png"
     },
     {
      "sel": "1636412|Home Corners Over/Under|Over 4.5",
@@ -1913,6 +1847,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/617.png"
     },
     {
+     "sel": "1636336|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners",
+     "cuota": 1.73,
+     "p": 0.716,
+     "dato": "11,6 córners de media en los partidos de los dos",
+     "nota": 0.789505898410761,
+     "partido": "Sparta Praha–AZ Alkmaar",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/628.png",
+     "logo_v": "https://media.api-sports.io/football/teams/201.png"
+    },
+    {
      "sel": "1636301|Goals Over/Under|Over 2.5",
      "texto": "Más de 2,5 goles",
      "cuota": 1.53,
@@ -1924,19 +1871,6 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/413.png",
      "logo_v": "https://media.api-sports.io/football/teams/94.png"
-    },
-    {
-     "sel": "1636261|Away Corners Over/Under|Over 2.5",
-     "texto": "Celje: más de 2,5 córners",
-     "cuota": 1.62,
-     "p": 0.688,
-     "dato": "Celje saca 2,8 córners y el rival concede 4,3",
-     "nota": 0.7218261746530013,
-     "partido": "Ferencvarosi TC–Celje",
-     "hora": "2026-11-26T21:00",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/651.png",
-     "logo_v": "https://media.api-sports.io/football/teams/4360.png"
     },
     {
      "sel": "1636402|Both Teams Score|Yes",
@@ -1967,8 +1901,8 @@
      "solo_todo": true
     }
    ],
-   "cuota": 653.98,
-   "prob": 0.013
+   "cuota": 413.42,
+   "prob": 0.024
   },
   {
    "clave": "todo-2026-11-26-3",
@@ -2098,19 +2032,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/598.png"
     },
     {
-     "sel": "1636336|Corners Over Under|Over 9.5",
-     "texto": "Más de 9,5 córners",
-     "cuota": 1.73,
-     "p": 0.716,
-     "dato": "11,6 córners de media en los partidos de los dos",
-     "nota": 0.789505898410761,
-     "partido": "Sparta Praha–AZ Alkmaar",
-     "hora": "2026-11-26T21:00",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/628.png",
-     "logo_v": "https://media.api-sports.io/football/teams/201.png"
-    },
-    {
      "sel": "1636402|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte",
      "cuota": 1.8,
@@ -2124,17 +2045,18 @@
      "logo_v": "https://media.api-sports.io/football/teams/998.png"
     },
     {
-     "sel": "1636261|Away Corners Over/Under|Over 2.5",
-     "texto": "Celje: más de 2,5 córners",
-     "cuota": 1.62,
-     "p": 0.688,
-     "dato": "Celje saca 2,8 córners y el rival concede 4,3",
-     "nota": 0.7218261746530013,
-     "partido": "Ferencvarosi TC–Celje",
+     "sel": "1636336|Both Teams Score|Yes",
+     "texto": "Ambos marcan (Sparta Praha–AZ Alkmaar)",
+     "cuota": 1.53,
+     "p": 0.638,
+     "dato": "marcan los dos en el 100% y el 44% de sus partidos",
+     "nota": 0.638,
+     "partido": "Sparta Praha–AZ Alkmaar",
      "hora": "2026-11-26T21:00",
      "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/651.png",
-     "logo_v": "https://media.api-sports.io/football/teams/4360.png"
+     "logo_l": "https://media.api-sports.io/football/teams/628.png",
+     "logo_v": "https://media.api-sports.io/football/teams/201.png",
+     "solo_todo": true
     },
     {
      "sel": "1636457|Both Teams Score|Yes",
@@ -2165,8 +2087,8 @@
      "solo_todo": true
     }
    ],
-   "cuota": 1103.66,
-   "prob": 0.015
+   "cuota": 602.51,
+   "prob": 0.02
   },
   {
    "clave": "todo-2026-11-28",
