@@ -71,7 +71,7 @@
    "justa": 2.15,
    "ev": 0.002,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "FK Jablonec",
@@ -82,7 +82,7 @@
    "justa": 1.71,
    "ev": -0.007,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Dinamo Zagreb",
@@ -93,11 +93,22 @@
    "justa": 1.7,
    "ev": -0.016,
    "fuente": "Pinnacle",
+   "edad_h": 0.3
+  },
+  {
+   "local": "Red Bull Salzburg",
+   "visitante": "Ararat-Armenia",
+   "inicio": "2026-11-26T18:45",
+   "texto": "Red Bull Salzburg marca 3 o más",
+   "cuota": 1.57,
+   "justa": 1.6,
+   "ev": -0.019,
+   "fuente": "Pinnacle",
    "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-26T14:47",
+  "hora": "2026-11-26T15:08",
   "revisadas": 0,
   "mejor": null
  },
