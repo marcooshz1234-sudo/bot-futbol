@@ -14181,9 +14181,185 @@
   ],
   "1575551": [],
   "1576540": [],
-  "1551385": []
+  "1551385": [],
+  "1563290": [
+   {
+    "equipo": 1379,
+    "jugador": "T. Darikwa",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 1379,
+    "jugador": "M. Melia",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 39,
+    "jugador": "R. Jimenez",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 39,
+    "jugador": "G. Konan",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   }
+  ],
+  "1551388": [],
+  "1563288": [
+   {
+    "equipo": 67,
+    "jugador": "R. Alebiosu",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 67,
+    "jugador": "T. Atcheson",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 67,
+    "jugador": "A. Forshaw",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 67,
+    "jugador": "L. Miller",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Injury"
+   },
+   {
+    "equipo": 67,
+    "jugador": "B. Toth",
+    "tipo": "Missing Fixture",
+    "motivo": "Finger Injury"
+   },
+   {
+    "equipo": 67,
+    "jugador": "M. Jorgensen",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 1335,
+    "jugador": "R. Apter",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 1335,
+    "jugador": "N. Chalobah",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 1335,
+    "jugador": "W. Mannion",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 1335,
+    "jugador": "Z. Mitchell",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 1335,
+    "jugador": "K. Ramsay",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 1335,
+    "jugador": "C. Sichenje",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   }
+  ],
+  "1565314": [],
+  "1563292": [
+   {
+    "equipo": 59,
+    "jugador": "H. Clarke",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 59,
+    "jugador": "J. Erabi",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 59,
+    "jugador": "L. Gibbs",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 59,
+    "jugador": "L. Gibson",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 59,
+    "jugador": "A. Hughes",
+    "tipo": "Missing Fixture",
+    "motivo": "Yellow Cards"
+   },
+   {
+    "equipo": 59,
+    "jugador": "J. Kenny",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 59,
+    "jugador": "A. McCann",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 59,
+    "jugador": "P. Valentin",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 71,
+    "jugador": "A. Ahmed",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 71,
+    "jugador": "P. A. Diallo",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 71,
+    "jugador": "G. Forsyth",
+    "tipo": "Missing Fixture",
+    "motivo": "Lacking Match Fitness"
+   },
+   {
+    "equipo": 71,
+    "jugador": "M. Toure",
+    "tipo": "Missing Fixture",
+    "motivo": "Shoulder Injury"
+   }
+  ]
  },
- "ultima": "2026-11-27T07:08:33.158828+01:00",
+ "ultima": "2026-11-27T07:41:47.886822+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
