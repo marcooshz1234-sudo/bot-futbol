@@ -17334,11 +17334,11 @@
       1.62,
       1.62,
       1.8,
-      1.75,
+      1.8,
       1.7,
-      1.91,
+      1.95,
       1.57,
-      1.8
+      1.91
     ],
     "origen": "threads_locas",
     "cuota_bet365": null,
@@ -17349,7 +17349,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-27T20:33"
   },
   {
     "id": "2026-11-28-loca-th-noche-2230-duelo",
