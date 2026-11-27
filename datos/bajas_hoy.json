@@ -14747,7 +14747,7 @@
     "equipo": 535,
     "jugador": "H. Abaida",
     "tipo": "Missing Fixture",
-    "motivo": "Personal Reasons"
+    "motivo": "Personal reasons"
    },
    {
     "equipo": 535,
@@ -15355,9 +15355,50 @@
   ],
   "1575552": [],
   "1576546": [],
-  "1575546": []
+  "1575546": [],
+  "1608388": [],
+  "1608386": [],
+  "1552828": [
+   {
+    "equipo": 77,
+    "jugador": "A. Bermont",
+    "tipo": "Missing Fixture",
+    "motivo": "Loan agreement"
+   },
+   {
+    "equipo": 77,
+    "jugador": "B. Diatta",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 116,
+    "jugador": "R. Aguilar",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 116,
+    "jugador": "M. Cuisance",
+    "tipo": "Missing Fixture",
+    "motivo": "Illness"
+   },
+   {
+    "equipo": 116,
+    "jugador": "O. Edouard",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 116,
+    "jugador": "M. Nawrocki",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   }
+  ],
+  "1608389": []
  },
- "ultima": "2026-11-27T11:02:56.098100+01:00",
+ "ultima": "2026-11-27T11:36:00.249926+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
