@@ -17089,8 +17089,8 @@
     ],
     "cuotas": [
       1.62,
-      1.44,
-      1.73
+      1.4,
+      1.67
     ],
     "solo_en": [
       "threads"
@@ -17101,7 +17101,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-27T07:31"
   },
   {
     "id": "2026-11-27-loca-th-1230-x500",
