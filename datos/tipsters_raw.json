@@ -20801,13 +20801,6 @@
  ],
  "ApuestasCobrich - Canal Gratuito": [
   {
-   "id": "-1001233274610/196404",
-   "fecha": "2026-11-24T03:20",
-   "texto": "¡LA GRAN INVERSIÓN GRATIS! 🏆\n\n🏀🇺🇸 Baloncesto - Estados Unidos, NBA:\n\n💶 Sabonis coge 13 o mas rebotes\n\n📃 Vamos con los rebotes de Sabonis que sin Wembayama en pista debe apoderarse de su posición bajo del aro para llevarse todos los rebotes que pasen por ahí 💯",
-   "foto": false,
-   "visto": "2026-11-24T03:23"
-  },
-  {
    "id": "-1001233274610/196406",
    "fecha": "2026-11-24T03:22",
    "texto": "",
@@ -22278,6 +22271,13 @@
    "foto": true,
    "visto": "2026-11-27T01:35",
    "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196610.jpg"
+  },
+  {
+   "id": "-1001233274610/196612",
+   "fecha": "2026-11-27T01:43",
+   "texto": "Lleva ya 7. Que recital",
+   "foto": false,
+   "visto": "2026-11-27T01:46"
   }
  ],
  "Pick Maestro": [
