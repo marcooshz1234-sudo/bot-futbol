@@ -2018,5 +2018,22 @@
       "threads": "18429943936156288",
       "instagram": "18119245568028227"
     }
+  },
+  {
+    "id": "2026-11-27-combi-larga-b",
+    "fecha": "2026-11-27T12:30",
+    "texto": "💣 SEGUNDA COMBI LARGA DEL DÍA · 6 PARTIDOS 💣\n\n➡️ 🇵🇹 Portimonense — X2\n➡️ 🇩🇰 Hvidovre — BTTS\n➡️ 🇳🇱 Groningen — BTTS\n➡️ 🇪🇸 Leganes — X1\n➡️ 🇫🇷 Stade Brestois 29 — BTTS\n➡️ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Nottingham Forest — Over 1.5\n\n📈 Cuota @10,08\n💶 10€ → 101€\n\n🍀 ¿La pintamos de verde? 👀💚",
+    "texto_threads": "💣 SEGUNDA COMBI LARGA DEL DÍA · 6 PARTIDOS 💣\n\n➡️ 🇵🇹 Portimonense — X2\n➡️ 🇩🇰 Hvidovre — BTTS\n➡️ 🇳🇱 Groningen — BTTS\n➡️ 🇪🇸 Leganes — X1\n➡️ 🇫🇷 Stade Brestois 29 — BTTS\n➡️ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Nottingham Forest — Over 1.5\n\n📈 Cuota @10,08\n\n🍀 ¿La pintamos de verde? 👀💚",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "solo_en": [
+      "threads",
+      "instagram"
+    ],
+    "sel": [],
+    "cuotas": [],
+    "excepcion_cuota": "combi larga diaria (Marcos 15/11)",
+    "nota": "patas: 1576542|Double Chance|Draw/Away · 1551387|Both Teams Score|Yes · 1552238|Both Teams Score|Yes · 1570043|Double Chance|Home/Draw · 1552830|Both Teams Score|Yes · 1557485|Goals Over/Under|Over 1.5"
   }
 ]
