@@ -72,21 +72,10 @@
    "ev": -0.004,
    "fuente": "Pinnacle",
    "edad_h": 0.0
-  },
-  {
-   "local": "Leganes",
-   "visitante": "Sabadell",
-   "inicio": "2026-11-27T20:30",
-   "texto": "Sabadell o empate",
-   "cuota": 1.62,
-   "justa": 1.65,
-   "ev": -0.019,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-27T19:48",
+  "hora": "2026-11-27T20:14",
   "revisadas": 0,
   "mejor": null
  },
