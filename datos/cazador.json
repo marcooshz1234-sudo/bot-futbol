@@ -71,7 +71,7 @@
    "justa": 2.1,
    "ev": -0.001,
    "fuente": "las otras casas",
-   "edad_h": 1.2
+   "edad_h": 1.5
   },
   {
    "local": "AB Copenhagen",
@@ -82,7 +82,7 @@
    "justa": 2.06,
    "ev": -0.007,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Hvidovre",
@@ -93,7 +93,7 @@
    "justa": 1.86,
    "ev": -0.008,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Novara",
@@ -104,7 +104,7 @@
    "justa": 2.22,
    "ev": -0.009,
    "fuente": "las otras casas",
-   "edad_h": 1.2
+   "edad_h": 1.5
   },
   {
    "local": "Athletic Carpi",
@@ -115,7 +115,7 @@
    "justa": 1.73,
    "ev": -0.015,
    "fuente": "las otras casas",
-   "edad_h": 1.2
+   "edad_h": 1.5
   },
   {
    "local": "Groningen",
@@ -126,7 +126,7 @@
    "justa": 2.13,
    "ev": -0.015,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Hvidovre",
@@ -137,7 +137,7 @@
    "justa": 1.65,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Arouca",
@@ -148,11 +148,11 @@
    "justa": 1.99,
    "ev": -0.02,
    "fuente": "las otras casas",
-   "edad_h": 1.2
+   "edad_h": 1.5
   }
  ],
  "ultima": {
-  "hora": "2026-11-27T10:33",
+  "hora": "2026-11-27T10:54",
   "revisadas": 0,
   "mejor": null
  },
