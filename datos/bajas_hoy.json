@@ -15591,9 +15591,312 @@
   ],
   "1565313": [],
   "1575545": [],
-  "1576544": []
+  "1576544": [],
+  "1552834": [
+   {
+    "equipo": 84,
+    "jugador": "L. Abergel",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 84,
+    "jugador": "M. Bombito",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 84,
+    "jugador": "A. Mendy",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 110,
+    "jugador": "P. Gozzi",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 110,
+    "jugador": "Y. Kone",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 110,
+    "jugador": "M. Ifnaoui",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   }
+  ],
+  "1570470": [
+   {
+    "equipo": 541,
+    "jugador": "R. Asencio",
+    "tipo": "Missing Fixture",
+    "motivo": "Broken Leg"
+   },
+   {
+    "equipo": 541,
+    "jugador": "Endrick",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 541,
+    "jugador": "F. Mendy",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 541,
+    "jugador": "Rodrygo",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 542,
+    "jugador": "F. Garces",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 542,
+    "jugador": "H. Novoa Ramos",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 542,
+    "jugador": "C. Protesoni",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 542,
+    "jugador": "M. Rodriguez",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   }
+  ],
+  "1570046": [],
+  "1552831": [
+   {
+    "equipo": 111,
+    "jugador": "E. Koffi",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
+   },
+   {
+    "equipo": 111,
+    "jugador": "F. Mambimbi",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Injury"
+   },
+   {
+    "equipo": 111,
+    "jugador": "D. Mosengo",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 111,
+    "jugador": "L. Mpasi-Nzau",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Injury"
+   },
+   {
+    "equipo": 111,
+    "jugador": "T. Pembele",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 111,
+    "jugador": "S. Zagadou",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 95,
+    "jugador": "F. Balde",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 95,
+    "jugador": "D. Essugo",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 95,
+    "jugador": "J. Mitchell",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 95,
+    "jugador": "Oso",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 95,
+    "jugador": "J. Panichelli",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   }
+  ],
+  "1552832": [
+   {
+    "equipo": 1298,
+    "jugador": "A. Bourabaa",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 1298,
+    "jugador": "D. Sidibe",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 79,
+    "jugador": "H. Igamane",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 79,
+    "jugador": "T. Nianzou",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 79,
+    "jugador": "T. Santos",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   }
+  ],
+  "1550211": [
+   {
+    "equipo": 505,
+    "jugador": "A. Bonny",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 505,
+    "jugador": "H. Calhanoglu",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 505,
+    "jugador": "P. Zielinski",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 505,
+    "jugador": "A. Bastoni",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 495,
+    "jugador": "L. Colombo",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 495,
+    "jugador": "L. Ostigard",
+    "tipo": "Questionable",
+    "motivo": "Illness"
+   }
+  ],
+  "1552234": [
+   {
+    "equipo": 420,
+    "jugador": "J. Amofa",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 420,
+    "jugador": "J. Berkhout",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 426,
+    "jugador": "M. Brouwer",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 426,
+    "jugador": "B. Martins Indi",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
+   },
+   {
+    "equipo": 426,
+    "jugador": "T. Quintero",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 426,
+    "jugador": "N. Verschuren",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   }
+  ],
+  "1552835": [
+   {
+    "equipo": 85,
+    "jugador": "D. Doue",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 85,
+    "jugador": "K. Kvaratskhelia",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 85,
+    "jugador": "A. Longoni",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 97,
+    "jugador": "M. Bamba",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 97,
+    "jugador": "B. Fadiga",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 97,
+    "jugador": "P. Katseris",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   }
+  ]
  },
- "ultima": "2026-11-27T14:27:28.975737+01:00",
+ "ultima": "2026-11-27T15:01:31.182469+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
