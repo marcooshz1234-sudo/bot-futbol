@@ -16,14 +16,16 @@ def fx(fid, liga, fecha):
 class GrandesLigas(unittest.TestCase):
     def setUp(self):
         self.tmp = Path(tempfile.mkdtemp())
-        (self.tmp / "calendario_140.json").write_text(json.dumps([fx(1, 140, "2026-11-21T15:00:00+00:00"),
-                                                                  fx(2, 140, "2026-11-21T20:00:00+00:00")]))
+        (self.tmp / "calendario_140.json").write_text(json.dumps([fx(i, 140, f"2026-11-21T{10 + i}:00:00+00:00") for i in range(1, 9)]))
         (self.tmp / "calendario_39.json").write_text(json.dumps([fx(3, 39, "2026-11-25T20:00:00+00:00")]))
         G._CACHE.clear()
 
     def test_dia_de_grandes(self):
         self.assertTrue(G.dia_de_grandes("2026-11-21", self.tmp))
         self.assertFalse(G.dia_de_grandes("2026-11-25", self.tmp))   # 1 partido solo no basta
+        (self.tmp / "calendario_39.json").write_text(json.dumps([fx(30 + i, 39, "2026-11-27T20:00:00+00:00") for i in range(4)]))
+        G._CACHE.clear()
+        self.assertFalse(G.dia_de_grandes("2026-11-27", self.tmp))   # 27/11: viernes con 4 partidos, se rellena con otras ligas
 
     def test_eredivisie_fuera_en_dia_de_grandes(self):
         ere = {"sel": ["999|To Score In Both Halves By Teams|Home"]}   # Feyenoord–Excelsior
@@ -52,6 +54,7 @@ class GrandesLigas(unittest.TestCase):
         try:
             self.assertGreater(C.espana_extra({"liga_id": 140}, "2026-11-21"), 0)
             self.assertEqual(C.espana_extra({"liga_id": 39}, "2026-11-21"), 0)
+            self.assertGreater(C.espana_extra({"liga_id": 140}, "2026-11-27"), 0)   # 27/11: LaLiga por delante siempre
         finally:
             G.dia_de_grandes = orig
 

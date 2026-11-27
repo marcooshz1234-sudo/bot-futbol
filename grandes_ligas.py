@@ -12,7 +12,8 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent
 GRANDES5 = (140, 39, 135, 78, 61)
 EUROPA = (2, 3, 848)
-MIN_PARTIDOS = 2           # con 2 o más partidos de las 5 grandes, el día es «de grandes»
+MIN_PARTIDOS = 8           # 27/11: con 8 o más partidos de las 5 grandes, el día es «de grandes». Antes con 2: los
+                           # viernes y lunes (3-5 partidos) se quedaban en 3 picks («hoy muy poco contenido», 23 y 27/11)
 _CACHE = {}
 
 

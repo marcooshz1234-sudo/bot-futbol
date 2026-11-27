@@ -1920,7 +1920,7 @@ ESPANA_EXTRA = 0.06
 
 def espana_extra(p, dia):
     import grandes_ligas
-    return ESPANA_EXTRA if p.get("liga_id") == 140 and grandes_ligas.dia_de_grandes(dia) else 0.0
+    return ESPANA_EXTRA if p.get("liga_id") == 140 else 0.0   # 27/11: siempre, no solo en días de grandes
 
 
 def pick_extra(pools, dia, hh_mm, hechos, ya=(), usados=(), relajado=0):
