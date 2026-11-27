@@ -7253,5 +7253,289 @@
     0.99
    ]
   ]
+ },
+ {
+  "id": "2026-11-28-loca-th-0400-duelo",
+  "fecha": "2026-11-28T04:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1552828|Home Player Shots|Amine Sbai - 2",
+   "1552828|Away Player Shots|Matthieu Udol - 2"
+  ],
+  "cuotas": [
+   1.62,
+   1.91
+  ],
+  "real": 3.15,
+  "multiplicando": 3.094,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-28-loca-th-1000-escudos",
+  "fecha": "2026-11-28T10:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1575234|Home Player Shots|Phillip Tietz - 3",
+   "1575234|Goals Over/Under - Second Half|Over 1.5",
+   "1575234|To Score In Both Halves By Teams|Home"
+  ],
+  "cuotas": [
+   1.4,
+   1.73,
+   2.1
+  ],
+  "real": 4.29,
+  "multiplicando": 5.086,
+  "aj": 0.7364409784205268,
+  "parejas": [
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-28-loca-th-1100-escudos",
+  "fecha": "2026-11-28T11:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1570469|Player Fouls Committed|Peio Canales - 1",
+   "1570469|Player Fouls Committed|Alex Berenguer - 1",
+   "1570469|Total - Home|Over 0.5"
+  ],
+  "cuotas": [
+   1.91,
+   1.4,
+   1.5
+  ],
+  "real": 4.22,
+  "multiplicando": 4.011,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-28-loca-th-1400-escudos",
+  "fecha": "2026-11-28T14:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1552828|Away Player Shots|Matthieu Udol - 2",
+   "1552828|Home Player Shots|Amine Sbai - 2",
+   "1552828|Double Chance|Home/Draw"
+  ],
+  "cuotas": [
+   1.91,
+   1.62,
+   2.1
+  ],
+  "real": 7.39,
+  "multiplicando": 6.498,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-28-loca-th-1420-escudos",
+  "fecha": "2026-11-28T14:20",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1575231|Player Fouls Committed|Robin Koch - 1",
+   "1575231|Away Player Shots|Fares Chaibi - 2",
+   "1575231|Double Chance|Draw/Away"
+  ],
+  "cuotas": [
+   1.44,
+   1.57,
+   1.95
+  ],
+  "real": 4.91,
+  "multiplicando": 4.409,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-28-loca-th-1440-escudos",
+  "fecha": "2026-11-28T14:40",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1557482|Home Player Shots|Julio Enciso - 3",
+   "1557482|Goals Over/Under - Second Half|Over 1.5",
+   "1557482|Match Winner|Away",
+   "1557482|Anytime Goal Scorer|Nicolas Jackson"
+  ],
+  "cuotas": [
+   1.62,
+   1.73,
+   1.95,
+   2.3
+  ],
+  "real": 8.39,
+  "multiplicando": 12.57,
+  "aj": 0.9235728875302461,
+  "parejas": [
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goleador+goles/partido",
+    0.88
+   ],
+   [
+    "goleador+resultado/partido",
+    0.9
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-28-loca-th-1540-tiros",
+  "fecha": "2026-11-28T15:40",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1570469|Player Fouls Committed|Peio Canales - 1",
+   "1570469|Player Fouls Committed|Alex Berenguer - 1",
+   "1570469|Player Fouls Committed|Nico Williams - 1",
+   "1570469|Away Player Shots|Alex Berenguer - 2"
+  ],
+  "cuotas": [
+   1.91,
+   1.4,
+   1.62,
+   1.44
+  ],
+  "real": 5.7,
+  "multiplicando": 6.238,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-28-loca-th-1620-duelo",
+  "fecha": "2026-11-28T16:20",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1575231|Home Player Shots|Ermedin Demirovic - 3",
+   "1575231|Away Player Shots|Fares Chaibi - 2"
+  ],
+  "cuotas": [
+   1.4,
+   1.57
+  ],
+  "real": 2.24,
+  "multiplicando": 2.198,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-28-loca-th-1640-escudos",
+  "fecha": "2026-11-28T16:40",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1552831|Away Player Shots|Gessime Yassine - 2",
+   "1552831|Both Teams Score|Yes",
+   "1552831|Goals Over/Under - Second Half|Over 1.5"
+  ],
+  "cuotas": [
+   1.44,
+   1.57,
+   1.83
+  ],
+  "real": 3.38,
+  "multiplicando": 4.137,
+  "aj": 0.7048845596580888,
+  "parejas": [
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ]
+  ]
  }
 ]

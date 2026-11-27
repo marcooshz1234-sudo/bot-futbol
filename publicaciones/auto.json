@@ -17752,5 +17752,914 @@
     "cuotas": [
       1.44
     ]
+  },
+  {
+    "id": "2026-11-28-loca-th-0020-x100",
+    "fecha": "2026-11-28T00:20",
+    "texto": "🧨 COMBI POR 38,42 🧨\n\n🇩🇪 Hamburger SV–Bayern München 15:30\n✅ 🎳 Dayot Upamecano: 1+ tiros · ✅ ↔️ Ambos marcan\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Leeds–Coventry 16:00\n✅ 🥅 Coventry marca\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester United–Brentford 16:00\n✅ 🧱 Brentford o empate · ✅ 📈 +1,5 goles en la 2ª parte del Manchester United–Brentford\n🇮🇹 Torino–Lazio 18:00\n✅ ⚡ Lazio gana una parte\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ipswich–Aston Villa 18:30\n✅ 📈 +1,5 goles en la 2ª parte del Ipswich–Aston Villa\n\n🎯 CUOTA 38,42 aprox. 💎 10€ → 384€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1575235|Away Player Shots|Dayot Upamecano - 1",
+      "1575235|Both Teams Score|Yes",
+      "1557483|Total - Away|Over 0.5",
+      "1557484|Double Chance|Draw/Away",
+      "1557484|Goals Over/Under - Second Half|Over 1.5",
+      "1550214|To Win Either Half|Away",
+      "1557482|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.62,
+      1.67,
+      1.62,
+      1.67,
+      1.73,
+      1.62,
+      1.73
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 38.42,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-0040-ganaambos",
+    "fecha": "2026-11-28T00:40",
+    "texto": "⚽🏆 GANA Y AMBOS MARCAN ⚽🏆\n\n🇫🇷 Angers – Lens · 17:15\n🎭 Gana Lens y ambos marcan\n\n🇫🇷 Le Havre – Strasbourg · 20:45\n🎭 Gana Strasbourg y ambos marcan\n\n🇪🇸 Real Madrid – Alaves · 21:00\n🎭 Gana Real Madrid y ambos marcan\n\n🎯 CUOTA 32,50 💎 · 10€ → 325€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1552828|Results/Both Teams Score|Away/Yes",
+      "1552831|Results/Both Teams Score|Away/Yes",
+      "1570470|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      3.25,
+      4.0,
+      2.5
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 32.5,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "ganadores_img": {
+      "titulo": "GANA Y AMBOS MARCAN",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/116.png",
+          "nombre": "Lens",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/95.png",
+          "nombre": "Strasbourg",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/541.png",
+          "nombre": "Real Madrid",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        }
+      ],
+      "lema": null
+    }
+  },
+  {
+    "id": "2026-11-28-loca-th-0300-lista-ambos",
+    "fecha": "2026-11-28T03:00",
+    "texto": "⚽ AMBOS MARCAN HOY ⚽\n\n1. 🇪🇸 Real Betis–Rayo Vallecano ➜ Ambos marcan @1,62\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Leeds–Coventry ➜ Ambos marcan @1,80\n3. 🇪🇸 Malaga–Athletic Club ➜ Ambos marcan @1,80\n4. 🇮🇹 Torino–Lazio ➜ Ambos marcan @1,70\n5. 🇫🇷 Le Havre–Strasbourg ➜ Ambos marcan @1,57\n6. 🇫🇷 Le Mans–Lille ➜ Ambos marcan @1,91\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1570463|Both Teams Score|Yes",
+      "1557483|Both Teams Score|Yes",
+      "1570469|Both Teams Score|Yes",
+      "1550214|Both Teams Score|Yes",
+      "1552831|Both Teams Score|Yes",
+      "1552832|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.62,
+      1.8,
+      1.8,
+      1.7,
+      1.57,
+      1.91
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-0400-duelo",
+    "fecha": "2026-11-28T04:00",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Angers vs Lens · 17:15\n\n🎳 Amine Sbai: 2+ tiros (Angers)\n🎳 Matthieu Udol: 2+ tiros (Lens)\n\n🎯 CUOTA 3,15 aprox. 💎 · 10€ → 31,50€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1552828|Home Player Shots|Amine Sbai - 2",
+      "1552828|Away Player Shots|Matthieu Udol - 2"
+    ],
+    "cuotas": [
+      1.62,
+      1.91
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 3.15,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-28-loca-th-0500-x50",
+    "fecha": "2026-11-28T05:00",
+    "texto": "💰🚀 COMBI x45,75 💰🚀\n\n🇮🇹 Frosinone–Parma 15:00\n✅ 🔫 Enrico Del Prato: 1+ tiros\n🇩🇪 Hamburger SV–Bayern München 15:30\n✅ 🥅 Hamburger SV marca\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Leeds–Coventry 16:00\n✅ 🥅 Coventry marca\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester United–Brentford 16:00\n✅ ⚖️ Brentford o empate\n🇮🇹 Torino–Lazio 18:00\n✅ ⚡ Lazio gana una parte\n🇮🇹 Inter–Genoa 20:45\n✅ 🦵 Nicolo Barella comete 1+ faltas · ✅ 🥅 Genoa marca\n🇫🇷 Le Mans–Lille 20:45\n✅ ⚡ Lille gana una parte\n\n🎯 CUOTA 45,75 aprox. 💎 10€ → 458€\n✅ 🔥 ¡A POR ELLA, FAMILIA! 🔥",
+    "sel": [
+      "1550210|Away Player Shots|Enrico Del Prato - 1",
+      "1575235|Total - Home|Over 0.5",
+      "1557483|Total - Away|Over 0.5",
+      "1557484|Double Chance|Draw/Away",
+      "1550214|To Win Either Half|Away",
+      "1550211|Player Fouls Committed|Nicolo Barella - 1",
+      "1550211|Total - Away|Over 0.5",
+      "1552832|To Win Either Half|Away"
+    ],
+    "cuotas": [
+      1.62,
+      1.53,
+      1.62,
+      1.67,
+      1.62,
+      1.5,
+      1.73,
+      1.57
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 45.75,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-0600-hora",
+    "fecha": "2026-11-28T06:00",
+    "texto": "⏳ TODO A LAS 20:45 ⏳\n\n🇫🇷 Nice – Estac Troyes ➜ 🛡️ Estac Troyes o empate\n🇫🇷 Le Havre – Strasbourg ➜ 🔫 Gessime Yassine: 2+ tiros\n🇫🇷 Le Mans – Lille ➜ 💥 Le Mans marca\n🇮🇹 Inter – Genoa ➜ 🦵 Nicolo Barella comete 1+ faltas\n🇫🇷 Paris Saint Germain – Lorient ➜ 🔫 Achraf Hakimi: 2+ tiros\n\n🎯 CUOTA 10,23 💎 · 10€ → 102€\n\n⏳ Todo se decide a la vez 🔥",
+    "sel": [
+      "1550211|Player Fouls Committed|Nicolo Barella - 1",
+      "1552831|Away Player Shots|Gessime Yassine - 2",
+      "1552832|Total - Home|Over 0.5",
+      "1552834|Double Chance|Draw/Away",
+      "1552835|Home Player Shots|Achraf Hakimi - 2"
+    ],
+    "cuotas": [
+      1.5,
+      1.44,
+      1.44,
+      2.15,
+      1.53
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 10.23,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-0700-tapados",
+    "fecha": "2026-11-28T07:00",
+    "texto": "🐶 LA DE LOS TAPADOS 🐶\n\nHoy vamos con los que nadie ve 👀\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester United – Brentford ➜ ✅ 🔒 Brentford o empate @1,67\n🇪🇸 Malaga – Athletic Club ➜ ✅ 🔒 Malaga o empate @2,05\n🇩🇪 VfB Stuttgart – Eintracht Frankfurt ➜ ✅ 🔒 Eintracht Frankfurt o empate @1,95\n🇫🇷 Le Mans – Lille ➜ ✅ 🔒 Le Mans o empate @1,73\n\n🎯 CUOTA 11,55 💎 · 10€ → 116€\n\n🤫 Si sale esta, nos retiramos 🤫",
+    "sel": [
+      "1557484|Double Chance|Draw/Away",
+      "1570469|Double Chance|Home/Draw",
+      "1575231|Double Chance|Draw/Away",
+      "1552832|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      1.67,
+      2.05,
+      1.95,
+      1.73
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 11.55,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "ganadores_img": {
+      "titulo": "LA DE LOS TAPADOS",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/55.png",
+          "nombre": "Brentford",
+          "pick": "O EMPATE",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/535.png",
+          "nombre": "Malaga",
+          "pick": "O EMPATE",
+          "seleccion": false
+        },
+        {
+          "pais": "Germany",
+          "bandera": "🇩🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/169.png",
+          "nombre": "Eintracht Frankfurt",
+          "pick": "O EMPATE",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/1298.png",
+          "nombre": "Le Mans",
+          "pick": "O EMPATE",
+          "seleccion": false
+        }
+      ],
+      "lema": null
+    }
+  },
+  {
+    "id": "2026-11-28-loca-th-0800-x500",
+    "fecha": "2026-11-28T08:00",
+    "texto": "🤑💸 COMBI x94,98 🤑💸\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester United–Brentford 16:00\n🏆 Brentford gana una parte\n🇪🇸 Malaga–Athletic Club 16:15\n🦵 Peio Canales comete 1+ faltas\n🇩🇪 VfB Stuttgart–Eintracht Frankfurt 18:30\n🏆 Eintracht Frankfurt gana una parte\n🇮🇹 Inter–Genoa 20:45\n🔁 Ambos marcan\n🇫🇷 Le Havre–Strasbourg 20:45\n💣 +1,5 goles en la 2ª parte del Le Havre–Strasbourg\n🇫🇷 Le Mans–Lille 20:45\n🔁 Ambos marcan\n🇪🇸 Real Madrid–Alaves 21:00\n🚀 Alaves marca\n\n🎯 CUOTA 94,98 💎 10€ → 950€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1557484|To Win Either Half|Away",
+      "1570469|Player Fouls Committed|Peio Canales - 1",
+      "1575231|To Win Either Half|Away",
+      "1550211|Both Teams Score|Yes",
+      "1552831|Goals Over/Under - Second Half|Over 1.5",
+      "1552832|Both Teams Score|Yes",
+      "1570470|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.91,
+      1.91,
+      2.0,
+      1.95,
+      1.83,
+      1.91,
+      1.91
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 94.98,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-28-loca-th-0900-lista-corners",
+    "fecha": "2026-11-28T09:00",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇮🇹 Frosinone–Parma ➜ Frosinone más de 6,5 córners @1,67\n2. 🇩🇪 SC Paderborn 07–FC Schalke 04 ➜ SC Paderborn 07 más de 4,5 córners @1,73\n3. 🇩🇪 1. FC Köln–SV Elversberg ➜ 1. FC Köln más de 5,5 córners @1,83\n4. 🇫🇷 Angers–Lens ➜ +9,5 córners @1,73\n5. 🇮🇹 Torino–Lazio ➜ Torino más de 3,5 córners @1,73\n6. 🇪🇸 Elche–Atletico Madrid ➜ Elche más de 3,5 córners @1,83\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1550210|Home Corners Over/Under|Over 6.5",
+      "1575236|Home Corners Over/Under|Over 5.5",
+      "1575238|Home Corners Over/Under|Over 4.5",
+      "1552828|Corners Over Under|Over 9.5",
+      "1550214|Home Corners Over/Under|Over 3.5",
+      "1570466|Home Corners Over/Under|Over 3.5"
+    ],
+    "cuotas": [
+      1.67,
+      1.83,
+      1.73,
+      1.73,
+      1.73,
+      1.83
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-0920-empates",
+    "fecha": "2026-11-28T09:20",
+    "texto": "😮‍💨 LA COMBI DE LOS EMPATES 😮‍💨\n\n🇩🇪 SC Paderborn 07 – FC Schalke 04 · 15:30 ➜ 🤝 Empate @3,30\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester United – Brentford · 16:00 ➜ 🤝 Empate @3,75\n🇫🇷 Le Mans – Lille · 20:45 ➜ 🤝 Empate @3,30\n\n🎯 CUOTA 40,84 💎 · 10€ → 408€\n\n😮‍💨 Para valientes 😮‍💨",
+    "sel": [
+      "1575238|Match Winner|Draw",
+      "1557484|Match Winner|Draw",
+      "1552832|Match Winner|Draw"
+    ],
+    "cuotas": [
+      3.3,
+      3.75,
+      3.3
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 40.84,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-1000-escudos",
+    "fecha": "2026-11-28T10:00",
+    "texto": "⚡ COMBI FSV MAINZ 05 – UNION BERLIN ⚡\n\n⭐ FSV Mainz 05 vs Union Berlin · 15:30\n\n✅ 🔫 Phillip Tietz: 3+ tiros\n✅ 📈 +1,5 goles en la 2ª parte del FSV Mainz 05–Union Berlin\n✅ 📈 FSV Mainz 05 marca en las dos partes\n\n🎯 CUOTA 4,29 aprox. 💎 10€ → 42,90€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1575234|Home Player Shots|Phillip Tietz - 3",
+      "1575234|Goals Over/Under - Second Half|Over 1.5",
+      "1575234|To Score In Both Halves By Teams|Home"
+    ],
+    "cuotas": [
+      1.4,
+      1.73,
+      2.1
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "FSV Mainz 05",
+      "visitante": "Union Berlin",
+      "id_l": 164,
+      "id_v": 182,
+      "logo_l": "https://media.api-sports.io/football/teams/164.png",
+      "logo_v": "https://media.api-sports.io/football/teams/182.png",
+      "fecha": "2026-11-28T15:30",
+      "liga": "Bundesliga"
+    },
+    "cuota_total": 4.29,
+    "cuota_calculada": true,
+    "cuota_bet365": 4.29,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-1100-escudos",
+    "fecha": "2026-11-28T11:00",
+    "texto": "🔥 COMBI MALAGA – ATHLETIC CLUB 🔥\n\n⭐ Malaga vs Athletic Club · 16:15\n\n🦵 Peio Canales comete 1+ faltas\n🦵 Alex Berenguer comete 1+ faltas\n🥅 Malaga marca\n\n🎯 CUOTA 4,22 aprox. 💎 10€ → 42,20€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1570469|Player Fouls Committed|Peio Canales - 1",
+      "1570469|Player Fouls Committed|Alex Berenguer - 1",
+      "1570469|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.91,
+      1.4,
+      1.5
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Malaga",
+      "visitante": "Athletic Club",
+      "id_l": 535,
+      "id_v": 531,
+      "logo_l": "https://media.api-sports.io/football/teams/535.png",
+      "logo_v": "https://media.api-sports.io/football/teams/531.png",
+      "fecha": "2026-11-28T16:15",
+      "liga": "La Liga"
+    },
+    "cuota_total": 4.22,
+    "cuota_calculada": true,
+    "cuota_bet365": 4.22,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-28-loca-th-1400-escudos",
+    "fecha": "2026-11-28T14:00",
+    "texto": "💥 COMBI ANGERS – LENS 💥\n\n⭐ Angers vs Lens · 17:15\n\n✅ 🎳 Matthieu Udol: 2+ tiros\n✅ 🎳 Amine Sbai: 2+ tiros\n✅ 🛡️ Angers o empate\n\n🎯 CUOTA 7,39 aprox. 💎 10€ → 73,90€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1552828|Away Player Shots|Matthieu Udol - 2",
+      "1552828|Home Player Shots|Amine Sbai - 2",
+      "1552828|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      1.91,
+      1.62,
+      2.1
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Angers",
+      "visitante": "Lens",
+      "id_l": 77,
+      "id_v": 116,
+      "logo_l": "https://media.api-sports.io/football/teams/77.png",
+      "logo_v": "https://media.api-sports.io/football/teams/116.png",
+      "fecha": "2026-11-28T17:15",
+      "liga": "Ligue 1"
+    },
+    "cuota_total": 7.39,
+    "cuota_calculada": true,
+    "cuota_bet365": 7.39,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-1420-escudos",
+    "fecha": "2026-11-28T14:20",
+    "texto": "🔥 COMBI VFB STUTTGART – EINTRACHT FRANKFURT 🔥\n\n⭐ VfB Stuttgart vs Eintracht Frankfurt · 18:30\n\n🦵 Robin Koch comete 1+ faltas\n🎳 Fares Chaibi: 2+ tiros\n🧱 Eintracht Frankfurt o empate\n\n🎯 CUOTA 4,91 aprox. 💎 10€ → 49,10€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1575231|Player Fouls Committed|Robin Koch - 1",
+      "1575231|Away Player Shots|Fares Chaibi - 2",
+      "1575231|Double Chance|Draw/Away"
+    ],
+    "cuotas": [
+      1.44,
+      1.57,
+      1.95
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "VfB Stuttgart",
+      "visitante": "Eintracht Frankfurt",
+      "id_l": 172,
+      "id_v": 169,
+      "logo_l": "https://media.api-sports.io/football/teams/172.png",
+      "logo_v": "https://media.api-sports.io/football/teams/169.png",
+      "fecha": "2026-11-28T18:30",
+      "liga": "Bundesliga"
+    },
+    "cuota_total": 4.91,
+    "cuota_calculada": true,
+    "cuota_bet365": 4.91,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-1440-escudos",
+    "fecha": "2026-11-28T14:40",
+    "texto": "🔥 COMBI IPSWICH – ASTON VILLA 🔥\n\n⭐ Ipswich vs Aston Villa · 18:30\n\n✅ 💨 Julio Enciso: 3+ tiros\n✅ 📈 +1,5 goles en la 2ª parte del Ipswich–Aston Villa\n✅ ⚡ Gana el Aston Villa\n✅ ☄️ Nicolas Jackson marca\n\n🎯 CUOTA 8,39 aprox. 💎 10€ → 83,90€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1557482|Home Player Shots|Julio Enciso - 3",
+      "1557482|Goals Over/Under - Second Half|Over 1.5",
+      "1557482|Match Winner|Away",
+      "1557482|Anytime Goal Scorer|Nicolas Jackson"
+    ],
+    "cuotas": [
+      1.62,
+      1.73,
+      1.95,
+      2.3
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Ipswich",
+      "visitante": "Aston Villa",
+      "id_l": 57,
+      "id_v": 66,
+      "logo_l": "https://media.api-sports.io/football/teams/57.png",
+      "logo_v": "https://media.api-sports.io/football/teams/66.png",
+      "fecha": "2026-11-28T18:30",
+      "liga": "Premier League"
+    },
+    "cuota_total": 8.39,
+    "cuota_calculada": true,
+    "cuota_bet365": 8.39,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-1520-reto",
+    "fecha": "2026-11-28T15:20",
+    "texto": "💶 RETO: DE 1€ A 482€ 💶\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester United–Brentford 16:00\n🥅 Brentford marca 2+\n🇪🇸 Malaga–Athletic Club 16:15\n🛡️ Malaga o empate\n🇮🇹 Torino–Lazio 18:00\n🥅 Lazio marca 2+\n🇩🇪 VfB Stuttgart–Eintracht Frankfurt 18:30\n🏹 Fares Chaibi: 3+ tiros · 👑 Eintracht Frankfurt gana una parte\n🇫🇷 Le Mans–Lille 20:45\n👑 Le Mans gana una parte\n🇫🇷 Paris Saint Germain–Lorient 20:45\n⚔️ Ambos marcan\n🇪🇸 Real Madrid–Alaves 21:00\n⚔️ Ambos marcan\n\n🎯 CUOTA 482 aprox. 💎 1€ → 482€\n💚 ¡A POR EL VERDE! 💚",
+    "sel": [
+      "1557484|Total - Away|Over 1.5",
+      "1570469|Double Chance|Home/Draw",
+      "1550214|Total - Away|Over 1.5",
+      "1575231|Away Player Shots|Fares Chaibi - 3",
+      "1575231|To Win Either Half|Away",
+      "1552832|To Win Either Half|Home",
+      "1552835|Both Teams Score|Yes",
+      "1570470|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      2.25,
+      2.05,
+      2.1,
+      2.62,
+      2.0,
+      2.25,
+      2.0,
+      2.0
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 482.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-28-loca-th-1540-tiros",
+    "fecha": "2026-11-28T15:40",
+    "texto": "🎯 COMBI DE TIROS · MALAGA vs ATHLETIC CLUB 🎯\n\n⭐ Malaga – Athletic Club · 16:15\n✅ 🦵 Peio Canales comete 1+ faltas\n✅ 🦵 Alex Berenguer comete 1+ faltas\n✅ 🦵 Nico Williams comete 1+ faltas\n✅ 🎯 Alex Berenguer: 2+ tiros\n\n🎯 CUOTA 5,70 aprox. 💎 · 10€ → 57,00€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
+    "sel": [
+      "1570469|Player Fouls Committed|Peio Canales - 1",
+      "1570469|Player Fouls Committed|Alex Berenguer - 1",
+      "1570469|Player Fouls Committed|Nico Williams - 1",
+      "1570469|Away Player Shots|Alex Berenguer - 2"
+    ],
+    "cuotas": [
+      1.91,
+      1.4,
+      1.62,
+      1.44
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 5.7,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-1600-lista-corners",
+    "fecha": "2026-11-28T16:00",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇫🇷 Angers–Lens ➜ +9,5 córners @1,73\n2. 🇮🇹 Torino–Lazio ➜ Torino más de 3,5 córners @1,73\n3. 🇪🇸 Elche–Atletico Madrid ➜ Elche más de 3,5 córners @1,83\n4. 🇩🇪 VfB Stuttgart–Eintracht Frankfurt ➜ Eintracht Frankfurt más de 3,5 córners @1,73\n5. 🇪🇸 Real Madrid–Alaves ➜ Alaves más de 2,5 córners @1,62\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1552828|Corners Over Under|Over 9.5",
+      "1550214|Home Corners Over/Under|Over 3.5",
+      "1570466|Home Corners Over/Under|Over 3.5",
+      "1575231|Away Corners Over/Under|Over 3.5",
+      "1570470|Away Corners Over/Under|Over 2.5"
+    ],
+    "cuotas": [
+      1.73,
+      1.73,
+      1.83,
+      1.73,
+      1.62
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-1620-duelo",
+    "fecha": "2026-11-28T16:20",
+    "texto": "🤺 EL DUELO DE TIROS 🤺\n\n⭐ VfB Stuttgart vs Eintracht Frankfurt · 18:30\n\n✅ 🏹 Ermedin Demirovic: 3+ tiros (VfB Stuttgart)\n✅ 🏹 Fares Chaibi: 2+ tiros (Eintracht Frankfurt)\n\n🎯 CUOTA 2,24 aprox. 💎 · 10€ → 22,40€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1575231|Home Player Shots|Ermedin Demirovic - 3",
+      "1575231|Away Player Shots|Fares Chaibi - 2"
+    ],
+    "cuotas": [
+      1.4,
+      1.57
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.24,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-1640-escudos",
+    "fecha": "2026-11-28T16:40",
+    "texto": "💥 COMBI LE HAVRE – STRASBOURG 💥\n\n⭐ Le Havre vs Strasbourg · 20:45\n\n🎳 Gessime Yassine: 2+ tiros\n🔁 Ambos marcan\n🔥 +1,5 goles en la 2ª parte del Le Havre–Strasbourg\n\n🎯 CUOTA 3,38 aprox. 💎 10€ → 33,80€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1552831|Away Player Shots|Gessime Yassine - 2",
+      "1552831|Both Teams Score|Yes",
+      "1552831|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.44,
+      1.57,
+      1.83
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Le Havre",
+      "visitante": "Strasbourg",
+      "id_l": 111,
+      "id_v": 95,
+      "logo_l": "https://media.api-sports.io/football/teams/111.png",
+      "logo_v": "https://media.api-sports.io/football/teams/95.png",
+      "fecha": "2026-11-28T20:45",
+      "liga": "Ligue 1"
+    },
+    "cuota_total": 3.38,
+    "cuota_calculada": true,
+    "cuota_bet365": 3.38,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-28-loca-th-1700-x100",
+    "fecha": "2026-11-28T17:00",
+    "texto": "🧨 COMBI POR 70,35 🧨\n\n🇮🇹 Torino–Lazio 18:00\n✅ 🎭 Ambos marcan · ✅ ⏱️ +1,5 goles en la 2ª parte del Torino–Lazio\n🇩🇪 VfB Stuttgart–Eintracht Frankfurt 18:30\n✅ 🎳 Fares Chaibi: 2+ tiros\n🇮🇹 Inter–Genoa 20:45\n✅ ⚽ Genoa marca\n🇫🇷 Le Mans–Lille 20:45\n✅ 🦁 Lille gana una parte\n🇫🇷 Paris Saint Germain–Lorient 20:45\n✅ ⚽ Lorient marca · ✅ ⚽ Senny Mayulu marca\n🇪🇸 Real Madrid–Alaves 21:00\n✅ 🎳 Lucas Boye: 2+ tiros\n\n🎯 CUOTA 70,35 aprox. 💎 10€ → 704€\n💚 ¡A POR EL VERDE! 💚",
+    "sel": [
+      "1550214|Both Teams Score|Yes",
+      "1550214|Goals Over/Under - Second Half|Over 1.5",
+      "1575231|Away Player Shots|Fares Chaibi - 2",
+      "1550211|Total - Away|Over 0.5",
+      "1552832|To Win Either Half|Away",
+      "1552835|Total - Away|Over 0.5",
+      "1552835|Anytime Goal Scorer|Senny Mayulu",
+      "1570470|Away Player Shots|Lucas Boye - 2"
+    ],
+    "cuotas": [
+      1.7,
+      2.0,
+      1.57,
+      1.73,
+      1.57,
+      1.83,
+      2.2,
+      1.67
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 70.35,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-1740-x50",
+    "fecha": "2026-11-28T17:40",
+    "texto": "🤑💸 COMBI x45,15 🤑💸\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ipswich–Aston Villa 18:30\n📈 +1,5 goles en la 2ª parte del Ipswich–Aston Villa · 🏆 Gana el Aston Villa\n🇮🇹 Inter–Genoa 20:45\n🦵 Nicolo Barella comete 1+ faltas\n🇫🇷 Le Mans–Lille 20:45\n🧱 Le Mans o empate\n🇫🇷 Paris Saint Germain–Lorient 20:45\n🎳 Achraf Hakimi: 2+ tiros · 🎯 Lorient marca\n🇪🇸 Real Madrid–Alaves 21:00\n🎯 Alaves marca\n\n🎯 CUOTA 45,15 aprox. 💎 10€ → 452€\n🔥 ¡A POR ELLA, FAMILIA! 🔥",
+    "sel": [
+      "1557482|Goals Over/Under - Second Half|Over 1.5",
+      "1557482|Match Winner|Away",
+      "1550211|Player Fouls Committed|Nicolo Barella - 1",
+      "1552832|Double Chance|Home/Draw",
+      "1552835|Home Player Shots|Achraf Hakimi - 2",
+      "1552835|Total - Away|Over 0.5",
+      "1570470|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.73,
+      1.95,
+      1.5,
+      1.73,
+      1.53,
+      1.83,
+      1.91
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 45.15,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-1820-x500",
+    "fecha": "2026-11-28T18:20",
+    "texto": "🎰 COMBI x561 🎰\n\n🇮🇹 Inter–Genoa 20:45\n✅ 💨 Milutin Osmajic: 2+ tiros · ✅ ⚽ Ambos marcan\n🇫🇷 Le Havre–Strasbourg 20:45\n✅ 📐 Le Havre más de 4,5 córners\n🇫🇷 Le Mans–Lille 20:45\n✅ 🥇 Le Mans gana una parte\n🇫🇷 Nice–Estac Troyes 20:45\n✅ 🛡️ Estac Troyes o empate · ✅ 🎯 Elye Wahi marca\n🇫🇷 Paris Saint Germain–Lorient 20:45\n✅ 🎯 Senny Mayulu marca · ✅ ⚽ Ambos marcan\n🇪🇸 Real Madrid–Alaves 21:00\n✅ 🎯 Alaves marca\n\n🎯 CUOTA 561 aprox. 💎 10€ → 5.606€\n👇 ¿Cuál quitaríais? 👇",
+    "sel": [
+      "1550211|Away Player Shots|Milutin Osmajic - 2",
+      "1550211|Both Teams Score|Yes",
+      "1552831|Home Corners Over/Under|Over 4.5",
+      "1552832|To Win Either Half|Home",
+      "1552834|Double Chance|Draw/Away",
+      "1552834|Anytime Goal Scorer|Elye Wahi",
+      "1552835|Anytime Goal Scorer|Senny Mayulu",
+      "1552835|Both Teams Score|Yes",
+      "1570470|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.83,
+      1.95,
+      1.91,
+      2.25,
+      2.15,
+      2.4,
+      2.2,
+      2.0,
+      1.91
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 561.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-1840-x1000",
+    "fecha": "2026-11-28T18:40",
+    "texto": "🧨 COMBI x1.862 🧨\n\n🇫🇷 Le Havre–Strasbourg 20:45\n🏳️ Le Havre más córners\n🇫🇷 Le Mans–Lille 20:45\n⚡ Le Mans gana una parte\n🇫🇷 Nice–Estac Troyes 20:45\n🌋 Nice marca en las dos partes · 🎯 Elye Wahi marca · ⚡ Estac Troyes gana una parte\n🇫🇷 Paris Saint Germain–Lorient 20:45\n🏳️ Lorient más de 2,5 córners · ↔️ Ambos marcan · 🎯 Senny Mayulu marca\n🇪🇸 Real Madrid–Alaves 21:00\n↔️ Ambos marcan\n\n🎯 CUOTA 1.862 aprox. 💎 10€ → 18.625€\n👇 ¿Cuál quitaríais? 👇",
+    "sel": [
+      "1552831|Corners 1x2|Home",
+      "1552832|To Win Either Half|Home",
+      "1552834|To Score In Both Halves By Teams|Home",
+      "1552834|Anytime Goal Scorer|Elye Wahi",
+      "1552834|To Win Either Half|Away",
+      "1552835|Away Corners Over/Under|Over 2.5",
+      "1552835|Both Teams Score|Yes",
+      "1552835|Anytime Goal Scorer|Senny Mayulu",
+      "1570470|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      2.0,
+      2.25,
+      2.5,
+      2.4,
+      2.62,
+      2.0,
+      2.0,
+      2.2,
+      2.0
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 1862.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-28-loca-th-1900-x100",
+    "fecha": "2026-11-28T19:00",
+    "texto": "🤑 COMBI POR 245 🤑\n\n🇫🇷 Le Havre–Strasbourg 20:45\n✅ 🥅 Josh Maja marca\n🇫🇷 Le Mans–Lille 20:45\n✅ 🦁 Lille gana una parte\n🇫🇷 Nice–Estac Troyes 20:45\n✅ 🦁 Estac Troyes gana una parte · ✅ ⏱️ Nice marca en las dos partes\n🇫🇷 Paris Saint Germain–Lorient 20:45\n✅ 🥅 Lorient marca\n🇪🇸 Real Madrid–Alaves 21:00\n✅ 🔫 Lucas Boye: 2+ tiros · ✅ 🏳️ Alaves más de 2,5 córners\n\n🎯 CUOTA 245 aprox. 💎 10€ → 2.450€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1552831|Anytime Goal Scorer|Josh Maja",
+      "1552832|To Win Either Half|Away",
+      "1552834|To Win Either Half|Away",
+      "1552834|To Score In Both Halves By Teams|Home",
+      "1552835|Total - Away|Over 0.5",
+      "1570470|Away Player Shots|Lucas Boye - 2",
+      "1570470|Away Corners Over/Under|Over 2.5"
+    ],
+    "cuotas": [
+      3.1,
+      1.57,
+      2.62,
+      2.5,
+      1.83,
+      1.67,
+      1.62
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 245.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-2000-x50",
+    "fecha": "2026-11-28T20:00",
+    "texto": "🤑💸 LA DE x51,20 🤑💸\n\n🇫🇷 Le Mans–Lille 20:45\n🧱 Le Mans o empate\n🇫🇷 Nice–Estac Troyes 20:45\n🧱 Estac Troyes o empate · 🎯 Elye Wahi marca\n🇫🇷 Paris Saint Germain–Lorient 20:45\n🏹 Achraf Hakimi: 2+ tiros\n🇪🇸 Real Madrid–Alaves 21:00\n🏹 Lucas Boye: 2+ tiros · ⚽ Gana el Real Madrid y ambos marcan\n\n🎯 CUOTA 51,20 aprox. 💎 10€ → 512€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1552832|Double Chance|Home/Draw",
+      "1552834|Double Chance|Draw/Away",
+      "1552834|Anytime Goal Scorer|Elye Wahi",
+      "1552835|Home Player Shots|Achraf Hakimi - 2",
+      "1570470|Away Player Shots|Lucas Boye - 2",
+      "1570470|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      1.73,
+      2.15,
+      2.4,
+      1.53,
+      1.67,
+      2.5
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 51.2,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-28-loca-th-2020-hora",
+    "fecha": "2026-11-28T20:20",
+    "texto": "⏳ TODO A LAS 20:45 ⏳\n\n🇫🇷 Nice – Estac Troyes ➜ ✅ 🌋 Nice marca en las dos partes\n🇫🇷 Le Havre – Strasbourg ➜ ✅ 🎯 Gessime Yassine: 2+ tiros\n🇫🇷 Le Mans – Lille ➜ ✅ ☄️ Le Mans marca\n🇮🇹 Inter – Genoa ➜ ✅ 🎯 Milutin Osmajic: 2+ tiros\n🇫🇷 Paris Saint Germain – Lorient ➜ ✅ 📐 Lorient hace más de 2,5 córners\n\n🎯 CUOTA 18,97 💎 · 10€ → 190€\n\n⏳ Todo se decide a la vez 🔥",
+    "sel": [
+      "1550211|Away Player Shots|Milutin Osmajic - 2",
+      "1552831|Away Player Shots|Gessime Yassine - 2",
+      "1552832|Total - Home|Over 0.5",
+      "1552834|To Score In Both Halves By Teams|Home",
+      "1552835|Away Corners Over/Under|Over 2.5"
+    ],
+    "cuotas": [
+      1.83,
+      1.44,
+      1.44,
+      2.5,
+      2.0
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 18.97,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
   }
 ]
