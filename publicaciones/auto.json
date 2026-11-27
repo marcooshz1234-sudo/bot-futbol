@@ -17270,7 +17270,7 @@
       "1570470|Results/Both Teams Score|Home/Yes"
     ],
     "cuotas": [
-      3.2,
+      3.25,
       4.0,
       2.5
     ],
@@ -17313,7 +17313,8 @@
         }
       ],
       "lema": null
-    }
+    },
+    "cuotas_revisadas": "2026-11-27T20:05"
   },
   {
     "id": "2026-11-28-loca-th-noche-2200-lista-ambos",

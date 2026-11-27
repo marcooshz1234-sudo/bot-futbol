@@ -1,8 +1,5 @@
 {
  "avisados": [
-  "clave|2026-11-03-lista-europa-2|1635695|Home Player Shots On Target Total|Bryan Mbeumo - 1|Y. Tielemans",
-  "clave|2026-11-03-marcos-picks|1635640|Away Player Shots|Nabil Bentaleb - 1|N. Bentaleb",
-  "clave|2026-11-03-marcos-picks|1635669|Away Player Shots|Ermedin Demirovic - 3|A. Stiller",
   "clave|2026-11-04-cobertura-a|1635606|Match Winner|Away|A. Güler",
   "clave|2026-11-04-cobertura-b|1635606|Match Winner|Away|A. Güler",
   "clave|2026-11-04-cobertura-b|1635658|Match Winner|Away|A. Isak",
@@ -486,6 +483,9 @@
   "clave|2026-11-26-pick-seguro-3|1636252|Away Player Shots|Orri Steinn Oskarsson - 3|O. Óskarsson",
   "clave|2026-11-26-pick-seguro|1636334|Away Player Shots|Artur Serobyan - 2|Sandro Lima",
   "clave|2026-11-26-pick-tip-1|1636244|Total - Away|Over 1.5|Evanilson",
+  "clave|2026-11-27-ganadores-resto|1575237|Match Winner|Home|M. Grüll",
+  "clave|2026-11-27-loca-th-0500-x500|1575237|Anytime Goal Scorer|Niclas Fullkrug|M. Grüll",
+  "clave|2026-11-27-loca-th-1230-x500|1575237|Anytime Goal Scorer|Niclas Fullkrug|M. Grüll",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -6739,10 +6739,145 @@
    }
   },
   "1575237": {
-   "hora": "2026-11-27T19:51:14.857732+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-27T20:05:42.078902+01:00",
+   "xi": [
+    "K. Hein",
+    "Arthur",
+    "A. Pieper",
+    "M. Friedl",
+    "O. Deman",
+    "L. Reis",
+    "Y. Regeer",
+    "E. Dinkçi",
+    "Chuky San José",
+    "P. Erevbenagie",
+    "N. Füllkrug",
+    "D. Batz",
+    "K. Diks",
+    "P. Sander",
+    "F. Chiarodia",
+    "J. Scally",
+    "Z. Uno",
+    "F. Neuhaus",
+    "J. Castrop",
+    "F. Honorat",
+    "W. Mohya",
+    "S. Machino"
+   ],
+   "banquillo": [
+    "S. Lynen",
+    "O. Wójcik",
+    "M. Weiser",
+    "C. Itten",
+    "A. Schlager",
+    "Mick Schmetgens",
+    "D. Soylu",
+    "Dariusz Stalmach",
+    "N. Stark",
+    "F. Fleck",
+    "D. Herold",
+    "K. Itakura",
+    "T. Kleindienst",
+    "N. Kühn",
+    "I. Lidberg",
+    "M. Nguefack",
+    "M. Nicolas",
+    "K. Stöger"
+   ],
+   "equipos": {
+    "162": [
+     {
+      "n": "K. Hein",
+      "pos": "G"
+     },
+     {
+      "n": "Arthur",
+      "pos": "D"
+     },
+     {
+      "n": "A. Pieper",
+      "pos": "D"
+     },
+     {
+      "n": "M. Friedl",
+      "pos": "D"
+     },
+     {
+      "n": "O. Deman",
+      "pos": "D"
+     },
+     {
+      "n": "L. Reis",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Regeer",
+      "pos": "M"
+     },
+     {
+      "n": "E. Dinkçi",
+      "pos": "M"
+     },
+     {
+      "n": "Chuky San José",
+      "pos": "M"
+     },
+     {
+      "n": "P. Erevbenagie",
+      "pos": "M"
+     },
+     {
+      "n": "N. Füllkrug",
+      "pos": "F"
+     }
+    ],
+    "163": [
+     {
+      "n": "D. Batz",
+      "pos": "G"
+     },
+     {
+      "n": "K. Diks",
+      "pos": "D"
+     },
+     {
+      "n": "P. Sander",
+      "pos": "D"
+     },
+     {
+      "n": "F. Chiarodia",
+      "pos": "D"
+     },
+     {
+      "n": "J. Scally",
+      "pos": "M"
+     },
+     {
+      "n": "Z. Uno",
+      "pos": "M"
+     },
+     {
+      "n": "F. Neuhaus",
+      "pos": "M"
+     },
+     {
+      "n": "J. Castrop",
+      "pos": "M"
+     },
+     {
+      "n": "F. Honorat",
+      "pos": "M"
+     },
+     {
+      "n": "W. Mohya",
+      "pos": "M"
+     },
+     {
+      "n": "S. Machino",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1550216": {
    "hora": "2026-11-27T19:58:00.874581+01:00",
@@ -6757,13 +6892,13 @@
    "equipos": {}
   },
   "1557485": {
-   "hora": "2026-11-27T19:51:14.857732+01:00",
+   "hora": "2026-11-27T20:05:42.078902+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1570468": {
-   "hora": "2026-11-27T19:51:14.857732+01:00",
+   "hora": "2026-11-27T20:05:42.078902+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
