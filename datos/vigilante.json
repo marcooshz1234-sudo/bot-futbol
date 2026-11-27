@@ -123,7 +123,8 @@
   "prensa-1570468-f6e27d67": "2026-11-27T05:57",
   "prensa-1575231-8aaa7e59": "2026-11-27T05:57",
   "prensa-1552832-2666e3a4": "2026-11-27T06:07",
-  "regla-estrella-2026-11-28-pick-seguro-2": "2026-11-27T06:07"
+  "regla-estrella-2026-11-28-pick-seguro-2": "2026-11-27T06:07",
+  "prensa-1570463-563db32c": "2026-11-27T06:50"
  },
  "abiertos": [
   {
@@ -139,10 +140,6 @@
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-0900-tiros)"
   },
   {
-   "clave": "repe-2026-11-27-1570468|Total - Away|Over 1.5",
-   "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0800-reto, loca-th-1230-x500)"
-  },
-  {
    "clave": "repe-2026-11-27-1570468|To Win Either Half|Away",
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-1230-x500, loca-th-1700-escudos)"
   },
@@ -151,16 +148,25 @@
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0800-reto, loca-th-1230-x500)"
   },
   {
-   "clave": "regla-formato-2026-11-28-picks-manana",
-   "t": "📏 Regla (formato): «Combina máximo 2 o 3» solo con 5 picks o más (02/11) · «🔥⚽ COMBILOCAS — ¡5 PICKS PARA MAÑANA! 🍀» (23:00)"
+   "clave": "repe-2026-11-27-1570468|Total - Away|Over 1.5",
+   "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0800-reto, loca-th-1230-x500)"
   },
   {
-   "clave": "regla-estrella-2026-11-28-pick-seguro-2",
-   "t": "📏 Regla (estrella): Total - Home|Over 0.5: a ese equipo le falta su estrella · «Vamos con el pick de hoy familia 🔥» (18:00)"
+   "clave": "prensa-1570463-563db32c",
+   "t": "📰 Real Betis–Rayo Vallecano: «Ez Abde terminó golpeado en el duelo de Champions del Betis y es duda para recibir al Rayo Vallecano» (Tribuna.com) · tenemos 2 post(s) de este partido: ganadores-laliga, pick-seguro"
+  },
+  {
+   "clave": "regla-formato-2026-11-28-picks-manana",
+   "t": "📏 Regla (formato): «Combina máximo 2 o 3» solo con 5 picks o más (02/11) · «🔥⚽ COMBILOCAS — ¡5 PICKS PARA MAÑANA! 🍀» (23:00)"
   }
  ],
- "revisado": "2026-11-27T06:38",
+ "revisado": "2026-11-27T06:50",
  "historial": [
+  {
+   "hora": "2026-11-27T06:50",
+   "t": "📰 Real Betis–Rayo Vallecano: «Ez Abde terminó golpeado en el duelo de Champions del Betis y es duda para recibir al Rayo Vallecano» (Tribuna.com) · tenemos 2 post(s) de este partido: ganadores-laliga, pick-seguro",
+   "k": "prensa-1570463-563db32c"
+  },
   {
    "hora": "2026-11-27T06:07",
    "t": "📰 Le Mans–Lille: «El Bayern, con muchas bajas, se ve sorprendido por el Lille.» (KOHA.net) · tenemos 1 post(s) de este partido: pick-seguro-2",
@@ -455,11 +461,6 @@
    "hora": "2026-11-25T23:16",
    "t": "🖼️ Sale a las 23:23 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑",
    "k": "foto-2026-11-25-verde-auto-2026-11-25-escalera"
-  },
-  {
-   "hora": "2026-11-25T21:01",
-   "t": "⏰ No ha salido en threads ni instagram (20:33): Hoy hay partidazo: Lille 🆚 Bayern München ⭐⭐",
-   "k": "redes-2026-11-25-estrella-1635682-threads-instagram"
   }
  ]
 }
