@@ -6150,16 +6150,292 @@
    }
   },
   "1557485": {
-   "hora": "2026-11-27T20:28:11.438765+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-27T20:39:23.088930+01:00",
+   "xi": [
+    "M. Sels",
+    "Jair",
+    "N. Milenković",
+    "Murillo",
+    "D. Muñoz",
+    "J. McAtee",
+    "X. Schlager",
+    "N. Williams",
+    "Igor Jesus",
+    "M. Gibbs-White",
+    "L. Delap",
+    "E. Martínez",
+    "Joshua Kofi Acheampong",
+    "W. Fofana",
+    "R. Lavia",
+    "Pep Chavarría",
+    "J. Henderson",
+    "M. Caicedo",
+    "Pedro Neto",
+    "C. Palmer",
+    "M. Rogers",
+    "D. Welbeck"
+   ],
+   "banquillo": [
+    "A. Kalimuendo",
+    "C. Wood",
+    "John",
+    "O. Diomande",
+    "L. Netz",
+    "I. Sangaré",
+    "C. Hudson-Odoi",
+    "R. Yates",
+    "D. Ndoye",
+    "L. Colwill",
+    "M. Gusto",
+    "M. Nicoll-Jazuli",
+    "M. Palestra",
+    "Estêvão",
+    "V. Barco",
+    "Geovany Tcherno Quenda",
+    "E. Emegha",
+    "M. Penders"
+   ],
+   "equipos": {
+    "65": [
+     {
+      "n": "M. Sels",
+      "pos": "G"
+     },
+     {
+      "n": "Jair",
+      "pos": "D"
+     },
+     {
+      "n": "N. Milenković",
+      "pos": "D"
+     },
+     {
+      "n": "Murillo",
+      "pos": "D"
+     },
+     {
+      "n": "D. Muñoz",
+      "pos": "M"
+     },
+     {
+      "n": "J. McAtee",
+      "pos": "M"
+     },
+     {
+      "n": "X. Schlager",
+      "pos": "M"
+     },
+     {
+      "n": "N. Williams",
+      "pos": "M"
+     },
+     {
+      "n": "Igor Jesus",
+      "pos": "M"
+     },
+     {
+      "n": "M. Gibbs-White",
+      "pos": "M"
+     },
+     {
+      "n": "L. Delap",
+      "pos": "F"
+     }
+    ],
+    "49": [
+     {
+      "n": "E. Martínez",
+      "pos": "G"
+     },
+     {
+      "n": "Joshua Kofi Acheampong",
+      "pos": "D"
+     },
+     {
+      "n": "W. Fofana",
+      "pos": "D"
+     },
+     {
+      "n": "R. Lavia",
+      "pos": "D"
+     },
+     {
+      "n": "Pep Chavarría",
+      "pos": "D"
+     },
+     {
+      "n": "J. Henderson",
+      "pos": "M"
+     },
+     {
+      "n": "M. Caicedo",
+      "pos": "M"
+     },
+     {
+      "n": "Pedro Neto",
+      "pos": "M"
+     },
+     {
+      "n": "C. Palmer",
+      "pos": "M"
+     },
+     {
+      "n": "M. Rogers",
+      "pos": "M"
+     },
+     {
+      "n": "D. Welbeck",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1570468": {
-   "hora": "2026-11-27T20:28:11.438765+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-27T20:39:23.088930+01:00",
+   "xi": [
+    "M. Ryan",
+    "Nacho Pérez",
+    "Dela",
+    "A. Mandi",
+    "M. Santos",
+    "Jon Ander Olasagasti",
+    "Oriol Rey",
+    "Reque",
+    "Víctor García",
+    "Iván Romero",
+    "T. Fernández",
+    "Julen Agirrezabala",
+    "Pablo Ramón",
+    "Pedro Felipe",
+    "J. Belocian",
+    "Jorge Salinas",
+    "M. Prati",
+    "Iván Martín",
+    "Iker Luque",
+    "Sergio Canales",
+    "Iñigo Vicente",
+    "M. Zabiri"
+   ],
+   "banquillo": [
+    "Primo",
+    "Pablo Cuñat",
+    "Ifeanyi Ndukwe",
+    "Jorge Cabello",
+    "A. Tape",
+    "Brugui",
+    "Hugo Sotelo",
+    "E. Bardeli",
+    "M. Usedo Domingo",
+    "Etta Eyong",
+    "Paco Cortés",
+    "Yanis Musuayi",
+    "S. Eriksson",
+    "Pablo García",
+    "Facundo González",
+    "G. Guliashvili",
+    "Manu Hernando",
+    "Aarón Martín",
+    "H. Perez",
+    "André Almeida",
+    "Íñigo Sainz-Maza",
+    "A. Vallecillo",
+    "Asier Villalibre",
+    "Juan Carlos Arana"
+   ],
+   "equipos": {
+    "539": [
+     {
+      "n": "M. Ryan",
+      "pos": "G"
+     },
+     {
+      "n": "Nacho Pérez",
+      "pos": "D"
+     },
+     {
+      "n": "Dela",
+      "pos": "D"
+     },
+     {
+      "n": "A. Mandi",
+      "pos": "D"
+     },
+     {
+      "n": "M. Santos",
+      "pos": "D"
+     },
+     {
+      "n": "Jon Ander Olasagasti",
+      "pos": "M"
+     },
+     {
+      "n": "Oriol Rey",
+      "pos": "M"
+     },
+     {
+      "n": "Reque",
+      "pos": "M"
+     },
+     {
+      "n": "Víctor García",
+      "pos": "F"
+     },
+     {
+      "n": "Iván Romero",
+      "pos": "F"
+     },
+     {
+      "n": "T. Fernández",
+      "pos": "F"
+     }
+    ],
+    "4665": [
+     {
+      "n": "Julen Agirrezabala",
+      "pos": "G"
+     },
+     {
+      "n": "Pablo Ramón",
+      "pos": "D"
+     },
+     {
+      "n": "Pedro Felipe",
+      "pos": "D"
+     },
+     {
+      "n": "J. Belocian",
+      "pos": "D"
+     },
+     {
+      "n": "Jorge Salinas",
+      "pos": "D"
+     },
+     {
+      "n": "M. Prati",
+      "pos": "M"
+     },
+     {
+      "n": "Iván Martín",
+      "pos": "M"
+     },
+     {
+      "n": "Iker Luque",
+      "pos": "M"
+     },
+     {
+      "n": "Sergio Canales",
+      "pos": "M"
+     },
+     {
+      "n": "Iñigo Vicente",
+      "pos": "M"
+     },
+     {
+      "n": "M. Zabiri",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }

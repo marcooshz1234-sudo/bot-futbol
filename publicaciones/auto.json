@@ -17243,8 +17243,8 @@
     "cuotas": [
       1.62,
       1.62,
-      1.8,
       1.62,
+      1.67,
       1.62,
       1.73,
       1.73
@@ -17258,7 +17258,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-27T20:38"
   },
   {
     "id": "2026-11-28-loca-th-noche-2130-ganaambos",
@@ -17332,7 +17333,7 @@
     ],
     "cuotas": [
       1.62,
-      1.62,
+      1.67,
       1.8,
       1.8,
       1.7,
@@ -17350,7 +17351,7 @@
     ],
     "sin_foto": true,
     "sin_porque": true,
-    "cuotas_revisadas": "2026-11-27T20:33"
+    "cuotas_revisadas": "2026-11-27T20:38"
   },
   {
     "id": "2026-11-28-loca-th-noche-2230-duelo",
