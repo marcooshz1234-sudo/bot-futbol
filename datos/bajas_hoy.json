@@ -15537,9 +15537,63 @@
     "tipo": "Questionable",
     "motivo": "Illness"
    }
-  ]
+  ],
+  "1576547": [],
+  "1552240": [
+   {
+    "equipo": 197,
+    "jugador": "Mauro Junior",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 197,
+    "jugador": "A. Nagalo",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 197,
+    "jugador": "S. Ouaissa",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 197,
+    "jugador": "A. Plea",
+    "tipo": "Missing Fixture",
+    "motivo": "Surgery"
+   },
+   {
+    "equipo": 197,
+    "jugador": "J. Schouten",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 410,
+    "jugador": "P. Saathof",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 410,
+    "jugador": "D. James",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 410,
+    "jugador": "E. Linthorst",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   }
+  ],
+  "1565313": [],
+  "1575545": [],
+  "1576544": []
  },
- "ultima": "2026-11-27T12:44:23.056814+01:00",
+ "ultima": "2026-11-27T13:18:44.269460+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
