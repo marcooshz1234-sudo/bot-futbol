@@ -63,6 +63,17 @@
  },
  "top": [
   {
+   "local": "Groningen",
+   "visitante": "Willem II",
+   "inicio": "2026-11-27T20:00",
+   "texto": "Groningen marca 2 o más",
+   "cuota": 1.4,
+   "justa": 1.43,
+   "ev": -0.018,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
    "local": "AB Copenhagen",
    "visitante": "Vejle",
    "inicio": "2026-11-27T19:00",
@@ -71,11 +82,11 @@
    "justa": 1.83,
    "ev": -0.019,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-27T07:39",
+  "hora": "2026-11-27T08:01",
   "revisadas": 0,
   "mejor": null
  },
