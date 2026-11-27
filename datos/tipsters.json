@@ -4760,5 +4760,24 @@
    1,
    2
   ]
+ },
+ {
+  "tipster": "OC TIPSTER",
+  "fuente": "-1002538677212/5234",
+  "dia": "2026-11-27",
+  "hora": "21:00",
+  "local": "Levante",
+  "visitante": "Racing Santander",
+  "texto": "Crear apuesta: Ambos marcan, Zabiri 2+ remates a puerta, Iker Luque 1+ remate a puerta, Canales 1+ falta recibida, Iñigo Vicente 1+ falta recibida",
+  "mercado": "Crear apuesta",
+  "opcion": "Ambos marcan + Zabiri 2+ remates a puerta + Luque 1+ remate a puerta + Canales 1+ falta recibida + I. Vicente 1+ falta recibida",
+  "cuota": 7.75,
+  "stake": null,
+  "argumento": [
+   "Ni Levante ni Racing defienden bien: el Levante suele ver puerta en casa y el Racing llega marcando y encajando a la vez",
+   "Zabiri y Luque prueban portería con frecuencia cuando son titulares, y el Levante concede muchos tiros",
+   "Canales e Iñigo Vicente son de los que más faltas reciben, ante un centro del campo que corta mucho con falta"
+  ],
+  "argumento_propio": true
  }
 ]
