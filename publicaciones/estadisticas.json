@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27 23:21",
+ "actualizado": "2026-11-27 23:32",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -58,9 +58,9 @@
  "total_hoy": 111,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "23:30",
-  "dia": "2026-11-27",
-  "titulo": "Combi torino – lazio"
+  "hora": "00:00",
+  "dia": "2026-11-28",
+  "titulo": "Laliga - ganadores"
  },
  "ayer": {
   "aciertos": 3,
@@ -288,6 +288,11 @@
   }
  },
  "tipos_instagram": {
+  "Otros (reel)": {
+   "posts": 45,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi loca (reel)": {
    "posts": 2,
    "likes_media": 0.0,
@@ -303,13 +308,8 @@
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 44,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
   "Escalera (reel)": {
-   "posts": 4,
+   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
