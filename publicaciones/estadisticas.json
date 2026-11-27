@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27 16:27",
+ "actualizado": "2026-11-27 16:37",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4272,
-   "hoy": 77,
+   "seguidores": 4274,
+   "hoy": 79,
    "serie": [
     3475,
     3714,
@@ -24,7 +24,7 @@
     3790,
     4020,
     4195,
-    4272
+    4274
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 550,
-   "hoy": 11,
+   "seguidores": 551,
+   "hoy": 12,
    "serie": [
     496,
     506,
@@ -50,17 +50,17 @@
     514,
     527,
     539,
-    550
+    551
    ]
   }
  },
- "total": 4881,
- "total_hoy": 88,
+ "total": 4884,
+ "total_hoy": 91,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:30",
+  "hora": "17:00",
   "dia": "2026-11-27",
-  "titulo": "Combi venezia – bologna"
+  "titulo": "Combi levante – racing santander"
  },
  "ayer": {
   "aciertos": 3,
@@ -282,9 +282,9 @@
   },
   "2026-11-27": {
    "instagram": 58,
-   "threads": 4272,
+   "threads": 4274,
    "facebook": 1,
-   "telegram": 550
+   "telegram": 551
   }
  },
  "tipos_instagram": {
