@@ -15452,9 +15452,94 @@
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
    }
+  ],
+  "1570466": [
+   {
+    "equipo": 797,
+    "jugador": "A. Boayar",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 797,
+    "jugador": "T. Lemar",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 797,
+    "jugador": "R. Sanchez",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 797,
+    "jugador": "Y. Santiago",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 530,
+    "jugador": "A. Lookman",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 530,
+    "jugador": "C. Romero",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 530,
+    "jugador": "A. Sorloth",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1570039": [],
+  "1557482": [
+   {
+    "equipo": 57,
+    "jugador": "L. Davis",
+    "tipo": "Questionable",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 66,
+    "jugador": "M. Cash",
+    "tipo": "Missing Fixture",
+    "motivo": "Concussion"
+   },
+   {
+    "equipo": 66,
+    "jugador": "A. Onana",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 66,
+    "jugador": "M. Ruggeri",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1575231": [
+   {
+    "equipo": 169,
+    "jugador": "J. Ngankam",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 169,
+    "jugador": "C. Uzun",
+    "tipo": "Questionable",
+    "motivo": "Illness"
+   }
   ]
  },
- "ultima": "2026-11-27T12:11:46.719387+01:00",
+ "ultima": "2026-11-27T12:44:23.056814+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
