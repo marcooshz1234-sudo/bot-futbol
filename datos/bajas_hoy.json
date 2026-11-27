@@ -15889,6 +15889,12 @@
     "motivo": "Thigh Injury"
    },
    {
+    "equipo": 85,
+    "jugador": "N. Mendes",
+    "tipo": "Questionable",
+    "motivo": "Thigh Injury"
+   },
+   {
     "equipo": 97,
     "jugador": "M. Bamba",
     "tipo": "Missing Fixture",
@@ -15909,7 +15915,7 @@
   ],
   "1575553": []
  },
- "ultima": "2026-11-27T22:06:37.885032+01:00",
+ "ultima": "2026-11-27T22:41:33.586685+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
