@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-27",
- "generado": "2026-11-27T23:11+01:00",
+ "generado": "2026-11-27T23:41+01:00",
  "rango": [
   "2026-11-27",
   "2026-11-30"
@@ -1656,14 +1656,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/728.png"
     },
     {
-     "sel": "1550210|Player Fouls Committed|Patrizio Masini - 2",
-     "texto": "Patrizio Masini: comete 2+ faltas",
-     "cuota": 1.53,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 2,00 por 90' (2-3-0-3-2)",
-     "nota": 0.8429642857142858,
-     "equipo": "Frosinone",
-     "lado": "L",
+     "sel": "1550210|Match Winner|Home",
+     "texto": "Gana Frosinone",
+     "cuota": 1.48,
+     "p": 0.835,
+     "dato": "Frosinone: VVVVV en sus últimos 5",
+     "nota": 0.9493339419361725,
      "partido": "Frosinone–Parma",
      "hora": "2026-11-28T15:00",
      "liga": "Serie A",
@@ -1686,17 +1684,32 @@
      "logo_v": "https://media.api-sports.io/football/teams/182.png"
     },
     {
-     "sel": "1575235|Total - Home|Over 0.5",
-     "texto": "Hamburger SV marca",
-     "cuota": 1.53,
-     "p": 0.765,
-     "dato": "marca 1,4 por partido y el rival encaja 1,2",
-     "nota": 0.8443838002405138,
+     "sel": "1575235|Player Fouls Committed|Albert Sambi Lokonga - 1",
+     "texto": "Albert Sambi Lokonga: comete 1+ falta",
+     "cuota": 1.44,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,83 por 90' (0-2-1-1-4)",
+     "nota": 0.8025714285714286,
+     "equipo": "Hamburger SV",
+     "lado": "L",
      "partido": "Hamburger SV–Bayern München",
      "hora": "2026-11-28T15:30",
      "liga": "Bundesliga",
      "logo_l": "https://media.api-sports.io/football/teams/175.png",
      "logo_v": "https://media.api-sports.io/football/teams/157.png"
+    },
+    {
+     "sel": "1575238|Total ShotOnGoal|Over 8.5",
+     "texto": "Más de 8,5 remates a puerta en el partido",
+     "cuota": 1.67,
+     "p": 0.7,
+     "dato": "10,3 remates a puerta de media entre los dos",
+     "nota": 0.7503687278451368,
+     "partido": "SC Paderborn 07–FC Schalke 04",
+     "hora": "2026-11-28T15:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/185.png",
+     "logo_v": "https://media.api-sports.io/football/teams/174.png"
     },
     {
      "sel": "1557484|Player Fouls Committed|Jannik Schuster - 1",
@@ -1742,19 +1755,6 @@
      "liga": "Ligue 1",
      "logo_l": "https://media.api-sports.io/football/teams/77.png",
      "logo_v": "https://media.api-sports.io/football/teams/116.png"
-    },
-    {
-     "sel": "1550214|To Win Either Half|Away",
-     "texto": "Lazio gana alguna de las dos partes",
-     "cuota": 1.62,
-     "p": 0.751,
-     "dato": "Lazio: EVVVV en sus últimos 5",
-     "nota": 0.8353676124415136,
-     "partido": "Torino–Lazio",
-     "hora": "2026-11-28T18:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/503.png",
-     "logo_v": "https://media.api-sports.io/football/teams/487.png"
     },
     {
      "sel": "1575231|Player Fouls Committed|Maximilian Mittelstadt - 1",
@@ -1844,8 +1844,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 405.17,
-   "prob": 0.054
+   "cuota": 380.26,
+   "prob": 0.055
   },
   {
    "patas": [
@@ -2293,12 +2293,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/728.png"
     },
     {
-     "sel": "1550210|Match Winner|Home",
-     "texto": "Gana Frosinone",
-     "cuota": 1.48,
-     "p": 0.835,
-     "dato": "Frosinone: VVVVV en sus últimos 5",
-     "nota": 0.9493339419361725,
+     "sel": "1550210|Player Fouls Committed|Patrizio Masini - 2",
+     "texto": "Patrizio Masini: comete 2+ faltas",
+     "cuota": 1.53,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 2,00 por 90' (2-3-0-3-2)",
+     "nota": 0.8429642857142858,
+     "equipo": "Frosinone",
+     "lado": "L",
      "partido": "Frosinone–Parma",
      "hora": "2026-11-28T15:00",
      "liga": "Serie A",
@@ -2321,19 +2323,30 @@
      "logo_v": "https://media.api-sports.io/football/teams/174.png"
     },
     {
-     "sel": "1575235|Player Fouls Committed|Albert Sambi Lokonga - 1",
-     "texto": "Albert Sambi Lokonga: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 1,83 por 90' (0-2-1-1-4)",
-     "nota": 0.8025714285714286,
-     "equipo": "Hamburger SV",
-     "lado": "L",
+     "sel": "1575235|Total - Home|Over 0.5",
+     "texto": "Hamburger SV marca",
+     "cuota": 1.53,
+     "p": 0.765,
+     "dato": "marca 1,4 por partido y el rival encaja 1,2",
+     "nota": 0.8443838002405138,
      "partido": "Hamburger SV–Bayern München",
      "hora": "2026-11-28T15:30",
      "liga": "Bundesliga",
      "logo_l": "https://media.api-sports.io/football/teams/175.png",
      "logo_v": "https://media.api-sports.io/football/teams/157.png"
+    },
+    {
+     "sel": "1575234|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.57,
+     "p": 0.721,
+     "dato": "más de 2,5 goles en el 80% y el 67% de sus partidos",
+     "nota": 0.7723307181696056,
+     "partido": "FSV Mainz 05–Union Berlin",
+     "hora": "2026-11-28T15:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/164.png",
+     "logo_v": "https://media.api-sports.io/football/teams/182.png"
     },
     {
      "sel": "1557484|Player Fouls Committed|Matheus Cunha - 1",
@@ -2362,19 +2375,6 @@
      "liga": "LaLiga",
      "logo_l": "https://media.api-sports.io/football/teams/535.png",
      "logo_v": "https://media.api-sports.io/football/teams/531.png"
-    },
-    {
-     "sel": "1550214|To Win Either Half|Away",
-     "texto": "Lazio gana alguna de las dos partes",
-     "cuota": 1.62,
-     "p": 0.751,
-     "dato": "Lazio: EVVVV en sus últimos 5",
-     "nota": 0.8353676124415136,
-     "partido": "Torino–Lazio",
-     "hora": "2026-11-28T18:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/503.png",
-     "logo_v": "https://media.api-sports.io/football/teams/487.png"
     },
     {
      "sel": "1575231|Player Fouls Committed|Finn Jeltsch - 1",
@@ -2478,8 +2478,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 464.84,
-   "prob": 0.039
+   "cuota": 494.82,
+   "prob": 0.034
   },
   {
    "clave": "todo-2026-11-28-3",
@@ -2503,6 +2503,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/728.png"
     },
     {
+     "sel": "1575238|Home Player Shots|Santiago Castaneda - 1",
+     "texto": "Santiago Castaneda: 1+ remate",
+     "cuota": 1.4,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (0-1-2-2-1-1)",
+     "nota": 0.84,
+     "equipo": "SC Paderborn 07",
+     "lado": "L",
+     "partido": "SC Paderborn 07–FC Schalke 04",
+     "hora": "2026-11-28T15:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/185.png",
+     "logo_v": "https://media.api-sports.io/football/teams/174.png"
+    },
+    {
      "sel": "1575235|Player Fouls Committed|Albert Sambi Lokonga - 1",
      "texto": "Albert Sambi Lokonga: comete 1+ falta",
      "cuota": 1.44,
@@ -2518,30 +2533,17 @@
      "logo_v": "https://media.api-sports.io/football/teams/157.png"
     },
     {
-     "sel": "1575234|Goals Over/Under|Over 2.5",
-     "texto": "Más de 2,5 goles",
-     "cuota": 1.57,
-     "p": 0.721,
-     "dato": "más de 2,5 goles en el 80% y el 67% de sus partidos",
-     "nota": 0.7723307181696056,
+     "sel": "1575234|Total - Home|Over 1.5",
+     "texto": "FSV Mainz 05 marca 2 o más",
+     "cuota": 1.44,
+     "p": 0.702,
+     "dato": "marca 1,4 por partido y el rival encaja 3,5",
+     "nota": 0.6959338577127354,
      "partido": "FSV Mainz 05–Union Berlin",
      "hora": "2026-11-28T15:30",
      "liga": "Bundesliga",
      "logo_l": "https://media.api-sports.io/football/teams/164.png",
      "logo_v": "https://media.api-sports.io/football/teams/182.png"
-    },
-    {
-     "sel": "1575238|Total ShotOnGoal|Over 8.5",
-     "texto": "Más de 8,5 remates a puerta en el partido",
-     "cuota": 1.67,
-     "p": 0.7,
-     "dato": "10,3 remates a puerta de media entre los dos",
-     "nota": 0.7503687278451368,
-     "partido": "SC Paderborn 07–FC Schalke 04",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/185.png",
-     "logo_v": "https://media.api-sports.io/football/teams/174.png"
     },
     {
      "sel": "1557484|Player Fouls Committed|Keane Lewis-Potter - 1",
@@ -2585,19 +2587,6 @@
      "liga": "Ligue 1",
      "logo_l": "https://media.api-sports.io/football/teams/77.png",
      "logo_v": "https://media.api-sports.io/football/teams/116.png"
-    },
-    {
-     "sel": "1550214|To Win Either Half|Away",
-     "texto": "Lazio gana alguna de las dos partes",
-     "cuota": 1.62,
-     "p": 0.751,
-     "dato": "Lazio: EVVVV en sus últimos 5",
-     "nota": 0.8353676124415136,
-     "partido": "Torino–Lazio",
-     "hora": "2026-11-28T18:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/503.png",
-     "logo_v": "https://media.api-sports.io/football/teams/487.png"
     },
     {
      "sel": "1570466|Away Player Shots|Alex Baena - 2",
@@ -2674,6 +2663,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/97.png"
     },
     {
+     "sel": "1552834|Away Corners Over/Under|Over 3.5",
+     "texto": "Estac Troyes: más de 3,5 córners",
+     "cuota": 1.67,
+     "p": 0.682,
+     "dato": "Estac Troyes saca 4,8 córners y el rival concede 4,5",
+     "nota": 0.7181602049172271,
+     "partido": "Nice–Estac Troyes",
+     "hora": "2026-11-28T20:45",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/84.png",
+     "logo_v": "https://media.api-sports.io/football/teams/110.png"
+    },
+    {
      "sel": "1570470|Away Corners Over/Under|Over 2.5",
      "texto": "Alaves: más de 2,5 córners",
      "cuota": 1.62,
@@ -2687,7 +2689,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 427.82,
+   "cuota": 339.11,
    "prob": 0.027
   },
   {

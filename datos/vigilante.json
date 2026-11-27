@@ -1,14 +1,6 @@
 {
  "informe": "2026-11-27",
  "vistos": {
-  "directo-2026-11-25-pick-claude-1": "2026-11-24T23:40",
-  "directo-2026-11-25-pick-claude-2": "2026-11-24T23:40",
-  "directo-2026-11-25-pick-claude-3": "2026-11-24T23:40",
-  "directo-2026-11-25-pick-claude-4": "2026-11-24T23:40",
-  "directo-2026-11-25-pick-claude-5": "2026-11-24T23:40",
-  "directo-2026-11-25-pick-claude-6": "2026-11-24T23:40",
-  "directo-2026-11-25-pick-claude-7": "2026-11-24T23:40",
-  "directo-2026-11-25-pick-claude-8": "2026-11-24T23:40",
   "repe-2026-11-25-1635703|Total - Away|Over 0.5": "2026-11-25T00:02",
   "repe-2026-11-25-1635625|Total - Away|Over 0.5": "2026-11-25T00:02",
   "repe-2026-11-25-1635718|Total - Home|Over 0.5": "2026-11-25T00:02",
@@ -134,19 +126,19 @@
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-0900-tiros)"
   },
   {
-   "clave": "repe-2026-11-27-1570468|Total - Away|Over 1.5",
-   "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0800-reto, loca-th-1230-x500)"
+   "clave": "repe-2026-11-27-1570468|To Win Either Half|Away",
+   "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-1230-x500, loca-th-1700-escudos)"
   },
   {
    "clave": "repe-2026-11-27-1550216|Match Winner|Away",
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0800-reto, loca-th-1230-x500)"
   },
   {
-   "clave": "repe-2026-11-27-1570468|To Win Either Half|Away",
-   "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-1230-x500, loca-th-1700-escudos)"
+   "clave": "repe-2026-11-27-1570468|Total - Away|Over 1.5",
+   "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0800-reto, loca-th-1230-x500)"
   }
  ],
- "revisado": "2026-11-27T23:32",
+ "revisado": "2026-11-27T23:42",
  "historial": [
   {
    "hora": "2026-11-27T23:18",
