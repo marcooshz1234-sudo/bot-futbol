@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27 12:25",
+ "actualizado": "2026-11-27 12:35",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4269,
-   "hoy": 74,
+   "seguidores": 4270,
+   "hoy": 75,
    "serie": [
     3475,
     3714,
@@ -24,7 +24,7 @@
     3790,
     4020,
     4195,
-    4269
+    4270
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4877,
- "total_hoy": 84,
+ "total": 4878,
+ "total_hoy": 85,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "12:30",
+  "hora": "13:30",
   "dia": "2026-11-27",
-  "titulo": "Os dejo el pick, familia"
+  "titulo": "Vamos con la combi del viernes familia"
  },
  "ayer": {
   "aciertos": 3,
@@ -282,7 +282,7 @@
   },
   "2026-11-27": {
    "instagram": 58,
-   "threads": 4269,
+   "threads": 4270,
    "facebook": 1,
    "telegram": 549
   }
