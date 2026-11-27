@@ -71,7 +71,7 @@
    "justa": 1.41,
    "ev": -0.004,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "AB Copenhagen",
@@ -82,7 +82,7 @@
    "justa": 2.06,
    "ev": -0.007,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Hvidovre",
@@ -93,7 +93,7 @@
    "justa": 1.86,
    "ev": -0.008,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Groningen",
@@ -104,7 +104,7 @@
    "justa": 2.13,
    "ev": -0.015,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Hvidovre",
@@ -115,7 +115,7 @@
    "justa": 1.65,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Leganes",
@@ -126,11 +126,11 @@
    "justa": 1.65,
    "ev": -0.019,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-27T17:39",
+  "hora": "2026-11-27T18:01",
   "revisadas": 0,
   "mejor": null
  },
