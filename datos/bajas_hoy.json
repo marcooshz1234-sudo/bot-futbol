@@ -14455,9 +14455,898 @@
     "motivo": "Coach's decision"
    }
   ],
-  "1576541": []
+  "1576541": [],
+  "1565311": [],
+  "1570036": [],
+  "1575238": [
+   {
+    "equipo": 185,
+    "jugador": "T. Gayret",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 185,
+    "jugador": "M. Hoffmeier",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 174,
+    "jugador": "T. Becker",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 174,
+    "jugador": "B. Lasme",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 174,
+    "jugador": "R. Schallenberg",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 174,
+    "jugador": "L. Vozar",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 174,
+    "jugador": "M. Wober",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1563289": [
+   {
+    "equipo": 69,
+    "jugador": "C. Forsyth",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "S. Langas",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "H. Meister",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "D. Murkin",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "S. Szmodics",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "C. Taylor",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "P. Agyemang",
+    "tipo": "Questionable",
+    "motivo": "Achilles Tendon Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "R. Hedges",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 38,
+    "jugador": "M. Antonio",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 38,
+    "jugador": "K. Baah",
+    "tipo": "Missing Fixture",
+    "motivo": "Knock"
+   },
+   {
+    "equipo": 38,
+    "jugador": "M. Boadu",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 38,
+    "jugador": "N. Chikovani",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 38,
+    "jugador": "K. Diatta",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 38,
+    "jugador": "J. Ngakia",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 38,
+    "jugador": "M. Pollock",
+    "tipo": "Missing Fixture",
+    "motivo": "Yellow Cards"
+   },
+   {
+    "equipo": 38,
+    "jugador": "J. Zemura",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
+   }
+  ],
+  "1563287": [
+   {
+    "equipo": 54,
+    "jugador": "A. Cochrane",
+    "tipo": "Missing Fixture",
+    "motivo": "Yellow Cards"
+   },
+   {
+    "equipo": 54,
+    "jugador": "M. Leonard",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Injury"
+   },
+   {
+    "equipo": 54,
+    "jugador": "K. Lund",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 68,
+    "jugador": "E. Erhahon",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 68,
+    "jugador": "R. Hardie",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 68,
+    "jugador": "J. McAtee",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 68,
+    "jugador": "J. Nelson",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 68,
+    "jugador": "E. Toal",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1563298": [
+   {
+    "equipo": 1837,
+    "jugador": "N. Broadhead",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 1837,
+    "jugador": "S. Smith",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 1837,
+    "jugador": "J. Windass",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 1837,
+    "jugador": "L. Cacace",
+    "tipo": "Questionable",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 1837,
+    "jugador": "C. O'Hare",
+    "tipo": "Questionable",
+    "motivo": "Lacking Match Fitness"
+   },
+   {
+    "equipo": 1837,
+    "jugador": "S. Revan",
+    "tipo": "Questionable",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 1355,
+    "jugador": "K. Anderson",
+    "tipo": "Missing Fixture",
+    "motivo": "Overload"
+   },
+   {
+    "equipo": 1355,
+    "jugador": "B. Arthur",
+    "tipo": "Missing Fixture",
+    "motivo": "Back Injury"
+   },
+   {
+    "equipo": 1355,
+    "jugador": "C. Bishop",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 1355,
+    "jugador": "L. Brooke-Smith",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 1355,
+    "jugador": "M. Kosznovszky",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 1355,
+    "jugador": "J. Meghoma",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 1355,
+    "jugador": "M. Milovanovic",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 1355,
+    "jugador": "C. Ogilvie",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 1355,
+    "jugador": "J. Swift",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   }
+  ],
+  "1570469": [
+   {
+    "equipo": 535,
+    "jugador": "H. Abaida",
+    "tipo": "Missing Fixture",
+    "motivo": "Personal Reasons"
+   },
+   {
+    "equipo": 535,
+    "jugador": "F. Calero",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 535,
+    "jugador": "R. Garrido Hierro",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 535,
+    "jugador": "Juani",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 535,
+    "jugador": "J. Lobete",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 535,
+    "jugador": "A. Ochoa",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 531,
+    "jugador": "U. Egiluz",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 531,
+    "jugador": "G. Guruzeta",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 531,
+    "jugador": "M. Sannadi",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 531,
+    "jugador": "D. Vivian",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 531,
+    "jugador": "Y. Berchiche",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 531,
+    "jugador": "A. Paredes",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   }
+  ],
+  "1563293": [
+   {
+    "equipo": 72,
+    "jugador": "A. S. Mbengue",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 72,
+    "jugador": "J. Dunne",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 72,
+    "jugador": "A. Lloyd",
+    "tipo": "Questionable",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 62,
+    "jugador": "M. Doherty",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 62,
+    "jugador": "R. One",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 62,
+    "jugador": "F. Seriki",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 62,
+    "jugador": "J. Rothwell",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1557484": [
+   {
+    "equipo": 33,
+    "jugador": "C. Baleba",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 33,
+    "jugador": "M. Rashford",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 33,
+    "jugador": "B. Sesko",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 33,
+    "jugador": "M. Ugarte",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 33,
+    "jugador": "A. Diallo",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 55,
+    "jugador": "N. Collins",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 55,
+    "jugador": "J. Dasilva",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 55,
+    "jugador": "K. Furo",
+    "tipo": "Missing Fixture",
+    "motivo": "Surgery"
+   },
+   {
+    "equipo": 55,
+    "jugador": "R. Henry",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 55,
+    "jugador": "A. Hickey",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 55,
+    "jugador": "I. Thiago",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
+   }
+  ],
+  "1563291": [
+   {
+    "equipo": 58,
+    "jugador": "J. Coburn",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 58,
+    "jugador": "T. Crama",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 58,
+    "jugador": "R. Leonard",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 58,
+    "jugador": "M. Luongo",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 58,
+    "jugador": "F. Marschall",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 58,
+    "jugador": "M. Servais",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 44,
+    "jugador": "B. Amos",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 44,
+    "jugador": "A. Barnes",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 44,
+    "jugador": "J. Beyer",
+    "tipo": "Missing Fixture",
+    "motivo": "Lacking Match Fitness"
+   },
+   {
+    "equipo": 44,
+    "jugador": "A. Broja",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 44,
+    "jugador": "J. Bruun Larsen",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 44,
+    "jugador": "H. Mejbri",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 44,
+    "jugador": "M. Obafemi",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 44,
+    "jugador": "C. Roberts",
+    "tipo": "Missing Fixture",
+    "motivo": "Suspended"
+   },
+   {
+    "equipo": 44,
+    "jugador": "S. Sambo",
+    "tipo": "Missing Fixture",
+    "motivo": "Hand Injury"
+   },
+   {
+    "equipo": 44,
+    "jugador": "D. Satpaev",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 44,
+    "jugador": "M. Tresor Ndayishimiye",
+    "tipo": "Missing Fixture",
+    "motivo": "Lacking Match Fitness"
+   },
+   {
+    "equipo": 44,
+    "jugador": "B. Humphreys",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1563296": [
+   {
+    "equipo": 60,
+    "jugador": "T. Collyer",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 60,
+    "jugador": "O. Diakite",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 60,
+    "jugador": "N. Galves",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 60,
+    "jugador": "M. Johnston",
+    "tipo": "Missing Fixture",
+    "motivo": "Broken Leg"
+   },
+   {
+    "equipo": 60,
+    "jugador": "R. Nzingoula",
+    "tipo": "Missing Fixture",
+    "motivo": "Yellow Cards"
+   },
+   {
+    "equipo": 56,
+    "jugador": "N. Eile",
+    "tipo": "Missing Fixture",
+    "motivo": "Illness"
+   }
+  ],
+  "1570040": [],
+  "1563297": [
+   {
+    "equipo": 48,
+    "jugador": "K. Walker-Peters",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 48,
+    "jugador": "A. Areola",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 48,
+    "jugador": "K. Lamadrid",
+    "tipo": "Questionable",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 75,
+    "jugador": "A. Ampah",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 75,
+    "jugador": "L. Cisse",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1575235": [
+   {
+    "equipo": 175,
+    "jugador": "A. S. Lokonga",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "M. Muheim",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "B. Nadir",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "Y. Poulsen",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "N. Remberg",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 157,
+    "jugador": "A. Davies",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 157,
+    "jugador": "S. Gnabry",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 157,
+    "jugador": "H. Kane",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 157,
+    "jugador": "M. Neuer",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 157,
+    "jugador": "M. Olise",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 157,
+    "jugador": "I. Saibari",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   }
+  ],
+  "1575236": [
+   {
+    "equipo": 192,
+    "jugador": "A. Castro-Montes",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 192,
+    "jugador": "T. Dallinga",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 192,
+    "jugador": "T. Hubers",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 192,
+    "jugador": "I. Rondic",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 192,
+    "jugador": "E. Skhiri",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 192,
+    "jugador": "R. van den Berg",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 192,
+    "jugador": "M. Schwabe",
+    "tipo": "Questionable",
+    "motivo": "Back Injury"
+   },
+   {
+    "equipo": 1660,
+    "jugador": "N. Mickelson",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 1660,
+    "jugador": "L. Seifert",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   }
+  ],
+  "1575234": [
+   {
+    "equipo": 164,
+    "jugador": "D. Kohr",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 164,
+    "jugador": "Silas",
+    "tipo": "Missing Fixture",
+    "motivo": "Broken shinbone"
+   },
+   {
+    "equipo": 182,
+    "jugador": "L. Burcu",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 182,
+    "jugador": "J. Juranovic",
+    "tipo": "Missing Fixture",
+    "motivo": "Illness"
+   },
+   {
+    "equipo": 182,
+    "jugador": "R. Khedira",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 182,
+    "jugador": "A. Markgraf",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 182,
+    "jugador": "S. Nsoki",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 182,
+    "jugador": "R. Skov",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 182,
+    "jugador": "F. Uduokhai",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 182,
+    "jugador": "Z. Van Den Bosch",
+    "tipo": "Missing Fixture",
+    "motivo": "Yellow Cards"
+   }
+  ],
+  "1557483": [
+   {
+    "equipo": 63,
+    "jugador": "M. Joseph",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 1346,
+    "jugador": "A. Amenda",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 1346,
+    "jugador": "T. Awoniyi",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 1346,
+    "jugador": "J. Eccles",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 1346,
+    "jugador": "E. Mason-Clark",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 1346,
+    "jugador": "L. Woolfenden",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 1346,
+    "jugador": "H. Wright",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 1346,
+    "jugador": "C. Yirenkyi",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   }
+  ]
  },
- "ultima": "2026-11-27T09:22:03.239391+01:00",
+ "ultima": "2026-11-27T10:28:55.350512+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
