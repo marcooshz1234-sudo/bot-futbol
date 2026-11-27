@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27 22:56",
+ "actualizado": "2026-11-27 23:07",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4290,
-   "hoy": 95,
+   "seguidores": 4291,
+   "hoy": 96,
    "serie": [
     3475,
     3714,
@@ -24,7 +24,7 @@
     3790,
     4020,
     4195,
-    4290
+    4291
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 552,
-   "hoy": 13,
+   "seguidores": 554,
+   "hoy": 15,
    "serie": [
     496,
     506,
@@ -50,17 +50,17 @@
     514,
     527,
     539,
-    552
+    554
    ]
   }
  },
- "total": 4901,
- "total_hoy": 108,
+ "total": 4904,
+ "total_hoy": 111,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "23:00",
+  "hora": "23:30",
   "dia": "2026-11-27",
-  "titulo": "6 picks para mañana"
+  "titulo": "Combi torino – lazio"
  },
  "ayer": {
   "aciertos": 3,
@@ -282,12 +282,17 @@
   },
   "2026-11-27": {
    "instagram": 58,
-   "threads": 4290,
+   "threads": 4291,
    "facebook": 1,
-   "telegram": 552
+   "telegram": 554
   }
  },
  "tipos_instagram": {
+  "Combi loca (reel)": {
+   "posts": 2,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi de partido (reel)": {
    "posts": 7,
    "likes_media": 0.0,
@@ -299,17 +304,12 @@
    "comentarios_media": 0.0
   },
   "Otros (reel)": {
-   "posts": 45,
+   "posts": 44,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
    "posts": 4,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi loca (reel)": {
-   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
