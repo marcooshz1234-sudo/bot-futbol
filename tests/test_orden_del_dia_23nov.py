@@ -63,3 +63,16 @@ class UnPickPorPartido(unittest.TestCase):
         i = src.index('p["caducada"] = f"mismo partido que {otro}"')
         self.assertLess(i, src.index("texto = preparar_texto(con_porque("))
         self.assertIn('and str(q.get("enviado", ""))[:10] == dia_', src)
+
+
+class UnPickPorPartidoAlGenerar(unittest.TestCase):
+    def test_pick_extra_no_repite_partido(self):
+        import combis_dia as C
+        base = {"cuota": 1.6, "prob_aprendida": 0.75, "fecha": "2026-11-28T21:00", "mercado": "Match Winner",
+                "opcion": "Home", "partido_id": 9, "texto": "Gana el Nice"}
+        otro = dict(base, mercado="Total - Home", opcion="Over 1.5", texto="Nice marca 2+")
+        with mock.patch.object(C, "tipo_pick", return_value="resultado"), mock.patch.object(C, "_excluido", return_value=False), \
+             mock.patch.object(C, "suelto_no", return_value=False), mock.patch.object(C, "fijisimo", return_value=True), \
+             mock.patch("plantillas.choca", return_value=False):
+            self.assertIsNone(C.pick_extra([[otro]], "2026-11-28", (13, 30), [base]))
+            self.assertIsNotNone(C.pick_extra([[dict(otro, partido_id=10)]], "2026-11-28", (13, 30), [base]))

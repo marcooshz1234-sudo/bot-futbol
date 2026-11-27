@@ -1943,8 +1943,12 @@ def pick_extra(pools, dia, hh_mm, hechos, ya=(), usados=(), relajado=0):
     clave = lambda p: (int(p["partido_id"]), p["mercado"], p["opcion"])
     ya = {(int(a), b, c_) for a, b, c_ in ya} | {clave(p) for p in hechos}
     otras = list(usados) + [f"{p['partido_id']}|{p['mercado']}|{p['opcion']}" for p in hechos]
+    # 27/11: un partido, un pick al día en Telegram también al generar (el sábado iban «Gana el Nice» y «Nice marca 2+»;
+    # al publicar, el 2.º se habría caído y el día se quedaba con uno menos)
+    partidos_ya = {int(a) for a, _, _ in ya} | {int(p["partido_id"]) for p in hechos}
     cand = [p for pool in pools for p in pool
             if lo <= p["cuota"] <= hi and clave(p) not in ya and tipo_pick(p) not in SEGURO["no_tipos"]
+            and int(p["partido_id"]) not in partidos_ya
             and (not _excluido(p) or (_solo_pick(p) and p["prob_aprendida"] >= SEGURO["prob_solo_pick"]))
             and p["prob_aprendida"] >= SEGURO["prob_min"] - EXTRA_PICKS["relajo_prob"] * int(relajado)
             and (relajado < 2 or p["prob_aprendida"] * p["cuota"] >= 0.95)
