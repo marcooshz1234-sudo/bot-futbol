@@ -16019,8 +16019,8 @@
       "1570468|To Win Either Half|Away"
     ],
     "cuotas": [
-      1.44,
-      1.67,
+      1.4,
+      1.62,
       1.91
     ],
     "solo_redes": true,
@@ -16040,7 +16040,8 @@
     "cuota_bet365": 3.59,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-27T15:30"
   },
   {
     "id": "2026-11-27-estrella-1557485",
