@@ -15344,9 +15344,20 @@
     "tipo": "Missing Fixture",
     "motivo": "Injury"
    }
-  ]
+  ],
+  "1552236": [
+   {
+    "equipo": 427,
+    "jugador": "J. Seedorf",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   }
+  ],
+  "1575552": [],
+  "1576546": [],
+  "1575546": []
  },
- "ultima": "2026-11-27T10:28:55.350512+01:00",
+ "ultima": "2026-11-27T11:02:56.098100+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",

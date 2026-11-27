@@ -15933,12 +15933,12 @@
       "1570468|Total - Away|Over 1.5"
     ],
     "cuotas": [
-      1.9,
+      1.83,
       1.91,
       2.0,
       2.2,
-      2.2,
-      2.0,
+      2.35,
+      2.1,
       1.91,
       2.1
     ],
@@ -15951,7 +15951,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-27T11:02"
   },
   {
     "id": "2026-11-27-combi-tres",
