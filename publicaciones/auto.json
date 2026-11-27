@@ -15986,8 +15986,8 @@
     "cuotas": [
       1.62,
       1.44,
-      1.8,
-      2.2
+      1.73,
+      2.38
     ],
     "solo_redes": true,
     "origen": "threads_locas",
@@ -16007,7 +16007,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": true,
-    "cuotas_revisadas": "2026-11-27T15:01"
+    "cuotas_revisadas": "2026-11-27T15:36"
   },
   {
     "id": "2026-11-27-loca-th-1700-escudos",
