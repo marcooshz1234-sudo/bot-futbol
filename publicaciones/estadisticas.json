@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27 20:24",
+ "actualizado": "2026-11-27 20:35",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4288,
-   "hoy": 93,
+   "seguidores": 4289,
+   "hoy": 94,
    "serie": [
     3475,
     3714,
@@ -24,7 +24,7 @@
     3790,
     4020,
     4195,
-    4288
+    4289
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 552,
-   "hoy": 13,
+   "seguidores": 551,
+   "hoy": 12,
    "serie": [
     496,
     506,
@@ -50,7 +50,7 @@
     514,
     527,
     539,
-    552
+    551
    ]
   }
  },
@@ -58,9 +58,9 @@
  "total_hoy": 106,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "20:25",
+  "hora": "21:00",
   "dia": "2026-11-27",
-  "titulo": "Hoy hay partidazo nottingham forest ch"
+  "titulo": "Combi por 38,36"
  },
  "ayer": {
   "aciertos": 3,
@@ -282,29 +282,29 @@
   },
   "2026-11-27": {
    "instagram": 58,
-   "threads": 4288,
+   "threads": 4289,
    "facebook": 1,
-   "telegram": 552
+   "telegram": 551
   }
  },
  "tipos_instagram": {
+  "Combi de partido (reel)": {
+   "posts": 7,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Cuota 3 (reel)": {
    "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Otros (reel)": {
-   "posts": 46,
+   "posts": 45,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
    "posts": 4,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi de partido (reel)": {
-   "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
