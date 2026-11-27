@@ -3893,14 +3893,14 @@
   },
   "2026-11-27": {
     "dia": "2026-11-27",
-    "total": 1,
+    "total": 2,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 1,
+      "pendiente": 2,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 1
+      "sin_resolver": 2
     },
     "combis": [
       {
@@ -3908,13 +3908,19 @@
         "titulo": "🏆 PARTIDOS DE HOY - GANADORES",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-27-loca-th-0100-ganaambos",
+        "titulo": "👑⚽ GANA Y AMBOS MARCAN 👑⚽",
+        "estado": "pendiente",
+        "cuota": 61.7
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 4
+      "total": 7
     },
-    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 61,70 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
   }
 }
