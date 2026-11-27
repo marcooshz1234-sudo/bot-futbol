@@ -17387,7 +17387,7 @@
       "1550214|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.4,
+      1.36,
       1.62,
       1.83,
       2.0
@@ -17409,6 +17409,7 @@
       "liga": "Serie A"
     },
     "cuota_total": 8.14,
-    "cuota_calculada": true
+    "cuota_calculada": true,
+    "cuotas_revisadas": "2026-11-27T22:01"
   }
 ]
