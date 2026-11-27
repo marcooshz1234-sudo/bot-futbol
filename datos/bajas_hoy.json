@@ -14376,7 +14376,7 @@
     "equipo": 543,
     "jugador": "D. Ceballos",
     "tipo": "Missing Fixture",
-    "motivo": "Injury"
+    "motivo": "Back Injury"
    },
    {
     "equipo": 543,
@@ -14417,18 +14417,6 @@
     "jugador": "D. Birligea",
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
-   },
-   {
-    "equipo": 512,
-    "jugador": "F. Grillitsch",
-    "tipo": "Missing Fixture",
-    "motivo": "Thigh Injury"
-   },
-   {
-    "equipo": 512,
-    "jugador": "A. Raimondo",
-    "tipo": "Missing Fixture",
-    "motivo": "Ankle Injury"
    },
    {
     "equipo": 523,
@@ -15186,6 +15174,12 @@
    },
    {
     "equipo": 192,
+    "jugador": "L. Lochoshvili",
+    "tipo": "Missing Fixture",
+    "motivo": "Head Injury"
+   },
+   {
+    "equipo": 192,
     "jugador": "I. Rondic",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
@@ -15212,13 +15206,31 @@
     "equipo": 1660,
     "jugador": "N. Mickelson",
     "tipo": "Missing Fixture",
-    "motivo": "Injury"
+    "motivo": "Knee Injury"
    },
    {
     "equipo": 1660,
     "jugador": "L. Seifert",
     "tipo": "Missing Fixture",
     "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 1660,
+    "jugador": "N. Darvich",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 1660,
+    "jugador": "L. Gunther",
+    "tipo": "Questionable",
+    "motivo": "Illness"
+   },
+   {
+    "equipo": 1660,
+    "jugador": "N. Kristof",
+    "tipo": "Questionable",
+    "motivo": "Illness"
    }
   ],
   "1575234": [
@@ -15232,7 +15244,7 @@
     "equipo": 164,
     "jugador": "P. Mwene",
     "tipo": "Missing Fixture",
-    "motivo": "Injury"
+    "motivo": "Ankle Injury"
    },
    {
     "equipo": 164,
@@ -15486,15 +15498,15 @@
    },
    {
     "equipo": 530,
-    "jugador": "A. Sorloth",
+    "jugador": "C. Romero",
     "tipo": "Missing Fixture",
-    "motivo": "Calf Injury"
+    "motivo": "Muscle Injury"
    },
    {
     "equipo": 530,
-    "jugador": "C. Romero",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
+    "jugador": "A. Sorloth",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
    }
   ],
   "1570039": [],
@@ -15796,6 +15808,12 @@
   "1550211": [
    {
     "equipo": 505,
+    "jugador": "A. Bastoni",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 505,
     "jugador": "A. Bonny",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
@@ -15804,18 +15822,6 @@
     "equipo": 505,
     "jugador": "H. Calhanoglu",
     "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 505,
-    "jugador": "P. Zielinski",
-    "tipo": "Missing Fixture",
-    "motivo": "Foot Injury"
-   },
-   {
-    "equipo": 505,
-    "jugador": "A. Bastoni",
-    "tipo": "Questionable",
     "motivo": "Muscle Injury"
    },
    {
@@ -15915,7 +15921,7 @@
   ],
   "1575553": []
  },
- "ultima": "2026-11-27T22:41:33.586685+01:00",
+ "ultima": "2026-11-27T23:20:57.079028+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
