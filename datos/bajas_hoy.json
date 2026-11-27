@@ -15439,6 +15439,12 @@
     "jugador": "K. Taylor",
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 487,
+    "jugador": "T. Noslin",
+    "tipo": "Questionable",
+    "motivo": "Injury"
    }
   ],
   "1570466": [
@@ -15607,6 +15613,12 @@
    },
    {
     "equipo": 110,
+    "jugador": "N. Donkor",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 110,
     "jugador": "P. Gozzi",
     "tipo": "Missing Fixture",
     "motivo": "Hamstring Injury"
@@ -15616,6 +15628,12 @@
     "jugador": "Y. Kone",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 110,
+    "jugador": "Y. Titi",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
    },
    {
     "equipo": 110,
@@ -15891,7 +15909,7 @@
   ],
   "1575553": []
  },
- "ultima": "2026-11-27T19:58:02.324446+01:00",
+ "ultima": "2026-11-27T20:28:12.824234+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
