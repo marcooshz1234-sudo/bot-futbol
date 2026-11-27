@@ -71,18 +71,7 @@
    "justa": 1.41,
    "ev": -0.004,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Groningen",
-   "visitante": "Willem II",
-   "inicio": "2026-11-27T20:00",
-   "texto": "Groningen marca 3 o más",
-   "cuota": 2.1,
-   "justa": 2.13,
-   "ev": -0.015,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Leganes",
@@ -93,11 +82,11 @@
    "justa": 1.65,
    "ev": -0.019,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-27T19:27",
+  "hora": "2026-11-27T19:48",
   "revisadas": 0,
   "mejor": null
  },
