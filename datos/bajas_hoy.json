@@ -14024,22 +14024,10 @@
     "jugador": "R. Le Guen",
     "tipo": "Missing Fixture",
     "motivo": "Broken Leg"
-   },
-   {
-    "equipo": 114,
-    "jugador": "N. Sangui",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
    }
   ],
   "1570043": [],
   "1550216": [
-   {
-    "equipo": 517,
-    "jugador": "A. Adorante",
-    "tipo": "Missing Fixture",
-    "motivo": "Hernia"
-   },
    {
     "equipo": 517,
     "jugador": "T. Correia",
@@ -15903,7 +15891,7 @@
   ],
   "1575553": []
  },
- "ultima": "2026-11-27T19:24:10.652668+01:00",
+ "ultima": "2026-11-27T19:58:02.324446+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
