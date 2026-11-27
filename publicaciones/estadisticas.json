@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28 00:39",
+ "actualizado": "2026-11-28 00:49",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 552,
-   "hoy": -1,
+   "seguidores": 551,
+   "hoy": -2,
    "serie": [
     506,
     506,
@@ -50,17 +50,17 @@
     527,
     539,
     553,
-    552
+    551
    ]
   }
  },
- "total": 4908,
- "total_hoy": 2,
+ "total": 4907,
+ "total_hoy": 1,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:40",
+  "hora": "01:00",
   "dia": "2026-11-28",
-  "titulo": "Gana y ambos marcan"
+  "titulo": "Premier league - ganadores"
  },
  "ayer": {
   "aciertos": 0,
@@ -290,7 +290,7 @@
    "instagram": 58,
    "threads": 4297,
    "facebook": 1,
-   "telegram": 552
+   "telegram": 551
   }
  },
  "tipos_instagram": {
