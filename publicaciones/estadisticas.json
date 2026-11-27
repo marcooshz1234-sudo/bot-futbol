@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27 08:55",
+ "actualizado": "2026-11-27 09:05",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4256,
-   "hoy": 61,
+   "seguidores": 4257,
+   "hoy": 62,
    "serie": [
     3475,
     3714,
@@ -24,7 +24,7 @@
     3790,
     4020,
     4195,
-    4256
+    4257
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4864,
- "total_hoy": 71,
+ "total": 4865,
+ "total_hoy": 72,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "09:00",
+  "hora": "11:00",
   "dia": "2026-11-27",
-  "titulo": "Combi de tiros · nottingham forest vs "
+  "titulo": "Reto escalera · día 2/7"
  },
  "ayer": {
   "aciertos": 3,
@@ -282,7 +282,7 @@
   },
   "2026-11-27": {
    "instagram": 58,
-   "threads": 4256,
+   "threads": 4257,
    "facebook": 1,
    "telegram": 549
   }

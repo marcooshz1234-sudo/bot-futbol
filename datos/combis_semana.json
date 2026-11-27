@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-27",
- "generado": "2026-11-27T08:34+01:00",
+ "generado": "2026-11-27T09:04+01:00",
  "rango": [
   "2026-11-27",
   "2026-11-30"
@@ -681,18 +681,6 @@
    "logo": "https://media.api-sports.io/football/teams/49.png",
    "patas": [
     {
-     "sel": "1557485|Player Fouls Committed|Cole Palmer - 1",
-     "texto": "Cole Palmer: comete 1+ falta",
-     "cuota": 1.62,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,34 por 90' (1-2-0-1-2-2)",
-     "nota": 0.9240000000000002,
-     "equipo": "Chelsea",
-     "lado": "V",
-     "partido": "Nottingham Forest–Chelsea",
-     "hora": "2026-11-27T21:00"
-    },
-    {
      "sel": "1557485|Player Fouls Committed|Pep Chavarria - 1",
      "texto": "Pep Chavarria: comete 1+ falta",
      "cuota": 1.62,
@@ -729,7 +717,7 @@
      "hora": "2026-11-27T21:00"
     }
    ],
-   "cuota": 5.78
+   "cuota": 3.57
   },
   {
    "equipo": "Manchester United",

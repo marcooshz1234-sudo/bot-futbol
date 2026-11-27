@@ -63,6 +63,17 @@
  },
  "top": [
   {
+   "local": "Venezia",
+   "visitante": "Bologna",
+   "inicio": "2026-11-27T20:45",
+   "texto": "Venezia o empate",
+   "cuota": 1.67,
+   "justa": 1.62,
+   "ev": 0.03,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
    "local": "Groningen",
    "visitante": "Willem II",
    "inicio": "2026-11-27T20:00",
@@ -86,7 +97,7 @@
   }
  ],
  "ultima": {
-  "hora": "2026-11-27T08:42",
+  "hora": "2026-11-27T09:06",
   "revisadas": 0,
   "mejor": null
  },
