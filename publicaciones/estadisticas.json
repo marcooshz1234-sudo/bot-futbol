@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27 02:52",
+ "actualizado": "2026-11-27 03:03",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4218,
-   "hoy": 23,
+   "seguidores": 4220,
+   "hoy": 25,
    "serie": [
     3475,
     3714,
@@ -24,7 +24,7 @@
     3790,
     4020,
     4195,
-    4218
+    4220
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4819,
- "total_hoy": 26,
+ "total": 4821,
+ "total_hoy": 28,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "03:00",
+  "hora": "05:00",
   "dia": "2026-11-27",
-  "titulo": "El duelo de tiros"
+  "titulo": "Combi x161"
  },
  "ayer": {
   "aciertos": 3,
@@ -282,7 +282,7 @@
   },
   "2026-11-27": {
    "instagram": 58,
-   "threads": 4218,
+   "threads": 4220,
    "facebook": 1,
    "telegram": 542
   }
