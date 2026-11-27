@@ -17023,14 +17023,14 @@
       "1570468|To Win Either Half|Away"
     ],
     "cuotas": [
-      1.9,
+      1.83,
       1.91,
       2.1,
       2.2,
       2.2,
-      2.0,
       2.1,
-      1.91
+      2.1,
+      2.0
     ],
     "solo_en": [
       "threads"
@@ -17041,7 +17041,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-27T03:32"
   },
   {
     "id": "2026-11-27-loca-th-0800-reto",
