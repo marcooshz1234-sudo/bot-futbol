@@ -185,6 +185,13 @@
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.426
   },
+  "CRIMINALPICKS🕵🏻‍♂️🏀⚽️🎾": {
+   "n": 2,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "AllSportsPicks": {
    "n": 1,
    "verdes": 0,
@@ -233,7 +240,7 @@
    "prob_cuota": 3.734
   },
   "Double Chance Draw/Away": {
-   "n": 7,
+   "n": 8,
    "verdes": 5,
    "rojos": 2,
    "nulos": 0,
@@ -756,11 +763,18 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Match Winner Draw": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "equipo": {
   "—": {
-   "n": 117,
+   "n": 118,
    "verdes": 42,
    "rojos": 18,
    "nulos": 0,
@@ -1163,11 +1177,18 @@
    "unidades": 0.9,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.526
+  },
+  "Racing Santander": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
   "sin razón": {
-   "n": 108,
+   "n": 110,
    "verdes": 58,
    "rojos": 17,
    "nulos": 0,
@@ -1241,7 +1262,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 77,
+   "n": 78,
    "verdes": 34,
    "rojos": 19,
    "nulos": 0,
@@ -1266,7 +1287,7 @@
    "unidades": 0.0
   },
   "1,80-2,20": {
-   "n": 28,
+   "n": 29,
    "verdes": 11,
    "rojos": 5,
    "nulos": 0,
@@ -1322,7 +1343,7 @@
    "prob_cuota": 6.251
   },
   "La Liga": {
-   "n": 8,
+   "n": 10,
    "verdes": 1,
    "rojos": 1,
    "nulos": 0,
@@ -1394,7 +1415,7 @@
  },
  "lado": {
   "partido": {
-   "n": 97,
+   "n": 98,
    "verdes": 32,
    "rojos": 13,
    "nulos": 0,
@@ -1412,7 +1433,7 @@
    "prob_cuota": 22.538
   },
   "visitante": {
-   "n": 39,
+   "n": 40,
    "verdes": 26,
    "rojos": 9,
    "nulos": 0,
@@ -1423,7 +1444,7 @@
  },
  "por_que": {
   "—": {
-   "n": 109,
+   "n": 111,
    "verdes": 37,
    "rojos": 25,
    "nulos": 0,
@@ -1497,7 +1518,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 179,
+   "n": 181,
    "verdes": 79,
    "rojos": 35,
    "nulos": 0,

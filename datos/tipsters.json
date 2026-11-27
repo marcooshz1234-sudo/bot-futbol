@@ -4925,5 +4925,45 @@
    "cuota_bet365": 3.0,
    "prob_cuota": 0.333
   }
+ },
+ {
+  "tipster": "CRIMINALPICKS🕵🏻‍♂️🏀⚽️🎾",
+  "fuente": "-1002685171001/11149",
+  "dia": "2026-11-27",
+  "local": "Levante",
+  "visitante": "Racing Santander",
+  "partido_id": 1570468,
+  "texto": "Empate en Levante–Racing Santander",
+  "mercado": "Match Winner",
+  "opcion": "Draw",
+  "cuota": 1.72,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "La Liga",
+   "cuota_bet365": 4.0,
+   "prob_cuota": 0.581
+  }
+ },
+ {
+  "tipster": "CRIMINALPICKS🕵🏻‍♂️🏀⚽️🎾",
+  "fuente": "-1002685171001/11149",
+  "dia": "2026-11-27",
+  "local": "Levante",
+  "visitante": "Racing Santander",
+  "partido_id": 1570468,
+  "texto": "Racing Santander o empate",
+  "mercado": "Double Chance",
+  "opcion": "Draw/Away",
+  "cuota": 1.8,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "La Liga",
+   "cuota_bet365": 1.8,
+   "prob_cuota": 0.556
+  }
  }
 ]

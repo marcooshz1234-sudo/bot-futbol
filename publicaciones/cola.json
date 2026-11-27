@@ -2072,5 +2072,22 @@
     "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
     "requiere_ok": true,
     "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
+  },
+  {
+    "id": "2026-11-27-pick-tip-2",
+    "fecha": "2026-11-27T20:29",
+    "texto": "Pick que no podía faltar hoy ⚽\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🍀 Racing Santander o empate @1,80\n\n⚽ Levante – Racing Santander · hoy 21:00",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": false,
+    "sel": [
+      "1570468|Double Chance|Draw/Away"
+    ],
+    "cuotas": [
+      1.8
+    ],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
   }
 ]
