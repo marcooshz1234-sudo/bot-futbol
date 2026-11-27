@@ -1,10 +1,10 @@
 # Valladolid – Real Sociedad II
 **Segunda División** · Regular Season - 16 · 28/11/2026 21:00 (hora España) · Estadio José Zorrilla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:03_
+_Actualizadas: 27/11 09:23_
 
 - **1X2:** 1 **1.73**  ·  X **3.75**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **2.05**

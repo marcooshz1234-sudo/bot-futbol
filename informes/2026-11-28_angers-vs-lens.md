@@ -1,10 +1,10 @@
 # Angers – Lens
 **Ligue 1** · Regular Season - 12 · 28/11/2026 17:15 (hora España) · Stade Raymond Kopa
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:02_
+_Actualizadas: 27/11 09:23_
 
 - **1X2:** 1 **4.75**  ·  X **4.10**  ·  2 **1.65**
 - **Doble oportunidad:** 1X **2.20**  ·  12 **1.22**  ·  X2 **1.18**
@@ -22,7 +22,7 @@ _Actualizadas: 26/11 23:02_
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
     - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.25** · menos **1.33**
+    - 1,5: más **3.40** · menos **1.30**
     - 2,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
     - 0,5: más **1.12** · menos **6.00**
@@ -40,7 +40,7 @@ _Actualizadas: 26/11 23:02_
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **9.00** · menos **1.07**
+    - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
 - **To Win Either Half:** 1 **2.62**  ·  2 **1.36**
@@ -125,7 +125,7 @@ _Actualizadas: 26/11 23:02_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Angers:** B. Diatta (baja, Ankle Injury)
+**Angers:** A. Bermont (baja, Loan agreement); B. Diatta (baja, Ankle Injury)
 **Lens:** R. Aguilar (baja, Muscle Injury); M. Cuisance (baja, Illness); O. Edouard (baja, Groin Injury); M. Nawrocki (baja, Knee Injury)
 
 ## Enfrentamientos directos recientes

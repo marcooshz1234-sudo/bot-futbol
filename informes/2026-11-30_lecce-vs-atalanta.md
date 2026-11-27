@@ -1,7 +1,7 @@
 # Lecce – Atalanta
 **Serie A** · Regular Season - 13 · 30/11/2026 18:30 (hora España) · Stadio Via del Mare
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
 _Actualizadas: 26/11 23:03_

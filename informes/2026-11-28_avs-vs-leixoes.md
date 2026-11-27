@@ -1,10 +1,10 @@
 # AVS – Leixoes
 **Segunda Liga** · Regular Season - 12 · 28/11/2026 12:00 (hora España) · Estádio do CD das Aves
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:02_
+_Actualizadas: 27/11 09:22_
 
 - **1X2:** 1 **3.20**  ·  X **3.25**  ·  2 **2.00**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.30**  ·  X2 **1.33**
@@ -29,7 +29,7 @@ _Actualizadas: 26/11 23:02_
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 9,5: más **2.00** · menos **1.80**
+    - 9,5: más **1.91** · menos **1.80**
 - **Córners 1X2:** 1 **2.50**  ·  X **8.00**  ·  2 **1.73**
 - **1X2 descanso:** 1 **4.00**  ·  X **2.20**  ·  2 **2.75**
 - **Goals Over/Under - Second Half:**

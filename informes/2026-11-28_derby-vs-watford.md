@@ -1,10 +1,10 @@
 # Derby – Watford
 **Championship** · Regular Season - 18 · 28/11/2026 16:00 (hora España) · Pride Park Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:02_
+_Actualizadas: 27/11 09:22_
 
 - **1X2:** 1 **2.25**  ·  X **3.25**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.33**  ·  X2 **1.62**
@@ -54,9 +54,9 @@ _Actualizadas: 26/11 23:02_
     - 4,5: más **2.20** · menos **1.62**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.88**  ·  Más de 4.5 **1.92**  ·  Menos de 4.5 **1.88**
 - **Home Team Total Cards:**
-    - 2,5: más **2.38** · menos **1.53**
+    - 2,5: más **2.10** · menos **1.67**
 - **Away Team Total Cards:**
-    - 2,5: más **2.25** · menos **1.57**
+    - 2,5: más **2.00** · menos **1.73**
 - **Total ShotOnGoal:**
     - 8,5: más **2.00** · menos **1.73**
 - **ShotOnTarget 1x2:** 1 **1.73**  ·  X **7.00**  ·  2 **2.60**

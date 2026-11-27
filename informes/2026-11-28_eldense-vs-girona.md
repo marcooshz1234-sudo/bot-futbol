@@ -1,13 +1,13 @@
 # Eldense – Girona
 **Segunda División** · Regular Season - 16 · 28/11/2026 16:15 (hora España) · Nuevo Pepico Amat
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:02_
+_Actualizadas: 27/11 09:22_
 
 - **1X2:** 1 **3.10**  ·  X **3.25**  ·  2 **2.30**
-- **Doble oportunidad:** 1X **1.57**  ·  12 **1.30**  ·  X2 **1.40**
+- **Doble oportunidad:** 1X **1.57**  ·  12 **1.33**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **10.00**
@@ -28,7 +28,7 @@ _Actualizadas: 26/11 23:02_
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Córners más/menos:**
-    - 9,5: más **1.98** · menos **1.82**
+    - 9,5: más **1.91** · menos **1.80**
 - **Córners 1X2:** 1 **2.05**  ·  X **8.00**  ·  2 **2.05**
 - **1X2 descanso:** 1 **3.60**  ·  X **2.10**  ·  2 **3.00**
 - **Goals Over/Under - Second Half:**

@@ -1,10 +1,10 @@
 # Excelsior – Telstar
 **Eredivisie** · Regular Season - 14 · 28/11/2026 16:30 (hora España) · Van Donge & De Roo Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:02_
+_Actualizadas: 27/11 09:22_
 
 - **1X2:** 1 **1.95**  ·  X **3.50**  ·  2 **3.90**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.80**

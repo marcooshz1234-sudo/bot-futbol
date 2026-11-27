@@ -1,10 +1,10 @@
 # Feirense – Portimonense
 **Segunda Liga** · Regular Season - 12 · 27/11/2026 19:00 (hora España) · Estádio Marcolino de Castro
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:01_
+_Actualizadas: 27/11 09:22_
 
 - **1X2:** 1 **3.10**  ·  X **3.00**  ·  2 **2.15**
 - **Doble oportunidad:** 1X **1.62**  ·  12 **1.33**  ·  X2 **1.33**
@@ -28,7 +28,8 @@ _Actualizadas: 26/11 23:01_
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
-    - 10: más **1.82** · menos **1.98**
+    - 9,5: más **1.67** · menos **2.10**
+    - 10: más **1.92** · menos **1.88**
     - 10,5: más **2.00** · menos **1.73**
 - **Córners 1X2:** 1 **1.80**  ·  X **8.00**  ·  2 **2.38**
 - **1X2 descanso:** 1 **4.00**  ·  X **2.05**  ·  2 **3.00**
@@ -44,10 +45,10 @@ _Actualizadas: 26/11 23:01_
 - **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **5.00**  ·  Draw/No **8.00**  ·  Away/No **3.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.62**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.05**
 - **Home Corners Over/Under:**
-    - 5,5: más **2.00** · menos **1.73**
+    - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 4,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.75**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.82**  ·  Menos de 4.5 **1.98**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.75**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.88**  ·  Menos de 4.5 **1.92**
 
 ## Estadísticas de equipo
 | | Feirense (total) | Feirense en casa | Portimonense (total) | Portimonense fuera |

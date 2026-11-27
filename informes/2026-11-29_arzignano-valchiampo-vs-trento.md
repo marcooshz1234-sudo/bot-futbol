@@ -1,46 +1,46 @@
 # Arzignano Valchiampo – Trento
 **Serie C** · Girone A - 16 · 29/11/2026 12:30 (hora España) · Tommaso Dal Molin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:03_
+_Actualizadas: 27/11 09:23_
 
-- **1X2:** 1 **3.10**  ·  X **3.20**  ·  2 **2.10**
-- **Doble oportunidad:** 1X **1.60**  ·  12 **1.28**  ·  X2 **1.28**
+- **1X2:** 1 **3.70**  ·  X **3.30**  ·  2 **1.85**
+- **Doble oportunidad:** 1X **1.80**  ·  12 **1.25**  ·  X2 **1.22**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
-    - 1,5: más **1.28** · menos **3.50**
-    - 2,5: más **1.95** · menos **1.85**
-    - 3,5: más **3.25** · menos **1.33**
-    - 4,5: más **6.00** · menos **1.11**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.85** · menos **1.95**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **5.50** · menos **1.12**
     - 5,5: más **9.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **7.00** · menos **1.08**
 - **Goles del local:**
-    - 0,5: más **1.40** · menos **2.75**
-    - 1,5: más **2.75** · menos **1.40**
-    - 2,5: más **6.50** · menos **1.10**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **7.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **4.50** · menos **1.17**
-    - 3,5: más **9.00** · menos **1.04**
-- **1X2 descanso:** 1 **3.60**  ·  X **2.10**  ·  2 **2.75**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **8.00** · menos **1.06**
+- **1X2 descanso:** 1 **4.00**  ·  X **2.20**  ·  2 **2.50**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **4.50** · menos **1.18**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
-- **To Win Either Half:** 1 **2.00**  ·  2 **1.67**
-- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **3.50**
-- **Win Both Halves:** 1 **11.00**  ·  2 **7.00**
-- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.50**  ·  Home/No **5.50**  ·  Draw/No **10.00**  ·  Away/No **3.75**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.38**
+- **To Win Either Half:** 1 **2.25**  ·  2 **1.53**
+- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **3.00**
+- **Win Both Halves:** 1 **15.00**  ·  2 **6.00**
+- **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.00**  ·  Home/No **7.00**  ·  Draw/No **11.00**  ·  Away/No **3.40**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.50**
 
 ## Estadísticas de equipo
 | | Arzignano Valchiampo (total) | Arzignano Valchiampo en casa | Trento (total) | Trento fuera |

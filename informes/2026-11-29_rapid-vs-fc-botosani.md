@@ -1,10 +1,10 @@
 # Rapid – FC Botosani
 **Liga I** · Regular Season - 17 · 29/11/2026 19:00 (hora España) · Superbet Arena - Giulesti
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:03_
+_Actualizadas: 27/11 09:24_
 
 - **1X2:** 1 **1.50**  ·  X **3.80**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.22**  ·  X2 **2.38**
@@ -30,7 +30,7 @@ _Actualizadas: 26/11 23:03_
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **1.80** · menos **1.91**
+    - 9,5: más **1.80** · menos **2.00**
 - **Córners 1X2:** 1 **1.30**  ·  X **9.50**  ·  2 **4.00**
 - **1X2 descanso:** 1 **2.00**  ·  X **2.50**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**

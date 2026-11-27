@@ -1,10 +1,10 @@
 # Lyon – Monaco
-**Ligue 1** · Regular Season - 12 · 29/11/2026 20:45 (hora España) · Parc Olympique Lyonnais
+**Ligue 1** · Regular Season - 12 · 29/11/2026 20:45 (hora España) · Groupama Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:03_
+_Actualizadas: 27/11 09:24_
 
 - **1X2:** 1 **2.40**  ·  X **3.40**  ·  2 **2.90**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.30**  ·  X2 **1.53**
@@ -118,8 +118,8 @@ _Actualizadas: 26/11 23:03_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Lyon:** L. Openda (baja, Leg Injury); M. Ouédraogo (baja, Jumpers Knee); P. Šulc (baja, Jumpers Knee)
-**Monaco:** S. Idumbo-Muzambo (baja, Groin Injury)
+**Lyon:** L. Diarra (baja, Injury); T. Morton (baja, Groin Injury); M. Ouedraogo (baja, Knee Injury); P. Sulc (baja, Knee Injury); M. Bidstrup (duda, Foot Injury); C. Mata (duda, Muscle Injury)
+**Monaco:** M. Coulibaly (baja, Suspended); A. Fati (baja, Hamstring Injury); A. Golovin (baja, Calf Injury); S. Idumbo (baja, Groin Injury); P. Kohn (baja, Inactive); P. Brunner (duda, Injury); E. Diop (duda, Injury); M. Salisu (duda, Knee Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-03-22 · Ligue 1: Lyon 1-2 Monaco

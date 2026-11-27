@@ -1,10 +1,10 @@
 # Arouca – Rio Ave
 **Primeira Liga** · Regular Season - 12 · 28/11/2026 16:30 (hora España) · Estádio Municipal de Arouca
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:02_
+_Actualizadas: 27/11 09:22_
 
 - **1X2:** 1 **1.65**  ·  X **3.80**  ·  2 **5.00**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.20**
@@ -29,7 +29,7 @@ _Actualizadas: 26/11 23:02_
     - 1,5: más **4.00** · menos **1.22**
     - 2,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 9,5: más **1.82** · menos **1.98**
+    - 9,5: más **1.80** · menos **1.91**
 - **Córners 1X2:** 1 **1.50**  ·  X **8.50**  ·  2 **3.00**
 - **1X2 descanso:** 1 **2.25**  ·  X **2.25**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**

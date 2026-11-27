@@ -1,33 +1,33 @@
 # AB Copenhagen – Vejle
 **1. Division** · Regular Season - 16 · 27/11/2026 19:00 (hora España) · Gladsaxe Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:01_
+_Actualizadas: 27/11 09:22_
 
-- **1X2:** 1 **3.30**  ·  X **3.60**  ·  2 **2.00**
-- **Doble oportunidad:** 1X **1.80**  ·  12 **1.25**  ·  X2 **1.36**
-- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
+- **1X2:** 1 **3.20**  ·  X **3.70**  ·  2 **2.05**
+- **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.33**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
-    - 1,5: más **1.22** · menos **4.00**
-    - 2,5: más **1.75** · menos **2.05**
-    - 3,5: más **2.75** · menos **1.40**
-    - 4,5: más **5.50** · menos **1.14**
-    - 5,5: más **11.00** · menos **1.05**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.15**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.62** · menos **1.44**
-    - 2,5: más **6.50** · menos **1.11**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
-    - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.62** · menos **1.44**
-    - 2,5: más **7.00** · menos **1.10**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
 - **Goles del visitante:**
     - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.91** · menos **1.80**
-    - 2,5: más **4.00** · menos **1.22**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
     - 10: más **1.80** · menos **2.00**
@@ -40,11 +40,11 @@ _Actualizadas: 26/11 23:01_
     - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **2.10**  ·  2 **1.57**
-- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **3.00**
-- **Win Both Halves:** 1 **13.00**  ·  2 **6.50**
-- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.00**  ·  Home/No **6.50**  ·  Draw/No **13.00**  ·  Away/No **3.75**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.62**
+- **To Win Either Half:** 1 **2.00**  ·  2 **1.57**
+- **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **3.00**
+- **Win Both Halves:** 1 **11.00**  ·  2 **6.50**
+- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.75**  ·  Home/No **6.50**  ·  Draw/No **13.00**  ·  Away/No **4.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.75**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.60**  ·  Menos de 5 **1.95**  ·  Más de 4.5 **1.80**  ·  Menos de 4.5 **2.00**
 - **Anytime Goal Scorer:** Tobias Lykkebak **6.50**  ·  Mikkel Duelund **2.50**  ·  Christian Sorensen **5.50**  ·  Marc Dal Hende **10.00**  ·  Lundrim Hetemi **7.00**  ·  Thomas Gundelund **8.50**  ·  Gunnar Vatnhamar **10.00**  ·  Bismark Edjeodji **4.33**  ·  Jonathan Mathys **4.50**  ·  William Warrer **12.00**  ·  Gustav Marcussen **3.60**  ·  Lucas From **3.20**  ·  Mike Vestergaard **5.50**  ·  Gabriel Noga **10.00**  ·  Giorgi Tabatadze **7.50**  ·  Max Jensen **4.33**  ·  Wahidullah Faghir **2.88**  ·  Johan Karlsson **7.50**  ·  Lasse Nielsen **8.50**  ·  Milan Rasmussen **3.50**  ·  Eman Subasic **4.33**  ·  Nicolas Gammelgaard **4.33**  ·  Ransford Amoo **2.88**  ·  Hjalte Gitz **8.50**  ·  Tobias Bach **3.40**  ·  Marco Ramkilde **3.50**  ·  O'Vonte Mullings **6.50**  ·  Mikkel Brund **7.50**  ·  Noah Engell **3.20**  ·  Tobias Hageltorn **3.50**  ·  Marcus Immersen **3.75**  ·  Casper Grening **5.50**  ·  Alfred Horup **6.50**  ·  Marco Vesterholm **6.50**  ·  Mikkel Clement **7.00**  ·  Soren Ilsoe **7.00**  ·  Frederik Lindgaard **8.50**  ·  Tobias Damtoft **8.50**  ·  Adrien Koudelka **15.00**  ·  Marcus Brolund **3.60**  ·  Jakob Sorensen **7.50**  ·  Aidan Liu **10.00**  ·  Jermain Fernandes **5.50**  ·  Villum Stokbro **8.50**  ·  Marius Stenner **7.00**  ·  Mathias Jensen **5.50**  ·  Valdemar Lund **10.00**  ·  Andrew Hjulsager **4.33**  ·  Saliou Diop **2.62**  ·  Jelle Duin **2.88**  ·  Sander Ravn **5.50**  ·  Travian Sousa **12.00**  ·  Abdoulaye Camara **4.33**
 

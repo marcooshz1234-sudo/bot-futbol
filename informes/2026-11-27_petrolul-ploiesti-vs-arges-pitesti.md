@@ -1,20 +1,20 @@
 # Petrolul Ploiesti – Arges Pitesti
 **Liga I** · Regular Season - 17 · 27/11/2026 19:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:01_
+_Actualizadas: 27/11 09:22_
 
-- **1X2:** 1 **2.05**  ·  X **3.20**  ·  2 **3.20**
-- **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.67**
-- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **1X2:** 1 **2.10**  ·  X **3.20**  ·  2 **3.10**
+- **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.62**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **10.00**
-    - 1,5: más **1.33** · menos **3.25**
+    - 1,5: más **1.30** · menos **3.40**
     - 2,5: más **2.05** · menos **1.75**
-    - 3,5: más **3.75** · menos **1.25**
-    - 4,5: más **8.00** · menos **1.08**
+    - 3,5: más **3.50** · menos **1.28**
+    - 4,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
@@ -35,14 +35,13 @@ _Actualizadas: 26/11 23:01_
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
     - 2,5: más **5.00** · menos **1.17**
-    - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
 - **To Win Either Half:** 1 **1.67**  ·  2 **2.10**
-- **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **5.00**
-- **Win Both Halves:** 1 **7.00**  ·  2 **13.00**
+- **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **4.50**
+- **Win Both Halves:** 1 **8.00**  ·  2 **13.00**
 - **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **9.50**  ·  Away/No **5.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.20**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.25**
 - **Home Corners Over/Under:**
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**

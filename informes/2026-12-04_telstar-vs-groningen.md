@@ -1,7 +1,7 @@
 # Telstar – Groningen
 **Eredivisie** · Regular Season - 15 · 04/12/2026 20:00 (hora España) · BUKO Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
 _Actualizadas: 26/11 23:05_

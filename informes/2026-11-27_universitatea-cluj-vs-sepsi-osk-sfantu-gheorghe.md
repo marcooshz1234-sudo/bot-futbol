@@ -1,10 +1,10 @@
 # Universitatea Cluj – Sepsi OSK Sfantu Gheorghe
 **Liga I** · Regular Season - 17 · 27/11/2026 16:30 (hora España) · Cluj Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:01_
+_Actualizadas: 27/11 09:22_
 
 - **1X2:** 1 **1.53**  ·  X **3.75**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.22**  ·  X2 **2.25**
@@ -12,7 +12,7 @@ _Actualizadas: 26/11 23:01_
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.00**
-    - 2,5: más **1.75** · menos **2.05**
+    - 2,5: más **1.73** · menos **2.08**
     - 3,5: más **2.75** · menos **1.40**
     - 4,5: más **5.50** · menos **1.14**
     - 5,5: más **11.00** · menos **1.05**

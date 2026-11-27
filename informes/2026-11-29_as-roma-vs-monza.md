@@ -1,10 +1,10 @@
 # AS Roma – Monza
 **Serie A** · Regular Season - 13 · 29/11/2026 18:00 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:03_
+_Actualizadas: 27/11 09:23_
 
 - **1X2:** 1 **1.18**  ·  X **7.00**  ·  2 **15.00**
 - **Doble oportunidad:** 1X **1.03**  ·  12 **1.10**  ·  X2 **4.50**
@@ -32,7 +32,7 @@ _Actualizadas: 26/11 23:03_
     - 1,5: más **4.50** · menos **1.18**
 - **Córners más/menos:**
     - 9: más **1.80** · menos **2.00**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **1.90** · menos **1.90**
 - **Córners 1X2:** 1 **1.18**  ·  X **11.00**  ·  2 **5.50**
 - **Tarjetas más/menos:**
     - 3,5: más **1.83** · menos **1.83**
@@ -55,6 +55,10 @@ _Actualizadas: 26/11 23:03_
 - **Away Corners Over/Under:**
     - 2,5: más **1.80** · menos **1.91**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.62**  ·  Exactamente 5 **5.50**  ·  Más de 5 **2.75**  ·  Menos de 5 **1.83**  ·  Más de 4.5 **1.90**  ·  Menos de 4.5 **1.90**
+- **Home Team Total Cards:**
+    - 1,5: más **2.38** · menos **1.53**
+- **Away Team Total Cards:**
+    - 2,5: más **2.10** · menos **1.67**
 - **Total ShotOnGoal:**
     - 10,5: más **1.83** · menos **1.83**
 - **ShotOnTarget 1x2:** 1 **1.09**  ·  X **15.00**  ·  2 **11.00**

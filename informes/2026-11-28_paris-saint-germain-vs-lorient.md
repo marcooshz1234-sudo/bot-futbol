@@ -1,10 +1,10 @@
 # Paris Saint Germain – Lorient
 **Ligue 1** · Regular Season - 12 · 28/11/2026 20:45 (hora España) · Parc des Princes
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:03_
+_Actualizadas: 27/11 09:23_
 
 - **1X2:** 1 **1.20**  ·  X **6.50**  ·  2 **15.00**
 - **Doble oportunidad:** 1X **1.03**  ·  12 **1.11**  ·  X2 **4.33**
@@ -32,7 +32,7 @@ _Actualizadas: 26/11 23:03_
     - 0,5: más **1.83** · menos **1.83**
     - 1,5: más **5.50** · menos **1.14**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **1.90** · menos **1.90**
 - **Córners 1X2:** 1 **1.12**  ·  X **12.00**  ·  2 **7.00**
 - **Tarjetas más/menos:**
     - 2,5: más **1.62** · menos **2.20**

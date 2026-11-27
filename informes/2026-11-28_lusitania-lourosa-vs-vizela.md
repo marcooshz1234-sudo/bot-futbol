@@ -1,10 +1,10 @@
 # Lusitânia Lourosa – Vizela
 **Segunda Liga** · Regular Season - 12 · 28/11/2026 19:00 (hora España) · Estadio Do Lusitania
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:02_
+_Actualizadas: 27/11 09:23_
 
 - **1X2:** 1 **2.05**  ·  X **3.10**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.67**
@@ -48,7 +48,7 @@ _Actualizadas: 26/11 23:02_
     - 4,5: más **1.67** · menos **2.10**
 - **Away Corners Over/Under:**
     - 3,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.80**  ·  Menos de 4 **2.00**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.20**  ·  Menos de 4 **2.38**
 
 ## Estadísticas de equipo
 | | Lusitânia Lourosa (total) | Lusitânia Lourosa en casa | Vizela (total) | Vizela fuera |

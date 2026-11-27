@@ -1036,5 +1036,116 @@
  "Venice|Italy": [
   45.43713,
   12.33265
+ ],
+ "Lorosa|Portugal": null,
+ "Elche|Spain": [
+  38.26218,
+  -0.70107
+ ],
+ "Viseu|Portugal": [
+  40.66165,
+  -7.90905
+ ],
+ "Hamburger|Germany": [
+  54.168,
+  10.43459
+ ],
+ "Frosinone|Italy": [
+  41.63976,
+  13.34109
+ ],
+ "Mainz|Germany": [
+  49.98185,
+  8.28008
+ ],
+ "Le Mans|France": [
+  48.0021,
+  0.20251
+ ],
+ "Guimarães|Portugal": [
+  41.44443,
+  -8.29619
+ ],
+ "Ipswich|England": [
+  52.05917,
+  1.15545
+ ],
+ "Voluntari|Romania": [
+  44.49002,
+  26.17338
+ ],
+ "Chavez|Portugal": null,
+ "Angers|France": [
+  47.47156,
+  -0.55202
+ ],
+ "Paderborn|Germany": [
+  51.71905,
+  8.75439
+ ],
+ "Blackburn|England": [
+  53.75,
+  -2.48333
+ ],
+ "West Bromwich|England": [
+  52.51868,
+  -1.9945
+ ],
+ "Derby|England": [
+  52.92277,
+  -1.47663
+ ],
+ "Cologne|Germany": [
+  50.87894,
+  7.12292
+ ],
+ "Helsingor|Denmark": [
+  56.03606,
+  12.6136
+ ],
+ "Las Palmas de Gran Canaria|Spain": [
+  28.10178,
+  -15.41573
+ ],
+ "Preston|England": [
+  53.76282,
+  -2.70452
+ ],
+ "Eindhoven|Netherlands": [
+  51.44083,
+  5.47778
+ ],
+ "Aruca|Portugal": null,
+ "Alcochet|Portugal": [
+  38.75534,
+  -8.96086
+ ],
+ "Koge|Denmark": [
+  55.45802,
+  12.18214
+ ],
+ "Leeds|England": [
+  53.79648,
+  -1.54785
+ ],
+ "Stuttgart|Germany": [
+  48.78232,
+  9.17702
+ ],
+ "Leeuwarden|Netherlands": [
+  53.20271,
+  5.80973
+ ],
+ "Wrexham|England": [
+  53.04664,
+  -2.99132
+ ],
+ "Le Havre|France": [
+  49.49346,
+  0.10785
+ ],
+ "Malaga|Spain": [
+  36.72016,
+  -4.42034
  ]
 }

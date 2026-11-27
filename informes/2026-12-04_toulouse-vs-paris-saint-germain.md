@@ -1,7 +1,7 @@
 # Toulouse – Paris Saint Germain
 **Ligue 1** · Regular Season - 13 · 04/12/2026 20:45 (hora España) · Stadium de Toulouse
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
 _Actualizadas: 26/11 23:05_

@@ -1175,21 +1175,22 @@
    ]
   },
   {
-   "partido_id": 1551384,
+   "partido_id": 1576542,
    "fecha": "2026-11-27T19:00",
-   "local": "AB Copenhagen",
-   "visitante": "Vejle",
-   "liga": "1. Division",
+   "local": "Feirense",
+   "visitante": "Portimonense",
+   "liga": "Segunda Liga",
    "datos": [
-    "El Vejle no ha perdido fuera en sus últimos 6 partidos (2V 4E).",
-    "El Vejle ha ganado 3 de sus últimos 5 partidos."
+    "Los partidos del Feirense llevan 1,9 goles de media (últimos 8).",
+    "Los partidos del Portimonense llevan 1,5 goles de media (últimos 8).",
+    "Feirense está en descenso (18º): se juega mucho"
    ],
    "picks": [
     {
-     "sel": "1551384|Double Chance|Draw/Away",
-     "texto": "Vejle o empate",
-     "cuota": 1.36,
-     "prob": 0.38
+     "sel": "1576542|Total - Home|Over 0.5",
+     "texto": "Feirense marca",
+     "cuota": 1.44,
+     "prob": 0.66
     }
    ]
   },
@@ -1219,26 +1220,6 @@
    ]
   },
   {
-   "partido_id": 1576542,
-   "fecha": "2026-11-27T19:00",
-   "local": "Feirense",
-   "visitante": "Portimonense",
-   "liga": "Segunda Liga",
-   "datos": [
-    "Los partidos del Feirense llevan 1,9 goles de media (últimos 8).",
-    "Los partidos del Portimonense llevan 1,5 goles de media (últimos 8).",
-    "Feirense está en descenso (18º): se juega mucho"
-   ],
-   "picks": [
-    {
-     "sel": "1576542|Total - Home|Over 0.5",
-     "texto": "Feirense marca",
-     "cuota": 1.44,
-     "prob": 0.66
-    }
-   ]
-  },
-  {
    "partido_id": 1565316,
    "fecha": "2026-11-27T19:30",
    "local": "Petrolul Ploiesti",
@@ -1254,6 +1235,12 @@
      "texto": "Arges Pitesti marca",
      "cuota": 1.4,
      "prob": 0.47
+    },
+    {
+     "sel": "1565316|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Petrolul Ploiesti–Arges Pitesti",
+     "cuota": 1.8,
+     "prob": 0.46
     }
    ]
   },
@@ -1267,14 +1254,13 @@
     "El Groningen va 11º y el Willem II 18º en la liga.",
     "El Willem II solo ha ganado 1 de sus últimos 5.",
     "Los partidos del Groningen llevan 4,8 goles de media (últimos 8).",
-    "Los partidos del Willem II llevan 4,5 goles de media (últimos 8).",
-    "Willem II está en descenso (18º): se juega mucho"
+    "Los partidos del Willem II llevan 4,5 goles de media (últimos 8)."
    ],
    "picks": [
     {
      "sel": "1552238|Match Winner|Home",
      "texto": "Gana el Groningen",
-     "cuota": 1.45,
+     "cuota": 1.4,
      "prob": 0.64
     },
     {
@@ -1290,16 +1276,16 @@
      "prob": 0.55
     },
     {
-     "sel": "1552238|Total - Away|Over 0.5",
-     "texto": "Willem II marca",
-     "cuota": 1.57,
-     "prob": 0.5
-    },
-    {
      "sel": "1552238|Both Teams Score|Yes",
      "texto": "Ambos marcan en Groningen–Willem II",
-     "cuota": 1.62,
-     "prob": 0.5
+     "cuota": 1.67,
+     "prob": 0.49
+    },
+    {
+     "sel": "1552238|Total - Away|Over 0.5",
+     "texto": "Willem II marca",
+     "cuota": 1.5,
+     "prob": 0.49
     }
    ]
   },
@@ -1311,20 +1297,27 @@
    "liga": "Bundesliga",
    "datos": [
     "Los partidos del Werder Bremen llevan 3,8 goles de media (últimos 8).",
-    "Los partidos del Borussia Mönchengladbach llevan 3,1 goles de media (últimos 8)."
+    "Los partidos del Borussia Mönchengladbach llevan 3,1 goles de media (últimos 8).",
+    "El árbitro (Felix Zwayer) saca 5,2 tarjetas por partido"
    ],
    "picks": [
     {
      "sel": "1575237|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Werder Bremen–Borussia Mönchengladbach",
-     "cuota": 1.67,
+     "cuota": 1.73,
      "prob": 0.56
     },
     {
      "sel": "1575237|Both Teams Score|Yes",
      "texto": "Ambos marcan en Werder Bremen–Borussia Mönchengladbach",
-     "cuota": 1.53,
-     "prob": 0.49
+     "cuota": 1.57,
+     "prob": 0.48
+    },
+    {
+     "sel": "1575237|Away Team Total Cards|Over 1.5",
+     "texto": "Borussia Mönchengladbach ve más de 1,5 tarjetas",
+     "cuota": 1.5,
+     "prob": 0.44
     }
    ]
   },
@@ -1336,22 +1329,26 @@
    "liga": "Segunda",
    "datos": [
     "El Leganes ha ganado 3 de sus últimos 5 partidos.",
-    "El Sabadell solo ha ganado 1 de sus últimos 5.",
-    "Los partidos del Leganes llevan 3,2 goles de media (últimos 8).",
-    "Los partidos del Sabadell llevan 2,0 goles de media (últimos 8)."
+    "El Sabadell solo ha ganado 1 de sus últimos 5."
    ],
    "picks": [
+    {
+     "sel": "1570043|Double Chance|Home/Draw",
+     "texto": "Leganes o empate",
+     "cuota": 1.36,
+     "prob": 0.63
+    },
+    {
+     "sel": "1570043|Home Team Total Cards|Over 2.5",
+     "texto": "Leganes ve más de 2,5 tarjetas",
+     "cuota": 1.53,
+     "prob": 0.63
+    },
     {
      "sel": "1570043|Home Corners Over/Under|Over 2.5",
      "texto": "Leganes hace 3+ córners",
      "cuota": 1.37,
      "prob": 0.51
-    },
-    {
-     "sel": "1570043|Double Chance|Home/Draw",
-     "texto": "Leganes o empate",
-     "cuota": 1.36,
-     "prob": 0.5
     },
     {
      "sel": "1570043|Shots. Home Total|Over 7.5",
@@ -1364,12 +1361,32 @@
      "texto": "Sabadell marca",
      "cuota": 1.44,
      "prob": 0.49
+    }
+   ]
+  },
+  {
+   "partido_id": 1550216,
+   "fecha": "2026-11-27T20:45",
+   "local": "Venezia",
+   "visitante": "Bologna",
+   "liga": "Serie A",
+   "datos": [
+    "Los partidos del Venezia llevan 2,2 goles de media (últimos 8).",
+    "Los partidos del Bologna llevan 3,1 goles de media (últimos 8).",
+    "Venezia está en descenso (20º): se juega mucho"
+   ],
+   "picks": [
+    {
+     "sel": "1550216|Total - Home|Over 0.5",
+     "texto": "Venezia marca",
+     "cuota": 1.4,
+     "prob": 0.68
     },
     {
-     "sel": "1570043|Corners Over Under|Over 8.5",
-     "texto": "Más de 8,5 córners en Leganes–Sabadell",
-     "cuota": 1.67,
-     "prob": 0.45
+     "sel": "1550216|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Venezia–Bologna",
+     "cuota": 1.8,
+     "prob": 0.46
     }
    ]
   },
@@ -1398,36 +1415,16 @@
      "prob": 0.47
     },
     {
+     "sel": "1552830|Away Team Total Cards|Over 1.5",
+     "texto": "Paris FC ve más de 1,5 tarjetas",
+     "cuota": 1.5,
+     "prob": 0.43
+    },
+    {
      "sel": "1552830|Corners 1x2|Away",
      "texto": "Paris FC hace más córners",
      "cuota": 1.73,
      "prob": 0.34
-    }
-   ]
-  },
-  {
-   "partido_id": 1550216,
-   "fecha": "2026-11-27T20:45",
-   "local": "Venezia",
-   "visitante": "Bologna",
-   "liga": "Serie A",
-   "datos": [
-    "Los partidos del Venezia llevan 2,2 goles de media (últimos 8).",
-    "Los partidos del Bologna llevan 3,1 goles de media (últimos 8).",
-    "Venezia está en descenso (20º): se juega mucho"
-   ],
-   "picks": [
-    {
-     "sel": "1550216|Total - Home|Over 0.5",
-     "texto": "Venezia marca",
-     "cuota": 1.4,
-     "prob": 0.67
-    },
-    {
-     "sel": "1550216|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Venezia–Bologna",
-     "cuota": 1.8,
-     "prob": 0.45
     }
    ]
   },
@@ -1451,13 +1448,13 @@
     {
      "sel": "1570468|Total - Home|Over 1.5",
      "texto": "Levante marca 2 o más",
-     "cuota": 1.67,
-     "prob": 0.57
+     "cuota": 1.62,
+     "prob": 0.56
     },
     {
      "sel": "1570468|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Levante–Racing Santander",
-     "cuota": 1.67,
+     "cuota": 1.62,
      "prob": 0.56
     },
     {
@@ -1469,8 +1466,8 @@
     {
      "sel": "1570468|Both Teams Score|Yes",
      "texto": "Ambos marcan en Levante–Racing Santander",
-     "cuota": 1.44,
-     "prob": 0.51
+     "cuota": 1.4,
+     "prob": 0.52
     }
    ]
   },
@@ -1503,12 +1500,12 @@
      "sel": "1557485|Double Chance|Home/Draw",
      "texto": "Nottingham Forest o empate",
      "cuota": 1.4,
-     "prob": 0.5
+     "prob": 0.49
     },
     {
      "sel": "1557485|Both Teams Score|Yes",
      "texto": "Ambos marcan en Nottingham Forest–Chelsea",
-     "cuota": 1.62,
+     "cuota": 1.67,
      "prob": 0.45
     },
     {
@@ -1534,13 +1531,13 @@
     {
      "sel": "1563294|Home Team Total Cards|Over 1.5",
      "texto": "Southampton ve más de 1,5 tarjetas",
-     "cuota": 1.5,
+     "cuota": 1.62,
      "prob": 0.6
     },
     {
      "sel": "1563294|Double Chance|Home/Draw",
      "texto": "Southampton o empate",
-     "cuota": 1.57,
+     "cuota": 1.62,
      "prob": 0.52
     },
     {
@@ -1579,6 +1576,12 @@
      "texto": "Nacional marca",
      "cuota": 1.44,
      "prob": 0.49
+    },
+    {
+     "sel": "1575551|Away Corners Over/Under|Over 3.5",
+     "texto": "Nacional hace más de 3,5 córners",
+     "cuota": 1.73,
+     "prob": 0.28
     }
    ]
   }
@@ -1624,6 +1627,7 @@
    "liga": "1. Division",
    "datos": [
     "El Vendsyssel FF no ha ganado ninguno de sus últimos 5.",
+    "Hillerød está en descenso (10º): se juega mucho",
     "Los partidos del Hillerød llevan 2,5 goles de media (últimos 8).",
     "Los partidos del Vendsyssel FF llevan 2,5 goles de media (últimos 8)."
    ],
@@ -1639,108 +1643,6 @@
      "texto": "Ambos marcan en Hillerød–Vendsyssel FF",
      "cuota": 1.57,
      "prob": 0.48
-    }
-   ]
-  },
-  {
-   "partido_id": 1563290,
-   "fecha": "2026-11-28T13:30",
-   "local": "Lincoln",
-   "visitante": "Wolves",
-   "liga": "Championship",
-   "datos": [
-    "Los partidos del Lincoln llevan 3,5 goles de media (últimos 8).",
-    "Los partidos del Wolves llevan 2,5 goles de media (últimos 8).",
-    "El Wolves va 3º y el Lincoln 20º en la liga.",
-    "El Lincoln no ha ganado ninguno de sus últimos 5.",
-    "El Wolves ha ganado 4 de sus últimos 5 partidos."
-   ],
-   "picks": [
-    {
-     "sel": "1563290|Total - Home|Over 0.5",
-     "texto": "Lincoln marca",
-     "cuota": 1.57,
-     "prob": 0.65
-    },
-    {
-     "sel": "1563290|Match Winner|Away",
-     "texto": "Gana el Wolves",
-     "cuota": 1.57,
-     "prob": 0.53
-    },
-    {
-     "sel": "1563290|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Lincoln–Wolves",
-     "cuota": 1.8,
-     "prob": 0.45
-    },
-    {
-     "sel": "1563290|Away Team Total Cards|Over 1.5",
-     "texto": "Wolves ve más de 1,5 tarjetas",
-     "cuota": 1.8,
-     "prob": 0.43
-    },
-    {
-     "sel": "1563290|ShotOnTarget 1x2|Away",
-     "texto": "Wolves hace más tiros a puerta",
-     "cuota": 1.5,
-     "prob": 0.39
-    }
-   ]
-  },
-  {
-   "partido_id": 1551388,
-   "fecha": "2026-11-28T13:30",
-   "local": "HB Koge",
-   "visitante": "Aarhus Fremad",
-   "liga": "1. Division",
-   "datos": [
-    "El Aarhus Fremad no ha ganado fuera en sus últimos 6 partidos.",
-    "El Aarhus Fremad solo ha ganado 1 de sus últimos 5."
-   ],
-   "picks": [
-    {
-     "sel": "1551388|Double Chance|Home/Draw",
-     "texto": "HB Koge o empate",
-     "cuota": 1.4,
-     "prob": 0.52
-    }
-   ]
-  },
-  {
-   "partido_id": 1563288,
-   "fecha": "2026-11-28T13:30",
-   "local": "Blackburn",
-   "visitante": "Charlton",
-   "liga": "Championship",
-   "datos": [
-    "Los partidos del Blackburn llevan 2,9 goles de media (últimos 8).",
-    "Los partidos del Charlton llevan 3,0 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1563288|Home Team Total Cards|Over 1.5",
-     "texto": "Blackburn ve más de 1,5 tarjetas",
-     "cuota": 1.53,
-     "prob": 0.61
-    },
-    {
-     "sel": "1563288|Total - Away|Over 0.5",
-     "texto": "Charlton marca",
-     "cuota": 1.44,
-     "prob": 0.48
-    },
-    {
-     "sel": "1563288|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Blackburn–Charlton",
-     "cuota": 1.73,
-     "prob": 0.44
-    },
-    {
-     "sel": "1563288|Corners Over Under|Over 10.5",
-     "texto": "Más de 10,5 córners en Blackburn–Charlton",
-     "cuota": 1.8,
-     "prob": 0.44
     }
    ]
   },
@@ -1772,6 +1674,90 @@
    ]
   },
   {
+   "partido_id": 1563290,
+   "fecha": "2026-11-28T13:30",
+   "local": "Lincoln",
+   "visitante": "Wolves",
+   "liga": "Championship",
+   "datos": [
+    "Los partidos del Lincoln llevan 3,5 goles de media (últimos 8).",
+    "Los partidos del Wolves llevan 2,5 goles de media (últimos 8).",
+    "El Wolves va 3º y el Lincoln 20º en la liga.",
+    "El Lincoln no ha ganado ninguno de sus últimos 5.",
+    "El Wolves ha ganado 4 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1563290|Total - Home|Over 0.5",
+     "texto": "Lincoln marca",
+     "cuota": 1.57,
+     "prob": 0.65
+    },
+    {
+     "sel": "1563290|Match Winner|Away",
+     "texto": "Gana el Wolves",
+     "cuota": 1.55,
+     "prob": 0.53
+    },
+    {
+     "sel": "1563290|ShotOnTarget 1x2|Away",
+     "texto": "Wolves hace más tiros a puerta",
+     "cuota": 1.5,
+     "prob": 0.39
+    },
+    {
+     "sel": "1563290|Away Team Total Cards|Over 1.5",
+     "texto": "Wolves ve más de 1,5 tarjetas",
+     "cuota": 1.8,
+     "prob": 0.36
+    },
+    {
+     "sel": "1563290|Total - Away|Over 1.5",
+     "texto": "Wolves marca 2 o más",
+     "cuota": 1.67,
+     "prob": 0.36
+    }
+   ]
+  },
+  {
+   "partido_id": 1563288,
+   "fecha": "2026-11-28T13:30",
+   "local": "Blackburn",
+   "visitante": "Charlton",
+   "liga": "Championship",
+   "datos": [
+    "Los partidos del Blackburn llevan 2,9 goles de media (últimos 8).",
+    "Los partidos del Charlton llevan 3,0 goles de media (últimos 8).",
+    "Blackburn jugó hace 2 días: puede llegar cansado"
+   ],
+   "picks": [
+    {
+     "sel": "1563288|Home Team Total Cards|Over 1.5",
+     "texto": "Blackburn ve más de 1,5 tarjetas",
+     "cuota": 1.53,
+     "prob": 0.61
+    },
+    {
+     "sel": "1563288|Total - Away|Over 0.5",
+     "texto": "Charlton marca",
+     "cuota": 1.44,
+     "prob": 0.48
+    },
+    {
+     "sel": "1563288|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Blackburn–Charlton",
+     "cuota": 1.73,
+     "prob": 0.44
+    },
+    {
+     "sel": "1563288|Corners Over Under|Over 10.5",
+     "texto": "Más de 10,5 córners en Blackburn–Charlton",
+     "cuota": 1.8,
+     "prob": 0.44
+    }
+   ]
+  },
+  {
    "partido_id": 1563292,
    "fecha": "2026-11-28T13:30",
    "local": "Preston",
@@ -1780,6 +1766,7 @@
    "datos": [
     "Los partidos del Preston llevan 3,1 goles de media (últimos 8).",
     "Los partidos del Norwich llevan 3,1 goles de media (últimos 8).",
+    "Preston está en descenso (22º): se juega mucho",
     "El Norwich va 12º y el Preston 22º en la liga.",
     "El Norwich ha ganado 4 de sus últimos 5 partidos."
    ],
@@ -1788,7 +1775,7 @@
      "sel": "1563292|Total - Home|Over 0.5",
      "texto": "Preston marca",
      "cuota": 1.4,
-     "prob": 0.65
+     "prob": 0.66
     },
     {
      "sel": "1563292|Goals Over/Under - Second Half|Over 1.5",
@@ -1799,20 +1786,40 @@
     {
      "sel": "1563292|Match Winner|Away",
      "texto": "Gana el Norwich",
-     "cuota": 1.67,
+     "cuota": 1.73,
      "prob": 0.5
     },
     {
      "sel": "1563292|Both Teams Score|Yes",
      "texto": "Ambos marcan en Preston–Norwich",
-     "cuota": 1.62,
-     "prob": 0.45
+     "cuota": 1.57,
+     "prob": 0.46
     },
     {
-     "sel": "1563292|To Win Either Half|Away",
-     "texto": "Norwich gana alguna de las dos partes",
-     "cuota": 1.36,
-     "prob": 0.45
+     "sel": "1563292|ShotOnTarget 1x2|Away",
+     "texto": "Norwich hace más tiros a puerta",
+     "cuota": 1.4,
+     "prob": 0.38
+    }
+   ]
+  },
+  {
+   "partido_id": 1551388,
+   "fecha": "2026-11-28T13:30",
+   "local": "HB Koge",
+   "visitante": "Aarhus Fremad",
+   "liga": "1. Division",
+   "datos": [
+    "El Aarhus Fremad no ha ganado fuera en sus últimos 6 partidos.",
+    "El Aarhus Fremad solo ha ganado 1 de sus últimos 5.",
+    "HB Koge está en descenso (12º): se juega mucho"
+   ],
+   "picks": [
+    {
+     "sel": "1551388|Double Chance|Home/Draw",
+     "texto": "HB Koge o empate",
+     "cuota": 1.4,
+     "prob": 0.52
     }
    ]
   },
@@ -1833,7 +1840,7 @@
     {
      "sel": "1570463|Match Winner|Home",
      "texto": "Gana el Real Betis",
-     "cuota": 1.67,
+     "cuota": 1.55,
      "prob": 0.67
     },
     {
@@ -1846,7 +1853,7 @@
      "sel": "1570463|Total - Away|Over 0.5",
      "texto": "Rayo Vallecano marca",
      "cuota": 1.44,
-     "prob": 0.48
+     "prob": 0.47
     },
     {
      "sel": "1570463|Both Teams Score|Yes",
@@ -1863,46 +1870,24 @@
    "visitante": "FC Andorra",
    "liga": "Segunda",
    "datos": [
+    "El Las Palmas va 9º y el FC Andorra 21º en la liga.",
+    "El Las Palmas ha ganado 3 de sus últimos 5 partidos.",
+    "El FC Andorra solo ha ganado 1 de sus últimos 5.",
     "Los partidos del Las Palmas llevan 2,5 goles de media (últimos 8).",
     "Los partidos del FC Andorra llevan 2,8 goles de media (últimos 8)."
    ],
    "picks": [
     {
-     "sel": "1570042|Total - Away|Over 0.5",
-     "texto": "FC Andorra marca",
+     "sel": "1570042|Double Chance|Home/Draw",
+     "texto": "Las Palmas o empate",
      "cuota": 1.36,
-     "prob": 0.49
+     "prob": 0.53
     },
     {
      "sel": "1570042|Both Teams Score|Yes",
      "texto": "Ambos marcan en Las Palmas–FC Andorra",
-     "cuota": 1.67,
-     "prob": 0.47
-    }
-   ]
-  },
-  {
-   "partido_id": 1608383,
-   "fecha": "2026-11-28T14:30",
-   "local": "Athletic Carpi",
-   "visitante": "Lecco",
-   "liga": "Serie C",
-   "datos": [
-    "Los partidos del Athletic Carpi llevan 2,6 goles de media (últimos 8).",
-    "Los partidos del Lecco llevan 3,2 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1608383|Total - Home|Over 0.5",
-     "texto": "Athletic Carpi marca",
-     "cuota": 1.4,
-     "prob": 0.67
-    },
-    {
-     "sel": "1608383|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Athletic Carpi–Lecco",
-     "cuota": 1.73,
-     "prob": 0.47
+     "cuota": 1.62,
+     "prob": 0.46
     }
    ]
   },
@@ -1920,8 +1905,33 @@
     {
      "sel": "1608387|Total - Away|Over 0.5",
      "texto": "Alcione marca",
-     "cuota": 1.4,
-     "prob": 0.5
+     "cuota": 1.36,
+     "prob": 0.51
+    },
+    {
+     "sel": "1608387|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Novara–Alcione",
+     "cuota": 1.73,
+     "prob": 0.47
+    }
+   ]
+  },
+  {
+   "partido_id": 1608383,
+   "fecha": "2026-11-28T14:30",
+   "local": "Athletic Carpi",
+   "visitante": "Lecco",
+   "liga": "Serie C",
+   "datos": [
+    "Los partidos del Athletic Carpi llevan 2,6 goles de media (últimos 8).",
+    "Los partidos del Lecco llevan 3,2 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1608383|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Athletic Carpi–Lecco",
+     "cuota": 1.67,
+     "prob": 0.47
     }
    ]
   },
@@ -1941,7 +1951,7 @@
     {
      "sel": "1550210|Match Winner|Home",
      "texto": "Gana el Frosinone",
-     "cuota": 1.48,
+     "cuota": 1.44,
      "prob": 0.66
     },
     {
@@ -1978,7 +1988,8 @@
    "liga": "Segunda Liga",
    "datos": [
     "Los partidos del Chaves llevan 2,9 goles de media (últimos 8).",
-    "Los partidos del Tondela llevan 3,4 goles de media (últimos 8)."
+    "Los partidos del Tondela llevan 3,4 goles de media (últimos 8).",
+    "Chaves está en descenso (16º): se juega mucho"
    ],
    "picks": [
     {
@@ -1986,30 +1997,6 @@
      "texto": "Chaves marca",
      "cuota": 1.44,
      "prob": 0.68
-    }
-   ]
-  },
-  {
-   "partido_id": 1575238,
-   "fecha": "2026-11-28T15:30",
-   "local": "SC Paderborn 07",
-   "visitante": "FC Schalke 04",
-   "liga": "Bundesliga",
-   "datos": [
-    "El FC Schalke 04 no ha ganado ninguno de sus últimos 5."
-   ],
-   "picks": [
-    {
-     "sel": "1575238|Home Player Shots|Santiago Castaneda - 1",
-     "texto": "Santiago Castaneda: 1+ tiros",
-     "cuota": 1.4,
-     "prob": 0.52
-    },
-    {
-     "sel": "1575238|Double Chance|Home/Draw",
-     "texto": "SC Paderborn 07 o empate",
-     "cuota": 1.4,
-     "prob": 0.52
     }
    ]
   },
@@ -2032,9 +2019,15 @@
      "prob": 0.58
     },
     {
+     "sel": "1575235|Home Team Total Cards|Over 1.5",
+     "texto": "Hamburger SV ve más de 1,5 tarjetas",
+     "cuota": 1.62,
+     "prob": 0.51
+    },
+    {
      "sel": "1575235|Both Teams Score|Yes",
      "texto": "Ambos marcan en Hamburger SV–Bayern München",
-     "cuota": 1.67,
+     "cuota": 1.62,
      "prob": 0.48
     },
     {
@@ -2042,37 +2035,12 @@
      "texto": "Bayern München marca en las dos partes",
      "cuota": 1.62,
      "prob": 0.45
-    }
-   ]
-  },
-  {
-   "partido_id": 1575236,
-   "fecha": "2026-11-28T15:30",
-   "local": "1. FC Köln",
-   "visitante": "SV Elversberg",
-   "liga": "Bundesliga",
-   "datos": [
-    "Los partidos del 1. FC Köln llevan 2,4 goles de media (últimos 8).",
-    "Los partidos del SV Elversberg llevan 2,9 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1575236|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte del 1. FC Köln–SV Elversberg",
-     "cuota": 1.8,
-     "prob": 0.53
     },
     {
-     "sel": "1575236|Both Teams Score|Yes",
-     "texto": "Ambos marcan en 1. FC Köln–SV Elversberg",
-     "cuota": 1.53,
-     "prob": 0.47
-    },
-    {
-     "sel": "1575236|Total Corners (1st Half)|Over 4.5",
-     "texto": "Más de 4,5 córners en la 1ª parte en 1. FC Köln–SV Elversberg",
-     "cuota": 1.75,
-     "prob": 0.42
+     "sel": "1575235|Home Corners Over/Under|Over 2.5",
+     "texto": "Hamburger SV hace más de 2,5 córners",
+     "cuota": 1.62,
+     "prob": 0.43
     }
    ]
   },
@@ -2121,12 +2089,113 @@
    ]
   },
   {
+   "partido_id": 1575238,
+   "fecha": "2026-11-28T15:30",
+   "local": "SC Paderborn 07",
+   "visitante": "FC Schalke 04",
+   "liga": "Bundesliga",
+   "datos": [
+    "El FC Schalke 04 no ha ganado ninguno de sus últimos 5."
+   ],
+   "picks": [
+    {
+     "sel": "1575238|Double Chance|Home/Draw",
+     "texto": "SC Paderborn 07 o empate",
+     "cuota": 1.4,
+     "prob": 0.52
+    },
+    {
+     "sel": "1575238|Home Player Shots|Santiago Castaneda - 1",
+     "texto": "Santiago Castaneda: 1+ tiros",
+     "cuota": 1.36,
+     "prob": 0.52
+    },
+    {
+     "sel": "1575238|Corners 1x2|Home",
+     "texto": "SC Paderborn 07 hace más córners",
+     "cuota": 1.8,
+     "prob": 0.48
+    }
+   ]
+  },
+  {
+   "partido_id": 1575236,
+   "fecha": "2026-11-28T15:30",
+   "local": "1. FC Köln",
+   "visitante": "SV Elversberg",
+   "liga": "Bundesliga",
+   "datos": [
+    "Los partidos del 1. FC Köln llevan 2,4 goles de media (últimos 8).",
+    "Los partidos del SV Elversberg llevan 2,9 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1575236|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del 1. FC Köln–SV Elversberg",
+     "cuota": 1.8,
+     "prob": 0.53
+    },
+    {
+     "sel": "1575236|Both Teams Score|Yes",
+     "texto": "Ambos marcan en 1. FC Köln–SV Elversberg",
+     "cuota": 1.53,
+     "prob": 0.47
+    },
+    {
+     "sel": "1575236|Total Corners (1st Half)|Over 4.5",
+     "texto": "Más de 4,5 córners en la 1ª parte en 1. FC Köln–SV Elversberg",
+     "cuota": 1.75,
+     "prob": 0.42
+    }
+   ]
+  },
+  {
+   "partido_id": 1557483,
+   "fecha": "2026-11-28T16:00",
+   "local": "Leeds",
+   "visitante": "Coventry",
+   "liga": "Premier",
+   "datos": [
+    "El Leeds no ha perdido en casa en sus últimos 5 partidos (2V 3E).",
+    "El Leeds va 6º y el Coventry 14º en la liga.",
+    "Los partidos del Leeds llevan 2,2 goles de media (últimos 8).",
+    "Los partidos del Coventry llevan 3,5 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1557483|Match Winner|Home",
+     "texto": "Gana el Leeds",
+     "cuota": 1.48,
+     "prob": 0.65
+    },
+    {
+     "sel": "1557483|Total - Away|Over 0.5",
+     "texto": "Coventry marca",
+     "cuota": 1.62,
+     "prob": 0.47
+    },
+    {
+     "sel": "1557483|Corners 1x2|Home",
+     "texto": "Leeds hace más córners",
+     "cuota": 1.4,
+     "prob": 0.46
+    },
+    {
+     "sel": "1557483|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Leeds–Coventry",
+     "cuota": 1.8,
+     "prob": 0.45
+    }
+   ]
+  },
+  {
    "partido_id": 1557484,
    "fecha": "2026-11-28T16:00",
    "local": "Manchester United",
    "visitante": "Brentford",
    "liga": "Premier",
    "datos": [
+    "El árbitro (Robert Jones) saca 3,5 tarjetas por partido",
     "Los partidos del Manchester United llevan 4,1 goles de media (últimos 8).",
     "Los partidos del Brentford llevan 3,1 goles de media (últimos 8)."
    ],
@@ -2154,174 +2223,6 @@
      "texto": "Ambos marcan en Manchester United–Brentford",
      "cuota": 1.5,
      "prob": 0.47
-    }
-   ]
-  },
-  {
-   "partido_id": 1557483,
-   "fecha": "2026-11-28T16:00",
-   "local": "Leeds",
-   "visitante": "Coventry",
-   "liga": "Premier",
-   "datos": [
-    "El Leeds no ha perdido en casa en sus últimos 5 partidos (2V 3E).",
-    "El Leeds va 6º y el Coventry 14º en la liga.",
-    "Los partidos del Leeds llevan 2,2 goles de media (últimos 8).",
-    "Los partidos del Coventry llevan 3,5 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1557483|Match Winner|Home",
-     "texto": "Gana el Leeds",
-     "cuota": 1.45,
-     "prob": 0.64
-    },
-    {
-     "sel": "1557483|Total - Away|Over 0.5",
-     "texto": "Coventry marca",
-     "cuota": 1.57,
-     "prob": 0.48
-    },
-    {
-     "sel": "1557483|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Leeds–Coventry",
-     "cuota": 1.75,
-     "prob": 0.46
-    },
-    {
-     "sel": "1557483|Corners 1x2|Home",
-     "texto": "Leeds hace más córners",
-     "cuota": 1.4,
-     "prob": 0.46
-    }
-   ]
-  },
-  {
-   "partido_id": 1565311,
-   "fecha": "2026-11-28T16:00",
-   "local": "Corvinul Hunedoara",
-   "visitante": "Farul Constanta",
-   "liga": "Liga I",
-   "datos": [
-    "Los partidos del Corvinul Hunedoara llevan 2,9 goles de media (últimos 8).",
-    "Los partidos del Farul Constanta llevan 4,1 goles de media (últimos 8).",
-    "El Corvinul Hunedoara ha ganado 3 de sus últimos 5 partidos."
-   ],
-   "picks": [
-    {
-     "sel": "1565311|Total - Away|Over 0.5",
-     "texto": "Farul Constanta marca",
-     "cuota": 1.4,
-     "prob": 0.5
-    },
-    {
-     "sel": "1565311|Corners 1x2|Home",
-     "texto": "Corvinul Hunedoara hace más córners",
-     "cuota": 1.57,
-     "prob": 0.48
-    }
-   ]
-  },
-  {
-   "partido_id": 1563289,
-   "fecha": "2026-11-28T16:00",
-   "local": "Derby",
-   "visitante": "Watford",
-   "liga": "Championship",
-   "datos": [
-    "El Watford no ha ganado fuera en sus últimos 6 partidos.",
-    "El Watford solo ha ganado 1 de sus últimos 5."
-   ],
-   "picks": [
-    {
-     "sel": "1563289|Double Chance|Home/Draw",
-     "texto": "Derby o empate",
-     "cuota": 1.36,
-     "prob": 0.51
-    },
-    {
-     "sel": "1563289|Corners Over Under|Over 9.5",
-     "texto": "Más de 9,5 córners en Derby–Watford",
-     "cuota": 1.73,
-     "prob": 0.42
-    }
-   ]
-  },
-  {
-   "partido_id": 1563287,
-   "fecha": "2026-11-28T16:00",
-   "local": "Birmingham",
-   "visitante": "Bolton",
-   "liga": "Championship",
-   "datos": [
-    "El Birmingham no ha perdido en casa en sus últimos 6 partidos (4V 2E).",
-    "El Birmingham va 5º y el Bolton 17º en la liga.",
-    "El Birmingham ha ganado 4 de sus últimos 5 partidos.",
-    "Los partidos del Birmingham llevan 2,6 goles de media (últimos 8).",
-    "Los partidos del Bolton llevan 3,2 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1563287|Match Winner|Home",
-     "texto": "Gana el Birmingham",
-     "cuota": 1.55,
-     "prob": 0.69
-    },
-    {
-     "sel": "1563287|Home Team Total Cards|Over 1.5",
-     "texto": "Birmingham ve más de 1,5 tarjetas",
-     "cuota": 1.8,
-     "prob": 0.61
-    },
-    {
-     "sel": "1563287|Total - Home|Over 1.5",
-     "texto": "Birmingham marca 2 o más",
-     "cuota": 1.53,
-     "prob": 0.59
-    },
-    {
-     "sel": "1563287|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte del Birmingham–Bolton",
-     "cuota": 1.8,
-     "prob": 0.54
-    },
-    {
-     "sel": "1563287|Total - Away|Over 0.5",
-     "texto": "Bolton marca",
-     "cuota": 1.5,
-     "prob": 0.47
-    }
-   ]
-  },
-  {
-   "partido_id": 1563298,
-   "fecha": "2026-11-28T16:00",
-   "local": "Wrexham",
-   "visitante": "Portsmouth",
-   "liga": "Championship",
-   "datos": [
-    "El Portsmouth va 9º y el Wrexham 14º en la liga.",
-    "Los partidos del Wrexham llevan 2,2 goles de media (últimos 8).",
-    "Los partidos del Portsmouth llevan 2,0 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1563298|Home Team Total Cards|Over 1.5",
-     "texto": "Wrexham ve más de 1,5 tarjetas",
-     "cuota": 1.8,
-     "prob": 0.62
-    },
-    {
-     "sel": "1563298|Total - Away|Over 0.5",
-     "texto": "Portsmouth marca",
-     "cuota": 1.5,
-     "prob": 0.48
-    },
-    {
-     "sel": "1563298|Away Corners Over/Under|Over 3.5",
-     "texto": "Portsmouth hace más de 3,5 córners",
-     "cuota": 1.62,
-     "prob": 0.29
     }
    ]
   },
@@ -2357,45 +2258,28 @@
    ]
   },
   {
-   "partido_id": 1563291,
+   "partido_id": 1565311,
    "fecha": "2026-11-28T16:00",
-   "local": "Millwall",
-   "visitante": "Burnley",
-   "liga": "Championship",
+   "local": "Corvinul Hunedoara",
+   "visitante": "Farul Constanta",
+   "liga": "Liga I",
    "datos": [
-    "El Millwall va 18º y el Burnley 23º en la liga.",
-    "El Burnley no ha ganado ninguno de sus últimos 5."
+    "Los partidos del Corvinul Hunedoara llevan 2,9 goles de media (últimos 8).",
+    "Los partidos del Farul Constanta llevan 4,1 goles de media (últimos 8).",
+    "El Corvinul Hunedoara ha ganado 3 de sus últimos 5 partidos."
    ],
    "picks": [
     {
-     "sel": "1563291|Home Team Total Cards|Over 1.5",
-     "texto": "Millwall ve más de 1,5 tarjetas",
-     "cuota": 1.57,
-     "prob": 0.61
-    },
-    {
-     "sel": "1563291|ShotOnTarget 1x2|Home",
-     "texto": "Millwall hace más tiros a puerta",
-     "cuota": 1.73,
-     "prob": 0.55
-    },
-    {
-     "sel": "1563291|Shots.1x2|Home",
-     "texto": "Millwall hace más tiros",
-     "cuota": 1.44,
-     "prob": 0.53
-    },
-    {
-     "sel": "1563291|Away Player Shots|Largie Ramazani - 2",
-     "texto": "Largie Ramazani: 2+ tiros",
-     "cuota": 1.53,
-     "prob": 0.51
-    },
-    {
-     "sel": "1563291|Double Chance|Home/Draw",
-     "texto": "Millwall o empate",
-     "cuota": 1.36,
+     "sel": "1565311|Total - Away|Over 0.5",
+     "texto": "Farul Constanta marca",
+     "cuota": 1.4,
      "prob": 0.5
+    },
+    {
+     "sel": "1565311|Corners 1x2|Home",
+     "texto": "Corvinul Hunedoara hace más córners",
+     "cuota": 1.57,
+     "prob": 0.48
     }
    ]
   },
@@ -2446,6 +2330,115 @@
    ]
   },
   {
+   "partido_id": 1563289,
+   "fecha": "2026-11-28T16:00",
+   "local": "Derby",
+   "visitante": "Watford",
+   "liga": "Championship",
+   "datos": [
+    "El Watford no ha ganado fuera en sus últimos 6 partidos.",
+    "Watford jugó hace 2 días: puede llegar cansado",
+    "El Watford solo ha ganado 1 de sus últimos 5."
+   ],
+   "picks": [
+    {
+     "sel": "1563289|Double Chance|Home/Draw",
+     "texto": "Derby o empate",
+     "cuota": 1.36,
+     "prob": 0.51
+    },
+    {
+     "sel": "1563289|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners en Derby–Watford",
+     "cuota": 1.73,
+     "prob": 0.42
+    }
+   ]
+  },
+  {
+   "partido_id": 1563291,
+   "fecha": "2026-11-28T16:00",
+   "local": "Millwall",
+   "visitante": "Burnley",
+   "liga": "Championship",
+   "datos": [
+    "El Millwall va 18º y el Burnley 23º en la liga.",
+    "El Burnley no ha ganado ninguno de sus últimos 5."
+   ],
+   "picks": [
+    {
+     "sel": "1563291|Home Team Total Cards|Over 1.5",
+     "texto": "Millwall ve más de 1,5 tarjetas",
+     "cuota": 1.57,
+     "prob": 0.61
+    },
+    {
+     "sel": "1563291|ShotOnTarget 1x2|Home",
+     "texto": "Millwall hace más tiros a puerta",
+     "cuota": 1.73,
+     "prob": 0.55
+    },
+    {
+     "sel": "1563291|Shots.1x2|Home",
+     "texto": "Millwall hace más tiros",
+     "cuota": 1.44,
+     "prob": 0.53
+    },
+    {
+     "sel": "1563291|Away Player Shots|Largie Ramazani - 2",
+     "texto": "Largie Ramazani: 2+ tiros",
+     "cuota": 1.53,
+     "prob": 0.51
+    },
+    {
+     "sel": "1563291|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Millwall–Burnley",
+     "cuota": 1.53,
+     "prob": 0.46
+    }
+   ]
+  },
+  {
+   "partido_id": 1563287,
+   "fecha": "2026-11-28T16:00",
+   "local": "Birmingham",
+   "visitante": "Bolton",
+   "liga": "Championship",
+   "datos": [
+    "El Birmingham no ha perdido en casa en sus últimos 6 partidos (4V 2E).",
+    "El Birmingham va 5º y el Bolton 17º en la liga.",
+    "El Birmingham ha ganado 4 de sus últimos 5 partidos.",
+    "Los partidos del Birmingham llevan 2,6 goles de media (últimos 8).",
+    "Los partidos del Bolton llevan 3,2 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1563287|Match Winner|Home",
+     "texto": "Gana el Birmingham",
+     "cuota": 1.55,
+     "prob": 0.69
+    },
+    {
+     "sel": "1563287|Total - Home|Over 1.5",
+     "texto": "Birmingham marca 2 o más",
+     "cuota": 1.5,
+     "prob": 0.59
+    },
+    {
+     "sel": "1563287|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Birmingham–Bolton",
+     "cuota": 1.8,
+     "prob": 0.54
+    },
+    {
+     "sel": "1563287|Total - Away|Over 0.5",
+     "texto": "Bolton marca",
+     "cuota": 1.5,
+     "prob": 0.47
+    }
+   ]
+  },
+  {
    "partido_id": 1563297,
    "fecha": "2026-11-28T16:00",
    "local": "West Ham",
@@ -2473,19 +2466,35 @@
      "sel": "1563297|Total - Away|Over 0.5",
      "texto": "Stoke City marca",
      "cuota": 1.5,
-     "prob": 0.5
+     "prob": 0.49
     },
     {
      "sel": "1563297|Both Teams Score|Yes",
      "texto": "Ambos marcan en West Ham–Stoke City",
-     "cuota": 1.67,
-     "prob": 0.47
+     "cuota": 1.73,
+     "prob": 0.46
     },
     {
      "sel": "1563297|Corners Over Under|Over 10.5",
      "texto": "Más de 10,5 córners en West Ham–Stoke City",
      "cuota": 1.67,
      "prob": 0.43
+    }
+   ]
+  },
+  {
+   "partido_id": 1563298,
+   "fecha": "2026-11-28T16:00",
+   "local": "Wrexham",
+   "visitante": "Portsmouth",
+   "liga": "Championship",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1563298|Away Corners Over/Under|Over 3.5",
+     "texto": "Portsmouth hace más de 3,5 córners",
+     "cuota": 1.62,
+     "prob": 0.29
     }
    ]
   },
@@ -2498,22 +2507,22 @@
    "datos": [
     "Los partidos del Malaga llevan 2,8 goles de media (últimos 8).",
     "Los partidos del Athletic Club llevan 2,6 goles de media (últimos 8).",
+    "Malaga está en descenso (20º): se juega mucho",
     "El Malaga no ha ganado en casa en sus últimos 6 partidos.",
-    "El Athletic Club va 9º y el Malaga 20º en la liga.",
-    "El Malaga solo ha ganado 1 de sus últimos 5."
+    "El Athletic Club va 9º y el Malaga 20º en la liga."
    ],
    "picks": [
     {
      "sel": "1570469|Total - Home|Over 0.5",
      "texto": "Malaga marca",
-     "cuota": 1.57,
-     "prob": 0.63
+     "cuota": 1.5,
+     "prob": 0.64
     },
     {
      "sel": "1570469|Match Winner|Away",
      "texto": "Gana el Athletic Club",
-     "cuota": 1.62,
-     "prob": 0.5
+     "cuota": 1.73,
+     "prob": 0.51
     },
     {
      "sel": "1570469|Home Corners Over/Under|Over 3.5",
@@ -2522,43 +2531,16 @@
      "prob": 0.49
     },
     {
-     "sel": "1570469|To Win Either Half|Away",
-     "texto": "Athletic Club gana alguna de las dos partes",
-     "cuota": 1.36,
+     "sel": "1570469|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Malaga–Athletic Club",
+     "cuota": 1.75,
      "prob": 0.45
     },
     {
-     "sel": "1570469|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Malaga–Athletic Club",
-     "cuota": 1.8,
-     "prob": 0.44
-    }
-   ]
-  },
-  {
-   "partido_id": 1570036,
-   "fecha": "2026-11-28T16:15",
-   "local": "Albacete",
-   "visitante": "Tenerife",
-   "liga": "Segunda",
-   "datos": [
-    "El Albacete ha ganado 4 de sus últimos 5 partidos.",
-    "El Tenerife va 13º y el Albacete 20º en la liga.",
-    "Los partidos del Albacete llevan 2,8 goles de media (últimos 8).",
-    "Los partidos del Tenerife llevan 3,0 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1570036|Double Chance|Home/Draw",
-     "texto": "Albacete o empate",
-     "cuota": 1.36,
-     "prob": 0.5
-    },
-    {
-     "sel": "1570036|Total - Away|Over 0.5",
-     "texto": "Tenerife marca",
-     "cuota": 1.44,
-     "prob": 0.49
+     "sel": "1570469|Shots.1x2|Away",
+     "texto": "Athletic Club hace más tiros",
+     "cuota": 1.4,
+     "prob": 0.42
     }
    ]
   },
@@ -2584,33 +2566,55 @@
     {
      "sel": "1570040|Double Chance|Draw/Away",
      "texto": "Girona o empate",
-     "cuota": 1.4,
+     "cuota": 1.36,
      "prob": 0.39
     }
    ]
   },
   {
-   "partido_id": 1552236,
-   "fecha": "2026-11-28T16:30",
-   "local": "Excelsior",
-   "visitante": "Telstar",
-   "liga": "Eredivisie",
+   "partido_id": 1570036,
+   "fecha": "2026-11-28T16:15",
+   "local": "Albacete",
+   "visitante": "Tenerife",
+   "liga": "Segunda",
    "datos": [
-    "Los partidos del Excelsior llevan 4,1 goles de media (últimos 8).",
-    "Los partidos del Telstar llevan 4,1 goles de media (últimos 8)."
+    "El Tenerife va 13º y el Albacete 20º en la liga.",
+    "Los partidos del Albacete llevan 2,8 goles de media (últimos 8).",
+    "Los partidos del Tenerife llevan 3,0 goles de media (últimos 8)."
    ],
    "picks": [
     {
-     "sel": "1552236|Total - Home|Over 1.5",
-     "texto": "Excelsior marca 2 o más",
-     "cuota": 1.8,
-     "prob": 0.58
+     "sel": "1570036|Total - Away|Over 0.5",
+     "texto": "Tenerife marca",
+     "cuota": 1.44,
+     "prob": 0.48
+    }
+   ]
+  },
+  {
+   "partido_id": 1576546,
+   "fecha": "2026-11-28T16:30",
+   "local": "Farense",
+   "visitante": "União de Leiria",
+   "liga": "Segunda Liga",
+   "datos": [
+    "Los partidos del Farense llevan 3,1 goles de media (últimos 8).",
+    "Los partidos del União de Leiria llevan 3,1 goles de media (últimos 8).",
+    "El Farense solo ha ganado 1 de sus últimos 5.",
+    "El União de Leiria ha ganado 3 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1576546|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Farense–União de Leiria",
+     "cuota": 1.62,
+     "prob": 0.47
     },
     {
-     "sel": "1552236|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Excelsior–Telstar",
-     "cuota": 1.57,
-     "prob": 0.49
+     "sel": "1576546|Double Chance|Draw/Away",
+     "texto": "União de Leiria o empate",
+     "cuota": 1.67,
+     "prob": 0.4
     }
    ]
   },
@@ -2641,7 +2645,7 @@
     {
      "sel": "1575552|Double Chance|Home/Draw",
      "texto": "Moreirense o empate",
-     "cuota": 1.57,
+     "cuota": 1.53,
      "prob": 0.49
     },
     {
@@ -2653,29 +2657,27 @@
    ]
   },
   {
-   "partido_id": 1576546,
+   "partido_id": 1552236,
    "fecha": "2026-11-28T16:30",
-   "local": "Farense",
-   "visitante": "União de Leiria",
-   "liga": "Segunda Liga",
+   "local": "Excelsior",
+   "visitante": "Telstar",
+   "liga": "Eredivisie",
    "datos": [
-    "Los partidos del Farense llevan 3,1 goles de media (últimos 8).",
-    "Los partidos del União de Leiria llevan 3,1 goles de media (últimos 8).",
-    "El Farense solo ha ganado 1 de sus últimos 5.",
-    "El União de Leiria ha ganado 3 de sus últimos 5 partidos."
+    "Los partidos del Excelsior llevan 4,1 goles de media (últimos 8).",
+    "Los partidos del Telstar llevan 4,1 goles de media (últimos 8)."
    ],
    "picks": [
     {
-     "sel": "1576546|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Farense–União de Leiria",
-     "cuota": 1.62,
-     "prob": 0.47
+     "sel": "1552236|Total - Home|Over 1.5",
+     "texto": "Excelsior marca 2 o más",
+     "cuota": 1.8,
+     "prob": 0.58
     },
     {
-     "sel": "1576546|Double Chance|Draw/Away",
-     "texto": "União de Leiria o empate",
-     "cuota": 1.67,
-     "prob": 0.4
+     "sel": "1552236|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Excelsior–Telstar",
+     "cuota": 1.57,
+     "prob": 0.49
     }
    ]
   },
@@ -2712,6 +2714,12 @@
      "prob": 0.45
     },
     {
+     "sel": "1575546|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners en Arouca–Rio Ave",
+     "cuota": 1.8,
+     "prob": 0.43
+    },
+    {
      "sel": "1575546|Away Corners Over/Under|Over 3.5",
      "texto": "Rio Ave hace más de 3,5 córners",
      "cuota": 1.67,
@@ -2728,6 +2736,7 @@
    "datos": [
     "Los partidos del Angers llevan 2,9 goles de media (últimos 8).",
     "Los partidos del Lens llevan 3,8 goles de media (últimos 8).",
+    "Angers está en descenso (17º): se juega mucho",
     "El Lens va 11º y el Angers 17º en la liga.",
     "El Angers no ha ganado ninguno de sus últimos 5."
    ],
@@ -2759,25 +2768,6 @@
    ]
   },
   {
-   "partido_id": 1608388,
-   "fecha": "2026-11-28T17:30",
-   "local": "Ospitaletto",
-   "visitante": "Union Brescia",
-   "liga": "Serie C",
-   "datos": [
-    "Los partidos del Ospitaletto llevan 2,1 goles de media (últimos 8).",
-    "Los partidos del Union Brescia llevan 3,4 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1608388|Total - Home|Over 0.5",
-     "texto": "Ospitaletto marca",
-     "cuota": 1.44,
-     "prob": 0.66
-    }
-   ]
-  },
-  {
    "partido_id": 1608386,
    "fecha": "2026-11-28T17:30",
    "local": "Lumezzane",
@@ -2791,14 +2781,14 @@
     {
      "sel": "1608386|Total - Away|Over 0.5",
      "texto": "Desenzano Calvina marca",
-     "cuota": 1.4,
+     "cuota": 1.36,
      "prob": 0.49
     },
     {
      "sel": "1608386|Both Teams Score|Yes",
      "texto": "Ambos marcan en Lumezzane–Desenzano Calvina",
-     "cuota": 1.8,
-     "prob": 0.46
+     "cuota": 1.67,
+     "prob": 0.47
     }
    ]
   },
@@ -2816,8 +2806,33 @@
     {
      "sel": "1608389|Total - Away|Over 0.5",
      "texto": "Giana Erminio marca",
-     "cuota": 1.44,
+     "cuota": 1.4,
      "prob": 0.49
+    },
+    {
+     "sel": "1608389|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Pergolettese–Giana Erminio",
+     "cuota": 1.73,
+     "prob": 0.46
+    }
+   ]
+  },
+  {
+   "partido_id": 1608388,
+   "fecha": "2026-11-28T17:30",
+   "local": "Ospitaletto",
+   "visitante": "Union Brescia",
+   "liga": "Serie C",
+   "datos": [
+    "Los partidos del Ospitaletto llevan 2,1 goles de media (últimos 8).",
+    "Los partidos del Union Brescia llevan 3,4 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1608388|Total - Home|Over 0.5",
+     "texto": "Ospitaletto marca",
+     "cuota": 1.53,
+     "prob": 0.67
     }
    ]
   },
@@ -2844,14 +2859,14 @@
     {
      "sel": "1550214|Shots.1x2|Away",
      "texto": "Lazio hace más tiros",
-     "cuota": 1.67,
-     "prob": 0.42
+     "cuota": 1.53,
+     "prob": 0.41
     },
     {
      "sel": "1550214|ShotOnTarget 1x2|Away",
      "texto": "Lazio hace más tiros a puerta",
-     "cuota": 1.73,
-     "prob": 0.38
+     "cuota": 1.62,
+     "prob": 0.37
     },
     {
      "sel": "1550214|Corners 1x2|Away",
@@ -3006,33 +3021,27 @@
     {
      "sel": "1552240|Total - Away|Over 0.5",
      "texto": "GO Ahead Eagles marca",
-     "cuota": 1.4,
+     "cuota": 1.44,
      "prob": 0.5
     }
    ]
   },
   {
-   "partido_id": 1565313,
+   "partido_id": 1576544,
    "fecha": "2026-11-28T19:00",
-   "local": "FCSB",
-   "visitante": "Csikszereda",
-   "liga": "Liga I",
+   "local": "Lusitânia Lourosa",
+   "visitante": "Vizela",
+   "liga": "Segunda Liga",
    "datos": [
-    "Los partidos del FCSB llevan 2,5 goles de media (últimos 8).",
-    "Los partidos del Csikszereda llevan 2,2 goles de media (últimos 8)."
+    "Los partidos del Lusitânia Lourosa llevan 2,5 goles de media (últimos 8).",
+    "Los partidos del Vizela llevan 2,8 goles de media (últimos 8)."
    ],
    "picks": [
     {
-     "sel": "1565313|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte del FCSB–Csikszereda",
-     "cuota": 1.73,
-     "prob": 0.54
-    },
-    {
-     "sel": "1565313|Total - Away|Over 0.5",
-     "texto": "Csikszereda marca",
-     "cuota": 1.8,
-     "prob": 0.44
+     "sel": "1576544|Total - Away|Over 0.5",
+     "texto": "Vizela marca",
+     "cuota": 1.44,
+     "prob": 0.5
     }
    ]
   },
@@ -3060,7 +3069,7 @@
      "sel": "1575545|Both Teams Score|Yes",
      "texto": "Ambos marcan en Academico Viseu–Alverca",
      "cuota": 1.75,
-     "prob": 0.45
+     "prob": 0.46
     },
     {
      "sel": "1575545|Corners Over Under|Over 8.5",
@@ -3071,21 +3080,94 @@
    ]
   },
   {
-   "partido_id": 1576544,
+   "partido_id": 1565313,
    "fecha": "2026-11-28T19:00",
-   "local": "Lusitânia Lourosa",
-   "visitante": "Vizela",
-   "liga": "Segunda Liga",
+   "local": "FCSB",
+   "visitante": "Csikszereda",
+   "liga": "Liga I",
    "datos": [
-    "Los partidos del Lusitânia Lourosa llevan 2,5 goles de media (últimos 8).",
-    "Los partidos del Vizela llevan 2,8 goles de media (últimos 8)."
+    "Los partidos del FCSB llevan 2,5 goles de media (últimos 8).",
+    "Los partidos del Csikszereda llevan 2,2 goles de media (últimos 8).",
+    "Csikszereda está en descenso (16º): se juega mucho"
    ],
    "picks": [
     {
-     "sel": "1576544|Total - Away|Over 0.5",
-     "texto": "Vizela marca",
+     "sel": "1565313|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del FCSB–Csikszereda",
+     "cuota": 1.73,
+     "prob": 0.54
+    },
+    {
+     "sel": "1565313|Total - Away|Over 0.5",
+     "texto": "Csikszereda marca",
+     "cuota": 1.8,
+     "prob": 0.44
+    }
+   ]
+  },
+  {
+   "partido_id": 1550211,
+   "fecha": "2026-11-28T20:45",
+   "local": "Inter",
+   "visitante": "Genoa",
+   "liga": "Serie A",
+   "datos": [
+    "Los partidos del Inter llevan 3,1 goles de media (últimos 8).",
+    "Los partidos del Genoa llevan 2,4 goles de media (últimos 8).",
+    "Inter jugó hace 2 días (Champions): puede llegar cansado"
+   ],
+   "picks": [
+    {
+     "sel": "1550211|Total - Away|Over 0.5",
+     "texto": "Genoa marca",
+     "cuota": 1.73,
+     "prob": 0.46
+    }
+   ]
+  },
+  {
+   "partido_id": 1552832,
+   "fecha": "2026-11-28T20:45",
+   "local": "Le Mans",
+   "visitante": "Lille",
+   "liga": "Ligue 1",
+   "datos": [
+    "Los partidos del Le Mans llevan 3,1 goles de media (últimos 8).",
+    "Los partidos del Lille llevan 2,2 goles de media (últimos 8).",
+    "Lille jugó hace 2 días (Champions): puede llegar cansado",
+    "El Lille va 3º y el Le Mans 15º en la liga.",
+    "El Le Mans solo ha ganado 1 de sus últimos 5."
+   ],
+   "picks": [
+    {
+     "sel": "1552832|Total - Home|Over 0.5",
+     "texto": "Le Mans marca",
      "cuota": 1.44,
-     "prob": 0.5
+     "prob": 0.67
+    },
+    {
+     "sel": "1552832|Home Corners Over/Under|Over 3.5",
+     "texto": "Le Mans hace más de 3,5 córners",
+     "cuota": 1.67,
+     "prob": 0.48
+    },
+    {
+     "sel": "1552832|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Le Mans–Lille",
+     "cuota": 1.8,
+     "prob": 0.45
+    },
+    {
+     "sel": "1552832|Shots.1x2|Away",
+     "texto": "Lille hace más tiros",
+     "cuota": 1.57,
+     "prob": 0.41
+    },
+    {
+     "sel": "1552832|Away Team Total Cards|Over 1.5",
+     "texto": "Lille ve más de 1,5 tarjetas",
+     "cuota": 1.53,
+     "prob": 0.4
     }
    ]
   },
@@ -3163,71 +3245,6 @@
      "texto": "Ambos marcan en Le Havre–Strasbourg",
      "cuota": 1.57,
      "prob": 0.48
-    }
-   ]
-  },
-  {
-   "partido_id": 1552832,
-   "fecha": "2026-11-28T20:45",
-   "local": "Le Mans",
-   "visitante": "Lille",
-   "liga": "Ligue 1",
-   "datos": [
-    "Los partidos del Le Mans llevan 3,1 goles de media (últimos 8).",
-    "Los partidos del Lille llevan 2,2 goles de media (últimos 8).",
-    "El Lille va 3º y el Le Mans 15º en la liga.",
-    "El Le Mans solo ha ganado 1 de sus últimos 5.",
-    "El Lille ha ganado 3 de sus últimos 5 partidos."
-   ],
-   "picks": [
-    {
-     "sel": "1552832|Total - Home|Over 0.5",
-     "texto": "Le Mans marca",
-     "cuota": 1.44,
-     "prob": 0.67
-    },
-    {
-     "sel": "1552832|Home Corners Over/Under|Over 3.5",
-     "texto": "Le Mans hace más de 3,5 córners",
-     "cuota": 1.67,
-     "prob": 0.48
-    },
-    {
-     "sel": "1552832|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Le Mans–Lille",
-     "cuota": 1.8,
-     "prob": 0.45
-    },
-    {
-     "sel": "1552832|Shots.1x2|Away",
-     "texto": "Lille hace más tiros",
-     "cuota": 1.57,
-     "prob": 0.41
-    },
-    {
-     "sel": "1552832|Away Team Total Cards|Over 1.5",
-     "texto": "Lille ve más de 1,5 tarjetas",
-     "cuota": 1.53,
-     "prob": 0.4
-    }
-   ]
-  },
-  {
-   "partido_id": 1550211,
-   "fecha": "2026-11-28T20:45",
-   "local": "Inter",
-   "visitante": "Genoa",
-   "liga": "Serie A",
-   "datos": [
-    "Los partidos del Inter llevan 3,1 goles de media (últimos 8).",
-    "Los partidos del Genoa llevan 2,4 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1550211|Total - Away|Over 0.5",
-     "texto": "Genoa marca",
-     "cuota": 1.73,
-     "prob": 0.46
     }
    ]
   },
@@ -3312,8 +3329,8 @@
     "El Cambuur va 8º y el Sparta Rotterdam 14º en la liga.",
     "Los partidos del Cambuur llevan 4,0 goles de media (últimos 8).",
     "Los partidos del Sparta Rotterdam llevan 4,6 goles de media (últimos 8).",
-    "El Cambuur ha ganado 4 de sus últimos 5 partidos.",
-    "El Sparta Rotterdam solo ha ganado 1 de sus últimos 5."
+    "La cuota de que gane Cambuur ha bajado de 2,45 a 2,15: el mercado lo ve más claro",
+    "El Cambuur ha ganado 4 de sus últimos 5 partidos."
    ],
    "picks": [
     {
@@ -3337,7 +3354,7 @@
     {
      "sel": "1552234|Both Teams Score|Yes",
      "texto": "Ambos marcan en Cambuur–Sparta Rotterdam",
-     "cuota": 1.36,
+     "cuota": 1.4,
      "prob": 0.52
     }
    ]
@@ -3436,12 +3453,12 @@
      "sel": "1550215|Both Teams Score|Yes",
      "texto": "Ambos marcan en Udinese–Fiorentina",
      "cuota": 1.57,
-     "prob": 0.48
+     "prob": 0.49
     },
     {
      "sel": "1550215|Shots.1x2|Away",
      "texto": "Fiorentina hace más tiros",
-     "cuota": 1.67,
+     "cuota": 1.73,
      "prob": 0.44
     },
     {
@@ -3472,7 +3489,7 @@
     {
      "sel": "1608382|Total - Home|Over 0.5",
      "texto": "Arzignano Valchiampo marca",
-     "cuota": 1.4,
+     "cuota": 1.44,
      "prob": 0.67
     },
     {
@@ -3498,8 +3515,8 @@
     {
      "sel": "1557480|Total - Home|Over 0.5",
      "texto": "Everton marca",
-     "cuota": 1.36,
-     "prob": 0.68
+     "cuota": 1.4,
+     "prob": 0.67
     },
     {
      "sel": "1557480|Home Player Shots|Thierno Barry - 2",
@@ -3522,7 +3539,7 @@
     {
      "sel": "1557480|Total - Away|Over 1.5",
      "texto": "Liverpool marca 2 o más",
-     "cuota": 1.73,
+     "cuota": 1.67,
      "prob": 0.35
     }
    ]
@@ -3564,6 +3581,12 @@
      "texto": "Swansea o empate",
      "cuota": 1.36,
      "prob": 0.5
+    },
+    {
+     "sel": "1563295|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners en Swansea–Cardiff",
+     "cuota": 1.8,
+     "prob": 0.42
     }
    ]
   },
@@ -3594,48 +3617,28 @@
    ]
   },
   {
-   "partido_id": 1570041,
+   "partido_id": 1565315,
    "fecha": "2026-11-29T14:00",
-   "local": "Granada CF",
-   "visitante": "AD Ceuta FC",
-   "liga": "Segunda",
+   "local": "Oţelul",
+   "visitante": "Uta Arad",
+   "liga": "Liga I",
    "datos": [
-    "El Granada CF va 3º y el AD Ceuta FC 22º en la liga.",
-    "El Granada CF ha ganado 4 de sus últimos 5 partidos.",
-    "El AD Ceuta FC solo ha ganado 1 de sus últimos 5.",
-    "Los partidos del Granada CF llevan 2,4 goles de media (últimos 8).",
-    "Los partidos del AD Ceuta FC llevan 3,1 goles de media (últimos 8)."
+    "Los partidos del Oţelul llevan 3,4 goles de media (últimos 8).",
+    "Los partidos del Uta Arad llevan 2,8 goles de media (últimos 8).",
+    "El Oţelul no ha ganado ninguno de sus últimos 5."
    ],
    "picks": [
     {
-     "sel": "1570041|To Win Either Half|Home",
-     "texto": "Granada CF gana alguna de las dos partes",
-     "cuota": 1.33,
-     "prob": 0.77
-    },
-    {
-     "sel": "1570041|Match Winner|Home",
-     "texto": "Gana el Granada CF",
-     "cuota": 1.55,
-     "prob": 0.71
-    },
-    {
-     "sel": "1570041|Total - Home|Over 1.5",
-     "texto": "Granada CF marca 2 o más",
-     "cuota": 1.57,
-     "prob": 0.6
-    },
-    {
-     "sel": "1570041|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Granada CF–AD Ceuta FC",
+     "sel": "1565315|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Oţelul–Uta Arad",
      "cuota": 1.73,
      "prob": 0.46
     },
     {
-     "sel": "1570041|Total - Away|Over 0.5",
-     "texto": "AD Ceuta FC marca",
+     "sel": "1565315|Double Chance|Draw/Away",
+     "texto": "Uta Arad o empate",
      "cuota": 1.53,
-     "prob": 0.45
+     "prob": 0.39
     }
    ]
   },
@@ -3668,7 +3671,7 @@
     {
      "sel": "1551386|Both Teams Score|Yes",
      "texto": "Ambos marcan en Hobro–FC Fredericia",
-     "cuota": 1.67,
+     "cuota": 1.73,
      "prob": 0.47
     },
     {
@@ -3680,47 +3683,48 @@
    ]
   },
   {
-   "partido_id": 1565315,
+   "partido_id": 1570041,
    "fecha": "2026-11-29T14:00",
-   "local": "Oţelul",
-   "visitante": "Uta Arad",
-   "liga": "Liga I",
+   "local": "Granada CF",
+   "visitante": "AD Ceuta FC",
+   "liga": "Segunda",
    "datos": [
-    "Los partidos del Oţelul llevan 3,4 goles de media (últimos 8).",
-    "Los partidos del Uta Arad llevan 2,8 goles de media (últimos 8).",
-    "El Oţelul no ha ganado ninguno de sus últimos 5."
+    "El Granada CF va 3º y el AD Ceuta FC 22º en la liga.",
+    "El Granada CF ha ganado 4 de sus últimos 5 partidos.",
+    "El AD Ceuta FC solo ha ganado 1 de sus últimos 5.",
+    "Los partidos del Granada CF llevan 2,4 goles de media (últimos 8).",
+    "Los partidos del AD Ceuta FC llevan 3,1 goles de media (últimos 8)."
    ],
    "picks": [
     {
-     "sel": "1565315|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Oţelul–Uta Arad",
-     "cuota": 1.73,
+     "sel": "1570041|To Win Either Half|Home",
+     "texto": "Granada CF gana alguna de las dos partes",
+     "cuota": 1.33,
+     "prob": 0.77
+    },
+    {
+     "sel": "1570041|Match Winner|Home",
+     "texto": "Gana el Granada CF",
+     "cuota": 1.57,
+     "prob": 0.71
+    },
+    {
+     "sel": "1570041|Total - Home|Over 1.5",
+     "texto": "Granada CF marca 2 o más",
+     "cuota": 1.62,
+     "prob": 0.61
+    },
+    {
+     "sel": "1570041|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Granada CF–AD Ceuta FC",
+     "cuota": 1.8,
      "prob": 0.46
     },
     {
-     "sel": "1565315|Double Chance|Draw/Away",
-     "texto": "Uta Arad o empate",
+     "sel": "1570041|Total - Away|Over 0.5",
+     "texto": "AD Ceuta FC marca",
      "cuota": 1.53,
-     "prob": 0.39
-    }
-   ]
-  },
-  {
-   "partido_id": 1608384,
-   "fecha": "2026-11-29T14:30",
-   "local": "Cittadella",
-   "visitante": "PRO Vercelli",
-   "liga": "Serie C",
-   "datos": [
-    "Los partidos del Cittadella llevan 1,9 goles de media (últimos 8).",
-    "Los partidos del PRO Vercelli llevan 2,8 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1608384|Total - Away|Over 0.5",
-     "texto": "PRO Vercelli marca",
-     "cuota": 1.67,
-     "prob": 0.46
+     "prob": 0.45
     }
    ]
   },
@@ -3753,6 +3757,63 @@
      "sel": "1608385|Total - Away|Over 0.5",
      "texto": "Dolomiti Bellunesi marca",
      "cuota": 1.67,
+     "prob": 0.45
+    }
+   ]
+  },
+  {
+   "partido_id": 1552241,
+   "fecha": "2026-11-29T14:30",
+   "local": "Fortuna Sittard",
+   "visitante": "Heerenveen",
+   "liga": "Eredivisie",
+   "datos": [
+    "Los partidos del Fortuna Sittard llevan 2,4 goles de media (últimos 8).",
+    "Los partidos del Heerenveen llevan 3,8 goles de media (últimos 8).",
+    "El Heerenveen ha ganado 5 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1552241|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Fortuna Sittard–Heerenveen",
+     "cuota": 1.73,
+     "prob": 0.55
+    },
+    {
+     "sel": "1552241|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Fortuna Sittard–Heerenveen",
+     "cuota": 1.5,
+     "prob": 0.47
+    },
+    {
+     "sel": "1552241|Total - Away|Over 1.5",
+     "texto": "Heerenveen marca 2 o más",
+     "cuota": 1.67,
+     "prob": 0.38
+    },
+    {
+     "sel": "1552241|Corners 1x2|Away",
+     "texto": "Heerenveen hace más córners",
+     "cuota": 1.62,
+     "prob": 0.35
+    }
+   ]
+  },
+  {
+   "partido_id": 1608384,
+   "fecha": "2026-11-29T14:30",
+   "local": "Cittadella",
+   "visitante": "PRO Vercelli",
+   "liga": "Serie C",
+   "datos": [
+    "Los partidos del Cittadella llevan 1,9 goles de media (últimos 8).",
+    "Los partidos del PRO Vercelli llevan 2,8 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1608384|Total - Away|Over 0.5",
+     "texto": "PRO Vercelli marca",
+     "cuota": 1.8,
      "prob": 0.45
     }
    ]
@@ -3801,40 +3862,47 @@
    ]
   },
   {
-   "partido_id": 1552241,
-   "fecha": "2026-11-29T14:30",
-   "local": "Fortuna Sittard",
-   "visitante": "Heerenveen",
-   "liga": "Eredivisie",
+   "partido_id": 1550213,
+   "fecha": "2026-11-29T15:00",
+   "local": "Sassuolo",
+   "visitante": "Napoli",
+   "liga": "Serie A",
    "datos": [
-    "Los partidos del Fortuna Sittard llevan 2,4 goles de media (últimos 8).",
-    "Los partidos del Heerenveen llevan 3,8 goles de media (últimos 8).",
-    "El Heerenveen ha ganado 5 de sus últimos 5 partidos."
+    "El Napoli va 8º y el Sassuolo 18º en la liga.",
+    "El Sassuolo no ha ganado ninguno de sus últimos 5.",
+    "Los partidos del Sassuolo llevan 4,0 goles de media (últimos 8).",
+    "Los partidos del Napoli llevan 4,0 goles de media (últimos 8)."
    ],
    "picks": [
     {
-     "sel": "1552241|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte del Fortuna Sittard–Heerenveen",
-     "cuota": 1.73,
-     "prob": 0.55
-    },
-    {
-     "sel": "1552241|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Fortuna Sittard–Heerenveen",
+     "sel": "1550213|Home Team Total Cards|Over 1.5",
+     "texto": "Sassuolo ve más de 1,5 tarjetas",
      "cuota": 1.5,
-     "prob": 0.47
+     "prob": 0.6
     },
     {
-     "sel": "1552241|Total - Away|Over 1.5",
-     "texto": "Heerenveen marca 2 o más",
+     "sel": "1550213|Match Winner|Away",
+     "texto": "Gana el Napoli",
      "cuota": 1.67,
-     "prob": 0.38
+     "prob": 0.56
     },
     {
-     "sel": "1552241|Corners 1x2|Away",
-     "texto": "Heerenveen hace más córners",
+     "sel": "1550213|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Sassuolo–Napoli",
+     "cuota": 1.8,
+     "prob": 0.56
+    },
+    {
+     "sel": "1550213|To Win Either Half|Away",
+     "texto": "Napoli gana alguna de las dos partes",
+     "cuota": 1.36,
+     "prob": 0.49
+    },
+    {
+     "sel": "1550213|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Sassuolo–Napoli",
      "cuota": 1.62,
-     "prob": 0.35
+     "prob": 0.49
     }
    ]
   },
@@ -3882,51 +3950,6 @@
    ]
   },
   {
-   "partido_id": 1550213,
-   "fecha": "2026-11-29T15:00",
-   "local": "Sassuolo",
-   "visitante": "Napoli",
-   "liga": "Serie A",
-   "datos": [
-    "El Napoli va 8º y el Sassuolo 18º en la liga.",
-    "El Sassuolo no ha ganado ninguno de sus últimos 5.",
-    "Los partidos del Sassuolo llevan 4,0 goles de media (últimos 8).",
-    "Los partidos del Napoli llevan 4,0 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1550213|Match Winner|Away",
-     "texto": "Gana el Napoli",
-     "cuota": 1.65,
-     "prob": 0.56
-    },
-    {
-     "sel": "1550213|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte del Sassuolo–Napoli",
-     "cuota": 1.8,
-     "prob": 0.56
-    },
-    {
-     "sel": "1550213|To Win Either Half|Away",
-     "texto": "Napoli gana alguna de las dos partes",
-     "cuota": 1.36,
-     "prob": 0.49
-    },
-    {
-     "sel": "1550213|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Sassuolo–Napoli",
-     "cuota": 1.57,
-     "prob": 0.49
-    },
-    {
-     "sel": "1550213|Corners Over Under|Over 9",
-     "texto": "Más de 9 córners en Sassuolo–Napoli",
-     "cuota": 1.78,
-     "prob": 0.44
-    }
-   ]
-  },
-  {
    "partido_id": 1576543,
    "fecha": "2026-11-29T15:00",
    "local": "Felgueiras 1932",
@@ -3942,32 +3965,6 @@
      "texto": "FC Porto B marca",
      "cuota": 1.53,
      "prob": 0.46
-    }
-   ]
-  },
-  {
-   "partido_id": 1557481,
-   "fecha": "2026-11-29T15:05",
-   "local": "Fulham",
-   "visitante": "Bournemouth",
-   "liga": "Premier",
-   "datos": [
-    "El Bournemouth va 5º y el Fulham 16º en la liga.",
-    "El Fulham solo ha ganado 1 de sus últimos 5.",
-    "El Bournemouth ha ganado 5 de sus últimos 5 partidos."
-   ],
-   "picks": [
-    {
-     "sel": "1557481|Corners Over Under|Over 9.5",
-     "texto": "Más de 9,5 córners en Fulham–Bournemouth",
-     "cuota": 1.67,
-     "prob": 0.43
-    },
-    {
-     "sel": "1557481|Double Chance|Draw/Away",
-     "texto": "Bournemouth o empate",
-     "cuota": 1.44,
-     "prob": 0.42
     }
    ]
   },
@@ -4004,40 +4001,6 @@
    ]
   },
   {
-   "partido_id": 1557478,
-   "fecha": "2026-11-29T15:05",
-   "local": "Brighton",
-   "visitante": "Newcastle",
-   "liga": "Premier",
-   "datos": [
-    "El Brighton no ha perdido en casa en sus últimos 6 partidos (5V 1E).",
-    "El Brighton va 3º y el Newcastle 13º en la liga.",
-    "El Brighton ha ganado 4 de sus últimos 5 partidos.",
-    "Los partidos del Brighton llevan 2,0 goles de media (últimos 8).",
-    "Los partidos del Newcastle llevan 2,8 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1557478|Match Winner|Home",
-     "texto": "Gana el Brighton",
-     "cuota": 1.57,
-     "prob": 0.68
-    },
-    {
-     "sel": "1557478|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte del Brighton–Newcastle",
-     "cuota": 1.73,
-     "prob": 0.54
-    },
-    {
-     "sel": "1557478|Corners 1x2|Home",
-     "texto": "Brighton hace más córners",
-     "cuota": 1.5,
-     "prob": 0.48
-    }
-   ]
-  },
-  {
    "partido_id": 1557486,
    "fecha": "2026-11-29T15:05",
    "local": "Sunderland",
@@ -4064,10 +4027,82 @@
      "prob": 0.4
     },
     {
+     "sel": "1557486|ShotOnTarget 1x2|Away",
+     "texto": "Tottenham hace más tiros a puerta",
+     "cuota": 1.8,
+     "prob": 0.37
+    },
+    {
      "sel": "1557486|Away Corners Over/Under|Over 4.5",
      "texto": "Tottenham hace más de 4,5 córners",
      "cuota": 1.8,
      "prob": 0.28
+    }
+   ]
+  },
+  {
+   "partido_id": 1557481,
+   "fecha": "2026-11-29T15:05",
+   "local": "Fulham",
+   "visitante": "Bournemouth",
+   "liga": "Premier",
+   "datos": [
+    "El Bournemouth va 5º y el Fulham 16º en la liga.",
+    "El Fulham solo ha ganado 1 de sus últimos 5.",
+    "El Bournemouth ha ganado 5 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1557481|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners en Fulham–Bournemouth",
+     "cuota": 1.67,
+     "prob": 0.43
+    },
+    {
+     "sel": "1557481|Double Chance|Draw/Away",
+     "texto": "Bournemouth o empate",
+     "cuota": 1.4,
+     "prob": 0.41
+    }
+   ]
+  },
+  {
+   "partido_id": 1557478,
+   "fecha": "2026-11-29T15:05",
+   "local": "Brighton",
+   "visitante": "Newcastle",
+   "liga": "Premier",
+   "datos": [
+    "El Brighton no ha perdido en casa en sus últimos 6 partidos (5V 1E).",
+    "El Brighton va 3º y el Newcastle 13º en la liga.",
+    "El Brighton ha ganado 4 de sus últimos 5 partidos.",
+    "Los partidos del Brighton llevan 2,0 goles de media (últimos 8).",
+    "Los partidos del Newcastle llevan 2,8 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1557478|Match Winner|Home",
+     "texto": "Gana el Brighton",
+     "cuota": 1.57,
+     "prob": 0.68
+    },
+    {
+     "sel": "1557478|Home Team Total Cards|Over 1.5",
+     "texto": "Brighton ve más de 1,5 tarjetas",
+     "cuota": 1.57,
+     "prob": 0.6
+    },
+    {
+     "sel": "1557478|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Brighton–Newcastle",
+     "cuota": 1.73,
+     "prob": 0.54
+    },
+    {
+     "sel": "1557478|Corners 1x2|Home",
+     "texto": "Brighton hace más córners",
+     "cuota": 1.5,
+     "prob": 0.48
     }
    ]
   },
@@ -4082,6 +4117,12 @@
     "Los partidos del RB Leipzig llevan 4,5 goles de media (últimos 8)."
    ],
    "picks": [
+    {
+     "sel": "1575233|Home Team Total Cards|Over 1.5",
+     "texto": "SC Freiburg ve más de 1,5 tarjetas",
+     "cuota": 1.53,
+     "prob": 0.62
+    },
     {
      "sel": "1575233|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del SC Freiburg–RB Leipzig",
@@ -4153,7 +4194,7 @@
     {
      "sel": "1570044|Double Chance|Draw/Away",
      "texto": "Castellón o empate",
-     "cuota": 1.62,
+     "cuota": 1.57,
      "prob": 0.4
     }
    ]
@@ -4215,62 +4256,10 @@
      "prob": 0.53
     },
     {
-     "sel": "1552836|Away Player Shots|Sebastian Szymanski - 1",
-     "texto": "Sebastian Szymanski: 1+ tiros",
-     "cuota": 1.36,
-     "prob": 0.51
-    },
-    {
      "sel": "1552836|Both Teams Score|Yes",
      "texto": "Ambos marcan en Toulouse–Rennes",
-     "cuota": 1.53,
+     "cuota": 1.57,
      "prob": 0.48
-    }
-   ]
-  },
-  {
-   "partido_id": 1557477,
-   "fecha": "2026-11-29T17:30",
-   "local": "Arsenal",
-   "visitante": "Manchester City",
-   "liga": "Premier",
-   "datos": [
-    "Los partidos del Arsenal llevan 2,4 goles de media (últimos 8).",
-    "Los partidos del Manchester City llevan 3,6 goles de media (últimos 8).",
-    "El Arsenal no ha perdido en casa en sus últimos 6 partidos (5V 1E).",
-    "El Arsenal ha ganado 3 de sus últimos 5 partidos.",
-    "El Manchester City solo ha ganado 1 de sus últimos 5."
-   ],
-   "picks": [
-    {
-     "sel": "1557477|Total - Home|Over 1.5",
-     "texto": "Arsenal marca 2 o más",
-     "cuota": 1.8,
-     "prob": 0.6
-    },
-    {
-     "sel": "1557477|ShotOnTarget 1x2|Home",
-     "texto": "Arsenal hace más tiros a puerta",
-     "cuota": 1.73,
-     "prob": 0.54
-    },
-    {
-     "sel": "1557477|Away Player Shots|Elliot Anderson - 1",
-     "texto": "Elliot Anderson: 1+ tiros",
-     "cuota": 1.53,
-     "prob": 0.51
-    },
-    {
-     "sel": "1557477|Total - Away|Over 0.5",
-     "texto": "Manchester City marca",
-     "cuota": 1.36,
-     "prob": 0.5
-    },
-    {
-     "sel": "1557477|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Arsenal–Manchester City",
-     "cuota": 1.62,
-     "prob": 0.47
     }
    ]
   },
@@ -4285,6 +4274,12 @@
     "Los partidos del FC Augsburg llevan 4,8 goles de media (últimos 8)."
    ],
    "picks": [
+    {
+     "sel": "1575232|Home Team Total Cards|Over 1.5",
+     "texto": "1899 Hoffenheim ve más de 1,5 tarjetas",
+     "cuota": 1.5,
+     "prob": 0.61
+    },
     {
      "sel": "1575232|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del 1899 Hoffenheim–FC Augsburg",
@@ -4308,6 +4303,46 @@
      "texto": "1899 Hoffenheim hace más córners",
      "cuota": 1.4,
      "prob": 0.48
+    }
+   ]
+  },
+  {
+   "partido_id": 1557477,
+   "fecha": "2026-11-29T17:30",
+   "local": "Arsenal",
+   "visitante": "Manchester City",
+   "liga": "Premier",
+   "datos": [
+    "El Arsenal no ha perdido en casa en sus últimos 6 partidos (5V 1E).",
+    "El Arsenal ha ganado 3 de sus últimos 5 partidos.",
+    "El Manchester City solo ha ganado 1 de sus últimos 5.",
+    "Los partidos del Arsenal llevan 2,4 goles de media (últimos 8).",
+    "Los partidos del Manchester City llevan 3,6 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1557477|ShotOnTarget 1x2|Home",
+     "texto": "Arsenal hace más tiros a puerta",
+     "cuota": 1.73,
+     "prob": 0.54
+    },
+    {
+     "sel": "1557477|Away Player Shots|Elliot Anderson - 1",
+     "texto": "Elliot Anderson: 1+ tiros",
+     "cuota": 1.53,
+     "prob": 0.51
+    },
+    {
+     "sel": "1557477|Total - Away|Over 0.5",
+     "texto": "Manchester City marca",
+     "cuota": 1.36,
+     "prob": 0.5
+    },
+    {
+     "sel": "1557477|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Arsenal–Manchester City",
+     "cuota": 1.62,
+     "prob": 0.47
     }
    ]
   },
@@ -4348,16 +4383,16 @@
    ],
    "picks": [
     {
+     "sel": "1608381|Total - Home|Over 0.5",
+     "texto": "Albinoleffe marca",
+     "cuota": 1.36,
+     "prob": 0.69
+    },
+    {
      "sel": "1608381|Double Chance|Home/Draw",
      "texto": "Albinoleffe o empate",
      "cuota": 1.44,
      "prob": 0.5
-    },
-    {
-     "sel": "1608381|Total - Away|Over 0.5",
-     "texto": "Treviso marca",
-     "cuota": 1.36,
-     "prob": 0.49
     }
    ]
   },
@@ -4427,7 +4462,7 @@
      "sel": "1570464|Both Teams Score|Yes",
      "texto": "Ambos marcan en Celta Vigo–Villarreal",
      "cuota": 1.62,
-     "prob": 0.45
+     "prob": 0.46
     },
     {
      "sel": "1570464|Corners Over Under|Over 8.5",
@@ -4464,13 +4499,13 @@
     {
      "sel": "1570038|Double Chance|Home/Draw",
      "texto": "Cadiz o empate",
-     "cuota": 1.7,
+     "cuota": 1.67,
      "prob": 0.5
     },
     {
      "sel": "1570038|Both Teams Score|Yes",
      "texto": "Ambos marcan en Cadiz–Cordoba",
-     "cuota": 1.5,
+     "cuota": 1.44,
      "prob": 0.48
     },
     {
@@ -4593,12 +4628,6 @@
      "prob": 0.56
     },
     {
-     "sel": "1552239|Away Player Shots|Daouda Weidmann - 2",
-     "texto": "Daouda Weidmann: 2+ tiros",
-     "cuota": 1.4,
-     "prob": 0.52
-    },
-    {
      "sel": "1552239|Both Teams Score|Yes",
      "texto": "Ambos marcan en NEC Nijmegen–Twente",
      "cuota": 1.4,
@@ -4609,6 +4638,49 @@
      "texto": "Twente marca 2 o más",
      "cuota": 1.5,
      "prob": 0.35
+    }
+   ]
+  },
+  {
+   "partido_id": 1550209,
+   "fecha": "2026-11-29T20:45",
+   "local": "Como",
+   "visitante": "Juventus",
+   "liga": "Serie A",
+   "datos": [
+    "Los partidos del Como llevan 3,4 goles de media (últimos 8).",
+    "Los partidos del Juventus llevan 3,2 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1550209|Total - Away|Over 0.5",
+     "texto": "Juventus marca",
+     "cuota": 1.4,
+     "prob": 0.49
+    },
+    {
+     "sel": "1550209|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Como–Juventus",
+     "cuota": 1.7,
+     "prob": 0.48
+    },
+    {
+     "sel": "1550209|Home Corners Over/Under|Over 4.5",
+     "texto": "Como hace más de 4,5 córners",
+     "cuota": 1.73,
+     "prob": 0.46
+    },
+    {
+     "sel": "1550209|Total Corners (1st Half)|Over 4",
+     "texto": "Más de 4 córners en la 1ª parte en Como–Juventus",
+     "cuota": 1.72,
+     "prob": 0.43
+    },
+    {
+     "sel": "1550209|Away Team Total Cards|Over 1.5",
+     "texto": "Juventus ve más de 1,5 tarjetas",
+     "cuota": 1.57,
+     "prob": 0.42
     }
    ]
   },
@@ -4639,45 +4711,6 @@
    ]
   },
   {
-   "partido_id": 1550209,
-   "fecha": "2026-11-29T20:45",
-   "local": "Como",
-   "visitante": "Juventus",
-   "liga": "Serie A",
-   "datos": [
-    "El Como no ha perdido en casa en sus últimos 6 partidos (5V 1E).",
-    "El Como ha ganado 4 de sus últimos 5 partidos.",
-    "Los partidos del Como llevan 3,4 goles de media (últimos 8).",
-    "Los partidos del Juventus llevan 3,2 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1550209|Shots.1x2|Home",
-     "texto": "Como hace más tiros",
-     "cuota": 1.36,
-     "prob": 0.53
-    },
-    {
-     "sel": "1550209|Total - Away|Over 0.5",
-     "texto": "Juventus marca",
-     "cuota": 1.36,
-     "prob": 0.49
-    },
-    {
-     "sel": "1550209|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Como–Juventus",
-     "cuota": 1.67,
-     "prob": 0.48
-    },
-    {
-     "sel": "1550209|Home Corners Over/Under|Over 4.5",
-     "texto": "Como hace más de 4,5 córners",
-     "cuota": 1.73,
-     "prob": 0.46
-    }
-   ]
-  },
-  {
    "partido_id": 1570471,
    "fecha": "2026-11-29T21:00",
    "local": "Real Sociedad",
@@ -4692,7 +4725,7 @@
      "sel": "1570471|Both Teams Score|Yes",
      "texto": "Ambos marcan en Real Sociedad–Sevilla",
      "cuota": 1.57,
-     "prob": 0.45
+     "prob": 0.46
     }
    ]
   },
@@ -4725,7 +4758,7 @@
     {
      "sel": "1570037|Total - Home|Over 1.5",
      "texto": "Almeria marca 2 o más",
-     "cuota": 1.62,
+     "cuota": 1.67,
      "prob": 0.6
     },
     {
@@ -4783,332 +4816,6 @@
      "texto": "Ambos marcan en FC Porto–Sporting CP",
      "cuota": 1.75,
      "prob": 0.45
-    }
-   ]
-  }
- ],
- "2026-11-25": [
-  {
-   "partido_id": 1635718,
-   "fecha": "2026-11-25T18:45",
-   "local": "Sabah FA",
-   "visitante": "Barcelona",
-   "liga": "Champions",
-   "datos": [
-    "Los partidos del Sabah FA llevan 3,9 goles de media (últimos 8).",
-    "Los partidos del Barcelona llevan 4,9 goles de media (últimos 8).",
-    "Albert Peris, el nuevo entrenador del Juvenil A que tiene \"ojos microscópicos\" (Mundo Deportivo)"
-   ],
-   "picks": [
-    {
-     "sel": "1635718|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Sabah FA–Barcelona",
-     "cuota": 1.67,
-     "prob": 0.47
-    }
-   ]
-  },
-  {
-   "partido_id": 1563286,
-   "fecha": "2026-11-25T20:45",
-   "local": "Watford",
-   "visitante": "Blackburn",
-   "liga": "Championship",
-   "datos": [
-    "El Blackburn va 13º y el Watford 21º en la liga.",
-    "El Watford solo ha ganado 1 de sus últimos 5."
-   ],
-   "picks": [
-    {
-     "sel": "1563286|Total Corners (1st Half)|Over 4.5",
-     "texto": "Más de 4,5 córners en la 1ª parte en Watford–Blackburn",
-     "cuota": 1.8,
-     "prob": 0.43
-    },
-    {
-     "sel": "1563286|Double Chance|Draw/Away",
-     "texto": "Blackburn o empate",
-     "cuota": 1.5,
-     "prob": 0.39
-    }
-   ]
-  },
-  {
-   "partido_id": 1563283,
-   "fecha": "2026-11-25T20:45",
-   "local": "Bolton",
-   "visitante": "West Brom",
-   "liga": "Championship",
-   "datos": [
-    "Los partidos del Bolton llevan 3,1 goles de media (últimos 8).",
-    "Los partidos del West Brom llevan 3,0 goles de media (últimos 8).",
-    "El árbitro (Elliot Bell) saca 4,7 tarjetas por partido"
-   ],
-   "picks": [
-    {
-     "sel": "1563283|Total - Home|Over 0.5",
-     "texto": "Bolton marca",
-     "cuota": 1.36,
-     "prob": 0.64
-    },
-    {
-     "sel": "1563283|Home Team Total Cards|Over 1.5",
-     "texto": "Bolton ve más de 1,5 tarjetas",
-     "cuota": 1.73,
-     "prob": 0.62
-    },
-    {
-     "sel": "1563283|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Bolton–West Brom",
-     "cuota": 1.62,
-     "prob": 0.45
-    },
-    {
-     "sel": "1563283|Corners Over Under|Over 10.5",
-     "texto": "Más de 10,5 córners en Bolton–West Brom",
-     "cuota": 1.73,
-     "prob": 0.44
-    },
-    {
-     "sel": "1563283|Shots.1x2|Away",
-     "texto": "West Brom hace más tiros",
-     "cuota": 1.8,
-     "prob": 0.43
-    }
-   ]
-  },
-  {
-   "partido_id": 1563284,
-   "fecha": "2026-11-25T20:45",
-   "local": "Burnley",
-   "visitante": "Birmingham",
-   "liga": "Championship",
-   "datos": [
-    "El árbitro (Matthew Corlett) saca 4,2 tarjetas por partido",
-    "Los partidos del Burnley llevan 3,9 goles de media (últimos 8).",
-    "Los partidos del Birmingham llevan 2,5 goles de media (últimos 8).",
-    "El Burnley no ha ganado en casa en sus últimos 6 partidos.",
-    "El Birmingham va 6º y el Burnley 23º en la liga."
-   ],
-   "picks": [
-    {
-     "sel": "1563284|Home Team Total Cards|Over 1.5",
-     "texto": "Burnley ve más de 1,5 tarjetas",
-     "cuota": 1.5,
-     "prob": 0.61
-    },
-    {
-     "sel": "1563284|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Burnley–Birmingham",
-     "cuota": 1.57,
-     "prob": 0.46
-    },
-    {
-     "sel": "1563284|Double Chance|Draw/Away",
-     "texto": "Birmingham o empate",
-     "cuota": 1.44,
-     "prob": 0.41
-    }
-   ]
-  },
-  {
-   "partido_id": 1635682,
-   "fecha": "2026-11-25T21:00",
-   "local": "Lille",
-   "visitante": "Bayern München",
-   "liga": "Champions",
-   "datos": [],
-   "picks": [
-    {
-     "sel": "1635682|Player Fouls Committed|Dayot Upamecano - 1",
-     "texto": "Dayot Upamecano comete 1+ faltas",
-     "cuota": 1.28,
-     "prob": 0.95
-    },
-    {
-     "sel": "1635682|Away Player Shots|Joshua Kimmich - 1",
-     "texto": "Joshua Kimmich: 1+ tiros",
-     "cuota": 1.44,
-     "prob": 0.94
-    },
-    {
-     "sel": "1635682|Away Player Shots|Dayot Upamecano - 1",
-     "texto": "Dayot Upamecano: 1+ tiros",
-     "cuota": 1.57,
-     "prob": 0.94
-    },
-    {
-     "sel": "1635682|Player Fouls Committed|Tom Bischof - 1",
-     "texto": "Tom Bischof comete 1+ faltas",
-     "cuota": 1.28,
-     "prob": 0.82
-    },
-    {
-     "sel": "1635682|Home Player Shots|Nabil Bentaleb - 1",
-     "texto": "Nabil Bentaleb: 1+ tiros",
-     "cuota": 1.4,
-     "prob": 0.79
-    }
-   ]
-  },
-  {
-   "partido_id": 1635735,
-   "fecha": "2026-11-25T21:00",
-   "local": "Sporting CP",
-   "visitante": "Manchester United",
-   "liga": "Champions",
-   "datos": [
-    "El Manchester United no ha ganado fuera en sus últimos 6 partidos.",
-    "El Sporting CP ha ganado 4 de sus últimos 5 partidos.",
-    "El Manchester United solo ha ganado 1 de sus últimos 5.",
-    "Los partidos del Sporting CP llevan 2,8 goles de media (últimos 8).",
-    "Los partidos del Manchester United llevan 3,9 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1635735|Away Player Shots|Bruno Fernandes - 2",
-     "texto": "Bruno Fernandes: 2+ tiros",
-     "cuota": 1.3,
-     "prob": 0.81
-    },
-    {
-     "sel": "1635735|Double Chance|Home/Draw",
-     "texto": "Sporting CP o empate",
-     "cuota": 1.5,
-     "prob": 0.61
-    },
-    {
-     "sel": "1635735|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte del Sporting CP–Manchester United",
-     "cuota": 1.73,
-     "prob": 0.56
-    },
-    {
-     "sel": "1635735|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Sporting CP–Manchester United",
-     "cuota": 1.44,
-     "prob": 0.5
-    }
-   ]
-  },
-  {
-   "partido_id": 1635703,
-   "fecha": "2026-11-25T21:00",
-   "local": "Paris Saint Germain",
-   "visitante": "AS Roma",
-   "liga": "Champions",
-   "datos": [
-    "Los partidos del Paris Saint Germain llevan 4,5 goles de media (últimos 8).",
-    "Los partidos del AS Roma llevan 4,9 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1635703|Player Fouls Committed|Maghnes Akliouche - 1",
-     "texto": "Maghnes Akliouche comete 1+ faltas",
-     "cuota": 1.25,
-     "prob": 0.86
-    },
-    {
-     "sel": "1635703|Home Player Shots|Achraf Hakimi - 2",
-     "texto": "Achraf Hakimi: 2+ tiros",
-     "cuota": 1.53,
-     "prob": 0.79
-    },
-    {
-     "sel": "1635703|Away Player Shots|Bryan Cristante - 1",
-     "texto": "Bryan Cristante: 1+ tiros",
-     "cuota": 1.5,
-     "prob": 0.79
-    },
-    {
-     "sel": "1635703|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Paris Saint Germain–AS Roma",
-     "cuota": 1.44,
-     "prob": 0.48
-    },
-    {
-     "sel": "1635703|Corners Over Under|Over 8.5",
-     "texto": "Más de 8,5 córners en Paris Saint Germain–AS Roma",
-     "cuota": 1.67,
-     "prob": 0.44
-    }
-   ]
-  },
-  {
-   "partido_id": 1635625,
-   "fecha": "2026-11-25T21:00",
-   "local": "Atletico Madrid",
-   "visitante": "Viking",
-   "liga": "Champions",
-   "datos": [],
-   "picks": [
-    {
-     "sel": "1635625|Player Fouls Committed|Gianni Stensness - 1",
-     "texto": "Gianni Stensness comete 1+ faltas",
-     "cuota": 1.5,
-     "prob": 0.86
-    },
-    {
-     "sel": "1635625|Away Player Shots|Zlatko Tripic - 1",
-     "texto": "Zlatko Tripic: 1+ tiros",
-     "cuota": 1.25,
-     "prob": 0.79
-    },
-    {
-     "sel": "1635625|Home Team Total Cards|Over 0.5",
-     "texto": "Atletico Madrid ve más de 0,5 tarjetas",
-     "cuota": 1.44,
-     "prob": 0.66
-    },
-    {
-     "sel": "1635625|Away Corners Over/Under|Over 2.5",
-     "texto": "Viking hace más de 2,5 córners",
-     "cuota": 1.73,
-     "prob": 0.31
-    }
-   ]
-  },
-  {
-   "partido_id": 1563285,
-   "fecha": "2026-11-25T21:00",
-   "local": "Stoke City",
-   "visitante": "Millwall",
-   "liga": "Championship",
-   "datos": [
-    "El Stoke City va 3º y el Millwall 18º en la liga.",
-    "El Stoke City ha ganado 4 de sus últimos 5 partidos.",
-    "El Millwall solo ha ganado 1 de sus últimos 5."
-   ],
-   "picks": [
-    {
-     "sel": "1563285|Double Chance|Home/Draw",
-     "texto": "Stoke City o empate",
-     "cuota": 1.36,
-     "prob": 0.55
-    },
-    {
-     "sel": "1563285|Shots.1x2|Home",
-     "texto": "Stoke City hace más tiros",
-     "cuota": 1.53,
-     "prob": 0.54
-    },
-    {
-     "sel": "1563285|ShotOnTarget 1x2|Home",
-     "texto": "Stoke City hace más tiros a puerta",
-     "cuota": 1.62,
-     "prob": 0.53
-    },
-    {
-     "sel": "1563285|Corners 1x2|Home",
-     "texto": "Stoke City hace más córners",
-     "cuota": 1.67,
-     "prob": 0.48
-    },
-    {
-     "sel": "1563285|Total - Away|Over 0.5",
-     "texto": "Millwall marca",
-     "cuota": 1.36,
-     "prob": 0.47
     }
    ]
   }
@@ -5394,39 +5101,27 @@
    ]
   },
   {
-   "partido_id": 1550218,
-   "fecha": "2026-12-04T20:45",
-   "local": "Bologna",
-   "visitante": "AS Roma",
-   "liga": "Serie A",
+   "partido_id": 1575239,
+   "fecha": "2026-12-04T20:30",
+   "local": "Bayern München",
+   "visitante": "SC Paderborn 07",
+   "liga": "Bundesliga",
    "datos": [
-    "Los partidos del Bologna llevan 3,1 goles de media (últimos 8).",
-    "Los partidos del AS Roma llevan 5,1 goles de media (últimos 8)."
+    "Los partidos del Bayern München llevan 3,6 goles de media (últimos 8).",
+    "Los partidos del SC Paderborn 07 llevan 2,5 goles de media (últimos 8)."
    ],
    "picks": [
     {
-     "sel": "1550218|Total - Home|Over 0.5",
-     "texto": "Bologna marca",
-     "cuota": 1.36,
-     "prob": 0.7
-    },
-    {
-     "sel": "1550218|Home Player Shots|Tommaso Pobega - 1",
-     "texto": "Tommaso Pobega: 1+ tiros",
-     "cuota": 1.4,
-     "prob": 0.52
-    },
-    {
-     "sel": "1550218|Home Player Shots|Jens Odgaard - 2",
-     "texto": "Jens Odgaard: 2+ tiros",
+     "sel": "1575239|Home Player Shots|Dayot Upamecano - 1",
+     "texto": "Dayot Upamecano: 1+ tiros",
      "cuota": 1.44,
-     "prob": 0.51
+     "prob": 0.54
     },
     {
-     "sel": "1550218|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Bologna–AS Roma",
-     "cuota": 1.62,
-     "prob": 0.48
+     "sel": "1575239|Total - Away|Over 0.5",
+     "texto": "SC Paderborn 07 marca",
+     "cuota": 1.73,
+     "prob": 0.45
     }
    ]
   },
@@ -5477,6 +5172,43 @@
    ]
   },
   {
+   "partido_id": 1550218,
+   "fecha": "2026-12-04T20:45",
+   "local": "Bologna",
+   "visitante": "AS Roma",
+   "liga": "Serie A",
+   "datos": [
+    "Los partidos del Bologna llevan 3,1 goles de media (últimos 8).",
+    "Los partidos del AS Roma llevan 5,1 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1550218|Total - Home|Over 0.5",
+     "texto": "Bologna marca",
+     "cuota": 1.36,
+     "prob": 0.7
+    },
+    {
+     "sel": "1550218|Home Player Shots|Tommaso Pobega - 1",
+     "texto": "Tommaso Pobega: 1+ tiros",
+     "cuota": 1.4,
+     "prob": 0.52
+    },
+    {
+     "sel": "1550218|Home Player Shots|Jens Odgaard - 2",
+     "texto": "Jens Odgaard: 2+ tiros",
+     "cuota": 1.44,
+     "prob": 0.51
+    },
+    {
+     "sel": "1550218|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Bologna–AS Roma",
+     "cuota": 1.62,
+     "prob": 0.48
+    }
+   ]
+  },
+  {
    "partido_id": 1570473,
    "fecha": "2026-12-04T21:00",
    "local": "Alaves",
@@ -5492,6 +5224,34 @@
      "texto": "Espanyol marca",
      "cuota": 1.5,
      "prob": 0.47
+    }
+   ]
+  }
+ ],
+ "2026-12-01": [
+  {
+   "partido_id": 1557491,
+   "fecha": "2026-12-01T21:00",
+   "local": "Coventry",
+   "visitante": "Ipswich",
+   "liga": "Premier",
+   "datos": [
+    "El Ipswich no ha ganado ninguno de sus últimos 5.",
+    "Los partidos del Coventry llevan 3,5 goles de media (últimos 8).",
+    "Los partidos del Ipswich llevan 3,2 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1557491|Double Chance|Home/Draw",
+     "texto": "Coventry o empate",
+     "cuota": 1.36,
+     "prob": 0.5
+    },
+    {
+     "sel": "1557491|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Coventry–Ipswich",
+     "cuota": 1.57,
+     "prob": 0.48
     }
    ]
   }

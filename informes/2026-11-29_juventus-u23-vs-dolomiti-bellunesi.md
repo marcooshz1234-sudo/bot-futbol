@@ -1,10 +1,10 @@
 # Juventus U23 – Dolomiti Bellunesi
 **Serie C** · Girone A - 16 · 29/11/2026 14:30 (hora España) · Stadio Giuseppe Moccagatta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:03_
+_Actualizadas: 27/11 09:23_
 
 - **1X2:** 1 **1.55**  ·  X **3.50**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.22**  ·  X2 **2.20**

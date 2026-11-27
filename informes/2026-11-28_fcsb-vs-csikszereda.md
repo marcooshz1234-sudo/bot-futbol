@@ -1,10 +1,10 @@
 # FCSB – Csikszereda
 **Liga I** · Regular Season - 17 · 28/11/2026 19:00 (hora España) · Arena Nationala
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:02_
+_Actualizadas: 27/11 09:23_
 
 - **1X2:** 1 **1.22**  ·  X **5.25**  ·  2 **9.50**
 - **Doble oportunidad:** 1X **1.06**  ·  12 **1.14**  ·  X2 **3.75**

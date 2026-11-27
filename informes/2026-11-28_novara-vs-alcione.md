@@ -1,45 +1,46 @@
 # Novara – Alcione
 **Serie C** · Girone A - 16 · 28/11/2026 14:30 (hora España) · Stadio Silvio Piola
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:02_
+_Actualizadas: 27/11 09:22_
 
-- **1X2:** 1 **2.30**  ·  X **3.00**  ·  2 **2.88**
-- **Doble oportunidad:** 1X **1.33**  ·  12 **1.30**  ·  X2 **1.50**
-- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **1X2:** 1 **2.15**  ·  X **3.00**  ·  2 **3.10**
+- **Doble oportunidad:** 1X **1.28**  ·  12 **1.30**  ·  X2 **1.57**
+- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
-    - 0,5: más **1.05** · menos **8.50**
-    - 1,5: más **1.33** · menos **3.25**
-    - 2,5: más **2.08** · menos **1.73**
-    - 3,5: más **3.75** · menos **1.25**
-    - 4,5: más **7.00** · menos **1.08**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.90** · menos **1.90**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **5.50** · menos **1.12**
+    - 5,5: más **9.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.44** · menos **2.62**
     - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **7.50** · menos **1.07**
 - **Goles del local:**
-    - 0,5: más **1.30** · menos **3.40**
-    - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **5.50** · menos **1.12**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.17**
+    - 3,5: más **9.00** · menos **1.04**
 - **Goles del visitante:**
-    - 0,5: más **1.40** · menos **2.75**
-    - 1,5: más **2.75** · menos **1.40**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.10**
-- **1X2 descanso:** 1 **3.00**  ·  X **2.05**  ·  2 **3.40**
+- **1X2 descanso:** 1 **2.75**  ·  X **2.20**  ·  2 **3.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.20** · menos **1.62**
     - 2,5: más **5.00** · menos **1.17**
     - 3,5: más **13.00** · menos **1.04**
-- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
-- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **1.80**  ·  2 **1.91**
-- **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **4.50**
-- **Win Both Halves:** 1 **9.00**  ·  2 **11.00**
-- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.50**  ·  Home/No **4.00**  ·  Draw/No **8.50**  ·  Away/No **5.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.20**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **To Win Either Half:** 1 **1.67**  ·  2 **2.00**
+- **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **4.33**
+- **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.00**  ·  Away/Yes **6.00**  ·  Home/No **4.00**  ·  Draw/No **10.00**  ·  Away/No **6.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.50**
 
 ## Estadísticas de equipo
 | | Novara (total) | Novara en casa | Alcione (total) | Alcione fuera |

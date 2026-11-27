@@ -1,7 +1,7 @@
 # Oviedo – Celta de Vigo II
 **Segunda División** · Regular Season - 16 · 30/11/2026 20:30 (hora España) · Estadio Nuevo Carlos Tartiere
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
 _Actualizadas: 26/11 23:04_

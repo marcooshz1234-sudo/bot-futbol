@@ -1,13 +1,13 @@
 # Deportivo La Coruna – Barcelona
-**LaLiga** · Regular Season - 14 · 29/11/2026 16:15 (hora España) · Estadio Municipal de Riazor
+**LaLiga** · Regular Season - 14 · 29/11/2026 16:15 (hora España) · Estadio de Riazor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:03_
+_Actualizadas: 27/11 09:23_
 
 - **1X2:** 1 **11.00**  ·  X **7.50**  ·  2 **1.20**
-- **Doble oportunidad:** 1X **4.00**  ·  12 **1.10**  ·  X2 **1.06**
+- **Doble oportunidad:** 1X **4.33**  ·  12 **1.10**  ·  X2 **1.05**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 1,5: más **1.07** · menos **9.00**
@@ -25,9 +25,9 @@ _Actualizadas: 26/11 23:03_
 - **Goles del local:**
     - 0,5: más **1.50** · menos **2.50**
     - 1,5: más **3.50** · menos **1.28**
-    - 2,5: más **10.00** · menos **1.06**
+    - 2,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
-    - 1,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.17** · menos **5.00**
     - 2,5: más **1.57** · menos **2.25**
     - 3,5: más **2.50** · menos **1.50**
     - 4,5: más **4.33** · menos **1.20**
@@ -48,13 +48,15 @@ _Actualizadas: 26/11 23:03_
 - **To Win Either Half:** 1 **4.00**  ·  2 **1.11**
 - **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **1.53**
 - **Win Both Halves:** 1 **41.00**  ·  2 **2.25**
-- **Results/Both Teams Score:** Home/Yes **13.00**  ·  Draw/Yes **7.50**  ·  Away/Yes **2.10**  ·  Home/No **21.00**  ·  Draw/No **34.00**  ·  Away/No **2.62**
+- **Results/Both Teams Score:** Home/Yes **13.00**  ·  Draw/Yes **7.50**  ·  Away/Yes **2.10**  ·  Home/No **23.00**  ·  Draw/No **34.00**  ·  Away/No **2.62**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **3.75**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **4.75**
 - **Home Corners Over/Under:**
     - 3,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 6,5: más **1.83** · menos **1.83**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **2.00**  ·  Más de 4.5 **1.78**  ·  Menos de 4.5 **2.02**
+- **Total ShotOnGoal:**
+    - 10,5: más **1.83** · menos **1.83**
 - **ShotOnTarget 1x2:** 1 **6.50**  ·  X **11.00**  ·  2 **1.17**
 - **Total Shots:**
     - 26,5: más **1.83** · menos **1.83**
@@ -69,7 +71,7 @@ _Actualizadas: 26/11 23:03_
 - **Player Fouls Committed:** Jose Maria Gimenez - 2 **2.25**  ·  Yeremay Hernandez - 1 **1.62**  ·  Pierre-Emerick Aubameyang - 1 **1.73**  ·  David Mella - 1 **1.91**  ·  Kevin Sanchez - 1 **1.40**  ·  Luismi Cruz - 1 **1.53**  ·  Mario Soriano - 1 **1.73**  ·  Jonathan Asp-Jensen - 1 **1.83**  ·  Joaquin Ximo Navarro - 1 **1.73**  ·  Riki Rodriguez - 1 **1.83**  ·  Diego Villares - 1 **1.50**  ·  Noe Carrillo Collazo - 1 **1.44**  ·  Adria Altimira - 1 **1.50**  ·  Jose Angelino - 1 **1.80**  ·  Zakaria Eddahchouri - 2 **1.83**  ·  Bil Nsongo - 2 **1.67**  ·  Giacomo Quagliata - 2 **2.62**  ·  Teun Gijselhart - 2 **2.25**  ·  Bright Ede - 2 **1.83**  ·  Lucas Noubi - 2 **2.00**  ·  Miguel Loureiro - 2 **2.25**  ·  Lorenzo Amatucci - 3 **2.38**  ·  Anthony Gordon - 1 **1.50**  ·  Pedri - 1 **2.00**  ·  Andreas Christensen - 1 **1.50**  ·  Jules Kounde - 1 **1.73**  ·  Alex Balde - 1 **1.57**  ·  Pau Cubarsi - 1 **1.50**  ·  Lamine Yamal - 2 **2.50**  ·  Karim Adeyemi - 2 **2.00**  ·  Dani Olmo - 2 **2.20**  ·  Fermin Lopez - 2 **2.00**  ·  Brian Farinas - 2 **2.75**  ·  Marc Bernal - 2 **2.38**  ·  Frenkie de Jong - 2 **2.38**  ·  Xavi Espart - 2 **2.00**  ·  Eric Garcia - 2 **2.50**  ·  Martin Gerard - 2 **2.20**  ·  Gavi - 3 **1.91**  ·  Raphinha - 1 **1.80**  ·  Gabriel Jesus - 2 **2.50**  ·  Rodri - 2 **2.00**  ·  Joao Cancelo - 2 **2.10**  ·  Hamza Abdelkarim - 1 **1.80**  ·  Marc Casado - 2 **2.00**  ·  Adama Traore - 2 **1.91**  ·  Alex Campos - 1 **1.50**  ·  Martin Ochoa - 2 **1.67**  ·  Ruben Lopez - 2 **1.67**  ·  Yayo Gonzalez - 2 **2.20**  ·  Ebrima Tunkara - 1 **1.57**  ·  Guillem Victor - 1 **1.57**  ·  Orian Goren - 2 **2.62**
 - **Goalkeeper Saves:** Joan Garcia - 3 **2.20**  ·  Joan Garcia - 4 **2.10**  ·  Joan Garcia - 5 **2.10**  ·  Leo Roman - 4 **1.57**  ·  Leo Roman - 5 **2.25**
 - **Anytime Goal Scorer:** Jonathan Asp-Jensen **5.50**  ·  Rodri **5.00**  ·  Luismi Cruz **6.00**  ·  Miguel Loureiro **17.00**  ·  Riki Rodriguez **9.00**  ·  David Mella **4.75**  ·  Diego Villares **9.00**  ·  Joaquin Ximo Navarro **17.00**  ·  Mario Soriano **5.50**  ·  Yeremay Hernandez **3.75**  ·  Jules Kounde **7.00**  ·  Lamine Yamal **1.83**  ·  Pedri **5.50**  ·  Pau Cubarsi **8.00**  ·  Joao Cancelo **5.50**  ·  Jose Maria Gimenez **21.00**  ·  Raphinha **1.62**  ·  Yayo Gonzalez **9.00**  ·  Ruben Lopez **9.00**  ·  Xavi Espart **5.50**  ·  Gabriel Jesus **1.95**  ·  Lucas Noubi **17.00**  ·  Adama Traore **7.00**  ·  Andreas Christensen **5.50**  ·  Marc Bernal **5.50**  ·  Lorenzo Amatucci **9.00**  ·  Giacomo Quagliata **13.00**  ·  Marc Casado **13.00**  ·  Eric Garcia **5.50**  ·  Teun Gijselhart **9.00**  ·  Adria Altimira **13.00**  ·  Bil Nsongo **3.75**  ·  Dani Olmo **2.60**  ·  Pierre-Emerick Aubameyang **3.20**  ·  Noe Carrillo Collazo **9.00**  ·  Gavi **5.50**  ·  Fermin Lopez **2.40**  ·  Hamza Abdelkarim **2.05**  ·  Oscar Gistau **1.95**  ·  Ebrima Tunkara **2.05**  ·  Brian Farinas **5.50**  ·  Orian Goren **3.75**  ·  Bright Ede **13.00**  ·  Jesse Bisiwu **2.05**  ·  Martin Ochoa **4.33**  ·  Alex Campos **5.50**  ·  Guillem Victor **5.50**  ·  Anthony Gordon **2.05**  ·  Frenkie De Jong **5.50**  ·  Jose Angelino **17.00**  ·  Alex Balde **8.00**  ·  Kevin Sanchez **4.33**  ·  Karim Adeyemi **2.05**  ·  Zakaria Eddahchouri **4.33**  ·  Martin Gerard **8.00**
-- **Player to Score or Assist:** Jonathan Asp-Jensen **3.25**  ·  Rodri **2.75**  ·  Luismi Cruz **3.25**  ·  Miguel Loureiro **6.50**  ·  Riki Rodriguez **5.00**  ·  David Mella **2.75**  ·  Diego Villares **4.75**  ·  Joaquin Ximo Navarro **7.00**  ·  Mario Soriano **3.40**  ·  Yeremay Hernandez **2.60**  ·  Jules Kounde **3.20**  ·  Lamine Yamal **1.30**  ·  Pedri **2.62**  ·  Pau Cubarsi **5.00**  ·  Joao Cancelo **3.00**  ·  Jose Maria Gimenez **11.00**  ·  Raphinha **1.30**  ·  Yayo Gonzalez **5.00**  ·  Ruben Lopez **4.50**  ·  Xavi Espart **3.10**  ·  Gabriel Jesus **1.50**  ·  Lucas Noubi **10.00**  ·  Adama Traore **3.75**  ·  Andreas Christensen **4.33**  ·  Marc Bernal **2.40**  ·  Lorenzo Amatucci **5.00**  ·  Giacomo Quagliata **6.00**  ·  Marc Casado **6.50**  ·  Eric Garcia **3.60**  ·  Teun Gijselhart **5.00**  ·  Adria Altimira **6.00**  ·  Bil Nsongo **2.75**  ·  Dani Olmo **1.67**  ·  Pierre-Emerick Aubameyang **2.40**  ·  Noe Carrillo Collazo **4.33**  ·  Gavi **2.62**  ·  Fermin Lopez **1.57**  ·  Hamza Abdelkarim **1.62**  ·  Oscar Gistau **1.50**  ·  Ebrima Tunkara **1.50**  ·  Brian Farinas **2.75**  ·  Orian Goren **2.10**  ·  Bright Ede **6.50**  ·  Jesse Bisiwu **1.44**  ·  Martin Ochoa **3.00**  ·  Alex Campos **4.33**  ·  Guillem Victor **2.40**  ·  Anthony Gordon **1.40**  ·  Frenkie De Jong **3.00**  ·  Jose Angelino **6.00**  ·  Alex Balde **3.40**  ·  Kevin Sanchez **3.00**  ·  Karim Adeyemi **1.50**  ·  Zakaria Eddahchouri **3.00**  ·  Martin Gerard **3.40**
+- **Player to Score or Assist:** Jonathan Asp-Jensen **3.50**  ·  Rodri **2.75**  ·  Luismi Cruz **3.50**  ·  Miguel Loureiro **6.50**  ·  Riki Rodriguez **5.50**  ·  David Mella **3.00**  ·  Diego Villares **5.50**  ·  Joaquin Ximo Navarro **7.50**  ·  Mario Soriano **3.40**  ·  Yeremay Hernandez **2.75**  ·  Jules Kounde **3.20**  ·  Lamine Yamal **1.30**  ·  Pedri **2.62**  ·  Pau Cubarsi **5.00**  ·  Joao Cancelo **3.00**  ·  Jose Maria Gimenez **11.00**  ·  Raphinha **1.30**  ·  Yayo Gonzalez **5.50**  ·  Ruben Lopez **5.00**  ·  Xavi Espart **3.10**  ·  Gabriel Jesus **1.50**  ·  Lucas Noubi **10.00**  ·  Adama Traore **3.75**  ·  Andreas Christensen **4.33**  ·  Marc Bernal **2.40**  ·  Lorenzo Amatucci **5.50**  ·  Giacomo Quagliata **6.00**  ·  Marc Casado **7.00**  ·  Eric Garcia **3.60**  ·  Teun Gijselhart **5.00**  ·  Adria Altimira **6.00**  ·  Bil Nsongo **2.75**  ·  Dani Olmo **1.67**  ·  Pierre-Emerick Aubameyang **2.40**  ·  Noe Carrillo Collazo **4.75**  ·  Gavi **2.62**  ·  Fermin Lopez **1.57**  ·  Hamza Abdelkarim **1.62**  ·  Oscar Gistau **1.50**  ·  Ebrima Tunkara **1.50**  ·  Brian Farinas **2.75**  ·  Orian Goren **2.00**  ·  Bright Ede **6.50**  ·  Jesse Bisiwu **1.44**  ·  Martin Ochoa **3.00**  ·  Alex Campos **4.33**  ·  Guillem Victor **2.40**  ·  Anthony Gordon **1.40**  ·  Frenkie De Jong **3.00**  ·  Jose Angelino **6.50**  ·  Alex Balde **3.40**  ·  Kevin Sanchez **3.00**  ·  Karim Adeyemi **1.50**  ·  Zakaria Eddahchouri **3.00**  ·  Martin Gerard **3.25**
 
 ## Estadísticas de equipo
 | | Deportivo La Coruna (total) | Deportivo La Coruna en casa | Barcelona (total) | Barcelona fuera |

@@ -1,10 +1,10 @@
 # Blackburn – Charlton
 **Championship** · Regular Season - 18 · 28/11/2026 13:30 (hora España) · Ewood Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 26/11 23:05._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:02_
+_Actualizadas: 27/11 09:22_
 
 - **1X2:** 1 **2.05**  ·  X **3.40**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.30**  ·  X2 **1.73**
@@ -30,7 +30,7 @@ _Actualizadas: 26/11 23:02_
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
-    - 10,5: más **1.80** · menos **2.00**
+    - 10,5: más **1.80** · menos **1.91**
 - **Córners 1X2:** 1 **1.40**  ·  X **9.50**  ·  2 **3.25**
 - **Tarjetas más/menos:**
     - 4,5: más **2.20** · menos **1.62**
@@ -51,7 +51,7 @@ _Actualizadas: 26/11 23:02_
     - 6,5: más **1.91** · menos **1.80**
 - **Away Corners Over/Under:**
     - 4,5: más **2.20** · menos **1.62**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.98**  ·  Menos de 5 **1.82**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.30**  ·  Menos de 5 **2.20**
 - **Home Team Total Cards:**
     - 1,5: más **1.53** · menos **2.38**
 - **Away Team Total Cards:**
