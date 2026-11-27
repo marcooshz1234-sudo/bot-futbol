@@ -1,12 +1,12 @@
 # Pergolettese – Giana Erminio
 **Serie C** · Girone A - 16 · 28/11/2026 17:30 (hora España) · Giuseppe Voltini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 09:23_
+_Actualizadas: 27/11 22:14_
 
-- **1X2:** 1 **2.15**  ·  X **3.10**  ·  2 **3.10**
+- **1X2:** 1 **2.00**  ·  X **3.10**  ·  2 **3.40**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
@@ -19,20 +19,12 @@ _Actualizadas: 27/11 09:23_
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **7.00** · menos **1.08**
-- **Goles del local:**
-    - 0,5: más **1.22** · menos **4.00**
-    - 1,5: más **2.00** · menos **1.73**
-    - 2,5: más **4.33** · menos **1.20**
-    - 3,5: más **8.50** · menos **1.05**
-- **Goles del visitante:**
-    - 0,5: más **1.40** · menos **2.75**
-    - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **7.00** · menos **1.08**
 - **1X2 descanso:** 1 **2.60**  ·  X **2.20**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **5.50** · menos **1.14**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
 - **To Win Either Half:** 1 **1.57**  ·  2 **2.20**

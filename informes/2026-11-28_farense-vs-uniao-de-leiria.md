@@ -1,10 +1,10 @@
 # Farense – União de Leiria
 **Segunda Liga** · Regular Season - 12 · 28/11/2026 16:30 (hora España) · Estádio de São Luís
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 09:22_
+_Actualizadas: 27/11 22:14_
 
 - **1X2:** 1 **2.05**  ·  X **3.10**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.67**
@@ -32,7 +32,6 @@ _Actualizadas: 27/11 09:22_
 - **Córners más/menos:**
     - 9,5: más **1.67** · menos **2.10**
     - 10: más **1.90** · menos **1.90**
-    - 10,5: más **2.10** · menos **1.67**
 - **Córners 1X2:** 1 **1.62**  ·  X **8.50**  ·  2 **2.62**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.25**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**

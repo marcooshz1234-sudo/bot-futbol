@@ -1,12 +1,12 @@
 # Lumezzane – Desenzano Calvina
 **Serie C** · Girone A - 16 · 28/11/2026 17:30 (hora España) · Tullio Saleri
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 09:23_
+_Actualizadas: 27/11 22:14_
 
-- **1X2:** 1 **2.10**  ·  X **3.20**  ·  2 **3.10**
+- **1X2:** 1 **2.05**  ·  X **3.30**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.62**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**

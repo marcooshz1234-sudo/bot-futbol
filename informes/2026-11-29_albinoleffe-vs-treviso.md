@@ -1,12 +1,12 @@
 # Albinoleffe – Treviso
 **Serie C** · Girone A - 16 · 29/11/2026 17:30 (hora España) · AlbinoLeffe
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 09:23_
+_Actualizadas: 27/11 22:15_
 
-- **1X2:** 1 **2.50**  ·  X **3.10**  ·  2 **2.55**
+- **1X2:** 1 **2.62**  ·  X **3.10**  ·  2 **2.40**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.40**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**

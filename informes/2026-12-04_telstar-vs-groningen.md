@@ -1,7 +1,7 @@
 # Telstar – Groningen
 **Eredivisie** · Regular Season - 15 · 04/12/2026 20:00 (hora España) · BUKO Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
 
 ## Cuotas Bet365
 _Actualizadas: 26/11 23:05_
@@ -53,53 +53,53 @@ _Actualizadas: 26/11 23:05_
 ## Estadísticas de equipo
 | | Telstar (total) | Telstar en casa | Groningen (total) | Groningen fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 8 | 14 | 6 |
-| Forma (últimos 5) | DEVDD | DVDDE | DDDDE | DEVED |
-| Balance | 2V 4E 8D | 1V 2E 5D | 4V 3E 7D | 2V 2E 2D |
-| Goles a favor / partido | 1,36 | 1,62 | 2,14 | 2,67 |
-| Goles en contra / partido | 2,14 | 2,75 | 2,36 | 2,33 |
-| Goles a favor 1ª parte | 0,86 | 1,00 | 1,29 | 1,67 |
-| Goles a favor 2ª parte | 0,50 | 0,62 | 0,86 | 1,00 |
+| Partidos analizados | 14 | 8 | 15 | 6 |
+| Forma (últimos 5) | DEVDD | DVDDE | EDDDD | DEVED |
+| Balance | 2V 4E 8D | 1V 2E 5D | 4V 4E 7D | 2V 2E 2D |
+| Goles a favor / partido | 1,36 | 1,62 | 2,07 | 2,67 |
+| Goles en contra / partido | 2,14 | 2,75 | 2,27 | 2,33 |
+| Goles a favor 1ª parte | 0,86 | 1,00 | 1,20 | 1,67 |
+| Goles a favor 2ª parte | 0,50 | 0,62 | 0,87 | 1,00 |
 | Goles en contra 1ª parte | 1,07 | 1,25 | 1,07 | 0,83 |
-| Goles en contra 2ª parte | 1,07 | 1,50 | 1,29 | 1,50 |
+| Goles en contra 2ª parte | 1,07 | 1,50 | 1,20 | 1,50 |
 | Más de 1,5 goles | 79% | 100% | 100% | 100% |
-| Más de 2,5 goles | 71% | 88% | 86% | 83% |
-| Más de 3,5 goles | 64% | 88% | 71% | 83% |
-| Ambos marcan | 64% | 75% | 86% | 100% |
+| Más de 2,5 goles | 71% | 88% | 80% | 83% |
+| Más de 3,5 goles | 64% | 88% | 67% | 83% |
+| Ambos marcan | 64% | 75% | 87% | 100% |
 | Portería a cero | 7% | 0% | 7% | 0% |
 | Se queda sin marcar | 36% | 25% | 7% | 0% |
-| xG a favor | 1,40 | 1,94 | 1,75 | 1,82 |
-| xG en contra | 1,91 | 1,87 | 2,17 | 2,54 |
-| Tiros / partido | 13,1 | 16,5 | 15,0 | 10,0 |
-| Tiros a puerta / partido | 3,8 | 4,2 | 6,1 | 6,2 |
-| Tiros recibidos | 15,1 | 12,1 | 14,3 | 19,2 |
-| Tiros a puerta recibidos | 6,0 | 5,9 | 5,6 | 6,3 |
-| Posesión media % | 48 | 54 | 51 | 43 |
-| Córners a favor | 5,1 | 6,5 | 4,4 | 2,3 |
-| Córners en contra | 5,9 | 5,0 | 5,1 | 7,3 |
+| xG a favor | 1,40 | 1,94 | 1,84 | 1,82 |
+| xG en contra | 1,91 | 1,87 | 2,05 | 2,54 |
+| Tiros / partido | 13,1 | 16,5 | 16,1 | 10,0 |
+| Tiros a puerta / partido | 3,8 | 4,2 | 6,3 | 6,2 |
+| Tiros recibidos | 15,1 | 12,1 | 13,9 | 19,2 |
+| Tiros a puerta recibidos | 6,0 | 5,9 | 5,5 | 6,3 |
+| Posesión media % | 48 | 54 | 52 | 43 |
+| Córners a favor | 5,1 | 6,5 | 4,5 | 2,3 |
+| Córners en contra | 5,9 | 5,0 | 4,9 | 7,3 |
 | Córners a favor 1ª parte | 2,1 | 2,6 | 1,9 | 1,3 |
 | Córners a favor 2ª parte | 2,9 | 3,9 | 2,5 | 1,0 |
-| Córners totales del partido | 11,0 | 11,5 | 9,5 | 9,7 |
+| Córners totales del partido | 11,0 | 11,5 | 9,3 | 9,7 |
 | Córners totales 1ª parte | 4,9 | 5,5 | 3,9 | 4,5 |
-| Córners totales 2ª parte | 6,1 | 6,0 | 5,6 | 5,2 |
-| Más de 8,5 córners | 64% | 75% | 71% | 67% |
-| Más de 9,5 córners | 57% | 62% | 43% | 33% |
-| Más de 10,5 córners | 57% | 62% | 36% | 33% |
-| Faltas cometidas | 10,1 | 9,5 | 10,0 | 10,3 |
-| Faltas recibidas | 13,7 | 13,9 | 11,1 | 9,8 |
-| Amarillas propias | 1,2 | 0,9 | 1,3 | 1,5 |
-| Amarillas del rival | 1,6 | 1,6 | 1,6 | 0,5 |
-| Rojas / partido | 0,07 | 0,12 | 0,14 | 0,33 |
+| Córners totales 2ª parte | 6,1 | 6,0 | 5,4 | 5,2 |
+| Más de 8,5 córners | 64% | 75% | 67% | 67% |
+| Más de 9,5 córners | 57% | 62% | 40% | 33% |
+| Más de 10,5 córners | 57% | 62% | 33% | 33% |
+| Faltas cometidas | 10,1 | 9,5 | 10,1 | 10,3 |
+| Faltas recibidas | 13,7 | 13,9 | 11,3 | 9,8 |
+| Amarillas propias | 1,2 | 0,9 | 1,2 | 1,5 |
+| Amarillas del rival | 1,6 | 1,6 | 1,7 | 0,5 |
+| Rojas / partido | 0,07 | 0,12 | 0,13 | 0,33 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Telstar | Recibe Telstar | Tarjetas Telstar | Goles Groningen | Recibe Groningen | Tarjetas Groningen |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 4 | 0 | 7 | 6 | 2 |
 | 16-30' | 4 | 5 | 4 | 6 | 3 | 3 |
-| 31-45' | 5 | 6 | 3 | 5 | 6 | 3 |
+| 31-45' | 5 | 6 | 3 | 5 | 7 | 3 |
 | 46-60' | 2 | 8 | 3 | 5 | 6 | 3 |
 | 61-75' | 2 | 3 | 3 | 3 | 6 | 2 |
-| 76-90' | 3 | 4 | 5 | 4 | 6 | 8 |
+| 76-90' | 3 | 4 | 5 | 5 | 6 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -149,32 +149,32 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Groningen
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-27 | Eredivisie | Groningen 1-1 Willem II | casa | 6-1 | 31 (9) - 8 (4) | 0-3 |
 | 2026-11-21 | Eredivisie | Groningen 1-3 Heerenveen | casa | 4-4 | 19 (8) - 11 (5) | 1-2 |
 | 2026-11-08 | Eredivisie | AZ Alkmaar 4-3 Groningen | fuera | 0-7 | 9 (5) - 19 (5) | 2-1 |
 | 2026-11-01 | Eredivisie | Groningen 2-3 Sparta Rotterdam | casa | 2-7 | 20 (10) - 8 (4) | 1-3 |
 | 2026-10-29 | KNVB Beker | Groningen 0-2 Emmen | casa | 9-2 | 19 (7) - 3 (2) | 2-4 |
 | 2026-10-25 | Eredivisie | NEC Nijmegen 2-2 Groningen | fuera | 2-11 | 9 (3) - 22 (9) | 3-0 |
-| 2026-10-18 | Eredivisie | Groningen 2-5 Ajax | casa | 7-4 | 16 (5) - 15 (11) | 1-2 |
 
 ## Jugadores de Groningen
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| T. Blokzijl | D | 14 | 1260 | 0 | 1 | 2 | 0,1 | 0 | 0,0 | 9 | 3 | 0,2 | 0 | 0 |
-| T. van Bergen | M | 14 | 1240 | 9 | 3 | 46 | 3,3 | 26 | 1,9 | 13 | 34 | 2,4 | 1 | 0 |
-| P. Clement | M | 14 | 1198 | 0 | 3 | 8 | 0,6 | 3 | 0,2 | 11 | 13 | 0,9 | 1 | 0 |
-| J. Schreuders | D | 14 | 1197 | 1 | 1 | 8 | 0,6 | 5 | 0,4 | 20 | 13 | 0,9 | 1 | 0 |
-| E. Vaessen | G | 13 | 1168 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 2 | 6 | 0,5 | 1 | 1 |
-| T. de Jonge | M | 14 | 1159 | 0 | 0 | 17 | 1,2 | 7 | 0,5 | 10 | 10 | 0,7 | 1 | 0 |
-| B. Willumsson | F | 14 | 1103 | 9 | 1 | 30 | 2,1 | 18 | 1,3 | 18 | 18 | 1,3 | 1 | 0 |
-| D. van der Werff | M | 12 | 976 | 2 | 3 | 17 | 1,4 | 10 | 0,8 | 7 | 7 | 0,6 | 4 | 0 |
-| M. Csinger | D | 13 | 853 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 14 | 6 | 0,5 | 3 | 0 |
-| T. Land | M | 14 | 667 | 2 | 1 | 6 | 0,4 | 2 | 0,1 | 2 | 9 | 0,6 | 1 | 0 |
-| Wouter Prins | D | 12 | 666 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 11 | 6 | 0,5 | 0 | 0 |
+| T. Blokzijl | D | 15 | 1350 | 0 | 1 | 2 | 0,1 | 0 | 0,0 | 11 | 3 | 0,2 | 0 | 0 |
+| T. van Bergen | M | 15 | 1330 | 10 | 3 | 55 | 3,7 | 31 | 2,1 | 14 | 36 | 2,4 | 1 | 0 |
+| P. Clement | M | 15 | 1288 | 0 | 3 | 9 | 0,6 | 3 | 0,2 | 11 | 15 | 1,0 | 1 | 0 |
+| J. Schreuders | M | 15 | 1287 | 1 | 1 | 13 | 0,9 | 6 | 0,4 | 20 | 16 | 1,1 | 1 | 0 |
+| E. Vaessen | G | 14 | 1258 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 2 | 7 | 0,5 | 1 | 1 |
+| T. de Jonge | M | 15 | 1249 | 0 | 0 | 20 | 1,3 | 7 | 0,5 | 12 | 11 | 0,7 | 1 | 0 |
+| B. Willumsson | F | 15 | 1193 | 9 | 1 | 36 | 2,4 | 19 | 1,3 | 21 | 18 | 1,2 | 1 | 0 |
+| D. van der Werff | M | 13 | 1042 | 2 | 3 | 20 | 1,5 | 12 | 0,9 | 7 | 7 | 0,5 | 4 | 0 |
+| M. Csinger | D | 14 | 933 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 16 | 9 | 0,6 | 3 | 0 |
+| Wouter Prins | D | 13 | 732 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 12 | 8 | 0,6 | 0 | 0 |
+| T. Land | M | 15 | 691 | 2 | 1 | 6 | 0,4 | 2 | 0,1 | 2 | 10 | 0,7 | 1 | 0 |
+| J. Ondrejka | F | 13 | 627 | 2 | 1 | 15 | 1,2 | 8 | 0,6 | 2 | 14 | 1,1 | 1 | 0 |
 | M. Rente | D | 10 | 610 | 2 | 1 | 4 | 0,4 | 2 | 0,2 | 2 | 1 | 0,1 | 1 | 0 |
-| J. Ondrejka | M | 12 | 603 | 2 | 1 | 13 | 1,1 | 8 | 0,7 | 2 | 14 | 1,2 | 1 | 0 |
-| H. Hateboer | D | 7 | 511 | 0 | 1 | 5 | 0,7 | 1 | 0,1 | 11 | 2 | 0,3 | 1 | 1 |
+| H. Hateboer | D | 8 | 601 | 0 | 1 | 7 | 0,9 | 1 | 0,1 | 11 | 2 | 0,2 | 1 | 1 |
 | Elvis Van der Laan | D | 4 | 172 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 1,0 | 0 | 0 |
-| O. Zawada | F | 7 | 116 | 0 | 0 | 4 | 0,6 | 1 | 0,1 | 2 | 0 | 0,0 | 0 | 0 |
+| O. Zawada | F | 8 | 126 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 2 | 0 | 0,0 | 0 | 0 |
 | L. Štubljar | G | 2 | 91 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Nils Eggens | F | 10 | 82 | 1 | 0 | 5 | 0,5 | 2 | 0,2 | 0 | 0 | 0,0 | 0 | 0 |
 | Travis Hernes | M | 7 | 58 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,3 | 1 | 0 |

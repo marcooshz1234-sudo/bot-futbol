@@ -1,10 +1,10 @@
 # Felgueiras 1932 – FC Porto B
 **Segunda Liga** · Regular Season - 12 · 29/11/2026 15:00 (hora España) · Estadio Dr. Machado de Matos
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 09:23_
+_Actualizadas: 27/11 22:15_
 
 - **1X2:** 1 **1.90**  ·  X **3.20**  ·  2 **3.75**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.33**  ·  X2 **1.80**
@@ -29,7 +29,7 @@ _Actualizadas: 27/11 09:23_
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **1.80** · menos **1.91**
+    - 9,5: más **1.82** · menos **1.98**
 - **Córners 1X2:** 1 **1.40**  ·  X **9.00**  ·  2 **3.50**
 - **1X2 descanso:** 1 **2.60**  ·  X **2.10**  ·  2 **4.75**
 - **Goals Over/Under - Second Half:**
@@ -47,7 +47,7 @@ _Actualizadas: 27/11 09:23_
     - 5,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 3,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.95**  ·  Menos de 4.5 **1.85**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**
 
 ## Estadísticas de equipo
 | | Felgueiras 1932 (total) | Felgueiras 1932 en casa | FC Porto B (total) | FC Porto B fuera |

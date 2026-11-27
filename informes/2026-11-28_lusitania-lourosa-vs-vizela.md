@@ -1,10 +1,10 @@
 # Lusitânia Lourosa – Vizela
 **Segunda Liga** · Regular Season - 12 · 28/11/2026 19:00 (hora España) · Estadio Do Lusitania
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 09:23_
+_Actualizadas: 27/11 22:14_
 
 - **1X2:** 1 **2.05**  ·  X **3.10**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.67**
@@ -31,7 +31,7 @@ _Actualizadas: 27/11 09:23_
 - **Córners más/menos:**
     - 9: más **1.90** · menos **1.90**
     - 9,5: más **2.10** · menos **1.67**
-- **Córners 1X2:** 1 **1.62**  ·  X **8.00**  ·  2 **2.62**
+- **Córners 1X2:** 1 **1.73**  ·  X **8.00**  ·  2 **2.50**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.10**  ·  2 **4.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
@@ -45,10 +45,10 @@ _Actualizadas: 27/11 09:23_
 - **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.50**  ·  Away/Yes **7.00**  ·  Home/No **3.50**  ·  Draw/No **9.00**  ·  Away/No **5.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.20**
 - **Home Corners Over/Under:**
-    - 4,5: más **1.67** · menos **2.10**
+    - 4,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
-    - 3,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.20**  ·  Menos de 4 **2.38**
+    - 3,5: más **1.67** · menos **2.10**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.80**  ·  Menos de 4 **2.00**
 
 ## Estadísticas de equipo
 | | Lusitânia Lourosa (total) | Lusitânia Lourosa en casa | Vizela (total) | Vizela fuera |

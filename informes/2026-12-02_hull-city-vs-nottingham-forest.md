@@ -1,7 +1,7 @@
 # Hull City – Nottingham Forest
 **Premier League** · Regular Season - 13 · 02/12/2026 20:30 (hora España) · MKM Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
 
 ## Cuotas Bet365
 _Actualizadas: 26/11 23:04_

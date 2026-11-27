@@ -14188,10 +14188,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.023,
+  "valor_mercado": -0.017,
   "movimiento": null,
   "ventaja": 0.222,
-  "prob_aprendida": 0.663,
+  "prob_aprendida": 0.613,
   "acierto": null
  },
  "1557482|Goals Over/Under - Second Half|Over 1.5": {
@@ -14226,16 +14226,16 @@
   "opcion": "Santiago Castaneda - 1",
   "tipo": "jugador",
   "texto": "Santiago Castaneda: 1+ tiros",
-  "cuota": 1.36,
+  "cuota": 1.4,
   "frecuencia": 1.0,
   "jugador_id": 363156,
   "jugador": "Santiago Castaneda",
   "campo": "tiros",
   "n": 1,
   "valor_mercado": null,
-  "movimiento": -0.111,
-  "ventaja": 0.265,
-  "prob_aprendida": 0.558,
+  "movimiento": -0.085,
+  "ventaja": 0.286,
+  "prob_aprendida": 0.565,
   "acierto": null
  },
  "1557482|Match Winner|Away": {
@@ -14482,7 +14482,7 @@
   "valor_mercado": 0.013,
   "movimiento": -0.092,
   "ventaja": 0.113,
-  "prob_aprendida": 0.675,
+  "prob_aprendida": 0.661,
   "acierto": null
  },
  "1552234|Double Chance|Home/Draw": {
@@ -14774,7 +14774,7 @@
   "valor_mercado": 0.0,
   "movimiento": -0.027,
   "ventaja": 0.094,
-  "prob_aprendida": 0.669,
+  "prob_aprendida": 0.654,
   "acierto": null
  },
  "1552239|Away Player Shots|Daouda Weidmann - 2": {
@@ -14796,7 +14796,7 @@
   "valor_mercado": null,
   "movimiento": -0.071,
   "ventaja": 0.131,
-  "prob_aprendida": 0.633,
+  "prob_aprendida": 0.631,
   "acierto": null
  },
  "1635692|Offsides Home Total|Over 0.5": {
@@ -14886,7 +14886,7 @@
   "valor_mercado": 0.0,
   "movimiento": -0.122,
   "ventaja": 0.135,
-  "prob_aprendida": 0.657,
+  "prob_aprendida": 0.641,
   "acierto": null
  },
  "1575231|Total Corners (1st Half)|Over 4.5": {
@@ -14930,7 +14930,7 @@
   "valor_mercado": 0.042,
   "movimiento": -0.039,
   "ventaja": 0.222,
-  "prob_aprendida": 0.409,
+  "prob_aprendida": 0.411,
   "acierto": null
  },
  "1570465|Total - Home|Over 0.5": {
@@ -15015,10 +15015,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.017,
+  "valor_mercado": -0.011,
   "movimiento": -0.039,
   "ventaja": 0.022,
-  "prob_aprendida": 0.64,
+  "prob_aprendida": 0.626,
   "acierto": null
  },
  "1636252|Away Player Shots|Orri Steinn Oskarsson - 2": {
@@ -15130,7 +15130,7 @@
   "valor_mercado": 0.015,
   "movimiento": 0.023,
   "ventaja": 0.148,
-  "prob_aprendida": 0.798,
+  "prob_aprendida": 0.786,
   "acierto": null
  },
  "1570038|Goals Over/Under - Second Half|Over 1.5": {
@@ -15152,7 +15152,7 @@
   "valor_mercado": 0.018,
   "movimiento": null,
   "ventaja": 0.172,
-  "prob_aprendida": 0.603,
+  "prob_aprendida": 0.6,
   "acierto": null
  },
  "1570045|Both Teams Score|Yes": {
@@ -15174,7 +15174,7 @@
   "valor_mercado": 0.053,
   "movimiento": 0.04,
   "ventaja": 0.244,
-  "prob_aprendida": 0.579,
+  "prob_aprendida": 0.577,
   "acierto": null
  },
  "1552836|Away Player Shots|Sebastian Szymanski - 1": {
@@ -15196,7 +15196,7 @@
   "valor_mercado": null,
   "movimiento": 0.188,
   "ventaja": 0.148,
-  "prob_aprendida": 0.618,
+  "prob_aprendida": 0.619,
   "acierto": null
  },
  "1570045|Corners Over Under|Over 9.5": {
@@ -15215,10 +15215,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.011,
+  "valor_mercado": 0.006,
   "movimiento": null,
   "ventaja": 0.211,
-  "prob_aprendida": 0.49,
+  "prob_aprendida": 0.486,
   "acierto": null
  },
  "1575548|Corners 1x2|Away": {
@@ -15240,7 +15240,7 @@
   "valor_mercado": 0.008,
   "movimiento": null,
   "ventaja": 0.101,
-  "prob_aprendida": 0.497,
+  "prob_aprendida": 0.495,
   "acierto": null
  },
  "1563285|Double Chance|Home/Draw": {
@@ -15309,7 +15309,8 @@
   "movimiento": 0.0,
   "ventaja": 0.124,
   "prob_aprendida": 0.701,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-1"
  },
  "1557485|Home Team Total Cards|Over 1.5": {
   "partido_id": 1557485,
@@ -15374,7 +15375,7 @@
   "valor_mercado": -0.011,
   "movimiento": null,
   "ventaja": 0.194,
-  "prob_aprendida": 0.623,
+  "prob_aprendida": 0.614,
   "acierto": null
  },
  "1563298|Away Team Total Cards|Over 1.5": {
@@ -15396,7 +15397,7 @@
   "valor_mercado": -0.056,
   "movimiento": null,
   "ventaja": 0.146,
-  "prob_aprendida": 0.552,
+  "prob_aprendida": 0.549,
   "acierto": null
  },
  "1565316|Double Chance|Home/Draw": {
@@ -15419,7 +15420,8 @@
   "movimiento": null,
   "ventaja": 0.148,
   "prob_aprendida": 0.758,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-1"
  },
  "1557484|Double Chance|Draw/Away": {
   "partido_id": 1557484,
@@ -15462,7 +15464,7 @@
   "valor_mercado": null,
   "movimiento": 0.123,
   "ventaja": 0.094,
-  "prob_aprendida": 0.628,
+  "prob_aprendida": 0.629,
   "acierto": null
  },
  "1563291|Away Player Shots|Largie Ramazani - 2": {
@@ -15475,16 +15477,16 @@
   "opcion": "Largie Ramazani - 2",
   "tipo": "jugador",
   "texto": "Largie Ramazani: 2+ tiros",
-  "cuota": 1.53,
+  "cuota": 1.4,
   "frecuencia": 0.9,
   "jugador_id": 138776,
   "jugador": "Largie Ramazani",
   "campo": "tiros",
   "n": 2,
   "valor_mercado": null,
-  "movimiento": 0.093,
-  "ventaja": 0.246,
-  "prob_aprendida": 0.553,
+  "movimiento": 0.0,
+  "ventaja": 0.186,
+  "prob_aprendida": 0.549,
   "acierto": null
  },
  "1565313|Away Corners Over/Under|Over 1.5": {
@@ -15569,7 +15571,7 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.018,
+  "valor_mercado": -0.012,
   "movimiento": 0.031,
   "ventaja": 0.151,
   "prob_aprendida": 0.602,
@@ -15635,10 +15637,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.092,
+  "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.113,
-  "prob_aprendida": 0.47,
+  "prob_aprendida": 0.42,
   "acierto": null
  },
  "1550208|Total - Home|Over 0.5": {
@@ -15657,10 +15659,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.0,
+  "valor_mercado": -0.013,
   "movimiento": 0.02,
   "ventaja": 0.096,
-  "prob_aprendida": 0.674,
+  "prob_aprendida": 0.67,
   "acierto": null
  },
  "1552844|Away Player Shots|Fabian Ruiz - 1": {
@@ -15682,7 +15684,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.1,
-  "prob_aprendida": 0.628,
+  "prob_aprendida": 0.63,
   "acierto": null
  },
  "1608388|Total - Home|Over 0.5": {
@@ -15726,7 +15728,139 @@
   "valor_mercado": 0.083,
   "movimiento": null,
   "ventaja": 0.113,
-  "prob_aprendida": 0.574,
+  "prob_aprendida": 0.569,
+  "acierto": null
+ },
+ "1575235|Goals Over/Under - Second Half|Over 1.5": {
+  "partido_id": 1575235,
+  "fecha": "2026-11-28T15:30",
+  "competicion": "Bundesliga",
+  "local": "Hamburger SV",
+  "visitante": "Bayern München",
+  "mercado": "Goals Over/Under - Second Half",
+  "opcion": "Over 1.5",
+  "tipo": "goles",
+  "texto": "Más de 1,5 goles en la 2ª parte del Hamburger SV–Bayern München",
+  "cuota": 1.53,
+  "frecuencia": 0.85,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": -0.025,
+  "movimiento": 0.125,
+  "ventaja": 0.196,
+  "prob_aprendida": 0.659,
+  "acierto": null
+ },
+ "1552829|Match Winner|Away": {
+  "partido_id": 1552829,
+  "fecha": "2026-11-29T15:00",
+  "competicion": "Ligue 1",
+  "local": "Auxerre",
+  "visitante": "Marseille",
+  "mercado": "Match Winner",
+  "opcion": "Away",
+  "tipo": "resultado",
+  "texto": "Gana el Marseille",
+  "cuota": 1.95,
+  "frecuencia": 0.65,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.0,
+  "movimiento": 0.066,
+  "ventaja": 0.137,
+  "prob_aprendida": 0.514,
+  "acierto": null
+ },
+ "1552251|Total - Home|Over 0.5": {
+  "partido_id": 1552251,
+  "fecha": "2026-12-05T16:30",
+  "competicion": "Eredivisie",
+  "local": "Willem II",
+  "visitante": "Feyenoord",
+  "mercado": "Total - Home",
+  "opcion": "Over 0.5",
+  "tipo": "goles",
+  "texto": "Willem II marca",
+  "cuota": 1.73,
+  "frecuencia": 0.85,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.048,
+  "movimiento": null,
+  "ventaja": 0.272,
+  "prob_aprendida": 0.633,
+  "acierto": null
+ },
+ "1575240|Match Winner|Home": {
+  "partido_id": 1575240,
+  "fecha": "2026-12-05T15:30",
+  "competicion": "Bundesliga",
+  "local": "RB Leipzig",
+  "visitante": "FSV Mainz 05",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "tipo": "resultado",
+  "texto": "Gana el RB Leipzig",
+  "cuota": 1.57,
+  "frecuencia": 0.7,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.0,
+  "movimiento": null,
+  "ventaja": 0.063,
+  "prob_aprendida": 0.66,
+  "acierto": null
+ },
+ "1575244|Home Player Shots|Anton Kade - 2": {
+  "partido_id": 1575244,
+  "fecha": "2026-12-05T15:30",
+  "competicion": "Bundesliga",
+  "local": "FC Augsburg",
+  "visitante": "1. FC Köln",
+  "mercado": "Home Player Shots",
+  "opcion": "Anton Kade - 2",
+  "tipo": "jugador",
+  "texto": "Anton Kade: 2+ tiros",
+  "cuota": 1.28,
+  "frecuencia": 1.0,
+  "jugador_id": 279993,
+  "jugador": "Anton Kade",
+  "campo": "tiros",
+  "n": 2,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.219,
+  "prob_aprendida": 0.632,
+  "acierto": null
+ },
+ "1575243|Home Player Shots|Fares Chaibi - 2": {
+  "partido_id": 1575243,
+  "fecha": "2026-12-05T18:30",
+  "competicion": "Bundesliga",
+  "local": "Eintracht Frankfurt",
+  "visitante": "Werder Bremen",
+  "mercado": "Home Player Shots",
+  "opcion": "Fares Chaibi - 2",
+  "tipo": "jugador",
+  "texto": "Fares Chaibi: 2+ tiros",
+  "cuota": 1.4,
+  "frecuencia": 0.857,
+  "jugador_id": 276670,
+  "jugador": "Fares Chaibi",
+  "campo": "tiros",
+  "n": 2,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.143,
+  "prob_aprendida": 0.547,
   "acierto": null
  }
 }

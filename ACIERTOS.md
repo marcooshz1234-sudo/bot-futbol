@@ -1,6 +1,6 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 640 · aciertos: 399 (62%) · beneficio a 1 € por pick: -66.14 €
+Picks ya jugados: 642 · aciertos: 399 (62%) · beneficio a 1 € por pick: -68.14 €
 
 ## Por tipo
 
@@ -8,7 +8,7 @@ Picks ya jugados: 640 · aciertos: 399 (62%) · beneficio a 1 € por pick: -66.
 |---|---|---|---|---|
 | goles | 154 | 237 | 65% | -20.10 € |
 | jugador | 134 | 208 | 64% | -22.63 € |
-| resultado | 82 | 128 | 64% | -3.71 € |
+| resultado | 82 | 130 | 63% | -5.71 € |
 | tarjetas | 16 | 27 | 59% | -1.68 € |
 | tiros | 6 | 12 | 50% | -1.47 € |
 | corners | 7 | 22 | 32% | -10.55 € |
@@ -23,14 +23,14 @@ Picks ya jugados: 640 · aciertos: 399 (62%) · beneficio a 1 € por pick: -66.
 | Player Fouls Committed · James Hill - 1 | 3 | 3 | 100% |
 | To Win Either Half · Home | 10 | 12 | 83% |
 | Goals Over/Under · Over 1.5 | 33 | 42 | 79% |
-| Double Chance · Home/Draw | 13 | 17 | 76% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
 | Goals Over/Under - Second Half · Over 1.5 | 9 | 12 | 75% |
 | Home Team Total Cards · Over 1.5 | 11 | 15 | 73% |
+| Double Chance · Home/Draw | 13 | 18 | 72% |
 | Match Winner · Away | 10 | 14 | 71% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
-| Match Winner · Home | 14 | 20 | 70% |
 | Goals Over/Under First Half · Over 0.5 | 31 | 45 | 69% |
+| Match Winner · Home | 14 | 21 | 67% |
 | Away Player Shots · Nicolo Barella - 1 | 2 | 3 | 67% |
 | Player Fouls Committed · Radu Dragusin - 1 | 2 | 3 | 67% |
 | Player Fouls Committed · Evanilson - 1 | 2 | 3 | 67% |
@@ -52,6 +52,10 @@ Picks ya jugados: 640 · aciertos: 399 (62%) · beneficio a 1 € por pick: -66.
 | Home Team Total Cards · Over 0.5 | 1 | 4 | 25% |
 
 ## Últimos días
+
+### 2026-11-27 · 0/2
+- ❌ Gana el Petrolul Ploiesti · 2.10 (0-1)
+- ❌ Petrolul Ploiesti o empate · 1.33 (0-1)
 
 ### 2026-11-26 · 3/6
 - ❌ Gana el Brann · 2.10 (1-4)
@@ -121,10 +125,4 @@ Picks ya jugados: 640 · aciertos: 399 (62%) · beneficio a 1 € por pick: -66.
 - ✅ Ambos marcan en Monaco–Auxerre · 1.80 (1-1)
 - ✅ Thom van Bergen: 1+ tiros a puerta · 1.25 (1-3)
 - ❌ Tenerife marca · 1.50 (0-0)
-
-### 2026-11-20 · 3/4
-- ✅ Kolding IF o empate · 1.50 (1-1)
-- ❌ 1. FC Köln hace más de 2,5 córners · 1.73 (1-1)
-- ✅ Ambos marcan en Bayern München–1. FC Köln · 1.75 (1-1)
-- ✅ 1. FC Köln marca · 1.73 (1-1)
 

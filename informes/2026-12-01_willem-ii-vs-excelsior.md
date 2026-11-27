@@ -1,7 +1,7 @@
 # Willem II – Excelsior
 **KNVB Beker** · Round of 32 · 01/12/2026 20:00 (hora España) · Koning Willem II Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Willem II (total) | Willem II en casa | Excelsior (total) | Excelsior fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 6 | 14 | 8 |
-| Forma (últimos 5) | DEDVD | EDDDE | VDDVD | VVDDE |
-| Balance | 1V 3E 10D | 0V 2E 4D | 5V 2E 7D | 4V 2E 2D |
-| Goles a favor / partido | 1,14 | 0,83 | 1,57 | 2,12 |
-| Goles en contra / partido | 3,21 | 2,83 | 2,21 | 1,38 |
-| Goles a favor 1ª parte | 0,43 | 0,17 | 0,86 | 1,25 |
-| Goles a favor 2ª parte | 0,71 | 0,67 | 0,71 | 0,88 |
-| Goles en contra 1ª parte | 1,07 | 1,17 | 0,93 | 0,50 |
-| Goles en contra 2ª parte | 2,14 | 1,67 | 1,29 | 0,88 |
+| Partidos analizados | 15 | 6 | 14 | 8 |
+| Forma (últimos 5) | EDEDV | EDDDE | VDDVD | VVDDE |
+| Balance | 1V 4E 10D | 0V 2E 4D | 5V 2E 7D | 4V 2E 2D |
+| Goles a favor / partido | 1,13 | 0,83 | 1,57 | 2,12 |
+| Goles en contra / partido | 3,07 | 2,83 | 2,21 | 1,38 |
+| Goles a favor 1ª parte | 0,47 | 0,17 | 0,86 | 1,25 |
+| Goles a favor 2ª parte | 0,67 | 0,67 | 0,71 | 0,88 |
+| Goles en contra 1ª parte | 1,00 | 1,17 | 0,93 | 0,50 |
+| Goles en contra 2ª parte | 2,07 | 1,67 | 1,29 | 0,88 |
 | Más de 1,5 goles | 93% | 83% | 86% | 88% |
-| Más de 2,5 goles | 79% | 67% | 86% | 88% |
-| Más de 3,5 goles | 64% | 50% | 50% | 62% |
-| Ambos marcan | 79% | 67% | 50% | 38% |
+| Más de 2,5 goles | 73% | 67% | 86% | 88% |
+| Más de 3,5 goles | 60% | 50% | 50% | 62% |
+| Ambos marcan | 80% | 67% | 50% | 38% |
 | Portería a cero | 0% | 0% | 21% | 38% |
-| Se queda sin marcar | 21% | 33% | 29% | 25% |
-| xG a favor | 1,12 | 1,14 | 1,20 | 1,51 |
-| xG en contra | 2,23 | 1,67 | 1,90 | 1,48 |
-| Tiros / partido | 10,6 | 12,8 | 9,9 | 9,9 |
-| Tiros a puerta / partido | 2,7 | 3,2 | 3,6 | 4,5 |
-| Tiros recibidos | 20,4 | 16,2 | 15,3 | 15,5 |
-| Tiros a puerta recibidos | 7,1 | 6,0 | 5,6 | 4,5 |
-| Posesión media % | 41 | 45 | 41 | 40 |
-| Córners a favor | 3,7 | 6,2 | 3,6 | 3,5 |
-| Córners en contra | 6,4 | 4,8 | 5,4 | 6,0 |
+| Se queda sin marcar | 20% | 33% | 29% | 25% |
+| xG a favor | 1,08 | 1,14 | 1,20 | 1,51 |
+| xG en contra | 2,28 | 1,67 | 1,90 | 1,48 |
+| Tiros / partido | 10,5 | 12,8 | 9,9 | 9,9 |
+| Tiros a puerta / partido | 2,8 | 3,2 | 3,6 | 4,5 |
+| Tiros recibidos | 21,1 | 16,2 | 15,3 | 15,5 |
+| Tiros a puerta recibidos | 7,3 | 6,0 | 5,6 | 4,5 |
+| Posesión media % | 40 | 45 | 41 | 40 |
+| Córners a favor | 3,5 | 6,2 | 3,6 | 3,5 |
+| Córners en contra | 6,3 | 4,8 | 5,4 | 6,0 |
 | Córners a favor 1ª parte | 1,4 | 2,0 | 1,4 | 1,4 |
-| Córners a favor 2ª parte | 2,3 | 4,2 | 2,1 | 2,1 |
-| Córners totales del partido | 10,1 | 11,0 | 8,9 | 9,5 |
+| Córners a favor 2ª parte | 2,1 | 4,2 | 2,1 | 2,1 |
+| Córners totales del partido | 9,9 | 11,0 | 8,9 | 9,5 |
 | Córners totales 1ª parte | 4,3 | 4,7 | 3,8 | 3,4 |
-| Córners totales 2ª parte | 5,8 | 6,3 | 5,1 | 6,1 |
-| Más de 8,5 córners | 57% | 67% | 50% | 62% |
-| Más de 9,5 córners | 50% | 50% | 36% | 50% |
-| Más de 10,5 córners | 43% | 50% | 29% | 50% |
-| Faltas cometidas | 10,4 | 10,7 | 11,4 | 13,2 |
-| Faltas recibidas | 9,1 | 10,2 | 7,4 | 7,8 |
-| Amarillas propias | 1,4 | 1,5 | 1,2 | 1,2 |
+| Córners totales 2ª parte | 5,6 | 6,3 | 5,1 | 6,1 |
+| Más de 8,5 córners | 53% | 67% | 50% | 62% |
+| Más de 9,5 córners | 47% | 50% | 36% | 50% |
+| Más de 10,5 córners | 40% | 50% | 29% | 50% |
+| Faltas cometidas | 10,7 | 10,7 | 11,4 | 13,2 |
+| Faltas recibidas | 9,3 | 10,2 | 7,4 | 7,8 |
+| Amarillas propias | 1,5 | 1,5 | 1,2 | 1,2 |
 | Amarillas del rival | 0,9 | 0,3 | 0,9 | 0,9 |
-| Rojas / partido | 0,14 | 0,00 | 0,07 | 0,00 |
+| Rojas / partido | 0,13 | 0,00 | 0,07 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Willem II | Recibe Willem II | Tarjetas Willem II | Goles Excelsior | Recibe Excelsior | Tarjetas Excelsior |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 5 | 0 | 3 | 6 | 1 |
 | 16-30' | 2 | 3 | 3 | 2 | 0 | 1 |
-| 31-45' | 2 | 7 | 5 | 7 | 7 | 4 |
-| 46-60' | 3 | 8 | 2 | 3 | 4 | 1 |
-| 61-75' | 2 | 12 | 8 | 3 | 7 | 3 |
-| 76-90' | 5 | 10 | 4 | 4 | 7 | 8 |
+| 31-45' | 3 | 7 | 5 | 7 | 7 | 4 |
+| 46-60' | 3 | 8 | 3 | 3 | 4 | 1 |
+| 61-75' | 2 | 12 | 9 | 3 | 7 | 3 |
+| 76-90' | 5 | 11 | 5 | 4 | 7 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -73,31 +73,31 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Willem II
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-27 | Eredivisie | Groningen 1-1 Willem II | fuera | 1-6 | 8 (4) - 31 (9) | 3-0 |
 | 2026-11-22 | Eredivisie | Twente 2-1 Willem II | fuera | 0-6 | 2 (1) - 29 (9) | 0-1 |
 | 2026-11-06 | Eredivisie | Willem II 1-1 PEC Zwolle | casa | 2-7 | 13 (5) - 14 (2) | 1-0 |
 | 2026-10-31 | Eredivisie | PSV Eindhoven 7-0 Willem II | fuera | 1-11 | 4 (1) - 20 (9) | 2-0 |
 | 2026-10-27 | KNVB Beker | Helmond Sport 3-4 Willem II | fuera | 1-2 | 13 (4) - 18 (5) | 2-2 |
 | 2026-10-24 | Eredivisie | Willem II 1-6 Cambuur | casa | 13-4 | 11 (2) - 19 (11) | 2-0 |
-| 2026-10-17 | Eredivisie | Sparta Rotterdam 3-2 Willem II | fuera | 4-3 | 13 (4) - 22 (8) | 4-4 |
 
 ## Jugadores de Willem II
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| D. Haen | F | 14 | 1222 | 5 | 2 | 28 | 2,0 | 9 | 0,6 | 13 | 7 | 0,5 | 0 | 0 |
-| F. Stam | D | 14 | 1205 | 0 | 1 | 2 | 0,1 | 0 | 0,0 | 9 | 10 | 0,7 | 2 | 0 |
+| D. Haen | F | 15 | 1312 | 5 | 2 | 30 | 2,0 | 9 | 0,6 | 16 | 9 | 0,6 | 1 | 0 |
+| F. Stam | D | 15 | 1256 | 0 | 1 | 2 | 0,1 | 0 | 0,0 | 10 | 11 | 0,7 | 2 | 0 |
 | N. Tjoe-A-On | D | 14 | 1158 | 0 | 2 | 9 | 0,6 | 2 | 0,1 | 13 | 7 | 0,5 | 2 | 1 |
 | Uriel van Aalst | M | 13 | 1113 | 2 | 2 | 16 | 1,2 | 5 | 0,4 | 7 | 8 | 0,6 | 1 | 0 |
-| H. ter Avest | D | 13 | 1012 | 1 | 3 | 9 | 0,7 | 3 | 0,2 | 11 | 7 | 0,5 | 1 | 0 |
-| C. Twigt | M | 11 | 963 | 0 | 1 | 5 | 0,5 | 0 | 0,0 | 8 | 14 | 1,3 | 0 | 0 |
-| M. Delanghe | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| J. Slory | F | 12 | 835 | 1 | 0 | 15 | 1,2 | 8 | 0,7 | 9 | 15 | 1,2 | 2 | 1 |
-| M. Dekker | D | 10 | 801 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 6 | 2 | 0,2 | 1 | 0 |
-| T. Vilhena | M | 11 | 597 | 2 | 0 | 9 | 0,8 | 2 | 0,2 | 9 | 14 | 1,3 | 1 | 0 |
-| V. van Crooij | M | 8 | 540 | 0 | 2 | 5 | 0,6 | 1 | 0,1 | 8 | 9 | 1,1 | 3 | 0 |
-| K. Boogaard | M | 8 | 496 | 0 | 0 | 4 | 0,5 | 0 | 0,0 | 10 | 2 | 0,2 | 1 | 0 |
-| M. Lemmens | D | 13 | 495 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 0 | 0,0 | 1 | 0 |
-| E. Gürbüz | F | 10 | 457 | 2 | 1 | 10 | 1,0 | 2 | 0,2 | 7 | 7 | 0,7 | 1 | 0 |
-| Per van Loon | M | 9 | 375 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 4 | 2 | 0,2 | 0 | 0 |
+| H. ter Avest | D | 14 | 1102 | 1 | 3 | 9 | 0,6 | 3 | 0,2 | 13 | 9 | 0,6 | 1 | 0 |
+| C. Twigt | M | 12 | 1053 | 1 | 1 | 6 | 0,5 | 1 | 0,1 | 9 | 14 | 1,2 | 0 | 0 |
+| M. Delanghe | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| M. Dekker | D | 11 | 891 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 6 | 3 | 0,3 | 1 | 0 |
+| J. Slory | F | 13 | 854 | 1 | 0 | 15 | 1,2 | 8 | 0,6 | 9 | 15 | 1,2 | 2 | 1 |
+| T. Vilhena | M | 12 | 687 | 2 | 0 | 10 | 0,8 | 2 | 0,2 | 10 | 17 | 1,4 | 1 | 0 |
+| V. van Crooij | M | 9 | 611 | 0 | 2 | 5 | 0,6 | 1 | 0,1 | 9 | 9 | 1,0 | 3 | 0 |
+| K. Boogaard | D | 9 | 586 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 12 | 4 | 0,4 | 2 | 0 |
+| M. Lemmens | D | 14 | 585 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 8 | 0 | 0,0 | 1 | 0 |
+| E. Gürbüz | M | 11 | 528 | 2 | 1 | 12 | 1,1 | 3 | 0,3 | 9 | 7 | 0,6 | 1 | 0 |
+| Per van Loon | M | 10 | 414 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 5 | 2 | 0,2 | 1 | 0 |
 | Anass Zarrouk | M | 7 | 326 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 6 | 3 | 0,4 | 0 | 0 |
 | A. Ciranni | D | 7 | 252 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 3 | 2 | 0,3 | 0 | 0 |
 | Justin Hoogma | D | 3 | 225 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,3 | 0 | 0 |

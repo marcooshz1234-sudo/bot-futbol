@@ -1,10 +1,10 @@
 # Penafiel – Benfica B
 **Segunda Liga** · Regular Season - 12 · 29/11/2026 12:00 (hora España) · Estadio Municipal 25 de Abril
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 09:23_
+_Actualizadas: 27/11 22:14_
 
 - **1X2:** 1 **1.90**  ·  X **3.25**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.30**  ·  X2 **1.80**

@@ -1,12 +1,12 @@
 # FC Voluntari – CFR 1907 Cluj
 **Liga I** · Regular Season - 17 · 28/11/2026 13:30 (hora España) · Stadionul Anghel Iordanescu
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 09:22_
+_Actualizadas: 27/11 22:13_
 
-- **1X2:** 1 **2.35**  ·  X **3.30**  ·  2 **2.60**
+- **1X2:** 1 **2.40**  ·  X **3.30**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.30**  ·  X2 **1.53**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
@@ -30,7 +30,7 @@ _Actualizadas: 27/11 09:22_
     - 2,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
     - 9: más **1.85** · menos **1.95**
-    - 9,5: más **2.10** · menos **1.67**
+    - 9,5: más **1.91** · menos **1.80**
 - **Córners 1X2:** 1 **1.80**  ·  X **8.00**  ·  2 **2.38**
 - **1X2 descanso:** 1 **3.10**  ·  X **2.20**  ·  2 **3.25**
 - **Goals Over/Under - Second Half:**
@@ -40,16 +40,16 @@ _Actualizadas: 27/11 09:22_
     - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **1.73**  ·  2 **1.83**
-- **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **3.75**
+- **To Win Either Half:** 1 **1.80**  ·  2 **1.83**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **3.75**
 - **Win Both Halves:** 1 **9.00**  ·  2 **10.00**
 - **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.00**  ·  Home/No **4.33**  ·  Draw/No **11.00**  ·  Away/No **5.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.50**
 - **Home Corners Over/Under:**
-    - 4,5: más **1.80** · menos **1.91**
+    - 4,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
-    - 4,5: más **2.20** · menos **1.62**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.40**
+    - 4,5: más **2.10** · menos **1.67**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.50**  ·  Más de 4.5 **2.08**  ·  Menos de 4.5 **1.72**
 
 ## Estadísticas de equipo
 | | FC Voluntari (total) | FC Voluntari en casa | CFR 1907 Cluj (total) | CFR 1907 Cluj fuera |

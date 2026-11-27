@@ -1,10 +1,10 @@
 # HB Koge – Aarhus Fremad
 **1. Division** · Regular Season - 16 · 28/11/2026 13:30 (hora España) · Capelli Sport Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 09:22_
+_Actualizadas: 27/11 22:13_
 
 - **1X2:** 1 **2.30**  ·  X **3.50**  ·  2 **2.80**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.57**
@@ -12,7 +12,7 @@ _Actualizadas: 27/11 09:22_
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.00**
-    - 2,5: más **1.75** · menos **2.05**
+    - 2,5: más **1.80** · menos **2.00**
     - 3,5: más **2.75** · menos **1.40**
     - 4,5: más **5.50** · menos **1.14**
     - 5,5: más **11.00** · menos **1.05**

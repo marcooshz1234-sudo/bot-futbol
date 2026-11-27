@@ -1,7 +1,7 @@
 # Bayer Leverkusen – RB Leipzig
 **DFB-Pokal** · Round of 16 · 02/12/2026 18:00 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

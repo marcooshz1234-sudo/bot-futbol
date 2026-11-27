@@ -1141,24 +1141,23 @@
    "visitante": "Sepsi OSK Sfantu Gheorghe",
    "liga": "Liga I",
    "datos": [
-    "El Universitatea Cluj va 5º y el Sepsi OSK Sfantu Gheorghe 11º en la liga.",
+    "El Universitatea Cluj va 5º y el Sepsi OSK Sfantu Gheorghe 10º en la liga.",
     "El Universitatea Cluj ha ganado 3 de sus últimos 5 partidos.",
-    "El Sepsi OSK Sfantu Gheorghe solo ha ganado 1 de sus últimos 5.",
-    "Los partidos del Universitatea Cluj llevan 3,2 goles de media (últimos 8).",
-    "Los partidos del Sepsi OSK Sfantu Gheorghe llevan 2,9 goles de media (últimos 8)."
+    "Los partidos del Universitatea Cluj llevan 3,1 goles de media (últimos 8).",
+    "Los partidos del Sepsi OSK Sfantu Gheorghe llevan 2,5 goles de media (últimos 8)."
    ],
    "picks": [
     {
      "sel": "1565317|Match Winner|Home",
      "texto": "Gana el Universitatea Cluj",
      "cuota": 1.53,
-     "prob": 0.66
+     "prob": 0.63
     },
     {
      "sel": "1565317|Total - Home|Over 1.5",
      "texto": "Universitatea Cluj marca 2 o más",
      "cuota": 1.67,
-     "prob": 0.59
+     "prob": 0.58
     },
     {
      "sel": "1565317|Total - Away|Over 0.5",
@@ -1181,9 +1180,8 @@
    "visitante": "Portimonense",
    "liga": "Segunda Liga",
    "datos": [
-    "Los partidos del Feirense llevan 1,9 goles de media (últimos 8).",
-    "Los partidos del Portimonense llevan 1,5 goles de media (últimos 8).",
-    "Feirense está en descenso (18º): se juega mucho"
+    "Los partidos del Feirense llevan 1,8 goles de media (últimos 8).",
+    "Los partidos del Portimonense llevan 1,8 goles de media (últimos 8)."
    ],
    "picks": [
     {
@@ -1201,20 +1199,27 @@
    "visitante": "Kolding IF",
    "liga": "1. Division",
    "datos": [
-    "Los partidos del Hvidovre llevan 2,9 goles de media (últimos 8).",
-    "Los partidos del Kolding IF llevan 2,4 goles de media (últimos 8)."
+    "El Hvidovre va 1º y el Kolding IF 9º en la liga.",
+    "Los partidos del Hvidovre llevan 2,8 goles de media (últimos 8).",
+    "Los partidos del Kolding IF llevan 2,8 goles de media (últimos 8)."
    ],
    "picks": [
     {
-     "sel": "1551387|Total - Away|Over 0.5",
-     "texto": "Kolding IF marca",
-     "cuota": 1.36,
-     "prob": 0.48
+     "sel": "1551387|Total - Home|Over 1.5",
+     "texto": "Hvidovre marca 2 o más",
+     "cuota": 1.73,
+     "prob": 0.59
     },
     {
      "sel": "1551387|Both Teams Score|Yes",
      "texto": "Ambos marcan en Hvidovre–Kolding IF",
      "cuota": 1.57,
+     "prob": 0.48
+    },
+    {
+     "sel": "1551387|Total - Away|Over 0.5",
+     "texto": "Kolding IF marca",
+     "cuota": 1.36,
      "prob": 0.48
     }
    ]
@@ -1226,8 +1231,8 @@
    "visitante": "Arges Pitesti",
    "liga": "Liga I",
    "datos": [
-    "Los partidos del Petrolul Ploiesti llevan 2,5 goles de media (últimos 8).",
-    "Los partidos del Arges Pitesti llevan 2,1 goles de media (últimos 8)."
+    "Los partidos del Petrolul Ploiesti llevan 2,1 goles de media (últimos 8).",
+    "Los partidos del Arges Pitesti llevan 2,0 goles de media (últimos 8)."
    ],
    "picks": [
     {
@@ -1235,12 +1240,6 @@
      "texto": "Arges Pitesti marca",
      "cuota": 1.4,
      "prob": 0.47
-    },
-    {
-     "sel": "1565316|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Petrolul Ploiesti–Arges Pitesti",
-     "cuota": 1.8,
-     "prob": 0.46
     }
    ]
   },
@@ -1251,23 +1250,16 @@
    "visitante": "Willem II",
    "liga": "Eredivisie",
    "datos": [
-    "El Groningen va 11º y el Willem II 18º en la liga.",
-    "El Willem II solo ha ganado 1 de sus últimos 5.",
-    "Los partidos del Groningen llevan 4,8 goles de media (últimos 8).",
-    "Los partidos del Willem II llevan 4,5 goles de media (últimos 8)."
+    "El Groningen va 10º y el Willem II 18º en la liga.",
+    "Los partidos del Groningen llevan 4,6 goles de media (últimos 8).",
+    "Los partidos del Willem II llevan 4,6 goles de media (últimos 8)."
    ],
    "picks": [
-    {
-     "sel": "1552238|Match Winner|Home",
-     "texto": "Gana el Groningen",
-     "cuota": 1.4,
-     "prob": 0.64
-    },
     {
      "sel": "1552238|Total - Home|Over 1.5",
      "texto": "Groningen marca 2 o más",
      "cuota": 1.4,
-     "prob": 0.58
+     "prob": 0.56
     },
     {
      "sel": "1552238|Goals Over/Under - Second Half|Over 1.5",
@@ -1276,16 +1268,16 @@
      "prob": 0.55
     },
     {
-     "sel": "1552238|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Groningen–Willem II",
-     "cuota": 1.67,
-     "prob": 0.49
-    },
-    {
      "sel": "1552238|Total - Away|Over 0.5",
      "texto": "Willem II marca",
      "cuota": 1.5,
-     "prob": 0.49
+     "prob": 0.5
+    },
+    {
+     "sel": "1552238|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Groningen–Willem II",
+     "cuota": 1.67,
+     "prob": 0.5
     }
    ]
   },
@@ -1297,8 +1289,7 @@
    "liga": "Bundesliga",
    "datos": [
     "Los partidos del Werder Bremen llevan 3,8 goles de media (últimos 8).",
-    "Los partidos del Borussia Mönchengladbach llevan 3,1 goles de media (últimos 8).",
-    "El árbitro (Felix Zwayer) saca 5,2 tarjetas por partido"
+    "Los partidos del Borussia Mönchengladbach llevan 3,1 goles de media (últimos 8)."
    ],
    "picks": [
     {
@@ -1311,13 +1302,13 @@
      "sel": "1575237|Both Teams Score|Yes",
      "texto": "Ambos marcan en Werder Bremen–Borussia Mönchengladbach",
      "cuota": 1.57,
-     "prob": 0.48
+     "prob": 0.49
     },
     {
      "sel": "1575237|Away Team Total Cards|Over 1.5",
      "texto": "Borussia Mönchengladbach ve más de 1,5 tarjetas",
      "cuota": 1.5,
-     "prob": 0.44
+     "prob": 0.45
     }
    ]
   },
@@ -1336,25 +1327,25 @@
      "sel": "1570043|Double Chance|Home/Draw",
      "texto": "Leganes o empate",
      "cuota": 1.36,
-     "prob": 0.63
+     "prob": 0.62
     },
     {
      "sel": "1570043|Home Team Total Cards|Over 2.5",
      "texto": "Leganes ve más de 2,5 tarjetas",
      "cuota": 1.53,
-     "prob": 0.63
+     "prob": 0.62
     },
     {
      "sel": "1570043|Home Corners Over/Under|Over 2.5",
      "texto": "Leganes hace 3+ córners",
      "cuota": 1.37,
-     "prob": 0.51
+     "prob": 0.5
     },
     {
      "sel": "1570043|Shots. Home Total|Over 7.5",
      "texto": "Leganes hace 8+ tiros",
      "cuota": 1.37,
-     "prob": 0.49
+     "prob": 0.5
     },
     {
      "sel": "1570043|Total - Away|Over 0.5",
@@ -1372,8 +1363,7 @@
    "liga": "Serie A",
    "datos": [
     "Los partidos del Venezia llevan 2,2 goles de media (últimos 8).",
-    "Los partidos del Bologna llevan 3,1 goles de media (últimos 8).",
-    "Venezia está en descenso (20º): se juega mucho"
+    "Los partidos del Bologna llevan 3,1 goles de media (últimos 8)."
    ],
    "picks": [
     {
@@ -1446,14 +1436,14 @@
      "prob": 0.63
     },
     {
-     "sel": "1570468|Total - Home|Over 1.5",
-     "texto": "Levante marca 2 o más",
+     "sel": "1570468|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Levante–Racing Santander",
      "cuota": 1.62,
      "prob": 0.56
     },
     {
-     "sel": "1570468|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte del Levante–Racing Santander",
+     "sel": "1570468|Total - Home|Over 1.5",
+     "texto": "Levante marca 2 o más",
      "cuota": 1.62,
      "prob": 0.56
     },
@@ -1479,7 +1469,6 @@
    "liga": "Premier",
    "datos": [
     "El Chelsea solo ha ganado 1 de sus últimos 5.",
-    "Nottingham Forest está en descenso (18º): se juega mucho",
     "Los partidos del Nottingham Forest llevan 2,4 goles de media (últimos 8).",
     "Los partidos del Chelsea llevan 2,9 goles de media (últimos 8)."
    ],
@@ -1488,19 +1477,19 @@
      "sel": "1557485|Home Team Total Cards|Over 1.5",
      "texto": "Nottingham Forest ve más de 1,5 tarjetas",
      "cuota": 1.57,
-     "prob": 0.64
+     "prob": 0.63
     },
     {
      "sel": "1557485|Shots.1x2|Home",
      "texto": "Nottingham Forest hace más tiros",
      "cuota": 1.67,
-     "prob": 0.55
+     "prob": 0.54
     },
     {
      "sel": "1557485|Double Chance|Home/Draw",
      "texto": "Nottingham Forest o empate",
      "cuota": 1.4,
-     "prob": 0.49
+     "prob": 0.48
     },
     {
      "sel": "1557485|Both Teams Score|Yes",
@@ -1523,9 +1512,9 @@
    "visitante": "Middlesbrough",
    "liga": "Championship",
    "datos": [
-    "El Southampton no ha perdido en casa en sus últimos 6 partidos (5V 1E).",
     "Los partidos del Southampton llevan 2,2 goles de media (últimos 8).",
-    "Los partidos del Middlesbrough llevan 3,1 goles de media (últimos 8)."
+    "Los partidos del Middlesbrough llevan 3,1 goles de media (últimos 8).",
+    "El Southampton no ha perdido en casa en sus últimos 6 partidos (5V 1E)."
    ],
    "picks": [
     {
@@ -1535,16 +1524,16 @@
      "prob": 0.6
     },
     {
-     "sel": "1563294|Double Chance|Home/Draw",
-     "texto": "Southampton o empate",
-     "cuota": 1.62,
-     "prob": 0.52
-    },
-    {
      "sel": "1563294|Both Teams Score|Yes",
      "texto": "Ambos marcan en Southampton–Middlesbrough",
      "cuota": 1.5,
      "prob": 0.51
+    },
+    {
+     "sel": "1563294|Double Chance|Home/Draw",
+     "texto": "Southampton o empate",
+     "cuota": 1.62,
+     "prob": 0.5
     },
     {
      "sel": "1563294|Corners Over Under|Over 10.5",
@@ -1609,7 +1598,7 @@
      "sel": "1576540|Double Chance|Home/Draw",
      "texto": "AVS o empate",
      "cuota": 1.67,
-     "prob": 0.52
+     "prob": 0.5
     },
     {
      "sel": "1576540|Both Teams Score|Yes",
@@ -1636,7 +1625,7 @@
      "sel": "1551385|Double Chance|Home/Draw",
      "texto": "Hillerød o empate",
      "cuota": 1.4,
-     "prob": 0.52
+     "prob": 0.51
     },
     {
      "sel": "1551385|Both Teams Score|Yes",
@@ -1669,7 +1658,7 @@
      "sel": "1565314|Double Chance|Draw/Away",
      "texto": "CFR 1907 Cluj o empate",
      "cuota": 1.53,
-     "prob": 0.4
+     "prob": 0.39
     }
    ]
   },
@@ -1690,14 +1679,20 @@
     {
      "sel": "1563290|Total - Home|Over 0.5",
      "texto": "Lincoln marca",
-     "cuota": 1.57,
+     "cuota": 1.62,
      "prob": 0.65
     },
     {
      "sel": "1563290|Match Winner|Away",
      "texto": "Gana el Wolves",
      "cuota": 1.55,
-     "prob": 0.53
+     "prob": 0.51
+    },
+    {
+     "sel": "1563290|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners en Lincoln–Wolves",
+     "cuota": 1.73,
+     "prob": 0.43
     },
     {
      "sel": "1563290|ShotOnTarget 1x2|Away",
@@ -1709,12 +1704,6 @@
      "sel": "1563290|Away Team Total Cards|Over 1.5",
      "texto": "Wolves ve más de 1,5 tarjetas",
      "cuota": 1.8,
-     "prob": 0.36
-    },
-    {
-     "sel": "1563290|Total - Away|Over 1.5",
-     "texto": "Wolves marca 2 o más",
-     "cuota": 1.67,
      "prob": 0.36
     }
    ]
@@ -1735,7 +1724,7 @@
      "sel": "1563288|Home Team Total Cards|Over 1.5",
      "texto": "Blackburn ve más de 1,5 tarjetas",
      "cuota": 1.53,
-     "prob": 0.61
+     "prob": 0.6
     },
     {
      "sel": "1563288|Total - Away|Over 0.5",
@@ -1746,14 +1735,14 @@
     {
      "sel": "1563288|Both Teams Score|Yes",
      "texto": "Ambos marcan en Blackburn–Charlton",
-     "cuota": 1.73,
+     "cuota": 1.8,
      "prob": 0.44
     },
     {
      "sel": "1563288|Corners Over Under|Over 10.5",
      "texto": "Más de 10,5 córners en Blackburn–Charlton",
      "cuota": 1.8,
-     "prob": 0.44
+     "prob": 0.43
     }
    ]
   },
@@ -1775,7 +1764,7 @@
      "sel": "1563292|Total - Home|Over 0.5",
      "texto": "Preston marca",
      "cuota": 1.4,
-     "prob": 0.66
+     "prob": 0.65
     },
     {
      "sel": "1563292|Goals Over/Under - Second Half|Over 1.5",
@@ -1786,20 +1775,20 @@
     {
      "sel": "1563292|Match Winner|Away",
      "texto": "Gana el Norwich",
-     "cuota": 1.73,
-     "prob": 0.5
+     "cuota": 1.7,
+     "prob": 0.49
     },
     {
      "sel": "1563292|Both Teams Score|Yes",
      "texto": "Ambos marcan en Preston–Norwich",
      "cuota": 1.57,
-     "prob": 0.46
+     "prob": 0.45
     },
     {
-     "sel": "1563292|ShotOnTarget 1x2|Away",
-     "texto": "Norwich hace más tiros a puerta",
-     "cuota": 1.4,
-     "prob": 0.38
+     "sel": "1563292|To Win Either Half|Away",
+     "texto": "Norwich gana alguna de las dos partes",
+     "cuota": 1.36,
+     "prob": 0.45
     }
    ]
   },
@@ -1819,7 +1808,7 @@
      "sel": "1551388|Double Chance|Home/Draw",
      "texto": "HB Koge o empate",
      "cuota": 1.4,
-     "prob": 0.52
+     "prob": 0.5
     }
    ]
   },
@@ -1831,8 +1820,8 @@
    "liga": "LaLiga",
    "datos": [
     "El Rayo Vallecano no ha ganado fuera en sus últimos 6 partidos.",
+    "El Rayo jugará cuatro partidos en doce días, con el Athletic a puerta cerrada (Mundo Deportivo)",
     "El Real Betis va 4º y el Rayo Vallecano 16º en la liga.",
-    "El Rayo Vallecano solo ha ganado 1 de sus últimos 5.",
     "Los partidos del Real Betis llevan 2,1 goles de media (últimos 8).",
     "Los partidos del Rayo Vallecano llevan 2,1 goles de media (últimos 8)."
    ],
@@ -1840,13 +1829,13 @@
     {
      "sel": "1570463|Match Winner|Home",
      "texto": "Gana el Real Betis",
-     "cuota": 1.55,
-     "prob": 0.67
+     "cuota": 1.57,
+     "prob": 0.64
     },
     {
      "sel": "1570463|Total - Home|Over 1.5",
      "texto": "Real Betis marca 2 o más",
-     "cuota": 1.5,
+     "cuota": 1.53,
      "prob": 0.59
     },
     {
@@ -1881,13 +1870,13 @@
      "sel": "1570042|Double Chance|Home/Draw",
      "texto": "Las Palmas o empate",
      "cuota": 1.36,
-     "prob": 0.53
+     "prob": 0.51
     },
     {
      "sel": "1570042|Both Teams Score|Yes",
      "texto": "Ambos marcan en Las Palmas–FC Andorra",
      "cuota": 1.62,
-     "prob": 0.46
+     "prob": 0.47
     }
    ]
   },
@@ -1951,8 +1940,8 @@
     {
      "sel": "1550210|Match Winner|Home",
      "texto": "Gana el Frosinone",
-     "cuota": 1.44,
-     "prob": 0.66
+     "cuota": 1.48,
+     "prob": 0.64
     },
     {
      "sel": "1550210|Total - Home|Over 1.5",
@@ -1969,13 +1958,13 @@
     {
      "sel": "1550210|Both Teams Score|Yes",
      "texto": "Ambos marcan en Frosinone–Parma",
-     "cuota": 1.5,
+     "cuota": 1.53,
      "prob": 0.5
     },
     {
      "sel": "1550210|Total - Away|Over 0.5",
      "texto": "Parma marca",
-     "cuota": 1.4,
+     "cuota": 1.36,
      "prob": 0.49
     }
    ]
@@ -2015,8 +2004,8 @@
     {
      "sel": "1575235|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Hamburger SV–Bayern München",
-     "cuota": 1.5,
-     "prob": 0.58
+     "cuota": 1.53,
+     "prob": 0.59
     },
     {
      "sel": "1575235|Home Team Total Cards|Over 1.5",
@@ -2027,20 +2016,14 @@
     {
      "sel": "1575235|Both Teams Score|Yes",
      "texto": "Ambos marcan en Hamburger SV–Bayern München",
-     "cuota": 1.62,
-     "prob": 0.48
+     "cuota": 1.67,
+     "prob": 0.49
     },
     {
      "sel": "1575235|To Score In Both Halves By Teams|Away",
      "texto": "Bayern München marca en las dos partes",
      "cuota": 1.62,
-     "prob": 0.45
-    },
-    {
-     "sel": "1575235|Home Corners Over/Under|Over 2.5",
-     "texto": "Hamburger SV hace más de 2,5 córners",
-     "cuota": 1.62,
-     "prob": 0.43
+     "prob": 0.46
     }
    ]
   },
@@ -2066,7 +2049,7 @@
      "sel": "1575234|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del FSV Mainz 05–Union Berlin",
      "cuota": 1.73,
-     "prob": 0.58
+     "prob": 0.59
     },
     {
      "sel": "1575234|Total - Home|Over 1.5",
@@ -2084,7 +2067,7 @@
      "sel": "1575234|Both Teams Score|Yes",
      "texto": "Ambos marcan en FSV Mainz 05–Union Berlin",
      "cuota": 1.67,
-     "prob": 0.48
+     "prob": 0.47
     }
    ]
   },
@@ -2099,16 +2082,16 @@
    ],
    "picks": [
     {
+     "sel": "1575238|Home Player Shots|Santiago Castaneda - 1",
+     "texto": "Santiago Castaneda: 1+ tiros",
+     "cuota": 1.4,
+     "prob": 0.53
+    },
+    {
      "sel": "1575238|Double Chance|Home/Draw",
      "texto": "SC Paderborn 07 o empate",
      "cuota": 1.4,
-     "prob": 0.52
-    },
-    {
-     "sel": "1575238|Home Player Shots|Santiago Castaneda - 1",
-     "texto": "Santiago Castaneda: 1+ tiros",
-     "cuota": 1.36,
-     "prob": 0.52
+     "prob": 0.51
     },
     {
      "sel": "1575238|Corners 1x2|Home",
@@ -2166,25 +2149,25 @@
      "sel": "1557483|Match Winner|Home",
      "texto": "Gana el Leeds",
      "cuota": 1.48,
-     "prob": 0.65
+     "prob": 0.62
     },
     {
      "sel": "1557483|Total - Away|Over 0.5",
      "texto": "Coventry marca",
      "cuota": 1.62,
-     "prob": 0.47
+     "prob": 0.48
+    },
+    {
+     "sel": "1557483|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Leeds–Coventry",
+     "cuota": 1.8,
+     "prob": 0.46
     },
     {
      "sel": "1557483|Corners 1x2|Home",
      "texto": "Leeds hace más córners",
      "cuota": 1.4,
      "prob": 0.46
-    },
-    {
-     "sel": "1557483|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Leeds–Coventry",
-     "cuota": 1.8,
-     "prob": 0.45
     }
    ]
   },
@@ -2195,16 +2178,17 @@
    "visitante": "Brentford",
    "liga": "Premier",
    "datos": [
-    "El árbitro (Robert Jones) saca 3,5 tarjetas por partido",
+    "El árbitro (Robert Jones) saca 3,8 tarjetas por partido",
     "Los partidos del Manchester United llevan 4,1 goles de media (últimos 8).",
-    "Los partidos del Brentford llevan 3,1 goles de media (últimos 8)."
+    "Los partidos del Brentford llevan 3,1 goles de media (últimos 8).",
+    "Manchester United está en descenso (19º): se juega mucho"
    ],
    "picks": [
     {
      "sel": "1557484|Home Team Total Cards|Over 1.5",
      "texto": "Manchester United ve más de 1,5 tarjetas",
      "cuota": 1.5,
-     "prob": 0.62
+     "prob": 0.61
     },
     {
      "sel": "1557484|Goals Over/Under - Second Half|Over 1.5",
@@ -2213,10 +2197,16 @@
      "prob": 0.55
     },
     {
+     "sel": "1557484|Double Chance|Home/Draw",
+     "texto": "Manchester United o empate",
+     "cuota": 1.36,
+     "prob": 0.48
+    },
+    {
      "sel": "1557484|Corners 1x2|Home",
      "texto": "Manchester United hace más córners",
      "cuota": 1.5,
-     "prob": 0.48
+     "prob": 0.47
     },
     {
      "sel": "1557484|Both Teams Score|Yes",
@@ -2242,12 +2232,6 @@
      "texto": "Jonathan Varane: 1+ tiros",
      "cuota": 1.67,
      "prob": 0.51
-    },
-    {
-     "sel": "1563293|Total - Away|Over 0.5",
-     "texto": "Sheffield Utd marca",
-     "cuota": 1.36,
-     "prob": 0.5
     },
     {
      "sel": "1563293|Both Teams Score|Yes",
@@ -2278,8 +2262,14 @@
     {
      "sel": "1565311|Corners 1x2|Home",
      "texto": "Corvinul Hunedoara hace más córners",
-     "cuota": 1.57,
+     "cuota": 1.5,
      "prob": 0.48
+    },
+    {
+     "sel": "1565311|Away Corners Over/Under|Over 3.5",
+     "texto": "Farul Constanta hace más de 3,5 córners",
+     "cuota": 1.67,
+     "prob": 0.28
     }
    ]
   },
@@ -2301,18 +2291,18 @@
      "sel": "1563296|Match Winner|Home",
      "texto": "Gana el West Brom",
      "cuota": 1.73,
-     "prob": 0.66
-    },
-    {
-     "sel": "1563296|Total - Home|Over 1.5",
-     "texto": "West Brom marca 2 o más",
-     "cuota": 1.8,
-     "prob": 0.59
+     "prob": 0.63
     },
     {
      "sel": "1563296|Home Team Total Cards|Over 1.5",
      "texto": "West Brom ve más de 1,5 tarjetas",
      "cuota": 1.62,
+     "prob": 0.59
+    },
+    {
+     "sel": "1563296|Total - Home|Over 1.5",
+     "texto": "West Brom marca 2 o más",
+     "cuota": 1.73,
      "prob": 0.59
     },
     {
@@ -2324,8 +2314,8 @@
     {
      "sel": "1563296|Corners 1x2|Home",
      "texto": "West Brom hace más córners",
-     "cuota": 1.5,
-     "prob": 0.48
+     "cuota": 1.4,
+     "prob": 0.47
     }
    ]
   },
@@ -2345,7 +2335,7 @@
      "sel": "1563289|Double Chance|Home/Draw",
      "texto": "Derby o empate",
      "cuota": 1.36,
-     "prob": 0.51
+     "prob": 0.49
     },
     {
      "sel": "1563289|Corners Over Under|Over 9.5",
@@ -2363,38 +2353,40 @@
    "liga": "Championship",
    "datos": [
     "El Millwall va 18º y el Burnley 23º en la liga.",
-    "El Burnley no ha ganado ninguno de sus últimos 5."
+    "El Burnley no ha ganado ninguno de sus últimos 5.",
+    "Los partidos del Millwall llevan 2,9 goles de media (últimos 8).",
+    "Los partidos del Burnley llevan 3,6 goles de media (últimos 8)."
    ],
    "picks": [
-    {
-     "sel": "1563291|Home Team Total Cards|Over 1.5",
-     "texto": "Millwall ve más de 1,5 tarjetas",
-     "cuota": 1.57,
-     "prob": 0.61
-    },
     {
      "sel": "1563291|ShotOnTarget 1x2|Home",
      "texto": "Millwall hace más tiros a puerta",
      "cuota": 1.73,
-     "prob": 0.55
+     "prob": 0.54
     },
     {
      "sel": "1563291|Shots.1x2|Home",
      "texto": "Millwall hace más tiros",
      "cuota": 1.44,
-     "prob": 0.53
+     "prob": 0.52
     },
     {
      "sel": "1563291|Away Player Shots|Largie Ramazani - 2",
      "texto": "Largie Ramazani: 2+ tiros",
-     "cuota": 1.53,
+     "cuota": 1.4,
      "prob": 0.51
     },
     {
      "sel": "1563291|Both Teams Score|Yes",
      "texto": "Ambos marcan en Millwall–Burnley",
      "cuota": 1.53,
-     "prob": 0.46
+     "prob": 0.45
+    },
+    {
+     "sel": "1563291|Total Corners (1st Half)|Over 4.5",
+     "texto": "Más de 4,5 córners en la 1ª parte en Millwall–Burnley",
+     "cuota": 1.78,
+     "prob": 0.42
     }
    ]
   },
@@ -2415,8 +2407,8 @@
     {
      "sel": "1563287|Match Winner|Home",
      "texto": "Gana el Birmingham",
-     "cuota": 1.55,
-     "prob": 0.69
+     "cuota": 1.53,
+     "prob": 0.66
     },
     {
      "sel": "1563287|Total - Home|Over 1.5",
@@ -2434,7 +2426,7 @@
      "sel": "1563287|Total - Away|Over 0.5",
      "texto": "Bolton marca",
      "cuota": 1.5,
-     "prob": 0.47
+     "prob": 0.46
     }
    ]
   },
@@ -2454,7 +2446,7 @@
      "sel": "1563297|Home Team Total Cards|Over 1.5",
      "texto": "West Ham ve más de 1,5 tarjetas",
      "cuota": 1.8,
-     "prob": 0.64
+     "prob": 0.63
     },
     {
      "sel": "1563297|Corners 1x2|Home",
@@ -2491,6 +2483,12 @@
    "datos": [],
    "picks": [
     {
+     "sel": "1563298|Home Team Total Cards|Over 1.5",
+     "texto": "Wrexham ve más de 1,5 tarjetas",
+     "cuota": 1.8,
+     "prob": 0.61
+    },
+    {
      "sel": "1563298|Away Corners Over/Under|Over 3.5",
      "texto": "Portsmouth hace más de 3,5 córners",
      "cuota": 1.62,
@@ -2507,7 +2505,7 @@
    "datos": [
     "Los partidos del Malaga llevan 2,8 goles de media (últimos 8).",
     "Los partidos del Athletic Club llevan 2,6 goles de media (últimos 8).",
-    "Malaga está en descenso (20º): se juega mucho",
+    "Funes y su posible destitución: \"En el fútbol, por encima de otras cosas, imperan los resultados\" (Málaga Hoy)",
     "El Malaga no ha ganado en casa en sus últimos 6 partidos.",
     "El Athletic Club va 9º y el Malaga 20º en la liga."
    ],
@@ -2522,25 +2520,25 @@
      "sel": "1570469|Match Winner|Away",
      "texto": "Gana el Athletic Club",
      "cuota": 1.73,
-     "prob": 0.51
+     "prob": 0.49
     },
     {
      "sel": "1570469|Home Corners Over/Under|Over 3.5",
      "texto": "Malaga hace más de 3,5 córners",
      "cuota": 1.62,
-     "prob": 0.49
+     "prob": 0.48
     },
     {
      "sel": "1570469|Both Teams Score|Yes",
      "texto": "Ambos marcan en Malaga–Athletic Club",
-     "cuota": 1.75,
+     "cuota": 1.8,
      "prob": 0.45
     },
     {
      "sel": "1570469|Shots.1x2|Away",
      "texto": "Athletic Club hace más tiros",
      "cuota": 1.4,
-     "prob": 0.42
+     "prob": 0.43
     }
    ]
   },
@@ -2561,13 +2559,13 @@
      "sel": "1570040|Total - Home|Over 0.5",
      "texto": "Eldense marca",
      "cuota": 1.36,
-     "prob": 0.68
+     "prob": 0.67
     },
     {
      "sel": "1570040|Double Chance|Draw/Away",
      "texto": "Girona o empate",
      "cuota": 1.36,
-     "prob": 0.39
+     "prob": 0.38
     }
    ]
   },
@@ -2586,8 +2584,8 @@
     {
      "sel": "1570036|Total - Away|Over 0.5",
      "texto": "Tenerife marca",
-     "cuota": 1.44,
-     "prob": 0.48
+     "cuota": 1.5,
+     "prob": 0.49
     }
    ]
   },
@@ -2614,7 +2612,7 @@
      "sel": "1576546|Double Chance|Draw/Away",
      "texto": "União de Leiria o empate",
      "cuota": 1.67,
-     "prob": 0.4
+     "prob": 0.39
     }
    ]
   },
@@ -2627,32 +2625,20 @@
    "datos": [
     "Los partidos del Moreirense llevan 2,5 goles de media (últimos 8).",
     "Los partidos del Santa Clara llevan 2,6 goles de media (últimos 8).",
-    "El Santa Clara va 4º y el Moreirense 9º en la liga."
+    "La cuota de que gane Moreirense ha bajado de 3,6 a 3,0: el mercado lo ve más claro"
    ],
    "picks": [
     {
      "sel": "1575552|Total - Home|Over 0.5",
      "texto": "Moreirense marca",
-     "cuota": 1.44,
-     "prob": 0.66
-    },
-    {
-     "sel": "1575552|Total - Away|Over 0.5",
-     "texto": "Santa Clara marca",
-     "cuota": 1.36,
-     "prob": 0.5
+     "cuota": 1.4,
+     "prob": 0.67
     },
     {
      "sel": "1575552|Double Chance|Home/Draw",
      "texto": "Moreirense o empate",
      "cuota": 1.53,
-     "prob": 0.49
-    },
-    {
-     "sel": "1575552|Total Corners (1st Half)|Over 3.5",
-     "texto": "Más de 3,5 córners en la 1ª parte en Moreirense–Santa Clara",
-     "cuota": 1.75,
-     "prob": 0.44
+     "prob": 0.48
     }
    ]
   },
@@ -2677,7 +2663,7 @@
      "sel": "1552236|Both Teams Score|Yes",
      "texto": "Ambos marcan en Excelsior–Telstar",
      "cuota": 1.57,
-     "prob": 0.49
+     "prob": 0.5
     }
    ]
   },
@@ -2699,13 +2685,13 @@
      "sel": "1575546|Match Winner|Home",
      "texto": "Gana el Arouca",
      "cuota": 1.65,
-     "prob": 0.69
+     "prob": 0.66
     },
     {
      "sel": "1575546|To Win Either Half|Home",
      "texto": "Arouca gana alguna de las dos partes",
      "cuota": 1.4,
-     "prob": 0.63
+     "prob": 0.62
     },
     {
      "sel": "1575546|Total - Away|Over 0.5",
@@ -2763,7 +2749,7 @@
      "sel": "1552828|Corners 1x2|Away",
      "texto": "Lens hace más córners",
      "cuota": 1.57,
-     "prob": 0.32
+     "prob": 0.33
     }
    ]
   },
@@ -2782,7 +2768,7 @@
      "sel": "1608386|Total - Away|Over 0.5",
      "texto": "Desenzano Calvina marca",
      "cuota": 1.36,
-     "prob": 0.49
+     "prob": 0.5
     },
     {
      "sel": "1608386|Both Teams Score|Yes",
@@ -2803,12 +2789,6 @@
     "Los partidos del Giana Erminio llevan 2,5 goles de media (últimos 8)."
    ],
    "picks": [
-    {
-     "sel": "1608389|Total - Away|Over 0.5",
-     "texto": "Giana Erminio marca",
-     "cuota": 1.4,
-     "prob": 0.49
-    },
     {
      "sel": "1608389|Both Teams Score|Yes",
      "texto": "Ambos marcan en Pergolettese–Giana Erminio",
@@ -2832,7 +2812,7 @@
      "sel": "1608388|Total - Home|Over 0.5",
      "texto": "Ospitaletto marca",
      "cuota": 1.53,
-     "prob": 0.67
+     "prob": 0.66
     }
    ]
   },
@@ -2860,13 +2840,13 @@
      "sel": "1550214|Shots.1x2|Away",
      "texto": "Lazio hace más tiros",
      "cuota": 1.53,
-     "prob": 0.41
+     "prob": 0.42
     },
     {
      "sel": "1550214|ShotOnTarget 1x2|Away",
      "texto": "Lazio hace más tiros a puerta",
      "cuota": 1.62,
-     "prob": 0.37
+     "prob": 0.38
     },
     {
      "sel": "1550214|Corners 1x2|Away",
@@ -2892,7 +2872,7 @@
      "sel": "1570466|ShotOnTarget 1x2|Away",
      "texto": "Atletico Madrid hace más tiros a puerta",
      "cuota": 1.4,
-     "prob": 0.36
+     "prob": 0.37
     }
    ]
   },
@@ -2920,12 +2900,6 @@
      "prob": 0.48
     },
     {
-     "sel": "1557482|Total Corners (1st Half)|Over 4",
-     "texto": "Más de 4 córners en la 1ª parte en Ipswich–Aston Villa",
-     "cuota": 1.8,
-     "prob": 0.44
-    },
-    {
      "sel": "1557482|Corners Over Under|Over 8.5",
      "texto": "Más de 8,5 córners en Ipswich–Aston Villa",
      "cuota": 1.67,
@@ -2935,7 +2909,13 @@
      "sel": "1557482|Away Team Total Cards|Over 1.5",
      "texto": "Aston Villa ve más de 1,5 tarjetas",
      "cuota": 1.5,
-     "prob": 0.42
+     "prob": 0.43
+    },
+    {
+     "sel": "1557482|Shots.1x2|Away",
+     "texto": "Aston Villa hace más tiros",
+     "cuota": 1.62,
+     "prob": 0.41
     }
    ]
   },
@@ -3063,7 +3043,7 @@
      "sel": "1575545|Double Chance|Home/Draw",
      "texto": "Academico Viseu o empate",
      "cuota": 1.4,
-     "prob": 0.52
+     "prob": 0.51
     },
     {
      "sel": "1575545|Both Teams Score|Yes",
@@ -3152,22 +3132,22 @@
      "prob": 0.48
     },
     {
-     "sel": "1552832|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Le Mans–Lille",
-     "cuota": 1.8,
-     "prob": 0.45
-    },
-    {
      "sel": "1552832|Shots.1x2|Away",
      "texto": "Lille hace más tiros",
      "cuota": 1.57,
-     "prob": 0.41
+     "prob": 0.42
     },
     {
      "sel": "1552832|Away Team Total Cards|Over 1.5",
      "texto": "Lille ve más de 1,5 tarjetas",
      "cuota": 1.53,
      "prob": 0.4
+    },
+    {
+     "sel": "1552832|ShotOnTarget 1x2|Away",
+     "texto": "Lille hace más tiros a puerta",
+     "cuota": 1.53,
+     "prob": 0.37
     }
    ]
   },
@@ -3187,8 +3167,8 @@
     {
      "sel": "1552834|Match Winner|Home",
      "texto": "Gana el Nice",
-     "cuota": 1.67,
-     "prob": 0.66
+     "cuota": 1.7,
+     "prob": 0.64
     },
     {
      "sel": "1552834|Total - Home|Over 1.5",
@@ -3206,12 +3186,12 @@
      "sel": "1552834|Total - Away|Over 0.5",
      "texto": "Estac Troyes marca",
      "cuota": 1.44,
-     "prob": 0.48
+     "prob": 0.49
     },
     {
      "sel": "1552834|Both Teams Score|Yes",
      "texto": "Ambos marcan en Nice–Estac Troyes",
-     "cuota": 1.67,
+     "cuota": 1.7,
      "prob": 0.48
     }
    ]
@@ -3231,20 +3211,20 @@
     {
      "sel": "1552831|Shots.1x2|Home",
      "texto": "Le Havre hace más tiros",
-     "cuota": 1.73,
-     "prob": 0.56
-    },
-    {
-     "sel": "1552831|Corners 1x2|Home",
-     "texto": "Le Havre hace más córners",
-     "cuota": 1.8,
-     "prob": 0.48
+     "cuota": 1.57,
+     "prob": 0.55
     },
     {
      "sel": "1552831|Both Teams Score|Yes",
      "texto": "Ambos marcan en Le Havre–Strasbourg",
      "cuota": 1.57,
      "prob": 0.48
+    },
+    {
+     "sel": "1552831|Corners Over Under|Over 8.5",
+     "texto": "Más de 8,5 córners en Le Havre–Strasbourg",
+     "cuota": 1.67,
+     "prob": 0.43
     }
    ]
   },
@@ -3263,7 +3243,7 @@
      "sel": "1570470|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Real Madrid–Alaves",
      "cuota": 1.53,
-     "prob": 0.53
+     "prob": 0.54
     },
     {
      "sel": "1570470|Away Corners Over/Under|Over 2.5",
@@ -3291,7 +3271,7 @@
      "sel": "1570046|Match Winner|Home",
      "texto": "Gana el Valladolid",
      "cuota": 1.73,
-     "prob": 0.67
+     "prob": 0.64
     },
     {
      "sel": "1570046|Total - Home|Over 1.5",
@@ -3314,8 +3294,8 @@
     {
      "sel": "1570046|Corners 1x2|Home",
      "texto": "Valladolid hace más córners",
-     "cuota": 1.4,
-     "prob": 0.47
+     "cuota": 1.44,
+     "prob": 0.46
     }
    ]
   },
@@ -3337,18 +3317,18 @@
      "sel": "1552234|Total - Home|Over 1.5",
      "texto": "Cambuur marca 2 o más",
      "cuota": 1.67,
-     "prob": 0.66
+     "prob": 0.65
     },
     {
      "sel": "1552234|Double Chance|Home/Draw",
      "texto": "Cambuur o empate",
      "cuota": 1.36,
-     "prob": 0.62
+     "prob": 0.6
     },
     {
      "sel": "1552234|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Cambuur–Sparta Rotterdam",
-     "cuota": 1.57,
+     "cuota": 1.62,
      "prob": 0.55
     },
     {
@@ -3374,7 +3354,7 @@
      "sel": "1575553|Total - Away|Over 0.5",
      "texto": "Estrela marca",
      "cuota": 1.53,
-     "prob": 0.45
+     "prob": 0.46
     }
    ]
   }
@@ -3433,7 +3413,7 @@
      "sel": "1552235|Double Chance|Home/Draw",
      "texto": "ADO Den Haag o empate",
      "cuota": 1.53,
-     "prob": 0.5
+     "prob": 0.48
     }
    ]
   },
@@ -3450,6 +3430,12 @@
    ],
    "picks": [
     {
+     "sel": "1550215|Home Team Total Cards|Over 1.5",
+     "texto": "Udinese ve más de 1,5 tarjetas",
+     "cuota": 1.57,
+     "prob": 0.6
+    },
+    {
      "sel": "1550215|Both Teams Score|Yes",
      "texto": "Ambos marcan en Udinese–Fiorentina",
      "cuota": 1.57,
@@ -3460,12 +3446,6 @@
      "texto": "Fiorentina hace más tiros",
      "cuota": 1.73,
      "prob": 0.44
-    },
-    {
-     "sel": "1550215|Corners Over Under|Over 8.5",
-     "texto": "Más de 8,5 córners en Udinese–Fiorentina",
-     "cuota": 1.67,
-     "prob": 0.43
     },
     {
      "sel": "1550215|Double Chance|Draw/Away",
@@ -3522,7 +3502,7 @@
      "sel": "1557480|Home Player Shots|Thierno Barry - 2",
      "texto": "Thierno Barry: 2+ tiros",
      "cuota": 1.36,
-     "prob": 0.5
+     "prob": 0.51
     },
     {
      "sel": "1557480|Shots.1x2|Away",
@@ -3553,9 +3533,7 @@
    "datos": [
     "El Swansea va 8º y el Cardiff 19º en la liga.",
     "Los partidos del Swansea llevan 3,1 goles de media (últimos 8).",
-    "Los partidos del Cardiff llevan 4,5 goles de media (últimos 8).",
-    "El Cardiff no ha ganado fuera en sus últimos 6 partidos.",
-    "El Cardiff solo ha ganado 1 de sus últimos 5."
+    "Los partidos del Cardiff llevan 4,5 goles de media (últimos 8)."
    ],
    "picks": [
     {
@@ -3577,15 +3555,9 @@
      "prob": 0.51
     },
     {
-     "sel": "1563295|Double Chance|Home/Draw",
-     "texto": "Swansea o empate",
-     "cuota": 1.36,
-     "prob": 0.5
-    },
-    {
      "sel": "1563295|Corners Over Under|Over 9.5",
      "texto": "Más de 9,5 córners en Swansea–Cardiff",
-     "cuota": 1.8,
+     "cuota": 1.73,
      "prob": 0.42
     }
    ]
@@ -3606,7 +3578,7 @@
      "sel": "1570472|Shots. Home Total|Over 7.5",
      "texto": "Valencia hace 8+ tiros",
      "cuota": 1.37,
-     "prob": 0.49
+     "prob": 0.5
     },
     {
      "sel": "1570472|Total - Away|Over 0.5",
@@ -3632,13 +3604,13 @@
      "sel": "1565315|Both Teams Score|Yes",
      "texto": "Ambos marcan en Oţelul–Uta Arad",
      "cuota": 1.73,
-     "prob": 0.46
+     "prob": 0.45
     },
     {
      "sel": "1565315|Double Chance|Draw/Away",
      "texto": "Uta Arad o empate",
      "cuota": 1.53,
-     "prob": 0.39
+     "prob": 0.38
     }
    ]
   },
@@ -3663,15 +3635,15 @@
      "prob": 0.66
     },
     {
+     "sel": "1551386|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Hobro–FC Fredericia",
+     "cuota": 1.67,
+     "prob": 0.47
+    },
+    {
      "sel": "1551386|Match Winner|Away",
      "texto": "Gana el FC Fredericia",
      "cuota": 1.42,
-     "prob": 0.48
-    },
-    {
-     "sel": "1551386|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Hobro–FC Fredericia",
-     "cuota": 1.73,
      "prob": 0.47
     },
     {
@@ -3700,19 +3672,19 @@
      "sel": "1570041|To Win Either Half|Home",
      "texto": "Granada CF gana alguna de las dos partes",
      "cuota": 1.33,
-     "prob": 0.77
+     "prob": 0.76
     },
     {
      "sel": "1570041|Match Winner|Home",
      "texto": "Gana el Granada CF",
      "cuota": 1.57,
-     "prob": 0.71
+     "prob": 0.68
     },
     {
      "sel": "1570041|Total - Home|Over 1.5",
      "texto": "Granada CF marca 2 o más",
      "cuota": 1.62,
-     "prob": 0.61
+     "prob": 0.6
     },
     {
      "sel": "1570041|Both Teams Score|Yes",
@@ -3745,7 +3717,7 @@
      "sel": "1608385|To Win Either Half|Home",
      "texto": "Juventus U23 gana alguna de las dos partes",
      "cuota": 1.36,
-     "prob": 0.62
+     "prob": 0.61
     },
     {
      "sel": "1608385|Total - Home|Over 1.5",
@@ -3789,7 +3761,7 @@
      "sel": "1552241|Total - Away|Over 1.5",
      "texto": "Heerenveen marca 2 o más",
      "cuota": 1.67,
-     "prob": 0.38
+     "prob": 0.39
     },
     {
      "sel": "1552241|Corners 1x2|Away",
@@ -3833,13 +3805,13 @@
      "sel": "1552237|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Feyenoord–Ajax",
      "cuota": 1.57,
-     "prob": 0.53
+     "prob": 0.54
     },
     {
      "sel": "1552237|Both Teams Score|Yes",
      "texto": "Ambos marcan en Feyenoord–Ajax",
      "cuota": 1.36,
-     "prob": 0.52
+     "prob": 0.53
     },
     {
      "sel": "1552237|Home Player Shots|Javier Lopez - 1",
@@ -3850,14 +3822,8 @@
     {
      "sel": "1552237|Corners 1x2|Home",
      "texto": "Feyenoord hace más córners",
-     "cuota": 1.53,
+     "cuota": 1.62,
      "prob": 0.48
-    },
-    {
-     "sel": "1552237|Double Chance|Draw/Away",
-     "texto": "Ajax o empate",
-     "cuota": 1.67,
-     "prob": 0.41
     }
    ]
   },
@@ -3868,29 +3834,29 @@
    "visitante": "Napoli",
    "liga": "Serie A",
    "datos": [
-    "El Napoli va 8º y el Sassuolo 18º en la liga.",
-    "El Sassuolo no ha ganado ninguno de sus últimos 5.",
     "Los partidos del Sassuolo llevan 4,0 goles de media (últimos 8).",
-    "Los partidos del Napoli llevan 4,0 goles de media (últimos 8)."
+    "Los partidos del Napoli llevan 4,0 goles de media (últimos 8).",
+    "El Napoli va 8º y el Sassuolo 18º en la liga.",
+    "El Sassuolo no ha ganado ninguno de sus últimos 5."
    ],
    "picks": [
     {
      "sel": "1550213|Home Team Total Cards|Over 1.5",
      "texto": "Sassuolo ve más de 1,5 tarjetas",
-     "cuota": 1.5,
+     "cuota": 1.53,
      "prob": 0.6
-    },
-    {
-     "sel": "1550213|Match Winner|Away",
-     "texto": "Gana el Napoli",
-     "cuota": 1.67,
-     "prob": 0.56
     },
     {
      "sel": "1550213|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Sassuolo–Napoli",
      "cuota": 1.8,
      "prob": 0.56
+    },
+    {
+     "sel": "1550213|Match Winner|Away",
+     "texto": "Gana el Napoli",
+     "cuota": 1.62,
+     "prob": 0.54
     },
     {
      "sel": "1550213|To Win Either Half|Away",
@@ -3930,22 +3896,22 @@
      "prob": 0.52
     },
     {
+     "sel": "1552829|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Auxerre–Marseille",
+     "cuota": 1.53,
+     "prob": 0.49
+    },
+    {
      "sel": "1552829|Home Corners Over/Under|Over 3.5",
      "texto": "Auxerre hace más de 3,5 córners",
      "cuota": 1.73,
      "prob": 0.48
     },
     {
-     "sel": "1552829|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Auxerre–Marseille",
-     "cuota": 1.53,
-     "prob": 0.48
-    },
-    {
      "sel": "1552829|Shots.1x2|Away",
      "texto": "Marseille hace más tiros",
      "cuota": 1.53,
-     "prob": 0.41
+     "prob": 0.42
     }
    ]
   },
@@ -3991,12 +3957,6 @@
      "texto": "Ambos marcan en Crystal Palace–Hull City",
      "cuota": 1.67,
      "prob": 0.46
-    },
-    {
-     "sel": "1557479|Away Team Total Cards|Over 2.5",
-     "texto": "Hull City ve más de 2,5 tarjetas",
-     "cuota": 1.8,
-     "prob": 0.41
     }
    ]
   },
@@ -4024,7 +3984,7 @@
      "sel": "1557486|Shots.1x2|Away",
      "texto": "Tottenham hace más tiros",
      "cuota": 1.53,
-     "prob": 0.4
+     "prob": 0.41
     },
     {
      "sel": "1557486|ShotOnTarget 1x2|Away",
@@ -4084,7 +4044,7 @@
      "sel": "1557478|Match Winner|Home",
      "texto": "Gana el Brighton",
      "cuota": 1.57,
-     "prob": 0.68
+     "prob": 0.65
     },
     {
      "sel": "1557478|Home Team Total Cards|Over 1.5",
@@ -4102,7 +4062,7 @@
      "sel": "1557478|Corners 1x2|Home",
      "texto": "Brighton hace más córners",
      "cuota": 1.5,
-     "prob": 0.48
+     "prob": 0.47
     }
    ]
   },
@@ -4121,31 +4081,31 @@
      "sel": "1575233|Home Team Total Cards|Over 1.5",
      "texto": "SC Freiburg ve más de 1,5 tarjetas",
      "cuota": 1.53,
-     "prob": 0.62
+     "prob": 0.61
     },
     {
      "sel": "1575233|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del SC Freiburg–RB Leipzig",
      "cuota": 1.67,
-     "prob": 0.57
+     "prob": 0.58
     },
     {
      "sel": "1575233|Away Player Shots|Ridle Baku - 1",
      "texto": "Ridle Baku: 1+ tiros",
      "cuota": 1.36,
-     "prob": 0.5
+     "prob": 0.51
     },
     {
      "sel": "1575233|Both Teams Score|Yes",
      "texto": "Ambos marcan en SC Freiburg–RB Leipzig",
-     "cuota": 1.44,
+     "cuota": 1.4,
      "prob": 0.5
     },
     {
      "sel": "1575233|Total - Away|Over 1.5",
      "texto": "RB Leipzig marca 2 o más",
      "cuota": 1.8,
-     "prob": 0.35
+     "prob": 0.36
     }
    ]
   },
@@ -4170,7 +4130,7 @@
      "sel": "1570465|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Deportivo La Coruna–Barcelona",
      "cuota": 1.44,
-     "prob": 0.55
+     "prob": 0.56
     },
     {
      "sel": "1570465|Both Teams Score|Yes",
@@ -4195,7 +4155,7 @@
      "sel": "1570044|Double Chance|Draw/Away",
      "texto": "Castellón o empate",
      "cuota": 1.57,
-     "prob": 0.4
+     "prob": 0.39
     }
    ]
   },
@@ -4223,15 +4183,15 @@
      "prob": 0.53
     },
     {
-     "sel": "1552242|Home Corners Over/Under|Over 3.5",
-     "texto": "PEC Zwolle hace más de 3,5 córners",
-     "cuota": 1.8,
-     "prob": 0.51
-    },
-    {
      "sel": "1552242|Both Teams Score|Yes",
      "texto": "Ambos marcan en PEC Zwolle–AZ Alkmaar",
      "cuota": 1.53,
+     "prob": 0.5
+    },
+    {
+     "sel": "1552242|Home Corners Over/Under|Over 3.5",
+     "texto": "PEC Zwolle hace más de 3,5 córners",
+     "cuota": 1.8,
      "prob": 0.5
     }
    ]
@@ -4252,8 +4212,8 @@
     {
      "sel": "1552836|Double Chance|Home/Draw",
      "texto": "Toulouse o empate",
-     "cuota": 1.44,
-     "prob": 0.53
+     "cuota": 1.5,
+     "prob": 0.52
     },
     {
      "sel": "1552836|Both Teams Score|Yes",
@@ -4284,7 +4244,7 @@
      "sel": "1575232|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del 1899 Hoffenheim–FC Augsburg",
      "cuota": 1.5,
-     "prob": 0.57
+     "prob": 0.58
     },
     {
      "sel": "1575232|Total - Home|Over 1.5",
@@ -4323,7 +4283,7 @@
     {
      "sel": "1557477|ShotOnTarget 1x2|Home",
      "texto": "Arsenal hace más tiros a puerta",
-     "cuota": 1.73,
+     "cuota": 1.67,
      "prob": 0.54
     },
     {
@@ -4386,13 +4346,13 @@
      "sel": "1608381|Total - Home|Over 0.5",
      "texto": "Albinoleffe marca",
      "cuota": 1.36,
-     "prob": 0.69
+     "prob": 0.68
     },
     {
      "sel": "1608381|Double Chance|Home/Draw",
      "texto": "Albinoleffe o empate",
      "cuota": 1.44,
-     "prob": 0.5
+     "prob": 0.49
     }
    ]
   },
@@ -4418,7 +4378,7 @@
      "sel": "1550207|To Score In Both Halves By Teams|Home",
      "texto": "AS Roma marca en las dos partes",
      "cuota": 1.62,
-     "prob": 0.59
+     "prob": 0.58
     },
     {
      "sel": "1550207|Both Teams Score|Yes",
@@ -4456,12 +4416,12 @@
      "sel": "1570464|Double Chance|Home/Draw",
      "texto": "Celta Vigo o empate",
      "cuota": 1.5,
-     "prob": 0.49
+     "prob": 0.48
     },
     {
      "sel": "1570464|Both Teams Score|Yes",
      "texto": "Ambos marcan en Celta Vigo–Villarreal",
-     "cuota": 1.62,
+     "cuota": 1.57,
      "prob": 0.46
     },
     {
@@ -4500,7 +4460,7 @@
      "sel": "1570038|Double Chance|Home/Draw",
      "texto": "Cadiz o empate",
      "cuota": 1.67,
-     "prob": 0.5
+     "prob": 0.49
     },
     {
      "sel": "1570038|Both Teams Score|Yes",
@@ -4511,7 +4471,7 @@
     {
      "sel": "1570038|Corners 1x2|Away",
      "texto": "Cordoba hace más córners",
-     "cuota": 1.57,
+     "cuota": 1.62,
      "prob": 0.33
     }
    ]
@@ -4534,13 +4494,13 @@
      "sel": "1575550|Match Winner|Home",
      "texto": "Gana el GIL Vicente",
      "cuota": 1.8,
-     "prob": 0.71
+     "prob": 0.68
     },
     {
      "sel": "1575550|Total - Away|Over 0.5",
      "texto": "Estoril marca",
      "cuota": 1.5,
-     "prob": 0.45
+     "prob": 0.46
     },
     {
      "sel": "1575550|Both Teams Score|Yes",
@@ -4558,7 +4518,7 @@
    "liga": "Liga I",
    "datos": [
     "El FC Botosani no ha ganado fuera en sus últimos 6 partidos.",
-    "El Rapid va 2º y el FC Botosani 12º en la liga.",
+    "El Rapid va 2º y el FC Botosani 13º en la liga.",
     "El Rapid ha ganado 3 de sus últimos 5 partidos.",
     "Los partidos del Rapid llevan 3,6 goles de media (últimos 8).",
     "Los partidos del FC Botosani llevan 3,1 goles de media (últimos 8)."
@@ -4568,13 +4528,13 @@
      "sel": "1565312|Match Winner|Home",
      "texto": "Gana el Rapid",
      "cuota": 1.5,
-     "prob": 0.66
+     "prob": 0.63
     },
     {
      "sel": "1565312|Total - Home|Over 1.5",
      "texto": "Rapid marca 2 o más",
      "cuota": 1.53,
-     "prob": 0.59
+     "prob": 0.58
     },
     {
      "sel": "1565312|Total - Away|Over 0.5",
@@ -4598,14 +4558,21 @@
    "liga": "Bundesliga",
    "datos": [
     "Los partidos del Borussia Dortmund llevan 2,8 goles de media (últimos 8).",
-    "Los partidos del Bayer Leverkusen llevan 3,5 goles de media (últimos 8)."
+    "Los partidos del Bayer Leverkusen llevan 3,5 goles de media (últimos 8).",
+    "El Bayer Leverkusen ha ganado 3 de sus últimos 5 partidos."
    ],
    "picks": [
     {
      "sel": "1575230|Both Teams Score|Yes",
      "texto": "Ambos marcan en Borussia Dortmund–Bayer Leverkusen",
      "cuota": 1.44,
-     "prob": 0.48
+     "prob": 0.49
+    },
+    {
+     "sel": "1575230|Double Chance|Draw/Away",
+     "texto": "Bayer Leverkusen o empate",
+     "cuota": 1.7,
+     "prob": 0.38
     }
    ]
   },
@@ -4625,7 +4592,7 @@
      "sel": "1552239|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del NEC Nijmegen–Twente",
      "cuota": 1.57,
-     "prob": 0.56
+     "prob": 0.57
     },
     {
      "sel": "1552239|Both Teams Score|Yes",
@@ -4671,16 +4638,10 @@
      "prob": 0.46
     },
     {
-     "sel": "1550209|Total Corners (1st Half)|Over 4",
-     "texto": "Más de 4 córners en la 1ª parte en Como–Juventus",
-     "cuota": 1.72,
-     "prob": 0.43
-    },
-    {
      "sel": "1550209|Away Team Total Cards|Over 1.5",
      "texto": "Juventus ve más de 1,5 tarjetas",
      "cuota": 1.57,
-     "prob": 0.42
+     "prob": 0.43
     }
    ]
   },
@@ -4699,14 +4660,20 @@
     {
      "sel": "1552833|Double Chance|Home/Draw",
      "texto": "Lyon o empate",
-     "cuota": 1.4,
-     "prob": 0.5
+     "cuota": 1.36,
+     "prob": 0.49
     },
     {
      "sel": "1552833|Both Teams Score|Yes",
      "texto": "Ambos marcan en Lyon–Monaco",
      "cuota": 1.75,
      "prob": 0.46
+    },
+    {
+     "sel": "1552833|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners en Lyon–Monaco",
+     "cuota": 1.78,
+     "prob": 0.42
     }
    ]
   },
@@ -4724,8 +4691,8 @@
     {
      "sel": "1570471|Both Teams Score|Yes",
      "texto": "Ambos marcan en Real Sociedad–Sevilla",
-     "cuota": 1.57,
-     "prob": 0.46
+     "cuota": 1.62,
+     "prob": 0.45
     }
    ]
   },
@@ -4747,13 +4714,13 @@
      "sel": "1570037|Match Winner|Home",
      "texto": "Gana el Almeria",
      "cuota": 1.67,
-     "prob": 0.7
+     "prob": 0.66
     },
     {
      "sel": "1570037|To Win Either Half|Home",
      "texto": "Almeria gana alguna de las dos partes",
      "cuota": 1.36,
-     "prob": 0.64
+     "prob": 0.63
     },
     {
      "sel": "1570037|Total - Home|Over 1.5",
@@ -4797,7 +4764,7 @@
      "sel": "1575549|Shots.1x2|Home",
      "texto": "FC Porto hace más tiros",
      "cuota": 1.4,
-     "prob": 0.53
+     "prob": 0.52
     },
     {
      "sel": "1575549|Total - Away|Over 0.5",
@@ -4833,10 +4800,10 @@
    ],
    "picks": [
     {
-     "sel": "1550212|Home Team Total Cards|Over 1.5",
-     "texto": "Lecce ve más de 1,5 tarjetas",
-     "cuota": 1.5,
-     "prob": 0.62
+     "sel": "1550212|Total - Home|Over 0.5",
+     "texto": "Lecce marca",
+     "cuota": 1.36,
+     "prob": 0.7
     },
     {
      "sel": "1550212|Goals Over/Under - Second Half|Over 1.5",
@@ -4851,8 +4818,8 @@
      "prob": 0.49
     },
     {
-     "sel": "1550212|Corners Over Under|Over 9",
-     "texto": "Más de 9 córners en Lecce–Atalanta",
+     "sel": "1550212|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners en Lecce–Atalanta",
      "cuota": 1.8,
      "prob": 0.44
     },
@@ -4860,7 +4827,7 @@
      "sel": "1550212|Shots.1x2|Away",
      "texto": "Atalanta hace más tiros",
      "cuota": 1.67,
-     "prob": 0.4
+     "prob": 0.41
     }
    ]
   },
@@ -4890,7 +4857,7 @@
    "visitante": "Torreense",
    "liga": "Segunda Liga",
    "datos": [
-    "El Academica va 6º y el Torreense 14º en la liga.",
+    "El Academica va 7º y el Torreense 14º en la liga.",
     "El Torreense solo ha ganado 1 de sus últimos 5.",
     "Los partidos del Academica llevan 3,0 goles de media (últimos 8).",
     "Los partidos del Torreense llevan 3,2 goles de media (últimos 8)."
@@ -4900,7 +4867,7 @@
      "sel": "1576539|Double Chance|Home/Draw",
      "texto": "Academica o empate",
      "cuota": 1.44,
-     "prob": 0.52
+     "prob": 0.51
     },
     {
      "sel": "1576539|Both Teams Score|Yes",
@@ -4930,15 +4897,15 @@
      "prob": 0.58
     },
     {
-     "sel": "1570045|Corners 1x2|Home",
-     "texto": "Oviedo hace más córners",
-     "cuota": 1.36,
-     "prob": 0.48
-    },
-    {
      "sel": "1570045|Total - Away|Over 0.5",
      "texto": "Celta de Vigo II marca",
      "cuota": 1.57,
+     "prob": 0.48
+    },
+    {
+     "sel": "1570045|Corners 1x2|Home",
+     "texto": "Oviedo hace más córners",
+     "cuota": 1.36,
      "prob": 0.47
     },
     {
@@ -4967,7 +4934,7 @@
      "sel": "1550208|Total - Home|Over 0.5",
      "texto": "Cagliari marca",
      "cuota": 1.53,
-     "prob": 0.66
+     "prob": 0.67
     },
     {
      "sel": "1550208|Home Team Total Cards|Over 1.5",
@@ -4978,20 +4945,20 @@
     {
      "sel": "1550208|Match Winner|Away",
      "texto": "Gana el AC Milan",
-     "cuota": 1.67,
-     "prob": 0.5
+     "cuota": 1.7,
+     "prob": 0.49
     },
     {
      "sel": "1550208|Home Corners Over/Under|Over 2.5",
      "texto": "Cagliari hace más de 2,5 córners",
      "cuota": 1.57,
-     "prob": 0.49
+     "prob": 0.48
     },
     {
      "sel": "1550208|To Win Either Half|Away",
      "texto": "AC Milan gana alguna de las dos partes",
      "cuota": 1.4,
-     "prob": 0.44
+     "prob": 0.45
     }
    ]
   },
@@ -5032,9 +4999,21 @@
      "prob": 0.55
     },
     {
+     "sel": "1575547|Total Corners (1st Half)|Over 4.5",
+     "texto": "Más de 4,5 córners en la 1ª parte en Benfica–Famalicao",
+     "cuota": 1.75,
+     "prob": 0.42
+    },
+    {
+     "sel": "1575547|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners en Benfica–Famalicao",
+     "cuota": 1.67,
+     "prob": 0.42
+    },
+    {
      "sel": "1575547|Away Corners Over/Under|Over 2.5",
      "texto": "Famalicao hace más de 2,5 córners",
-     "cuota": 1.62,
+     "cuota": 1.67,
      "prob": 0.3
     }
    ]
@@ -5060,8 +5039,8 @@
     {
      "sel": "1575548|Match Winner|Away",
      "texto": "Gana el SC Braga",
-     "cuota": 1.45,
-     "prob": 0.48
+     "cuota": 1.48,
+     "prob": 0.47
     }
    ]
   }
@@ -5075,9 +5054,9 @@
    "liga": "Eredivisie",
    "datos": [
     "Los partidos del Telstar llevan 4,1 goles de media (últimos 8).",
-    "Los partidos del Groningen llevan 4,8 goles de media (últimos 8).",
+    "Los partidos del Groningen llevan 4,6 goles de media (últimos 8).",
     "El Groningen no ha ganado ninguno de sus últimos 5.",
-    "El Groningen va 11º y el Telstar 16º en la liga."
+    "El Groningen va 10º y el Telstar 16º en la liga."
    ],
    "picks": [
     {
@@ -5090,7 +5069,7 @@
      "sel": "1552250|Double Chance|Home/Draw",
      "texto": "Telstar o empate",
      "cuota": 1.57,
-     "prob": 0.51
+     "prob": 0.49
     },
     {
      "sel": "1552250|Total - Away|Over 1.5",
@@ -5161,7 +5140,7 @@
      "sel": "1552844|Match Winner|Away",
      "texto": "Gana el Paris Saint Germain",
      "cuota": 1.5,
-     "prob": 0.51
+     "prob": 0.5
     },
     {
      "sel": "1552844|Both Teams Score|Yes",
@@ -5192,7 +5171,7 @@
      "sel": "1550218|Home Player Shots|Tommaso Pobega - 1",
      "texto": "Tommaso Pobega: 1+ tiros",
      "cuota": 1.4,
-     "prob": 0.52
+     "prob": 0.53
     },
     {
      "sel": "1550218|Home Player Shots|Jens Odgaard - 2",
@@ -5245,12 +5224,699 @@
      "sel": "1557491|Double Chance|Home/Draw",
      "texto": "Coventry o empate",
      "cuota": 1.36,
-     "prob": 0.5
+     "prob": 0.49
     },
     {
      "sel": "1557491|Both Teams Score|Yes",
      "texto": "Ambos marcan en Coventry–Ipswich",
      "cuota": 1.57,
+     "prob": 0.48
+    }
+   ]
+  }
+ ],
+ "2026-12-05": [
+  {
+   "partido_id": 1570479,
+   "fecha": "2026-12-05T14:00",
+   "local": "Racing Santander",
+   "visitante": "Deportivo La Coruna",
+   "liga": "LaLiga",
+   "datos": [
+    "Los partidos del Racing Santander llevan 3,4 goles de media (últimos 8).",
+    "Los partidos del Deportivo La Coruna llevan 2,5 goles de media (últimos 8).",
+    "El Racing Santander va 7º y el Deportivo La Coruna 12º en la liga.",
+    "El Racing Santander ha ganado 4 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1570479|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Racing Santander–Deportivo La Coruna",
+     "cuota": 1.73,
+     "prob": 0.56
+    },
+    {
+     "sel": "1570479|Double Chance|Home/Draw",
+     "texto": "Racing Santander o empate",
+     "cuota": 1.4,
+     "prob": 0.51
+    },
+    {
+     "sel": "1570479|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Racing Santander–Deportivo La Coruna",
+     "cuota": 1.44,
+     "prob": 0.47
+    }
+   ]
+  },
+  {
+   "partido_id": 1550224,
+   "fecha": "2026-12-05T15:00",
+   "local": "Monza",
+   "visitante": "Como",
+   "liga": "Serie A",
+   "datos": [
+    "Los partidos del Monza llevan 3,5 goles de media (últimos 8).",
+    "Los partidos del Como llevan 3,4 goles de media (últimos 8).",
+    "El Como va 5º y el Monza 14º en la liga.",
+    "El Monza solo ha ganado 1 de sus últimos 5.",
+    "El Como ha ganado 4 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1550224|Total - Home|Over 0.5",
+     "texto": "Monza marca",
+     "cuota": 1.44,
+     "prob": 0.68
+    },
+    {
+     "sel": "1550224|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Monza–Como",
+     "cuota": 1.73,
+     "prob": 0.54
+    },
+    {
+     "sel": "1550224|Match Winner|Away",
+     "texto": "Gana el Como",
+     "cuota": 1.44,
+     "prob": 0.49
+    },
+    {
+     "sel": "1550224|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Monza–Como",
+     "cuota": 1.62,
+     "prob": 0.48
+    },
+    {
+     "sel": "1550224|Total - Away|Over 1.5",
+     "texto": "Como marca 2 o más",
+     "cuota": 1.44,
+     "prob": 0.35
+    }
+   ]
+  },
+  {
+   "partido_id": 1575244,
+   "fecha": "2026-12-05T15:30",
+   "local": "FC Augsburg",
+   "visitante": "1. FC Köln",
+   "liga": "Bundesliga",
+   "datos": [
+    "Los partidos del FC Augsburg llevan 4,8 goles de media (últimos 8).",
+    "Los partidos del 1. FC Köln llevan 2,4 goles de media (últimos 8).",
+    "El 1. FC Köln solo ha ganado 1 de sus últimos 5."
+   ],
+   "picks": [
+    {
+     "sel": "1575244|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del FC Augsburg–1. FC Köln",
+     "cuota": 1.62,
+     "prob": 0.56
+    },
+    {
+     "sel": "1575244|Home Player Shots|Anton Kade - 3",
+     "texto": "Anton Kade: 3+ tiros",
+     "cuota": 1.8,
+     "prob": 0.55
+    },
+    {
+     "sel": "1575244|Both Teams Score|Yes",
+     "texto": "Ambos marcan en FC Augsburg–1. FC Köln",
+     "cuota": 1.4,
+     "prob": 0.51
+    },
+    {
+     "sel": "1575244|Double Chance|Home/Draw",
+     "texto": "FC Augsburg o empate",
+     "cuota": 1.36,
+     "prob": 0.5
+    }
+   ]
+  },
+  {
+   "partido_id": 1575241,
+   "fecha": "2026-12-05T15:30",
+   "local": "Bayer Leverkusen",
+   "visitante": "Borussia Mönchengladbach",
+   "liga": "Bundesliga",
+   "datos": [
+    "El Bayer Leverkusen va 5º y el Borussia Mönchengladbach 18º en la liga.",
+    "Los partidos del Bayer Leverkusen llevan 3,5 goles de media (últimos 8).",
+    "Los partidos del Borussia Mönchengladbach llevan 3,1 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1575241|To Score In Both Halves By Teams|Home",
+     "texto": "Bayer Leverkusen marca en las dos partes",
+     "cuota": 1.67,
+     "prob": 0.6
+    },
+    {
+     "sel": "1575241|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Bayer Leverkusen–Borussia Mönchengladbach",
+     "cuota": 1.5,
+     "prob": 0.53
+    },
+    {
+     "sel": "1575241|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Bayer Leverkusen–Borussia Mönchengladbach",
+     "cuota": 1.57,
+     "prob": 0.49
+    },
+    {
+     "sel": "1575241|Total - Away|Over 0.5",
+     "texto": "Borussia Mönchengladbach marca",
+     "cuota": 1.44,
+     "prob": 0.47
+    }
+   ]
+  },
+  {
+   "partido_id": 1575242,
+   "fecha": "2026-12-05T15:30",
+   "local": "SC Freiburg",
+   "visitante": "1899 Hoffenheim",
+   "liga": "Bundesliga",
+   "datos": [
+    "Los partidos del SC Freiburg llevan 2,8 goles de media (últimos 8).",
+    "Los partidos del 1899 Hoffenheim llevan 2,5 goles de media (últimos 8).",
+    "El SC Freiburg va 3º y el 1899 Hoffenheim 10º en la liga.",
+    "El SC Freiburg ha ganado 5 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1575242|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del SC Freiburg–1899 Hoffenheim",
+     "cuota": 1.73,
+     "prob": 0.56
+    },
+    {
+     "sel": "1575242|Double Chance|Home/Draw",
+     "texto": "SC Freiburg o empate",
+     "cuota": 1.36,
+     "prob": 0.49
+    },
+    {
+     "sel": "1575242|Both Teams Score|Yes",
+     "texto": "Ambos marcan en SC Freiburg–1899 Hoffenheim",
+     "cuota": 1.44,
+     "prob": 0.48
+    }
+   ]
+  },
+  {
+   "partido_id": 1575245,
+   "fecha": "2026-12-05T15:30",
+   "local": "Union Berlin",
+   "visitante": "Hamburger SV",
+   "liga": "Bundesliga",
+   "datos": [
+    "El Hamburger SV solo ha ganado 1 de sus últimos 5."
+   ],
+   "picks": [
+    {
+     "sel": "1575245|Double Chance|Home/Draw",
+     "texto": "Union Berlin o empate",
+     "cuota": 1.44,
+     "prob": 0.48
+    }
+   ]
+  },
+  {
+   "partido_id": 1575240,
+   "fecha": "2026-12-05T15:30",
+   "local": "RB Leipzig",
+   "visitante": "FSV Mainz 05",
+   "liga": "Bundesliga",
+   "datos": [
+    "El RB Leipzig va 4º y el FSV Mainz 05 13º en la liga.",
+    "El RB Leipzig ha ganado 4 de sus últimos 5 partidos.",
+    "El FSV Mainz 05 no ha ganado ninguno de sus últimos 5.",
+    "Los partidos del RB Leipzig llevan 4,5 goles de media (últimos 8).",
+    "Los partidos del FSV Mainz 05 llevan 4,2 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1575240|Match Winner|Home",
+     "texto": "Gana el RB Leipzig",
+     "cuota": 1.57,
+     "prob": 0.68
+    },
+    {
+     "sel": "1575240|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del RB Leipzig–FSV Mainz 05",
+     "cuota": 1.53,
+     "prob": 0.59
+    },
+    {
+     "sel": "1575240|Both Teams Score|Yes",
+     "texto": "Ambos marcan en RB Leipzig–FSV Mainz 05",
+     "cuota": 1.4,
+     "prob": 0.51
+    }
+   ]
+  },
+  {
+   "partido_id": 1570480,
+   "fecha": "2026-12-05T16:15",
+   "local": "Rayo Vallecano",
+   "visitante": "Levante",
+   "liga": "LaLiga",
+   "datos": [
+    "Los partidos del Rayo Vallecano llevan 2,1 goles de media (últimos 8).",
+    "Los partidos del Levante llevan 2,6 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1570480|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Rayo Vallecano–Levante",
+     "cuota": 1.67,
+     "prob": 0.46
+    }
+   ]
+  },
+  {
+   "partido_id": 1552251,
+   "fecha": "2026-12-05T16:30",
+   "local": "Willem II",
+   "visitante": "Feyenoord",
+   "liga": "Eredivisie",
+   "datos": [
+    "Los partidos del Willem II llevan 4,6 goles de media (últimos 8).",
+    "Los partidos del Feyenoord llevan 3,6 goles de media (últimos 8).",
+    "El Willem II no ha ganado en casa en sus últimos 6 partidos.",
+    "El Feyenoord va 5º y el Willem II 18º en la liga."
+   ],
+   "picks": [
+    {
+     "sel": "1552251|Total - Home|Over 0.5",
+     "texto": "Willem II marca",
+     "cuota": 1.73,
+     "prob": 0.68
+    },
+    {
+     "sel": "1552251|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Willem II–Feyenoord",
+     "cuota": 1.5,
+     "prob": 0.54
+    },
+    {
+     "sel": "1552251|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Willem II–Feyenoord",
+     "cuota": 1.8,
+     "prob": 0.49
+    },
+    {
+     "sel": "1552251|To Score In Both Halves By Teams|Away",
+     "texto": "Feyenoord marca en las dos partes",
+     "cuota": 1.53,
+     "prob": 0.45
+    }
+   ]
+  },
+  {
+   "partido_id": 1550220,
+   "fecha": "2026-12-05T18:00",
+   "local": "Frosinone",
+   "visitante": "Inter",
+   "liga": "Serie A",
+   "datos": [
+    "Los partidos del Frosinone llevan 4,2 goles de media (últimos 8).",
+    "Los partidos del Inter llevan 3,1 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1550220|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Frosinone–Inter",
+     "cuota": 1.44,
+     "prob": 0.53
+    },
+    {
+     "sel": "1550220|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Frosinone–Inter",
+     "cuota": 1.36,
+     "prob": 0.51
+    }
+   ]
+  },
+  {
+   "partido_id": 1570482,
+   "fecha": "2026-12-05T18:30",
+   "local": "Villarreal",
+   "visitante": "Real Sociedad",
+   "liga": "LaLiga",
+   "datos": [
+    "Los partidos del Villarreal llevan 3,8 goles de media (últimos 8).",
+    "Los partidos del Real Sociedad llevan 3,8 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1570482|Total - Home|Over 1.5",
+     "texto": "Villarreal marca 2 o más",
+     "cuota": 1.5,
+     "prob": 0.57
+    },
+    {
+     "sel": "1570482|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Villarreal–Real Sociedad",
+     "cuota": 1.62,
+     "prob": 0.55
+    },
+    {
+     "sel": "1570482|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Villarreal–Real Sociedad",
+     "cuota": 1.44,
+     "prob": 0.52
+    }
+   ]
+  },
+  {
+   "partido_id": 1575243,
+   "fecha": "2026-12-05T18:30",
+   "local": "Eintracht Frankfurt",
+   "visitante": "Werder Bremen",
+   "liga": "Bundesliga",
+   "datos": [
+    "Los partidos del Eintracht Frankfurt llevan 3,1 goles de media (últimos 8).",
+    "Los partidos del Werder Bremen llevan 3,8 goles de media (últimos 8).",
+    "El Eintracht Frankfurt ha ganado 3 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1575243|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Eintracht Frankfurt–Werder Bremen",
+     "cuota": 1.62,
+     "prob": 0.56
+    },
+    {
+     "sel": "1575243|Home Player Shots|Fares Chaibi - 2",
+     "texto": "Fares Chaibi: 2+ tiros",
+     "cuota": 1.4,
+     "prob": 0.51
+    },
+    {
+     "sel": "1575243|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Eintracht Frankfurt–Werder Bremen",
+     "cuota": 1.4,
+     "prob": 0.5
+    },
+    {
+     "sel": "1575243|Double Chance|Home/Draw",
+     "texto": "Eintracht Frankfurt o empate",
+     "cuota": 1.36,
+     "prob": 0.48
+    }
+   ]
+  },
+  {
+   "partido_id": 1570047,
+   "fecha": "2026-12-05T18:30",
+   "local": "FC Andorra",
+   "visitante": "Oviedo",
+   "liga": "Segunda",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1570047|Away Corners Over/Under|Over 2.5",
+     "texto": "Oviedo hace 3+ córners",
+     "cuota": 1.37,
+     "prob": 0.29
+    }
+   ]
+  },
+  {
+   "partido_id": 1552249,
+   "fecha": "2026-12-05T18:45",
+   "local": "Sparta Rotterdam",
+   "visitante": "NEC Nijmegen",
+   "liga": "Eredivisie",
+   "datos": [
+    "Los partidos del Sparta Rotterdam llevan 4,6 goles de media (últimos 8).",
+    "Los partidos del NEC Nijmegen llevan 4,1 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1552249|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Sparta Rotterdam–NEC Nijmegen",
+     "cuota": 1.62,
+     "prob": 0.57
+    },
+    {
+     "sel": "1552249|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Sparta Rotterdam–NEC Nijmegen",
+     "cuota": 1.4,
+     "prob": 0.52
+    },
+    {
+     "sel": "1552249|Double Chance|Home/Draw",
+     "texto": "Sparta Rotterdam o empate",
+     "cuota": 1.53,
+     "prob": 0.48
+    }
+   ]
+  },
+  {
+   "partido_id": 1552244,
+   "fecha": "2026-12-05T20:00",
+   "local": "AZ Alkmaar",
+   "visitante": "PSV Eindhoven",
+   "liga": "Eredivisie",
+   "datos": [
+    "Los partidos del AZ Alkmaar llevan 4,1 goles de media (últimos 8).",
+    "Los partidos del PSV Eindhoven llevan 4,2 goles de media (últimos 8).",
+    "El PSV Eindhoven ha ganado 3 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1552244|Total - Home|Over 1.5",
+     "texto": "AZ Alkmaar marca 2 o más",
+     "cuota": 1.73,
+     "prob": 0.58
+    },
+    {
+     "sel": "1552244|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del AZ Alkmaar–PSV Eindhoven",
+     "cuota": 1.44,
+     "prob": 0.54
+    },
+    {
+     "sel": "1552244|Double Chance|Draw/Away",
+     "texto": "PSV Eindhoven o empate",
+     "cuota": 1.36,
+     "prob": 0.36
+    },
+    {
+     "sel": "1552244|Total - Away|Over 1.5",
+     "texto": "PSV Eindhoven marca 2 o más",
+     "cuota": 1.5,
+     "prob": 0.34
+    }
+   ]
+  },
+  {
+   "partido_id": 1550225,
+   "fecha": "2026-12-05T20:45",
+   "local": "Napoli",
+   "visitante": "Lecce",
+   "liga": "Serie A",
+   "datos": [
+    "El Napoli va 8º y el Lecce 15º en la liga.",
+    "Los partidos del Napoli llevan 4,0 goles de media (últimos 8).",
+    "Los partidos del Lecce llevan 3,1 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1550225|Total - Home|Over 1.5",
+     "texto": "Napoli marca 2 o más",
+     "cuota": 1.4,
+     "prob": 0.58
+    },
+    {
+     "sel": "1550225|Total - Away|Over 0.5",
+     "texto": "Lecce marca",
+     "cuota": 1.73,
+     "prob": 0.47
+    }
+   ]
+  },
+  {
+   "partido_id": 1552840,
+   "fecha": "2026-12-05T20:45",
+   "local": "Monaco",
+   "visitante": "Angers",
+   "liga": "Ligue 1",
+   "datos": [
+    "El Monaco va 8º y el Angers 17º en la liga.",
+    "Los partidos del Monaco llevan 2,6 goles de media (últimos 8).",
+    "Los partidos del Angers llevan 2,9 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1552840|Total - Home|Over 1.5",
+     "texto": "Monaco marca 2 o más",
+     "cuota": 1.36,
+     "prob": 0.59
+    },
+    {
+     "sel": "1552840|Total - Away|Over 0.5",
+     "texto": "Angers marca",
+     "cuota": 1.73,
+     "prob": 0.45
+    }
+   ]
+  },
+  {
+   "partido_id": 1552837,
+   "fecha": "2026-12-05T20:45",
+   "local": "Lens",
+   "visitante": "Le Havre",
+   "liga": "Ligue 1",
+   "datos": [
+    "Los partidos del Lens llevan 3,8 goles de media (últimos 8).",
+    "Los partidos del Le Havre llevan 3,6 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1552837|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Lens–Le Havre",
+     "cuota": 1.8,
+     "prob": 0.55
+    },
+    {
+     "sel": "1552837|Total - Away|Over 0.5",
+     "texto": "Le Havre marca",
+     "cuota": 1.53,
+     "prob": 0.49
+    },
+    {
+     "sel": "1552837|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Lens–Le Havre",
+     "cuota": 1.7,
+     "prob": 0.47
+    }
+   ]
+  },
+  {
+   "partido_id": 1552843,
+   "fecha": "2026-12-05T20:45",
+   "local": "Strasbourg",
+   "visitante": "Lorient",
+   "liga": "Ligue 1",
+   "datos": [
+    "Los partidos del Strasbourg llevan 3,2 goles de media (últimos 8).",
+    "Los partidos del Lorient llevan 1,9 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1552843|Home Player Shots|Dario Essugo - 1",
+     "texto": "Dario Essugo: 1+ tiros",
+     "cuota": 1.5,
+     "prob": 0.53
+    },
+    {
+     "sel": "1552843|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Strasbourg–Lorient",
+     "cuota": 1.8,
+     "prob": 0.46
+    }
+   ]
+  },
+  {
+   "partido_id": 1552841,
+   "fecha": "2026-12-05T20:45",
+   "local": "Paris FC",
+   "visitante": "Le Mans",
+   "liga": "Ligue 1",
+   "datos": [
+    "El Paris FC no ha perdido en casa en sus últimos 6 partidos (5V 1E).",
+    "El Paris FC va 2º y el Le Mans 15º en la liga.",
+    "El Paris FC ha ganado 4 de sus últimos 5 partidos.",
+    "Los partidos del Paris FC llevan 2,9 goles de media (últimos 8).",
+    "Los partidos del Le Mans llevan 3,1 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1552841|Match Winner|Home",
+     "texto": "Gana el Paris FC",
+     "cuota": 1.42,
+     "prob": 0.66
+    },
+    {
+     "sel": "1552841|Total - Home|Over 1.5",
+     "texto": "Paris FC marca 2 o más",
+     "cuota": 1.44,
+     "prob": 0.59
+    },
+    {
+     "sel": "1552841|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Paris FC–Le Mans",
+     "cuota": 1.8,
+     "prob": 0.47
+    },
+    {
+     "sel": "1552841|Total - Away|Over 0.5",
+     "texto": "Le Mans marca",
+     "cuota": 1.62,
+     "prob": 0.45
+    }
+   ]
+  },
+  {
+   "partido_id": 1570476,
+   "fecha": "2026-12-05T21:00",
+   "local": "Barcelona",
+   "visitante": "Celta Vigo",
+   "liga": "LaLiga",
+   "datos": [
+    "Los partidos del Barcelona llevan 4,9 goles de media (últimos 8).",
+    "Los partidos del Celta Vigo llevan 2,5 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1570476|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Barcelona–Celta Vigo",
+     "cuota": 1.36,
+     "prob": 0.56
+    },
+    {
+     "sel": "1570476|Total - Away|Over 0.5",
+     "texto": "Celta Vigo marca",
+     "cuota": 1.8,
+     "prob": 0.46
+    }
+   ]
+  },
+  {
+   "partido_id": 1552248,
+   "fecha": "2026-12-05T21:00",
+   "local": "Fortuna Sittard",
+   "visitante": "PEC Zwolle",
+   "liga": "Eredivisie",
+   "datos": [
+    "Los partidos del Fortuna Sittard llevan 2,4 goles de media (últimos 8).",
+    "Los partidos del PEC Zwolle llevan 2,6 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1552248|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Fortuna Sittard–PEC Zwolle",
+     "cuota": 1.5,
+     "prob": 0.47
+    }
+   ]
+  },
+  {
+   "partido_id": 1570057,
+   "fecha": "2026-12-05T21:00",
+   "local": "Tenerife",
+   "visitante": "Eldense",
+   "liga": "Segunda",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1570057|Home Corners Over/Under|Over 2.5",
+     "texto": "Tenerife hace 3+ córners",
+     "cuota": 1.37,
      "prob": 0.48
     }
    ]

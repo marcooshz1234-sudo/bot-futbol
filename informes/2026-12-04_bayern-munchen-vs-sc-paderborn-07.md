@@ -1,7 +1,7 @@
 # Bayern München – SC Paderborn 07
 **Bundesliga** · Regular Season - 12 · 04/12/2026 20:30 (hora España) · Allianz Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
 
 ## Cuotas Bet365
 _Actualizadas: 27/11 09:24_

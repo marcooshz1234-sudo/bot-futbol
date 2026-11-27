@@ -1,10 +1,10 @@
 # Chaves – Tondela
 **Segunda Liga** · Regular Season - 12 · 28/11/2026 15:00 (hora España) · Estádio Engenheiro Branco Teixeira
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 09:22_
+_Actualizadas: 27/11 22:13_
 
 - **1X2:** 1 **3.30**  ·  X **3.25**  ·  2 **2.00**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.30**  ·  X2 **1.30**
@@ -12,7 +12,7 @@ _Actualizadas: 27/11 09:22_
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.33** · menos **3.25**
-    - 2,5: más **2.08** · menos **1.73**
+    - 2,5: más **2.05** · menos **1.75**
     - 3,5: más **3.75** · menos **1.25**
     - 4,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
@@ -31,7 +31,8 @@ _Actualizadas: 27/11 09:22_
 - **Córners más/menos:**
     - 8,5: más **1.73** · menos **2.00**
     - 9: más **1.98** · menos **1.82**
-- **Córners 1X2:** 1 **2.40**  ·  X **7.50**  ·  2 **1.80**
+    - 9,5: más **2.10** · menos **1.67**
+- **Córners 1X2:** 1 **2.38**  ·  X **8.00**  ·  2 **1.80**
 - **1X2 descanso:** 1 **4.00**  ·  X **2.10**  ·  2 **2.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
@@ -46,9 +47,10 @@ _Actualizadas: 27/11 09:22_
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.20**
 - **Home Corners Over/Under:**
     - 3,5: más **1.67** · menos **2.10**
+    - 4,5: más **2.20** · menos **1.62**
 - **Away Corners Over/Under:**
-    - 4,5: más **1.80** · menos **1.91**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.20**  ·  Menos de 4 **2.30**
+    - 4,5: más **1.73** · menos **2.00**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.78**  ·  Menos de 4 **2.02**
 
 ## Estadísticas de equipo
 | | Chaves (total) | Chaves en casa | Tondela (total) | Tondela fuera |

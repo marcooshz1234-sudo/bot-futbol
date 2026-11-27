@@ -1,10 +1,10 @@
 # Corvinul Hunedoara – Farul Constanta
 **Liga I** · Regular Season - 17 · 28/11/2026 16:00 (hora España) · Petre Libardi Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 09:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 09:22_
+_Actualizadas: 27/11 22:14_
 
 - **1X2:** 1 **2.00**  ·  X **3.40**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.28**  ·  X2 **1.67**
@@ -32,7 +32,7 @@ _Actualizadas: 27/11 09:22_
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **2.02** · menos **1.78**
-- **Córners 1X2:** 1 **1.57**  ·  X **8.50**  ·  2 **2.75**
+- **Córners 1X2:** 1 **1.50**  ·  X **8.50**  ·  2 **3.00**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.20**  ·  2 **4.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -47,10 +47,11 @@ _Actualizadas: 27/11 09:22_
 - **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.75**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **11.00**  ·  Away/No **6.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.40**
 - **Home Corners Over/Under:**
-    - 5,5: más **1.91** · menos **1.80**
+    - 5,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
+    - 3,5: más **1.67** · menos **2.10**
     - 4,5: más **2.20** · menos **1.62**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.92**  ·  Menos de 4.5 **1.88**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.95**  ·  Menos de 4.5 **1.85**
 
 ## Estadísticas de equipo
 | | Corvinul Hunedoara (total) | Corvinul Hunedoara en casa | Farul Constanta (total) | Farul Constanta fuera |
