@@ -9,6 +9,24 @@
    "resueltos_con_cuota": 3,
    "prob_cuota": 2.453
   },
+  "Tipster Pérez": {
+   "n": 18,
+   "verdes": 5,
+   "rojos": 5,
+   "nulos": 0,
+   "unidades": -2.5,
+   "resueltos_con_cuota": 10,
+   "prob_cuota": 7.087
+  },
+  "TRADER FOOTBALL || FREE👨🏼‍💻": {
+   "n": 18,
+   "verdes": 10,
+   "rojos": 4,
+   "nulos": 0,
+   "unidades": 1.7,
+   "resueltos_con_cuota": 14,
+   "prob_cuota": 9.041
+  },
   "TipsAnalistas": {
    "n": 17,
    "verdes": 10,
@@ -17,24 +35,6 @@
    "unidades": 1.2,
    "resueltos_con_cuota": 11,
    "prob_cuota": 6.561
-  },
-  "TRADER FOOTBALL || FREE👨🏼‍💻": {
-   "n": 17,
-   "verdes": 10,
-   "rojos": 4,
-   "nulos": 0,
-   "unidades": 1.7,
-   "resueltos_con_cuota": 14,
-   "prob_cuota": 9.041
-  },
-  "Tipster Pérez": {
-   "n": 16,
-   "verdes": 5,
-   "rojos": 5,
-   "nulos": 0,
-   "unidades": -2.5,
-   "resueltos_con_cuota": 10,
-   "prob_cuota": 7.087
   },
   "INSIDER": {
    "n": 14,
@@ -63,6 +63,22 @@
    "resueltos_con_cuota": 10,
    "prob_cuota": 4.813
   },
+  "OC TIPSTER": {
+   "n": 9,
+   "verdes": 2,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 1.35,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 1.169
+  },
+  "ICARDI | PICKS": {
+   "n": 9,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "TipsPro🤙": {
    "n": 8,
    "verdes": 7,
@@ -81,15 +97,6 @@
    "resueltos_con_cuota": 6,
    "prob_cuota": 3.77
   },
-  "OC TIPSTER": {
-   "n": 8,
-   "verdes": 2,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": 1.35,
-   "resueltos_con_cuota": 3,
-   "prob_cuota": 1.169
-  },
   "TipsPro": {
    "n": 7,
    "verdes": 4,
@@ -98,13 +105,6 @@
    "unidades": -0.72,
    "resueltos_con_cuota": 6,
    "prob_cuota": 4.52
-  },
-  "ICARDI | PICKS": {
-   "n": 7,
-   "verdes": 0,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": 0.0
   },
   "STAKE REAL | JB APUESTAS": {
    "n": 6,
@@ -149,6 +149,15 @@
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.009
   },
+  "MERIDIANPICKS 🌐": {
+   "n": 4,
+   "verdes": 2,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 0.75,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 1.58
+  },
   "PABLO ANALISTA": {
    "n": 3,
    "verdes": 2,
@@ -157,15 +166,6 @@
    "unidades": -0.24,
    "resueltos_con_cuota": 3,
    "prob_cuota": 2.113
-  },
-  "MERIDIANPICKS 🌐": {
-   "n": 3,
-   "verdes": 2,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": 0.75,
-   "resueltos_con_cuota": 3,
-   "prob_cuota": 1.58
   },
   "ApuestasCobrich - Canal Gratuito": {
    "n": 3,
@@ -206,7 +206,7 @@
    "prob_cuota": 13.771
   },
   "Goals Over/Under Over 2.5": {
-   "n": 21,
+   "n": 22,
    "verdes": 10,
    "rojos": 8,
    "nulos": 0,
@@ -250,6 +250,15 @@
    "resueltos_con_cuota": 4,
    "prob_cuota": 2.885
   },
+  "Total - Home Over 1.5": {
+   "n": 7,
+   "verdes": 3,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 1.32,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 2.097
+  },
   "Both Teams Score Yes": {
    "n": 6,
    "verdes": 5,
@@ -258,15 +267,6 @@
    "unidades": 3.1,
    "resueltos_con_cuota": 4,
    "prob_cuota": 2.325
-  },
-  "Total - Home Over 1.5": {
-   "n": 6,
-   "verdes": 3,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": 1.32,
-   "resueltos_con_cuota": 3,
-   "prob_cuota": 2.097
   },
   "Goals Over/Under Over 3.0": {
    "n": 5,
@@ -294,7 +294,7 @@
    "prob_cuota": 3.07
   },
   "Total - Away Over 0.5": {
-   "n": 3,
+   "n": 4,
    "verdes": 2,
    "rojos": 1,
    "nulos": 0,
@@ -728,11 +728,39 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Crear apuesta Ambos marcan + Zabiri 2+ remates a puerta + Luque 1+ remate a puerta + Canales 1+ falta recibida + I. Vicente 1+ falta recibida": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Cards Over Under Over 3.5": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Crear apuesta De la Fuente 1+ remate a puerta + Nacho Pérez 1+ falta cometida + J. Salinas 1+ falta recibida": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Crear apuesta De la Fuente 2+ remates a puerta + Nacho Pérez 2+ faltas cometidas + J. Salinas 2+ faltas recibidas": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "equipo": {
   "—": {
-   "n": 110,
+   "n": 117,
    "verdes": 42,
    "rojos": 18,
    "nulos": 0,
@@ -1139,7 +1167,7 @@
  },
  "razon": {
   "sin razón": {
-   "n": 105,
+   "n": 108,
    "verdes": 58,
    "rojos": 17,
    "nulos": 0,
@@ -1148,7 +1176,7 @@
    "prob_cuota": 36.155
   },
   "goles": {
-   "n": 45,
+   "n": 48,
    "verdes": 16,
    "rojos": 11,
    "nulos": 0,
@@ -1157,7 +1185,7 @@
    "prob_cuota": 19.066
   },
   "casa/fuera": {
-   "n": 36,
+   "n": 38,
    "verdes": 14,
    "rojos": 10,
    "nulos": 0,
@@ -1193,7 +1221,7 @@
    "prob_cuota": 5.714
   },
   "bajas": {
-   "n": 10,
+   "n": 11,
    "verdes": 2,
    "rojos": 6,
    "nulos": 0,
@@ -1213,7 +1241,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 76,
+   "n": 77,
    "verdes": 34,
    "rojos": 19,
    "nulos": 0,
@@ -1222,7 +1250,7 @@
    "prob_cuota": 33.498
   },
   "<1,50": {
-   "n": 35,
+   "n": 37,
    "verdes": 21,
    "rojos": 6,
    "nulos": 0,
@@ -1231,7 +1259,7 @@
    "prob_cuota": 21.934
   },
   "?": {
-   "n": 29,
+   "n": 30,
    "verdes": 16,
    "rojos": 4,
    "nulos": 0,
@@ -1247,7 +1275,7 @@
    "prob_cuota": 8.417
   },
   ">2,20": {
-   "n": 13,
+   "n": 16,
    "verdes": 4,
    "rojos": 3,
    "nulos": 0,
@@ -1293,6 +1321,15 @@
    "resueltos_con_cuota": 9,
    "prob_cuota": 6.251
   },
+  "La Liga": {
+   "n": 8,
+   "verdes": 1,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -0.23,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.442
+  },
   "UEFA Europa League": {
    "n": 8,
    "verdes": 3,
@@ -1320,15 +1357,6 @@
    "resueltos_con_cuota": 5,
    "prob_cuota": 3.596
   },
-  "La Liga": {
-   "n": 3,
-   "verdes": 1,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": -0.23,
-   "resueltos_con_cuota": 2,
-   "prob_cuota": 1.442
-  },
   "Bundesliga": {
    "n": 2,
    "verdes": 0,
@@ -1337,6 +1365,15 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.621
+  },
+  "Serie A": {
+   "n": 2,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.66,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.602
   },
   "Serie C - Girone A": {
    "n": 1,
@@ -1347,19 +1384,17 @@
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.5
   },
-  "Serie A": {
+  "Premier League": {
    "n": 1,
-   "verdes": 1,
+   "verdes": 0,
    "rojos": 0,
    "nulos": 0,
-   "unidades": 0.66,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.602
+   "unidades": 0.0
   }
  },
  "lado": {
   "partido": {
-   "n": 92,
+   "n": 97,
    "verdes": 32,
    "rojos": 13,
    "nulos": 0,
@@ -1368,7 +1403,7 @@
    "prob_cuota": 24.4
   },
   "local": {
-   "n": 51,
+   "n": 52,
    "verdes": 28,
    "rojos": 15,
    "nulos": 0,
@@ -1377,7 +1412,7 @@
    "prob_cuota": 22.538
   },
   "visitante": {
-   "n": 38,
+   "n": 39,
    "verdes": 26,
    "rojos": 9,
    "nulos": 0,
@@ -1388,7 +1423,7 @@
  },
  "por_que": {
   "—": {
-   "n": 102,
+   "n": 109,
    "verdes": 37,
    "rojos": 25,
    "nulos": 0,
@@ -1462,7 +1497,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 172,
+   "n": 179,
    "verdes": 79,
    "rojos": 35,
    "nulos": 0,
