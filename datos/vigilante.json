@@ -1,7 +1,6 @@
 {
  "informe": "2026-11-27",
  "vistos": {
-  "redes-2026-11-24-verde-auto-2026-11-24-pick-extra-city-threads-instagram": "2026-11-24T23:10",
   "directo-2026-11-25-pick-claude-1": "2026-11-24T23:40",
   "directo-2026-11-25-pick-claude-2": "2026-11-24T23:40",
   "directo-2026-11-25-pick-claude-3": "2026-11-24T23:40",
@@ -118,7 +117,8 @@
   "prensa-1563293-f1a697a8": "2026-11-27T20:04",
   "prensa-1575234-MDíaz": "2026-11-27T21:04",
   "prensa-1550211-e7d5d810": "2026-11-27T21:58",
-  "prensa-1550214-b4c678a0": "2026-11-27T21:58"
+  "prensa-1550214-b4c678a0": "2026-11-27T21:58",
+  "prensa-1552835-5e9b4862": "2026-11-27T23:18"
  },
  "abiertos": [
   {
@@ -126,11 +126,11 @@
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0500-x500, loca-th-1230-x500)"
   },
   {
-   "clave": "repe-2026-11-27-1557485|Away Player Shots|Morgan Rogers - 2",
+   "clave": "repe-2026-11-27-1557485|Home Player Shots|Liam Delap - 3",
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-0900-tiros)"
   },
   {
-   "clave": "repe-2026-11-27-1557485|Home Player Shots|Liam Delap - 3",
+   "clave": "repe-2026-11-27-1557485|Away Player Shots|Morgan Rogers - 2",
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-0900-tiros)"
   },
   {
@@ -144,10 +144,19 @@
   {
    "clave": "repe-2026-11-27-1550216|Match Winner|Away",
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0800-reto, loca-th-1230-x500)"
+  },
+  {
+   "clave": "prensa-1552835-5e9b4862",
+   "t": "📰 Paris Saint Germain–Lorient: «PSG-Lorient, previa: el PSG llega con tres bajas y cinco triunfos» (Tu Futbolero) · tenemos 1 post(s) de este partido: ganadores-resto"
   }
  ],
- "revisado": "2026-11-27T23:07",
+ "revisado": "2026-11-27T23:18",
  "historial": [
+  {
+   "hora": "2026-11-27T23:18",
+   "t": "📰 Paris Saint Germain–Lorient: «PSG-Lorient, previa: el PSG llega con tres bajas y cinco triunfos» (Tu Futbolero) · tenemos 1 post(s) de este partido: ganadores-resto",
+   "k": "prensa-1552835-5e9b4862"
+  },
   {
    "hora": "2026-11-27T21:58",
    "t": "📰 Inter–Genoa: «Inter no fichará a nadie en enero salvo lesión grave o salida» (懂球帝) · tenemos 2 post(s) de este partido: ganadores-resto, loca-th-noche-2200-lista-ambos",
@@ -442,11 +451,6 @@
    "hora": "2026-11-26T00:05",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)",
    "k": "repe-2026-11-26-1636261|Both Teams Score|Yes"
-  },
-  {
-   "hora": "2026-11-26T00:05",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)",
-   "k": "repe-2026-11-26-1636381|Both Teams Score|Yes"
   }
  ]
 }

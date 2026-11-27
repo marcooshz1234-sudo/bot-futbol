@@ -2187,5 +2187,18 @@
     "requiere_ok": true,
     "aviso": "💚 ¡VERDE! Te lo paso porque lleva varias patas del mismo partido y su cuota no está confirmada. Sale cuando le des a Publicar.",
     "solo_redes": true
+  },
+  {
+    "id": "2026-11-27-balance-auto",
+    "fecha": "2026-11-27T23:18",
+    "texto": "📊 RESUMEN DEL VIERNES 🍀\n\n✅ 2 de 3 picks en verde\n\n😤 Se nos escaparon:\n🔸 Combi de 2 (se cayó por: Venezia marca) · Venezia 0–0 Bologna\n\n🔔 Mañana más. Activad las notificaciones 👀",
+    "foto": "publicaciones/media/2026-11-27-balance-auto.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true,
+    "solo_en": [
+      "telegram"
+    ]
   }
 ]
