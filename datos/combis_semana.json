@@ -1,9 +1,9 @@
 {
- "dia": "2026-11-27",
- "generado": "2026-11-27T23:41+01:00",
+ "dia": "2026-11-28",
+ "generado": "2026-11-28T00:14+01:00",
  "rango": [
-  "2026-11-27",
-  "2026-11-30"
+  "2026-11-28",
+  "2026-12-01"
  ],
  "combis": [
   {
@@ -173,38 +173,6 @@
   }
  ],
  "equipos": [
-  {
-   "equipo": "Real Betis",
-   "liga": "LaLiga",
-   "partido": "Real Betis–Rayo Vallecano",
-   "hora": "2026-11-28T14:00",
-   "logo": "https://media.api-sports.io/football/teams/543.png",
-   "patas": [
-    {
-     "sel": "1570463|Player Fouls Committed|Pablo Fornals - 1",
-     "texto": "Pablo Fornals: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 0,91 por 90' (1-0-1-1-1-1)",
-     "nota": 0.864,
-     "equipo": "Real Betis",
-     "lado": "L",
-     "partido": "Real Betis–Rayo Vallecano",
-     "hora": "2026-11-28T14:00"
-    },
-    {
-     "sel": "1570463|Match Winner|Home",
-     "texto": "Gana Real Betis",
-     "cuota": 1.57,
-     "p": 0.687,
-     "dato": "Real Betis: VVDVV en sus últimos 5",
-     "nota": 0.7121362193917865,
-     "partido": "Real Betis–Rayo Vallecano",
-     "hora": "2026-11-28T14:00"
-    }
-   ],
-   "cuota": 2.26
-  },
   {
    "equipo": "Rayo Vallecano",
    "liga": "LaLiga",
@@ -390,19 +358,9 @@
      "lado": "V",
      "partido": "Elche–Atletico Madrid",
      "hora": "2026-11-28T18:30"
-    },
-    {
-     "sel": "1570466|Match Winner|Away",
-     "texto": "Gana Atletico Madrid",
-     "cuota": 1.45,
-     "p": 0.735,
-     "dato": "Atletico Madrid: VVEVV en sus últimos 5",
-     "nota": 0.7582719578283171,
-     "partido": "Elche–Atletico Madrid",
-     "hora": "2026-11-28T18:30"
     }
    ],
-   "cuota": 3.52
+   "cuota": 2.43
   },
   {
    "equipo": "Osasuna",
@@ -1684,14 +1642,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/182.png"
     },
     {
-     "sel": "1575235|Player Fouls Committed|Albert Sambi Lokonga - 1",
-     "texto": "Albert Sambi Lokonga: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 1,83 por 90' (0-2-1-1-4)",
-     "nota": 0.8025714285714286,
-     "equipo": "Hamburger SV",
-     "lado": "L",
+     "sel": "1575235|Total - Home|Over 0.5",
+     "texto": "Hamburger SV marca",
+     "cuota": 1.53,
+     "p": 0.765,
+     "dato": "marca 1,4 por partido y el rival encaja 1,2",
+     "nota": 0.8443838002405138,
      "partido": "Hamburger SV–Bayern München",
      "hora": "2026-11-28T15:30",
      "liga": "Bundesliga",
@@ -1757,21 +1713,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/116.png"
     },
     {
-     "sel": "1575231|Player Fouls Committed|Maximilian Mittelstadt - 1",
-     "texto": "Maximilian Mittelstadt: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,20 por 90' (1-1-1-0-2-2)",
-     "nota": 0.9000000000000001,
-     "equipo": "VfB Stuttgart",
-     "lado": "L",
-     "partido": "VfB Stuttgart–Eintracht Frankfurt",
-     "hora": "2026-11-28T18:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/172.png",
-     "logo_v": "https://media.api-sports.io/football/teams/169.png"
-    },
-    {
      "sel": "1570466|Player Fouls Committed|Victor Chust - 1",
      "texto": "Victor Chust: comete 1+ falta",
      "cuota": 1.4,
@@ -1785,6 +1726,21 @@
      "liga": "LaLiga",
      "logo_l": "https://media.api-sports.io/football/teams/797.png",
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
+    },
+    {
+     "sel": "1575231|Player Fouls Committed|Maximilian Mittelstadt - 1",
+     "texto": "Maximilian Mittelstadt: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,20 por 90' (1-1-1-0-2-2)",
+     "nota": 0.9000000000000001,
+     "equipo": "VfB Stuttgart",
+     "lado": "L",
+     "partido": "VfB Stuttgart–Eintracht Frankfurt",
+     "hora": "2026-11-28T18:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/172.png",
+     "logo_v": "https://media.api-sports.io/football/teams/169.png"
     },
     {
      "sel": "1552831|Away Player Shots|Dario Essugo - 1",
@@ -1844,7 +1800,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 380.26,
+   "cuota": 404.03,
    "prob": 0.055
   },
   {
@@ -2323,12 +2279,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/174.png"
     },
     {
-     "sel": "1575235|Total - Home|Over 0.5",
-     "texto": "Hamburger SV marca",
-     "cuota": 1.53,
-     "p": 0.765,
-     "dato": "marca 1,4 por partido y el rival encaja 1,2",
-     "nota": 0.8443838002405138,
+     "sel": "1575235|Player Fouls Committed|Albert Sambi Lokonga - 1",
+     "texto": "Albert Sambi Lokonga: comete 1+ falta",
+     "cuota": 1.44,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,83 por 90' (0-2-1-1-4)",
+     "nota": 0.8025714285714286,
+     "equipo": "Hamburger SV",
+     "lado": "L",
      "partido": "Hamburger SV–Bayern München",
      "hora": "2026-11-28T15:30",
      "liga": "Bundesliga",
@@ -2377,19 +2335,17 @@
      "logo_v": "https://media.api-sports.io/football/teams/531.png"
     },
     {
-     "sel": "1575231|Player Fouls Committed|Finn Jeltsch - 1",
-     "texto": "Finn Jeltsch: comete 1+ falta",
-     "cuota": 1.62,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,41 por 90' (1-1-1-0-2-3)",
-     "nota": 0.9240000000000002,
-     "equipo": "VfB Stuttgart",
-     "lado": "L",
-     "partido": "VfB Stuttgart–Eintracht Frankfurt",
-     "hora": "2026-11-28T18:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/172.png",
-     "logo_v": "https://media.api-sports.io/football/teams/169.png"
+     "sel": "1552828|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners",
+     "cuota": 1.73,
+     "p": 0.701,
+     "dato": "11,4 córners de media en los partidos de los dos",
+     "nota": 0.7618846540117145,
+     "partido": "Angers–Lens",
+     "hora": "2026-11-28T17:15",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/77.png",
+     "logo_v": "https://media.api-sports.io/football/teams/116.png"
     },
     {
      "sel": "1570466|Away Player Shots|David Hancko - 1",
@@ -2407,19 +2363,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
     },
     {
-     "sel": "1552834|Home Player Shots|Axel Witsel - 1",
-     "texto": "Axel Witsel: 1+ remate",
-     "cuota": 1.53,
+     "sel": "1575231|Player Fouls Committed|Finn Jeltsch - 1",
+     "texto": "Finn Jeltsch: comete 1+ falta",
+     "cuota": 1.62,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,09 por 90' (0-2-1-1-1-1)",
-     "nota": 0.9060000000000001,
-     "equipo": "Nice",
+     "dato": "cumple 5/6 siendo titular · 1,41 por 90' (1-1-1-0-2-3)",
+     "nota": 0.9240000000000002,
+     "equipo": "VfB Stuttgart",
      "lado": "L",
-     "partido": "Nice–Estac Troyes",
-     "hora": "2026-11-28T20:45",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/84.png",
-     "logo_v": "https://media.api-sports.io/football/teams/110.png"
+     "partido": "VfB Stuttgart–Eintracht Frankfurt",
+     "hora": "2026-11-28T18:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/172.png",
+     "logo_v": "https://media.api-sports.io/football/teams/169.png"
     },
     {
      "sel": "1552835|Away Player Shots|Noah Cadiou - 1",
@@ -2478,8 +2434,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 494.82,
-   "prob": 0.034
+   "cuota": 526.59,
+   "prob": 0.03
   },
   {
    "clave": "todo-2026-11-28-3",
@@ -2576,19 +2532,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/531.png"
     },
     {
-     "sel": "1552828|Corners Over Under|Over 9.5",
-     "texto": "Más de 9,5 córners",
-     "cuota": 1.73,
-     "p": 0.701,
-     "dato": "11,4 córners de media en los partidos de los dos",
-     "nota": 0.7618846540117145,
-     "partido": "Angers–Lens",
-     "hora": "2026-11-28T17:15",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/77.png",
-     "logo_v": "https://media.api-sports.io/football/teams/116.png"
-    },
-    {
      "sel": "1570466|Away Player Shots|Alex Baena - 2",
      "texto": "Alex Baena: 2+ remates",
      "cuota": 1.5,
@@ -2616,6 +2559,19 @@
      "logo_l": "https://media.api-sports.io/football/teams/172.png",
      "logo_v": "https://media.api-sports.io/football/teams/169.png",
      "solo_todo": true
+    },
+    {
+     "sel": "1557482|Away Team Total Cards|Over 1.5",
+     "texto": "Aston Villa ve más de 1,5 tarjetas",
+     "cuota": 1.5,
+     "p": 0.681,
+     "dato": "Aston Villa ve 2,4 amarillas por partido",
+     "nota": 0.6908982865113403,
+     "partido": "Ipswich–Aston Villa",
+     "hora": "2026-11-28T18:30",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/57.png",
+     "logo_v": "https://media.api-sports.io/football/teams/66.png"
     },
     {
      "sel": "1552831|Away Player Shots|Dario Essugo - 1",
@@ -2689,8 +2645,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 339.11,
-   "prob": 0.027
+   "cuota": 294.02,
+   "prob": 0.026
   },
   {
    "clave": "todo-2026-11-29",
@@ -3728,106 +3684,6 @@
    ],
    "cuota": 503.14,
    "prob": 0.029
-  },
-  {
-   "clave": "ganan-2026-11-28",
-   "titulo": "🏆 Quién gana el sábado",
-   "expl": "Los favoritos del sábado 28, de @1,20 a @1,80",
-   "liga": "Varias",
-   "patas": [
-    {
-     "sel": "1570463|Match Winner|Home",
-     "texto": "Gana Real Betis",
-     "cuota": 1.57,
-     "p": 0.67,
-     "dato": "Real Betis: VVDVV en sus últimos 5 · en casa",
-     "nota": 0.6964050379809361,
-     "lado": "L",
-     "ganador": true,
-     "partido": "Real Betis–Rayo Vallecano",
-     "hora": "2026-11-28T14:00",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/543.png",
-     "logo_v": "https://media.api-sports.io/football/teams/728.png"
-    },
-    {
-     "sel": "1550210|Match Winner|Home",
-     "texto": "Gana Frosinone",
-     "cuota": 1.48,
-     "p": 0.782,
-     "dato": "Frosinone: VVVVV en sus últimos 5 · en casa",
-     "nota": 0.860781186516007,
-     "lado": "L",
-     "ganador": true,
-     "partido": "Frosinone–Parma",
-     "hora": "2026-11-28T15:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/512.png",
-     "logo_v": "https://media.api-sports.io/football/teams/523.png"
-    },
-    {
-     "sel": "1575235|Match Winner|Away",
-     "texto": "Gana Bayern München",
-     "cuota": 1.27,
-     "p": 0.645,
-     "dato": "Bayern München: DVVVE en sus últimos 5 · fuera",
-     "nota": 0.5538408298608728,
-     "lado": "V",
-     "ganador": true,
-     "partido": "Hamburger SV–Bayern München",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/175.png",
-     "logo_v": "https://media.api-sports.io/football/teams/157.png"
-    },
-    {
-     "sel": "1570466|Match Winner|Away",
-     "texto": "Gana Atletico Madrid",
-     "cuota": 1.45,
-     "p": 0.72,
-     "dato": "Atletico Madrid: VVEVV en sus últimos 5 · fuera",
-     "nota": 0.7420663626901425,
-     "lado": "V",
-     "ganador": true,
-     "partido": "Elche–Atletico Madrid",
-     "hora": "2026-11-28T18:30",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/797.png",
-     "logo_v": "https://media.api-sports.io/football/teams/530.png"
-    },
-    {
-     "sel": "1550211|Match Winner|Home",
-     "texto": "Gana Inter",
-     "cuota": 1.3,
-     "p": 0.716,
-     "dato": "Inter: VVVVD en sus últimos 5 · en casa",
-     "nota": 0.6807625968405803,
-     "lado": "L",
-     "ganador": true,
-     "partido": "Inter–Genoa",
-     "hora": "2026-11-28T20:45",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/505.png",
-     "logo_v": "https://media.api-sports.io/football/teams/495.png"
-    },
-    {
-     "sel": "1552835|Match Winner|Home",
-     "texto": "Gana Paris Saint Germain",
-     "cuota": 1.2,
-     "p": 0.714,
-     "dato": "Paris Saint Germain: EVVVV en sus últimos 5 · en casa",
-     "nota": 0.6427898829799212,
-     "lado": "L",
-     "ganador": true,
-     "partido": "Paris Saint Germain–Lorient",
-     "hora": "2026-11-28T20:45",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/85.png",
-     "logo_v": "https://media.api-sports.io/football/teams/97.png"
-    }
-   ],
-   "cuota": 6.68,
-   "prob": 0.124
   }
  ],
  "otras_ligas": false,
