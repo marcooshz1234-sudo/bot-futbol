@@ -119,7 +119,9 @@
   "prensa-1570466-dbe86aaf": "2026-11-27T00:09",
   "prensa-1570470-e86c77e5": "2026-11-27T00:09",
   "prensa-1557484-HKane": "2026-11-27T00:09",
-  "prensa-1575237-MGrüll": "2026-11-27T00:09"
+  "prensa-1575237-MGrüll": "2026-11-27T00:09",
+  "prensa-1570468-f6e27d67": "2026-11-27T05:57",
+  "prensa-1575231-8aaa7e59": "2026-11-27T05:57"
  },
  "abiertos": [
   {
@@ -139,20 +141,38 @@
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0800-reto, loca-th-1230-x500)"
   },
   {
+   "clave": "repe-2026-11-27-1570468|Total - Away|Over 1.5",
+   "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0800-reto, loca-th-1230-x500)"
+  },
+  {
    "clave": "repe-2026-11-27-1570468|To Win Either Half|Away",
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-1230-x500, loca-th-1700-escudos)"
   },
   {
-   "clave": "repe-2026-11-27-1570468|Total - Away|Over 1.5",
-   "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0800-reto, loca-th-1230-x500)"
+   "clave": "prensa-1570468-f6e27d67",
+   "t": "📰 Levante–Racing Santander: «Nuevo contratiempo para el Levante con la lesión muscular de Jeremy Toljan» (Nostresport) · tenemos 4 post(s) de este partido: combi-tres, loca-th-0800-reto, loca-th-1230-x500, loca-th-1700-escudos"
+  },
+  {
+   "clave": "prensa-1575231-8aaa7e59",
+   "t": "📰 VfB Stuttgart–Eintracht Frankfurt: «¡Se pierde el Mundial! Laura Freigang, sancionada 16 meses por no someterse a controles antidopaje, con su fut» (Goal.com) · tenemos 1 post(s) de este partido: estrella-1575231"
   },
   {
    "clave": "regla-formato-2026-11-28-picks-manana",
    "t": "📏 Regla (formato): «Combina máximo 2 o 3» solo con 5 picks o más (02/11) · «🔥⚽ COMBILOCAS — ¡5 PICKS PARA MAÑANA! 🍀» (23:00)"
   }
  ],
- "revisado": "2026-11-27T05:46",
+ "revisado": "2026-11-27T05:57",
  "historial": [
+  {
+   "hora": "2026-11-27T05:57",
+   "t": "📰 Levante–Racing Santander: «Nuevo contratiempo para el Levante con la lesión muscular de Jeremy Toljan» (Nostresport) · tenemos 4 post(s) de este partido: combi-tres, loca-th-0800-reto, loca-th-1230-x500, loca-th-1700-escudos",
+   "k": "prensa-1570468-f6e27d67"
+  },
+  {
+   "hora": "2026-11-27T05:57",
+   "t": "📰 VfB Stuttgart–Eintracht Frankfurt: «¡Se pierde el Mundial! Laura Freigang, sancionada 16 meses por no someterse a controles antidopaje, con su fut» (Goal.com) · tenemos 1 post(s) de este partido: estrella-1575231",
+   "k": "prensa-1575231-8aaa7e59"
+  },
   {
    "hora": "2026-11-27T00:09",
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0500-x500, loca-th-1230-x500)",
@@ -442,16 +462,6 @@
    "hora": "2026-11-25T15:23",
    "t": "📰 Borac Banja Luka–Atalanta: «Hakan Calhanoglu estará de baja entre 3 y 4 semanas tras sufrir una lesión en el muslo en el emocionante parti» (Tribuna.com) · tenemos 3 post(s) de este partido: ganadores-conference, combi-tres, pick-seguro-2",
    "k": "prensa-1636386-f1d4d3d3"
-  },
-  {
-   "hora": "2026-11-25T15:23",
-   "t": "📰 Celta Vigo–Bournemouth: «Marca: Hugo González se pierde el partido contra el Bournemouth y Ángel Arcos entra en la convocatoria para la» (AllFootball) · tenemos 3 post(s) de este partido: ganadores-resto, pick-seguro-5, combi-partido-1636244",
-   "k": "prensa-1636244-50722ec3"
-  },
-  {
-   "hora": "2026-11-25T12:57",
-   "t": "🖼️ Sale a las 12:58 y su foto no está hecha (o es vieja): 🪜 Reto escalera · Día 1/7",
-   "k": "foto-2026-11-25-escalera"
   }
  ]
 }
