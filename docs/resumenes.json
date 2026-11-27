@@ -3893,14 +3893,14 @@
   },
   "2026-11-27": {
     "dia": "2026-11-27",
-    "total": 10,
+    "total": 11,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 10,
+      "pendiente": 11,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 10
+      "sin_resolver": 11
     },
     "combis": [
       {
@@ -3962,13 +3962,19 @@
         "titulo": "🤑💸 LA LOCURA DE x117 🤑💸",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-27-loca-th-1630-escudos",
+        "titulo": "🔥 COMBI VENEZIA – BOLOGNA 🔥",
+        "estado": "pendiente",
+        "cuota": 7.01
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 30
+      "total": 33
     },
-    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 61,70 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 2,54 · pendiente\n⏳ 🎰 COMBI x161 🎰 · pendiente\n⏳ 💶 RETO: DE 1€ A 299€ 💶 · pendiente\n⏳ 🎯 COMBI DE TIROS · NOTTINGHAM FOREST vs CHELSEA 🎯 · 3,99 · pendiente\n⏳ 🪜 Reto escalera · Día 2/7 · pendiente\n⏳ Más de 1,5 goles en la 2ª parte del Werder Bremen–Borussia Mönchengladbach · 1,73 · pendiente\n⏳ 🤑💸 LA LOCURA DE x117 🤑💸 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 10 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 61,70 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 2,54 · pendiente\n⏳ 🎰 COMBI x161 🎰 · pendiente\n⏳ 💶 RETO: DE 1€ A 299€ 💶 · pendiente\n⏳ 🎯 COMBI DE TIROS · NOTTINGHAM FOREST vs CHELSEA 🎯 · 3,99 · pendiente\n⏳ 🪜 Reto escalera · Día 2/7 · pendiente\n⏳ Más de 1,5 goles en la 2ª parte del Werder Bremen–Borussia Mönchengladbach · 1,73 · pendiente\n⏳ 🤑💸 LA LOCURA DE x117 🤑💸 · pendiente\n⏳ 🔥 COMBI VENEZIA – BOLOGNA 🔥 · 7,01 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 11 sin resolver"
   }
 }
