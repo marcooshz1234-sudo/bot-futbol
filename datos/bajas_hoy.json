@@ -13887,19 +13887,19 @@
     "equipo": 202,
     "jugador": "T. Hernes",
     "tipo": "Missing Fixture",
-    "motivo": "Inactive"
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 202,
+    "jugador": "R. Janse",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
    },
    {
     "equipo": 202,
     "jugador": "M. Jeng",
     "tipo": "Missing Fixture",
     "motivo": "Leg Injury"
-   },
-   {
-    "equipo": 195,
-    "jugador": "T. Didillon Hodl",
-    "tipo": "Missing Fixture",
-    "motivo": "Inactive"
    },
    {
     "equipo": 195,
@@ -13918,6 +13918,18 @@
     "jugador": "N. Tjoe a On",
     "tipo": "Missing Fixture",
     "motivo": "Red Card"
+   },
+   {
+    "equipo": 195,
+    "jugador": "T. Didillon Hodl",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 195,
+    "jugador": "U. van Aalst",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
    }
   ],
   "1575237": [
@@ -13991,7 +14003,7 @@
     "equipo": 163,
     "jugador": "L. Ullrich",
     "tipo": "Missing Fixture",
-    "motivo": "Broken collarbone"
+    "motivo": "Broken Collarbone"
    },
    {
     "equipo": 163,
@@ -14106,6 +14118,12 @@
   "1570468": [
    {
     "equipo": 539,
+    "jugador": "P. Ratkov",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 539,
     "jugador": "M. Sanchez",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
@@ -14115,12 +14133,6 @@
     "jugador": "J. Toljan",
     "tipo": "Missing Fixture",
     "motivo": "Hamstring Injury"
-   },
-   {
-    "equipo": 539,
-    "jugador": "P. Ratkov",
-    "tipo": "Questionable",
-    "motivo": "Injury"
    },
    {
     "equipo": 4665,
@@ -14139,6 +14151,12 @@
     "jugador": "A. Martin",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 4665,
+    "jugador": "G. Guliashvili",
+    "tipo": "Questionable",
+    "motivo": "Illness"
    }
   ],
   "1557485": [
@@ -14385,22 +14403,10 @@
     "motivo": "Injury"
    },
    {
-    "equipo": 543,
-    "jugador": "J. Morante",
-    "tipo": "Missing Fixture",
-    "motivo": "Hip Injury"
-   },
-   {
-    "equipo": 543,
-    "jugador": "A. Ezzalzouli",
-    "tipo": "Questionable",
-    "motivo": "Knock"
-   },
-   {
     "equipo": 728,
     "jugador": "A. Batalla",
     "tipo": "Missing Fixture",
-    "motivo": "Broken calfbone"
+    "motivo": "Broken Fibula"
    },
    {
     "equipo": 728,
@@ -14411,7 +14417,7 @@
    {
     "equipo": 728,
     "jugador": "O. Valentin",
-    "tipo": "Missing Fixture",
+    "tipo": "Questionable",
     "motivo": "Knee Injury"
    }
   ],
@@ -14452,7 +14458,7 @@
     "equipo": 523,
     "jugador": "L. Valenti",
     "tipo": "Missing Fixture",
-    "motivo": "Coach's decision"
+    "motivo": "Coach's Decision"
    }
   ],
   "1576541": [],
@@ -14747,13 +14753,7 @@
     "equipo": 535,
     "jugador": "H. Abaida",
     "tipo": "Missing Fixture",
-    "motivo": "Personal reasons"
-   },
-   {
-    "equipo": 535,
-    "jugador": "F. Calero",
-    "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
+    "motivo": "Personal Reasons"
    },
    {
     "equipo": 535,
@@ -14802,18 +14802,6 @@
     "jugador": "D. Vivian",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 531,
-    "jugador": "Y. Berchiche",
-    "tipo": "Questionable",
-    "motivo": "Injury"
-   },
-   {
-    "equipo": 531,
-    "jugador": "A. Paredes",
-    "tipo": "Questionable",
-    "motivo": "Injury"
    }
   ],
   "1563293": [
@@ -14890,6 +14878,12 @@
     "jugador": "A. Diallo",
     "tipo": "Questionable",
     "motivo": "Injury"
+   },
+   {
+    "equipo": 33,
+    "jugador": "B. Fernandes",
+    "tipo": "Questionable",
+    "motivo": "Illness"
    },
    {
     "equipo": 55,
@@ -15160,6 +15154,12 @@
    },
    {
     "equipo": 157,
+    "jugador": "J. Musiala",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 157,
     "jugador": "M. Neuer",
     "tipo": "Missing Fixture",
     "motivo": "Foot Injury"
@@ -15242,9 +15242,15 @@
    },
    {
     "equipo": 164,
+    "jugador": "P. Mwene",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 164,
     "jugador": "Silas",
     "tipo": "Missing Fixture",
-    "motivo": "Broken shinbone"
+    "motivo": "Broken Shinbone"
    },
    {
     "equipo": 182,
@@ -15363,7 +15369,7 @@
     "equipo": 77,
     "jugador": "A. Bermont",
     "tipo": "Missing Fixture",
-    "motivo": "Loan agreement"
+    "motivo": "Loan Agreement"
    },
    {
     "equipo": 77,
@@ -15376,12 +15382,6 @@
     "jugador": "R. Aguilar",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 116,
-    "jugador": "M. Cuisance",
-    "tipo": "Missing Fixture",
-    "motivo": "Illness"
    },
    {
     "equipo": 116,
@@ -15479,6 +15479,12 @@
     "motivo": "Injury"
    },
    {
+    "equipo": 797,
+    "jugador": "M. Aguado",
+    "tipo": "Questionable",
+    "motivo": "Ankle Injury"
+   },
+   {
     "equipo": 530,
     "jugador": "A. Lookman",
     "tipo": "Missing Fixture",
@@ -15486,13 +15492,13 @@
    },
    {
     "equipo": 530,
-    "jugador": "C. Romero",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
+    "jugador": "A. Sorloth",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
    },
    {
     "equipo": 530,
-    "jugador": "A. Sorloth",
+    "jugador": "C. Romero",
     "tipo": "Questionable",
     "motivo": "Muscle Injury"
    }
@@ -15633,6 +15639,12 @@
   "1570470": [
    {
     "equipo": 541,
+    "jugador": "T. Alexander-Arnold",
+    "tipo": "Missing Fixture",
+    "motivo": "Illness"
+   },
+   {
+    "equipo": 541,
     "jugador": "R. Asencio",
     "tipo": "Missing Fixture",
     "motivo": "Broken Leg"
@@ -15642,12 +15654,6 @@
     "jugador": "Endrick",
     "tipo": "Missing Fixture",
     "motivo": "Groin Injury"
-   },
-   {
-    "equipo": 541,
-    "jugador": "F. Mendy",
-    "tipo": "Missing Fixture",
-    "motivo": "Hip Injury"
    },
    {
     "equipo": 541,
@@ -15897,7 +15903,7 @@
   ],
   "1575553": []
  },
- "ultima": "2026-11-27T18:53:40.657338+01:00",
+ "ultima": "2026-11-27T19:24:10.652668+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
