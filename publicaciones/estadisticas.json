@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27 16:58",
+ "actualizado": "2026-11-27 17:09",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4273,
-   "hoy": 78,
+   "seguidores": 4274,
+   "hoy": 79,
    "serie": [
     3475,
     3714,
@@ -24,7 +24,7 @@
     3790,
     4020,
     4195,
-    4273
+    4274
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4885,
- "total_hoy": 92,
+ "total": 4886,
+ "total_hoy": 93,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "17:00",
+  "hora": "20:25",
   "dia": "2026-11-27",
-  "titulo": "Combi levante – racing santander"
+  "titulo": "Hoy hay partidazo nottingham forest ch"
  },
  "ayer": {
   "aciertos": 3,
@@ -282,14 +282,19 @@
   },
   "2026-11-27": {
    "instagram": 58,
-   "threads": 4273,
+   "threads": 4274,
    "facebook": 1,
    "telegram": 553
   }
  },
  "tipos_instagram": {
+  "Cuota 3 (reel)": {
+   "posts": 2,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
-   "posts": 47,
+   "posts": 46,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -300,11 +305,6 @@
   },
   "Combi de partido (reel)": {
    "posts": 6,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Cuota 3 (reel)": {
-   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
