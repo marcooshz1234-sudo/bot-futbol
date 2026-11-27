@@ -2172,7 +2172,14 @@
     "resultado": "verde",
     "verde_de": "2026-11-27-pick-tip-2",
     "enviado": "2026-11-27T23:12",
-    "mensaje_id": 655
+    "mensaje_id": 655,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-27-verde-auto-2026-11-27-loca-th-1700-escudos",
@@ -2201,6 +2208,13 @@
       "telegram"
     ],
     "enviado": "2026-11-27T23:21",
-    "mensaje_id": 656
+    "mensaje_id": 656,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
