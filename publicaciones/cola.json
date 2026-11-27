@@ -2152,6 +2152,13 @@
     "resultado": "verde",
     "verde_de": "2026-11-27-pick-seguro-3",
     "enviado": "2026-11-27T22:46",
-    "mensaje_id": 654
+    "mensaje_id": 654,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
