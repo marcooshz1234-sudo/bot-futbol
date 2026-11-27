@@ -13992,6 +13992,12 @@
     "jugador": "L. Ullrich",
     "tipo": "Missing Fixture",
     "motivo": "Broken collarbone"
+   },
+   {
+    "equipo": 163,
+    "jugador": "R. Hack",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
    }
   ],
   "1552830": [
@@ -14174,9 +14180,10 @@
    }
   ],
   "1575551": [],
-  "1576540": []
+  "1576540": [],
+  "1551385": []
  },
- "ultima": "2026-11-27T06:34:42.882997+01:00",
+ "ultima": "2026-11-27T07:08:33.158828+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
