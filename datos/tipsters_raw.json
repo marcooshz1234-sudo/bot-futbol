@@ -1245,20 +1245,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/47319",
-   "fecha": "2026-11-18T15:23",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-18T15:34"
-  },
-  {
-   "id": "-1001468963672/47320",
-   "fecha": "2026-11-18T15:25",
-   "texto": "👆 100 votos y la lanzamos",
-   "foto": false,
-   "visto": "2026-11-18T15:34"
-  },
-  {
    "id": "-1001468963672/47326",
    "fecha": "2026-11-18T16:04",
    "texto": "",
@@ -2727,6 +2713,21 @@
    "texto": "👨🏼‍💻 PROGRAMACIÓN DEL VIERNES\n\n🔘 APUESTA GRATIS || 14:00h\n🔘 ÉLITE PÉREZ || 17ª EDICIÓN || 15:00h\n🔘 POSIBLES LIVES || A todas horas  \n\n⏰ En 🇨🇱🇦🇷🇧🇷 son 4 horas menos \n⏰ En 🇨🇴🇵🇪🇪🇨🇲🇽 son 6 horas menos",
    "foto": false,
    "visto": "2026-11-27T11:53"
+  },
+  {
+   "id": "-1001468963672/47539",
+   "fecha": "2026-11-27T13:56",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-27T13:57",
+   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47539.jpg"
+  },
+  {
+   "id": "-1001468963672/47538",
+   "fecha": "2026-11-27T13:56",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-27T13:57"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
@@ -10275,13 +10276,6 @@
  ],
  "INSIDER": [
   {
-   "id": "-1001299202120/44906",
-   "fecha": "2026-11-07T18:34",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-10T16:47"
-  },
-  {
    "id": "-1001299202120/44907",
    "fecha": "2026-11-07T20:05",
    "texto": "",
@@ -11759,6 +11753,14 @@
    "foto": true,
    "visto": "2026-11-27T11:53",
    "foto_ruta": "datos/tipsters_fotos/INSIDER_45127.jpg"
+  },
+  {
+   "id": "-1001299202120/45128",
+   "fecha": "2026-11-27T13:50",
+   "texto": "✅️  GRUPO PREMIUM INSIDER  ⚽️\nPRIMER ACCESO 🎅 VIP DICIEMBRE\n\n🍟 ¿Qué incluye? \n▪️31 días Grupo VIP desde hoy\n🍀 Todo mi contenido Pre y  LIVE\n\nPara acceder YA !!  🔥🔥\n💬 CLICK AQUÍ 👈 Cierro 15:00\nSOLO ACTIVO HOY 60 MINUTOS",
+   "foto": true,
+   "visto": "2026-11-27T13:57",
+   "foto_ruta": "datos/tipsters_fotos/INSIDER_45128.jpg"
   }
  ],
  "PABLO ANALISTA": [
@@ -20896,14 +20898,6 @@
  ],
  "ApuestasCobrich - Canal Gratuito": [
   {
-   "id": "-1001233274610/196417",
-   "fecha": "2026-11-24T14:10",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-24T14:13",
-   "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196417.jpg"
-  },
-  {
    "id": "-1001233274610/196419",
    "fecha": "2026-11-24T14:11",
    "texto": "¡STAKAZO 10 MODUS SUPER SERIES! 🏆\n\n🎯🌏 Dardos - Modus Super Series:\n\n💶 Baetens/Raman ganan el partido",
@@ -22372,6 +22366,13 @@
    "texto": "¡SE VIENE LA MEJOR JORNADA DE LA VISTORIA! 🙌\n\n💎✅ Despues de estar toda la mañana analizando y estudiando cada partido hemos preparado una Jornada completamente histórica... 🔥\n\nCostará 10€ e incluirá:\n\n▪️STAKAZO 10 PREMIUM 🔝\n▪️STAKAZO 10 PREMIUM 🔝\n▪️STAKAZO 10 PREMIUM 🔝\n▪️CUOTÓN 4.50 PREMIUM 📊",
    "foto": false,
    "visto": "2026-11-27T12:50"
+  },
+  {
+   "id": "-1001233274610/196625",
+   "fecha": "2026-11-27T13:51",
+   "texto": "¡Aprovechad el Stake 10 gratis para ganar y pagaros el Pack VIP de despues! ☝️",
+   "foto": false,
+   "visto": "2026-11-27T13:57"
   }
  ],
  "Pick Maestro": [
