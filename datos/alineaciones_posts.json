@@ -1,24 +1,5 @@
 {
  "avisados": [
-  "clave|2026-11-04-cobertura-a|1635606|Match Winner|Away|A. Güler",
-  "clave|2026-11-04-cobertura-b|1635606|Match Winner|Away|A. Güler",
-  "clave|2026-11-04-cobertura-b|1635658|Match Winner|Away|A. Isak",
-  "clave|2026-11-04-cobertura-c|1635606|Match Winner|Away|A. Güler",
-  "clave|2026-11-04-cobertura-c|1635658|Match Winner|Away|A. Isak",
-  "clave|2026-11-04-combi-multi|1635606|Total - Home|Over 0.5|R. Marin",
-  "clave|2026-11-04-combi-partido-1635606-madrid|1635606|Match Winner|Away|A. Güler",
-  "clave|2026-11-04-combi-partido-1635606-madrid|1635606|Total - Away|Over 2.5|A. Güler",
-  "clave|2026-11-04-combi-partido-1635606|1635606|Player to Score or Assist|Kylian Mbappe|A. Güler",
-  "clave|2026-11-04-combi-partido-1635658-liverpool|1635658|Match Winner|Away|A. Isak",
-  "clave|2026-11-04-combi-partido-1635745|1635745|Home Player Shots On Target Total|Zlatko Tripic - 1|P. Christiansen",
-  "clave|2026-11-04-combi-tres|1635745|Home Player Shots On Target Total|Zlatko Tripic - 1|P. Christiansen",
-  "clave|2026-11-04-lista-europa-1|1635745|Home Player Shots On Target Total|Zlatko Tripic - 1|P. Christiansen",
-  "clave|2026-11-04-marcos-dobles|1635606|Match Winner|Away|A. Güler",
-  "clave|2026-11-04-marcos-dobles|1635658|Match Winner|Away|A. Isak",
-  "clave|2026-11-04-marcos-ganadores|1635606|Match Winner|Away|A. Güler",
-  "clave|2026-11-04-marcos-ganadores|1635658|Match Winner|Away|A. Isak",
-  "clave|2026-11-04-marcos-ganadores|1636324|Match Winner|Home|Esteban Lepaul",
-  "clave|2026-11-04-marcos-sorpresas|1635606|Match Winner|Away|A. Güler",
   "clave|2026-11-04-marcos-sorpresas|1635651|Match Winner|Away|Isco",
   "clave|2026-11-04-marcos-sorpresas|1635651|Match Winner|Away|Pablo Fornals",
   "clave|2026-11-04-marcos-sorpresas|1635658|Match Winner|Away|A. Isak",
@@ -483,9 +464,28 @@
   "clave|2026-11-26-pick-seguro-3|1636252|Away Player Shots|Orri Steinn Oskarsson - 3|O. Óskarsson",
   "clave|2026-11-26-pick-seguro|1636334|Away Player Shots|Artur Serobyan - 2|Sandro Lima",
   "clave|2026-11-26-pick-tip-1|1636244|Total - Away|Over 1.5|Evanilson",
+  "clave|2026-11-27-combi-tres|1550216|Total - Home|Over 0.5|T. Bašić",
+  "clave|2026-11-27-escalera|1550216|Total - Home|Over 0.5|T. Bašić",
+  "clave|2026-11-27-ganadores-resto|1550216|Match Winner|Away|Juan Miranda",
+  "clave|2026-11-27-ganadores-resto|1550216|Match Winner|Away|N. Cambiaghi",
+  "clave|2026-11-27-ganadores-resto|1552830|Match Winner|Away|I. Kebbal",
   "clave|2026-11-27-ganadores-resto|1575237|Match Winner|Home|M. Grüll",
+  "clave|2026-11-27-loca-th-0500-x500|1550216|Match Winner|Away|Juan Miranda",
+  "clave|2026-11-27-loca-th-0500-x500|1550216|Match Winner|Away|N. Cambiaghi",
   "clave|2026-11-27-loca-th-0500-x500|1575237|Anytime Goal Scorer|Niclas Fullkrug|M. Grüll",
+  "clave|2026-11-27-loca-th-0800-reto|1550216|Match Winner|Away|Juan Miranda",
+  "clave|2026-11-27-loca-th-0800-reto|1550216|Match Winner|Away|N. Cambiaghi",
+  "clave|2026-11-27-loca-th-1230-x500|1550216|Match Winner|Away|Juan Miranda",
+  "clave|2026-11-27-loca-th-1230-x500|1550216|Match Winner|Away|N. Cambiaghi",
+  "clave|2026-11-27-loca-th-1230-x500|1550216|Total - Away|Over 1.5|Juan Miranda",
+  "clave|2026-11-27-loca-th-1230-x500|1550216|Total - Away|Over 1.5|N. Cambiaghi",
   "clave|2026-11-27-loca-th-1230-x500|1575237|Anytime Goal Scorer|Niclas Fullkrug|M. Grüll",
+  "clave|2026-11-27-loca-th-1630-escudos|1550216|Away Player Shots|Jens Odgaard - 2|Juan Miranda",
+  "clave|2026-11-27-loca-th-1630-escudos|1550216|Away Player Shots|Jens Odgaard - 2|N. Cambiaghi",
+  "clave|2026-11-27-loca-th-1630-escudos|1550216|To Win Either Half|Away|Juan Miranda",
+  "clave|2026-11-27-loca-th-1630-escudos|1550216|To Win Either Half|Away|N. Cambiaghi",
+  "clave|2026-11-27-loca-th-1630-escudos|1550216|Total - Away|Over 1.5|Juan Miranda",
+  "clave|2026-11-27-loca-th-1630-escudos|1550216|Total - Away|Over 1.5|N. Cambiaghi",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -6880,16 +6880,295 @@
    }
   },
   "1550216": {
-   "hora": "2026-11-27T20:10:40.199524+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-27T20:22:10.339962+01:00",
+   "xi": [
+    "F. Stanković",
+    "R. Halhal",
+    "M. Moreno",
+    "Juan Jesus",
+    "A. Hainaut",
+    "Kike Pérez",
+    "G. Busio",
+    "S. Sohm",
+    "R. Haps",
+    "J. Yeboah",
+    "A. Adams",
+    "Ł. Skorupski",
+    "M. Vitík",
+    "N. Casale",
+    "A. Theate",
+    "N. Zortea",
+    "L. Ferguson",
+    "T. Pobega",
+    "R. Alhassane",
+    "F. Bernardeschi",
+    "J. Odgaard",
+    "S. Mbangula"
+   ],
+   "banquillo": [
+    "R. Sagrado",
+    "J. Schingtienne",
+    "T. Bašić",
+    "A. Adorante",
+    "A. Bella-Kotchap",
+    "M. Dagasso",
+    "Lamine Dabo",
+    "Toni Fernández",
+    "A. Gomes",
+    "Þ. Helgason",
+    "L. Lauberbach",
+    "K. Lisman",
+    "P. Mazzocchi",
+    "L. Montipò",
+    "A. Rrahmani",
+    "M. Pessina",
+    "R. Orsolini",
+    "N. Moro",
+    "M. Libra",
+    "T. Heggem",
+    "Giacomo Giacomone",
+    "E. Helland",
+    "A. Dovbyk",
+    "M. Darmian",
+    "N. Cambiaghi",
+    "M. Amondarain",
+    "R. Piccoli"
+   ],
+   "equipos": {
+    "517": [
+     {
+      "n": "F. Stanković",
+      "pos": "G"
+     },
+     {
+      "n": "R. Halhal",
+      "pos": "D"
+     },
+     {
+      "n": "M. Moreno",
+      "pos": "D"
+     },
+     {
+      "n": "Juan Jesus",
+      "pos": "D"
+     },
+     {
+      "n": "A. Hainaut",
+      "pos": "M"
+     },
+     {
+      "n": "Kike Pérez",
+      "pos": "M"
+     },
+     {
+      "n": "G. Busio",
+      "pos": "M"
+     },
+     {
+      "n": "S. Sohm",
+      "pos": "M"
+     },
+     {
+      "n": "R. Haps",
+      "pos": "M"
+     },
+     {
+      "n": "J. Yeboah",
+      "pos": "F"
+     },
+     {
+      "n": "A. Adams",
+      "pos": "F"
+     }
+    ],
+    "500": [
+     {
+      "n": "Ł. Skorupski",
+      "pos": "G"
+     },
+     {
+      "n": "M. Vitík",
+      "pos": "D"
+     },
+     {
+      "n": "N. Casale",
+      "pos": "D"
+     },
+     {
+      "n": "A. Theate",
+      "pos": "D"
+     },
+     {
+      "n": "N. Zortea",
+      "pos": "M"
+     },
+     {
+      "n": "L. Ferguson",
+      "pos": "M"
+     },
+     {
+      "n": "T. Pobega",
+      "pos": "M"
+     },
+     {
+      "n": "R. Alhassane",
+      "pos": "M"
+     },
+     {
+      "n": "F. Bernardeschi",
+      "pos": "F"
+     },
+     {
+      "n": "J. Odgaard",
+      "pos": "F"
+     },
+     {
+      "n": "S. Mbangula",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1552830": {
-   "hora": "2026-11-27T20:10:40.199524+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-27T20:22:10.339962+01:00",
+   "xi": [
+    "E. Selvik",
+    "L. Zogbe",
+    "L. Tousart",
+    "G. Lloris",
+    "B. Locko",
+    "J. Chotard",
+    "H. Magnetti",
+    "N. Edjouma",
+    "K. Doumbia",
+    "P. Mboup",
+    "L. Ajorque",
+    "K. Trapp",
+    "A. Camara",
+    "S. Chergui",
+    "D. Coppola",
+    "H. Traoré",
+    "M. Lopez",
+    "P. Lees-Melou",
+    "M. Simon",
+    "P. Pagis",
+    "L. Koleosho",
+    "L. Sinayoko"
+   ],
+   "banquillo": [
+    "J. Bourgault",
+    "M. Diambou",
+    "D. N´Guessan",
+    "K. Lala",
+    "Ibrahim Yayiya Kante",
+    "Mama Baldé",
+    "J. Nonge Boende",
+    "M. Patouillet",
+    "G. Versini",
+    "I. Kebbal",
+    "J. Krasso",
+    "R. Matondo",
+    "M. Mbow",
+    "O. Nkambadio",
+    "Otávio",
+    "E. Zabi",
+    "J. Ikoné",
+    "V. Marchetti"
+   ],
+   "equipos": {
+    "106": [
+     {
+      "n": "E. Selvik",
+      "pos": "G"
+     },
+     {
+      "n": "L. Zogbe",
+      "pos": "D"
+     },
+     {
+      "n": "L. Tousart",
+      "pos": "D"
+     },
+     {
+      "n": "G. Lloris",
+      "pos": "D"
+     },
+     {
+      "n": "B. Locko",
+      "pos": "D"
+     },
+     {
+      "n": "J. Chotard",
+      "pos": "M"
+     },
+     {
+      "n": "H. Magnetti",
+      "pos": "M"
+     },
+     {
+      "n": "N. Edjouma",
+      "pos": "M"
+     },
+     {
+      "n": "K. Doumbia",
+      "pos": "M"
+     },
+     {
+      "n": "P. Mboup",
+      "pos": "M"
+     },
+     {
+      "n": "L. Ajorque",
+      "pos": "F"
+     }
+    ],
+    "114": [
+     {
+      "n": "K. Trapp",
+      "pos": "G"
+     },
+     {
+      "n": "A. Camara",
+      "pos": "D"
+     },
+     {
+      "n": "S. Chergui",
+      "pos": "D"
+     },
+     {
+      "n": "D. Coppola",
+      "pos": "D"
+     },
+     {
+      "n": "H. Traoré",
+      "pos": "D"
+     },
+     {
+      "n": "M. Lopez",
+      "pos": "M"
+     },
+     {
+      "n": "P. Lees-Melou",
+      "pos": "M"
+     },
+     {
+      "n": "M. Simon",
+      "pos": "M"
+     },
+     {
+      "n": "P. Pagis",
+      "pos": "M"
+     },
+     {
+      "n": "L. Koleosho",
+      "pos": "M"
+     },
+     {
+      "n": "L. Sinayoko",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1557485": {
    "hora": "2026-11-27T20:16:25.061302+01:00",
