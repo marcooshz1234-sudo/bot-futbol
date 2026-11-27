@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-27",
- "generado": "2026-11-27T21:35+01:00",
+ "generado": "2026-11-27T22:07+01:00",
  "rango": [
   "2026-11-27",
   "2026-11-30"
@@ -1934,21 +1934,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
     },
     {
-     "sel": "1552831|Away Player Shots|Dario Essugo - 1",
-     "texto": "Dario Essugo: 1+ remate",
-     "cuota": 1.5,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,67 por 90' (2-2-1-1-1)",
-     "nota": 1.04,
-     "equipo": "Strasbourg",
-     "lado": "V",
-     "partido": "Le Havre–Strasbourg",
-     "hora": "2026-11-28T20:45",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/111.png",
-     "logo_v": "https://media.api-sports.io/football/teams/95.png"
-    },
-    {
      "sel": "1552834|Home Player Shots|Axel Witsel - 1",
      "texto": "Axel Witsel: 1+ remate",
      "cuota": 1.53,
@@ -1964,18 +1949,32 @@
      "logo_v": "https://media.api-sports.io/football/teams/110.png"
     },
     {
-     "sel": "1552835|Away Player Shots Total|Over 7.5",
-     "texto": "Lorient: más de 7,5 remates",
+     "sel": "1552835|Away Player Shots|Noah Cadiou - 1",
+     "texto": "Noah Cadiou: 1+ remate",
      "cuota": 1.73,
      "p": 0.8,
-     "dato": "ha superado la línea en 7 de sus últimos 8 (10-9-8-9-10-15-7-12)",
+     "dato": "cumple 5/6 siendo titular · 1,01 por 90' (1-1-1-2-0-1)",
      "nota": 0.9460000000000001,
+     "equipo": "Lorient",
      "lado": "V",
      "partido": "Paris Saint Germain–Lorient",
      "hora": "2026-11-28T20:45",
      "liga": "Ligue 1",
      "logo_l": "https://media.api-sports.io/football/teams/85.png",
      "logo_v": "https://media.api-sports.io/football/teams/97.png"
+    },
+    {
+     "sel": "1552831|Shots.1x2|Home",
+     "texto": "Le Havre remata más que el rival",
+     "cuota": 1.73,
+     "p": 0.77,
+     "dato": "16,0 remates de Le Havre contra 11,6 del rival",
+     "nota": 0.8908231010848722,
+     "partido": "Le Havre–Strasbourg",
+     "hora": "2026-11-28T20:45",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/111.png",
+     "logo_v": "https://media.api-sports.io/football/teams/95.png"
     },
     {
      "sel": "1570470|Away Corners Over/Under|Over 2.5",
@@ -1991,8 +1990,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 440.22,
-   "prob": 0.064
+   "cuota": 507.72,
+   "prob": 0.056
   },
   {
    "patas": [
@@ -2570,32 +2569,33 @@
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
     },
     {
-     "sel": "1552835|Away Player Shots|Noah Cadiou - 1",
-     "texto": "Noah Cadiou: 1+ remate",
+     "sel": "1552831|Away Player Shots|Dario Essugo - 1",
+     "texto": "Dario Essugo: 1+ remate",
+     "cuota": 1.5,
+     "p": 0.88,
+     "dato": "cumple 5/5 siendo titular · 1,67 por 90' (2-2-1-1-1)",
+     "nota": 1.04,
+     "equipo": "Strasbourg",
+     "lado": "V",
+     "partido": "Le Havre–Strasbourg",
+     "hora": "2026-11-28T20:45",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/111.png",
+     "logo_v": "https://media.api-sports.io/football/teams/95.png"
+    },
+    {
+     "sel": "1552835|Away Player Shots Total|Over 7.5",
+     "texto": "Lorient: más de 7,5 remates",
      "cuota": 1.73,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,01 por 90' (1-1-1-2-0-1)",
+     "dato": "ha superado la línea en 7 de sus últimos 8 (10-9-8-9-10-15-7-12)",
      "nota": 0.9460000000000001,
-     "equipo": "Lorient",
      "lado": "V",
      "partido": "Paris Saint Germain–Lorient",
      "hora": "2026-11-28T20:45",
      "liga": "Ligue 1",
      "logo_l": "https://media.api-sports.io/football/teams/85.png",
      "logo_v": "https://media.api-sports.io/football/teams/97.png"
-    },
-    {
-     "sel": "1552831|Shots.1x2|Home",
-     "texto": "Le Havre remata más que el rival",
-     "cuota": 1.73,
-     "p": 0.77,
-     "dato": "16,0 remates de Le Havre contra 11,6 del rival",
-     "nota": 0.8908231010848722,
-     "partido": "Le Havre–Strasbourg",
-     "hora": "2026-11-28T20:45",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/111.png",
-     "logo_v": "https://media.api-sports.io/football/teams/95.png"
     },
     {
      "sel": "1552832|Away Player Shots|Ayase Ueda - 3",
@@ -2628,8 +2628,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 483.68,
-   "prob": 0.037
+   "cuota": 419.38,
+   "prob": 0.042
   },
   {
    "clave": "todo-2026-11-28-3",
