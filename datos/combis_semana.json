@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-27",
- "generado": "2026-11-27T20:34+01:00",
+ "generado": "2026-11-27T21:05+01:00",
  "rango": [
   "2026-11-27",
   "2026-11-30"
@@ -1805,14 +1805,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/728.png"
     },
     {
-     "sel": "1550210|Away Player Shots|Enrico Del Prato - 1",
-     "texto": "Enrico Del Prato: 1+ remate",
-     "cuota": 1.62,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 1,67 por 90' (1-2-1-1-1-4)",
-     "nota": 1.0688,
-     "equipo": "Parma",
-     "lado": "V",
+     "sel": "1550210|Match Winner|Home",
+     "texto": "Gana Frosinone",
+     "cuota": 1.44,
+     "p": 0.835,
+     "dato": "Frosinone: VVVVV en sus últimos 5",
+     "nota": 0.9246289540978256,
      "partido": "Frosinone–Parma",
      "hora": "2026-11-28T15:00",
      "liga": "Serie A",
@@ -1993,8 +1991,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 495.25,
-   "prob": 0.068
+   "cuota": 440.22,
+   "prob": 0.064
   },
   {
    "patas": [
@@ -2443,12 +2441,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/728.png"
     },
     {
-     "sel": "1550210|Match Winner|Home",
-     "texto": "Gana Frosinone",
-     "cuota": 1.44,
-     "p": 0.835,
-     "dato": "Frosinone: VVVVV en sus últimos 5",
-     "nota": 0.9246289540978256,
+     "sel": "1550210|Player Fouls Committed|Patrizio Masini - 2",
+     "texto": "Patrizio Masini: comete 2+ faltas",
+     "cuota": 1.53,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 2,00 por 90' (2-3-0-3-2)",
+     "nota": 0.8429642857142858,
+     "equipo": "Frosinone",
+     "lado": "L",
      "partido": "Frosinone–Parma",
      "hora": "2026-11-28T15:00",
      "liga": "Serie A",
@@ -2628,8 +2628,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 455.23,
-   "prob": 0.041
+   "cuota": 483.68,
+   "prob": 0.037
   },
   {
    "clave": "todo-2026-11-28-3",
@@ -2651,21 +2651,6 @@
      "liga": "LaLiga",
      "logo_l": "https://media.api-sports.io/football/teams/543.png",
      "logo_v": "https://media.api-sports.io/football/teams/728.png"
-    },
-    {
-     "sel": "1550210|Player Fouls Committed|Patrizio Masini - 2",
-     "texto": "Patrizio Masini: comete 2+ faltas",
-     "cuota": 1.53,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 2,00 por 90' (2-3-0-3-2)",
-     "nota": 0.8429642857142858,
-     "equipo": "Frosinone",
-     "lado": "L",
-     "partido": "Frosinone–Parma",
-     "hora": "2026-11-28T15:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/512.png",
-     "logo_v": "https://media.api-sports.io/football/teams/523.png"
     },
     {
      "sel": "1575235|Player Fouls Committed|Albert Sambi Lokonga - 1",
@@ -2823,6 +2808,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/95.png"
     },
     {
+     "sel": "1552834|Away Corners Over/Under|Over 3.5",
+     "texto": "Estac Troyes: más de 3,5 córners",
+     "cuota": 1.67,
+     "p": 0.682,
+     "dato": "Estac Troyes saca 4,8 córners y el rival concede 4,5",
+     "nota": 0.7181602049172271,
+     "partido": "Nice–Estac Troyes",
+     "hora": "2026-11-28T20:45",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/84.png",
+     "logo_v": "https://media.api-sports.io/football/teams/110.png"
+    },
+    {
      "sel": "1570470|Away Corners Over/Under|Over 2.5",
      "texto": "Alaves: más de 2,5 córners",
      "cuota": 1.62,
@@ -2836,8 +2834,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 519.15,
-   "prob": 0.024
+   "cuota": 566.65,
+   "prob": 0.021
   },
   {
    "clave": "todo-2026-11-29",
