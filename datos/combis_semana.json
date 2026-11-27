@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-27",
- "generado": "2026-11-27T19:28+01:00",
+ "generado": "2026-11-27T20:03+01:00",
  "rango": [
   "2026-11-27",
   "2026-11-30"
@@ -1505,48 +1505,6 @@
     }
    ],
    "cuota": 2.2
-  },
-  {
-   "equipo": "Werder Bremen",
-   "liga": "Bundesliga",
-   "partido": "Werder Bremen–Borussia Mönchengladbach",
-   "hora": "2026-11-27T20:30",
-   "logo": "https://media.api-sports.io/football/teams/162.png",
-   "patas": [
-    {
-     "sel": "1575237|Player Fouls Committed|Marco Friedl - 1",
-     "texto": "Marco Friedl: comete 1+ falta",
-     "cuota": 1.53,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 1,83 por 90' (2-1-2-3-2-1)",
-     "nota": 1.0472,
-     "equipo": "Werder Bremen",
-     "lado": "L",
-     "partido": "Werder Bremen–Borussia Mönchengladbach",
-     "hora": "2026-11-27T20:30"
-    },
-    {
-     "sel": "1575237|Total - Home|Over 1.5",
-     "texto": "Werder Bremen marca 2 o más",
-     "cuota": 1.53,
-     "p": 0.742,
-     "dato": "marca 2,8 por partido y el rival encaja 2,5",
-     "nota": 0.8038472226614475,
-     "partido": "Werder Bremen–Borussia Mönchengladbach",
-     "hora": "2026-11-27T20:30"
-    },
-    {
-     "sel": "1575237|ShotOnTarget 1x2|Home",
-     "texto": "Werder Bremen remata más a puerta",
-     "cuota": 1.44,
-     "p": 0.745,
-     "dato": "7,5 remates a puerta de Werder Bremen contra 4,7 del rival",
-     "nota": 0.7701555082745877,
-     "partido": "Werder Bremen–Borussia Mönchengladbach",
-     "hora": "2026-11-27T20:30"
-    }
-   ],
-   "cuota": 3.37
   },
   {
    "equipo": "FSV Mainz 05",

@@ -7197,5 +7197,61 @@
   "multiplicando": 4.593,
   "aj": 0.7269603351814067,
   "parejas": []
+ },
+ {
+  "id": "2026-11-28-loca-th-noche-2230-duelo",
+  "fecha": "2026-11-27T22:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1552828|Home Player Shots|Amine Sbai - 2",
+   "1552828|Away Player Shots|Matthieu Udol - 2"
+  ],
+  "cuotas": [
+   1.62,
+   1.91
+  ],
+  "real": 3.15,
+  "multiplicando": 3.094,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-28-loca-th-noche-2330-escudos",
+  "fecha": "2026-11-27T23:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1550214|Total - Home|Over 0.5",
+   "1550214|To Win Either Half|Away",
+   "1550214|Home Player Shots|Giovanni Simeone - 3",
+   "1550214|Goals Over/Under - Second Half|Over 1.5"
+  ],
+  "cuotas": [
+   1.4,
+   1.62,
+   1.83,
+   2.0
+  ],
+  "real": 8.14,
+  "multiplicando": 8.301,
+  "aj": 0.8532985671225063,
+  "parejas": [
+   [
+    "goles+jugador/mismo",
+    0.9
+   ],
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ]
+  ]
  }
 ]

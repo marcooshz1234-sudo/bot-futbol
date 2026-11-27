@@ -17226,5 +17226,186 @@
     "solo_redes": true,
     "cuota_total": 4.62,
     "cuota_calculada": true
+  },
+  {
+    "id": "2026-11-28-loca-th-noche-2100-x100",
+    "fecha": "2026-11-27T21:00",
+    "texto": "🎰 COMBI POR 38,36 🎰\n\n🇪🇸 Real Betis–Rayo Vallecano 14:00\n✅ ⚽ Ambos marcan\n🇮🇹 Frosinone–Parma 15:00\n✅ 💨 Enrico Del Prato: 1+ tiros\n🇩🇪 Hamburger SV–Bayern München 15:30\n✅ 💨 Dayot Upamecano: 1+ tiros · ✅ ⚽ Ambos marcan\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Leeds–Coventry 16:00\n✅ ⚽ Coventry marca\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester United–Brentford 16:00\n✅ 📈 +1,5 goles en la 2ª parte del Manchester United–Brentford\n🇮🇹 Inter–Genoa 20:45\n✅ ⚽ Genoa marca\n\n🎯 CUOTA 38,36 aprox. 💎 10€ → 384€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1570463|Both Teams Score|Yes",
+      "1550210|Away Player Shots|Enrico Del Prato - 1",
+      "1575235|Away Player Shots|Dayot Upamecano - 1",
+      "1575235|Both Teams Score|Yes",
+      "1557483|Total - Away|Over 0.5",
+      "1557484|Goals Over/Under - Second Half|Over 1.5",
+      "1550211|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.62,
+      1.62,
+      1.8,
+      1.62,
+      1.62,
+      1.73,
+      1.73
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 38.36,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-28-loca-th-noche-2130-ganaambos",
+    "fecha": "2026-11-27T21:30",
+    "texto": "👑⚽ GANA Y AMBOS MARCAN 👑⚽\n\n🇫🇷 Angers – Lens · 17:15\n⚽ Gana Lens y ambos marcan\n\n🇫🇷 Le Havre – Strasbourg · 20:45\n⚽ Gana Strasbourg y ambos marcan\n\n🇪🇸 Real Madrid – Alaves · 21:00\n⚽ Gana Real Madrid y ambos marcan\n\n🎯 CUOTA 32,00 💎 · 10€ → 320€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1552828|Results/Both Teams Score|Away/Yes",
+      "1552831|Results/Both Teams Score|Away/Yes",
+      "1570470|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      3.2,
+      4.0,
+      2.5
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 32.0,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_porque": true,
+    "ganadores_img": {
+      "titulo": "GANA Y AMBOS MARCAN",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/116.png",
+          "nombre": "Lens",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/95.png",
+          "nombre": "Strasbourg",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/541.png",
+          "nombre": "Real Madrid",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        }
+      ],
+      "lema": null
+    }
+  },
+  {
+    "id": "2026-11-28-loca-th-noche-2200-lista-ambos",
+    "fecha": "2026-11-27T22:00",
+    "texto": "⚽ AMBOS MARCAN MAÑANA ⚽\n\n1. 🇪🇸 Real Betis–Rayo Vallecano ➜ Ambos marcan @1,62\n2. 🇩🇪 Hamburger SV–Bayern München ➜ Ambos marcan @1,62\n3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Leeds–Coventry ➜ Ambos marcan @1,80\n4. 🇪🇸 Malaga–Athletic Club ➜ Ambos marcan @1,75\n5. 🇮🇹 Torino–Lazio ➜ Ambos marcan @1,70\n6. 🇫🇷 Le Havre–Strasbourg ➜ Ambos marcan @1,57\n7. 🇫🇷 Le Mans–Lille ➜ Ambos marcan @1,80\n8. 🇮🇹 Inter–Genoa ➜ Ambos marcan @1,91\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1570463|Both Teams Score|Yes",
+      "1575235|Both Teams Score|Yes",
+      "1557483|Both Teams Score|Yes",
+      "1570469|Both Teams Score|Yes",
+      "1550214|Both Teams Score|Yes",
+      "1550211|Both Teams Score|Yes",
+      "1552831|Both Teams Score|Yes",
+      "1552832|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.62,
+      1.62,
+      1.8,
+      1.75,
+      1.7,
+      1.91,
+      1.57,
+      1.8
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-28-loca-th-noche-2230-duelo",
+    "fecha": "2026-11-27T22:30",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Angers vs Lens · 17:15\n\n🔫 Amine Sbai: 2+ tiros (Angers)\n🔫 Matthieu Udol: 2+ tiros (Lens)\n\n🎯 CUOTA 3,15 aprox. 💎 · 10€ → 31,50€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1552828|Home Player Shots|Amine Sbai - 2",
+      "1552828|Away Player Shots|Matthieu Udol - 2"
+    ],
+    "cuotas": [
+      1.62,
+      1.91
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 3.15,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-28-loca-th-noche-2330-escudos",
+    "fecha": "2026-11-27T23:30",
+    "texto": "🚨 COMBI TORINO – LAZIO 🚨\n\n⭐ Torino vs Lazio · 18:00\n\n✅ ⚽ Torino marca\n✅ 🏆 Lazio gana una parte\n✅ 🎯 Giovanni Simeone: 3+ tiros\n✅ 💣 +1,5 goles en la 2ª parte del Torino–Lazio\n\n🎯 CUOTA 8,14 aprox. 💎 10€ → 81,40€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1550214|Total - Home|Over 0.5",
+      "1550214|To Win Either Half|Away",
+      "1550214|Home Player Shots|Giovanni Simeone - 3",
+      "1550214|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.4,
+      1.62,
+      1.83,
+      2.0
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 8.14,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_redes": true,
+    "tarjeta": {
+      "local": "Torino",
+      "visitante": "Lazio",
+      "id_l": 503,
+      "id_v": 487,
+      "logo_l": "https://media.api-sports.io/football/teams/503.png",
+      "logo_v": "https://media.api-sports.io/football/teams/487.png",
+      "fecha": "2026-11-28T18:00",
+      "liga": "Serie A"
+    },
+    "cuota_total": 8.14,
+    "cuota_calculada": true
   }
 ]

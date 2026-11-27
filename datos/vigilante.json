@@ -121,7 +121,8 @@
   "prensa-1552835-ccf05ebd": "2026-11-27T15:18",
   "prensa-1570042-ac07c526": "2026-11-27T15:18",
   "prensa-1575235-MOlise": "2026-11-27T16:19",
-  "prensa-1570046-MiguelGutiérrez": "2026-11-27T18:12"
+  "prensa-1570046-MiguelGutiérrez": "2026-11-27T18:12",
+  "prensa-1563293-f1a697a8": "2026-11-27T20:04"
  },
  "abiertos": [
   {
@@ -129,15 +130,15 @@
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0500-x500, loca-th-1230-x500)"
   },
   {
-   "clave": "repe-2026-11-27-1557485|Away Player Shots|Morgan Rogers - 2",
-   "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-0900-tiros)"
-  },
-  {
    "clave": "repe-2026-11-27-1557485|Home Player Shots|Liam Delap - 3",
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-0900-tiros)"
   },
   {
-   "clave": "repe-2026-11-27-1570468|Total - Away|Over 1.5",
+   "clave": "repe-2026-11-27-1557485|Away Player Shots|Morgan Rogers - 2",
+   "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-0900-tiros)"
+  },
+  {
+   "clave": "repe-2026-11-27-1550216|Match Winner|Away",
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0800-reto, loca-th-1230-x500)"
   },
   {
@@ -145,12 +146,21 @@
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-1230-x500, loca-th-1700-escudos)"
   },
   {
-   "clave": "repe-2026-11-27-1550216|Match Winner|Away",
+   "clave": "repe-2026-11-27-1570468|Total - Away|Over 1.5",
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0800-reto, loca-th-1230-x500)"
+  },
+  {
+   "clave": "prensa-1563293-f1a697a8",
+   "t": "📰 QPR–Sheffield Utd: «QPR-Sheffield Utd: el Sheffield llega con tres bajas seguras» (Tu Futbolero) · tenemos 1 post(s) de este partido: combi-500"
   }
  ],
- "revisado": "2026-11-27T19:53",
+ "revisado": "2026-11-27T20:04",
  "historial": [
+  {
+   "hora": "2026-11-27T20:04",
+   "t": "📰 QPR–Sheffield Utd: «QPR-Sheffield Utd: el Sheffield llega con tres bajas seguras» (Tu Futbolero) · tenemos 1 post(s) de este partido: combi-500",
+   "k": "prensa-1563293-f1a697a8"
+  },
   {
    "hora": "2026-11-27T18:12",
    "t": "📰 Valladolid–Real Sociedad II: «Rober Gutiérrez, pensando en el Valladolid Promesas: “Que no le quepa duda a nadie que haremos un partido muy » (El Deporte Conquense) · tenemos 2 post(s) de este partido: picks-manana, combi-500",
@@ -445,11 +455,6 @@
    "hora": "2026-11-26T00:05",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0020-x100, loca-th-1140-x100)",
    "k": "repe-2026-11-26-1636301|Home Player Shots|Ahmetcan Kaplan - 1"
-  },
-  {
-   "hora": "2026-11-26T00:05",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0020-x100, loca-th-1440-escudos)",
-   "k": "repe-2026-11-26-1636393|To Win Either Half|Home"
   }
  ]
 }
