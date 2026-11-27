@@ -3959,14 +3959,14 @@
   },
   "2026-11-28": {
     "dia": "2026-11-28",
-    "total": 2,
+    "total": 3,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 2,
+      "pendiente": 3,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 3
     },
     "combis": [
       {
@@ -3980,13 +3980,19 @@
         "titulo": "🧨 COMBI POR 38,42 🧨",
         "estado": "pendiente",
         "cuota": 38.42
+      },
+      {
+        "id": "2026-11-28-loca-th-0040-ganaambos",
+        "titulo": "⚽🏆 GANA Y AMBOS MARCAN ⚽🏆",
+        "estado": "pendiente",
+        "cuota": 32.5
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 11
+      "total": 14
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🧨 COMBI POR 38,42 🧨 · 38,42 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🧨 COMBI POR 38,42 🧨 · 38,42 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 32,50 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
   }
 }
