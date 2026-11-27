@@ -3666,11 +3666,11 @@
     "total": 35,
     "cuentas": {
       "verde": 6,
-      "rojo": 28,
+      "rojo": 29,
       "pendiente": 0,
-      "sin_datos": 1,
+      "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 1
+      "sin_resolver": 0
     },
     "combis": [
       {
@@ -3880,27 +3880,27 @@
       {
         "id": "2026-11-27-loca-th-noche-2200-lista-corners",
         "titulo": "🚩 CÓRNERS DE MAÑANA 🚩",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       }
     ],
     "picks": {
-      "verde": 65,
-      "rojo": 70,
+      "verde": 69,
+      "rojo": 73,
       "total": 143
     },
-    "texto": "📊 BALANCE DEL JUEVES: 6 DE 34 EN VERDE 📊\n\n❌ 🏆 EUROPA LEAGUE - GANADORES\n❌ 🎰 LA CENTENARIA x30,82 🎰 · 30,82\n❌ 👑⚽ GANA Y AMBOS MARCAN 👑⚽\n❌ 🏆 CONFERENCE LEAGUE - GANADORES\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❌ 🤺 EL DUELO DE TIROS 🤺 · 4,85\n❌ 🎰 LA DE x15,22 🎰 · 15,22\n❌ 🫣 LA DE LOS TAPADOS 🫣 · 8,53\n❌ 🧨 COMBI x43,98 🧨 · 43,98\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ ⚖️ LA COMBI DE LOS EMPATES ⚖️ · 49,21\n❌ 🎯 COMBI DE TIROS · SC FREIBURG vs TWENTE 🎯 · 10,03\n✅ Artur Serobyan (Ararat-Armenia): 2+ tiros · 1,50\n✅ Bournemouth marca 2 o más · 2,00\n❌ 🤑💸 COMBI POR 34,84 🤑💸 · 34,84\n❌ Orri Steinn Oskarsson (Real Sociedad): 3+ tiros · 1,62\n✅ Richard Sedlacek (FK Jablonec): 1+ tiros · 1,53\n❌ 🤑 LA DE x8,92 🤑 · 8,92\n❌ 💥 COMBI BRANN – AARHUS 💥 · 3,29\n❌ Justin Kluivert (Bournemouth) comete 2+ faltas · 1,62\n❌ 🎰 LA LOCURA DE x88,72 🎰 · 88,72\n✅ Trai Hume (Sunderland) comete 1+ faltas · 1,36\n✅ 💥 COMBI SC FREIBURG – TWENTE 💥 · 5,06\n❌ 🔥 COMBI SPARTA PRAHA – AZ ALKMAAR 🔥 · 7,75\n❌ 🔥 COMBI HNK HAJDUK SPLIT – ST. TRUIDEN 🔥 · 5,95\n✅ Borac Banja Luka marca · 1,53\n❌ Hoy hay partidazo: Dinamo Zagreb 🆚 Bayer Leverkusen 🟠⭐\n❌ ⚔️ EL DUELO DE TIROS ⚔️ · 2,18\n❌ 🤑 COMBI x264 🤑\n❌ 💰🚀 LA CENTENARIA x29,42 💰🚀 · 29,42\n❌ Combi de 4 picks\n❌ 🧨 LA CENTENARIA x20,31 🧨 · 20,31\n❌ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 54,00\n❔ 🚩 CÓRNERS DE MAÑANA 🚩 · faltan datos\n\n✅ 6 acertadas · ❌ 28 falladas · ⏳ 1 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 6 DE 35 EN VERDE 📊\n\n❌ 🏆 EUROPA LEAGUE - GANADORES\n❌ 🎰 LA CENTENARIA x30,82 🎰 · 30,82\n❌ 👑⚽ GANA Y AMBOS MARCAN 👑⚽\n❌ 🏆 CONFERENCE LEAGUE - GANADORES\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❌ 🤺 EL DUELO DE TIROS 🤺 · 4,85\n❌ 🎰 LA DE x15,22 🎰 · 15,22\n❌ 🫣 LA DE LOS TAPADOS 🫣 · 8,53\n❌ 🧨 COMBI x43,98 🧨 · 43,98\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ ⚖️ LA COMBI DE LOS EMPATES ⚖️ · 49,21\n❌ 🎯 COMBI DE TIROS · SC FREIBURG vs TWENTE 🎯 · 10,03\n✅ Artur Serobyan (Ararat-Armenia): 2+ tiros · 1,50\n✅ Bournemouth marca 2 o más · 2,00\n❌ 🤑💸 COMBI POR 34,84 🤑💸 · 34,84\n❌ Orri Steinn Oskarsson (Real Sociedad): 3+ tiros · 1,62\n✅ Richard Sedlacek (FK Jablonec): 1+ tiros · 1,53\n❌ 🤑 LA DE x8,92 🤑 · 8,92\n❌ 💥 COMBI BRANN – AARHUS 💥 · 3,29\n❌ Justin Kluivert (Bournemouth) comete 2+ faltas · 1,62\n❌ 🎰 LA LOCURA DE x88,72 🎰 · 88,72\n✅ Trai Hume (Sunderland) comete 1+ faltas · 1,36\n✅ 💥 COMBI SC FREIBURG – TWENTE 💥 · 5,06\n❌ 🔥 COMBI SPARTA PRAHA – AZ ALKMAAR 🔥 · 7,75\n❌ 🔥 COMBI HNK HAJDUK SPLIT – ST. TRUIDEN 🔥 · 5,95\n✅ Borac Banja Luka marca · 1,53\n❌ Hoy hay partidazo: Dinamo Zagreb 🆚 Bayer Leverkusen 🟠⭐\n❌ ⚔️ EL DUELO DE TIROS ⚔️ · 2,18\n❌ 🤑 COMBI x264 🤑\n❌ 💰🚀 LA CENTENARIA x29,42 💰🚀 · 29,42\n❌ Combi de 4 picks\n❌ 🧨 LA CENTENARIA x20,31 🧨 · 20,31\n❌ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 54,00\n❌ 🚩 CÓRNERS DE MAÑANA 🚩\n\n✅ 6 acertadas · ❌ 29 falladas · ⏳ 0 sin resolver"
   },
   "2026-11-27": {
     "dia": "2026-11-27",
     "total": 17,
     "cuentas": {
-      "verde": 1,
-      "rojo": 7,
+      "verde": 3,
+      "rojo": 11,
       "pendiente": 3,
-      "sin_datos": 6,
+      "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 9
+      "sin_resolver": 3
     },
     "combis": [
       {
@@ -3918,13 +3918,13 @@
       {
         "id": "2026-11-27-loca-th-0200-lista-corners",
         "titulo": "🚩 CÓRNERS DEL DÍA 🚩",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
         "id": "2026-11-27-loca-th-0300-duelo",
         "titulo": "🥊 EL DUELO DE TIROS 🥊",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 2.54
       },
       {
@@ -3942,7 +3942,7 @@
       {
         "id": "2026-11-27-loca-th-0900-tiros",
         "titulo": "🎯 COMBI DE TIROS · NOTTINGHAM FOREST vs CHELSEA 🎯",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 3.99
       },
       {
@@ -3972,19 +3972,19 @@
       {
         "id": "2026-11-27-loca-th-1700-escudos",
         "titulo": "🚨 COMBI LEVANTE – RACING SANTANDER 🚨",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": 3.59
       },
       {
         "id": "2026-11-27-estrella-1557485",
         "titulo": "Hoy hay partidazo: Nottingham Forest 🆚 Chelsea 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
         "id": "2026-11-27-pick-tip-2",
         "titulo": "Racing Santander o empate",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": 1.8
       },
       {
@@ -4007,10 +4007,10 @@
       }
     ],
     "picks": {
-      "verde": 10,
-      "rojo": 13,
+      "verde": 20,
+      "rojo": 19,
       "total": 57
     },
-    "texto": "📊 BALANCE DEL VIERNES: 1 DE 8 EN VERDE 📊\n\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 61,70\n❔ 🚩 CÓRNERS DEL DÍA 🚩 · faltan datos\n❔ 🥊 EL DUELO DE TIROS 🥊 · 2,54 · faltan datos\n❌ 🎰 COMBI x161 🎰\n❌ 💶 RETO: DE 1€ A 299€ 💶\n❔ 🎯 COMBI DE TIROS · NOTTINGHAM FOREST vs CHELSEA 🎯 · 3,99 · faltan datos\n❌ 🪜 Reto escalera · Día 2/7\n✅ Más de 1,5 goles en la 2ª parte del Werder Bremen–Borussia Mönchengladbach · 1,73\n❌ 🤑💸 LA LOCURA DE x117 🤑💸\n❌ 🔥 COMBI VENEZIA – BOLOGNA 🔥 · 7,01\n❔ 🚨 COMBI LEVANTE – RACING SANTANDER 🚨 · 3,59 · faltan datos\n❔ Hoy hay partidazo: Nottingham Forest 🆚 Chelsea 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐ · faltan datos\n❔ Racing Santander o empate · 1,80 · faltan datos\n⏳ 🎰 COMBI POR 38,36 🎰 · 38,36 · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 3,15 · pendiente\n\n✅ 1 acertadas · ❌ 7 falladas · ⏳ 9 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 3 DE 14 EN VERDE 📊\n\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 61,70\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🥊 EL DUELO DE TIROS 🥊 · 2,54\n❌ 🎰 COMBI x161 🎰\n❌ 💶 RETO: DE 1€ A 299€ 💶\n❌ 🎯 COMBI DE TIROS · NOTTINGHAM FOREST vs CHELSEA 🎯 · 3,99\n❌ 🪜 Reto escalera · Día 2/7\n✅ Más de 1,5 goles en la 2ª parte del Werder Bremen–Borussia Mönchengladbach · 1,73\n❌ 🤑💸 LA LOCURA DE x117 🤑💸\n❌ 🔥 COMBI VENEZIA – BOLOGNA 🔥 · 7,01\n✅ 🚨 COMBI LEVANTE – RACING SANTANDER 🚨 · 3,59\n❌ Hoy hay partidazo: Nottingham Forest 🆚 Chelsea 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n✅ Racing Santander o empate · 1,80\n⏳ 🎰 COMBI POR 38,36 🎰 · 38,36 · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 3,15 · pendiente\n\n✅ 3 acertadas · ❌ 11 falladas · ⏳ 3 sin resolver"
   }
 }

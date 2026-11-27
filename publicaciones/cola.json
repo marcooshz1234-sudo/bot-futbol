@@ -2160,5 +2160,30 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-27-verde-auto-2026-11-27-pick-tip-2",
+    "fecha": "2026-11-27T23:11",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Racing Santander o empate\n\n📈 Cuota @1,80\n\nOtra más pa' la saca familia 😎",
+    "foto": "publicaciones/media/2026-11-27-verde-auto-2026-11-27-pick-tip-2.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-27-pick-tip-2"
+  },
+  {
+    "id": "2026-11-27-verde-auto-2026-11-27-loca-th-1700-escudos",
+    "fecha": "2026-11-27T23:11",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Ambos marcan en Levante–Racing Santander\n✅ Más de 1,5 goles en la 2ª parte del Levante–Racing Santander\n✅ Racing Santander gana alguna de las dos partes\n\n📈 Cuota @3,59\n\nOtra más pa' la saca familia 😎",
+    "foto": "publicaciones/media/2026-11-27-verde-auto-2026-11-27-loca-th-1700-escudos.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-27-loca-th-1700-escudos",
+    "requiere_ok": true,
+    "aviso": "💚 ¡VERDE! Te lo paso porque lleva varias patas del mismo partido y su cuota no está confirmada. Sale cuando le des a Publicar.",
+    "solo_redes": true
   }
 ]
