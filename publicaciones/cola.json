@@ -2042,5 +2042,35 @@
       "threads": "18141598577503956",
       "instagram": "18649513096062152"
     }
+  },
+  {
+    "id": "2026-11-27-pick-tip-1",
+    "fecha": "2026-11-27T18:45",
+    "texto": "Este nos encanta para hoy 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🍀 Más de 2,5 goles @1,50\n\n⚽ Levante – Racing Santander · hoy 21:00\n\n👨‍💻 Dos defensas flojas: el Racing encaja de media más de dos goles por partido\n👨‍💻 El Levante en casa suele ver puerta y el Racing también marca, partido abierto\n\n🧠 Stake 3/10",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": false,
+    "sel": [],
+    "cuotas": [],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true,
+    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
+  },
+  {
+    "id": "2026-11-27-combi-tip-1",
+    "fecha": "2026-11-27T18:45",
+    "texto": "Combinada para hoy, con cabeza ⚽\n\n🍀 Chelsea marca al menos 1 gol @1,30\n⚽ Nottingham Forest – Chelsea · hoy 21:00\n🍀 Más de 3,5 tarjetas @1,30\n⚽ Levante – Racing Santander · hoy 21:00\n\n📈 Cuota @1,69",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": false,
+    "sel": [],
+    "cuotas": [],
+    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true,
+    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
   }
 ]

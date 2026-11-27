@@ -4779,5 +4779,99 @@
    "Canales e Iñigo Vicente son de los que más faltas reciben, ante un centro del campo que corta mucho con falta"
   ],
   "argumento_propio": true
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "fuente": "Tipster Pérez/47539",
+  "dia": "2026-11-27",
+  "hora": "21:00",
+  "local": "Nottingham Forest",
+  "visitante": "Chelsea",
+  "texto": "Chelsea marca al menos 1 gol",
+  "mercado": "Total - Away",
+  "opcion": "Over 0.5",
+  "cuota": 1.3,
+  "stake": 3,
+  "combinada": "perez-47539",
+  "argumento": [
+   "El Chelsea tiene una de las mejores precisiones de tiro de la Premier y genera mucho arriba",
+   "Forest se ha quedado sin marcar y concede con frecuencia, así que el Chelsea debería encontrar espacios"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "fuente": "Tipster Pérez/47539",
+  "dia": "2026-11-27",
+  "hora": "21:00",
+  "local": "Levante",
+  "visitante": "Racing Santander",
+  "texto": "Más de 3,5 tarjetas",
+  "mercado": "Cards Over Under",
+  "opcion": "Over 3.5",
+  "cuota": 1.3,
+  "stake": 3,
+  "combinada": "perez-47539",
+  "argumento": [
+   "Entre los dos equipos suman cerca de cuatro tarjetas y media de media por partido",
+   "El árbitro designado saca muchas, rondando las cinco por encuentro",
+   "El Levante tendrá que cortar las transiciones del Racing, lo que suele traer faltas tácticas"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "-1001550157115/101222",
+  "dia": "2026-11-27",
+  "hora": "21:00",
+  "local": "Levante",
+  "visitante": "Racing Santander",
+  "texto": "Más de 2,5 goles",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.5,
+  "stake": 3,
+  "argumento": [
+   "Dos defensas flojas: el Racing encaja de media más de dos goles por partido",
+   "El Levante en casa suele ver puerta y el Racing también marca, partido abierto"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "ICARDI | PICKS",
+  "fuente": "-1002192352571/5456",
+  "dia": "2026-11-27",
+  "hora": "21:00",
+  "local": "Levante",
+  "visitante": "Racing Santander",
+  "texto": "Crear apuesta: De la Fuente 1+ remate a puerta, Nacho Pérez 1+ falta cometida, Jorge Salinas 1+ falta recibida (con aumento)",
+  "mercado": "Crear apuesta",
+  "opcion": "De la Fuente 1+ remate a puerta + Nacho Pérez 1+ falta cometida + J. Salinas 1+ falta recibida",
+  "cuota": 4.4,
+  "stake": null,
+  "argumento": [
+   "De la Fuente es de los que más disparan del Levante y suele probar portería",
+   "Nacho Pérez apunta a titular en el lateral por las bajas y llega metiendo faltas",
+   "Salinas recibe faltas en todos sus partidos de titular"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "ICARDI | PICKS",
+  "fuente": "-1002192352571/5457",
+  "dia": "2026-11-27",
+  "hora": "21:00",
+  "local": "Levante",
+  "visitante": "Racing Santander",
+  "texto": "Crear apuesta (funbet): De la Fuente 2+ remates a puerta, Nacho Pérez 2+ faltas cometidas, Jorge Salinas 2+ faltas recibidas",
+  "mercado": "Crear apuesta",
+  "opcion": "De la Fuente 2+ remates a puerta + Nacho Pérez 2+ faltas cometidas + J. Salinas 2+ faltas recibidas",
+  "cuota": 66.0,
+  "stake": null,
+  "argumento": [
+   "Mismos tres jugadores pero con líneas dobladas: más premio y mucho más riesgo",
+   "Depende de que los tres sean titulares y jueguen casi todo el partido"
+  ],
+  "argumento_propio": true
  }
 ]
