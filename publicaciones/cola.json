@@ -1994,5 +1994,31 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-27-combi-larga-a",
+    "fecha": "2026-11-27T11:30",
+    "texto": "🔥 COMBI LARGA DEL DÍA · 7 PARTIDOS 🔥\n\n➡️ 🇷🇴 Universitatea Cluj — Win\n➡️ 🇩🇰 Vejle — X2\n➡️ 🇷🇴 Petrolul Ploiesti — X1\n➡️ 🇩🇪 Werder Bremen — BTTS\n➡️ 🇮🇹 Venezia — BTTS\n➡️ 🇪🇸 Levante — Over 2.5\n➡️ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Southampton — BTTS\n\n📈 Cuota @16,06\n💶 10€ → 161€\n\n🍀 ¿La pintamos de verde? 👀💚",
+    "texto_threads": "🔥 COMBI LARGA DEL DÍA · 7 PARTIDOS 🔥\n\n➡️ 🇷🇴 Universitatea Cluj — Win\n➡️ 🇩🇰 Vejle — X2\n➡️ 🇷🇴 Petrolul Ploiesti — X1\n➡️ 🇩🇪 Werder Bremen — BTTS\n➡️ 🇮🇹 Venezia — BTTS\n➡️ 🇪🇸 Levante — Over 2.5\n➡️ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Southampton — BTTS\n\n📈 Cuota @16,06\n\n🍀 ¿La pintamos de verde? 👀💚",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "solo_en": [
+      "threads",
+      "instagram"
+    ],
+    "sel": [],
+    "cuotas": [],
+    "excepcion_cuota": "combi larga diaria (Marcos 15/11)",
+    "nota": "patas: 1565317|Match Winner|Home · 1551384|Double Chance|Draw/Away · 1565316|Double Chance|Home/Draw · 1575237|Both Teams Score|Yes · 1550216|Both Teams Score|Yes · 1570468|Goals Over/Under|Over 2.5 · 1563294|Both Teams Score|Yes",
+    "redes": {
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    },
+    "errores_redes": {
+      "threads": "400: An unknown error occurred",
+      "instagram": "contenedor ERROR: ERROR"
+    }
   }
 ]
