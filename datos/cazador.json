@@ -61,9 +61,87 @@
    "post": "2026-11-23-cuotaza-1608377-181ed6"
   }
  },
- "top": [],
+ "top": [
+  {
+   "local": "Las Palmas",
+   "visitante": "FC Andorra",
+   "inicio": "2026-11-28T14:00",
+   "texto": "Gana el Las Palmas",
+   "cuota": 2.2,
+   "justa": 2.19,
+   "ev": 0.005,
+   "fuente": "las otras casas",
+   "edad_h": 0.4
+  },
+  {
+   "local": "Ospitaletto",
+   "visitante": "Union Brescia",
+   "inicio": "2026-11-28T17:30",
+   "texto": "Ospitaletto o empate",
+   "cuota": 1.8,
+   "justa": 1.81,
+   "ev": -0.005,
+   "fuente": "las otras casas",
+   "edad_h": 0.4
+  },
+  {
+   "local": "Albacete",
+   "visitante": "Tenerife",
+   "inicio": "2026-11-28T16:15",
+   "texto": "Tenerife o empate",
+   "cuota": 1.8,
+   "justa": 1.82,
+   "ev": -0.013,
+   "fuente": "las otras casas",
+   "edad_h": 0.4
+  },
+  {
+   "local": "West Brom",
+   "visitante": "Bristol City",
+   "inicio": "2026-11-28T16:00",
+   "texto": "Bristol City o empate",
+   "cuota": 2.2,
+   "justa": 2.24,
+   "ev": -0.017,
+   "fuente": "las otras casas",
+   "edad_h": 0.4
+  },
+  {
+   "local": "Albacete",
+   "visitante": "Tenerife",
+   "inicio": "2026-11-28T16:15",
+   "texto": "Tenerife marca",
+   "cuota": 1.5,
+   "justa": 1.53,
+   "ev": -0.019,
+   "fuente": "las otras casas",
+   "edad_h": 0.4
+  },
+  {
+   "local": "FC Voluntari",
+   "visitante": "CFR 1907 Cluj",
+   "inicio": "2026-11-28T13:30",
+   "texto": "CFR 1907 Cluj o empate",
+   "cuota": 1.53,
+   "justa": 1.56,
+   "ev": -0.019,
+   "fuente": "las otras casas",
+   "edad_h": 0.4
+  },
+  {
+   "local": "Arouca",
+   "visitante": "Rio Ave",
+   "inicio": "2026-11-28T16:30",
+   "texto": "Ambos marcan en Arouca–Rio Ave",
+   "cuota": 1.95,
+   "justa": 1.99,
+   "ev": -0.02,
+   "fuente": "las otras casas",
+   "edad_h": 0.4
+  }
+ ],
  "ultima": {
-  "hora": "2026-11-27T22:09",
+  "hora": "2026-11-27T22:36",
   "revisadas": 0,
   "mejor": null
  },
