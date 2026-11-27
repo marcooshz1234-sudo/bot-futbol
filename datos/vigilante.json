@@ -1,9 +1,6 @@
 {
  "informe": "2026-11-27",
  "vistos": {
-  "redes-2026-11-24-combi-partido-1635713-threads-instagram": "2026-11-24T20:56",
-  "redes-2026-11-24-estrella-1635715-threads-instagram": "2026-11-24T20:56",
-  "repe-2026-11-24-1635611|Away Corners Over/Under|Over 2.5": "2026-11-24T20:56",
   "redes-2026-11-24-verde-auto-2026-11-24-pick-extra-city-threads-instagram": "2026-11-24T23:10",
   "directo-2026-11-25-pick-claude-1": "2026-11-24T23:40",
   "directo-2026-11-25-pick-claude-2": "2026-11-24T23:40",
@@ -118,7 +115,8 @@
   "prensa-1570042-ac07c526": "2026-11-27T15:18",
   "prensa-1575235-MOlise": "2026-11-27T16:19",
   "prensa-1570046-MiguelGutiérrez": "2026-11-27T18:12",
-  "prensa-1563293-f1a697a8": "2026-11-27T20:04"
+  "prensa-1563293-f1a697a8": "2026-11-27T20:04",
+  "prensa-1575234-MDíaz": "2026-11-27T21:04"
  },
  "abiertos": [
   {
@@ -138,16 +136,25 @@
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0800-reto, loca-th-1230-x500)"
   },
   {
+   "clave": "repe-2026-11-27-1550216|Match Winner|Away",
+   "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0800-reto, loca-th-1230-x500)"
+  },
+  {
    "clave": "repe-2026-11-27-1570468|To Win Either Half|Away",
    "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-1230-x500, loca-th-1700-escudos)"
   },
   {
-   "clave": "repe-2026-11-27-1550216|Match Winner|Away",
-   "t": "🔁 27/11: el mismo pronóstico en 3 posts (loca-th-0500-x500, loca-th-0800-reto, loca-th-1230-x500)"
+   "clave": "prensa-1575234-MDíaz",
+   "t": "📰 FSV Mainz 05–Union Berlin: «Luis Díaz, llamado a ser salvador en caos de lesiones: fecha, hora y TV del duelo Hamburgo vs Bayern Múnich» (El Tiempo) · tenemos 3 post(s) de este partido: picks-manana, ganadores-resto, combi-500"
   }
  ],
- "revisado": "2026-11-27T20:54",
+ "revisado": "2026-11-27T21:04",
  "historial": [
+  {
+   "hora": "2026-11-27T21:04",
+   "t": "📰 FSV Mainz 05–Union Berlin: «Luis Díaz, llamado a ser salvador en caos de lesiones: fecha, hora y TV del duelo Hamburgo vs Bayern Múnich» (El Tiempo) · tenemos 3 post(s) de este partido: picks-manana, ganadores-resto, combi-500",
+   "k": "prensa-1575234-MDíaz"
+  },
   {
    "hora": "2026-11-27T20:04",
    "t": "📰 QPR–Sheffield Utd: «QPR-Sheffield Utd: el Sheffield llega con tres bajas seguras» (Tu Futbolero) · tenemos 1 post(s) de este partido: combi-500",
@@ -442,11 +449,6 @@
    "hora": "2026-11-26T00:05",
    "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1100-lista-ambos)",
    "k": "repe-2026-11-26-1636315|Both Teams Score|Yes"
-  },
-  {
-   "hora": "2026-11-26T00:05",
-   "t": "🔁 26/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0020-x100, loca-th-1140-x100)",
-   "k": "repe-2026-11-26-1636301|Home Player Shots|Ahmetcan Kaplan - 1"
   }
  ]
 }
