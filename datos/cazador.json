@@ -66,49 +66,16 @@
    "local": "AB Copenhagen",
    "visitante": "Vejle",
    "inicio": "2026-11-27T19:00",
-   "texto": "Ambos marcan en AB Copenhagen–Vejle",
-   "cuota": 1.67,
-   "justa": 1.64,
-   "ev": 0.017,
-   "fuente": "las otras casas",
-   "edad_h": 7.8
-  },
-  {
-   "local": "AB Copenhagen",
-   "visitante": "Vejle",
-   "inicio": "2026-11-27T19:00",
    "texto": "AB Copenhagen o empate",
    "cuota": 1.8,
-   "justa": 1.79,
-   "ev": 0.003,
-   "fuente": "las otras casas",
-   "edad_h": 7.8
-  },
-  {
-   "local": "Universitatea Cluj",
-   "visitante": "Sepsi OSK Sfantu Gheorghe",
-   "inicio": "2026-11-27T16:30",
-   "texto": "Universitatea Cluj marca 2 o más",
-   "cuota": 1.67,
-   "justa": 1.7,
+   "justa": 1.83,
    "ev": -0.019,
    "fuente": "Pinnacle",
    "edad_h": 0.0
-  },
-  {
-   "local": "Groningen",
-   "visitante": "Willem II",
-   "inicio": "2026-11-27T20:00",
-   "texto": "Willem II marca",
-   "cuota": 1.57,
-   "justa": 1.6,
-   "ev": -0.019,
-   "fuente": "las otras casas",
-   "edad_h": 7.8
   }
  ],
  "ultima": {
-  "hora": "2026-11-27T06:50",
+  "hora": "2026-11-27T07:19",
   "revisadas": 0,
   "mejor": null
  },
