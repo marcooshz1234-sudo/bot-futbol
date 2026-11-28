@@ -1,7 +1,5 @@
 {
  "avisados": [
-  "clave|2026-11-04-marcos-sorpresas|1635651|Match Winner|Away|Isco",
-  "clave|2026-11-04-marcos-sorpresas|1635651|Match Winner|Away|Pablo Fornals",
   "clave|2026-11-04-marcos-sorpresas|1635658|Match Winner|Away|A. Isak",
   "clave|2026-11-04-marcos-sorpresas|1635745|Match Winner|Home|P. Christiansen",
   "clave|2026-11-04-quien-gana-champions|1635606|Match Winner|Away|A. Güler",
@@ -486,6 +484,8 @@
   "clave|2026-11-27-loca-th-1630-escudos|1550216|To Win Either Half|Away|N. Cambiaghi",
   "clave|2026-11-27-loca-th-1630-escudos|1550216|Total - Away|Over 1.5|Juan Miranda",
   "clave|2026-11-27-loca-th-1630-escudos|1550216|Total - Away|Over 1.5|N. Cambiaghi",
+  "clave|2026-11-28-loca-th-0500-x50|1550210|Away Player Shots|Enrico Del Prato - 1|E. Valeri",
+  "clave|2026-11-28-loca-th-noche-2100-x100|1550210|Away Player Shots|Enrico Del Prato - 1|E. Valeri",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -6731,10 +6731,155 @@
    }
   },
   "1550210": {
-   "hora": "2026-11-28T14:24:00.111857+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-28T14:36:55.953788+01:00",
+   "xi": [
+    "L. Palmisani",
+    "A. Oyono",
+    "G. Calvani",
+    "I. Monterisi",
+    "G. Bracaglia",
+    "G. Calò",
+    "P. Masini",
+    "F. Ghedjemis",
+    "R. Schmid",
+    "G. Kvernadze",
+    "T. Bobček",
+    "G. Daffara",
+    "E. Del Prato",
+    "M. Troilo",
+    "A. N&apos;Diaye",
+    "B. Cremaschi",
+    "G. Fabbian",
+    "H. Nicolussi",
+    "M. Keita",
+    "F. Carboni",
+    "N. Elphege",
+    "E. Touré"
+   ],
+   "banquillo": [
+    "A. Terzić",
+    "E. Tchato",
+    "A. Raimondo",
+    "M. Pisseri",
+    "K. Akpoguma",
+    "A. Zerbin",
+    "G. Cittadini",
+    "Matteo Cichella",
+    "W. Amey",
+    "S. Desplanches",
+    "A. El Azzouzi",
+    "Omar Fayed",
+    "S. Fini",
+    "F. Grillitsch",
+    "L. Hasa",
+    "Adrián Bernabé",
+    "P. Almqvist",
+    "S. Britschgi",
+    "E. Corvi",
+    "Ousmane Diallo",
+    "Diego Carlos",
+    "M. Frigan",
+    "S. Ghidotti",
+    "Abdou Konate",
+    "S. Lontani",
+    "C. Ordoñez",
+    "V. Sierro",
+    "E. Valeri"
+   ],
+   "equipos": {
+    "512": [
+     {
+      "n": "L. Palmisani",
+      "pos": "G"
+     },
+     {
+      "n": "A. Oyono",
+      "pos": "D"
+     },
+     {
+      "n": "G. Calvani",
+      "pos": "D"
+     },
+     {
+      "n": "I. Monterisi",
+      "pos": "D"
+     },
+     {
+      "n": "G. Bracaglia",
+      "pos": "D"
+     },
+     {
+      "n": "G. Calò",
+      "pos": "M"
+     },
+     {
+      "n": "P. Masini",
+      "pos": "M"
+     },
+     {
+      "n": "F. Ghedjemis",
+      "pos": "M"
+     },
+     {
+      "n": "R. Schmid",
+      "pos": "M"
+     },
+     {
+      "n": "G. Kvernadze",
+      "pos": "M"
+     },
+     {
+      "n": "T. Bobček",
+      "pos": "F"
+     }
+    ],
+    "523": [
+     {
+      "n": "G. Daffara",
+      "pos": "G"
+     },
+     {
+      "n": "E. Del Prato",
+      "pos": "D"
+     },
+     {
+      "n": "M. Troilo",
+      "pos": "D"
+     },
+     {
+      "n": "A. N&apos;Diaye",
+      "pos": "D"
+     },
+     {
+      "n": "B. Cremaschi",
+      "pos": "M"
+     },
+     {
+      "n": "G. Fabbian",
+      "pos": "M"
+     },
+     {
+      "n": "H. Nicolussi",
+      "pos": "M"
+     },
+     {
+      "n": "M. Keita",
+      "pos": "M"
+     },
+     {
+      "n": "F. Carboni",
+      "pos": "M"
+     },
+     {
+      "n": "N. Elphege",
+      "pos": "F"
+     },
+     {
+      "n": "E. Touré",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1575234": {
    "hora": "2026-11-28T14:29:42.896564+01:00",

@@ -71,29 +71,29 @@
    "justa": 2.15,
    "ev": 0.025,
    "fuente": "Pinnacle",
+   "edad_h": 0.4
+  },
+  {
+   "local": "Moreirense",
+   "visitante": "Santa Clara",
+   "inicio": "2026-11-28T16:30",
+   "texto": "Moreirense marca",
+   "cuota": 1.44,
+   "justa": 1.43,
+   "ev": 0.005,
+   "fuente": "Pinnacle",
    "edad_h": 0.0
   },
   {
-   "local": "Ospitaletto",
-   "visitante": "Union Brescia",
-   "inicio": "2026-11-28T17:30",
-   "texto": "Ospitaletto o empate",
+   "local": "Elche",
+   "visitante": "Atletico Madrid",
+   "inicio": "2026-11-28T18:30",
+   "texto": "Ambos marcan en Elche–Atletico Madrid",
    "cuota": 1.8,
-   "justa": 1.78,
-   "ev": 0.009,
+   "justa": 1.81,
+   "ev": -0.004,
    "fuente": "las otras casas",
-   "edad_h": 5.6
-  },
-  {
-   "local": "Arouca",
-   "visitante": "Rio Ave",
-   "inicio": "2026-11-28T16:30",
-   "texto": "Ambos marcan en Arouca–Rio Ave",
-   "cuota": 1.95,
-   "justa": 1.93,
-   "ev": 0.009,
-   "fuente": "las otras casas",
-   "edad_h": 5.6
+   "edad_h": 0.0
   },
   {
    "local": "West Brom",
@@ -104,18 +104,7 @@
    "justa": 1.58,
    "ev": -0.005,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Frosinone",
-   "visitante": "Parma",
-   "inicio": "2026-11-28T15:00",
-   "texto": "Frosinone marca 3 o más",
-   "cuota": 2.1,
-   "justa": 2.12,
-   "ev": -0.007,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Albacete",
@@ -126,18 +115,18 @@
    "justa": 1.82,
    "ev": -0.013,
    "fuente": "Pinnacle",
-   "edad_h": 5.6
+   "edad_h": 0.0
   },
   {
-   "local": "Elche",
-   "visitante": "Atletico Madrid",
-   "inicio": "2026-11-28T18:30",
-   "texto": "Ambos marcan en Elche–Atletico Madrid",
-   "cuota": 1.8,
-   "justa": 1.83,
+   "local": "Ospitaletto",
+   "visitante": "Union Brescia",
+   "inicio": "2026-11-28T17:30",
+   "texto": "Ospitaletto o empate",
+   "cuota": 1.73,
+   "justa": 1.75,
    "ev": -0.014,
-   "fuente": "las otras casas",
-   "edad_h": 5.6
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   },
   {
    "local": "Granada CF",
@@ -148,11 +137,22 @@
    "justa": 1.83,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 5.6
+   "edad_h": 6.0
+  },
+  {
+   "local": "QPR",
+   "visitante": "Sheffield Utd",
+   "inicio": "2026-11-28T16:00",
+   "texto": "Gana el QPR",
+   "cuota": 2.0,
+   "justa": 2.03,
+   "ev": -0.017,
+   "fuente": "Pinnacle",
+   "edad_h": 0.4
   }
  ],
  "ultima": {
-  "hora": "2026-11-28T14:19",
+  "hora": "2026-11-28T14:41",
   "revisadas": 0,
   "mejor": null
  },

@@ -3959,14 +3959,14 @@
   },
   "2026-11-28": {
     "dia": "2026-11-28",
-    "total": 23,
+    "total": 24,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 23,
+      "pendiente": 24,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 23
+      "sin_resolver": 24
     },
     "combis": [
       {
@@ -4106,13 +4106,19 @@
         "titulo": "🔥 COMBI VFB STUTTGART – EINTRACHT FRANKFURT 🔥",
         "estado": "pendiente",
         "cuota": 4.91
+      },
+      {
+        "id": "2026-11-28-loca-th-1440-escudos",
+        "titulo": "🔥 COMBI IPSWICH – ASTON VILLA 🔥",
+        "estado": "pendiente",
+        "cuota": 8.39
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 75
+      "total": 77
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🧨 COMBI POR 38,42 🧨 · 38,42 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 32,50 · pendiente\n⏳ 🏆 PREMIER LEAGUE - GANADORES · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 3,15 · pendiente\n⏳ 💰🚀 COMBI x45,75 💰🚀 · 45,75 · pendiente\n⏳ ⏳ TODO A LAS 20:45 ⏳ · 10,23 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 11,55 · pendiente\n⏳ 🤑💸 COMBI x94,98 🤑💸 · 94,98 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 😮‍💨 LA COMBI DE LOS EMPATES 😮‍💨 · 40,84 · pendiente\n⏳ ⚡ COMBI FSV MAINZ 05 – UNION BERLIN ⚡ · 4,29 · pendiente\n⏳ Malaga marca · 1,50 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ Más de 1,5 goles en la 2.ª parte · 1,53 · pendiente\n⏳ Vamos con la combi del día familia 🔥 · pendiente\n⏳ Le Mans marca · 1,50 · pendiente\n⏳ Gana el Frosinone · 1,48 · pendiente\n⏳ Gana el Leeds · 1,45 · pendiente\n⏳ 💥 COMBI ANGERS – LENS 💥 · 7,39 · pendiente\n⏳ 🔥 COMBI VFB STUTTGART – EINTRACHT FRANKFURT 🔥 · 4,91 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 23 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🧨 COMBI POR 38,42 🧨 · 38,42 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 32,50 · pendiente\n⏳ 🏆 PREMIER LEAGUE - GANADORES · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 3,15 · pendiente\n⏳ 💰🚀 COMBI x45,75 💰🚀 · 45,75 · pendiente\n⏳ ⏳ TODO A LAS 20:45 ⏳ · 10,23 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 11,55 · pendiente\n⏳ 🤑💸 COMBI x94,98 🤑💸 · 94,98 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 😮‍💨 LA COMBI DE LOS EMPATES 😮‍💨 · 40,84 · pendiente\n⏳ ⚡ COMBI FSV MAINZ 05 – UNION BERLIN ⚡ · 4,29 · pendiente\n⏳ Malaga marca · 1,50 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ Más de 1,5 goles en la 2.ª parte · 1,53 · pendiente\n⏳ Vamos con la combi del día familia 🔥 · pendiente\n⏳ Le Mans marca · 1,50 · pendiente\n⏳ Gana el Frosinone · 1,48 · pendiente\n⏳ Gana el Leeds · 1,45 · pendiente\n⏳ 💥 COMBI ANGERS – LENS 💥 · 7,39 · pendiente\n⏳ 🔥 COMBI VFB STUTTGART – EINTRACHT FRANKFURT 🔥 · 4,91 · pendiente\n⏳ 🔥 COMBI IPSWICH – ASTON VILLA 🔥 · 8,39 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 24 sin resolver"
   }
 }
