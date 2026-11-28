@@ -15868,13 +15868,13 @@
     "equipo": 85,
     "jugador": "D. Doue",
     "tipo": "Missing Fixture",
-    "motivo": "Knee Injury"
+    "motivo": "Knee Injury - ACL"
    },
    {
     "equipo": 85,
     "jugador": "K. Kvaratskhelia",
     "tipo": "Missing Fixture",
-    "motivo": "Knee Injury"
+    "motivo": "Knee Injury - ACL"
    },
    {
     "equipo": 85,
@@ -15909,7 +15909,7 @@
   ],
   "1575553": []
  },
- "ultima": "2026-11-28T02:36:26.982742+01:00",
+ "ultima": "2026-11-28T03:08:39.769724+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
