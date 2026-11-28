@@ -15376,12 +15376,6 @@
    },
    {
     "equipo": 1346,
-    "jugador": "E. Mason-Clark",
-    "tipo": "Missing Fixture",
-    "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 1346,
     "jugador": "L. Woolfenden",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
@@ -15391,12 +15385,6 @@
     "jugador": "H. Wright",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 1346,
-    "jugador": "C. Yirenkyi",
-    "tipo": "Missing Fixture",
-    "motivo": "Injury"
    }
   ],
   "1552236": [
@@ -17177,9 +17165,59 @@
     "tipo": "Missing Fixture",
     "motivo": "Injury"
    }
+  ],
+  "1552239": [
+   {
+    "equipo": 413,
+    "jugador": "B. Nuytinck",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 413,
+    "jugador": "P. Sandler",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 413,
+    "jugador": "P. Schuurs",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 415,
+    "jugador": "M. Bruns",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 415,
+    "jugador": "K. Kurowski",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 415,
+    "jugador": "F. Thorvaldsen",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 415,
+    "jugador": "L. Unnerstall",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 415,
+    "jugador": "T. van den Belt",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   }
   ]
  },
- "ultima": "2026-11-28T13:53:57.624981+01:00",
+ "ultima": "2026-11-28T14:24:01.157992+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
