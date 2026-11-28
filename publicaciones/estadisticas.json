@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28 11:57",
+ "actualizado": "2026-11-28 12:08",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -58,9 +58,9 @@
  "total_hoy": 18,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "12:00",
+  "hora": "12:30",
   "dia": "2026-11-28",
-  "titulo": "Vamos con la combi del día familia"
+  "titulo": "Vamos con el pick de hoy familia"
  },
  "ayer": {
   "aciertos": 6,
@@ -294,6 +294,11 @@
   }
  },
  "tipos_instagram": {
+  "Picks (reel)": {
+   "posts": 1,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
    "posts": 45,
    "likes_media": 0.0,
@@ -310,7 +315,7 @@
    "comentarios_media": 0.0
   },
   "Combi de partido (reel)": {
-   "posts": 7,
+   "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
