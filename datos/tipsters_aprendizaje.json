@@ -19,13 +19,13 @@
    "prob_cuota": 7.856
   },
   "TRADER FOOTBALL || FREE👨🏼‍💻": {
-   "n": 18,
-   "verdes": 11,
+   "n": 19,
+   "verdes": 12,
    "rojos": 4,
    "nulos": 0,
-   "unidades": 2.2,
-   "resueltos_con_cuota": 15,
-   "prob_cuota": 9.708
+   "unidades": 3.03,
+   "resueltos_con_cuota": 16,
+   "prob_cuota": 10.254
   },
   "TipsAnalistas": {
    "n": 17,
@@ -115,8 +115,8 @@
   },
   "MERIDIANPICKS 🌐": {
    "n": 7,
-   "verdes": 2,
-   "rojos": 2,
+   "verdes": 3,
+   "rojos": 4,
    "nulos": 0,
    "unidades": 0.75,
    "resueltos_con_cuota": 3,
@@ -214,8 +214,8 @@
  "mercado": {
   "Match Winner Home": {
    "n": 33,
-   "verdes": 19,
-   "rojos": 7,
+   "verdes": 20,
+   "rojos": 8,
    "nulos": 0,
    "unidades": 4.32,
    "resueltos_con_cuota": 22,
@@ -233,7 +233,7 @@
   "Match Winner Away": {
    "n": 13,
    "verdes": 9,
-   "rojos": 3,
+   "rojos": 4,
    "nulos": 0,
    "unidades": 2.48,
    "resueltos_con_cuota": 10,
@@ -334,6 +334,15 @@
    "nulos": 0,
    "unidades": 0.0
   },
+  "Goals Over/Under Over 3.5": {
+   "n": 3,
+   "verdes": 3,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 2.79,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 1.557
+  },
   "Crear apuesta Aouchiche 3+ remates + Karaman 3+ remates": {
    "n": 3,
    "verdes": 0,
@@ -383,15 +392,6 @@
    "unidades": -0.47,
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.235
-  },
-  "Goals Over/Under Over 3.5": {
-   "n": 2,
-   "verdes": 2,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 1.96,
-   "resueltos_con_cuota": 2,
-   "prob_cuota": 1.011
   },
   "Crear apuesta Ilic 3+ remates + Burke 3+ remates": {
    "n": 2,
@@ -855,13 +855,13 @@
  },
  "equipo": {
   "—": {
-   "n": 131,
-   "verdes": 44,
+   "n": 132,
+   "verdes": 45,
    "rojos": 20,
    "nulos": 0,
-   "unidades": 2.33,
-   "resueltos_con_cuota": 55,
-   "prob_cuota": 36.523
+   "unidades": 3.16,
+   "resueltos_con_cuota": 56,
+   "prob_cuota": 37.069
   },
   "Spain": {
    "n": 7,
@@ -884,7 +884,7 @@
   "Bayern München": {
    "n": 4,
    "verdes": 0,
-   "rojos": 3,
+   "rojos": 4,
    "nulos": 0,
    "unidades": -2.0,
    "resueltos_con_cuota": 2,
@@ -893,7 +893,7 @@
   "Real Betis": {
    "n": 3,
    "verdes": 1,
-   "rojos": 1,
+   "rojos": 2,
    "nulos": 0,
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
@@ -1277,7 +1277,7 @@
   },
   "FSV Mainz 05": {
    "n": 1,
-   "verdes": 0,
+   "verdes": 1,
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
@@ -1285,13 +1285,13 @@
  },
  "razon": {
   "sin razón": {
-   "n": 120,
-   "verdes": 59,
-   "rojos": 19,
+   "n": 121,
+   "verdes": 61,
+   "rojos": 21,
    "nulos": 0,
-   "unidades": 13.06,
-   "resueltos_con_cuota": 60,
-   "prob_cuota": 37.292
+   "unidades": 13.89,
+   "resueltos_con_cuota": 61,
+   "prob_cuota": 37.838
   },
   "goles": {
    "n": 50,
@@ -1378,19 +1378,19 @@
   },
   "?": {
    "n": 33,
-   "verdes": 16,
-   "rojos": 5,
+   "verdes": 17,
+   "rojos": 7,
    "nulos": 0,
    "unidades": 0.0
   },
   "1,80-2,20": {
-   "n": 29,
-   "verdes": 12,
+   "n": 30,
+   "verdes": 13,
    "rojos": 5,
    "nulos": 0,
-   "unidades": 5.72,
-   "resueltos_con_cuota": 17,
-   "prob_cuota": 8.973
+   "unidades": 6.55,
+   "resueltos_con_cuota": 18,
+   "prob_cuota": 9.519
   },
   ">2,20": {
    "n": 25,
@@ -1432,21 +1432,21 @@
   },
   "Bundesliga": {
    "n": 14,
-   "verdes": 0,
-   "rojos": 2,
+   "verdes": 1,
+   "rojos": 3,
    "nulos": 0,
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.621
   },
   "La Liga": {
-   "n": 12,
-   "verdes": 3,
-   "rojos": 2,
+   "n": 13,
+   "verdes": 4,
+   "rojos": 3,
    "nulos": 0,
-   "unidades": 0.07,
-   "resueltos_con_cuota": 5,
-   "prob_cuota": 3.246
+   "unidades": 0.9,
+   "resueltos_con_cuota": 6,
+   "prob_cuota": 3.792
   },
   "UEFA Champions League Women": {
    "n": 10,
@@ -1528,18 +1528,18 @@
  },
  "lado": {
   "partido": {
-   "n": 111,
-   "verdes": 33,
+   "n": 112,
+   "verdes": 34,
    "rojos": 14,
    "nulos": 0,
-   "unidades": 2.24,
-   "resueltos_con_cuota": 40,
-   "prob_cuota": 25.648
+   "unidades": 3.07,
+   "resueltos_con_cuota": 41,
+   "prob_cuota": 26.194
   },
   "local": {
    "n": 55,
-   "verdes": 28,
-   "rojos": 16,
+   "verdes": 29,
+   "rojos": 17,
    "nulos": 0,
    "unidades": 2.54,
    "resueltos_con_cuota": 35,
@@ -1548,7 +1548,7 @@
   "visitante": {
    "n": 41,
    "verdes": 28,
-   "rojos": 9,
+   "rojos": 10,
    "nulos": 0,
    "unidades": 3.58,
    "resueltos_con_cuota": 32,
@@ -1557,13 +1557,13 @@
  },
  "por_que": {
   "—": {
-   "n": 128,
-   "verdes": 40,
-   "rojos": 27,
+   "n": 129,
+   "verdes": 42,
+   "rojos": 29,
    "nulos": 0,
-   "unidades": 1.43,
-   "resueltos_con_cuota": 58,
-   "prob_cuota": 35.178
+   "unidades": 2.26,
+   "resueltos_con_cuota": 59,
+   "prob_cuota": 35.724
   },
   "goles": {
    "n": 43,
@@ -1631,13 +1631,13 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 198,
-   "verdes": 82,
-   "rojos": 37,
+   "n": 199,
+   "verdes": 84,
+   "rojos": 39,
    "nulos": 0,
-   "unidades": 6.6,
-   "resueltos_con_cuota": 99,
-   "prob_cuota": 64.081
+   "unidades": 7.43,
+   "resueltos_con_cuota": 100,
+   "prob_cuota": 64.627
   },
   "sin valor": {
    "n": 7,
