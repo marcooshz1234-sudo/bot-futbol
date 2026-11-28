@@ -3959,14 +3959,14 @@
   },
   "2026-11-28": {
     "dia": "2026-11-28",
-    "total": 14,
+    "total": 15,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 14,
+      "pendiente": 15,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 14
+      "sin_resolver": 15
     },
     "combis": [
       {
@@ -4052,13 +4052,19 @@
         "titulo": "⚡ COMBI FSV MAINZ 05 – UNION BERLIN ⚡",
         "estado": "pendiente",
         "cuota": 4.29
+      },
+      {
+        "id": "2026-11-28-pick-seguro",
+        "titulo": "Malaga marca",
+        "estado": "pendiente",
+        "cuota": 1.5
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 62
+      "total": 63
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🧨 COMBI POR 38,42 🧨 · 38,42 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 32,50 · pendiente\n⏳ 🏆 PREMIER LEAGUE - GANADORES · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 3,15 · pendiente\n⏳ 💰🚀 COMBI x45,75 💰🚀 · 45,75 · pendiente\n⏳ ⏳ TODO A LAS 20:45 ⏳ · 10,23 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 11,55 · pendiente\n⏳ 🤑💸 COMBI x94,98 🤑💸 · 94,98 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 😮‍💨 LA COMBI DE LOS EMPATES 😮‍💨 · 40,84 · pendiente\n⏳ ⚡ COMBI FSV MAINZ 05 – UNION BERLIN ⚡ · 4,29 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 14 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🧨 COMBI POR 38,42 🧨 · 38,42 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 32,50 · pendiente\n⏳ 🏆 PREMIER LEAGUE - GANADORES · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 3,15 · pendiente\n⏳ 💰🚀 COMBI x45,75 💰🚀 · 45,75 · pendiente\n⏳ ⏳ TODO A LAS 20:45 ⏳ · 10,23 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 11,55 · pendiente\n⏳ 🤑💸 COMBI x94,98 🤑💸 · 94,98 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 😮‍💨 LA COMBI DE LOS EMPATES 😮‍💨 · 40,84 · pendiente\n⏳ ⚡ COMBI FSV MAINZ 05 – UNION BERLIN ⚡ · 4,29 · pendiente\n⏳ Malaga marca · 1,50 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 15 sin resolver"
   }
 }
