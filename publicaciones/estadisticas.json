@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28 10:57",
+ "actualizado": "2026-11-28 11:07",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4308,
-   "hoy": 14,
+   "seguidores": 4309,
+   "hoy": 15,
    "serie": [
     3714,
     3742,
@@ -24,7 +24,7 @@
     4020,
     4195,
     4294,
-    4308
+    4309
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 551,
-   "hoy": -2,
+   "seguidores": 553,
+   "hoy": 0,
    "serie": [
     506,
     506,
@@ -50,17 +50,17 @@
     527,
     539,
     553,
-    551
+    553
    ]
   }
  },
- "total": 4918,
- "total_hoy": 12,
+ "total": 4921,
+ "total_hoy": 15,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:00",
+  "hora": "11:30",
   "dia": "2026-11-28",
-  "titulo": "Reto escalera · día 1/7"
+  "titulo": "Vamos con otro pick, familia"
  },
  "ayer": {
   "aciertos": 6,
@@ -288,12 +288,17 @@
   },
   "2026-11-28": {
    "instagram": 58,
-   "threads": 4308,
+   "threads": 4309,
    "facebook": 1,
-   "telegram": 551
+   "telegram": 553
   }
  },
  "tipos_instagram": {
+  "Escalera (reel)": {
+   "posts": 4,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
    "posts": 45,
    "likes_media": 0.0,
@@ -311,16 +316,6 @@
   },
   "Cuota 3 (reel)": {
    "posts": 2,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Escalera (reel)": {
-   "posts": 3,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Picks (reel)": {
-   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
