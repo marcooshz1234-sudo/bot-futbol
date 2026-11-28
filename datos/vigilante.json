@@ -147,7 +147,8 @@
   "api-2026-11-28": "2026-11-28T21:09",
   "prensa-1550207-GustavoVarela": "2026-11-28T21:40",
   "prensa-1575232-2b2075e7": "2026-11-28T21:40",
-  "prensa-1552833-b702042b": "2026-11-28T21:40"
+  "prensa-1552833-b702042b": "2026-11-28T21:40",
+  "prensa-1550209-36b723e4": "2026-11-28T22:14"
  },
  "abiertos": [
   {
@@ -183,16 +184,16 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0500-x50, loca-th-1700-x100)"
   },
   {
+   "clave": "repe-2026-11-28-1570463|Both Teams Score|Yes",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos)"
+  },
+  {
    "clave": "repe-2026-11-28-1575235|Both Teams Score|Yes",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0020-x100)"
   },
   {
    "clave": "repe-2026-11-28-1557483|Total - Away|Over 0.5",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0020-x100, loca-th-0500-x50)"
-  },
-  {
-   "clave": "repe-2026-11-28-1570463|Both Teams Score|Yes",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-28-1570470|Results/Both Teams Score|Home/Yes",
@@ -203,16 +204,16 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1700-x100)"
   },
   {
-   "clave": "repe-2026-11-28-1552832|Both Teams Score|Yes",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-0800-x500)"
-  },
-  {
    "clave": "repe-2026-11-28-1550211|Both Teams Score|Yes",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0800-x500, loca-th-1820-x500)"
   },
   {
    "clave": "repe-2026-11-28-1552831|Both Teams Score|Yes",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1640-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-28-1552832|Both Teams Score|Yes",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-0800-x500)"
   },
   {
    "clave": "repe-2026-11-28-1552828|Away Player Shots|Matthieu Udol - 2",
@@ -235,20 +236,20 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0020-x100, loca-th-0500-x50, loca-th-0700-tapados)"
   },
   {
-   "clave": "repe-2026-11-28-1552832|To Win Either Half|Away",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-1700-x100, loca-th-1900-x100)"
-  },
-  {
    "clave": "repe-2026-11-28-1550211|Player Fouls Committed|Nicolo Barella - 1",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-0600-hora, loca-th-1740-x50)"
   },
   {
-   "clave": "repe-2026-11-28-1552831|Away Player Shots|Gessime Yassine - 2",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1640-escudos, loca-th-2020-hora)"
+   "clave": "repe-2026-11-28-1552832|To Win Either Half|Away",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-1700-x100, loca-th-1900-x100)"
   },
   {
    "clave": "repe-2026-11-28-1552835|Home Player Shots|Achraf Hakimi - 2",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1740-x50, loca-th-2000-x50)"
+  },
+  {
+   "clave": "repe-2026-11-28-1552831|Away Player Shots|Gessime Yassine - 2",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1640-escudos, loca-th-2020-hora)"
   },
   {
    "clave": "repe-2026-11-28-1552832|Total - Home|Over 0.5",
@@ -275,16 +276,12 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (combi-500, loca-th-1520-reto, loca-th-1840-x1000)"
   },
   {
-   "clave": "repe-2026-11-28-1552832|To Win Either Half|Home",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1520-reto, loca-th-1820-x500, loca-th-1840-x1000)"
-  },
-  {
    "clave": "repe-2026-11-28-1552835|Both Teams Score|Yes",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1520-reto, loca-th-1820-x500, loca-th-1840-x1000)"
   },
   {
-   "clave": "repe-2026-11-28-1552835|Anytime Goal Scorer|Senny Mayulu",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1700-x100, loca-th-1820-x500, loca-th-1840-x1000)"
+   "clave": "repe-2026-11-28-1552832|To Win Either Half|Home",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1520-reto, loca-th-1820-x500, loca-th-1840-x1000)"
   },
   {
    "clave": "repe-2026-11-28-1570470|Away Player Shots|Lucas Boye - 2",
@@ -295,6 +292,10 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1700-x100, loca-th-1740-x50, loca-th-1900-x100)"
   },
   {
+   "clave": "repe-2026-11-28-1552835|Anytime Goal Scorer|Senny Mayulu",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1700-x100, loca-th-1820-x500, loca-th-1840-x1000)"
+  },
+  {
    "clave": "repe-2026-11-28-1552834|Anytime Goal Scorer|Elye Wahi",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1820-x500, loca-th-1840-x1000, loca-th-2000-x50)"
   },
@@ -303,12 +304,21 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1840-x1000, loca-th-1900-x100, loca-th-2020-hora)"
   },
   {
+   "clave": "prensa-1550209-36b723e4",
+   "t": "📰 Como–Juventus: «Juventus, Chiellini: «Las bajas de Locatelli y Yildiz nos obligaron a buscar nuevos equilibrios también fuera » (Goal.com) · tenemos 1 post(s) de este partido: ganadores-resto"
+  },
+  {
    "clave": "api-2026-11-28",
-   "t": "📉 Quedan 265 de 7500 peticiones a la API de fútbol hoy: si se acaban, el bot no tendrá cuotas ni resultados hasta mañana"
+   "t": "📉 Quedan 224 de 7500 peticiones a la API de fútbol hoy: si se acaban, el bot no tendrá cuotas ni resultados hasta mañana"
   }
  ],
- "revisado": "2026-11-28T22:01",
+ "revisado": "2026-11-28T22:14",
  "historial": [
+  {
+   "hora": "2026-11-28T22:14",
+   "t": "📰 Como–Juventus: «Juventus, Chiellini: «Las bajas de Locatelli y Yildiz nos obligaron a buscar nuevos equilibrios también fuera » (Goal.com) · tenemos 1 post(s) de este partido: ganadores-resto",
+   "k": "prensa-1550209-36b723e4"
+  },
   {
    "hora": "2026-11-28T21:40",
    "t": "📰 AS Roma–Monza: «Gustavo Varela descarta la opción de dejar ahora el Monza» (Diario AS) · tenemos 3 post(s) de este partido: loca-th-noche-2200-lista-ambos, ganadores-resto, pick-seguro-4",
@@ -603,11 +613,6 @@
    "hora": "2026-11-28T00:03",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-0600-hora, loca-th-1740-x50)",
    "k": "repe-2026-11-28-1550211|Player Fouls Committed|Nicolo Barella - 1"
-  },
-  {
-   "hora": "2026-11-28T00:03",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1740-x50, loca-th-2000-x50)",
-   "k": "repe-2026-11-28-1552835|Home Player Shots|Achraf Hakimi - 2"
   }
  ]
 }

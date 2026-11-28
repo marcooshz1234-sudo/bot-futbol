@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-28",
- "generado": "2026-11-28T21:39+01:00",
+ "generado": "2026-11-28T22:13+01:00",
  "rango": [
   "2026-11-28",
   "2026-12-01"
@@ -1078,6 +1078,21 @@
    "liga": "Varias",
    "patas": [
     {
+     "sel": "1550215|Player Fouls Committed|Radu Dragusin - 1",
+     "texto": "Radu Dragusin: comete 1+ falta",
+     "cuota": 1.62,
+     "p": 0.88,
+     "dato": "cumple 6/6 siendo titular · 1,50 por 90' (2-1-1-2-1-2)",
+     "nota": 1.0688,
+     "equipo": "Fiorentina",
+     "lado": "V",
+     "partido": "Udinese–Fiorentina",
+     "hora": "2026-11-29T12:30",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/494.png",
+     "logo_v": "https://media.api-sports.io/football/teams/502.png"
+    },
+    {
      "sel": "1557480|Total - Home|Over 0.5",
      "texto": "Everton marca",
      "cuota": 1.4,
@@ -1104,21 +1119,6 @@
      "liga": "LaLiga",
      "logo_l": "https://media.api-sports.io/football/teams/532.png",
      "logo_v": "https://media.api-sports.io/football/teams/727.png"
-    },
-    {
-     "sel": "1550213|Player Fouls Committed|Kevin De Bruyne - 1",
-     "texto": "Kevin De Bruyne: comete 1+ falta",
-     "cuota": 1.53,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,57 por 90' (1-0-2-2-3-1)",
-     "nota": 0.9060000000000001,
-     "equipo": "Napoli",
-     "lado": "V",
-     "partido": "Sassuolo–Napoli",
-     "hora": "2026-11-29T15:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/488.png",
-     "logo_v": "https://media.api-sports.io/football/teams/492.png"
     },
     {
      "sel": "1557479|Player Fouls Committed|Matt Crooks - 2",
@@ -1211,19 +1211,31 @@
      "logo_v": "https://media.api-sports.io/football/teams/529.png"
     },
     {
-     "sel": "1557477|Goalkeeper Saves|Gianluigi Donnarumma - 2",
-     "texto": "Gianluigi Donnarumma: 2+ paradas",
-     "cuota": 1.5,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 4,06 por 90' (6-2-7-4-1)",
-     "nota": 0.8375000000000001,
-     "equipo": "Manchester City",
+     "sel": "1557477|Away Player Shots Total|Over 11.5",
+     "texto": "Manchester City: más de 11,5 remates",
+     "cuota": 1.73,
+     "p": 0.9,
+     "dato": "ha superado la línea en 8 de sus últimos 8 (17-15-13-21-12-12-15-14)",
+     "nota": 1.1325,
      "lado": "V",
      "partido": "Arsenal–Manchester City",
      "hora": "2026-11-29T17:30",
      "liga": "Premier League",
      "logo_l": "https://media.api-sports.io/football/teams/42.png",
      "logo_v": "https://media.api-sports.io/football/teams/50.png"
+    },
+    {
+     "sel": "1575232|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte",
+     "cuota": 1.5,
+     "p": 0.804,
+     "dato": "3,0 goles de media en las segundas partes de los dos",
+     "nota": 0.9066834288232388,
+     "partido": "1899 Hoffenheim–FC Augsburg",
+     "hora": "2026-11-29T17:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/167.png",
+     "logo_v": "https://media.api-sports.io/football/teams/170.png"
     },
     {
      "sel": "1550207|Away Player Shots|Samuele Birindelli - 1",
@@ -1256,21 +1268,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/533.png"
     },
     {
-     "sel": "1550209|Player Fouls Committed|Kerim Alajbegovic - 1",
-     "texto": "Kerim Alajbegovic: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.88,
-     "dato": "cumple 4/4 siendo titular · 1,38 por 90' (1-1-2-1)",
-     "nota": 0.976,
-     "equipo": "Juventus",
-     "lado": "V",
-     "partido": "Como–Juventus",
-     "hora": "2026-11-29T20:45",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/895.png",
-     "logo_v": "https://media.api-sports.io/football/teams/496.png"
-    },
-    {
      "sel": "1552833|Shots.1x2|Home",
      "texto": "Lyon remata más que el rival",
      "cuota": 1.62,
@@ -1284,8 +1281,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/91.png"
     }
    ],
-   "cuota": 363.52,
-   "prob": 0.084
+   "cuota": 475.63,
+   "prob": 0.099
   },
   {
    "patas": [
@@ -1431,12 +1428,12 @@
   {
    "patas": [
     {
-     "sel": "1550215|Both Teams Score|Yes",
-     "texto": "Ambos marcan (Udinese–Fiorentina)",
+     "sel": "1550215|Home Team Total Cards|Over 1.5",
+     "texto": "Udinese ve 2 o más tarjetas",
      "cuota": 1.57,
-     "p": 0.615,
-     "dato": "marcan los dos en el 50% y el 67% de sus partidos",
-     "nota": 0.615,
+     "p": 0.59,
+     "dato": "2,0 tarjetas de media para Udinese en este cruce",
+     "nota": 0.59,
      "partido": "Udinese–Fiorentina",
      "hora": "2026-11-29T12:30",
      "liga": "Serie A",
@@ -1560,7 +1557,7 @@
     }
    ],
    "cuota": 31.77,
-   "prob": 0.101,
+   "prob": 0.097,
    "clave": "dia-2026-11-29-b",
    "titulo": "📅 La del domingo · B",
    "expl": "@30-40 con patas de @1,40-1,60 (la A, otra distinta)",
@@ -1701,17 +1698,32 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1550215|Total ShotOnGoal|Over 8.5",
-     "texto": "Más de 8,5 remates a puerta en el partido",
-     "cuota": 1.67,
-     "p": 0.74,
-     "dato": "10,7 remates a puerta de media entre los dos",
-     "nota": 0.8244232830327423,
+     "sel": "1550215|Player Fouls Committed|Enzo Ebosse - 1",
+     "texto": "Enzo Ebosse: comete 1+ falta",
+     "cuota": 1.44,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,28 por 90' (1-1-0-1-2-2)",
+     "nota": 0.864,
+     "equipo": "Udinese",
+     "lado": "L",
      "partido": "Udinese–Fiorentina",
      "hora": "2026-11-29T12:30",
      "liga": "Serie A",
      "logo_l": "https://media.api-sports.io/football/teams/494.png",
      "logo_v": "https://media.api-sports.io/football/teams/502.png"
+    },
+    {
+     "sel": "1570472|Total ShotOnGoal|Over 7.5",
+     "texto": "Más de 7,5 remates a puerta en el partido",
+     "cuota": 1.73,
+     "p": 0.71,
+     "dato": "9,3 remates a puerta de media entre los dos",
+     "nota": 0.7782427578167959,
+     "partido": "Valencia–Osasuna",
+     "hora": "2026-11-29T14:00",
+     "liga": "LaLiga",
+     "logo_l": "https://media.api-sports.io/football/teams/532.png",
+     "logo_v": "https://media.api-sports.io/football/teams/727.png"
     },
     {
      "sel": "1550213|Home Corners Over/Under|Over 3.5",
@@ -1830,31 +1842,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/94.png"
     },
     {
-     "sel": "1557477|Away Player Shots Total|Over 11.5",
-     "texto": "Manchester City: más de 11,5 remates",
-     "cuota": 1.73,
-     "p": 0.9,
-     "dato": "ha superado la línea en 8 de sus últimos 8 (17-15-13-21-12-12-15-14)",
-     "nota": 1.1325,
+     "sel": "1557477|Goalkeeper Saves|Gianluigi Donnarumma - 2",
+     "texto": "Gianluigi Donnarumma: 2+ paradas",
+     "cuota": 1.5,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 4,06 por 90' (6-2-7-4-1)",
+     "nota": 0.8375000000000001,
+     "equipo": "Manchester City",
      "lado": "V",
      "partido": "Arsenal–Manchester City",
      "hora": "2026-11-29T17:30",
      "liga": "Premier League",
      "logo_l": "https://media.api-sports.io/football/teams/42.png",
      "logo_v": "https://media.api-sports.io/football/teams/50.png"
-    },
-    {
-     "sel": "1575232|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte",
-     "cuota": 1.5,
-     "p": 0.804,
-     "dato": "3,0 goles de media en las segundas partes de los dos",
-     "nota": 0.9066834288232388,
-     "partido": "1899 Hoffenheim–FC Augsburg",
-     "hora": "2026-11-29T17:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/167.png",
-     "logo_v": "https://media.api-sports.io/football/teams/170.png"
     },
     {
      "sel": "1550207|Total - Away|Over 0.5",
@@ -1898,8 +1898,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/91.png"
     }
    ],
-   "cuota": 578.22,
-   "prob": 0.056
+   "cuota": 498.58,
+   "prob": 0.045
   },
   {
    "clave": "todo-2026-11-29-3",
@@ -1908,12 +1908,25 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1570472|Total ShotOnGoal|Over 7.5",
-     "texto": "Más de 7,5 remates a puerta en el partido",
-     "cuota": 1.73,
-     "p": 0.71,
-     "dato": "9,3 remates a puerta de media entre los dos",
-     "nota": 0.7782427578167959,
+     "sel": "1550215|Total ShotOnGoal|Over 8.5",
+     "texto": "Más de 8,5 remates a puerta en el partido",
+     "cuota": 1.67,
+     "p": 0.74,
+     "dato": "10,7 remates a puerta de media entre los dos",
+     "nota": 0.8244232830327423,
+     "partido": "Udinese–Fiorentina",
+     "hora": "2026-11-29T12:30",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/494.png",
+     "logo_v": "https://media.api-sports.io/football/teams/502.png"
+    },
+    {
+     "sel": "1570472|Total - Away|Over 0.5",
+     "texto": "Osasuna marca",
+     "cuota": 1.5,
+     "p": 0.782,
+     "dato": "marca 1,9 por partido y el rival encaja 2,0",
+     "nota": 0.8692453263268294,
      "partido": "Valencia–Osasuna",
      "hora": "2026-11-29T14:00",
      "liga": "LaLiga",
@@ -2037,14 +2050,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/94.png"
     },
     {
-     "sel": "1557477|Player Fouls Committed|Ezri Konsa - 1",
-     "texto": "Ezri Konsa: comete 1+ falta",
-     "cuota": 1.67,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 1,35 por 90' (2-1-1-1-2-1)",
-     "nota": 1.0808,
-     "equipo": "Arsenal",
-     "lado": "L",
+     "sel": "1557477|Shots.1x2|Home",
+     "texto": "Arsenal remata más que el rival",
+     "cuota": 1.8,
+     "p": 0.737,
+     "dato": "14,9 remates de Arsenal contra 11,2 del rival",
+     "nota": 0.8409505966755346,
      "partido": "Arsenal–Manchester City",
      "hora": "2026-11-29T17:30",
      "liga": "Premier League",
@@ -2093,24 +2104,10 @@
      "liga": "LaLiga",
      "logo_l": "https://media.api-sports.io/football/teams/538.png",
      "logo_v": "https://media.api-sports.io/football/teams/533.png"
-    },
-    {
-     "sel": "1550209|Away Player Shots Total|Over 11.5",
-     "texto": "Juventus: más de 11,5 remates",
-     "cuota": 1.8,
-     "p": 0.7,
-     "dato": "ha superado la línea en 6 de sus últimos 8 (14-8-17-18-9-18-12-23)",
-     "nota": 0.7699999999999999,
-     "lado": "V",
-     "partido": "Como–Juventus",
-     "hora": "2026-11-29T20:45",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/895.png",
-     "logo_v": "https://media.api-sports.io/football/teams/496.png"
     }
    ],
-   "cuota": 435.74,
-   "prob": 0.033
+   "cuota": 377.81,
+   "prob": 0.032
   }
  ],
  "otras_ligas": false,
