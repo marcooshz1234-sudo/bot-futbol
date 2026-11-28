@@ -19019,7 +19019,7 @@
     "cuotas": [
       4.0,
       3.5,
-      4.33,
+      4.0,
       4.0
     ],
     "origen": "threads_locas",
@@ -19069,7 +19069,8 @@
         }
       ],
       "lema": null
-    }
+    },
+    "cuotas_revisadas": "2026-11-28T20:12"
   },
   {
     "id": "2026-11-29-loca-th-noche-2200-lista-ambos",
