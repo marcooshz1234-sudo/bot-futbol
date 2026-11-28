@@ -165,16 +165,8 @@
    "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇"
   },
   {
-   "clave": "redes-2026-11-28-pick-extra-frosinone-threads-instagram",
-   "t": "⏰ No ha salido en threads ni instagram (13:00): Vamos con otro pick, familia 👇"
-  },
-  {
    "clave": "cuotas-2026-11-29-pick-extra-arsenal",
    "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇"
-  },
-  {
-   "clave": "redes-2026-11-28-loca-th-1100-escudos-threads-instagram",
-   "t": "⏰ No ha salido en threads ni instagram (11:00): 🔥 COMBI MALAGA – ATHLETIC CLUB 🔥"
   },
   {
    "clave": "redes-2026-11-28-combi-tres-threads-instagram",
@@ -189,16 +181,16 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0020-x100, loca-th-0500-x50)"
   },
   {
+   "clave": "repe-2026-11-28-1550211|Total - Away|Over 0.5",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0500-x50, loca-th-1700-x100)"
+  },
+  {
    "clave": "repe-2026-11-28-1570463|Both Teams Score|Yes",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-28-1575235|Both Teams Score|Yes",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0020-x100)"
-  },
-  {
-   "clave": "repe-2026-11-28-1550211|Total - Away|Over 0.5",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0500-x50, loca-th-1700-x100)"
   },
   {
    "clave": "repe-2026-11-28-1570470|Results/Both Teams Score|Home/Yes",
@@ -209,23 +201,19 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1700-x100)"
   },
   {
-   "clave": "repe-2026-11-28-1552831|Both Teams Score|Yes",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1640-escudos)"
+   "clave": "repe-2026-11-28-1552832|Both Teams Score|Yes",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-0800-x500)"
   },
   {
    "clave": "repe-2026-11-28-1550211|Both Teams Score|Yes",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0800-x500, loca-th-1820-x500)"
   },
   {
-   "clave": "repe-2026-11-28-1552832|Both Teams Score|Yes",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-0800-x500)"
+   "clave": "repe-2026-11-28-1552831|Both Teams Score|Yes",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1640-escudos)"
   },
   {
    "clave": "repe-2026-11-28-1552828|Away Player Shots|Matthieu Udol - 2",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0400-duelo, loca-th-1400-escudos)"
-  },
-  {
-   "clave": "repe-2026-11-28-1552828|Home Player Shots|Amine Sbai - 2",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0400-duelo, loca-th-1400-escudos)"
   },
   {
@@ -237,12 +225,12 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-escudos, loca-th-0020-x100, loca-th-0500-x50)"
   },
   {
-   "clave": "repe-2026-11-28-1557484|Double Chance|Draw/Away",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0020-x100, loca-th-0500-x50, loca-th-0700-tapados)"
-  },
-  {
    "clave": "repe-2026-11-28-1557482|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0020-x100, loca-th-1440-escudos, loca-th-1740-x50)"
+  },
+  {
+   "clave": "repe-2026-11-28-1557484|Double Chance|Draw/Away",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0020-x100, loca-th-0500-x50, loca-th-0700-tapados)"
   },
   {
    "clave": "repe-2026-11-28-1550211|Player Fouls Committed|Nicolo Barella - 1",
@@ -253,20 +241,20 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-1700-x100, loca-th-1900-x100)"
   },
   {
-   "clave": "repe-2026-11-28-1552834|Double Chance|Draw/Away",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1820-x500, loca-th-2000-x50)"
-  },
-  {
    "clave": "repe-2026-11-28-1552835|Home Player Shots|Achraf Hakimi - 2",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1740-x50, loca-th-2000-x50)"
+  },
+  {
+   "clave": "repe-2026-11-28-1552832|Total - Home|Over 0.5",
+   "t": "🔁 28/11: el mismo pronóstico en 4 posts (loca-th-0600-hora, escalera, combi-500, loca-th-2020-hora)"
   },
   {
    "clave": "repe-2026-11-28-1552831|Away Player Shots|Gessime Yassine - 2",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1640-escudos, loca-th-2020-hora)"
   },
   {
-   "clave": "repe-2026-11-28-1552832|Total - Home|Over 0.5",
-   "t": "🔁 28/11: el mismo pronóstico en 4 posts (loca-th-0600-hora, escalera, combi-500, loca-th-2020-hora)"
+   "clave": "repe-2026-11-28-1552834|Double Chance|Draw/Away",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1820-x500, loca-th-2000-x50)"
   },
   {
    "clave": "repe-2026-11-28-1552832|Double Chance|Home/Draw",
@@ -293,16 +281,12 @@
    "t": "🔁 28/11: el mismo pronóstico en 4 posts (loca-th-1420-escudos, loca-th-1620-duelo, loca-th-1700-x100, estrella-1575231)"
   },
   {
-   "clave": "repe-2026-11-28-1552835|Both Teams Score|Yes",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1520-reto, loca-th-1820-x500, loca-th-1840-x1000)"
-  },
-  {
    "clave": "repe-2026-11-28-1552832|To Win Either Half|Home",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1520-reto, loca-th-1820-x500, loca-th-1840-x1000)"
   },
   {
-   "clave": "repe-2026-11-28-1570470|Away Player Shots|Lucas Boye - 2",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1700-x100, loca-th-1900-x100, loca-th-2000-x50)"
+   "clave": "repe-2026-11-28-1552835|Both Teams Score|Yes",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1520-reto, loca-th-1820-x500, loca-th-1840-x1000)"
   },
   {
    "clave": "repe-2026-11-28-1552835|Anytime Goal Scorer|Senny Mayulu",
@@ -311,6 +295,10 @@
   {
    "clave": "repe-2026-11-28-1552835|Total - Away|Over 0.5",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1700-x100, loca-th-1740-x50, loca-th-1900-x100)"
+  },
+  {
+   "clave": "repe-2026-11-28-1570470|Away Player Shots|Lucas Boye - 2",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1700-x100, loca-th-1900-x100, loca-th-2000-x50)"
   },
   {
    "clave": "repe-2026-11-28-1552834|Anytime Goal Scorer|Elye Wahi",
@@ -322,22 +310,18 @@
   },
   {
    "clave": "prensa-1570470-09b4cff2",
-   "t": "📰 Real Madrid–Alaves: «Mendy vuelve y Mourinho suma una baja de última hora en el Real Madrid» (El Desmarque) · tenemos 7 post(s) de este partido: pick-extra-madrid, loca-th-1700-x100, loca-th-1740-x50, loca-th-1820-x500, loca-th-1840-x1000, loca-th-1900-x100, loca-th-2000-x50"
-  },
-  {
-   "clave": "prensa-1550214-b4c678a0",
-   "t": "📰 Torino–Lazio: «Gattuso: Kenneth Taylor se pierde el choque ante Torino; Dele-Bashiru merece más oportunidades» (懂球帝) · tenemos 1 post(s) de este partido: loca-th-1700-x100"
+   "t": "📰 Real Madrid–Alaves: «Mendy vuelve y Mourinho suma una baja de última hora en el Real Madrid» (El Desmarque) · tenemos 6 post(s) de este partido: pick-extra-madrid, loca-th-1740-x50, loca-th-1820-x500, loca-th-1840-x1000, loca-th-1900-x100, loca-th-2000-x50"
   },
   {
    "clave": "prensa-1552832-815e0631",
-   "t": "📰 Le Mans–Lille: «El Lille tienta a Bisiwu y el Barça duda» (SPORT) · tenemos 7 post(s) de este partido: loca-th-1700-x100, loca-th-1740-x50, loca-th-1820-x500, loca-th-1840-x1000, loca-th-1900-x100, loca-th-2000-x50, loca-th-2020-hora"
+   "t": "📰 Le Mans–Lille: «El Lille tienta a Bisiwu y el Barça duda» (SPORT) · tenemos 6 post(s) de este partido: loca-th-1740-x50, loca-th-1820-x500, loca-th-1840-x1000, loca-th-1900-x100, loca-th-2000-x50, loca-th-2020-hora"
   },
   {
    "clave": "prensa-1552835-ccf05ebd",
-   "t": "📰 Paris Saint Germain–Lorient: «Nuno Mendes sufre molestias en el muslo antes del duelo ante el Lorient» (Tribuna.com) · tenemos 7 post(s) de este partido: loca-th-1700-x100, loca-th-1740-x50, loca-th-1820-x500, loca-th-1840-x1000, loca-th-1900-x100, loca-th-2000-x50, loca-th-2020-hora"
+   "t": "📰 Paris Saint Germain–Lorient: «Nuno Mendes sufre molestias en el muslo antes del duelo ante el Lorient» (Tribuna.com) · tenemos 6 post(s) de este partido: loca-th-1740-x50, loca-th-1820-x500, loca-th-1840-x1000, loca-th-1900-x100, loca-th-2000-x50, loca-th-2020-hora"
   }
  ],
- "revisado": "2026-11-28T16:54",
+ "revisado": "2026-11-28T17:05",
  "historial": [
   {
    "hora": "2026-11-28T13:51",
