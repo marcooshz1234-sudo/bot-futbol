@@ -4584,10 +4584,11 @@
   "redes": {
    "instagram_reel": null,
    "instagram": "18107989592019424",
-   "instagram_story": "18365100991247891"
+   "instagram_story": "18365100991247891",
+   "threads": null
   },
   "errores_redes": {
-   "threads": "585 caracteres (máx. 500)"
+   "threads": "caducado: no salió a tiempo"
   }
  },
  "2026-11-28-pick-seguro-3": {
