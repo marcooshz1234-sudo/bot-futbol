@@ -71,7 +71,18 @@
    "justa": 1.81,
    "ev": -0.005,
    "fuente": "las otras casas",
-   "edad_h": 7.1
+   "edad_h": 7.6
+  },
+  {
+   "local": "Albacete",
+   "visitante": "Tenerife",
+   "inicio": "2026-11-28T16:15",
+   "texto": "Tenerife o empate",
+   "cuota": 1.8,
+   "justa": 1.82,
+   "ev": -0.013,
+   "fuente": "las otras casas",
+   "edad_h": 7.6
   },
   {
    "local": "Preston",
@@ -85,6 +96,17 @@
    "edad_h": 0.0
   },
   {
+   "local": "West Brom",
+   "visitante": "Bristol City",
+   "inicio": "2026-11-28T16:00",
+   "texto": "Bristol City o empate",
+   "cuota": 2.2,
+   "justa": 2.24,
+   "ev": -0.017,
+   "fuente": "las otras casas",
+   "edad_h": 7.6
+  },
+  {
    "local": "Las Palmas",
    "visitante": "FC Andorra",
    "inicio": "2026-11-28T14:00",
@@ -96,28 +118,6 @@
    "edad_h": 0.0
   },
   {
-   "local": "West Ham",
-   "visitante": "Stoke City",
-   "inicio": "2026-11-28T16:00",
-   "texto": "Ambos marcan en West Ham–Stoke City",
-   "cuota": 1.8,
-   "justa": 1.83,
-   "ev": -0.018,
-   "fuente": "las otras casas",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Albacete",
-   "visitante": "Tenerife",
-   "inicio": "2026-11-28T16:15",
-   "texto": "Tenerife o empate",
-   "cuota": 1.8,
-   "justa": 1.83,
-   "ev": -0.019,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
    "local": "Albacete",
    "visitante": "Tenerife",
    "inicio": "2026-11-28T16:15",
@@ -125,8 +125,8 @@
    "cuota": 1.5,
    "justa": 1.53,
    "ev": -0.019,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "fuente": "las otras casas",
+   "edad_h": 7.6
   },
   {
    "local": "Arouca",
@@ -137,11 +137,11 @@
    "justa": 1.99,
    "ev": -0.02,
    "fuente": "las otras casas",
-   "edad_h": 7.1
+   "edad_h": 7.6
   }
  ],
  "ultima": {
-  "hora": "2026-11-28T05:22",
+  "hora": "2026-11-28T05:49",
   "revisadas": 0,
   "mejor": null
  },
