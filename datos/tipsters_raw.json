@@ -1245,28 +1245,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/47384",
-   "fecha": "2026-11-21T10:28",
-   "texto": "☀️ BUENOS DÍAS, ESTAMOS EN 🇦🇹 \n#TEAMPEREZ",
-   "foto": false,
-   "visto": "2026-11-21T10:33"
-  },
-  {
-   "id": "-1001468963672/47383",
-   "fecha": "2026-11-21T10:28",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-21T10:33"
-  },
-  {
-   "id": "-1001468963672/47382",
-   "fecha": "2026-11-21T10:28",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-21T10:33",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47382.jpg"
-  },
-  {
    "id": "-1001468963672/47387",
    "fecha": "2026-11-21T11:04",
    "texto": "🧠 STAKE 3 (Invertimos 3%)\n🎁 BONO DE 100€ GRATIS AQUI 🚀\n🔞Apuesta responsable",
@@ -2730,6 +2708,27 @@
    "texto": "",
    "foto": false,
    "visto": "2026-11-28T17:14"
+  },
+  {
+   "id": "-1001468963672/47598",
+   "fecha": "2026-11-28T17:36",
+   "texto": "✅",
+   "foto": false,
+   "visto": "2026-11-28T17:39"
+  },
+  {
+   "id": "-1001468963672/47597",
+   "fecha": "2026-11-28T17:36",
+   "texto": "✅",
+   "foto": false,
+   "visto": "2026-11-28T17:39"
+  },
+  {
+   "id": "-1001468963672/47599",
+   "fecha": "2026-11-28T17:37",
+   "texto": "Easy 🤪🤪",
+   "foto": false,
+   "visto": "2026-11-28T17:39"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
@@ -10294,13 +10293,6 @@
  ],
  "INSIDER": [
   {
-   "id": "-1001299202120/44937",
-   "fecha": "2026-11-09T14:35",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-10T16:47"
-  },
-  {
    "id": "-1001299202120/44938",
    "fecha": "2026-11-09T18:22",
    "texto": "😡 No caigáis en la publi anuncios que sale abajo del canal ⛔️ denunciarlo si salen !",
@@ -11785,6 +11777,13 @@
    "foto": true,
    "visto": "2026-11-28T16:53",
    "foto_ruta": "datos/tipsters_fotos/INSIDER_45151.jpg"
+  },
+  {
+   "id": "-1001299202120/45152",
+   "fecha": "2026-11-28T17:30",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-28T17:39"
   }
  ],
  "PABLO ANALISTA": [
@@ -17758,37 +17757,6 @@
  ],
  "ENZO TIPSTER🇦🇷": [
   {
-   "id": "-1002819019921/6716",
-   "fecha": "2026-11-12T23:32",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-13T01:51",
-   "foto_ruta": "datos/tipsters_fotos/ENZO_TIPSTER__6716.jpg"
-  },
-  {
-   "id": "-1002819019921/6715",
-   "fecha": "2026-11-12T23:32",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-13T01:51",
-   "foto_ruta": "datos/tipsters_fotos/ENZO_TIPSTER__6715.jpg"
-  },
-  {
-   "id": "-1002819019921/6714",
-   "fecha": "2026-11-12T23:32",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-13T01:51",
-   "foto_ruta": "datos/tipsters_fotos/ENZO_TIPSTER__6714.jpg"
-  },
-  {
-   "id": "-1002819019921/6717",
-   "fecha": "2026-11-12T23:42",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-13T01:51"
-  },
-  {
    "id": "-1002819019921/6718",
    "fecha": "2026-11-13T00:20",
    "texto": "",
@@ -19256,6 +19224,36 @@
    "foto": true,
    "visto": "2026-11-28T16:53",
    "foto_ruta": "datos/tipsters_fotos/ENZO_TIPSTER__6923.jpg"
+  },
+  {
+   "id": "-1002819019921/6925",
+   "fecha": "2026-11-28T17:30",
+   "texto": "MÁXIMA CONFIANZA 🚨\n\nPocas veces abro este tipo de grupos de pago, pero hoy tenemos una selección que veo extremadamente verde.\n\n💰 300.000 ARS / 180 € de apuesta personal.\n\nMáxima confianza real en el análisis, llevamos 8/8 seguidas y esta es la más clara del MES.\n\n👉 https://enzotipster.tipsterpage.com/KBOQ8bKw",
+   "foto": false,
+   "visto": "2026-11-28T17:39"
+  },
+  {
+   "id": "-1002819019921/6924",
+   "fecha": "2026-11-28T17:30",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-28T17:39",
+   "foto_ruta": "datos/tipsters_fotos/ENZO_TIPSTER__6924.jpg"
+  },
+  {
+   "id": "-1002819019921/6926",
+   "fecha": "2026-11-28T17:35",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-28T17:39",
+   "foto_ruta": "datos/tipsters_fotos/ENZO_TIPSTER__6926.jpg"
+  },
+  {
+   "id": "-1002819019921/6927",
+   "fecha": "2026-11-28T17:36",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-28T17:39"
   }
  ],
  "Rayan Stakes Daily": [
@@ -20054,6 +20052,14 @@
    "texto": "REMONTADON DEL MAINZ 💪🏻💪🏻💪🏻",
    "foto": false,
    "visto": "2026-11-28T17:28"
+  },
+  {
+   "id": "-1003548284566/86",
+   "fecha": "2026-11-28T17:31",
+   "texto": "FIJAS PARA IPSWICH VS ASTON VILLA (PREMIER LEAGUE)\n\n➡️ Empate o Aston Villa ✅\n\n➡️ Julio Enciso +2.5 remates 🥅\n\n➡️ Nicolás Jackson +0.5 remates a puerta 🥅\n\n➡️ Johan Manzambi +1.5 faltas recibidas 🩼\n\nRIESGO ALTO 👀\n➡️ Gana Aston Villa y ambos anotan 🔥\n\n⚠️ RECORDAD QUE SON SELECCIONES Y NO COMBINADAS, CADA FIJA ES INDIVIDUAL\n\n🔞 JUEGO RESPONSABLE",
+   "foto": true,
+   "visto": "2026-11-28T17:39",
+   "foto_ruta": "datos/tipsters_fotos/MERIDIANPICKS__86.jpg"
   }
  ],
  "OC TIPSTER": [
@@ -23877,14 +23883,6 @@
  ],
  "Messi apuestas": [
   {
-   "id": "-1004443249454/1668",
-   "fecha": "2026-11-24T21:39",
-   "texto": "Activa maduekeere",
-   "foto": true,
-   "visto": "2026-11-25T00:14",
-   "foto_ruta": "datos/tipsters_fotos/Messi_apuestas_1668.jpg"
-  },
-  {
    "id": "-1004443249454/1671",
    "fecha": "2026-11-24T22:13",
    "texto": "Exploto todo",
@@ -25462,6 +25460,14 @@
    "foto": true,
    "visto": "2026-11-28T17:28",
    "foto_ruta": "datos/tipsters_fotos/Messi_apuestas_1869.jpg"
+  },
+  {
+   "id": "-1004443249454/1870",
+   "fecha": "2026-11-28T17:28",
+   "texto": "Y este cash de polla",
+   "foto": true,
+   "visto": "2026-11-28T17:39",
+   "foto_ruta": "datos/tipsters_fotos/Messi_apuestas_1870.jpg"
   }
  ],
  "CRIMINALPICKS🕵🏻‍♂️🏀⚽️🎾": [
@@ -25899,6 +25905,13 @@
    "foto": true,
    "visto": "2026-11-28T15:48",
    "foto_ruta": "datos/tipsters_fotos/CRIMINALPICKS__11175.jpg"
+  },
+  {
+   "id": "-1002685171001/11176",
+   "fecha": "2026-11-28T17:35",
+   "texto": "QUIEREN UNA COMBINADA PARA EL ELCHE-AT MADRID?🤔",
+   "foto": false,
+   "visto": "2026-11-28T17:39"
   }
  ]
 }

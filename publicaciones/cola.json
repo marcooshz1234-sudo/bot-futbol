@@ -2472,7 +2472,14 @@
     "resultado": "verde",
     "verde_de": "2026-11-28-pick-seguro-4",
     "enviado": "2026-11-28T17:08",
-    "mensaje_id": 663
+    "mensaje_id": 663,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-28-verde-auto-2026-11-28-pick-extra-frosinone",
@@ -2485,7 +2492,14 @@
     "resultado": "verde",
     "verde_de": "2026-11-28-pick-extra-frosinone",
     "enviado": "2026-11-28T17:18",
-    "mensaje_id": 664
+    "mensaje_id": 664,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-28-verde-auto-2026-11-28-pick-seguro",
@@ -2498,6 +2512,13 @@
     "resultado": "verde",
     "verde_de": "2026-11-28-pick-seguro",
     "enviado": "2026-11-28T17:29",
-    "mensaje_id": 665
+    "mensaje_id": 665,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
