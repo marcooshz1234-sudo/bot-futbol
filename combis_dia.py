@@ -1490,8 +1490,10 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     if dia >= SEGURO_DESDE:
         hechos = [x[0] for x in (res.get("seguro"), res.get("seguro2")) if x]
         for n, hora_x in zip(range(3, 3 + len(EXTRA_PICKS["horas"])), EXTRA_PICKS["horas"]):
+            # 28/11: también fuera lo de la escalera de hoy (ya1): el «Le Mans marca» de las 12:30 era el de la escalera,
+            # no salió por repetido y el sábado se quedó con un pick menos
             ya_x = [tuple(s_.split("|")) for s_, n_ in ya_publicadas(dia, excluir=f"{dia}-pick-seguro-{n}", red="telegram").items()
-                    if n_ and s_.split("|")[0].isdigit()]
+                    if n_ and s_.split("|")[0].isdigit()] + list(ya1)
             r = pick_extra(sin_choques(pools_pick), dia, hora_x, hechos, ya=ya_x, usados=list(usos))
             # con la escalera: 1 + los hechos; si aún no se llega al mínimo, vale uno algo más flojo
             for nivel in (1, 2):
