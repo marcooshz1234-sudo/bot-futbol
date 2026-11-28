@@ -5010,5 +5010,25 @@
    1,
    3
   ]
+ },
+ {
+  "tipster": "MERIDIANPICKS 🌐",
+  "fuente": "-1003548284566/78",
+  "dia": "2026-11-28",
+  "local": "Real Betis",
+  "visitante": "Rayo Vallecano",
+  "partido_id": 1570463,
+  "texto": "Gana el Real Betis",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": null,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "La Liga",
+   "cuota_bet365": 1.62,
+   "prob_cuota": 0.617
+  }
  }
 ]
