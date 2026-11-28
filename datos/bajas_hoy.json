@@ -16545,6 +16545,12 @@
    },
    {
     "equipo": 35,
+    "jugador": "B. Gannon-Doak",
+    "tipo": "Questionable",
+    "motivo": "Illness"
+   },
+   {
+    "equipo": 35,
     "jugador": "E. J. Kroupi",
     "tipo": "Questionable",
     "motivo": "Illness"
@@ -17219,9 +17225,21 @@
   "1552833": [
    {
     "equipo": 80,
+    "jugador": "M. Bidstrup",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 80,
     "jugador": "L. Diarra",
     "tipo": "Missing Fixture",
     "motivo": "Injury"
+   },
+   {
+    "equipo": 80,
+    "jugador": "C. Mata",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
    },
    {
     "equipo": 80,
@@ -17242,9 +17260,9 @@
     "motivo": "Knee Injury"
    },
    {
-    "equipo": 80,
-    "jugador": "C. Mata",
-    "tipo": "Questionable",
+    "equipo": 91,
+    "jugador": "P. Brunner",
+    "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
    },
    {
@@ -17252,6 +17270,12 @@
     "jugador": "M. Coulibaly",
     "tipo": "Missing Fixture",
     "motivo": "Suspended"
+   },
+   {
+    "equipo": 91,
+    "jugador": "E. Diop",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
    },
    {
     "equipo": 91,
@@ -17275,24 +17299,12 @@
     "equipo": 91,
     "jugador": "P. Kohn",
     "tipo": "Missing Fixture",
-    "motivo": "Inactive"
-   },
-   {
-    "equipo": 91,
-    "jugador": "P. Brunner",
-    "tipo": "Questionable",
-    "motivo": "Injury"
-   },
-   {
-    "equipo": 91,
-    "jugador": "E. Diop",
-    "tipo": "Questionable",
-    "motivo": "Injury"
+    "motivo": "Muscle Injury"
    },
    {
     "equipo": 91,
     "jugador": "M. Salisu",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
    }
   ],
@@ -17423,7 +17435,7 @@
    }
   ]
  },
- "ultima": "2026-11-28T21:39:05.430335+01:00",
+ "ultima": "2026-11-28T22:15:04.358095+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
