@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28 08:53",
+ "actualizado": "2026-11-28 09:03",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -58,20 +58,20 @@
  "total_hoy": 12,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "09:00",
+  "hora": "09:20",
   "dia": "2026-11-28",
-  "titulo": "Córners del día"
+  "titulo": "La combi de los empates"
  },
  "ayer": {
-  "aciertos": 0,
-  "total": 2
+  "aciertos": 6,
+  "total": 12
  },
  "escalera": {
-  "dia": 2,
+  "dia": 1,
   "de": 7,
-  "stake": 43.2,
-  "objetivo": 82.08,
-  "fecha": "2026-11-27"
+  "stake": 20.0,
+  "objetivo": 43.2,
+  "fecha": "2026-11-28"
  },
  "historial": {
   "2026-10-23": {

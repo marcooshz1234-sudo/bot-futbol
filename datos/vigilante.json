@@ -1,5 +1,5 @@
 {
- "informe": "2026-11-27",
+ "informe": "2026-11-28",
  "vistos": {
   "escalera-2026-11-25": "2026-11-25T12:07",
   "foto-2026-11-25-escalera": "2026-11-25T12:57",
@@ -127,7 +127,20 @@
   "prensa-1570470-09b4cff2": "2026-11-28T00:03",
   "prensa-1552835-eb4dbaba": "2026-11-28T00:03",
   "prensa-1570463-7b7a2fe1": "2026-11-28T00:03",
-  "prensa-1552832-815e0631": "2026-11-28T00:03"
+  "prensa-1552832-815e0631": "2026-11-28T00:03",
+  "prensa-1557480-9a74f824": "2026-11-28T09:04",
+  "prensa-1570472-f48912da": "2026-11-28T09:04",
+  "prensa-1557486-a95fd1b2": "2026-11-28T09:04",
+  "prensa-1557477-4abc1a08": "2026-11-28T09:04",
+  "prensa-1570039-04a23b2b": "2026-11-28T09:04",
+  "prensa-1552836-54f76fc2": "2026-11-28T09:04",
+  "prensa-1570465-751612ff": "2026-11-28T09:04",
+  "prensa-1570471-2253cd2d": "2026-11-28T09:04",
+  "prensa-1570471-872b0204": "2026-11-28T09:04",
+  "prensa-1550215-d783a32d": "2026-11-28T09:04",
+  "prensa-1550213-1b4154d2": "2026-11-28T09:04",
+  "estrella-2026-11-29-ganadores-resto-FerNiño": "2026-11-28T09:04",
+  "prensa-1550209-7bfbcfcd": "2026-11-28T09:04"
  },
  "abiertos": [
   {
@@ -171,44 +184,44 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (pick-extra-hamburgo, picks-manana, estrella-1575235)"
   },
   {
-   "clave": "repe-2026-11-28-1557483|Total - Away|Over 0.5",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0020-x100, loca-th-0500-x50)"
+   "clave": "repe-2026-11-28-1550211|Total - Away|Over 0.5",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0500-x50, loca-th-1700-x100)"
   },
   {
    "clave": "repe-2026-11-28-1575235|Away Player Shots|Dayot Upamecano - 1",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, estrella-1575235, loca-th-0020-x100)"
-  },
-  {
-   "clave": "repe-2026-11-28-1570463|Both Teams Score|Yes",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos)"
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0020-x100, estrella-1575235)"
   },
   {
    "clave": "repe-2026-11-28-1575235|Both Teams Score|Yes",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0020-x100)"
   },
   {
-   "clave": "repe-2026-11-28-1550211|Total - Away|Over 0.5",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0500-x50, loca-th-1700-x100)"
+   "clave": "repe-2026-11-28-1557483|Total - Away|Over 0.5",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0020-x100, loca-th-0500-x50)"
+  },
+  {
+   "clave": "repe-2026-11-28-1570463|Both Teams Score|Yes",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-28-1570470|Results/Both Teams Score|Home/Yes",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0040-ganaambos, loca-th-2000-x50)"
   },
   {
-   "clave": "repe-2026-11-28-1552832|Both Teams Score|Yes",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-0800-x500)"
-  },
-  {
    "clave": "repe-2026-11-28-1550211|Both Teams Score|Yes",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0800-x500, loca-th-1820-x500)"
   },
   {
-   "clave": "repe-2026-11-28-1550214|Both Teams Score|Yes",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1700-x100)"
-  },
-  {
    "clave": "repe-2026-11-28-1552831|Both Teams Score|Yes",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1640-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-28-1552832|Both Teams Score|Yes",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-0800-x500)"
+  },
+  {
+   "clave": "repe-2026-11-28-1550214|Both Teams Score|Yes",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1700-x100)"
   },
   {
    "clave": "repe-2026-11-28-1552828|Home Player Shots|Amine Sbai - 2",
@@ -220,59 +233,51 @@
   },
   {
    "clave": "repe-2026-11-28-1575234|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (picks-manana, combi-500, loca-th-1000-escudos)"
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (picks-manana, loca-th-1000-escudos, combi-500)"
   },
   {
    "clave": "repe-2026-11-28-1550214|To Win Either Half|Away",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-escudos, loca-th-0020-x100, loca-th-0500-x50)"
   },
   {
-   "clave": "repe-2026-11-28-1570470|Both Teams Score|Yes",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (combi-500, loca-th-1520-reto, loca-th-1840-x1000)"
-  },
-  {
-   "clave": "repe-2026-11-28-1552831|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (combi-500, loca-th-0800-x500, loca-th-1640-escudos)"
-  },
-  {
-   "clave": "repe-2026-11-28-1570469|Total - Home|Over 0.5",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (pick-seguro-3, combi-tres, loca-th-1100-escudos)"
-  },
-  {
-   "clave": "repe-2026-11-28-1552832|Total - Home|Over 0.5",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (pick-seguro-2, loca-th-0600-hora, loca-th-2020-hora)"
+   "clave": "repe-2026-11-28-1557482|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0020-x100, loca-th-1440-escudos, loca-th-1740-x50)"
   },
   {
    "clave": "repe-2026-11-28-1557484|Double Chance|Draw/Away",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0020-x100, loca-th-0500-x50, loca-th-0700-tapados)"
   },
   {
-   "clave": "repe-2026-11-28-1557482|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0020-x100, loca-th-1440-escudos, loca-th-1740-x50)"
+   "clave": "repe-2026-11-28-1552832|To Win Either Half|Away",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-1700-x100, loca-th-1900-x100)"
   },
   {
    "clave": "repe-2026-11-28-1550211|Player Fouls Committed|Nicolo Barella - 1",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-0600-hora, loca-th-1740-x50)"
   },
   {
-   "clave": "repe-2026-11-28-1552832|To Win Either Half|Away",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-1700-x100, loca-th-1900-x100)"
-  },
-  {
-   "clave": "repe-2026-11-28-1552831|Away Player Shots|Gessime Yassine - 2",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1640-escudos, loca-th-2020-hora)"
+   "clave": "repe-2026-11-28-1552834|Double Chance|Draw/Away",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1820-x500, loca-th-2000-x50)"
   },
   {
    "clave": "repe-2026-11-28-1552835|Home Player Shots|Achraf Hakimi - 2",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1740-x50, loca-th-2000-x50)"
   },
   {
-   "clave": "repe-2026-11-28-1552834|Double Chance|Draw/Away",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1820-x500, loca-th-2000-x50)"
+   "clave": "repe-2026-11-28-1552831|Away Player Shots|Gessime Yassine - 2",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1640-escudos, loca-th-2020-hora)"
+  },
+  {
+   "clave": "repe-2026-11-28-1552832|Total - Home|Over 0.5",
+   "t": "🔁 28/11: el mismo pronóstico en 5 posts (loca-th-0600-hora, escalera, combi-500, pick-seguro-3, loca-th-2020-hora)"
   },
   {
    "clave": "repe-2026-11-28-1552832|Double Chance|Home/Draw",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0700-tapados, loca-th-1740-x50, loca-th-2000-x50)"
+  },
+  {
+   "clave": "repe-2026-11-28-1552831|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0800-x500, combi-500, loca-th-1640-escudos)"
   },
   {
    "clave": "repe-2026-11-28-1570470|Total - Away|Over 0.5",
@@ -283,8 +288,16 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0800-x500, loca-th-1100-escudos, loca-th-1540-tiros)"
   },
   {
+   "clave": "repe-2026-11-28-1570469|Total - Home|Over 0.5",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (pick-seguro, loca-th-1100-escudos, combi-tres)"
+  },
+  {
+   "clave": "repe-2026-11-28-1570470|Both Teams Score|Yes",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (combi-500, loca-th-1520-reto, loca-th-1840-x1000)"
+  },
+  {
    "clave": "repe-2026-11-28-1575231|Away Player Shots|Fares Chaibi - 2",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1420-escudos, loca-th-1620-duelo, loca-th-1700-x100)"
+   "t": "🔁 28/11: el mismo pronóstico en 4 posts (loca-th-1420-escudos, loca-th-1620-duelo, loca-th-1700-x100, estrella-1575231)"
   },
   {
    "clave": "repe-2026-11-28-1552832|To Win Either Half|Home",
@@ -295,16 +308,16 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1520-reto, loca-th-1820-x500, loca-th-1840-x1000)"
   },
   {
-   "clave": "repe-2026-11-28-1552835|Anytime Goal Scorer|Senny Mayulu",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1700-x100, loca-th-1820-x500, loca-th-1840-x1000)"
+   "clave": "repe-2026-11-28-1552835|Total - Away|Over 0.5",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1700-x100, loca-th-1740-x50, loca-th-1900-x100)"
   },
   {
    "clave": "repe-2026-11-28-1570470|Away Player Shots|Lucas Boye - 2",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1700-x100, loca-th-1900-x100, loca-th-2000-x50)"
   },
   {
-   "clave": "repe-2026-11-28-1552835|Total - Away|Over 0.5",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1700-x100, loca-th-1740-x50, loca-th-1900-x100)"
+   "clave": "repe-2026-11-28-1552835|Anytime Goal Scorer|Senny Mayulu",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1700-x100, loca-th-1820-x500, loca-th-1840-x1000)"
   },
   {
    "clave": "repe-2026-11-28-1552834|Anytime Goal Scorer|Elye Wahi",
@@ -315,36 +328,137 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1840-x1000, loca-th-1900-x100, loca-th-2020-hora)"
   },
   {
+   "clave": "prensa-1557480-9a74f824",
+   "t": "📰 Everton–Liverpool: «Buenas noticias para el Liverpool: Iraola confirma que la lesión de Víctor Muñoz no es grave y que podría ser » (COPE) · tenemos 2 post(s) de este partido: pick-extra-everton, ganadores-premier"
+  },
+  {
+   "clave": "prensa-1570472-f48912da",
+   "t": "📰 Valencia–Osasuna: «Guido Rodríguez sufre molestias físicas y es duda en el Valencia para recibir a Osasuna» (Tribuna.com) · tenemos 2 post(s) de este partido: pick-extra-osasuna, ganadores-laliga"
+  },
+  {
+   "clave": "prensa-1557486-a95fd1b2",
+   "t": "📰 Sunderland–Tottenham: «El brasileño Savio, baja de larga duración en el Tottenham» (www.abc.com.py) · tenemos 2 post(s) de este partido: pick-extra-sunderland, ganadores-premier"
+  },
+  {
+   "clave": "prensa-1557477-4abc1a08",
+   "t": "📰 Arsenal–Manchester City: «Arsenal recibe al Manchester City con seis puntos de ventaja y la duda de David Raya» (https://fomoera.com/) · tenemos 3 post(s) de este partido: pick-extra-arsenal, ganadores-premier, estrella-1557477"
+  },
+  {
    "clave": "prensa-1570042-ac07c526",
    "t": "📰 Las Palmas–FC Andorra: «Opoku no escapa del bucle: vuelve a lesionarse y se perderá el duelo ante el FC Andorra» (Cadena SER) · tenemos 1 post(s) de este partido: combi-500"
+  },
+  {
+   "clave": "prensa-1570039-04a23b2b",
+   "t": "📰 Eibar–Burgos: «El Barça Atlètic remonta ante el Burgos con un gran Dabone que acabó 'tocado'» (SPORT) · tenemos 1 post(s) de este partido: combi-500"
   },
   {
    "clave": "prensa-1570046-MiguelGutiérrez",
    "t": "📰 Valladolid–Real Sociedad II: «Rober Gutiérrez, pensando en el Valladolid Promesas: “Que no le quepa duda a nadie que haremos un partido muy » (El Deporte Conquense) · tenemos 1 post(s) de este partido: combi-500"
   },
   {
-   "clave": "prensa-1575231-8aaa7e59",
-   "t": "📰 VfB Stuttgart–Eintracht Frankfurt: «¡Se pierde el Mundial! Laura Freigang, sancionada 16 meses por no someterse a controles antidopaje, con su fut» (Goal.com) · tenemos 6 post(s) de este partido: estrella-1575231, loca-th-1420-escudos, loca-th-1520-reto, loca-th-1600-lista-corners, loca-th-1620-duelo, loca-th-1700-x100"
-  },
-  {
    "clave": "prensa-1550214-b4c678a0",
-   "t": "📰 Torino–Lazio: «Gattuso: Kenneth Taylor se pierde el choque ante Torino; Dele-Bashiru merece más oportunidades» (懂球帝) · tenemos 4 post(s) de este partido: loca-th-0900-lista-corners, loca-th-1520-reto, loca-th-1600-lista-corners, loca-th-1700-x100"
+   "t": "📰 Torino–Lazio: «Gattuso: Kenneth Taylor se pierde el choque ante Torino; Dele-Bashiru merece más oportunidades» (懂球帝) · tenemos 3 post(s) de este partido: loca-th-1520-reto, loca-th-1600-lista-corners, loca-th-1700-x100"
   },
   {
-   "clave": "prensa-1570466-dbe86aaf",
-   "t": "📰 Elche–Atletico Madrid: «Lemar: Parte médico oficial del Elche y tiempo de baja» (Jornada Perfecta) · tenemos 2 post(s) de este partido: loca-th-0900-lista-corners, loca-th-1600-lista-corners"
+   "clave": "prensa-1552836-54f76fc2",
+   "t": "📰 Toulouse–Rennes: «Rennes sumido en crisis total mientras Haise pierde el control del vestuario» (懂球帝) · tenemos 1 post(s) de este partido: picks-manana"
   },
   {
-   "clave": "prensa-1552835-5e9b4862",
-   "t": "📰 Paris Saint Germain–Lorient: «PSG-Lorient, previa: el PSG llega con tres bajas y cinco triunfos» (Tu Futbolero) · tenemos 8 post(s) de este partido: loca-th-1520-reto, loca-th-1700-x100, loca-th-1740-x50, loca-th-1820-x500, loca-th-1840-x1000, loca-th-1900-x100, loca-th-2000-x50, loca-th-2020-hora"
+   "clave": "prensa-1570465-751612ff",
+   "t": "📰 Deportivo La Coruna–Barcelona: «Pep Guardiola descarta regresar al FC Barcelona y afirma que no tiene fecha para volver a dirigir» (Noticias Venevisión) · tenemos 3 post(s) de este partido: ganadores-laliga, pick-seguro, combi-tres"
   },
   {
-   "clave": "prensa-1550211-e7d5d810",
-   "t": "📰 Inter–Genoa: «Inter no fichará a nadie en enero salvo lesión grave o salida» (懂球帝) · tenemos 4 post(s) de este partido: loca-th-1700-x100, loca-th-1740-x50, loca-th-1820-x500, loca-th-2020-hora"
+   "clave": "prensa-1570471-2253cd2d",
+   "t": "📰 Real Sociedad–Sevilla: «Sevilla FC: Marcao suma cuatro sesiones y siguen tres bajas» (dorsal16) · tenemos 1 post(s) de este partido: ganadores-laliga"
+  },
+  {
+   "clave": "prensa-1570471-872b0204",
+   "t": "📰 Real Sociedad–Sevilla: «La Real Sociedad tiene 24 horas para quejarse a UEFA y Aperribay puede ser sancionado» (Mundo Deportivo) · tenemos 1 post(s) de este partido: ganadores-laliga"
+  },
+  {
+   "clave": "prensa-1550215-d783a32d",
+   "t": "📰 Udinese–Fiorentina: «Udinese: Piotrowski y Palma, en duda por molestias musculares» (Tu Futbolero) · tenemos 1 post(s) de este partido: ganadores-resto"
+  },
+  {
+   "clave": "prensa-1550213-1b4154d2",
+   "t": "📰 Sassuolo–Napoli: «Vasilije Adzic, operado de la rodilla: baja para el Sassuolo» (Tu Futbolero) · tenemos 2 post(s) de este partido: ganadores-resto, combi-partido-1550213"
+  },
+  {
+   "clave": "estrella-2026-11-29-ganadores-resto-FerNiño",
+   "t": "⭐ Como–Juventus: «Futbolista de talla baja es cargado como si fuera un niño tras desatarse una pelea en el Mundial» (LatinUS). «🏆 PARTIDOS DE HOY - GANADORES» (02:00) va a favor de ese equipo: te propongo quitarlo"
+  },
+  {
+   "clave": "prensa-1550209-7bfbcfcd",
+   "t": "📰 Como–Juventus: «Claudio Palma no duda al elegir a Zampedri como el mejor 9 del fútbol chileno: “Y eso que no tiene un gran ...» (RedGol) · tenemos 1 post(s) de este partido: ganadores-resto"
   }
  ],
- "revisado": "2026-11-28T08:53",
+ "revisado": "2026-11-28T09:04",
  "historial": [
+  {
+   "hora": "2026-11-28T09:04",
+   "t": "📰 Everton–Liverpool: «Buenas noticias para el Liverpool: Iraola confirma que la lesión de Víctor Muñoz no es grave y que podría ser » (COPE) · tenemos 2 post(s) de este partido: pick-extra-everton, ganadores-premier",
+   "k": "prensa-1557480-9a74f824"
+  },
+  {
+   "hora": "2026-11-28T09:04",
+   "t": "📰 Valencia–Osasuna: «Guido Rodríguez sufre molestias físicas y es duda en el Valencia para recibir a Osasuna» (Tribuna.com) · tenemos 2 post(s) de este partido: pick-extra-osasuna, ganadores-laliga",
+   "k": "prensa-1570472-f48912da"
+  },
+  {
+   "hora": "2026-11-28T09:04",
+   "t": "📰 Sunderland–Tottenham: «El brasileño Savio, baja de larga duración en el Tottenham» (www.abc.com.py) · tenemos 2 post(s) de este partido: pick-extra-sunderland, ganadores-premier",
+   "k": "prensa-1557486-a95fd1b2"
+  },
+  {
+   "hora": "2026-11-28T09:04",
+   "t": "📰 Arsenal–Manchester City: «Arsenal recibe al Manchester City con seis puntos de ventaja y la duda de David Raya» (https://fomoera.com/) · tenemos 3 post(s) de este partido: pick-extra-arsenal, ganadores-premier, estrella-1557477",
+   "k": "prensa-1557477-4abc1a08"
+  },
+  {
+   "hora": "2026-11-28T09:04",
+   "t": "📰 Eibar–Burgos: «El Barça Atlètic remonta ante el Burgos con un gran Dabone que acabó 'tocado'» (SPORT) · tenemos 1 post(s) de este partido: combi-500",
+   "k": "prensa-1570039-04a23b2b"
+  },
+  {
+   "hora": "2026-11-28T09:04",
+   "t": "📰 Toulouse–Rennes: «Rennes sumido en crisis total mientras Haise pierde el control del vestuario» (懂球帝) · tenemos 1 post(s) de este partido: picks-manana",
+   "k": "prensa-1552836-54f76fc2"
+  },
+  {
+   "hora": "2026-11-28T09:04",
+   "t": "📰 Deportivo La Coruna–Barcelona: «Pep Guardiola descarta regresar al FC Barcelona y afirma que no tiene fecha para volver a dirigir» (Noticias Venevisión) · tenemos 3 post(s) de este partido: ganadores-laliga, pick-seguro, combi-tres",
+   "k": "prensa-1570465-751612ff"
+  },
+  {
+   "hora": "2026-11-28T09:04",
+   "t": "📰 Real Sociedad–Sevilla: «Sevilla FC: Marcao suma cuatro sesiones y siguen tres bajas» (dorsal16) · tenemos 1 post(s) de este partido: ganadores-laliga",
+   "k": "prensa-1570471-2253cd2d"
+  },
+  {
+   "hora": "2026-11-28T09:04",
+   "t": "📰 Real Sociedad–Sevilla: «La Real Sociedad tiene 24 horas para quejarse a UEFA y Aperribay puede ser sancionado» (Mundo Deportivo) · tenemos 1 post(s) de este partido: ganadores-laliga",
+   "k": "prensa-1570471-872b0204"
+  },
+  {
+   "hora": "2026-11-28T09:04",
+   "t": "📰 Udinese–Fiorentina: «Udinese: Piotrowski y Palma, en duda por molestias musculares» (Tu Futbolero) · tenemos 1 post(s) de este partido: ganadores-resto",
+   "k": "prensa-1550215-d783a32d"
+  },
+  {
+   "hora": "2026-11-28T09:04",
+   "t": "📰 Sassuolo–Napoli: «Vasilije Adzic, operado de la rodilla: baja para el Sassuolo» (Tu Futbolero) · tenemos 2 post(s) de este partido: ganadores-resto, combi-partido-1550213",
+   "k": "prensa-1550213-1b4154d2"
+  },
+  {
+   "hora": "2026-11-28T09:04",
+   "t": "⭐ Como–Juventus: «Futbolista de talla baja es cargado como si fuera un niño tras desatarse una pelea en el Mundial» (LatinUS). «🏆 PARTIDOS DE HOY - GANADORES» (02:00) va a favor de ese equipo: te propongo quitarlo",
+   "k": "estrella-2026-11-29-ganadores-resto-FerNiño"
+  },
+  {
+   "hora": "2026-11-28T09:04",
+   "t": "📰 Como–Juventus: «Claudio Palma no duda al elegir a Zampedri como el mejor 9 del fútbol chileno: “Y eso que no tiene un gran ...» (RedGol) · tenemos 1 post(s) de este partido: ganadores-resto",
+   "k": "prensa-1550209-7bfbcfcd"
+  },
   {
    "hora": "2026-11-28T00:03",
    "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇",
@@ -579,71 +693,6 @@
    "hora": "2026-11-28T00:03",
    "t": "📰 Real Madrid–Alaves: «Mendy vuelve y Mourinho suma una baja de última hora en el Real Madrid» (El Desmarque) · tenemos 12 post(s) de este partido: pick-extra-madrid, combi-500, loca-th-0040-ganaambos, loca-th-0800-x500, loca-th-1520-reto, loca-th-1600-lista-corners, loca-th-1700-x100, loca-th-1740-x50, loca-th-1820-x500, loca-th-1840-x1000, loca-th-1900-x100, loca-th-2000-x50",
    "k": "prensa-1570470-09b4cff2"
-  },
-  {
-   "hora": "2026-11-28T00:03",
-   "t": "📰 Paris Saint Germain–Lorient: «La maldición de las lesiones persigue a las estrellas del PSG: nuevo golpe antes del duelo ante el Lorient» (Goal.com) · tenemos 10 post(s) de este partido: ganadores-resto, loca-th-0600-hora, loca-th-1520-reto, loca-th-1700-x100, loca-th-1740-x50, loca-th-1820-x500, loca-th-1840-x1000, loca-th-1900-x100, loca-th-2000-x50, loca-th-2020-hora",
-   "k": "prensa-1552835-eb4dbaba"
-  },
-  {
-   "hora": "2026-11-28T00:03",
-   "t": "📰 Real Betis–Rayo Vallecano: «Giovani Lo Celso y Dani Ceballos quedan fuera de la convocatoria del Betis para enfrentar al Rayo Vallecano» (Tribuna.com) · tenemos 2 post(s) de este partido: pick-seguro, loca-th-0300-lista-ambos",
-   "k": "prensa-1570463-7b7a2fe1"
-  },
-  {
-   "hora": "2026-11-28T00:03",
-   "t": "📰 Le Mans–Lille: «El Lille tienta a Bisiwu y el Barça duda» (SPORT) · tenemos 15 post(s) de este partido: pick-seguro-2, loca-th-0300-lista-ambos, loca-th-0500-x50, loca-th-0600-hora, loca-th-0700-tapados, loca-th-0800-x500, loca-th-0920-empates, loca-th-1520-reto, loca-th-1700-x100, loca-th-1740-x50, loca-th-1820-x500, loca-th-1840-x1000, loca-th-1900-x100, loca-th-2000-x50, loca-th-2020-hora",
-   "k": "prensa-1552832-815e0631"
-  },
-  {
-   "hora": "2026-11-27T23:18",
-   "t": "📰 Paris Saint Germain–Lorient: «PSG-Lorient, previa: el PSG llega con tres bajas y cinco triunfos» (Tu Futbolero) · tenemos 1 post(s) de este partido: ganadores-resto",
-   "k": "prensa-1552835-5e9b4862"
-  },
-  {
-   "hora": "2026-11-27T21:58",
-   "t": "📰 Inter–Genoa: «Inter no fichará a nadie en enero salvo lesión grave o salida» (懂球帝) · tenemos 2 post(s) de este partido: ganadores-resto, loca-th-noche-2200-lista-ambos",
-   "k": "prensa-1550211-e7d5d810"
-  },
-  {
-   "hora": "2026-11-27T21:58",
-   "t": "📰 Torino–Lazio: «Gattuso: Kenneth Taylor se pierde el choque ante Torino; Dele-Bashiru merece más oportunidades» (懂球帝) · tenemos 2 post(s) de este partido: loca-th-noche-2200-lista-ambos, loca-th-noche-2330-escudos",
-   "k": "prensa-1550214-b4c678a0"
-  },
-  {
-   "hora": "2026-11-27T21:04",
-   "t": "📰 FSV Mainz 05–Union Berlin: «Luis Díaz, llamado a ser salvador en caos de lesiones: fecha, hora y TV del duelo Hamburgo vs Bayern Múnich» (El Tiempo) · tenemos 3 post(s) de este partido: picks-manana, ganadores-resto, combi-500",
-   "k": "prensa-1575234-MDíaz"
-  },
-  {
-   "hora": "2026-11-27T20:04",
-   "t": "📰 QPR–Sheffield Utd: «QPR-Sheffield Utd: el Sheffield llega con tres bajas seguras» (Tu Futbolero) · tenemos 1 post(s) de este partido: combi-500",
-   "k": "prensa-1563293-f1a697a8"
-  },
-  {
-   "hora": "2026-11-27T18:12",
-   "t": "📰 Valladolid–Real Sociedad II: «Rober Gutiérrez, pensando en el Valladolid Promesas: “Que no le quepa duda a nadie que haremos un partido muy » (El Deporte Conquense) · tenemos 2 post(s) de este partido: picks-manana, combi-500",
-   "k": "prensa-1570046-MiguelGutiérrez"
-  },
-  {
-   "hora": "2026-11-27T16:19",
-   "t": "📰 Hamburger SV–Bayern München: «Olise también se pierde la visita del Bayern a Hamburgo» (KarloBag.eu) · tenemos 2 post(s) de este partido: ganadores-resto, estrella-1575235",
-   "k": "prensa-1575235-MOlise"
-  },
-  {
-   "hora": "2026-11-27T15:18",
-   "t": "📰 Paris Saint Germain–Lorient: «Nuno Mendes sufre molestias en el muslo antes del duelo ante el Lorient» (Tribuna.com) · tenemos 1 post(s) de este partido: ganadores-resto",
-   "k": "prensa-1552835-ccf05ebd"
-  },
-  {
-   "hora": "2026-11-27T15:18",
-   "t": "📰 Las Palmas–FC Andorra: «Opoku no escapa del bucle: vuelve a lesionarse y se perderá el duelo ante el FC Andorra» (Cadena SER) · tenemos 1 post(s) de este partido: combi-500",
-   "k": "prensa-1570042-ac07c526"
-  },
-  {
-   "hora": "2026-11-27T13:54",
-   "t": "⏰ No ha salido en threads ni instagram (13:30): Vamos con la combi del viernes familia 🔥",
-   "k": "redes-2026-11-27-combi-tres-threads-instagram"
   }
  ]
 }

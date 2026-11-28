@@ -16168,9 +16168,260 @@
    }
   ],
   "1551386": [],
-  "1565315": []
+  "1565315": [],
+  "1608384": [],
+  "1608385": [],
+  "1552829": [
+   {
+    "equipo": 108,
+    "jugador": "C. Akpa",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 108,
+    "jugador": "A. Diousse",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 108,
+    "jugador": "S. Fofana",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 108,
+    "jugador": "D. Namaso",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 108,
+    "jugador": "B. Okoh",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 108,
+    "jugador": "L. Sy",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 81,
+    "jugador": "D. Cornelius",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 81,
+    "jugador": "Emerson",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 81,
+    "jugador": "G. Kondogbia",
+    "tipo": "Questionable",
+    "motivo": "Tendon Injury"
+   }
+  ],
+  "1552237": [
+   {
+    "equipo": 209,
+    "jugador": "T. Beelen",
+    "tipo": "Missing Fixture",
+    "motivo": "Broken Leg"
+   },
+   {
+    "equipo": 209,
+    "jugador": "J. Bos",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 209,
+    "jugador": "B. Nieuwkoop",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 209,
+    "jugador": "J. St. Juste",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 209,
+    "jugador": "T. Wessels",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 209,
+    "jugador": "J. Moder",
+    "tipo": "Questionable",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 194,
+    "jugador": "S. Adingra",
+    "tipo": "Missing Fixture",
+    "motivo": "Lacking Match Fitness"
+   },
+   {
+    "equipo": 194,
+    "jugador": "Caio Henrique",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 194,
+    "jugador": "K. Dolberg",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 194,
+    "jugador": "J. Mokio",
+    "tipo": "Missing Fixture",
+    "motivo": "Broken Leg"
+   },
+   {
+    "equipo": 194,
+    "jugador": "V. Tsygankov",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   }
+  ],
+  "1550213": [
+   {
+    "equipo": 488,
+    "jugador": "V. Adzic",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 488,
+    "jugador": "D. Boloca",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 488,
+    "jugador": "I. Kone",
+    "tipo": "Missing Fixture",
+    "motivo": "Broken Leg"
+   },
+   {
+    "equipo": 488,
+    "jugador": "F. Leysen",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 488,
+    "jugador": "C. Volpato",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 488,
+    "jugador": "D. Bakola",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 492,
+    "jugador": "Alisson Santos",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 492,
+    "jugador": "B. Badiashile",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 492,
+    "jugador": "A. Buongiorno",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 492,
+    "jugador": "G. Di Lorenzo",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 492,
+    "jugador": "S. Lobotka",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 492,
+    "jugador": "A. Meret",
+    "tipo": "Missing Fixture",
+    "motivo": "Back Injury"
+   },
+   {
+    "equipo": 492,
+    "jugador": "A. Vergara",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 492,
+    "jugador": "K. De Bruyne",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1552241": [
+   {
+    "equipo": 205,
+    "jugador": "R. Bayram",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 205,
+    "jugador": "E. Michut",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 205,
+    "jugador": "O. Romeny",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 205,
+    "jugador": "D. Sinkgraven",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 205,
+    "jugador": "Y. Oukili",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 210,
+    "jugador": "H. Petrov",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   }
+  ],
+  "1576543": []
  },
- "ultima": "2026-11-28T08:27:26.811831+01:00",
+ "ultima": "2026-11-28T09:02:20.080482+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
