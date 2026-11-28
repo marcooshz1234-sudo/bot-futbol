@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28 22:23",
+ "actualizado": "2026-11-28 22:30",
  "redes": {
   "instagram": {
    "seguidores": 59,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4317,
-   "hoy": 23,
+   "seguidores": 4318,
+   "hoy": 24,
    "serie": [
     3714,
     3742,
@@ -24,7 +24,7 @@
     4020,
     4195,
     4294,
-    4317
+    4318
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4932,
- "total_hoy": 26,
+ "total": 4933,
+ "total_hoy": 27,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "22:30",
+  "hora": "23:30",
   "dia": "2026-11-28",
-  "titulo": "El duelo de tiros"
+  "titulo": "Combi sc freiburg – rb leipzig"
  },
  "ayer": {
   "aciertos": 6,
@@ -288,7 +288,7 @@
   },
   "2026-11-28": {
    "instagram": 59,
-   "threads": 4317,
+   "threads": 4318,
    "facebook": 1,
    "telegram": 555
   }
