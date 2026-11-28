@@ -14035,7 +14035,8 @@
   "movimiento": null,
   "ventaja": 0.151,
   "prob_aprendida": 0.668,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-3"
  },
  "1575237|Total - Home|Over 1.5": {
   "partido_id": 1575237,
@@ -14057,7 +14058,8 @@
   "movimiento": 0.0,
   "ventaja": 0.096,
   "prob_aprendida": 0.684,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-3"
  },
  "1550216|Match Winner|Away": {
   "partido_id": 1550216,
@@ -14079,7 +14081,8 @@
   "movimiento": 0.128,
   "ventaja": 0.195,
   "prob_aprendida": 0.56,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-0"
  },
  "1557485|Home Player Shots|Liam Delap - 2": {
   "partido_id": 1557485,
@@ -14101,7 +14104,8 @@
   "movimiento": null,
   "ventaja": 0.106,
   "prob_aprendida": 0.586,
-  "acierto": null
+  "acierto": false,
+  "marcador": "3-2"
  },
  "1575221|Total - Away|Over 0.5": {
   "partido_id": 1575221,
@@ -14191,7 +14195,7 @@
   "valor_mercado": -0.017,
   "movimiento": null,
   "ventaja": 0.222,
-  "prob_aprendida": 0.613,
+  "prob_aprendida": 0.615,
   "acierto": null
  },
  "1557482|Goals Over/Under - Second Half|Over 1.5": {
@@ -14461,7 +14465,8 @@
   "movimiento": 0.121,
   "ventaja": 0.263,
   "prob_aprendida": 0.574,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1552234|To Win Either Half|Home": {
   "partido_id": 1552234,
@@ -14482,7 +14487,7 @@
   "valor_mercado": 0.013,
   "movimiento": -0.092,
   "ventaja": 0.113,
-  "prob_aprendida": 0.661,
+  "prob_aprendida": 0.657,
   "acierto": null
  },
  "1552234|Double Chance|Home/Draw": {
@@ -14753,7 +14758,8 @@
   "movimiento": -0.046,
   "ventaja": 0.001,
   "prob_aprendida": 0.701,
-  "acierto": null
+  "acierto": false,
+  "marcador": "3-3"
  },
  "1575550|Match Winner|Home": {
   "partido_id": 1575550,
@@ -14774,7 +14780,7 @@
   "valor_mercado": 0.0,
   "movimiento": -0.027,
   "ventaja": 0.094,
-  "prob_aprendida": 0.654,
+  "prob_aprendida": 0.648,
   "acierto": null
  },
  "1552239|Away Player Shots|Daouda Weidmann - 2": {
@@ -14796,7 +14802,7 @@
   "valor_mercado": null,
   "movimiento": -0.071,
   "ventaja": 0.131,
-  "prob_aprendida": 0.631,
+  "prob_aprendida": 0.627,
   "acierto": null
  },
  "1635692|Offsides Home Total|Over 0.5": {
@@ -14865,7 +14871,8 @@
   "movimiento": 0.042,
   "ventaja": 0.2,
   "prob_aprendida": 0.64,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-0"
  },
  "1552234|Match Winner|Home": {
   "partido_id": 1552234,
@@ -14883,10 +14890,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.0,
+  "valor_mercado": 0.005,
   "movimiento": -0.122,
   "ventaja": 0.135,
-  "prob_aprendida": 0.641,
+  "prob_aprendida": 0.634,
   "acierto": null
  },
  "1575231|Total Corners (1st Half)|Over 4.5": {
@@ -14930,7 +14937,7 @@
   "valor_mercado": 0.042,
   "movimiento": -0.039,
   "ventaja": 0.222,
-  "prob_aprendida": 0.411,
+  "prob_aprendida": 0.412,
   "acierto": null
  },
  "1570465|Total - Home|Over 0.5": {
@@ -14943,16 +14950,16 @@
   "opcion": "Over 0.5",
   "tipo": "goles",
   "texto": "Deportivo La Coruna marca",
-  "cuota": 1.44,
+  "cuota": 1.5,
   "frecuencia": 0.75,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.034,
-  "movimiento": -0.04,
-  "ventaja": 0.056,
-  "prob_aprendida": 0.699,
+  "valor_mercado": -0.013,
+  "movimiento": 0.0,
+  "ventaja": 0.083,
+  "prob_aprendida": 0.668,
   "acierto": null
  },
  "1552237|Away Player Shots|Jorthy Mokio - 1": {
@@ -15018,7 +15025,7 @@
   "valor_mercado": -0.011,
   "movimiento": -0.039,
   "ventaja": 0.022,
-  "prob_aprendida": 0.626,
+  "prob_aprendida": 0.618,
   "acierto": null
  },
  "1636252|Away Player Shots|Orri Steinn Oskarsson - 2": {
@@ -15087,7 +15094,8 @@
   "movimiento": -0.015,
   "ventaja": 0.119,
   "prob_aprendida": 0.623,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-0"
  },
  "1552828|Shots.1x2|Away": {
   "partido_id": 1552828,
@@ -15127,10 +15135,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.015,
+  "valor_mercado": 0.0,
   "movimiento": 0.023,
   "ventaja": 0.148,
-  "prob_aprendida": 0.786,
+  "prob_aprendida": 0.787,
   "acierto": null
  },
  "1570038|Goals Over/Under - Second Half|Over 1.5": {
@@ -15152,7 +15160,7 @@
   "valor_mercado": 0.018,
   "movimiento": null,
   "ventaja": 0.172,
-  "prob_aprendida": 0.6,
+  "prob_aprendida": 0.599,
   "acierto": null
  },
  "1570045|Both Teams Score|Yes": {
@@ -15174,7 +15182,7 @@
   "valor_mercado": 0.053,
   "movimiento": 0.04,
   "ventaja": 0.244,
-  "prob_aprendida": 0.577,
+  "prob_aprendida": 0.578,
   "acierto": null
  },
  "1552836|Away Player Shots|Sebastian Szymanski - 1": {
@@ -15196,7 +15204,7 @@
   "valor_mercado": null,
   "movimiento": 0.188,
   "ventaja": 0.148,
-  "prob_aprendida": 0.619,
+  "prob_aprendida": 0.615,
   "acierto": null
  },
  "1570045|Corners Over Under|Over 9.5": {
@@ -15218,7 +15226,7 @@
   "valor_mercado": 0.006,
   "movimiento": null,
   "ventaja": 0.211,
-  "prob_aprendida": 0.486,
+  "prob_aprendida": 0.477,
   "acierto": null
  },
  "1575548|Corners 1x2|Away": {
@@ -15237,10 +15245,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.008,
+  "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.101,
-  "prob_aprendida": 0.495,
+  "prob_aprendida": 0.488,
   "acierto": null
  },
  "1563285|Double Chance|Home/Draw": {
@@ -15332,7 +15340,8 @@
   "movimiento": null,
   "ventaja": 0.213,
   "prob_aprendida": 0.595,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-2"
  },
  "1557485|Offsides Away Total|Over 0.5": {
   "partido_id": 1557485,
@@ -15354,7 +15363,8 @@
   "movimiento": null,
   "ventaja": 0.156,
   "prob_aprendida": 0.482,
-  "acierto": null
+  "acierto": false,
+  "marcador": "3-2"
  },
  "1563297|Home Team Total Cards|Over 1.5": {
   "partido_id": 1563297,
@@ -15375,7 +15385,7 @@
   "valor_mercado": -0.011,
   "movimiento": null,
   "ventaja": 0.194,
-  "prob_aprendida": 0.614,
+  "prob_aprendida": 0.619,
   "acierto": null
  },
  "1563298|Away Team Total Cards|Over 1.5": {
@@ -15397,7 +15407,7 @@
   "valor_mercado": -0.056,
   "movimiento": null,
   "ventaja": 0.146,
-  "prob_aprendida": 0.549,
+  "prob_aprendida": 0.544,
   "acierto": null
  },
  "1565316|Double Chance|Home/Draw": {
@@ -15464,7 +15474,7 @@
   "valor_mercado": null,
   "movimiento": 0.123,
   "ventaja": 0.094,
-  "prob_aprendida": 0.629,
+  "prob_aprendida": 0.628,
   "acierto": null
  },
  "1563291|Away Player Shots|Largie Ramazani - 2": {
@@ -15486,7 +15496,7 @@
   "valor_mercado": null,
   "movimiento": 0.0,
   "ventaja": 0.186,
-  "prob_aprendida": 0.549,
+  "prob_aprendida": 0.546,
   "acierto": null
  },
  "1565313|Away Corners Over/Under|Over 1.5": {
@@ -15574,7 +15584,7 @@
   "valor_mercado": -0.012,
   "movimiento": 0.031,
   "ventaja": 0.151,
-  "prob_aprendida": 0.602,
+  "prob_aprendida": 0.603,
   "acierto": null
  },
  "1550213|Away Player Shots|Scott McTominay - 2": {
@@ -15640,7 +15650,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.113,
-  "prob_aprendida": 0.42,
+  "prob_aprendida": 0.417,
   "acierto": null
  },
  "1550208|Total - Home|Over 0.5": {
@@ -15684,7 +15694,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.1,
-  "prob_aprendida": 0.63,
+  "prob_aprendida": 0.629,
   "acierto": null
  },
  "1608388|Total - Home|Over 0.5": {
@@ -15703,10 +15713,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.007,
+  "valor_mercado": 0.048,
   "movimiento": 0.062,
   "ventaja": 0.096,
-  "prob_aprendida": 0.683,
+  "prob_aprendida": 0.657,
   "acierto": null
  },
  "1557478|Home Team Total Cards|Over 1.5": {
@@ -15725,10 +15735,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.083,
+  "valor_mercado": 0.026,
   "movimiento": null,
   "ventaja": 0.113,
-  "prob_aprendida": 0.569,
+  "prob_aprendida": 0.574,
   "acierto": null
  },
  "1575235|Goals Over/Under - Second Half|Over 1.5": {
@@ -15747,10 +15757,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.025,
+  "valor_mercado": -0.044,
   "movimiento": 0.125,
   "ventaja": 0.196,
-  "prob_aprendida": 0.659,
+  "prob_aprendida": 0.655,
   "acierto": null
  },
  "1552829|Match Winner|Away": {
@@ -15794,7 +15804,7 @@
   "valor_mercado": 0.048,
   "movimiento": null,
   "ventaja": 0.272,
-  "prob_aprendida": 0.633,
+  "prob_aprendida": 0.639,
   "acierto": null
  },
  "1575240|Match Winner|Home": {
@@ -15816,7 +15826,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.063,
-  "prob_aprendida": 0.66,
+  "prob_aprendida": 0.657,
   "acierto": null
  },
  "1575244|Home Player Shots|Anton Kade - 2": {
@@ -15838,7 +15848,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.219,
-  "prob_aprendida": 0.632,
+  "prob_aprendida": 0.631,
   "acierto": null
  },
  "1575243|Home Player Shots|Fares Chaibi - 2": {
@@ -15860,7 +15870,117 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.143,
-  "prob_aprendida": 0.547,
+  "prob_aprendida": 0.546,
+  "acierto": null
+ },
+ "1552832|Total - Home|Over 0.5": {
+  "partido_id": 1552832,
+  "fecha": "2026-11-28T20:45",
+  "competicion": "Ligue 1",
+  "local": "Le Mans",
+  "visitante": "Lille",
+  "mercado": "Total - Home",
+  "opcion": "Over 0.5",
+  "tipo": "goles",
+  "texto": "Le Mans marca",
+  "cuota": 1.5,
+  "frecuencia": 0.75,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.02,
+  "movimiento": 0.042,
+  "ventaja": 0.083,
+  "prob_aprendida": 0.668,
+  "acierto": null
+ },
+ "1575231|Away Team Total Cards|Over 1.5": {
+  "partido_id": 1575231,
+  "fecha": "2026-11-28T18:30",
+  "competicion": "Bundesliga",
+  "local": "VfB Stuttgart",
+  "visitante": "Eintracht Frankfurt",
+  "mercado": "Away Team Total Cards",
+  "opcion": "Over 1.5",
+  "tipo": "tarjetas",
+  "texto": "Eintracht Frankfurt ve más de 1,5 tarjetas",
+  "cuota": 1.53,
+  "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.062,
+  "movimiento": null,
+  "ventaja": 0.146,
+  "prob_aprendida": 0.477,
+  "acierto": null
+ },
+ "1557482|Offsides Away Total|Over 0.5": {
+  "partido_id": 1557482,
+  "fecha": "2026-11-28T18:30",
+  "competicion": "Premier",
+  "local": "Ipswich",
+  "visitante": "Aston Villa",
+  "mercado": "Offsides Away Total",
+  "opcion": "Over 0.5",
+  "tipo": "fueras de juego",
+  "texto": "Aston Villa hace más de 0,5 fueras de juego",
+  "cuota": 1.44,
+  "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.106,
+  "prob_aprendida": 0.463,
+  "acierto": null
+ },
+ "1648352|Home Player Shots|Dayot Upamecano - 1": {
+  "partido_id": 1648352,
+  "fecha": "2026-12-01T20:45",
+  "competicion": "DFB-Pokal",
+  "local": "Bayern München",
+  "visitante": "Hertha BSC",
+  "mercado": "Home Player Shots",
+  "opcion": "Dayot Upamecano - 1",
+  "tipo": "jugador",
+  "texto": "Dayot Upamecano: 1+ tiros",
+  "cuota": 1.4,
+  "frecuencia": 1.0,
+  "jugador_id": 1149,
+  "jugador": "Dayot Upamecano",
+  "campo": "tiros",
+  "n": 1,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.286,
+  "prob_aprendida": 0.562,
+  "acierto": null
+ },
+ "1638134|Away Corners Over/Under|Over 2.5": {
+  "partido_id": 1638134,
+  "fecha": "2026-12-03T21:00",
+  "competicion": "Coppa Italia",
+  "local": "Juventus",
+  "visitante": "Sassuolo",
+  "mercado": "Away Corners Over/Under",
+  "opcion": "Over 2.5",
+  "tipo": "corners",
+  "texto": "Sassuolo hace más de 2,5 córners",
+  "cuota": 1.67,
+  "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.031,
+  "movimiento": null,
+  "ventaja": 0.201,
+  "prob_aprendida": 0.416,
   "acierto": null
  }
 }

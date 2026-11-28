@@ -1,10 +1,10 @@
 # Cittadella – PRO Vercelli
 **Serie C** · Girone A - 16 · 29/11/2026 14:30 (hora España) · Stadio Pier Cesare Tombolato
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 22:15_
+_Actualizadas: 28/11 08:43_
 
 - **1X2:** 1 **1.33**  ·  X **4.33**  ·  2 **7.50**
 - **Doble oportunidad:** 1X **1.06**  ·  12 **1.14**  ·  X2 **2.88**
@@ -28,6 +28,8 @@ _Actualizadas: 27/11 22:15_
 - **Goles del visitante:**
     - 0,5: más **1.80** · menos **1.91**
     - 1,5: más **4.50** · menos **1.17**
+- **Córners más/menos:**
+    - 8,5: más **1.82** · menos **1.98**
 - **1X2 descanso:** 1 **1.80**  ·  X **2.50**  ·  2 **6.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
@@ -41,6 +43,7 @@ _Actualizadas: 27/11 22:15_
 - **Win Both Halves:** 1 **3.25**  ·  2 **29.00**
 - **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **6.00**  ·  Away/Yes **13.00**  ·  Home/No **2.20**  ·  Draw/No **13.00**  ·  Away/No **15.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **4.75**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **2.75**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.85**  ·  Menos de 4 **1.95**
 
 ## Estadísticas de equipo
 | | Cittadella (total) | Cittadella en casa | PRO Vercelli (total) | PRO Vercelli fuera |

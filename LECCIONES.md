@@ -1,5 +1,46 @@
 # Lecciones del bot
 
+## 2026-11-27
+
+```
+🧠 LECCIONES DEL 27/11
+Picks del bot: 6 ✅ · 6 ❌
+
+❌ Lo que falló en lo publicado:
+• Bologna gana alguna de las dos partes → Marcador: 0–0
+• Bologna marca 2 o más → 0 de 2 goles
+• Chelsea hace más de 5,5 córners → 2 de 6 córners
+• Cole Palmer comete 1+ faltas → 0 de 1 falta
+• Gana el Bologna y ambos marcan → Marcador: 0–0
+• Gana el Bologna → Marcador: 0–0
+• Gana el Levante → Marcador: 1–3
+• Gana el Paris FC y ambos marcan → Marcador: 1–0
+• Gana el Paris FC → Marcador: 1–0
+• Gana el Werder Bremen y ambos marcan → Marcador: 3–3
+• Gana el Werder Bremen → Marcador: 3–3
+• Liam Delap: 3+ tiros → 1 de 3 tiros
+• Morgan Rogers comete 1+ faltas → 0 de 1 falta
+• Más de 1,5 goles en la 2ª parte del Stade Brestois 29–Paris FC → Marcador: 1–0
+• Más de 1,5 goles en la 2ª parte del Venezia–Bologna → Marcador: 0–0
+
+❌ Fallos de los picks del bot y por qué:
+• Gana el Bologna — resultado 0-0
+• Liam Delap: 2+ tiros — jugó 84′ e hizo 1 (necesitaba 2)
+• Gana el Werder Bremen — resultado 3-3
+• Gana el Petrolul Ploiesti — resultado 0-1
+• Chelsea hace más de 0,5 fueras de juego — no llegó a la línea (3-2)
+• Petrolul Ploiesti o empate — resultado 0-1
+
+⚠️ Partidos donde cayeron varios picks a la vez (van ligados, no conviene meter dos del mismo partido en distintas combis): Nottingham Forest–Chelsea, Petrolul Ploiesti–Arges Pitesti
+
+📐 Modelo: 405/652 aciertos reales (62%) frente al 71% que prometían las estadísticas y el 70% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬇️ castigo tipo fueras de juego: 0/5 (-8 pts)
+⬇️ castigo liga Ligue 1: 31/60 (-6 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-26
 
 ```

@@ -1,7 +1,7 @@
 # Albacete – Las Palmas
 **Copa del Rey** · Round of 64 · 01/12/2026 20:00 (hora España) · Estadio Carlos Belmonte
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

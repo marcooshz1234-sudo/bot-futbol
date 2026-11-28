@@ -1,15 +1,16 @@
 # Lecce – Atalanta
 **Serie A** · Regular Season - 13 · 30/11/2026 18:30 (hora España) · Stadio Via del Mare
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 22:15_
+_Actualizadas: 28/11 08:44_
 
 - **1X2:** 1 **4.20**  ·  X **3.60**  ·  2 **1.85**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.22**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.20** · menos **4.50**
     - 2,5: más **1.62** · menos **2.30**
     - 3,5: más **2.50** · menos **1.53**
@@ -29,10 +30,10 @@ _Actualizadas: 27/11 22:15_
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 9,5: más **1.80** · menos **1.91**
+    - 9,5: más **1.80** · menos **2.00**
 - **Córners 1X2:** 1 **2.20**  ·  X **8.00**  ·  2 **1.91**
 - **Tarjetas más/menos:**
-    - 3,5: más **1.83** · menos **1.83**
+    - 3,5: más **1.91** · menos **1.80**
 - **1X2 descanso:** 1 **4.00**  ·  X **2.40**  ·  2 **2.38**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
@@ -50,7 +51,13 @@ _Actualizadas: 27/11 22:15_
     - 4,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 4,5: más **1.67** · menos **2.10**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.95**  ·  Menos de 4.5 **1.85**
+- **Home Team Total Cards:**
+    - 1,5: más **1.50** · menos **2.50**
+- **Away Team Total Cards:**
+    - 1,5: más **2.00** · menos **1.73**
+- **Total ShotOnGoal:**
+    - 9,5: más **2.00** · menos **1.73**
 - **ShotOnTarget 1x2:** 1 **2.88**  ·  X **7.50**  ·  2 **1.57**
 - **Total Shots:**
     - 28,5: más **2.00** · menos **1.73**

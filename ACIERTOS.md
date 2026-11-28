@@ -1,18 +1,18 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 642 · aciertos: 399 (62%) · beneficio a 1 € por pick: -68.14 €
+Picks ya jugados: 652 · aciertos: 405 (62%) · beneficio a 1 € por pick: -69.27 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| goles | 154 | 237 | 65% | -20.10 € |
-| jugador | 134 | 208 | 64% | -22.63 € |
-| resultado | 82 | 130 | 63% | -5.71 € |
-| tarjetas | 16 | 27 | 59% | -1.68 € |
+| goles | 156 | 239 | 65% | -18.90 € |
+| jugador | 137 | 212 | 65% | -22.53 € |
+| resultado | 82 | 132 | 62% | -7.71 € |
+| tarjetas | 17 | 28 | 61% | -1.11 € |
 | tiros | 6 | 12 | 50% | -1.47 € |
 | corners | 7 | 22 | 32% | -10.55 € |
-| fueras de juego | 0 | 4 | 0% | -4.00 € |
+| fueras de juego | 0 | 5 | 0% | -5.00 € |
 | tiros a puerta | 0 | 2 | 0% | -2.00 € |
 
 ## Por mercado (mín. 3 picks)
@@ -23,20 +23,20 @@ Picks ya jugados: 642 · aciertos: 399 (62%) · beneficio a 1 € por pick: -68.
 | Player Fouls Committed · James Hill - 1 | 3 | 3 | 100% |
 | To Win Either Half · Home | 10 | 12 | 83% |
 | Goals Over/Under · Over 1.5 | 33 | 42 | 79% |
+| Goals Over/Under - Second Half · Over 1.5 | 10 | 13 | 77% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
-| Goals Over/Under - Second Half · Over 1.5 | 9 | 12 | 75% |
-| Home Team Total Cards · Over 1.5 | 11 | 15 | 73% |
+| Home Team Total Cards · Over 1.5 | 12 | 16 | 75% |
 | Double Chance · Home/Draw | 13 | 18 | 72% |
-| Match Winner · Away | 10 | 14 | 71% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
 | Goals Over/Under First Half · Over 0.5 | 31 | 45 | 69% |
-| Match Winner · Home | 14 | 21 | 67% |
+| Match Winner · Away | 10 | 15 | 67% |
+| Total - Home · Over 1.5 | 4 | 6 | 67% |
 | Away Player Shots · Nicolo Barella - 1 | 2 | 3 | 67% |
 | Player Fouls Committed · Radu Dragusin - 1 | 2 | 3 | 67% |
 | Player Fouls Committed · Evanilson - 1 | 2 | 3 | 67% |
 | Total - Home · Over 0.5 | 11 | 17 | 65% |
+| Match Winner · Home | 14 | 22 | 64% |
 | Goals Over/Under - Second Half · Over 0.5 | 6 | 10 | 60% |
-| Total - Home · Over 1.5 | 3 | 5 | 60% |
 | Total - Away · Over 0.5 | 28 | 50 | 56% |
 | Both Teams Score · Yes | 12 | 23 | 52% |
 | Shots.1x2 · Away | 3 | 6 | 50% |
@@ -53,9 +53,19 @@ Picks ya jugados: 642 · aciertos: 399 (62%) · beneficio a 1 € por pick: -68.
 
 ## Últimos días
 
-### 2026-11-27 · 0/2
+### 2026-11-27 · 6/12
 - ❌ Gana el Petrolul Ploiesti · 2.10 (0-1)
 - ❌ Petrolul Ploiesti o empate · 1.33 (0-1)
+- ✅ Más de 1,5 goles en la 2ª parte del Werder Bremen–Borussia Mönchengladbach · 1.67 (3-3)
+- ✅ Werder Bremen marca 2 o más · 1.53 (3-3)
+- ❌ Gana el Werder Bremen · 1.67 (3-3)
+- ❌ Gana el Bologna · 2.20 (0-0)
+- ✅ Pathe Mboup: 2+ tiros · 1.57 (1-0)
+- ✅ Tommaso Pobega: 1+ tiros · 1.25 (0-0)
+- ✅ Akor Adams: 2+ tiros · 1.28 (0-0)
+- ❌ Liam Delap: 2+ tiros · 1.30 (3-2)
+- ✅ Nottingham Forest ve más de 1,5 tarjetas · 1.57 (3-2)
+- ❌ Chelsea hace más de 0,5 fueras de juego · 1.44 (3-2)
 
 ### 2026-11-26 · 3/6
 - ❌ Gana el Brann · 2.10 (1-4)

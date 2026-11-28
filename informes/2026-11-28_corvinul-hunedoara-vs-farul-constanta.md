@@ -1,10 +1,10 @@
 # Corvinul Hunedoara – Farul Constanta
 **Liga I** · Regular Season - 17 · 28/11/2026 16:00 (hora España) · Petre Libardi Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 22:14_
+_Actualizadas: 28/11 08:42_
 
 - **1X2:** 1 **2.00**  ·  X **3.40**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.28**  ·  X2 **1.67**

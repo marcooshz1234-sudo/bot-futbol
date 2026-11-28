@@ -1,44 +1,46 @@
 # Juventus U23 – Dolomiti Bellunesi
 **Serie C** · Girone A - 16 · 29/11/2026 14:30 (hora España) · Stadio Giuseppe Moccagatta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 22:15_
+_Actualizadas: 28/11 08:43_
 
 - **1X2:** 1 **1.55**  ·  X **3.50**  ·  2 **5.50**
-- **Doble oportunidad:** 1X **1.10**  ·  12 **1.22**  ·  X2 **2.20**
-- **Ambos marcan:** Sí **1.91**  ·  No **1.80**
+- **Doble oportunidad:** 1X **1.11**  ·  12 **1.22**  ·  X2 **2.15**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
-    - 1,5: más **1.28** · menos **3.50**
-    - 2,5: más **1.95** · menos **1.85**
-    - 3,5: más **3.25** · menos **1.33**
-    - 4,5: más **6.00** · menos **1.11**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.85** · menos **1.95**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **5.50** · menos **1.12**
+    - 5,5: más **9.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
-    - 1,5: más **2.75** · menos **1.40**
+    - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.10**
 - **Goles del local:**
     - 0,5: más **1.14** · menos **5.00**
-    - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.40** · menos **1.30**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **6.50** · menos **1.10**
 - **Goles del visitante:**
-    - 0,5: más **1.67** · menos **2.10**
-    - 1,5: más **4.33** · menos **1.20**
-- **1X2 descanso:** 1 **2.10**  ·  X **2.20**  ·  2 **5.50**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.00** · menos **1.22**
+    - 2,5: más **9.00** · menos **1.04**
+- **1X2 descanso:** 1 **2.10**  ·  X **2.25**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **4.50** · menos **1.18**
-    - 3,5: más **13.00** · menos **1.04**
-- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
-- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **1.36**  ·  2 **3.00**
-- **To Score In Both Halves By Teams:** 1 **2.62**  ·  2 **8.00**
-- **Win Both Halves:** 1 **4.33**  ·  2 **23.00**
-- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **5.00**  ·  Away/Yes **11.00**  ·  Home/No **2.50**  ·  Draw/No **10.00**  ·  Away/No **10.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.30**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.33**  ·  2 **3.00**
+- **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **7.00**
+- **Win Both Halves:** 1 **4.00**  ·  2 **21.00**
+- **Results/Both Teams Score:** Home/Yes **3.60**  ·  Draw/Yes **5.00**  ·  Away/Yes **11.00**  ·  Home/No **2.62**  ·  Draw/No **11.00**  ·  Away/No **10.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.50**
 
 ## Estadísticas de equipo
 | | Juventus U23 (total) | Juventus U23 en casa | Dolomiti Bellunesi (total) | Dolomiti Bellunesi fuera |

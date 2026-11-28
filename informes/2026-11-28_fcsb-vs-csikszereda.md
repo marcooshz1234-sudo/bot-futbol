@@ -1,29 +1,29 @@
 # FCSB – Csikszereda
 **Liga I** · Regular Season - 17 · 28/11/2026 19:00 (hora España) · Arena Nationala
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 22:14_
+_Actualizadas: 28/11 08:43_
 
 - **1X2:** 1 **1.22**  ·  X **5.25**  ·  2 **9.50**
-- **Doble oportunidad:** 1X **1.06**  ·  12 **1.14**  ·  X2 **3.50**
+- **Doble oportunidad:** 1X **1.05**  ·  12 **1.12**  ·  X2 **3.75**
 - **Ambos marcan:** Sí **1.91**  ·  No **1.80**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.50** · menos **2.50**
+    - 2,5: más **1.48** · menos **2.60**
     - 3,5: más **2.20** · menos **1.62**
     - 4,5: más **3.75** · menos **1.25**
     - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **5.00** · menos **1.17**
+    - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
-    - 0,5: más **1.06** · menos **10.00**
-    - 1,5: más **1.33** · menos **3.25**
-    - 2,5: más **2.00** · menos **1.73**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.30** · menos **3.40**
+    - 2,5: más **1.91** · menos **1.80**
     - 3,5: más **3.50** · menos **1.28**
     - 4,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
@@ -33,24 +33,24 @@ _Actualizadas: 27/11 22:14_
     - 10: más **1.80** · menos **2.00**
     - 10,5: más **2.00** · menos **1.73**
 - **Córners 1X2:** 1 **1.07**  ·  X **15.00**  ·  2 **9.00**
-- **1X2 descanso:** 1 **1.67**  ·  X **2.75**  ·  2 **8.50**
+- **1X2 descanso:** 1 **1.62**  ·  X **2.88**  ·  2 **9.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.40** · menos **1.30**
-    - 3,5: más **8.00** · menos **1.08**
-- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **1.14**  ·  2 **4.33**
-- **To Score In Both Halves By Teams:** 1 **1.80**  ·  2 **9.00**
-- **Win Both Halves:** 1 **2.50**  ·  2 **41.00**
-- **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **7.00**  ·  Away/Yes **17.00**  ·  Home/No **2.10**  ·  Draw/No **17.00**  ·  Away/No **19.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **3.75**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **3.10**
+- **To Win Either Half:** 1 **1.14**  ·  2 **4.50**
+- **To Score In Both Halves By Teams:** 1 **1.80**  ·  2 **10.00**
+- **Win Both Halves:** 1 **2.50**  ·  2 **51.00**
+- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **7.50**  ·  Away/Yes **19.00**  ·  Home/No **2.00**  ·  Draw/No **17.00**  ·  Away/No **19.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **3.60**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **3.10**
 - **Home Corners Over/Under:**
     - 7,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
     - 2,5: más **2.20** · menos **1.62**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.30**  ·  Menos de 5 **2.10**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.00**  ·  Menos de 5 **1.80**
 
 ## Estadísticas de equipo
 | | FCSB (total) | FCSB en casa | Csikszereda (total) | Csikszereda fuera |

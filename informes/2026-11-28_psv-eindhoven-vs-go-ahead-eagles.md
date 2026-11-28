@@ -1,10 +1,10 @@
 # PSV Eindhoven – GO Ahead Eagles
 **Eredivisie** · Regular Season - 14 · 28/11/2026 18:45 (hora España) · Philips Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 22:14_
+_Actualizadas: 28/11 08:43_
 
 - **1X2:** 1 **1.22**  ·  X **6.50**  ·  2 **11.00**
 - **Doble oportunidad:** 1X **1.05**  ·  12 **1.11**  ·  X2 **4.00**

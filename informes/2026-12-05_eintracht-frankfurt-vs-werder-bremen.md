@@ -1,7 +1,7 @@
 # Eintracht Frankfurt – Werder Bremen
 **Bundesliga** · Regular Season - 12 · 05/12/2026 18:30 (hora España) · Deutsche Bank Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
 _Actualizadas: 27/11 22:18_
@@ -43,53 +43,53 @@ _Actualizadas: 27/11 22:18_
 ## Estadísticas de equipo
 | | Eintracht Frankfurt (total) | Eintracht Frankfurt en casa | Werder Bremen (total) | Werder Bremen fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 5 | 12 | 7 |
-| Forma (últimos 5) | VEVVD | VVVED | VDVDV | DDVEE |
-| Balance | 6V 3E 3D | 3V 1E 1D | 6V 3E 3D | 2V 2E 3D |
-| Goles a favor / partido | 2,50 | 1,60 | 2,17 | 1,71 |
-| Goles en contra / partido | 1,75 | 1,40 | 1,50 | 1,86 |
-| Goles a favor 1ª parte | 1,67 | 1,00 | 0,33 | 0,43 |
-| Goles a favor 2ª parte | 0,83 | 0,60 | 1,83 | 1,29 |
-| Goles en contra 1ª parte | 0,67 | 0,40 | 0,83 | 1,00 |
-| Goles en contra 2ª parte | 1,08 | 1,00 | 0,67 | 0,86 |
+| Partidos analizados | 12 | 5 | 13 | 7 |
+| Forma (últimos 5) | VEVVD | VVVED | EVDVD | DDVEE |
+| Balance | 6V 3E 3D | 3V 1E 1D | 6V 4E 3D | 2V 2E 3D |
+| Goles a favor / partido | 2,50 | 1,60 | 2,23 | 1,71 |
+| Goles en contra / partido | 1,75 | 1,40 | 1,62 | 1,86 |
+| Goles a favor 1ª parte | 1,67 | 1,00 | 0,38 | 0,43 |
+| Goles a favor 2ª parte | 0,83 | 0,60 | 1,85 | 1,29 |
+| Goles en contra 1ª parte | 0,67 | 0,40 | 0,85 | 1,00 |
+| Goles en contra 2ª parte | 1,08 | 1,00 | 0,77 | 0,86 |
 | Más de 1,5 goles | 75% | 60% | 92% | 86% |
-| Más de 2,5 goles | 75% | 60% | 75% | 71% |
-| Más de 3,5 goles | 75% | 60% | 67% | 57% |
-| Ambos marcan | 58% | 60% | 67% | 71% |
-| Portería a cero | 25% | 40% | 25% | 14% |
+| Más de 2,5 goles | 75% | 60% | 77% | 71% |
+| Más de 3,5 goles | 75% | 60% | 69% | 57% |
+| Ambos marcan | 58% | 60% | 69% | 71% |
+| Portería a cero | 25% | 40% | 23% | 14% |
 | Se queda sin marcar | 17% | 0% | 8% | 14% |
-| xG a favor | 1,82 | 2,13 | 1,64 | 1,40 |
-| xG en contra | 2,13 | 1,69 | 1,52 | 1,73 |
-| Tiros / partido | 14,5 | 16,6 | 16,3 | 15,7 |
-| Tiros a puerta / partido | 5,6 | 6,8 | 6,6 | 5,6 |
-| Tiros recibidos | 16,1 | 15,2 | 14,2 | 14,3 |
-| Tiros a puerta recibidos | 5,7 | 4,8 | 4,5 | 5,3 |
-| Posesión media % | 49 | 50 | 49 | 49 |
-| Córners a favor | 5,2 | 6,8 | 4,6 | 5,3 |
-| Córners en contra | 5,0 | 4,6 | 5,2 | 5,4 |
+| xG a favor | 1,82 | 2,13 | 1,63 | 1,40 |
+| xG en contra | 2,13 | 1,69 | 1,62 | 1,73 |
+| Tiros / partido | 14,5 | 16,6 | 16,6 | 15,7 |
+| Tiros a puerta / partido | 5,6 | 6,8 | 6,7 | 5,6 |
+| Tiros recibidos | 16,1 | 15,2 | 14,6 | 14,3 |
+| Tiros a puerta recibidos | 5,7 | 4,8 | 4,6 | 5,3 |
+| Posesión media % | 49 | 50 | 50 | 49 |
+| Córners a favor | 5,2 | 6,8 | 4,8 | 5,3 |
+| Córners en contra | 5,0 | 4,6 | 5,1 | 5,4 |
 | Córners a favor 1ª parte | 2,7 | 3,4 | 1,3 | 1,4 |
-| Córners a favor 2ª parte | 2,5 | 3,4 | 3,2 | 3,9 |
+| Córners a favor 2ª parte | 2,5 | 3,4 | 3,5 | 3,9 |
 | Córners totales del partido | 10,2 | 11,4 | 9,8 | 10,7 |
 | Córners totales 1ª parte | 5,4 | 6,2 | 3,7 | 3,9 |
-| Córners totales 2ª parte | 4,8 | 5,2 | 6,1 | 6,9 |
-| Más de 8,5 córners | 64% | 80% | 67% | 71% |
-| Más de 9,5 córners | 45% | 80% | 50% | 71% |
-| Más de 10,5 córners | 36% | 60% | 50% | 71% |
+| Córners totales 2ª parte | 4,8 | 5,2 | 6,2 | 6,9 |
+| Más de 8,5 córners | 64% | 80% | 69% | 71% |
+| Más de 9,5 córners | 45% | 80% | 54% | 71% |
+| Más de 10,5 córners | 36% | 60% | 54% | 71% |
 | Faltas cometidas | 11,2 | 10,2 | 10,4 | 9,7 |
-| Faltas recibidas | 11,9 | 12,6 | 10,4 | 10,0 |
+| Faltas recibidas | 11,9 | 12,6 | 10,5 | 10,0 |
 | Amarillas propias | 2,3 | 1,8 | 1,7 | 1,4 |
-| Amarillas del rival | 1,4 | 2,2 | 1,2 | 1,3 |
+| Amarillas del rival | 1,4 | 2,2 | 1,4 | 1,3 |
 | Rojas / partido | 0,09 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Eintracht Frankfurt | Recibe Eintracht Frankfurt | Tarjetas Eintracht Frankfurt | Goles Werder Bremen | Recibe Werder Bremen | Tarjetas Werder Bremen |
 |---|---|---|---|---|---|---|
 | 1-15' | 8 | 4 | 4 | 3 | 3 | 1 |
-| 16-30' | 4 | 0 | 2 | 1 | 5 | 4 |
-| 31-45' | 8 | 4 | 4 | 0 | 2 | 4 |
-| 46-60' | 3 | 4 | 3 | 4 | 3 | 6 |
+| 16-30' | 4 | 0 | 2 | 1 | 6 | 4 |
+| 31-45' | 8 | 4 | 4 | 1 | 2 | 5 |
+| 46-60' | 3 | 4 | 3 | 4 | 4 | 7 |
 | 61-75' | 4 | 2 | 5 | 9 | 1 | 1 |
-| 76-90' | 3 | 7 | 12 | 9 | 4 | 4 |
+| 76-90' | 3 | 7 | 12 | 11 | 5 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -141,33 +141,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Werder Bremen
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-27 | Bundesliga | Werder Bremen 3-3 Borussia Mönchengladbach | casa | 7-4 | 20 (8) - 20 (6) | 2-3 |
 | 2026-11-22 | Bundesliga | Werder Bremen 4-0 Hamburger SV | casa | 1-8 | 18 (7) - 17 (2) | 3-3 |
 | 2026-11-07 | Bundesliga | VfB Stuttgart 1-0 Werder Bremen | fuera | 4-4 | 23 (5) - 13 (5) | 3-0 |
 | 2026-10-31 | Bundesliga | Werder Bremen 2-0 1899 Hoffenheim | casa | 8-4 | 18 (4) - 16 (2) | 3-0 |
 | 2026-10-27 | DFB-Pokal | Borussia Dortmund 3-2 Werder Bremen | fuera | 3-4 | 12 (6) - 12 (4) | 2-2 |
 | 2026-10-24 | Bundesliga | FSV Mainz 05 2-3 Werder Bremen | fuera | 7-6 | 17 (8) - 18 (8) | 1-2 |
-| 2026-10-17 | Bundesliga | Werder Bremen 2-2 SC Paderborn 07 | casa | 5-3 | 18 (11) - 11 (4) | 1-1 |
 
 ## Jugadores de Werder Bremen
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| M. Friedl | D | 12 | 1080 | 1 | 0 | 7 | 0,6 | 2 | 0,2 | 13 | 8 | 0,7 | 1 | 0 |
-| A. Pieper | D | 12 | 998 | 0 | 0 | 5 | 0,4 | 1 | 0,1 | 3 | 4 | 0,3 | 2 | 0 |
-| K. Hein | G | 11 | 990 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 0 | 6 | 0,5 | 0 | 0 |
-| L. Reis | M | 12 | 970 | 3 | 1 | 13 | 1,1 | 6 | 0,5 | 13 | 8 | 0,7 | 2 | 0 |
-| N. Füllkrug | F | 12 | 927 | 13 | 1 | 42 | 3,5 | 25 | 2,1 | 25 | 9 | 0,8 | 2 | 0 |
-| O. Deman | D | 11 | 926 | 0 | 1 | 8 | 0,7 | 4 | 0,4 | 11 | 6 | 0,5 | 3 | 0 |
-| Chuky San José | M | 12 | 860 | 0 | 2 | 16 | 1,3 | 7 | 0,6 | 9 | 9 | 0,8 | 2 | 0 |
-| Y. Regeer | M | 10 | 859 | 0 | 1 | 10 | 1,0 | 4 | 0,4 | 8 | 8 | 0,8 | 2 | 0 |
+| M. Friedl | D | 13 | 1170 | 1 | 0 | 7 | 0,5 | 2 | 0,2 | 13 | 8 | 0,6 | 1 | 0 |
+| A. Pieper | D | 13 | 1088 | 0 | 0 | 6 | 0,5 | 2 | 0,2 | 3 | 4 | 0,3 | 2 | 0 |
+| K. Hein | G | 12 | 1080 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 0 | 6 | 0,5 | 0 | 0 |
+| L. Reis | M | 13 | 1060 | 3 | 1 | 15 | 1,2 | 7 | 0,5 | 14 | 9 | 0,7 | 2 | 0 |
+| N. Füllkrug | F | 13 | 1017 | 14 | 1 | 47 | 3,6 | 26 | 2,0 | 27 | 10 | 0,8 | 3 | 0 |
+| O. Deman | D | 12 | 998 | 0 | 1 | 11 | 0,9 | 4 | 0,3 | 11 | 7 | 0,6 | 3 | 0 |
+| Y. Regeer | M | 11 | 945 | 0 | 1 | 10 | 0,9 | 4 | 0,4 | 10 | 9 | 0,8 | 2 | 0 |
+| Chuky San José | M | 13 | 939 | 0 | 2 | 17 | 1,3 | 8 | 0,6 | 9 | 11 | 0,8 | 2 | 0 |
+| Arthur | D | 11 | 932 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 5 | 10 | 0,9 | 3 | 0 |
 | M. Grüll | M | 11 | 858 | 2 | 7 | 21 | 1,9 | 7 | 0,6 | 13 | 18 | 1,6 | 2 | 0 |
-| Arthur | D | 10 | 842 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 4 | 9 | 0,9 | 3 | 0 |
-| E. Dinkçi | M | 11 | 686 | 2 | 1 | 13 | 1,2 | 4 | 0,4 | 2 | 4 | 0,4 | 0 | 0 |
-| Mick Schmetgens | D | 10 | 376 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 8 | 0,8 | 0 | 0 |
+| E. Dinkçi | M | 12 | 776 | 4 | 1 | 17 | 1,4 | 6 | 0,5 | 2 | 6 | 0,5 | 0 | 0 |
+| Mick Schmetgens | D | 11 | 421 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 4 | 9 | 0,8 | 1 | 0 |
 | J. Njinmah | M | 4 | 245 | 2 | 0 | 8 | 2,0 | 5 | 1,2 | 1 | 7 | 1,8 | 0 | 0 |
-| M. Weiser | M | 7 | 210 | 1 | 0 | 8 | 1,1 | 4 | 0,6 | 1 | 6 | 0,9 | 0 | 0 |
-| S. Lynen | M | 5 | 205 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 3 | 0,6 | 0 | 0 |
+| M. Weiser | D | 8 | 228 | 1 | 0 | 9 | 1,1 | 5 | 0,6 | 4 | 6 | 0,8 | 0 | 0 |
+| S. Lynen | M | 6 | 209 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 3 | 0,5 | 0 | 0 |
+| C. Itten | F | 10 | 196 | 0 | 0 | 8 | 0,8 | 3 | 0,3 | 5 | 2 | 0,2 | 0 | 0 |
 | Dariusz Stalmach | M | 8 | 187 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 5 | 2 | 0,2 | 1 | 0 |
-| C. Itten | F | 9 | 185 | 0 | 0 | 7 | 0,8 | 2 | 0,2 | 5 | 2 | 0,2 | 0 | 0 |
+| P. Erevbenagie | M | 7 | 148 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 2 | 2 | 0,3 | 0 | 0 |
 | O. Wójcik | D | 5 | 116 | 0 | 1 | 3 | 0,6 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
-| P. Erevbenagie | F | 6 | 103 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 2 | 2 | 0,3 | 0 | 0 |
 | Alexander Schlager | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |

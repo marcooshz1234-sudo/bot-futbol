@@ -1,7 +1,7 @@
 # Nacional – Benfica
 **Primeira Liga** · Regular Season - 13 · 05/12/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Nacional (total) | Nacional en casa | Benfica (total) | Benfica fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 23 | 13 |
-| Forma (últimos 5) | VDVDD | VVDDD | DVVVV | DVVVV |
-| Balance | 3V 1E 8D | 3V 0E 3D | 18V 2E 3D | 9V 1E 3D |
-| Goles a favor / partido | 0,92 | 1,17 | 2,83 | 2,62 |
-| Goles en contra / partido | 1,67 | 1,67 | 1,04 | 1,23 |
-| Goles a favor 1ª parte | 0,42 | 0,33 | 1,09 | 0,77 |
-| Goles a favor 2ª parte | 0,50 | 0,83 | 1,74 | 1,85 |
-| Goles en contra 1ª parte | 1,00 | 1,17 | 0,39 | 0,54 |
-| Goles en contra 2ª parte | 0,67 | 0,50 | 0,65 | 0,69 |
-| Más de 1,5 goles | 58% | 67% | 96% | 100% |
-| Más de 2,5 goles | 42% | 50% | 83% | 85% |
-| Más de 3,5 goles | 42% | 50% | 65% | 62% |
-| Ambos marcan | 33% | 33% | 65% | 62% |
-| Portería a cero | 25% | 50% | 30% | 31% |
-| Se queda sin marcar | 42% | 17% | 4% | 8% |
-| xG a favor | 1,02 | 1,33 | 2,10 | 1,70 |
-| xG en contra | 1,65 | 1,32 | 0,90 | 0,99 |
-| Tiros / partido | 10,8 | 13,7 | 19,8 | 16,8 |
+| Partidos analizados | 13 | 6 | 23 | 13 |
+| Forma (últimos 5) | VVDVD | VVDDD | DVVVV | DVVVV |
+| Balance | 4V 1E 8D | 3V 0E 3D | 18V 2E 3D | 9V 1E 3D |
+| Goles a favor / partido | 1,00 | 1,17 | 2,83 | 2,62 |
+| Goles en contra / partido | 1,62 | 1,67 | 1,04 | 1,23 |
+| Goles a favor 1ª parte | 0,46 | 0,33 | 1,09 | 0,77 |
+| Goles a favor 2ª parte | 0,54 | 0,83 | 1,74 | 1,85 |
+| Goles en contra 1ª parte | 0,92 | 1,17 | 0,39 | 0,54 |
+| Goles en contra 2ª parte | 0,69 | 0,50 | 0,65 | 0,69 |
+| Más de 1,5 goles | 62% | 67% | 96% | 100% |
+| Más de 2,5 goles | 46% | 50% | 83% | 85% |
+| Más de 3,5 goles | 38% | 50% | 65% | 62% |
+| Ambos marcan | 38% | 33% | 65% | 62% |
+| Portería a cero | 23% | 50% | 30% | 31% |
+| Se queda sin marcar | 38% | 17% | 4% | 8% |
+| xG a favor | 0,99 | 1,33 | 2,10 | 1,70 |
+| xG en contra | 1,60 | 1,32 | 0,90 | 0,99 |
+| Tiros / partido | 10,6 | 13,7 | 19,8 | 16,8 |
 | Tiros a puerta / partido | 3,3 | 4,0 | 7,0 | 5,8 |
 | Tiros recibidos | 14,5 | 12,7 | 9,3 | 10,5 |
-| Tiros a puerta recibidos | 5,7 | 5,2 | 3,6 | 4,0 |
-| Posesión media % | 47 | 50 | 62 | 61 |
-| Córners a favor | 4,3 | 5,0 | 7,2 | 5,7 |
-| Córners en contra | 5,1 | 3,3 | 3,0 | 3,2 |
-| Córners a favor 1ª parte | 2,3 | 2,3 | 3,9 | 2,7 |
-| Córners a favor 2ª parte | 2,0 | 2,7 | 3,3 | 3,0 |
+| Tiros a puerta recibidos | 5,6 | 5,2 | 3,6 | 4,0 |
+| Posesión media % | 46 | 50 | 62 | 61 |
+| Córners a favor | 4,0 | 5,0 | 7,2 | 5,7 |
+| Córners en contra | 5,4 | 3,3 | 3,0 | 3,2 |
+| Córners a favor 1ª parte | 2,2 | 2,3 | 3,9 | 2,7 |
+| Córners a favor 2ª parte | 1,8 | 2,7 | 3,3 | 3,0 |
 | Córners totales del partido | 9,4 | 8,3 | 10,2 | 8,8 |
-| Córners totales 1ª parte | 5,1 | 4,0 | 5,0 | 4,0 |
-| Córners totales 2ª parte | 4,3 | 4,3 | 5,1 | 4,8 |
-| Más de 8,5 córners | 64% | 67% | 70% | 54% |
-| Más de 9,5 córners | 64% | 67% | 57% | 46% |
-| Más de 10,5 córners | 27% | 17% | 52% | 38% |
-| Faltas cometidas | 11,4 | 11,5 | 11,3 | 11,6 |
-| Faltas recibidas | 11,4 | 11,5 | 14,3 | 14,5 |
-| Amarillas propias | 1,6 | 2,0 | 1,9 | 2,2 |
-| Amarillas del rival | 2,5 | 2,8 | 2,4 | 2,5 |
-| Rojas / partido | 0,09 | 0,17 | 0,09 | 0,15 |
+| Córners totales 1ª parte | 4,9 | 4,0 | 5,0 | 4,0 |
+| Córners totales 2ª parte | 4,5 | 4,3 | 5,1 | 4,8 |
+| Más de 8,5 córners | 67% | 67% | 70% | 54% |
+| Más de 9,5 córners | 67% | 67% | 57% | 46% |
+| Más de 10,5 córners | 25% | 17% | 52% | 38% |
+| Faltas cometidas | 11,3 | 11,5 | 11,3 | 11,6 |
+| Faltas recibidas | 11,9 | 11,5 | 14,3 | 14,5 |
+| Amarillas propias | 1,9 | 2,0 | 1,9 | 2,2 |
+| Amarillas del rival | 2,7 | 2,8 | 2,4 | 2,5 |
+| Rojas / partido | 0,08 | 0,17 | 0,09 | 0,15 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Nacional | Recibe Nacional | Tarjetas Nacional | Goles Benfica | Recibe Benfica | Tarjetas Benfica |
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 3 | 0 | 10 | 1 | 4 |
 | 16-30' | 1 | 2 | 0 | 7 | 1 | 5 |
-| 31-45' | 3 | 7 | 5 | 8 | 7 | 9 |
-| 46-60' | 1 | 2 | 4 | 15 | 7 | 7 |
-| 61-75' | 2 | 4 | 4 | 12 | 4 | 9 |
-| 76-90' | 3 | 2 | 8 | 13 | 4 | 15 |
+| 31-45' | 4 | 7 | 6 | 8 | 7 | 9 |
+| 46-60' | 2 | 2 | 5 | 15 | 7 | 7 |
+| 61-75' | 2 | 4 | 6 | 12 | 4 | 9 |
+| 76-90' | 3 | 3 | 9 | 13 | 4 | 15 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -73,36 +73,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Nacional
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-27 | Primeira Liga | Maritimo 1-2 Nacional | fuera | 1-9 | 8 (4) - 14 (4) | 5-5 |
 | 2026-11-08 | Primeira Liga | Nacional 1-0 Academico Viseu | casa | 6-4 | 19 (6) - 11 (6) | 3-4 |
 | 2026-11-01 | Primeira Liga | Arouca 1-0 Nacional | fuera | 2-8 | 5 (1) - 12 (5) | 2-2 |
 | 2026-10-25 | Primeira Liga | Nacional 1-0 SC Braga | casa | 4-6 | 8 (4) - 20 (2) | 2-2 |
 | 2026-10-17 | Taça de Portugal | Sanjoanense 1-0 Nacional | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-11 | Primeira Liga | Rio Ave 3-2 Nacional | fuera | 8-8 | 12 (5) - 11 (7) | 0-2 |
-| 2026-09-19 | Primeira Liga | Nacional 0-4 Famalicao | casa | 7-3 | 12 (3) - 12 (7) | 3-3 |
 
 ## Jugadores de Nacional
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Renato Bellucci | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| Zé Vitor | D | 11 | 945 | 1 | 0 | 8 | 0,7 | 1 | 0,1 | 10 | 4 | 0,4 | 2 | 0 |
-| Matheus Dias | M | 10 | 817 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 14 | 4 | 0,4 | 4 | 1 |
-| Miguel Baeza | M | 11 | 802 | 2 | 0 | 9 | 0,8 | 6 | 0,5 | 3 | 7 | 0,6 | 0 | 0 |
-| W. Kokolo | D | 9 | 697 | 0 | 1 | 3 | 0,3 | 0 | 0,0 | 7 | 4 | 0,4 | 2 | 0 |
-| Francisco Gonçalves | D | 7 | 630 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 8 | 2 | 0,3 | 1 | 0 |
-| M. Jensen | D | 9 | 602 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 5 | 15 | 1,7 | 1 | 0 |
-| Pablo Ruan | F | 10 | 549 | 1 | 1 | 8 | 0,8 | 4 | 0,4 | 10 | 5 | 0,5 | 0 | 0 |
+| Renato Bellucci | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 1 | 0 |
+| Zé Vitor | D | 12 | 1035 | 1 | 0 | 9 | 0,8 | 2 | 0,2 | 10 | 4 | 0,3 | 2 | 0 |
+| Matheus Dias | M | 11 | 907 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 16 | 5 | 0,5 | 4 | 1 |
+| Miguel Baeza | M | 12 | 892 | 2 | 1 | 10 | 0,8 | 6 | 0,5 | 4 | 7 | 0,6 | 1 | 0 |
+| W. Kokolo | D | 10 | 756 | 0 | 1 | 3 | 0,3 | 0 | 0,0 | 9 | 5 | 0,5 | 3 | 0 |
+| Francisco Gonçalves | D | 8 | 720 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 9 | 4 | 0,5 | 2 | 0 |
+| M. Jensen | D | 10 | 669 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 6 | 18 | 1,8 | 1 | 0 |
+| Pablo Ruan | F | 11 | 616 | 1 | 1 | 8 | 0,7 | 4 | 0,4 | 10 | 7 | 0,6 | 0 | 0 |
+| C. Labidi | M | 8 | 535 | 0 | 1 | 8 | 1,0 | 3 | 0,4 | 13 | 7 | 0,9 | 0 | 0 |
+| Wesley Gasolina | D | 8 | 519 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 3 | 7 | 0,9 | 1 | 0 |
+| S. Gavriel | M | 12 | 509 | 0 | 0 | 10 | 0,8 | 5 | 0,4 | 8 | 9 | 0,8 | 2 | 0 |
 | Daniel Júnior | M | 10 | 501 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 2 | 23 | 2,3 | 1 | 0 |
-| Wesley Gasolina | D | 7 | 496 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 3 | 7 | 1,0 | 1 | 0 |
-| S. Gavriel | F | 11 | 486 | 0 | 0 | 9 | 0,8 | 4 | 0,4 | 8 | 8 | 0,7 | 2 | 0 |
-| C. Labidi | M | 7 | 445 | 0 | 0 | 8 | 1,1 | 3 | 0,4 | 12 | 5 | 0,7 | 0 | 0 |
+| Song Min-Kyu | F | 7 | 468 | 1 | 1 | 9 | 1,3 | 3 | 0,4 | 4 | 6 | 0,9 | 0 | 0 |
 | Léo Santos | D | 5 | 405 | 1 | 1 | 5 | 1,0 | 1 | 0,2 | 6 | 2 | 0,4 | 0 | 0 |
-| Song Min-Kyu | F | 6 | 398 | 0 | 1 | 5 | 0,8 | 2 | 0,3 | 4 | 5 | 0,8 | 0 | 0 |
+| N. Kader | F | 5 | 390 | 2 | 0 | 5 | 1,0 | 3 | 0,6 | 7 | 6 | 1,2 | 0 | 0 |
+| Matchoi Djaló | M | 10 | 344 | 2 | 0 | 6 | 0,6 | 4 | 0,4 | 5 | 6 | 0,6 | 2 | 0 |
 | Liziero | M | 4 | 338 | 1 | 1 | 3 | 0,8 | 2 | 0,5 | 8 | 7 | 1,8 | 0 | 0 |
-| Matchoi Djaló | M | 9 | 324 | 2 | 0 | 6 | 0,7 | 4 | 0,4 | 4 | 5 | 0,6 | 1 | 0 |
-| N. Kader | F | 4 | 320 | 2 | 0 | 5 | 1,2 | 3 | 0,8 | 5 | 3 | 0,8 | 0 | 0 |
 | Filipe Soares | M | 4 | 249 | 0 | 0 | 3 | 0,8 | 0 | 0,0 | 5 | 7 | 1,8 | 2 | 0 |
+| A. Obando | F | 8 | 211 | 0 | 0 | 5 | 0,6 | 2 | 0,2 | 1 | 4 | 0,5 | 0 | 0 |
 | Deivison | M | 6 | 206 | 0 | 0 | 4 | 0,7 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
-| A. Obando | F | 7 | 191 | 0 | 0 | 5 | 0,7 | 2 | 0,3 | 1 | 3 | 0,4 | 0 | 0 |
 
 ## Últimos partidos de Benfica
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

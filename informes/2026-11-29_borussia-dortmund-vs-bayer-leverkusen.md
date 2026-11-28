@@ -1,10 +1,10 @@
 # Borussia Dortmund – Bayer Leverkusen
 **Bundesliga** · Regular Season - 11 · 29/11/2026 19:30 (hora España) · Signal Iduna Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 22:15_
+_Actualizadas: 28/11 08:44_
 
 - **1X2:** 1 **2.10**  ·  X **4.00**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.22**  ·  X2 **1.70**
@@ -64,7 +64,7 @@ _Actualizadas: 27/11 22:15_
 - **Total Shots:**
     - 27,5: más **1.83** · menos **1.83**
     - 28,5: más **1.83** · menos **1.83**
-- **Shots.1x2:** 1 **1.50**  ·  X **15.00**  ·  2 **2.60**
+- **Shots.1x2:** 1 **1.40**  ·  X **17.00**  ·  2 **3.00**
 - **Away Player Shots On Target Total:** Enzo Duarte **41.00**  ·  Malik Tillman **26.00**  ·  Eliesse Ben Seghir **34.00**  ·  Kaua Prates **67.00**  ·  Daniel Svensson **29.00**  ·  Loic Bade **19.00**  ·  Ibrahim Maza **21.00**  ·  Guela Doue **29.00**  ·  Mathis Albert **29.00**  ·  Samuele Inacio **23.00**  ·  Aleix Garcia **126.00**  ·  Montrell Culbreath **41.00**  ·  Jobe Bellingham **23.00**  ·  Facundo Medina **21.00**  ·  Kouakou Gadou **12.00**  ·  Konstantinos Karetsas **29.00**  ·  Filippo Mane **21.00**  ·  Joey Veerman **41.00**  ·  Miguel Gutierrez **81.00**  ·  Moussa Diaby **29.00**  ·  Ezequiel Fernandez **67.00**  ·  Luca Reggiani **15.00**  ·  Jarell Quansah **15.00**  ·  Gabriel Minutillo **34.00**  ·  Dustin Buck **41.00**  ·  Carney Chukwuemeka **41.00**  ·  Vazquez Lucas **34.00**  ·  Fabio Silva **11.00**  ·  Ethan Nwaneri **29.00**  ·  Edmond Tapsoba **17.00**  ·  Jonas Hofmann **41.00**  ·  Martin Terrier **21.00**  ·  Nathan Tella **23.00**  ·  Patrik Schick **5.50**  ·  Robert Andrich **51.00**  ·  Victor Boniface **13.00**  ·  Tim Oermann **29.00**  ·  Felix Nmecha **51.00**  ·  Julian Ryerson **26.00**  ·  Marcel Sabitzer **51.00**  ·  Maximilian Beier **15.00**  ·  Nico Schlotterbeck **11.00**  ·  Ramy Bensebaini **21.00**  ·  Serhou Guirassy **5.50**  ·  Waldemar Anton **17.00**  ·  Christian Kofane **15.00**  ·  Afonso Moreira **19.00**
 - **Away Player Shots Total:**
     - 11,5: más **1.80** · menos **1.91**

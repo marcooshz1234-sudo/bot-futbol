@@ -1,10 +1,10 @@
 # Telstar – Groningen
 **Eredivisie** · Regular Season - 15 · 04/12/2026 20:00 (hora España) · BUKO Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:05_
+_Actualizadas: 28/11 08:45_
 
 - **1X2:** 1 **2.75**  ·  X **3.70**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.40**
@@ -21,16 +21,6 @@ _Actualizadas: 26/11 23:05_
     - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **11.00** · menos **1.05**
-- **Goles del local:**
-    - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.91** · menos **1.80**
-    - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **10.00** · menos **1.06**
-- **Goles del visitante:**
-    - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.40** · menos **1.30**
-    - 3,5: más **8.00** · menos **1.08**
 - **1X2 descanso:** 1 **3.10**  ·  X **2.50**  ·  2 **2.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**

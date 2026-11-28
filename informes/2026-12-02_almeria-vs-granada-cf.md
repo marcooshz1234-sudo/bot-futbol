@@ -1,10 +1,12 @@
 # Almeria – Granada CF
 **Copa del Rey** · Round of 64 · 02/12/2026 20:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/11 08:44_
+
+- **1X2:** 1 **1.50**  ·  X **3.00**  ·  2 **1.50**
 
 ## Estadísticas de equipo
 | | Almeria (total) | Almeria en casa | Granada CF (total) | Granada CF fuera |

@@ -1147,5 +1147,68 @@
  "Malaga|Spain": [
   36.72016,
   -4.42034
+ ],
+ "Cadiz|Spain": [
+  36.52672,
+  -6.2891
+ ],
+ "Freiburg|Germany": [
+  47.9959,
+  7.85222
+ ],
+ "The Hague|Netherlands": [
+  52.07667,
+  4.29861
+ ],
+ "Lyon|France": [
+  45.74906,
+  4.84789
+ ],
+ "Auxerre|France": [
+  47.7996,
+  3.57033
+ ],
+ "Dortmund|Germany": [
+  51.51494,
+  7.466
+ ],
+ "Toulouse|France": [
+  43.60426,
+  1.44367
+ ],
+ "Zwolle|Netherlands": [
+  52.5125,
+  6.09444
+ ],
+ "Udine|Italy": [
+  46.0693,
+  13.23715
+ ],
+ "Valdivia|Spain": null,
+ "Sinsheim|Germany": [
+  49.2529,
+  8.87867
+ ],
+ "Falmer|England": null,
+ "Hobro|Denmark": [
+  56.64306,
+  9.79029
+ ],
+ "La Coruna|Spain": [
+  43.37135,
+  -8.396
+ ],
+ "Sitard|Netherlands": null,
+ "Sunderland|England": [
+  54.90465,
+  -1.38222
+ ],
+ "Galati|Romania": [
+  45.43687,
+  28.05028
+ ],
+ "Felgueiras|Portugal": [
+  41.36806,
+  -8.19396
  ]
 }

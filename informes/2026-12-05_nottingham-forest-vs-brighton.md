@@ -1,7 +1,7 @@
 # Nottingham Forest – Brighton
 **Premier League** · Regular Season - 14 · 05/12/2026 18:30 (hora España) · City Ground
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Nottingham Forest (total) | Nottingham Forest en casa | Brighton (total) | Brighton fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 19 | 11 |
-| Forma (últimos 5) | DVDED | VDDED | VDVVV | DVVED |
-| Balance | 2V 3E 7D | 1V 1E 4D | 12V 4E 3D | 5V 3E 3D |
-| Goles a favor / partido | 0,75 | 0,50 | 2,32 | 1,55 |
-| Goles en contra / partido | 1,42 | 1,00 | 0,68 | 1,09 |
-| Goles a favor 1ª parte | 0,42 | 0,33 | 1,21 | 0,45 |
-| Goles a favor 2ª parte | 0,33 | 0,17 | 1,11 | 1,09 |
-| Goles en contra 1ª parte | 0,50 | 0,00 | 0,47 | 0,73 |
-| Goles en contra 2ª parte | 0,92 | 1,00 | 0,21 | 0,36 |
-| Más de 1,5 goles | 67% | 33% | 79% | 64% |
-| Más de 2,5 goles | 33% | 17% | 53% | 36% |
-| Más de 3,5 goles | 25% | 17% | 47% | 36% |
-| Ambos marcan | 42% | 17% | 21% | 27% |
-| Portería a cero | 8% | 17% | 68% | 55% |
-| Se queda sin marcar | 58% | 83% | 21% | 36% |
-| xG a favor | 1,59 | 0,98 | 2,08 | 1,68 |
-| xG en contra | 1,40 | 1,31 | 1,10 | 1,28 |
-| Tiros / partido | 15,8 | 13,5 | 19,1 | 16,7 |
-| Tiros a puerta / partido | 3,3 | 2,8 | 5,8 | 4,7 |
-| Tiros recibidos | 11,0 | 11,0 | 9,7 | 12,2 |
-| Tiros a puerta recibidos | 3,6 | 2,7 | 3,0 | 4,2 |
-| Posesión media % | 45 | 42 | 63 | 60 |
-| Córners a favor | 4,3 | 4,2 | 6,1 | 5,0 |
-| Córners en contra | 4,3 | 4,8 | 3,8 | 4,5 |
-| Córners a favor 1ª parte | 1,9 | 1,8 | 2,8 | 2,5 |
-| Córners a favor 2ª parte | 2,4 | 2,3 | 3,3 | 2,5 |
-| Córners totales del partido | 8,7 | 9,0 | 9,9 | 9,5 |
-| Córners totales 1ª parte | 4,2 | 4,0 | 4,4 | 4,6 |
-| Córners totales 2ª parte | 4,4 | 5,0 | 5,5 | 4,9 |
-| Más de 8,5 córners | 42% | 50% | 63% | 55% |
-| Más de 9,5 córners | 42% | 50% | 58% | 55% |
-| Más de 10,5 córners | 25% | 33% | 37% | 27% |
-| Faltas cometidas | 14,2 | 15,2 | 13,3 | 14,0 |
-| Faltas recibidas | 10,7 | 10,8 | 8,4 | 7,5 |
-| Amarillas propias | 2,6 | 2,5 | 2,2 | 2,3 |
-| Amarillas del rival | 1,5 | 1,2 | 1,2 | 0,8 |
+| Partidos analizados | 13 | 7 | 19 | 11 |
+| Forma (últimos 5) | VDVDE | VVDDE | VDVVV | DVVED |
+| Balance | 3V 3E 7D | 2V 1E 4D | 12V 4E 3D | 5V 3E 3D |
+| Goles a favor / partido | 0,92 | 0,86 | 2,32 | 1,55 |
+| Goles en contra / partido | 1,46 | 1,14 | 0,68 | 1,09 |
+| Goles a favor 1ª parte | 0,46 | 0,43 | 1,21 | 0,45 |
+| Goles a favor 2ª parte | 0,46 | 0,43 | 1,11 | 1,09 |
+| Goles en contra 1ª parte | 0,46 | 0,00 | 0,47 | 0,73 |
+| Goles en contra 2ª parte | 1,00 | 1,14 | 0,21 | 0,36 |
+| Más de 1,5 goles | 69% | 43% | 79% | 64% |
+| Más de 2,5 goles | 38% | 29% | 53% | 36% |
+| Más de 3,5 goles | 31% | 29% | 47% | 36% |
+| Ambos marcan | 46% | 29% | 21% | 27% |
+| Portería a cero | 8% | 14% | 68% | 55% |
+| Se queda sin marcar | 54% | 71% | 21% | 36% |
+| xG a favor | 1,59 | 1,06 | 2,08 | 1,68 |
+| xG en contra | 1,39 | 1,31 | 1,10 | 1,28 |
+| Tiros / partido | 15,3 | 13,0 | 19,1 | 16,7 |
+| Tiros a puerta / partido | 3,6 | 3,4 | 5,8 | 4,7 |
+| Tiros recibidos | 10,8 | 10,7 | 9,7 | 12,2 |
+| Tiros a puerta recibidos | 3,5 | 2,7 | 3,0 | 4,2 |
+| Posesión media % | 45 | 41 | 63 | 60 |
+| Córners a favor | 4,1 | 3,7 | 6,1 | 5,0 |
+| Córners en contra | 4,2 | 4,4 | 3,8 | 4,5 |
+| Córners a favor 1ª parte | 1,8 | 1,7 | 2,8 | 2,5 |
+| Córners a favor 2ª parte | 2,2 | 2,0 | 3,3 | 2,5 |
+| Córners totales del partido | 8,2 | 8,1 | 9,9 | 9,5 |
+| Córners totales 1ª parte | 4,1 | 3,7 | 4,4 | 4,6 |
+| Córners totales 2ª parte | 4,2 | 4,4 | 5,5 | 4,9 |
+| Más de 8,5 córners | 38% | 43% | 63% | 55% |
+| Más de 9,5 córners | 38% | 43% | 58% | 55% |
+| Más de 10,5 córners | 23% | 29% | 37% | 27% |
+| Faltas cometidas | 14,2 | 15,1 | 13,3 | 14,0 |
+| Faltas recibidas | 10,7 | 10,9 | 8,4 | 7,5 |
+| Amarillas propias | 2,5 | 2,4 | 2,2 | 2,3 |
+| Amarillas del rival | 1,6 | 1,4 | 1,2 | 0,8 |
 | Rojas / partido | 0,00 | 0,00 | 0,11 | 0,18 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Nottingham Forest | Recibe Nottingham Forest | Tarjetas Nottingham Forest | Goles Brighton | Recibe Brighton | Tarjetas Brighton |
 |---|---|---|---|---|---|---|
-| 1-15' | 3 | 0 | 0 | 7 | 5 | 3 |
+| 1-15' | 4 | 0 | 0 | 7 | 5 | 3 |
 | 16-30' | 2 | 2 | 2 | 4 | 2 | 4 |
 | 31-45' | 0 | 4 | 5 | 12 | 2 | 8 |
-| 46-60' | 1 | 5 | 8 | 6 | 0 | 9 |
-| 61-75' | 2 | 2 | 6 | 9 | 2 | 7 |
-| 76-90' | 1 | 4 | 10 | 6 | 2 | 14 |
+| 46-60' | 2 | 6 | 8 | 6 | 0 | 9 |
+| 61-75' | 3 | 2 | 6 | 9 | 2 | 7 |
+| 76-90' | 1 | 5 | 12 | 6 | 2 | 14 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -74,34 +74,34 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Nottingham Forest
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-27 | Premier League | Nottingham Forest 3-2 Chelsea | casa | 1-2 | 10 (7) - 9 (3) | 2-3 |
 | 2026-11-21 | Premier League | Bournemouth 2-0 Nottingham Forest | fuera | 4-6 | 18 (1) - 19 (7) | 3-1 |
 | 2026-11-07 | Premier League | Nottingham Forest 3-1 Manchester City | casa | 3-7 | 11 (5) - 12 (4) | 4-0 |
 | 2026-10-31 | Premier League | Brentford 2-0 Nottingham Forest | fuera | 4-3 | 15 (1) - 7 (1) | 3-1 |
 | 2026-10-23 | Premier League | Ipswich 1-1 Nottingham Forest | fuera | 5-0 | 17 (5) - 7 (3) | 1-1 |
 | 2026-10-18 | Premier League | Nottingham Forest 0-1 Arsenal | casa | 8-6 | 14 (2) - 9 (1) | 1-1 |
-| 2026-10-11 | Premier League | Crystal Palace 3-1 Nottingham Forest | fuera | 8-5 | 24 (6) - 13 (7) | 2-2 |
 
 ## Jugadores de Nottingham Forest
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| M. Sels | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| N. Williams | M | 12 | 1045 | 1 | 0 | 11 | 0,9 | 2 | 0,2 | 13 | 17 | 1,4 | 1 | 0 |
-| Murillo | D | 12 | 1018 | 0 | 1 | 15 | 1,2 | 5 | 0,4 | 17 | 4 | 0,3 | 5 | 0 |
-| J. McAtee | M | 11 | 910 | 0 | 0 | 15 | 1,4 | 5 | 0,5 | 11 | 17 | 1,5 | 4 | 0 |
-| M. Gibbs-White | M | 10 | 900 | 1 | 3 | 16 | 1,6 | 4 | 0,4 | 6 | 11 | 1,1 | 0 | 0 |
-| Jair | D | 10 | 895 | 1 | 0 | 6 | 0,6 | 3 | 0,3 | 9 | 8 | 0,8 | 3 | 0 |
-| X. Schlager | M | 12 | 892 | 0 | 1 | 8 | 0,7 | 1 | 0,1 | 13 | 8 | 0,7 | 2 | 0 |
-| L. Delap | F | 10 | 770 | 3 | 0 | 25 | 2,5 | 5 | 0,5 | 19 | 12 | 1,2 | 3 | 0 |
-| N. Milenković | D | 8 | 720 | 0 | 0 | 4 | 0,5 | 0 | 0,0 | 13 | 6 | 0,8 | 2 | 0 |
-| D. Ndoye | M | 12 | 700 | 2 | 0 | 18 | 1,5 | 4 | 0,3 | 14 | 10 | 0,8 | 2 | 0 |
-| D. Muñoz | M | 9 | 666 | 0 | 1 | 7 | 0,8 | 1 | 0,1 | 13 | 2 | 0,2 | 2 | 0 |
+| M. Sels | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| N. Williams | M | 13 | 1135 | 1 | 0 | 11 | 0,8 | 2 | 0,2 | 14 | 17 | 1,3 | 1 | 0 |
+| Murillo | D | 13 | 1108 | 0 | 1 | 16 | 1,2 | 6 | 0,5 | 17 | 5 | 0,4 | 5 | 0 |
+| J. McAtee | M | 12 | 999 | 0 | 0 | 17 | 1,4 | 7 | 0,6 | 12 | 22 | 1,8 | 4 | 0 |
+| M. Gibbs-White | M | 11 | 990 | 3 | 3 | 21 | 1,9 | 6 | 0,5 | 9 | 11 | 1,0 | 0 | 0 |
+| Jair | D | 11 | 985 | 1 | 0 | 6 | 0,5 | 3 | 0,3 | 9 | 9 | 0,8 | 3 | 0 |
+| X. Schlager | M | 13 | 976 | 0 | 2 | 8 | 0,6 | 1 | 0,1 | 14 | 8 | 0,6 | 2 | 0 |
+| L. Delap | F | 11 | 854 | 3 | 0 | 26 | 2,4 | 6 | 0,5 | 23 | 14 | 1,3 | 4 | 0 |
+| N. Milenković | D | 9 | 810 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 13 | 6 | 0,7 | 2 | 0 |
+| D. Muñoz | M | 10 | 756 | 0 | 2 | 7 | 0,7 | 1 | 0,1 | 15 | 2 | 0,2 | 2 | 0 |
+| D. Ndoye | F | 13 | 718 | 2 | 0 | 18 | 1,4 | 4 | 0,3 | 14 | 10 | 0,8 | 2 | 0 |
 | O. Aina | D | 8 | 506 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 7 | 9 | 1,1 | 3 | 0 |
+| Igor Jesus | M | 9 | 436 | 2 | 0 | 12 | 1,3 | 7 | 0,8 | 11 | 9 | 1,0 | 2 | 0 |
 | O. Diomande | D | 6 | 404 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 6 | 1 | 0,2 | 0 | 0 |
-| Igor Jesus | F | 8 | 364 | 1 | 0 | 11 | 1,4 | 6 | 0,8 | 9 | 7 | 0,9 | 2 | 0 |
-| C. Wood | F | 10 | 219 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 2 | 3 | 0,3 | 0 | 0 |
-| R. Yates | M | 3 | 169 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 1 | 2 | 0,7 | 0 | 0 |
+| C. Wood | F | 11 | 225 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 2 | 3 | 0,3 | 0 | 0 |
+| R. Yates | M | 4 | 170 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 1 | 2 | 0,5 | 0 | 0 |
+| I. Sangaré | M | 7 | 169 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 6 | 2 | 0,3 | 1 | 0 |
 | N. Domínguez | M | 3 | 165 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 3 | 1 | 0,3 | 1 | 0 |
-| I. Sangaré | M | 6 | 163 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 5 | 2 | 0,3 | 0 | 0 |
 | L. Netz | D | 7 | 118 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 1 | 0,1 | 1 | 0 |
 | A. Kalimuendo | F | 5 | 115 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 2 | 0,4 | 0 | 0 |
 

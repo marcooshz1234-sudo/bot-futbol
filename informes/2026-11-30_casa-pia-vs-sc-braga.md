@@ -1,10 +1,10 @@
 # Casa Pia – SC Braga
-**Primeira Liga** · Regular Season - 12 · 30/11/2026 21:15 (hora España)
+**Primeira Liga** · Regular Season - 12 · 30/11/2026 21:15 (hora España) · Estadio Municipal de Rio Maior
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 22:15_
+_Actualizadas: 28/11 08:44_
 
 - **1X2:** 1 **7.00**  ·  X **4.00**  ·  2 **1.48**
 - **Doble oportunidad:** 1X **2.62**  ·  12 **1.22**  ·  X2 **1.10**

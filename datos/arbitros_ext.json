@@ -279,7 +279,7 @@
    8,
    4
   ],
-  "act": "2026-11-15"
+  "act": "2026-11-28"
  },
  "Enea Jorgji": {
   "tarjetas": [
@@ -507,16 +507,16 @@
  },
  "Robin Braun": {
   "tarjetas": [
+   3,
    1,
    8,
    5,
    4,
    4,
    6,
-   1,
-   4
+   1
   ],
-  "act": "2026-11-19"
+  "act": "2026-11-28"
  },
  "Matteo Marcenaro": {
   "tarjetas": [
@@ -1166,5 +1166,31 @@
    4
   ],
   "act": "2026-11-27"
+ },
+ "Alejandro Quintero Gonzalez": {
+  "tarjetas": [
+   5,
+   10,
+   5,
+   6,
+   11,
+   5,
+   9,
+   2
+  ],
+  "act": "2026-11-28"
+ },
+ "Miguel Angel Ortiz Arias": {
+  "tarjetas": [
+   5,
+   7,
+   3,
+   5,
+   8,
+   5,
+   5,
+   1
+  ],
+  "act": "2026-11-28"
  }
 }

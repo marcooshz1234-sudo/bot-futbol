@@ -4783,7 +4783,12 @@
   "analisis": {
    "liga": "La Liga",
    "prob_cuota": 0.129
-  }
+  },
+  "estado": null,
+  "marcador": [
+   1,
+   3
+  ]
  },
  {
   "tipster": "Tipster Pérez",
@@ -4808,7 +4813,12 @@
    "liga": "Premier League",
    "cuota_bet365": 1.3,
    "prob_cuota": 0.769
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   3,
+   2
+  ]
  },
  {
   "tipster": "Tipster Pérez",
@@ -4833,7 +4843,12 @@
   "analisis": {
    "liga": "La Liga",
    "prob_cuota": 0.769
-  }
+  },
+  "estado": null,
+  "marcador": [
+   1,
+   3
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
@@ -4857,7 +4872,12 @@
    "liga": "La Liga",
    "cuota_bet365": 1.4,
    "prob_cuota": 0.667
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   3
+  ]
  },
  {
   "tipster": "ICARDI | PICKS",
@@ -4881,7 +4901,12 @@
   "analisis": {
    "liga": "La Liga",
    "prob_cuota": 0.227
-  }
+  },
+  "estado": null,
+  "marcador": [
+   1,
+   3
+  ]
  },
  {
   "tipster": "ICARDI | PICKS",
@@ -4904,7 +4929,12 @@
   "analisis": {
    "liga": "La Liga",
    "prob_cuota": 0.015
-  }
+  },
+  "estado": null,
+  "marcador": [
+   1,
+   3
+  ]
  },
  {
   "tipster": "MERIDIANPICKS 🌐",
@@ -4924,7 +4954,12 @@
    "liga": "Serie A",
    "cuota_bet365": 3.0,
    "prob_cuota": 0.333
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   0,
+   0
+  ]
  },
  {
   "tipster": "CRIMINALPICKS🕵🏻‍♂️🏀⚽️🎾",
@@ -4944,7 +4979,12 @@
    "liga": "La Liga",
    "cuota_bet365": 4.0,
    "prob_cuota": 0.581
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   1,
+   3
+  ]
  },
  {
   "tipster": "CRIMINALPICKS🕵🏻‍♂️🏀⚽️🎾",
@@ -4964,6 +5004,11 @@
    "liga": "La Liga",
    "cuota_bet365": 1.8,
    "prob_cuota": 0.556
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   3
+  ]
  }
 ]

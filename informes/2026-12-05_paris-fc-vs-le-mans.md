@@ -1,7 +1,7 @@
 # Paris FC – Le Mans
 **Ligue 1** · Regular Season - 13 · 05/12/2026 20:45 (hora España) · Stade Jean Bouin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
 _Actualizadas: 27/11 22:18_
@@ -46,51 +46,51 @@ _Actualizadas: 27/11 22:18_
 ## Estadísticas de equipo
 | | Paris FC (total) | Paris FC en casa | Le Mans (total) | Le Mans fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 6 | 11 | 6 |
-| Forma (últimos 5) | VVVDV | VVVVE | VEDED | VDEDE |
-| Balance | 7V 2E 2D | 5V 1E 0D | 2V 5E 4D | 1V 2E 3D |
-| Goles a favor / partido | 1,91 | 2,67 | 1,36 | 1,33 |
-| Goles en contra / partido | 0,91 | 0,83 | 1,91 | 2,00 |
-| Goles a favor 1ª parte | 0,82 | 1,00 | 0,55 | 0,33 |
-| Goles a favor 2ª parte | 1,09 | 1,67 | 0,82 | 1,00 |
-| Goles en contra 1ª parte | 0,18 | 0,17 | 0,91 | 1,17 |
-| Goles en contra 2ª parte | 0,73 | 0,67 | 1,00 | 0,83 |
-| Más de 1,5 goles | 64% | 83% | 100% | 100% |
-| Más de 2,5 goles | 64% | 83% | 64% | 50% |
-| Más de 3,5 goles | 36% | 50% | 45% | 50% |
-| Ambos marcan | 45% | 50% | 82% | 83% |
-| Portería a cero | 45% | 50% | 0% | 0% |
-| Se queda sin marcar | 27% | 17% | 18% | 17% |
+| Partidos analizados | 12 | 6 | 11 | 6 |
+| Forma (últimos 5) | DVVVD | VVVVE | VEDED | VDEDE |
+| Balance | 7V 2E 3D | 5V 1E 0D | 2V 5E 4D | 1V 2E 3D |
+| Goles a favor / partido | 1,75 | 2,67 | 1,36 | 1,33 |
+| Goles en contra / partido | 0,92 | 0,83 | 1,91 | 2,00 |
+| Goles a favor 1ª parte | 0,75 | 1,00 | 0,55 | 0,33 |
+| Goles a favor 2ª parte | 1,00 | 1,67 | 0,82 | 1,00 |
+| Goles en contra 1ª parte | 0,25 | 0,17 | 0,91 | 1,17 |
+| Goles en contra 2ª parte | 0,67 | 0,67 | 1,00 | 0,83 |
+| Más de 1,5 goles | 58% | 83% | 100% | 100% |
+| Más de 2,5 goles | 58% | 83% | 64% | 50% |
+| Más de 3,5 goles | 33% | 50% | 45% | 50% |
+| Ambos marcan | 42% | 50% | 82% | 83% |
+| Portería a cero | 42% | 50% | 0% | 0% |
+| Se queda sin marcar | 33% | 17% | 18% | 17% |
 | xG a favor | 1,86 | 2,16 | 1,65 | 1,92 |
-| xG en contra | 0,94 | 1,01 | 1,90 | 2,16 |
-| Tiros / partido | 13,9 | 15,7 | 11,5 | 10,7 |
-| Tiros a puerta / partido | 5,3 | 7,2 | 4,2 | 3,8 |
-| Tiros recibidos | 9,3 | 9,2 | 14,5 | 15,0 |
+| xG en contra | 0,99 | 1,01 | 1,90 | 2,16 |
+| Tiros / partido | 14,2 | 15,7 | 11,5 | 10,7 |
+| Tiros a puerta / partido | 5,5 | 7,2 | 4,2 | 3,8 |
+| Tiros recibidos | 9,9 | 9,2 | 14,5 | 15,0 |
 | Tiros a puerta recibidos | 3,0 | 2,7 | 5,4 | 6,0 |
-| Posesión media % | 53 | 52 | 46 | 42 |
+| Posesión media % | 54 | 52 | 46 | 42 |
 | Córners a favor | 4,2 | 4,2 | 3,2 | 3,3 |
-| Córners en contra | 3,3 | 2,5 | 5,5 | 5,0 |
+| Córners en contra | 3,2 | 2,5 | 5,5 | 5,0 |
 | Córners a favor 1ª parte | 2,2 | 2,5 | 1,6 | 2,0 |
 | Córners a favor 2ª parte | 2,0 | 1,7 | 1,5 | 1,3 |
 | Córners totales del partido | 7,5 | 6,7 | 8,7 | 8,3 |
-| Córners totales 1ª parte | 3,3 | 2,8 | 3,7 | 3,7 |
-| Córners totales 2ª parte | 4,2 | 3,8 | 5,0 | 4,7 |
-| Más de 8,5 córners | 27% | 17% | 36% | 17% |
-| Más de 9,5 córners | 18% | 17% | 36% | 17% |
-| Más de 10,5 córners | 18% | 17% | 36% | 17% |
+| Córners totales 1ª parte | 3,5 | 2,8 | 3,7 | 3,7 |
+| Córners totales 2ª parte | 4,0 | 3,8 | 5,0 | 4,7 |
+| Más de 8,5 córners | 25% | 17% | 36% | 17% |
+| Más de 9,5 córners | 17% | 17% | 36% | 17% |
+| Más de 10,5 córners | 17% | 17% | 36% | 17% |
 | Faltas cometidas | 14,2 | 14,3 | 14,5 | 13,7 |
-| Faltas recibidas | 13,0 | 12,5 | 11,0 | 11,0 |
-| Amarillas propias | 2,1 | 1,8 | 2,4 | 3,0 |
+| Faltas recibidas | 12,7 | 12,5 | 11,0 | 11,0 |
+| Amarillas propias | 2,2 | 1,8 | 2,4 | 3,0 |
 | Amarillas del rival | 1,8 | 1,8 | 1,8 | 2,0 |
 | Rojas / partido | 0,00 | 0,00 | 0,09 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Paris FC | Recibe Paris FC | Tarjetas Paris FC | Goles Le Mans | Recibe Le Mans | Tarjetas Le Mans |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 1 | 2 | 2 | 1 | 1 |
-| 16-30' | 3 | 1 | 2 | 1 | 2 | 3 |
-| 31-45' | 4 | 0 | 3 | 3 | 7 | 0 |
-| 46-60' | 4 | 1 | 3 | 5 | 4 | 6 |
+| 1-15' | 2 | 1 | 3 | 2 | 1 | 1 |
+| 16-30' | 3 | 2 | 2 | 1 | 2 | 3 |
+| 31-45' | 4 | 0 | 4 | 3 | 7 | 0 |
+| 46-60' | 4 | 1 | 4 | 5 | 4 | 6 |
 | 61-75' | 4 | 4 | 5 | 1 | 4 | 7 |
 | 76-90' | 4 | 3 | 8 | 4 | 3 | 10 |
 
@@ -106,35 +106,35 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Paris FC
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-27 | Ligue 1 | Stade Brestois 29 1-0 Paris FC | fuera | 5-3 | 18 (8) - 17 (3) | 3-2 |
 | 2026-11-22 | Ligue 1 | Paris FC 4-0 Angers | casa | 10-2 | 18 (9) - 9 (1) | 1-1 |
 | 2026-11-07 | Ligue 1 | Auxerre 0-1 Paris FC | fuera | 5-1 | 10 (3) - 7 (2) | 1-3 |
 | 2026-11-01 | Ligue 1 | Paris FC 3-1 Monaco | casa | 3-2 | 19 (10) - 9 (2) | 2-2 |
 | 2026-10-24 | Ligue 1 | Lens 2-1 Paris FC | fuera | 1-6 | 4 (1) - 9 (3) | 3-3 |
 | 2026-10-18 | Ligue 1 | Paris FC 4-3 Rennes | casa | 3-4 | 19 (9) - 12 (7) | 3-4 |
-| 2026-10-10 | Ligue 1 | Lorient 1-0 Paris FC | fuera | 9-3 | 17 (3) - 8 (5) | 5-1 |
 
 ## Jugadores de Paris FC
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| D. Coppola | D | 11 | 990 | 1 | 1 | 5 | 0,5 | 4 | 0,4 | 9 | 3 | 0,3 | 1 | 0 |
-| P. Lees-Melou | M | 11 | 978 | 0 | 0 | 12 | 1,1 | 3 | 0,3 | 14 | 15 | 1,4 | 2 | 0 |
-| M. Lopez | M | 11 | 916 | 3 | 2 | 7 | 0,6 | 4 | 0,4 | 8 | 6 | 0,5 | 2 | 0 |
-| K. Trapp | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,3 | 0 | 0 |
-| L. Sinayoko | F | 10 | 869 | 9 | 5 | 22 | 2,2 | 16 | 1,6 | 14 | 13 | 1,3 | 2 | 0 |
-| P. Pagis | M | 11 | 846 | 2 | 3 | 17 | 1,5 | 7 | 0,6 | 14 | 18 | 1,6 | 1 | 0 |
-| I. Kebbal | M | 11 | 837 | 1 | 1 | 17 | 1,5 | 7 | 0,6 | 10 | 25 | 2,3 | 1 | 0 |
-| A. Camara | M | 9 | 696 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 9 | 4 | 0,4 | 0 | 0 |
-| L. Koleosho | M | 9 | 626 | 2 | 1 | 15 | 1,7 | 7 | 0,8 | 13 | 7 | 0,8 | 2 | 0 |
-| H. Traoré | D | 8 | 594 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 8 | 4 | 0,5 | 4 | 0 |
-| Otávio | D | 8 | 568 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 15 | 13 | 1,6 | 2 | 0 |
-| S. Chergui | D | 7 | 543 | 1 | 0 | 2 | 0,3 | 1 | 0,1 | 13 | 2 | 0,3 | 2 | 0 |
-| R. Matondo | D | 11 | 381 | 0 | 0 | 5 | 0,5 | 3 | 0,3 | 7 | 3 | 0,3 | 1 | 0 |
+| D. Coppola | D | 12 | 1080 | 1 | 1 | 5 | 0,4 | 4 | 0,3 | 10 | 3 | 0,2 | 1 | 0 |
+| P. Lees-Melou | M | 12 | 1051 | 0 | 0 | 13 | 1,1 | 4 | 0,3 | 16 | 15 | 1,2 | 3 | 0 |
+| M. Lopez | M | 12 | 1006 | 3 | 2 | 7 | 0,6 | 4 | 0,3 | 8 | 7 | 0,6 | 2 | 0 |
+| K. Trapp | G | 11 | 990 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 0 | 4 | 0,4 | 0 | 0 |
+| L. Sinayoko | F | 11 | 959 | 9 | 5 | 25 | 2,3 | 19 | 1,7 | 15 | 14 | 1,3 | 2 | 0 |
+| P. Pagis | M | 12 | 936 | 2 | 3 | 19 | 1,6 | 8 | 0,7 | 15 | 20 | 1,7 | 1 | 0 |
+| I. Kebbal | M | 12 | 882 | 1 | 1 | 19 | 1,6 | 7 | 0,6 | 11 | 25 | 2,1 | 2 | 0 |
+| A. Camara | D | 10 | 741 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 10 | 4 | 0,4 | 0 | 0 |
+| L. Koleosho | M | 10 | 706 | 2 | 1 | 18 | 1,8 | 9 | 0,9 | 15 | 9 | 0,9 | 3 | 0 |
+| H. Traoré | D | 9 | 674 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 10 | 4 | 0,4 | 4 | 0 |
+| S. Chergui | D | 8 | 633 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 14 | 2 | 0,2 | 2 | 0 |
+| Otávio | D | 9 | 578 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 15 | 14 | 1,6 | 2 | 0 |
+| R. Matondo | M | 12 | 426 | 0 | 0 | 7 | 0,6 | 3 | 0,2 | 8 | 3 | 0,2 | 1 | 0 |
+| M. Simon | M | 9 | 350 | 0 | 1 | 5 | 0,6 | 2 | 0,2 | 3 | 6 | 0,7 | 0 | 0 |
 | M. Mbow | D | 8 | 344 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 3 | 0,4 | 1 | 0 |
-| M. Simon | M | 8 | 305 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 2 | 5 | 0,6 | 0 | 0 |
-| E. Zabi | F | 9 | 213 | 1 | 1 | 5 | 0,6 | 1 | 0,1 | 6 | 2 | 0,2 | 1 | 0 |
+| E. Zabi | M | 10 | 230 | 1 | 1 | 6 | 0,6 | 1 | 0,1 | 6 | 2 | 0,2 | 1 | 0 |
 | O. Nkambadio | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| J. Ikoné | F | 4 | 59 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 | E. Mbemba | D | 3 | 59 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| J. Ikoné | F | 3 | 49 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 | T. De Smet | D | 2 | 45 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 3 | 1,5 | 1 | 0 |
 
 ## Últimos partidos de Le Mans

@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27 22:18",
+ "generado": "2026-11-28 08:47",
  "estilos": {
   "datos-rachas": {
    "nota": 0.939,
@@ -464,7 +464,7 @@
    "verdes": 0
   },
   "pick-seguro-2": {
-   "nota": 2.0,
+   "nota": 1.688,
    "posts_threads": 3,
    "resultados": 1,
    "verdes": 1
@@ -890,9 +890,9 @@
    "verdes": 0
   },
   "ganadores-resto": {
-   "nota": 1.25,
+   "nota": 1.175,
    "posts_threads": 1,
-   "resultados": 1,
+   "resultados": 2,
    "verdes": 0
   },
   "loca-th-0920-escudos": {
@@ -1064,9 +1064,9 @@
    "verdes": 0
   },
   "loca-th-0800-reto": {
-   "nota": 1.145,
+   "nota": 1.02,
    "posts_threads": 2,
-   "resultados": 0,
+   "resultados": 1,
    "verdes": 0
   },
   "loca-th-0900-tiros": {
@@ -1201,10 +1201,22 @@
    "resultados": 0,
    "verdes": 0
   },
+  "loca-th-0500-x500": {
+   "nota": 0.875,
+   "posts_threads": 0,
+   "resultados": 1,
+   "verdes": 0
+  },
+  "pick-seguro-3": {
+   "nota": 1.812,
+   "posts_threads": 0,
+   "resultados": 1,
+   "verdes": 1
+  },
   "loca-th-1230-x500": {
-   "nota": 1.375,
+   "nota": 1.25,
    "posts_threads": 1,
-   "resultados": 0,
+   "resultados": 1,
    "verdes": 0
   },
   "estrella-1557485": {

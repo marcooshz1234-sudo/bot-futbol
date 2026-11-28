@@ -1,7 +1,7 @@
 # Racing Santander – Deportivo La Coruna
 **LaLiga** · Regular Season - 15 · 05/12/2026 14:00 (hora España) · Estadio El Sardinero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
 _Actualizadas: 27/11 22:17_
@@ -51,53 +51,53 @@ _Actualizadas: 27/11 22:17_
 ## Estadísticas de equipo
 | | Racing Santander (total) | Racing Santander en casa | Deportivo La Coruna (total) | Deportivo La Coruna fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 7 | 14 | 8 |
-| Forma (últimos 5) | VVDVV | VDVEV | DEVVD | DEVDD |
-| Balance | 6V 2E 6D | 4V 2E 1D | 4V 6E 4D | 2V 3E 3D |
-| Goles a favor / partido | 1,57 | 2,00 | 1,36 | 1,38 |
-| Goles en contra / partido | 2,29 | 1,86 | 1,21 | 1,38 |
-| Goles a favor 1ª parte | 0,86 | 1,29 | 0,50 | 0,50 |
-| Goles a favor 2ª parte | 0,71 | 0,71 | 0,86 | 0,88 |
-| Goles en contra 1ª parte | 1,29 | 1,14 | 0,57 | 0,62 |
-| Goles en contra 2ª parte | 1,00 | 0,71 | 0,64 | 0,75 |
+| Partidos analizados | 15 | 7 | 14 | 8 |
+| Forma (últimos 5) | VVVDV | VDVEV | DEVVD | DEVDD |
+| Balance | 7V 2E 6D | 4V 2E 1D | 4V 6E 4D | 2V 3E 3D |
+| Goles a favor / partido | 1,67 | 2,00 | 1,36 | 1,38 |
+| Goles en contra / partido | 2,20 | 1,86 | 1,21 | 1,38 |
+| Goles a favor 1ª parte | 0,80 | 1,29 | 0,50 | 0,50 |
+| Goles a favor 2ª parte | 0,87 | 0,71 | 0,86 | 0,88 |
+| Goles en contra 1ª parte | 1,27 | 1,14 | 0,57 | 0,62 |
+| Goles en contra 2ª parte | 0,93 | 0,71 | 0,64 | 0,75 |
 | Más de 1,5 goles | 93% | 100% | 79% | 75% |
-| Más de 2,5 goles | 79% | 100% | 43% | 50% |
-| Más de 3,5 goles | 50% | 57% | 29% | 38% |
-| Ambos marcan | 64% | 86% | 71% | 62% |
+| Más de 2,5 goles | 80% | 100% | 43% | 50% |
+| Más de 3,5 goles | 53% | 57% | 29% | 38% |
+| Ambos marcan | 67% | 86% | 71% | 62% |
 | Portería a cero | 7% | 0% | 14% | 25% |
-| Se queda sin marcar | 29% | 14% | 21% | 25% |
-| xG a favor | 1,62 | 1,98 | 1,15 | 1,07 |
-| xG en contra | 2,31 | 1,80 | 1,30 | 1,53 |
-| Tiros / partido | 12,8 | 15,1 | 11,5 | 10,3 |
-| Tiros a puerta / partido | 5,0 | 6,0 | 4,2 | 3,6 |
-| Tiros recibidos | 17,5 | 17,1 | 13,5 | 15,6 |
-| Tiros a puerta recibidos | 6,4 | 5,6 | 4,4 | 4,4 |
+| Se queda sin marcar | 27% | 14% | 21% | 25% |
+| xG a favor | 1,64 | 1,98 | 1,15 | 1,07 |
+| xG en contra | 2,25 | 1,80 | 1,30 | 1,53 |
+| Tiros / partido | 13,0 | 15,1 | 11,5 | 10,3 |
+| Tiros a puerta / partido | 5,2 | 6,0 | 4,2 | 3,6 |
+| Tiros recibidos | 17,9 | 17,1 | 13,5 | 15,6 |
+| Tiros a puerta recibidos | 6,1 | 5,6 | 4,4 | 4,4 |
 | Posesión media % | 49 | 47 | 48 | 48 |
 | Córners a favor | 5,0 | 6,1 | 5,1 | 4,7 |
-| Córners en contra | 8,0 | 7,6 | 5,5 | 6,3 |
-| Córners a favor 1ª parte | 2,3 | 3,0 | 2,0 | 2,0 |
-| Córners a favor 2ª parte | 2,7 | 3,1 | 3,1 | 2,7 |
-| Córners totales del partido | 13,0 | 13,7 | 10,5 | 11,0 |
-| Córners totales 1ª parte | 5,9 | 6,4 | 4,7 | 4,7 |
-| Córners totales 2ª parte | 7,1 | 7,3 | 5,8 | 6,3 |
-| Más de 8,5 córners | 92% | 100% | 62% | 71% |
-| Más de 9,5 córners | 85% | 100% | 62% | 71% |
-| Más de 10,5 córners | 69% | 71% | 31% | 43% |
-| Faltas cometidas | 12,2 | 13,1 | 11,8 | 11,3 |
-| Faltas recibidas | 13,8 | 13,6 | 13,0 | 14,6 |
+| Córners en contra | 8,1 | 7,6 | 5,5 | 6,3 |
+| Córners a favor 1ª parte | 2,4 | 3,0 | 2,0 | 2,0 |
+| Córners a favor 2ª parte | 2,6 | 3,1 | 3,1 | 2,7 |
+| Córners totales del partido | 13,1 | 13,7 | 10,5 | 11,0 |
+| Córners totales 1ª parte | 6,1 | 6,4 | 4,7 | 4,7 |
+| Córners totales 2ª parte | 7,0 | 7,3 | 5,8 | 6,3 |
+| Más de 8,5 córners | 93% | 100% | 62% | 71% |
+| Más de 9,5 córners | 86% | 100% | 62% | 71% |
+| Más de 10,5 córners | 71% | 71% | 31% | 43% |
+| Faltas cometidas | 12,1 | 13,1 | 11,8 | 11,3 |
+| Faltas recibidas | 13,9 | 13,6 | 13,0 | 14,6 |
 | Amarillas propias | 2,5 | 2,3 | 2,2 | 2,7 |
-| Amarillas del rival | 2,5 | 2,4 | 2,5 | 2,7 |
-| Rojas / partido | 0,08 | 0,14 | 0,23 | 0,14 |
+| Amarillas del rival | 2,4 | 2,4 | 2,5 | 2,7 |
+| Rojas / partido | 0,07 | 0,14 | 0,23 | 0,14 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Racing Santander | Recibe Racing Santander | Tarjetas Racing Santander | Goles Deportivo La Coruna | Recibe Deportivo La Coruna | Tarjetas Deportivo La Coruna |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 4 | 3 | 1 | 1 | 2 |
-| 16-30' | 4 | 5 | 5 | 3 | 3 | 4 |
-| 31-45' | 4 | 9 | 9 | 3 | 4 | 4 |
+| 16-30' | 4 | 5 | 6 | 3 | 3 | 4 |
+| 31-45' | 4 | 10 | 9 | 3 | 4 | 4 |
 | 46-60' | 5 | 2 | 3 | 2 | 3 | 4 |
-| 61-75' | 4 | 4 | 7 | 4 | 2 | 2 |
-| 76-90' | 1 | 8 | 8 | 6 | 4 | 15 |
+| 61-75' | 5 | 4 | 8 | 4 | 2 | 2 |
+| 76-90' | 3 | 8 | 8 | 6 | 4 | 15 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -115,34 +115,34 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Racing Santander
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-27 | LaLiga | Levante 1-3 Racing Santander | fuera | 5-9 | 15 (8) - 23 (3) | 2-2 |
 | 2026-11-22 | LaLiga | Racing Santander 3-2 Real Sociedad | casa | 7-14 | 12 (8) - 31 (7) | 2-2 |
 | 2026-11-07 | LaLiga | Malaga 1-2 Racing Santander | fuera | 3-6 | 21 (7) - 16 (8) | 2-4 |
 | 2026-11-01 | LaLiga | Racing Santander 0-3 Real Madrid | casa | 4-6 | 10 (1) - 22 (7) | 2-0 |
 | 2026-10-29 | Copa del Rey | Ribadesella CF 0-2 Racing Santander | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | LaLiga | Racing Santander 2-1 Espanyol | casa | 9-4 | 23 (9) - 11 (1) | 3-4 |
-| 2026-10-18 | LaLiga | Osasuna 2-0 Racing Santander | fuera | 4-7 | 9 (1) - 20 (7) | 3-2 |
 
 ## Jugadores de Racing Santander
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Julen Agirrezabala | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,3 | 1 | 0 |
-| Iñigo Vicente | M | 13 | 1056 | 0 | 3 | 7 | 0,5 | 4 | 0,3 | 11 | 25 | 1,9 | 4 | 0 |
-| Jorge Salinas | D | 12 | 991 | 0 | 1 | 8 | 0,7 | 3 | 0,2 | 11 | 18 | 1,5 | 5 | 0 |
-| Sergio Canales | M | 13 | 972 | 2 | 1 | 24 | 1,8 | 10 | 0,8 | 10 | 20 | 1,5 | 1 | 0 |
-| M. Zabiri | F | 13 | 889 | 11 | 0 | 28 | 2,2 | 18 | 1,4 | 14 | 8 | 0,6 | 4 | 0 |
-| Iván Martín | M | 11 | 879 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 12 | 12 | 1,1 | 2 | 0 |
-| Pablo Ramón | D | 11 | 847 | 0 | 1 | 5 | 0,5 | 2 | 0,2 | 6 | 11 | 1,0 | 4 | 0 |
+| Julen Agirrezabala | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 6 | 0,4 | 1 | 0 |
+| Iñigo Vicente | M | 14 | 1146 | 0 | 4 | 10 | 0,7 | 5 | 0,4 | 11 | 27 | 1,9 | 4 | 0 |
+| Jorge Salinas | D | 13 | 1081 | 0 | 2 | 8 | 0,6 | 3 | 0,2 | 14 | 20 | 1,5 | 5 | 0 |
+| Sergio Canales | M | 14 | 1033 | 2 | 1 | 24 | 1,7 | 10 | 0,7 | 11 | 23 | 1,6 | 1 | 0 |
+| M. Zabiri | F | 14 | 978 | 12 | 0 | 34 | 2,4 | 21 | 1,5 | 14 | 9 | 0,6 | 4 | 0 |
+| Iván Martín | M | 12 | 969 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 12 | 14 | 1,2 | 2 | 0 |
+| Pablo Ramón | D | 12 | 937 | 0 | 1 | 6 | 0,5 | 2 | 0,2 | 7 | 13 | 1,1 | 4 | 0 |
+| J. Belocian | D | 10 | 845 | 1 | 0 | 6 | 0,6 | 3 | 0,3 | 11 | 7 | 0,7 | 2 | 0 |
+| M. Prati | M | 11 | 835 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 9 | 8 | 0,7 | 0 | 0 |
 | Álvaro Mantilla | D | 10 | 811 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 12 | 2 | 0,2 | 3 | 0 |
-| M. Prati | M | 10 | 774 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 7 | 7 | 0,7 | 0 | 0 |
-| J. Belocian | D | 9 | 755 | 1 | 0 | 6 | 0,7 | 3 | 0,3 | 11 | 6 | 0,7 | 2 | 0 |
-| Iker Luque | M | 7 | 428 | 1 | 1 | 11 | 1,6 | 5 | 0,7 | 10 | 6 | 0,9 | 2 | 0 |
+| Iker Luque | M | 8 | 507 | 1 | 1 | 12 | 1,5 | 5 | 0,6 | 12 | 6 | 0,8 | 3 | 0 |
 | Manu Hernando | D | 5 | 397 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 5 | 2 | 0,4 | 1 | 0 |
+| Pablo García | F | 10 | 393 | 3 | 0 | 18 | 1,8 | 9 | 0,9 | 1 | 5 | 0,5 | 0 | 0 |
+| Pedro Felipe | D | 8 | 386 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 4 | 0 | 0,0 | 2 | 0 |
 | Andrés Martín | M | 6 | 380 | 1 | 0 | 13 | 2,2 | 6 | 1,0 | 4 | 8 | 1,3 | 0 | 0 |
-| Pablo García | F | 9 | 364 | 1 | 0 | 16 | 1,8 | 7 | 0,8 | 0 | 5 | 0,6 | 0 | 0 |
-| Pedro Felipe | D | 7 | 325 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 4 | 0 | 0,0 | 1 | 0 |
-| Asier Villalibre | F | 8 | 275 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 0 | 7 | 0,9 | 0 | 0 |
+| André Almeida | M | 10 | 294 | 0 | 1 | 3 | 0,3 | 2 | 0,2 | 6 | 7 | 0,7 | 0 | 1 |
+| Asier Villalibre | F | 9 | 286 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 1 | 7 | 0,8 | 0 | 0 |
 | Gustavo Puerta | M | 3 | 268 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 10 | 9 | 3,0 | 1 | 0 |
-| André Almeida | M | 9 | 265 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 6 | 7 | 0,8 | 0 | 1 |
 | Facundo González | D | 6 | 254 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 3 | 0,5 | 1 | 0 |
 | Aarón Martín | D | 7 | 249 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 2 | 0,3 | 0 | 0 |
 

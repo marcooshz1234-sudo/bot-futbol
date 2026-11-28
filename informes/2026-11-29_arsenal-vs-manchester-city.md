@@ -1,10 +1,10 @@
 # Arsenal – Manchester City
 **Premier League** · Regular Season - 12 · 29/11/2026 17:30 (hora España) · Emirates Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 22:15_
+_Actualizadas: 28/11 08:43_
 
 - **1X2:** 1 **1.95**  ·  X **3.60**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.80**

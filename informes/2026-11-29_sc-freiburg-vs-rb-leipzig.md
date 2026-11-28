@@ -1,10 +1,10 @@
 # SC Freiburg – RB Leipzig
 **Bundesliga** · Regular Season - 11 · 29/11/2026 15:30 (hora España) · Europa-Park-Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 22:15_
+_Actualizadas: 28/11 08:43_
 
 - **1X2:** 1 **2.70**  ·  X **3.75**  ·  2 **2.38**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.25**  ·  X2 **1.44**
@@ -32,7 +32,7 @@ _Actualizadas: 27/11 22:15_
     - 2,5: más **3.50** · menos **1.28**
     - 3,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
-    - 9,5: más **1.91** · menos **1.80**
+    - 9,5: más **1.98** · menos **1.82**
 - **Córners 1X2:** 1 **1.91**  ·  X **8.00**  ·  2 **2.10**
 - **Tarjetas más/menos:**
     - 3,5: más **1.62** · menos **2.20**
@@ -55,7 +55,7 @@ _Actualizadas: 27/11 22:15_
     - 4,5: más **1.91** · menos **1.80**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
 - **Home Team Total Cards:**
-    - 1,5: más **1.53** · menos **2.38**
+    - 1,5: más **1.50** · menos **2.50**
 - **Away Team Total Cards:**
     - 1,5: más **1.53** · menos **2.38**
 - **Total ShotOnGoal:**

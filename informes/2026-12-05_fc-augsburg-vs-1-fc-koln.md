@@ -1,7 +1,7 @@
 # FC Augsburg – 1. FC Köln
 **Bundesliga** · Regular Season - 12 · 05/12/2026 15:30 (hora España) · WWK Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
 _Actualizadas: 27/11 22:17_

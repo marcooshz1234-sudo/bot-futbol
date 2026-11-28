@@ -1,10 +1,10 @@
 # Arouca – Rio Ave
 **Primeira Liga** · Regular Season - 12 · 28/11/2026 16:30 (hora España) · Estádio Municipal de Arouca
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 22:14_
+_Actualizadas: 28/11 08:42_
 
 - **1X2:** 1 **1.65**  ·  X **3.80**  ·  2 **5.00**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.20**
@@ -13,7 +13,7 @@ _Actualizadas: 27/11 22:14_
     - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.28** · menos **3.50**
     - 2,5: más **1.95** · menos **1.85**
-    - 3,5: más **3.40** · menos **1.30**
+    - 3,5: más **3.25** · menos **1.33**
     - 4,5: más **6.50** · menos **1.11**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
@@ -29,7 +29,7 @@ _Actualizadas: 27/11 22:14_
     - 1,5: más **4.00** · menos **1.22**
     - 2,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 9,5: más **1.80** · menos **1.91**
+    - 9,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **1.50**  ·  X **8.50**  ·  2 **3.00**
 - **1X2 descanso:** 1 **2.25**  ·  X **2.25**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
@@ -43,11 +43,11 @@ _Actualizadas: 27/11 22:14_
 - **To Score In Both Halves By Teams:** 1 **2.75**  ·  2 **6.50**
 - **Win Both Halves:** 1 **4.50**  ·  2 **21.00**
 - **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **5.00**  ·  Away/Yes **9.50**  ·  Home/No **2.75**  ·  Draw/No **10.00**  ·  Away/No **9.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.30**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.38**
 - **Home Corners Over/Under:**
-    - 5,5: más **1.83** · menos **1.83**
+    - 5,5: más **1.91** · menos **1.80**
 - **Away Corners Over/Under:**
-    - 3,5: más **1.67** · menos **2.10**
+    - 3,5: más **1.73** · menos **2.00**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.95**  ·  Menos de 4.5 **1.85**
 - **Away Player Shots On Target Total:** Leo Shahar **29.00**  ·  Teixeira Gustavo Mancha **19.00**  ·  Diogo Nascimento **81.00**  ·  Samuel Alves **34.00**  ·  Ivan MartInez Gonzalvez **7.50**  ·  Simon Garcia **21.00**  ·  Tamas Nikitscher **51.00**  ·  Jalen Blesa **19.00**  ·  Nais Djouahra **29.00**  ·  Gabrijel Rukavina **19.00**  ·  Diogo Monteiro **19.00**  ·  Julien Lomboto **23.00**  ·  Ulisses Tamble Monteiro **23.00**  ·  Fally Mayulu **23.00**  ·  Nelson Abbey **21.00**  ·  Georgios Liavas **41.00**  ·  Espen van Ee **41.00**  ·  Jakub Brabec **19.00**  ·  Dario Spikic **51.00**  ·  Diogo Bezerra **51.00**  ·  Alfonso Trezza **41.00**  ·  Pablo Gozalbez **41.00**  ·  Carvalho Pedro Santos **29.00**  ·  Miguel Puche **29.00**  ·  Taichi Fukui **23.00**  ·  Jose Fontan **17.00**  ·  Boris Popovic **19.00**  ·  Alexandre Tiago Esgaio **13.00**  ·  Jose Ze Carlos **51.00**  ·  Brandon Aguilera **67.00**  ·  Tobias Medina **51.00**  ·  Marios Vrousai **29.00**  ·  Joao Tome **126.00**  ·  Francisco Petrasso **29.00**  ·  Si-hoo Park **34.00**  ·  Roland Galcik **51.00**  ·  Andreas Ntoi **26.00**  ·  Hyun-ju Lee **19.00**  ·  Mateo Flores **17.00**  ·  Javier Sanchez **13.00**  ·  Radek Siler **12.00**  ·  Dylan Nandin **12.00**  ·  Mario Climent **81.00**  ·  Rafael Lobato **51.00**  ·  Brian Mansilla **29.00**
 - **Home Player Shots:** Ivan MartInez Gonzalvez - 1 **1.02**  ·  Fally Mayulu - 1 **1.03**  ·  Nais Djouahra - 1 **1.04**  ·  Alfonso Trezza - 1 **1.07**  ·  Brian Mansilla - 1 **1.07**  ·  Hyun-Ju Lee - 1 **1.11**  ·  Mateo Flores - 1 **1.07**  ·  Pablo Gozalbez - 1 **1.07**  ·  Si-hoo Park - 1 **1.11**  ·  Espen van Ee - 1 **1.12**  ·  Miguel Puche - 1 **1.12**  ·  Taichi Fukui - 1 **1.14**  ·  Carvalho Pedro Santos - 1 **1.20**  ·  Alexandre Tiago Esgaio - 1 **1.40**  ·  Orest Lebedenko - 1 **1.36**  ·  Javier Sanchez - 1 **1.57**  ·  Boris Popovic - 1 **1.53**  ·  Jose Fontan - 1 **1.57**  ·  Diogo Monteiro - 1 **1.73**  ·  Mario Climent - 1 **1.73**  ·  Dylan Nandin - 2 **1.06**  ·  Ivan MartInez Gonzalvez - 2 **1.17**  ·  Fally Mayulu - 2 **1.20**  ·  Nais Djouahra - 2 **1.22**  ·  Alfonso Trezza - 2 **1.40**  ·  Brian Mansilla - 2 **1.40**  ·  Hyun-Ju Lee - 2 **1.53**  ·  Mateo Flores - 2 **1.40**  ·  Pablo Gozalbez - 2 **1.40**  ·  Si-hoo Park - 2 **1.50**  ·  Espen van Ee - 2 **1.62**  ·  Miguel Puche - 2 **1.62**  ·  Taichi Fukui - 2 **1.67**  ·  Carvalho Pedro Santos - 2 **1.83**  ·  Alexandre Tiago Esgaio - 2 **2.62**  ·  Orest Lebedenko - 2 **2.62**  ·  Javier Sanchez - 2 **3.50**  ·  Boris Popovic - 2 **3.40**  ·  Jose Fontan - 2 **3.50**  ·  Diogo Monteiro - 2 **4.33**  ·  Mario Climent - 2 **4.33**  ·  Dylan Nandin - 3 **1.22**  ·  Ivan MartInez Gonzalvez - 3 **1.50**  ·  Fally Mayulu - 3 **1.62**  ·  Nais Djouahra - 3 **1.67**  ·  Alfonso Trezza - 3 **2.10**  ·  Brian Mansilla - 3 **2.10**  ·  Hyun-Ju Lee - 3 **2.50**  ·  Mateo Flores - 3 **2.10**  ·  Pablo Gozalbez - 3 **2.10**  ·  Si-hoo Park - 3 **2.50**  ·  Espen van Ee - 3 **2.75**  ·  Miguel Puche - 3 **2.75**  ·  Taichi Fukui - 3 **3.00**  ·  Carvalho Pedro Santos - 3 **3.75**  ·  Alexandre Tiago Esgaio - 3 **6.50**  ·  Orest Lebedenko - 3 **6.00**  ·  Javier Sanchez - 3 **10.00**  ·  Boris Popovic - 3 **9.00**  ·  Jose Fontan - 3 **10.00**  ·  Diogo Monteiro - 3 **13.00**  ·  Mario Climent - 3 **13.00**  ·  Dylan Nandin - 4 **1.53**  ·  Ivan MartInez Gonzalvez - 4 **2.20**  ·  Fally Mayulu - 4 **2.50**  ·  Nais Djouahra - 4 **2.62**  ·  Alfonso Trezza - 4 **3.75**  ·  Brian Mansilla - 4 **3.75**  ·  Hyun-Ju Lee - 4 **4.50**  ·  Mateo Flores - 4 **3.75**  ·  Pablo Gozalbez - 4 **3.75**  ·  Si-hoo Park - 4 **4.50**  ·  Espen van Ee - 4 **5.50**  ·  Miguel Puche - 4 **5.50**  ·  Taichi Fukui - 4 **6.00**  ·  Carvalho Pedro Santos - 4 **8.00**  ·  Alexandre Tiago Esgaio - 4 **17.00**  ·  Orest Lebedenko - 4 **15.00**  ·  Dylan Nandin - 5 **2.10**  ·  Ivan MartInez Gonzalvez - 5 **3.50**  ·  Fally Mayulu - 5 **4.33**  ·  Nais Djouahra - 5 **4.50**  ·  Alfonso Trezza - 5 **7.00**  ·  Brian Mansilla - 5 **7.00**  ·  Hyun-Ju Lee - 5 **10.00**  ·  Mateo Flores - 5 **7.00**  ·  Pablo Gozalbez - 5 **7.00**  ·  Si-hoo Park - 5 **10.00**  ·  Espen van Ee - 5 **11.00**  ·  Miguel Puche - 5 **11.00**  ·  Taichi Fukui - 5 **13.00**  ·  Dylan Nandin - 6 **3.40**  ·  Ivan MartInez Gonzalvez - 6 **6.50**  ·  Fally Mayulu - 6 **8.00**  ·  Nais Djouahra - 6 **9.00**  ·  Alfonso Trezza - 6 **15.00**  ·  Brian Mansilla - 6 **15.00**  ·  Hyun-Ju Lee - 6 **21.00**  ·  Mateo Flores - 6 **15.00**  ·  Pablo Gozalbez - 6 **15.00**  ·  Dylan Nandin - 7 **5.50**  ·  Ivan MartInez Gonzalvez - 7 **13.00**  ·  Fally Mayulu - 7 **15.00**  ·  Dylan Nandin - 8 **10.00**  ·  Dylan Nandin - 9 **17.00**  ·  Leo Shahar - 1 **1.73**  ·  Leo Shahar - 2 **4.33**  ·  Leo Shahar - 3 **13.00**  ·  Boris Popovic - 4 **21.00**  ·  Ivan MartInez Gonzalvez - 8 **21.00**  ·  da Costa Francisco Pereira - 1 **1.02**  ·  da Costa Francisco Pereira - 2 **1.17**  ·  da Costa Francisco Pereira - 3 **1.50**  ·  da Costa Francisco Pereira - 4 **2.20**  ·  da Costa Francisco Pereira - 5 **3.50**  ·  da Costa Francisco Pereira - 6 **6.00**  ·  da Costa Francisco Pereira - 7 **11.00**  ·  Javier Sanchez - 4 **21.00**  ·  Mamadu Balde - 1 **1.02**  ·  Gabrijel Rukavina - 1 **1.06**  ·  Mamadu Balde - 2 **1.12**  ·  Gabrijel Rukavina - 2 **1.33**  ·  Mamadu Balde - 3 **1.40**  ·  Gabrijel Rukavina - 3 **1.91**  ·  Mamadu Balde - 4 **1.91**  ·  Gabrijel Rukavina - 4 **3.40**  ·  Mamadu Balde - 5 **3.25**  ·  Gabrijel Rukavina - 5 **6.50**  ·  Mamadu Balde - 6 **5.50**  ·  Gabrijel Rukavina - 6 **13.00**  ·  Mamadu Balde - 7 **10.00**  ·  Nais Djouahra - 7 **17.00**  ·  Mamadu Balde - 8 **19.00**  ·  Jose Fontan - 4 **21.00**  ·  Si-hoo Park - 6 **21.00**  ·  da Costa Francisco Pereira - 8 **21.00**  ·  Carvalho Pedro Santos - 5 **19.00**  ·  Espen van Ee - 6 **21.00**  ·  Miguel Puche - 6 **21.00**  ·  Taichi Fukui - 6 **21.00**  ·  Fally Mayulu - 8 **21.00**  ·  Gabrijel Rukavina - 7 **21.00**

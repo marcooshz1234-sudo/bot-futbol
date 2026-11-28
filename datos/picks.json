@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27 22:22",
+ "generado": "2026-11-28 08:52",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -24,16 +24,18 @@
      "frecuencia": 0.6,
      "ventaja": 0.135,
      "detalle": "Cambuur 7/10 · Sparta Rotterdam 5/10",
-     "valor_mercado": 0.0,
+     "valor_mercado": 0.005,
      "movimiento": -0.122,
      "cuota_inicial": 2.45,
+     "arbitro": "Martin Van den Kerkhof",
+     "arbitro_tarjetas": 2.5,
      "posiciones": [
       8,
       14,
       18
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.641
+     "prob_aprendida": 0.634
     },
     {
      "partido_id": 1552234,
@@ -53,13 +55,67 @@
      "valor_mercado": 0.013,
      "movimiento": -0.092,
      "cuota_inicial": 1.73,
+     "arbitro": "Martin Van den Kerkhof",
+     "arbitro_tarjetas": 2.5,
      "posiciones": [
       8,
       14,
       18
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.661
+     "prob_aprendida": 0.657
+    },
+    {
+     "partido_id": 1608388,
+     "fecha": "2026-11-28T17:30",
+     "competicion": "Serie C",
+     "liga_id": 138,
+     "local": "Ospitaletto",
+     "visitante": "Union Brescia",
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Ospitaletto marca",
+     "cuota": 1.53,
+     "frecuencia": 0.75,
+     "ventaja": 0.096,
+     "detalle": "Ospitaletto 8/10 · Union Brescia (en contra) 7/10",
+     "valor_mercado": 0.048,
+     "movimiento": 0.062,
+     "cuota_inicial": 1.44,
+     "arbitro": "A. Di Reda",
+     "arbitro_tarjetas": null,
+     "prob_aprendida": 0.657
+    },
+    {
+     "partido_id": 1552832,
+     "fecha": "2026-11-28T20:45",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Le Mans",
+     "visitante": "Lille",
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Le Mans marca",
+     "cuota": 1.5,
+     "frecuencia": 0.75,
+     "ventaja": 0.083,
+     "detalle": "Le Mans 8/10 · Lille (en contra) 7/10",
+     "valor_mercado": 0.02,
+     "movimiento": 0.042,
+     "cuota_inicial": 1.44,
+     "arbitro": "Mathieu Vernice",
+     "arbitro_tarjetas": 4.5,
+     "prob_xg": 0.746,
+     "xg_esperado": 2.91,
+     "posiciones": [
+      13,
+      4,
+      18
+     ],
+     "contexto": "peor_abismo_medio",
+     "prob_aprendida": 0.668
     },
     {
      "partido_id": 1570046,
@@ -79,13 +135,15 @@
      "valor_mercado": -0.011,
      "movimiento": -0.039,
      "cuota_inicial": 1.8,
+     "arbitro": "Manuel Angel Perez Hernandez",
+     "arbitro_tarjetas": null,
      "posiciones": [
-      12,
+      13,
       19,
       22
      ],
      "contexto": "mejor_lejos_abajo",
-     "prob_aprendida": 0.626
+     "prob_aprendida": 0.618
     },
     {
      "partido_id": 1563297,
@@ -103,13 +161,15 @@
      "ventaja": 0.194,
      "detalle": "West Ham 8/10 · Stoke City (en contra) 7/10",
      "valor_mercado": -0.011,
+     "arbitro": "Tom Nield",
+     "arbitro_tarjetas": 3.0,
      "posiciones": [
       13,
-      2,
+      3,
       24
      ],
-     "contexto": "peor_abismo_medio",
-     "prob_aprendida": 0.614
+     "contexto": "peor_lejos_medio",
+     "prob_aprendida": 0.619
     },
     {
      "partido_id": 1575234,
@@ -135,7 +195,7 @@
       18
      ],
      "contexto": "total_lejos_abajo",
-     "prob_aprendida": 0.613
+     "prob_aprendida": 0.615
     },
     {
      "partido_id": 1575235,
@@ -152,7 +212,7 @@
      "frecuencia": 0.85,
      "ventaja": 0.196,
      "detalle": "Hamburger SV 8/10 · Bayern München 9/10",
-     "valor_mercado": -0.025,
+     "valor_mercado": -0.044,
      "movimiento": 0.125,
      "cuota_inicial": 1.36,
      "arbitro": "Bastian Dankert",
@@ -163,7 +223,7 @@
       18
      ],
      "contexto": "total_abismo_medio",
-     "prob_aprendida": 0.659
+     "prob_aprendida": 0.655
     },
     {
      "partido_id": 1575238,
@@ -221,13 +281,15 @@
      "temporada": "7/8",
      "movimiento": 0.123,
      "cuota_inicial": 1.14,
+     "arbitro": "Miguel Angel Ortiz Arias",
+     "arbitro_tarjetas": null,
      "posiciones": [
       20,
       8,
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.629
+     "prob_aprendida": 0.628
     },
     {
      "partido_id": 1563291,
@@ -252,13 +314,15 @@
      "temporada": "9/12",
      "movimiento": 0.0,
      "cuota_inicial": 1.4,
+     "arbitro": "Matt Donohue",
+     "arbitro_tarjetas": 4.3,
      "posiciones": [
       18,
       23,
       24
      ],
      "contexto": "peor_lejos_abajo",
-     "prob_aprendida": 0.549
+     "prob_aprendida": 0.546
     },
     {
      "partido_id": 1563298,
@@ -276,13 +340,41 @@
      "ventaja": 0.146,
      "detalle": "Wrexham (en contra) 7/10 · Portsmouth 9/10",
      "valor_mercado": -0.056,
+     "arbitro": "Bobby Madley",
+     "arbitro_tarjetas": 3.7,
      "posiciones": [
       14,
       10,
       24
      ],
      "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.549
+     "prob_aprendida": 0.544
+    },
+    {
+     "partido_id": 1575231,
+     "fecha": "2026-11-28T18:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "VfB Stuttgart",
+     "visitante": "Eintracht Frankfurt",
+     "mercado": "Away Team Total Cards",
+     "opcion": "Over 1.5",
+     "tipo": "tarjetas",
+     "texto": "Eintracht Frankfurt ve más de 1,5 tarjetas",
+     "cuota": 1.53,
+     "frecuencia": 0.8,
+     "ventaja": 0.146,
+     "detalle": "VfB Stuttgart (en contra) 7/10 · Eintracht Frankfurt 9/10",
+     "valor_mercado": 0.062,
+     "arbitro": "Sascha Stegemann",
+     "arbitro_tarjetas": 4.3,
+     "posiciones": [
+      8,
+      7,
+      18
+     ],
+     "contexto": "mejor_igualado_medio",
+     "prob_aprendida": 0.477
     },
     {
      "partido_id": 1575231,
@@ -310,7 +402,32 @@
       18
      ],
      "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.411
+     "prob_aprendida": 0.412
+    },
+    {
+     "partido_id": 1557482,
+     "fecha": "2026-11-28T18:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Ipswich",
+     "visitante": "Aston Villa",
+     "mercado": "Offsides Away Total",
+     "opcion": "Over 0.5",
+     "tipo": "fueras de juego",
+     "texto": "Aston Villa hace más de 0,5 fueras de juego",
+     "cuota": 1.44,
+     "frecuencia": 0.8,
+     "ventaja": 0.106,
+     "detalle": "Ipswich (en contra) 9/10 · Aston Villa 7/10",
+     "arbitro": "Michael Salisbury",
+     "arbitro_tarjetas": 4.7,
+     "posiciones": [
+      17,
+      12,
+      20
+     ],
+     "contexto": "total_lejos_abajo",
+     "prob_aprendida": 0.463
     }
    ],
    "mejores_por_partido": [
@@ -329,16 +446,70 @@
      "frecuencia": 0.6,
      "ventaja": 0.135,
      "detalle": "Cambuur 7/10 · Sparta Rotterdam 5/10",
-     "valor_mercado": 0.0,
+     "valor_mercado": 0.005,
      "movimiento": -0.122,
      "cuota_inicial": 2.45,
+     "arbitro": "Martin Van den Kerkhof",
+     "arbitro_tarjetas": 2.5,
      "posiciones": [
       8,
       14,
       18
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.641
+     "prob_aprendida": 0.634
+    },
+    {
+     "partido_id": 1608388,
+     "fecha": "2026-11-28T17:30",
+     "competicion": "Serie C",
+     "liga_id": 138,
+     "local": "Ospitaletto",
+     "visitante": "Union Brescia",
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Ospitaletto marca",
+     "cuota": 1.53,
+     "frecuencia": 0.75,
+     "ventaja": 0.096,
+     "detalle": "Ospitaletto 8/10 · Union Brescia (en contra) 7/10",
+     "valor_mercado": 0.048,
+     "movimiento": 0.062,
+     "cuota_inicial": 1.44,
+     "arbitro": "A. Di Reda",
+     "arbitro_tarjetas": null,
+     "prob_aprendida": 0.657
+    },
+    {
+     "partido_id": 1552832,
+     "fecha": "2026-11-28T20:45",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Le Mans",
+     "visitante": "Lille",
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Le Mans marca",
+     "cuota": 1.5,
+     "frecuencia": 0.75,
+     "ventaja": 0.083,
+     "detalle": "Le Mans 8/10 · Lille (en contra) 7/10",
+     "valor_mercado": 0.02,
+     "movimiento": 0.042,
+     "cuota_inicial": 1.44,
+     "arbitro": "Mathieu Vernice",
+     "arbitro_tarjetas": 4.5,
+     "prob_xg": 0.746,
+     "xg_esperado": 2.91,
+     "posiciones": [
+      13,
+      4,
+      18
+     ],
+     "contexto": "peor_abismo_medio",
+     "prob_aprendida": 0.668
     },
     {
      "partido_id": 1570046,
@@ -358,13 +529,15 @@
      "valor_mercado": -0.011,
      "movimiento": -0.039,
      "cuota_inicial": 1.8,
+     "arbitro": "Manuel Angel Perez Hernandez",
+     "arbitro_tarjetas": null,
      "posiciones": [
-      12,
+      13,
       19,
       22
      ],
      "contexto": "mejor_lejos_abajo",
-     "prob_aprendida": 0.626
+     "prob_aprendida": 0.618
     },
     {
      "partido_id": 1563297,
@@ -382,13 +555,15 @@
      "ventaja": 0.194,
      "detalle": "West Ham 8/10 · Stoke City (en contra) 7/10",
      "valor_mercado": -0.011,
+     "arbitro": "Tom Nield",
+     "arbitro_tarjetas": 3.0,
      "posiciones": [
       13,
-      2,
+      3,
       24
      ],
-     "contexto": "peor_abismo_medio",
-     "prob_aprendida": 0.614
+     "contexto": "peor_lejos_medio",
+     "prob_aprendida": 0.619
     },
     {
      "partido_id": 1575234,
@@ -414,7 +589,7 @@
       18
      ],
      "contexto": "total_lejos_abajo",
-     "prob_aprendida": 0.613
+     "prob_aprendida": 0.615
     },
     {
      "partido_id": 1575235,
@@ -431,7 +606,7 @@
      "frecuencia": 0.85,
      "ventaja": 0.196,
      "detalle": "Hamburger SV 8/10 · Bayern München 9/10",
-     "valor_mercado": -0.025,
+     "valor_mercado": -0.044,
      "movimiento": 0.125,
      "cuota_inicial": 1.36,
      "arbitro": "Bastian Dankert",
@@ -442,7 +617,7 @@
       18
      ],
      "contexto": "total_abismo_medio",
-     "prob_aprendida": 0.659
+     "prob_aprendida": 0.655
     },
     {
      "partido_id": 1575238,
@@ -500,13 +675,15 @@
      "temporada": "7/8",
      "movimiento": 0.123,
      "cuota_inicial": 1.14,
+     "arbitro": "Miguel Angel Ortiz Arias",
+     "arbitro_tarjetas": null,
      "posiciones": [
       20,
       8,
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.629
+     "prob_aprendida": 0.628
     },
     {
      "partido_id": 1563291,
@@ -531,13 +708,15 @@
      "temporada": "9/12",
      "movimiento": 0.0,
      "cuota_inicial": 1.4,
+     "arbitro": "Matt Donohue",
+     "arbitro_tarjetas": 4.3,
      "posiciones": [
       18,
       23,
       24
      ],
      "contexto": "peor_lejos_abajo",
-     "prob_aprendida": 0.549
+     "prob_aprendida": 0.546
     },
     {
      "partido_id": 1563298,
@@ -555,13 +734,15 @@
      "ventaja": 0.146,
      "detalle": "Wrexham (en contra) 7/10 · Portsmouth 9/10",
      "valor_mercado": -0.056,
+     "arbitro": "Bobby Madley",
+     "arbitro_tarjetas": 3.7,
      "posiciones": [
       14,
       10,
       24
      ],
      "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.549
+     "prob_aprendida": 0.544
     },
     {
      "partido_id": 1575231,
@@ -570,17 +751,15 @@
      "liga_id": 78,
      "local": "VfB Stuttgart",
      "visitante": "Eintracht Frankfurt",
-     "mercado": "Away Corners Over/Under",
-     "opcion": "Over 3.5",
-     "tipo": "corners",
-     "texto": "Eintracht Frankfurt hace más de 3,5 córners",
-     "cuota": 1.73,
+     "mercado": "Away Team Total Cards",
+     "opcion": "Over 1.5",
+     "tipo": "tarjetas",
+     "texto": "Eintracht Frankfurt ve más de 1,5 tarjetas",
+     "cuota": 1.53,
      "frecuencia": 0.8,
-     "ventaja": 0.222,
-     "detalle": "VfB Stuttgart (en contra) 9/10 · Eintracht Frankfurt 7/10",
-     "valor_mercado": 0.042,
-     "movimiento": -0.039,
-     "cuota_inicial": 1.8,
+     "ventaja": 0.146,
+     "detalle": "VfB Stuttgart (en contra) 7/10 · Eintracht Frankfurt 9/10",
+     "valor_mercado": 0.062,
      "arbitro": "Sascha Stegemann",
      "arbitro_tarjetas": 4.3,
      "posiciones": [
@@ -589,7 +768,32 @@
       18
      ],
      "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.411
+     "prob_aprendida": 0.477
+    },
+    {
+     "partido_id": 1557482,
+     "fecha": "2026-11-28T18:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Ipswich",
+     "visitante": "Aston Villa",
+     "mercado": "Offsides Away Total",
+     "opcion": "Over 0.5",
+     "tipo": "fueras de juego",
+     "texto": "Aston Villa hace más de 0,5 fueras de juego",
+     "cuota": 1.44,
+     "frecuencia": 0.8,
+     "ventaja": 0.106,
+     "detalle": "Ipswich (en contra) 9/10 · Aston Villa 7/10",
+     "arbitro": "Michael Salisbury",
+     "arbitro_tarjetas": 4.7,
+     "posiciones": [
+      17,
+      12,
+      20
+     ],
+     "contexto": "total_lejos_abajo",
+     "prob_aprendida": 0.463
     }
    ],
    "combis": {
@@ -612,16 +816,70 @@
        "frecuencia": 0.6,
        "ventaja": 0.135,
        "detalle": "Cambuur 7/10 · Sparta Rotterdam 5/10",
-       "valor_mercado": 0.0,
+       "valor_mercado": 0.005,
        "movimiento": -0.122,
        "cuota_inicial": 2.45,
+       "arbitro": "Martin Van den Kerkhof",
+       "arbitro_tarjetas": 2.5,
        "posiciones": [
         8,
         14,
         18
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.641
+       "prob_aprendida": 0.634
+      },
+      {
+       "partido_id": 1608388,
+       "fecha": "2026-11-28T17:30",
+       "competicion": "Serie C",
+       "liga_id": 138,
+       "local": "Ospitaletto",
+       "visitante": "Union Brescia",
+       "mercado": "Total - Home",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Ospitaletto marca",
+       "cuota": 1.53,
+       "frecuencia": 0.75,
+       "ventaja": 0.096,
+       "detalle": "Ospitaletto 8/10 · Union Brescia (en contra) 7/10",
+       "valor_mercado": 0.048,
+       "movimiento": 0.062,
+       "cuota_inicial": 1.44,
+       "arbitro": "A. Di Reda",
+       "arbitro_tarjetas": null,
+       "prob_aprendida": 0.657
+      },
+      {
+       "partido_id": 1552832,
+       "fecha": "2026-11-28T20:45",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Le Mans",
+       "visitante": "Lille",
+       "mercado": "Total - Home",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Le Mans marca",
+       "cuota": 1.5,
+       "frecuencia": 0.75,
+       "ventaja": 0.083,
+       "detalle": "Le Mans 8/10 · Lille (en contra) 7/10",
+       "valor_mercado": 0.02,
+       "movimiento": 0.042,
+       "cuota_inicial": 1.44,
+       "arbitro": "Mathieu Vernice",
+       "arbitro_tarjetas": 4.5,
+       "prob_xg": 0.746,
+       "xg_esperado": 2.91,
+       "posiciones": [
+        13,
+        4,
+        18
+       ],
+       "contexto": "peor_abismo_medio",
+       "prob_aprendida": 0.668
       },
       {
        "partido_id": 1570046,
@@ -641,13 +899,15 @@
        "valor_mercado": -0.011,
        "movimiento": -0.039,
        "cuota_inicial": 1.8,
+       "arbitro": "Manuel Angel Perez Hernandez",
+       "arbitro_tarjetas": null,
        "posiciones": [
-        12,
+        13,
         19,
         22
        ],
        "contexto": "mejor_lejos_abajo",
-       "prob_aprendida": 0.626
+       "prob_aprendida": 0.618
       },
       {
        "partido_id": 1563297,
@@ -665,14 +925,89 @@
        "ventaja": 0.194,
        "detalle": "West Ham 8/10 · Stoke City (en contra) 7/10",
        "valor_mercado": -0.011,
+       "arbitro": "Tom Nield",
+       "arbitro_tarjetas": 3.0,
        "posiciones": [
         13,
-        2,
+        3,
         24
        ],
-       "contexto": "peor_abismo_medio",
-       "prob_aprendida": 0.614
+       "contexto": "peor_lejos_medio",
+       "prob_aprendida": 0.619
+      }
+     ],
+     "cuota": 15.37
+    },
+    "doble": null
+   },
+   "estilos": {
+    "tema": {
+     "picks": [
+      {
+       "partido_id": 1557484,
+       "fecha": "2026-11-28T16:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Manchester United",
+       "visitante": "Brentford",
+       "mercado": "Total - Away",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Brentford marca 2 o más",
+       "cuota": 2.2,
+       "frecuencia": 0.75,
+       "ventaja": 0.295,
+       "detalle": "Manchester United (en contra) 8/10 · Brentford 7/10",
+       "valor_mercado": 0.028,
+       "movimiento": -0.12,
+       "cuota_inicial": 2.5,
+       "arbitro": "Robert Jones",
+       "arbitro_tarjetas": 3.8,
+       "prob_xg": 0.618,
+       "xg_esperado": 3.65,
+       "posiciones": [
+        19,
+        6,
+        20
+       ],
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.506
       },
+      {
+       "partido_id": 1552835,
+       "fecha": "2026-11-28T20:45",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Paris Saint Germain",
+       "visitante": "Lorient",
+       "mercado": "Total - Away",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Lorient marca",
+       "cuota": 1.83,
+       "frecuencia": 0.75,
+       "ventaja": 0.204,
+       "detalle": "Paris Saint Germain (en contra) 7/10 · Lorient 8/10",
+       "valor_mercado": -0.042,
+       "arbitro": "Bastein Dechepy",
+       "arbitro_tarjetas": null,
+       "prob_xg": 0.734,
+       "xg_esperado": 3.08,
+       "posiciones": [
+        1,
+        10,
+        18
+       ],
+       "contexto": "peor_abismo_medio",
+       "prob_aprendida": 0.586
+      }
+     ],
+     "cuota": 4.03,
+     "titulo": "✈️ SÁBADO DE LOS DE FUERA",
+     "tema": "fuera"
+    },
+    "liga": {
+     "picks": [
       {
        "partido_id": 1575234,
        "fecha": "2026-11-28T15:30",
@@ -697,7 +1032,35 @@
         18
        ],
        "contexto": "total_lejos_abajo",
-       "prob_aprendida": 0.613
+       "prob_aprendida": 0.615
+      },
+      {
+       "partido_id": 1575231,
+       "fecha": "2026-11-28T18:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "VfB Stuttgart",
+       "visitante": "Eintracht Frankfurt",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "Eintracht Frankfurt o empate",
+       "cuota": 1.91,
+       "frecuencia": 0.65,
+       "ventaja": 0.126,
+       "detalle": "VfB Stuttgart 6/10 · Eintracht Frankfurt 7/10",
+       "valor_mercado": -0.05,
+       "movimiento": -0.09,
+       "cuota_inicial": 2.1,
+       "arbitro": "Sascha Stegemann",
+       "arbitro_tarjetas": 4.3,
+       "posiciones": [
+        8,
+        7,
+        18
+       ],
+       "contexto": "mejor_igualado_medio",
+       "prob_aprendida": 0.544
       },
       {
        "partido_id": 1575235,
@@ -714,7 +1077,7 @@
        "frecuencia": 0.85,
        "ventaja": 0.196,
        "detalle": "Hamburger SV 8/10 · Bayern München 9/10",
-       "valor_mercado": -0.025,
+       "valor_mercado": -0.044,
        "movimiento": 0.125,
        "cuota_inicial": 1.36,
        "arbitro": "Bastian Dankert",
@@ -725,161 +1088,12 @@
         18
        ],
        "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.659
+       "prob_aprendida": 0.655
       }
      ],
-     "cuota": 17.72
-    },
-    "doble": null
-   },
-   "estilos": {
-    "tema": {
-     "picks": [
-      {
-       "partido_id": 1575231,
-       "fecha": "2026-11-28T18:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "VfB Stuttgart",
-       "visitante": "Eintracht Frankfurt",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "tipo": "resultado",
-       "texto": "Eintracht Frankfurt o empate",
-       "cuota": 1.95,
-       "frecuencia": 0.65,
-       "ventaja": 0.137,
-       "detalle": "VfB Stuttgart 6/10 · Eintracht Frankfurt 7/10",
-       "valor_mercado": -0.03,
-       "movimiento": -0.071,
-       "cuota_inicial": 2.1,
-       "arbitro": "Sascha Stegemann",
-       "arbitro_tarjetas": 4.3,
-       "posiciones": [
-        8,
-        7,
-        18
-       ],
-       "contexto": "mejor_igualado_medio",
-       "prob_aprendida": 0.56
-      },
-      {
-       "partido_id": 1552835,
-       "fecha": "2026-11-28T20:45",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Paris Saint Germain",
-       "visitante": "Lorient",
-       "mercado": "Total - Away",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Lorient marca",
-       "cuota": 1.83,
-       "frecuencia": 0.75,
-       "ventaja": 0.204,
-       "detalle": "Paris Saint Germain (en contra) 7/10 · Lorient 8/10",
-       "valor_mercado": -0.027,
-       "arbitro": "Bastein Dechepy",
-       "arbitro_tarjetas": null,
-       "prob_xg": 0.734,
-       "xg_esperado": 3.08,
-       "posiciones": [
-        1,
-        10,
-        18
-       ],
-       "contexto": "peor_abismo_medio",
-       "prob_aprendida": 0.59
-      }
-     ],
-     "cuota": 3.57,
-     "titulo": "✈️ SÁBADO DE LOS DE FUERA",
-     "tema": "fuera"
-    },
-    "liga": {
-     "picks": [
-      {
-       "partido_id": 1563297,
-       "fecha": "2026-11-28T16:00",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "West Ham",
-       "visitante": "Stoke City",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
-       "tipo": "goles",
-       "texto": "Ambos marcan en West Ham–Stoke City",
-       "cuota": 1.73,
-       "frecuencia": 0.65,
-       "ventaja": 0.072,
-       "detalle": "West Ham 7/10 · Stoke City 6/10",
-       "valor_mercado": 0.018,
-       "movimiento": 0.036,
-       "cuota_inicial": 1.67,
-       "prob_xg": 0.549,
-       "xg_esperado": 2.76,
-       "posiciones": [
-        13,
-        2,
-        24
-       ],
-       "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.584
-      },
-      {
-       "partido_id": 1563288,
-       "fecha": "2026-11-28T13:30",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "Blackburn",
-       "visitante": "Charlton",
-       "mercado": "Home Team Total Cards",
-       "opcion": "Over 1.5",
-       "tipo": "tarjetas",
-       "texto": "Blackburn ve más de 1,5 tarjetas",
-       "cuota": 1.53,
-       "frecuencia": 0.684,
-       "ventaja": 0.031,
-       "detalle": "Blackburn 6/9 · Charlton (en contra) 7/10",
-       "valor_mercado": -0.1,
-       "posiciones": [
-        12,
-        15,
-        24
-       ],
-       "contexto": "mejor_igualado_medio",
-       "prob_aprendida": 0.642
-      },
-      {
-       "partido_id": 1563293,
-       "fecha": "2026-11-28T16:00",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "QPR",
-       "visitante": "Sheffield Utd",
-       "mercado": "To Win Either Half",
-       "opcion": "Away",
-       "tipo": "resultado",
-       "texto": "Sheffield Utd gana alguna de las dos partes",
-       "cuota": 2.2,
-       "frecuencia": 0.65,
-       "ventaja": 0.195,
-       "detalle": "QPR 6/10 · Sheffield Utd 7/10",
-       "valor_mercado": 0.023,
-       "movimiento": 0.1,
-       "cuota_inicial": 2.0,
-       "posiciones": [
-        7,
-        9,
-        24
-       ],
-       "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.472
-      }
-     ],
-     "cuota": 5.82,
-     "titulo": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 COMBI CHAMPIONSHIP",
-     "liga": "Championship"
+     "cuota": 5.06,
+     "titulo": "🇩🇪 COMBI BUNDESLIGA",
+     "liga": "Bundesliga"
     },
     "atreve": {
      "picks": [
@@ -898,18 +1112,18 @@
        "frecuencia": 0.6,
        "ventaja": 0.208,
        "detalle": "Academico Viseu 7/10 · Alverca 5/10",
-       "valor_mercado": -0.019,
+       "valor_mercado": -0.03,
        "movimiento": 0.062,
        "cuota_inicial": 2.4,
        "arbitro": "Vitor Jorge Fernandes Ferreira",
        "arbitro_tarjetas": 8.0,
        "posiciones": [
         6,
-        11,
+        12,
         18
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.645
+       "prob_aprendida": 0.678
       },
       {
        "partido_id": 1570042,
@@ -926,9 +1140,11 @@
        "frecuencia": 0.65,
        "ventaja": 0.15,
        "detalle": "Las Palmas 6/10 · FC Andorra (en contra) 7/10",
-       "valor_mercado": 0.047,
+       "valor_mercado": 0.081,
        "movimiento": 0.0,
        "cuota_inicial": 2.0,
+       "arbitro": "Iosu Galech Apezteguia",
+       "arbitro_tarjetas": null,
        "prob_xg": 0.333,
        "xg_esperado": 2.56,
        "posiciones": [
@@ -937,7 +1153,7 @@
         22
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.586
+       "prob_aprendida": 0.588
       }
      ],
      "cuota": 5.1
@@ -959,16 +1175,18 @@
        "frecuencia": 0.6,
        "ventaja": 0.135,
        "detalle": "Cambuur 7/10 · Sparta Rotterdam 5/10",
-       "valor_mercado": 0.0,
+       "valor_mercado": 0.005,
        "movimiento": -0.122,
        "cuota_inicial": 2.45,
+       "arbitro": "Martin Van den Kerkhof",
+       "arbitro_tarjetas": 2.5,
        "posiciones": [
         8,
         14,
         18
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.641
+       "prob_aprendida": 0.634
       },
       {
        "partido_id": 1575545,
@@ -985,18 +1203,18 @@
        "frecuencia": 0.6,
        "ventaja": 0.208,
        "detalle": "Academico Viseu 7/10 · Alverca 5/10",
-       "valor_mercado": -0.019,
+       "valor_mercado": -0.03,
        "movimiento": 0.062,
        "cuota_inicial": 2.4,
        "arbitro": "Vitor Jorge Fernandes Ferreira",
        "arbitro_tarjetas": 8.0,
        "posiciones": [
         6,
-        11,
+        12,
         18
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.645
+       "prob_aprendida": 0.678
       },
       {
        "partido_id": 1570042,
@@ -1013,9 +1231,11 @@
        "frecuencia": 0.65,
        "ventaja": 0.15,
        "detalle": "Las Palmas 6/10 · FC Andorra (en contra) 7/10",
-       "valor_mercado": 0.047,
+       "valor_mercado": 0.081,
        "movimiento": 0.0,
        "cuota_inicial": 2.0,
+       "arbitro": "Iosu Galech Apezteguia",
+       "arbitro_tarjetas": null,
        "prob_xg": 0.333,
        "xg_esperado": 2.56,
        "posiciones": [
@@ -1024,7 +1244,37 @@
         22
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.586
+       "prob_aprendida": 0.588
+      },
+      {
+       "partido_id": 1552832,
+       "fecha": "2026-11-28T20:45",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Le Mans",
+       "visitante": "Lille",
+       "mercado": "Total - Home",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Le Mans marca",
+       "cuota": 1.5,
+       "frecuencia": 0.75,
+       "ventaja": 0.083,
+       "detalle": "Le Mans 8/10 · Lille (en contra) 7/10",
+       "valor_mercado": 0.02,
+       "movimiento": 0.042,
+       "cuota_inicial": 1.44,
+       "arbitro": "Mathieu Vernice",
+       "arbitro_tarjetas": 4.5,
+       "prob_xg": 0.746,
+       "xg_esperado": 2.91,
+       "posiciones": [
+        13,
+        4,
+        18
+       ],
+       "contexto": "peor_abismo_medio",
+       "prob_aprendida": 0.668
       },
       {
        "partido_id": 1570046,
@@ -1044,13 +1294,15 @@
        "valor_mercado": -0.011,
        "movimiento": -0.039,
        "cuota_inicial": 1.8,
+       "arbitro": "Manuel Angel Perez Hernandez",
+       "arbitro_tarjetas": null,
        "posiciones": [
-        12,
+        13,
         19,
         22
        ],
        "contexto": "mejor_lejos_abajo",
-       "prob_aprendida": 0.626
+       "prob_aprendida": 0.618
       },
       {
        "partido_id": 1570470,
@@ -1063,13 +1315,15 @@
        "opcion": "Yes",
        "tipo": "goles",
        "texto": "Ambos marcan en Real Madrid–Alaves",
-       "cuota": 2.0,
+       "cuota": 1.95,
        "frecuencia": 0.7,
-       "ventaja": 0.2,
+       "ventaja": 0.187,
        "detalle": "Real Madrid 7/10 · Alaves 7/10",
        "valor_mercado": 0.0,
-       "movimiento": 0.026,
+       "movimiento": 0.0,
        "cuota_inicial": 1.95,
+       "arbitro": "Cesar Soto Grado",
+       "arbitro_tarjetas": null,
        "prob_xg": 0.618,
        "xg_esperado": 3.36,
        "posiciones": [
@@ -1078,7 +1332,61 @@
         20
        ],
        "contexto": "total_lejos_arriba",
-       "prob_aprendida": 0.602
+       "prob_aprendida": 0.601
+      },
+      {
+       "partido_id": 1570039,
+       "fecha": "2026-11-28T18:30",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Eibar",
+       "visitante": "Burgos",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en Eibar–Burgos",
+       "cuota": 1.91,
+       "frecuencia": 0.7,
+       "ventaja": 0.176,
+       "detalle": "Eibar 8/10 · Burgos 6/10",
+       "valor_mercado": 0.016,
+       "arbitro": "Andres Fuentes Molina",
+       "arbitro_tarjetas": null,
+       "prob_xg": 0.615,
+       "xg_esperado": 3.07,
+       "posiciones": [
+        7,
+        5,
+        22
+       ],
+       "contexto": "total_igualado_arriba",
+       "prob_aprendida": 0.596
+      },
+      {
+       "partido_id": 1563297,
+       "fecha": "2026-11-28T16:00",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "West Ham",
+       "visitante": "Stoke City",
+       "mercado": "Home Team Total Cards",
+       "opcion": "Over 1.5",
+       "tipo": "tarjetas",
+       "texto": "West Ham ve más de 1,5 tarjetas",
+       "cuota": 1.8,
+       "frecuencia": 0.75,
+       "ventaja": 0.194,
+       "detalle": "West Ham 8/10 · Stoke City (en contra) 7/10",
+       "valor_mercado": -0.011,
+       "arbitro": "Tom Nield",
+       "arbitro_tarjetas": 3.0,
+       "posiciones": [
+        13,
+        3,
+        24
+       ],
+       "contexto": "peor_lejos_medio",
+       "prob_aprendida": 0.619
       },
       {
        "partido_id": 1552831,
@@ -1106,31 +1414,7 @@
         18
        ],
        "contexto": "total_igualado_abajo",
-       "prob_aprendida": 0.644
-      },
-      {
-       "partido_id": 1563297,
-       "fecha": "2026-11-28T16:00",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "West Ham",
-       "visitante": "Stoke City",
-       "mercado": "Home Team Total Cards",
-       "opcion": "Over 1.5",
-       "tipo": "tarjetas",
-       "texto": "West Ham ve más de 1,5 tarjetas",
-       "cuota": 1.8,
-       "frecuencia": 0.75,
-       "ventaja": 0.194,
-       "detalle": "West Ham 8/10 · Stoke City (en contra) 7/10",
-       "valor_mercado": -0.011,
-       "posiciones": [
-        13,
-        2,
-        24
-       ],
-       "contexto": "peor_abismo_medio",
-       "prob_aprendida": 0.614
+       "prob_aprendida": 0.639
       },
       {
        "partido_id": 1575234,
@@ -1156,36 +1440,10 @@
         18
        ],
        "contexto": "total_lejos_abajo",
-       "prob_aprendida": 0.613
-      },
-      {
-       "partido_id": 1570039,
-       "fecha": "2026-11-28T18:30",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Eibar",
-       "visitante": "Burgos",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
-       "tipo": "goles",
-       "texto": "Ambos marcan en Eibar–Burgos",
-       "cuota": 1.91,
-       "frecuencia": 0.7,
-       "ventaja": 0.176,
-       "detalle": "Eibar 8/10 · Burgos 6/10",
-       "valor_mercado": 0.021,
-       "prob_xg": 0.615,
-       "xg_esperado": 3.07,
-       "posiciones": [
-        7,
-        5,
-        22
-       ],
-       "contexto": "total_igualado_arriba",
-       "prob_aprendida": 0.57
+       "prob_aprendida": 0.615
       }
      ],
-     "cuota": 412.94
+     "cuota": 603.93
     }
    },
    "combis_partido": []
@@ -1207,7 +1465,7 @@
      "frecuencia": 0.9,
      "ventaja": 0.148,
      "detalle": "Granada CF 9/10 · AD Ceuta FC 9/10",
-     "valor_mercado": 0.015,
+     "valor_mercado": 0.0,
      "movimiento": 0.023,
      "cuota_inicial": 1.3,
      "posiciones": [
@@ -1216,7 +1474,7 @@
       22
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.786
+     "prob_aprendida": 0.787
     },
     {
      "partido_id": 1575550,
@@ -1244,7 +1502,35 @@
       18
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.654
+     "prob_aprendida": 0.648
+    },
+    {
+     "partido_id": 1570465,
+     "fecha": "2026-11-29T16:15",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Deportivo La Coruna",
+     "visitante": "Barcelona",
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Deportivo La Coruna marca",
+     "cuota": 1.5,
+     "frecuencia": 0.75,
+     "ventaja": 0.083,
+     "detalle": "Deportivo La Coruna 7/10 · Barcelona (en contra) 8/10",
+     "valor_mercado": -0.013,
+     "movimiento": 0.0,
+     "cuota_inicial": 1.5,
+     "prob_xg": 0.744,
+     "xg_esperado": 3.33,
+     "posiciones": [
+      12,
+      1,
+      20
+     ],
+     "contexto": "peor_abismo_medio",
+     "prob_aprendida": 0.668
     },
     {
      "partido_id": 1570038,
@@ -1268,33 +1554,7 @@
       22
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.6
-    },
-    {
-     "partido_id": 1557478,
-     "fecha": "2026-11-29T15:05",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Brighton",
-     "visitante": "Newcastle",
-     "mercado": "Home Team Total Cards",
-     "opcion": "Over 1.5",
-     "tipo": "tarjetas",
-     "texto": "Brighton ve más de 1,5 tarjetas",
-     "cuota": 1.57,
-     "frecuencia": 0.75,
-     "ventaja": 0.113,
-     "detalle": "Brighton 8/10 · Newcastle (en contra) 7/10",
-     "valor_mercado": 0.083,
-     "arbitro": "Simon Hooper",
-     "arbitro_tarjetas": 4.0,
-     "posiciones": [
-      2,
-      13,
-      20
-     ],
-     "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.569
+     "prob_aprendida": 0.599
     },
     {
      "partido_id": 1552239,
@@ -1319,13 +1579,15 @@
      "temporada": "15/18",
      "movimiento": -0.071,
      "cuota_inicial": 1.4,
+     "arbitro": "Sander van der Eijk",
+     "arbitro_tarjetas": 4.8,
      "posiciones": [
       12,
       3,
       18
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.631
+     "prob_aprendida": 0.627
     },
     {
      "partido_id": 1575233,
@@ -1345,43 +1607,41 @@
      "valor_mercado": -0.012,
      "movimiento": 0.031,
      "cuota_inicial": 1.62,
-     "arbitro": "Benjamin Brand",
-     "arbitro_tarjetas": 5.0,
+     "arbitro": "Robin Braun",
+     "arbitro_tarjetas": 3.0,
      "posiciones": [
       3,
       4,
       18
      ],
      "contexto": "total_igualado_arriba",
-     "prob_aprendida": 0.602
+     "prob_aprendida": 0.603
     },
     {
-     "partido_id": 1552829,
-     "fecha": "2026-11-29T15:00",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Auxerre",
-     "visitante": "Marseille",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el Marseille",
-     "cuota": 1.95,
-     "frecuencia": 0.65,
-     "ventaja": 0.137,
-     "detalle": "Auxerre 5/10 · Marseille 8/10",
-     "valor_mercado": 0.0,
-     "movimiento": 0.066,
-     "cuota_inicial": 1.83,
-     "arbitro": "Francois Letexier",
-     "arbitro_tarjetas": 2.0,
+     "partido_id": 1557478,
+     "fecha": "2026-11-29T15:05",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Brighton",
+     "visitante": "Newcastle",
+     "mercado": "Home Team Total Cards",
+     "opcion": "Over 1.5",
+     "tipo": "tarjetas",
+     "texto": "Brighton ve más de 1,5 tarjetas",
+     "cuota": 1.57,
+     "frecuencia": 0.75,
+     "ventaja": 0.113,
+     "detalle": "Brighton 8/10 · Newcastle (en contra) 7/10",
+     "valor_mercado": 0.026,
+     "arbitro": "Simon Hooper",
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
-      15,
-      5,
-      18
+      2,
+      13,
+      20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.514
+     "prob_aprendida": 0.574
     },
     {
      "partido_id": 1552836,
@@ -1414,7 +1674,7 @@
       18
      ],
      "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.619
+     "prob_aprendida": 0.615
     },
     {
      "partido_id": 1552829,
@@ -1436,11 +1696,11 @@
      "arbitro_tarjetas": 2.0,
      "posiciones": [
       15,
-      5,
+      6,
       18
      ],
      "contexto": "total_abismo_medio",
-     "prob_aprendida": 0.42
+     "prob_aprendida": 0.417
     }
    ],
    "mejores_por_partido": [
@@ -1459,7 +1719,7 @@
      "frecuencia": 0.9,
      "ventaja": 0.148,
      "detalle": "Granada CF 9/10 · AD Ceuta FC 9/10",
-     "valor_mercado": 0.015,
+     "valor_mercado": 0.0,
      "movimiento": 0.023,
      "cuota_inicial": 1.3,
      "posiciones": [
@@ -1468,7 +1728,7 @@
       22
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.786
+     "prob_aprendida": 0.787
     },
     {
      "partido_id": 1575550,
@@ -1496,7 +1756,35 @@
       18
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.654
+     "prob_aprendida": 0.648
+    },
+    {
+     "partido_id": 1570465,
+     "fecha": "2026-11-29T16:15",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Deportivo La Coruna",
+     "visitante": "Barcelona",
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Deportivo La Coruna marca",
+     "cuota": 1.5,
+     "frecuencia": 0.75,
+     "ventaja": 0.083,
+     "detalle": "Deportivo La Coruna 7/10 · Barcelona (en contra) 8/10",
+     "valor_mercado": -0.013,
+     "movimiento": 0.0,
+     "cuota_inicial": 1.5,
+     "prob_xg": 0.744,
+     "xg_esperado": 3.33,
+     "posiciones": [
+      12,
+      1,
+      20
+     ],
+     "contexto": "peor_abismo_medio",
+     "prob_aprendida": 0.668
     },
     {
      "partido_id": 1570038,
@@ -1520,33 +1808,7 @@
       22
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.6
-    },
-    {
-     "partido_id": 1557478,
-     "fecha": "2026-11-29T15:05",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Brighton",
-     "visitante": "Newcastle",
-     "mercado": "Home Team Total Cards",
-     "opcion": "Over 1.5",
-     "tipo": "tarjetas",
-     "texto": "Brighton ve más de 1,5 tarjetas",
-     "cuota": 1.57,
-     "frecuencia": 0.75,
-     "ventaja": 0.113,
-     "detalle": "Brighton 8/10 · Newcastle (en contra) 7/10",
-     "valor_mercado": 0.083,
-     "arbitro": "Simon Hooper",
-     "arbitro_tarjetas": 4.0,
-     "posiciones": [
-      2,
-      13,
-      20
-     ],
-     "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.569
+     "prob_aprendida": 0.599
     },
     {
      "partido_id": 1552239,
@@ -1571,13 +1833,15 @@
      "temporada": "15/18",
      "movimiento": -0.071,
      "cuota_inicial": 1.4,
+     "arbitro": "Sander van der Eijk",
+     "arbitro_tarjetas": 4.8,
      "posiciones": [
       12,
       3,
       18
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.631
+     "prob_aprendida": 0.627
     },
     {
      "partido_id": 1575233,
@@ -1597,43 +1861,41 @@
      "valor_mercado": -0.012,
      "movimiento": 0.031,
      "cuota_inicial": 1.62,
-     "arbitro": "Benjamin Brand",
-     "arbitro_tarjetas": 5.0,
+     "arbitro": "Robin Braun",
+     "arbitro_tarjetas": 3.0,
      "posiciones": [
       3,
       4,
       18
      ],
      "contexto": "total_igualado_arriba",
-     "prob_aprendida": 0.602
+     "prob_aprendida": 0.603
     },
     {
-     "partido_id": 1552829,
-     "fecha": "2026-11-29T15:00",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Auxerre",
-     "visitante": "Marseille",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el Marseille",
-     "cuota": 1.95,
-     "frecuencia": 0.65,
-     "ventaja": 0.137,
-     "detalle": "Auxerre 5/10 · Marseille 8/10",
-     "valor_mercado": 0.0,
-     "movimiento": 0.066,
-     "cuota_inicial": 1.83,
-     "arbitro": "Francois Letexier",
-     "arbitro_tarjetas": 2.0,
+     "partido_id": 1557478,
+     "fecha": "2026-11-29T15:05",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Brighton",
+     "visitante": "Newcastle",
+     "mercado": "Home Team Total Cards",
+     "opcion": "Over 1.5",
+     "tipo": "tarjetas",
+     "texto": "Brighton ve más de 1,5 tarjetas",
+     "cuota": 1.57,
+     "frecuencia": 0.75,
+     "ventaja": 0.113,
+     "detalle": "Brighton 8/10 · Newcastle (en contra) 7/10",
+     "valor_mercado": 0.026,
+     "arbitro": "Simon Hooper",
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
-      15,
-      5,
-      18
+      2,
+      13,
+      20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.514
+     "prob_aprendida": 0.574
     },
     {
      "partido_id": 1552836,
@@ -1666,7 +1928,33 @@
       18
      ],
      "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.619
+     "prob_aprendida": 0.615
+    },
+    {
+     "partido_id": 1552829,
+     "fecha": "2026-11-29T15:00",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Auxerre",
+     "visitante": "Marseille",
+     "mercado": "Corners 1x2",
+     "opcion": "Away",
+     "tipo": "corners",
+     "texto": "Marseille hace más córners",
+     "cuota": 1.57,
+     "frecuencia": 0.75,
+     "ventaja": 0.113,
+     "detalle": "Auxerre 8/10 · Marseille 7/10",
+     "valor_mercado": 0.0,
+     "arbitro": "Francois Letexier",
+     "arbitro_tarjetas": 2.0,
+     "posiciones": [
+      15,
+      6,
+      18
+     ],
+     "contexto": "total_abismo_medio",
+     "prob_aprendida": 0.417
     }
    ],
    "combis": {
@@ -1687,7 +1975,7 @@
        "frecuencia": 0.9,
        "ventaja": 0.148,
        "detalle": "Granada CF 9/10 · AD Ceuta FC 9/10",
-       "valor_mercado": 0.015,
+       "valor_mercado": 0.0,
        "movimiento": 0.023,
        "cuota_inicial": 1.3,
        "posiciones": [
@@ -1696,7 +1984,7 @@
         22
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.786
+       "prob_aprendida": 0.787
       },
       {
        "partido_id": 1552239,
@@ -1721,19 +2009,20 @@
        "temporada": "15/18",
        "movimiento": -0.071,
        "cuota_inicial": 1.4,
+       "arbitro": "Sander van der Eijk",
+       "arbitro_tarjetas": 4.8,
        "posiciones": [
         12,
         3,
         18
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.631
+       "prob_aprendida": 0.627
       }
      ],
      "cuota": 1.73
     },
-    "cuota_3": null,
-    "loca": {
+    "cuota_3": {
      "picks": [
       {
        "partido_id": 1575550,
@@ -1761,7 +2050,133 @@
         18
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.654
+       "prob_aprendida": 0.648
+      },
+      {
+       "partido_id": 1570465,
+       "fecha": "2026-11-29T16:15",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Deportivo La Coruna",
+       "visitante": "Barcelona",
+       "mercado": "Total - Home",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Deportivo La Coruna marca",
+       "cuota": 1.5,
+       "frecuencia": 0.75,
+       "ventaja": 0.083,
+       "detalle": "Deportivo La Coruna 7/10 · Barcelona (en contra) 8/10",
+       "valor_mercado": -0.013,
+       "movimiento": 0.0,
+       "cuota_inicial": 1.5,
+       "prob_xg": 0.744,
+       "xg_esperado": 3.33,
+       "posiciones": [
+        12,
+        1,
+        20
+       ],
+       "contexto": "peor_abismo_medio",
+       "prob_aprendida": 0.668
+      },
+      {
+       "partido_id": 1552836,
+       "fecha": "2026-11-29T17:15",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Toulouse",
+       "visitante": "Rennes",
+       "mercado": "Away Player Shots",
+       "opcion": "Sebastian Szymanski - 1",
+       "cuota": 1.33,
+       "frecuencia": 0.9,
+       "ventaja": 0.148,
+       "tipo": "jugador",
+       "jugador": "Sebastian Szymanski",
+       "equipo": "Rennes",
+       "jugador_id": 40403,
+       "campo": "tiros",
+       "n": 1,
+       "texto": "Sebastian Szymanski: 1+ tiros",
+       "detalle": "Sebastian Szymanski 9/10",
+       "temporada": "10/11",
+       "movimiento": 0.188,
+       "cuota_inicial": 1.12,
+       "arbitro": "Guillaume Paradis",
+       "arbitro_tarjetas": null,
+       "posiciones": [
+        12,
+        9,
+        18
+       ],
+       "contexto": "mejor_igualado_medio",
+       "prob_aprendida": 0.615
+      }
+     ],
+     "cuota": 3.59
+    },
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {
+    "atreve": {
+     "picks": [
+      {
+       "partido_id": 1550207,
+       "fecha": "2026-11-29T18:00",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "AS Roma",
+       "visitante": "Monza",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en AS Roma–Monza",
+       "cuota": 1.8,
+       "frecuencia": 0.7,
+       "ventaja": 0.144,
+       "detalle": "AS Roma 7/10 · Monza 7/10",
+       "valor_mercado": -0.006,
+       "arbitro": "Guiseppe Collu",
+       "arbitro_tarjetas": null,
+       "prob_xg": 0.711,
+       "xg_esperado": 3.81,
+       "posiciones": [
+        2,
+        14,
+        20
+       ],
+       "contexto": "total_abismo_medio",
+       "prob_aprendida": 0.614
+      },
+      {
+       "partido_id": 1557486,
+       "fecha": "2026-11-29T15:05",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Sunderland",
+       "visitante": "Tottenham",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
+       "tipo": "resultado",
+       "texto": "Sunderland o empate",
+       "cuota": 1.8,
+       "frecuencia": 0.65,
+       "ventaja": 0.094,
+       "detalle": "Sunderland 7/10 · Tottenham 6/10",
+       "valor_mercado": -0.011,
+       "movimiento": 0.078,
+       "cuota_inicial": 1.67,
+       "arbitro": "Peter Bankes",
+       "arbitro_tarjetas": 5.0,
+       "posiciones": [
+        18,
+        10,
+        20
+       ],
+       "contexto": "peor_lejos_medio",
+       "prob_aprendida": 0.635
       },
       {
        "partido_id": 1570038,
@@ -1785,274 +2200,16 @@
         22
        ],
        "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.6
-      },
-      {
-       "partido_id": 1557478,
-       "fecha": "2026-11-29T15:05",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Brighton",
-       "visitante": "Newcastle",
-       "mercado": "Home Team Total Cards",
-       "opcion": "Over 1.5",
-       "tipo": "tarjetas",
-       "texto": "Brighton ve más de 1,5 tarjetas",
-       "cuota": 1.57,
-       "frecuencia": 0.75,
-       "ventaja": 0.113,
-       "detalle": "Brighton 8/10 · Newcastle (en contra) 7/10",
-       "valor_mercado": 0.083,
-       "arbitro": "Simon Hooper",
-       "arbitro_tarjetas": 4.0,
-       "posiciones": [
-        2,
-        13,
-        20
-       ],
-       "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.569
-      },
-      {
-       "partido_id": 1575233,
-       "fecha": "2026-11-29T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "SC Freiburg",
-       "visitante": "RB Leipzig",
-       "mercado": "Goals Over/Under - Second Half",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en la 2ª parte del SC Freiburg–RB Leipzig",
-       "cuota": 1.67,
-       "frecuencia": 0.75,
-       "ventaja": 0.151,
-       "detalle": "SC Freiburg 7/10 · RB Leipzig 8/10",
-       "valor_mercado": -0.012,
-       "movimiento": 0.031,
-       "cuota_inicial": 1.62,
-       "arbitro": "Benjamin Brand",
-       "arbitro_tarjetas": 5.0,
-       "posiciones": [
-        3,
-        4,
-        18
-       ],
-       "contexto": "total_igualado_arriba",
-       "prob_aprendida": 0.602
-      },
-      {
-       "partido_id": 1552829,
-       "fecha": "2026-11-29T15:00",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Auxerre",
-       "visitante": "Marseille",
-       "mercado": "Match Winner",
-       "opcion": "Away",
-       "tipo": "resultado",
-       "texto": "Gana el Marseille",
-       "cuota": 1.95,
-       "frecuencia": 0.65,
-       "ventaja": 0.137,
-       "detalle": "Auxerre 5/10 · Marseille 8/10",
-       "valor_mercado": 0.0,
-       "movimiento": 0.066,
-       "cuota_inicial": 1.83,
-       "arbitro": "Francois Letexier",
-       "arbitro_tarjetas": 2.0,
-       "posiciones": [
-        15,
-        5,
-        18
-       ],
-       "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.514
+       "prob_aprendida": 0.599
       }
      ],
-     "cuota": 15.92
-    },
-    "doble": null
-   },
-   "estilos": {
-    "liga": {
-     "picks": [
-      {
-       "partido_id": 1557486,
-       "fecha": "2026-11-29T15:05",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Sunderland",
-       "visitante": "Tottenham",
-       "mercado": "Double Chance",
-       "opcion": "Home/Draw",
-       "tipo": "resultado",
-       "texto": "Sunderland o empate",
-       "cuota": 1.8,
-       "frecuencia": 0.65,
-       "ventaja": 0.094,
-       "detalle": "Sunderland 7/10 · Tottenham 6/10",
-       "valor_mercado": -0.006,
-       "movimiento": 0.078,
-       "cuota_inicial": 1.67,
-       "arbitro": "Peter Bankes",
-       "arbitro_tarjetas": 5.0,
-       "posiciones": [
-        18,
-        10,
-        20
-       ],
-       "contexto": "peor_lejos_medio",
-       "prob_aprendida": 0.641
-      },
-      {
-       "partido_id": 1557479,
-       "fecha": "2026-11-29T15:05",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Crystal Palace",
-       "visitante": "Hull City",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "tipo": "resultado",
-       "texto": "Hull City o empate",
-       "cuota": 1.91,
-       "frecuencia": 0.7,
-       "ventaja": 0.176,
-       "detalle": "Crystal Palace 8/10 · Hull City 6/10",
-       "valor_mercado": -0.021,
-       "movimiento": -0.021,
-       "cuota_inicial": 1.95,
-       "arbitro": "Jarred Gillett",
-       "arbitro_tarjetas": 7.0,
-       "posiciones": [
-        20,
-        11,
-        20
-       ],
-       "contexto": "mejor_lejos_abajo",
-       "prob_aprendida": 0.557
-      },
-      {
-       "partido_id": 1557477,
-       "fecha": "2026-11-29T17:30",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Arsenal",
-       "visitante": "Manchester City",
-       "mercado": "Offsides Away Total",
-       "opcion": "Over 1.5",
-       "tipo": "fueras de juego",
-       "texto": "Manchester City hace más de 1,5 fueras de juego",
-       "cuota": 2.1,
-       "frecuencia": 0.75,
-       "ventaja": 0.274,
-       "detalle": "Arsenal (en contra) 8/10 · Manchester City 7/10",
-       "arbitro": "John Brooks",
-       "arbitro_tarjetas": 4.2,
-       "posiciones": [
-        1,
-        3,
-        20
-       ],
-       "contexto": "total_igualado_arriba",
-       "prob_aprendida": 0.489
-      }
-     ],
-     "cuota": 7.22,
-     "titulo": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 COMBI PREMIER",
-     "liga": "Premier"
-    },
-    "atreve": {
-     "picks": [
-      {
-       "partido_id": 1552237,
-       "fecha": "2026-11-29T14:30",
-       "competicion": "Eredivisie",
-       "liga_id": 88,
-       "local": "Feyenoord",
-       "visitante": "Ajax",
-       "mercado": "Match Winner",
-       "opcion": "Away",
-       "tipo": "resultado",
-       "texto": "Gana el Ajax",
-       "cuota": 2.6,
-       "frecuencia": 0.65,
-       "ventaja": 0.265,
-       "detalle": "Feyenoord 5/10 · Ajax 8/10",
-       "valor_mercado": -0.088,
-       "movimiento": -0.257,
-       "cuota_inicial": 3.5,
-       "posiciones": [
-        5,
-        2,
-        18
-       ],
-       "contexto": "mejor_igualado_arriba",
-       "prob_aprendida": 0.558
-      },
-      {
-       "partido_id": 1570464,
-       "fecha": "2026-11-29T18:30",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Celta Vigo",
-       "visitante": "Villarreal",
-       "mercado": "Goals Over/Under - Second Half",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en la 2ª parte del Celta Vigo–Villarreal",
-       "cuota": 1.91,
-       "frecuencia": 0.65,
-       "ventaja": 0.126,
-       "detalle": "Celta Vigo 7/10 · Villarreal 6/10",
-       "valor_mercado": -0.035,
-       "movimiento": 0.044,
-       "cuota_inicial": 1.83,
-       "posiciones": [
-        14,
-        10,
-        20
-       ],
-       "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.636
-      }
-     ],
-     "cuota": 4.97
+     "cuota": 5.61
     }
    },
    "combis_partido": []
   },
   "2026-11-30": {
    "picks": [
-    {
-     "partido_id": 1550208,
-     "fecha": "2026-11-30T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Cagliari",
-     "visitante": "AC Milan",
-     "mercado": "Total - Home",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Cagliari marca",
-     "cuota": 1.53,
-     "frecuencia": 0.75,
-     "ventaja": 0.096,
-     "detalle": "Cagliari 7/10 · AC Milan (en contra) 8/10",
-     "valor_mercado": -0.013,
-     "movimiento": 0.02,
-     "cuota_inicial": 1.5,
-     "prob_xg": 0.775,
-     "xg_esperado": 3.2,
-     "posiciones": [
-      11,
-      4,
-      20
-     ],
-     "contexto": "peor_lejos_medio",
-     "prob_aprendida": 0.67
-    },
     {
      "partido_id": 1570045,
      "fecha": "2026-11-30T20:30",
@@ -2079,7 +2236,7 @@
       22
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.577
+     "prob_aprendida": 0.578
     },
     {
      "partido_id": 1570045,
@@ -2103,7 +2260,7 @@
       22
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.486
+     "prob_aprendida": 0.477
     },
     {
      "partido_id": 1575548,
@@ -2120,45 +2277,19 @@
      "frecuencia": 0.882,
      "ventaja": 0.101,
      "detalle": "Casa Pia 7/8 · SC Braga 8/9",
-     "valor_mercado": 0.008,
+     "valor_mercado": 0.0,
+     "arbitro": "Antonio Nobre",
+     "arbitro_tarjetas": 3.8,
      "posiciones": [
       16,
       8,
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.495
+     "prob_aprendida": 0.488
     }
    ],
    "mejores_por_partido": [
-    {
-     "partido_id": 1550208,
-     "fecha": "2026-11-30T20:45",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Cagliari",
-     "visitante": "AC Milan",
-     "mercado": "Total - Home",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "Cagliari marca",
-     "cuota": 1.53,
-     "frecuencia": 0.75,
-     "ventaja": 0.096,
-     "detalle": "Cagliari 7/10 · AC Milan (en contra) 8/10",
-     "valor_mercado": -0.013,
-     "movimiento": 0.02,
-     "cuota_inicial": 1.5,
-     "prob_xg": 0.775,
-     "xg_esperado": 3.2,
-     "posiciones": [
-      11,
-      4,
-      20
-     ],
-     "contexto": "peor_lejos_medio",
-     "prob_aprendida": 0.67
-    },
     {
      "partido_id": 1570045,
      "fecha": "2026-11-30T20:30",
@@ -2185,7 +2316,7 @@
       22
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.577
+     "prob_aprendida": 0.578
     },
     {
      "partido_id": 1575548,
@@ -2202,103 +2333,21 @@
      "frecuencia": 0.882,
      "ventaja": 0.101,
      "detalle": "Casa Pia 7/8 · SC Braga 8/9",
-     "valor_mercado": 0.008,
+     "valor_mercado": 0.0,
+     "arbitro": "Antonio Nobre",
+     "arbitro_tarjetas": 3.8,
      "posiciones": [
       16,
       8,
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.495
+     "prob_aprendida": 0.488
     }
    ],
    "combis": {
     "segura": null,
-    "cuota_3": {
-     "picks": [
-      {
-       "partido_id": 1550208,
-       "fecha": "2026-11-30T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Cagliari",
-       "visitante": "AC Milan",
-       "mercado": "Total - Home",
-       "opcion": "Over 0.5",
-       "tipo": "goles",
-       "texto": "Cagliari marca",
-       "cuota": 1.53,
-       "frecuencia": 0.75,
-       "ventaja": 0.096,
-       "detalle": "Cagliari 7/10 · AC Milan (en contra) 8/10",
-       "valor_mercado": -0.013,
-       "movimiento": 0.02,
-       "cuota_inicial": 1.5,
-       "prob_xg": 0.775,
-       "xg_esperado": 3.2,
-       "posiciones": [
-        11,
-        4,
-        20
-       ],
-       "contexto": "peor_lejos_medio",
-       "prob_aprendida": 0.67
-      },
-      {
-       "partido_id": 1570045,
-       "fecha": "2026-11-30T20:30",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Oviedo",
-       "visitante": "Celta de Vigo II",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
-       "tipo": "goles",
-       "texto": "Ambos marcan en Oviedo–Celta de Vigo II",
-       "cuota": 1.8,
-       "frecuencia": 0.8,
-       "ventaja": 0.244,
-       "detalle": "Oviedo 8/10 · Celta de Vigo II 8/10",
-       "valor_mercado": 0.053,
-       "movimiento": 0.04,
-       "cuota_inicial": 1.73,
-       "prob_xg": 0.676,
-       "xg_esperado": 3.46,
-       "posiciones": [
-        11,
-        18,
-        22
-       ],
-       "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.577
-      },
-      {
-       "partido_id": 1575548,
-       "fecha": "2026-11-30T21:15",
-       "competicion": "Primeira Liga",
-       "liga_id": 94,
-       "local": "Casa Pia",
-       "visitante": "SC Braga",
-       "mercado": "Corners 1x2",
-       "opcion": "Away",
-       "tipo": "corners",
-       "texto": "SC Braga hace más córners",
-       "cuota": 1.28,
-       "frecuencia": 0.882,
-       "ventaja": 0.101,
-       "detalle": "Casa Pia 7/8 · SC Braga 8/9",
-       "valor_mercado": 0.008,
-       "posiciones": [
-        16,
-        8,
-        18
-       ],
-       "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.495
-      }
-     ],
-     "cuota": 3.53
-    },
+    "cuota_3": null,
     "loca": null,
     "doble": null
    },
@@ -2327,7 +2376,7 @@
         22
        ],
        "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.594
+       "prob_aprendida": 0.592
       },
       {
        "partido_id": 1576539,
@@ -2345,7 +2394,9 @@
        "ventaja": 0.072,
        "detalle": "Academica 6/10 · Torreense 7/10",
        "valor_mercado": 0.018,
-       "prob_aprendida": 0.591
+       "arbitro": "da Silva Pinto",
+       "arbitro_tarjetas": null,
+       "prob_aprendida": 0.588
       }
      ],
      "cuota": 3.17,
@@ -2353,6 +2404,118 @@
      "tema": "goles"
     }
    },
+   "combis_partido": []
+  },
+  "2026-12-01": {
+   "picks": [
+    {
+     "partido_id": 1648352,
+     "fecha": "2026-12-01T20:45",
+     "competicion": "DFB-Pokal",
+     "liga_id": 81,
+     "local": "Bayern München",
+     "visitante": "Hertha BSC",
+     "mercado": "Home Player Shots",
+     "opcion": "Dayot Upamecano - 1",
+     "cuota": 1.4,
+     "frecuencia": 1.0,
+     "ventaja": 0.286,
+     "tipo": "jugador",
+     "jugador": "Dayot Upamecano",
+     "equipo": "Bayern München",
+     "jugador_id": 1149,
+     "campo": "tiros",
+     "n": 1,
+     "texto": "Dayot Upamecano: 1+ tiros",
+     "detalle": "Dayot Upamecano 10/10",
+     "copa": true,
+     "temporada": "12/13",
+     "prob_aprendida": 0.562
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1648352,
+     "fecha": "2026-12-01T20:45",
+     "competicion": "DFB-Pokal",
+     "liga_id": 81,
+     "local": "Bayern München",
+     "visitante": "Hertha BSC",
+     "mercado": "Home Player Shots",
+     "opcion": "Dayot Upamecano - 1",
+     "cuota": 1.4,
+     "frecuencia": 1.0,
+     "ventaja": 0.286,
+     "tipo": "jugador",
+     "jugador": "Dayot Upamecano",
+     "equipo": "Bayern München",
+     "jugador_id": 1149,
+     "campo": "tiros",
+     "n": 1,
+     "texto": "Dayot Upamecano: 1+ tiros",
+     "detalle": "Dayot Upamecano 10/10",
+     "copa": true,
+     "temporada": "12/13",
+     "prob_aprendida": 0.562
+    }
+   ],
+   "combis": {
+    "segura": null,
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {},
+   "combis_partido": []
+  },
+  "2026-12-03": {
+   "picks": [
+    {
+     "partido_id": 1638134,
+     "fecha": "2026-12-03T21:00",
+     "competicion": "Coppa Italia",
+     "liga_id": 137,
+     "local": "Juventus",
+     "visitante": "Sassuolo",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 2.5",
+     "tipo": "corners",
+     "texto": "Sassuolo hace más de 2,5 córners",
+     "cuota": 1.67,
+     "frecuencia": 0.8,
+     "ventaja": 0.201,
+     "detalle": "Juventus (en contra) 8/10 · Sassuolo 8/10",
+     "valor_mercado": 0.031,
+     "prob_aprendida": 0.416
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1638134,
+     "fecha": "2026-12-03T21:00",
+     "competicion": "Coppa Italia",
+     "liga_id": 137,
+     "local": "Juventus",
+     "visitante": "Sassuolo",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 2.5",
+     "tipo": "corners",
+     "texto": "Sassuolo hace más de 2,5 córners",
+     "cuota": 1.67,
+     "frecuencia": 0.8,
+     "ventaja": 0.201,
+     "detalle": "Juventus (en contra) 8/10 · Sassuolo 8/10",
+     "valor_mercado": 0.031,
+     "prob_aprendida": 0.416
+    }
+   ],
+   "combis": {
+    "segura": null,
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {},
    "combis_partido": []
   },
   "2026-12-04": {
@@ -2384,7 +2547,7 @@
       18
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.63
+     "prob_aprendida": 0.629
     }
    ],
    "mejores_por_partido": [
@@ -2415,7 +2578,7 @@
       18
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.63
+     "prob_aprendida": 0.629
     }
    ],
    "combis": {
@@ -2453,7 +2616,7 @@
       18
      ],
      "contexto": "peor_abismo_medio",
-     "prob_aprendida": 0.633
+     "prob_aprendida": 0.639
     },
     {
      "partido_id": 1575240,
@@ -2477,7 +2640,7 @@
       18
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.66
+     "prob_aprendida": 0.657
     },
     {
      "partido_id": 1575244,
@@ -2506,7 +2669,7 @@
       18
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.632
+     "prob_aprendida": 0.631
     },
     {
      "partido_id": 1575243,
@@ -2535,7 +2698,7 @@
       18
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.547
+     "prob_aprendida": 0.546
     }
    ],
    "mejores_por_partido": [
@@ -2563,7 +2726,7 @@
       18
      ],
      "contexto": "peor_abismo_medio",
-     "prob_aprendida": 0.633
+     "prob_aprendida": 0.639
     },
     {
      "partido_id": 1575240,
@@ -2587,7 +2750,7 @@
       18
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.66
+     "prob_aprendida": 0.657
     },
     {
      "partido_id": 1575244,
@@ -2616,7 +2779,7 @@
       18
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.632
+     "prob_aprendida": 0.631
     },
     {
      "partido_id": 1575243,
@@ -2645,7 +2808,7 @@
       18
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.547
+     "prob_aprendida": 0.546
     }
    ],
    "combis": {
@@ -2676,7 +2839,7 @@
         18
        ],
        "contexto": "peor_abismo_medio",
-       "prob_aprendida": 0.633
+       "prob_aprendida": 0.639
       },
       {
        "partido_id": 1575240,
@@ -2700,7 +2863,7 @@
         18
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.66
+       "prob_aprendida": 0.657
       },
       {
        "partido_id": 1575244,
@@ -2729,7 +2892,7 @@
         18
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.632
+       "prob_aprendida": 0.631
       }
      ],
      "cuota": 3.48
@@ -2762,7 +2925,7 @@
         18
        ],
        "contexto": "total_lejos_abajo",
-       "prob_aprendida": 0.653
+       "prob_aprendida": 0.648
       },
       {
        "partido_id": 1575244,
@@ -2786,7 +2949,7 @@
         18
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.653
+       "prob_aprendida": 0.65
       },
       {
        "partido_id": 1575242,
@@ -2810,7 +2973,7 @@
         18
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.644
+       "prob_aprendida": 0.641
       }
      ],
      "cuota": 4.51,
@@ -2831,17 +2994,17 @@
        "tipo": "goles",
        "texto": "Más de 1,5 goles en la 2ª parte del Racing Santander–Deportivo La Coruna",
        "cuota": 1.73,
-       "frecuencia": 0.65,
-       "ventaja": 0.072,
-       "detalle": "Racing Santander 7/10 · Deportivo La Coruna 6/10",
+       "frecuencia": 0.7,
+       "ventaja": 0.122,
+       "detalle": "Racing Santander 8/10 · Deportivo La Coruna 6/10",
        "valor_mercado": -0.034,
        "posiciones": [
-        7,
+        6,
         12,
         20
        ],
        "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.633
+       "prob_aprendida": 0.636
       },
       {
        "partido_id": 1570476,
@@ -2867,7 +3030,7 @@
         20
        ],
        "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.579
+       "prob_aprendida": 0.582
       },
       {
        "partido_id": 1552843,
@@ -2891,7 +3054,7 @@
         18
        ],
        "contexto": "mejor_lejos_abajo",
-       "prob_aprendida": 0.503
+       "prob_aprendida": 0.491
       }
      ],
      "cuota": 7.27

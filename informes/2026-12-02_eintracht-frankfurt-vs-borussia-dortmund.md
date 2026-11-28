@@ -1,10 +1,64 @@
 # Eintracht Frankfurt – Borussia Dortmund
 **DFB-Pokal** · Round of 16 · 02/12/2026 20:45 (hora España) · Deutsche Bank Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/11 08:45_
+
+- **1X2:** 1 **3.50**  ·  X **4.00**  ·  2 **1.83**
+- **Doble oportunidad:** 1X **1.91**  ·  12 **1.22**  ·  X2 **1.28**
+- **Ambos marcan:** Sí **1.40**  ·  No **2.75**
+- **Goles más/menos:**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.40** · menos **2.88**
+    - 3,5: más **1.91** · menos **1.80**
+    - 4,5: más **3.25** · menos **1.33**
+    - 5,5: más **5.50** · menos **1.14**
+    - 6,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 9,5: más **1.73** · menos **2.00**
+    - 10: más **2.00** · menos **1.80**
+- **Córners 1X2:** 1 **2.60**  ·  X **8.50**  ·  2 **1.62**
+- **1X2 descanso:** 1 **3.75**  ·  X **2.62**  ·  2 **2.30**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
+- **Both Teams Score - First Half:** Sí **3.25**  ·  No **1.33**
+- **Both Teams To Score - Second Half:** Sí **2.38**  ·  No **1.53**
+- **To Win Either Half:** 1 **2.10**  ·  2 **1.44**
+- **To Score In Both Halves By Teams:** 1 **3.40**  ·  2 **2.20**
+- **Win Both Halves:** 1 **13.00**  ·  2 **5.00**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **2.88**  ·  Home/No **9.00**  ·  Draw/No **23.00**  ·  Away/No **4.33**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.57**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **4.00**
+- **Home Corners Over/Under:**
+    - 4,5: más **2.10** · menos **1.67**
+- **Away Corners Over/Under:**
+    - 5,5: más **2.00** · menos **1.73**
+- **Total Corners (1st Half):**
+    - 4,5: más **1.90** · menos **1.90**
+- **Away Player Shots On Target Total:** Enzo Duarte **41.00**  ·  Raphael Onyedika **101.00**  ·  Galdino Otavio Manoel **13.00**  ·  Kaua Prates **51.00**  ·  Daniel Svensson **23.00**  ·  Mathis Albert **26.00**  ·  Samuele Inacio **21.00**  ·  Jobe Bellingham **21.00**  ·  Lilian Brassier **15.00**  ·  Kouakou Gadou **9.50**  ·  Konstantinos Karetsas **26.00**  ·  Filippo Mane **17.00**  ·  Elias Baum **41.00**  ·  Fares Chaibi **41.00**  ·  Oscar Hojlund **41.00**  ·  Mario Gotze **41.00**  ·  Joey Veerman **41.00**  ·  Keita Kosugi **101.00**  ·  Ayoube Amaimouni-Echghouyab **34.00**  ·  Malik Pimpong **26.00**  ·  Luca Reggiani **12.00**  ·  Jeremiaha Maluze **81.00**  ·  Niko Ilicevic **41.00**  ·  Ansgar Knauff **29.00**  ·  Can Uzun **29.00**  ·  Nnamdi Collins **23.00**  ·  Robin Koch **13.00**  ·  Timothy Chandler **29.00**  ·  Noel Aseko-Nkili **51.00**  ·  Carney Chukwuemeka **41.00**  ·  Fabio Silva **9.00**  ·  Jonathan Burkardt **6.00**  ·  Ethan Nwaneri **26.00**  ·  Ritsu Doan **34.00**  ·  Felix Nmecha **41.00**  ·  Julian Ryerson **23.00**  ·  Marcel Sabitzer **41.00**  ·  Maximilian Beier **13.00**  ·  Nico Schlotterbeck **10.00**  ·  Ramy Bensebaini **19.00**  ·  Serhou Guirassy **5.00**  ·  Waldemar Anton **13.00**  ·  Younes Ebnoutalib **7.00**  ·  Love Arrhov **34.00**
+- **Home Player Shots:** Oscar Hojlund - 1 **1.40**  ·  Galdino Otavio Manoel - 1 **1.57**  ·  Nnamdi Collins - 1 **1.57**  ·  Noel Aseko-Nkili - 1 **1.57**  ·  Robin Koch - 1 **1.57**  ·  Timothy Chandler - 1 **1.57**  ·  Elias Baum - 1 **1.73**  ·  Keita Kosugi - 1 **1.83**  ·  Fares Chaibi - 2 **1.62**  ·  Mario Gotze - 2 **1.83**  ·  Raphael Onyedika - 2 **1.80**  ·  Oscar Hojlund - 2 **2.62**  ·  Ayoube Amaimouni-Echghouyab - 3 **2.25**  ·  Can Uzun - 3 **1.91**  ·  Ritsu Doan - 3 **2.20**  ·  Ansgar Knauff - 3 **2.20**  ·  Jonathan Burkardt - 4 **2.10**  ·  Younes Ebnoutalib - 5 **2.20**  ·  Can Uzun - 7 **21.00**  ·  Lilian Brassier - 1 **1.73**  ·  Jeremiaha Maluze - 1 **1.73**  ·  Love Arrhov - 2 **2.10**  ·  Malik Pimpong - 3 **2.20**  ·  Niko Ilicevic - 2 **1.83**
+- **Away Player Shots:** Luca Reggiani - 1 **1.44**  ·  Kaua Prates - 1 **1.53**  ·  Kouakou Gadou - 1 **1.53**  ·  Filippo Mane - 1 **1.57**  ·  Waldemar Anton - 1 **1.57**  ·  Ramy Bensebaini - 2 **2.00**  ·  Carney Chukwuemeka - 2 **1.62**  ·  Enzo Duarte - 2 **1.62**  ·  Joey Veerman - 2 **1.50**  ·  Marcel Sabitzer - 2 **1.57**  ·  Julian Ryerson - 2 **2.38**  ·  Daniel Svensson - 2 **2.62**  ·  Mathis Albert - 3 **1.67**  ·  Samuele Inacio - 3 **1.91**  ·  Konstantinos Karetsas - 3 **1.57**  ·  Carney Chukwuemeka - 3 **2.75**  ·  Enzo Duarte - 3 **2.75**  ·  Joey Veerman - 3 **2.50**  ·  Felix Nmecha - 3 **2.20**  ·  Jobe Bellingham - 3 **2.25**  ·  Serhou Guirassy - 4 **1.73**  ·  Fabio Silva - 4 **2.20**  ·  Maximilian Beier - 5 **2.10**  ·  Ethan Nwaneri - 4 **2.20**  ·  Nico Schlotterbeck - 2 **2.00**
+- **Anytime Goal Scorer:** Enzo Duarte **3.75**  ·  Raphael Onyedika **6.00**  ·  Galdino Otavio Manoel **8.00**  ·  Kaua Prates **7.50**  ·  Daniel Svensson **7.50**  ·  Mathis Albert **2.75**  ·  Samuele Inacio **3.25**  ·  Jobe Bellingham **3.75**  ·  Lilian Brassier **9.50**  ·  Kouakou Gadou **7.50**  ·  Konstantinos Karetsas **3.25**  ·  Filippo Mane **8.00**  ·  Elias Baum **9.50**  ·  Fares Chaibi **5.00**  ·  Oscar Hojlund **7.50**  ·  Mario Gotze **5.00**  ·  Joey Veerman **3.75**  ·  Keita Kosugi **11.00**  ·  Ayoube Amaimouni-Echghouyab **3.75**  ·  Malik Pimpong **3.75**  ·  Luca Reggiani **7.50**  ·  Jeremiaha Maluze **9.50**  ·  Niko Ilicevic **5.00**  ·  Ansgar Knauff **5.00**  ·  Can Uzun **3.60**  ·  Nnamdi Collins **11.00**  ·  Robin Koch **9.50**  ·  Timothy Chandler **8.00**  ·  Noel Aseko-Nkili **8.00**  ·  Carney Chukwuemeka **3.75**  ·  Fabio Silva **2.40**  ·  Jonathan Burkardt **2.50**  ·  Ethan Nwaneri **2.75**  ·  Ritsu Doan **3.75**  ·  Felix Nmecha **3.60**  ·  Julian Ryerson **6.00**  ·  Marcel Sabitzer **5.00**  ·  Maximilian Beier **2.40**  ·  Nico Schlotterbeck **6.00**  ·  Ramy Bensebaini **6.00**  ·  Serhou Guirassy **1.91**  ·  Waldemar Anton **8.00**  ·  Younes Ebnoutalib **2.50**  ·  Love Arrhov **5.50**
 
 ## Estadísticas de equipo
 | | Eintracht Frankfurt (total) | Eintracht Frankfurt en casa | Borussia Dortmund (total) | Borussia Dortmund fuera |

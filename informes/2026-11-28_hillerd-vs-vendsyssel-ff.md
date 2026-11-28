@@ -1,12 +1,12 @@
 # Hillerød – Vendsyssel FF
 **1. Division** · Regular Season - 16 · 28/11/2026 13:00 (hora España) · Helsingor Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 22:13_
+_Actualizadas: 28/11 08:42_
 
-- **1X2:** 1 **2.25**  ·  X **3.50**  ·  2 **2.90**
+- **1X2:** 1 **2.30**  ·  X **3.40**  ·  2 **2.90**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.30**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
@@ -32,18 +32,18 @@ _Actualizadas: 27/11 22:13_
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **2.00** · menos **1.80**
-- **1X2 descanso:** 1 **2.88**  ·  X **2.30**  ·  2 **3.25**
+- **1X2 descanso:** 1 **2.88**  ·  X **2.30**  ·  2 **3.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
-- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
 - **To Win Either Half:** 1 **1.67**  ·  2 **1.83**
 - **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **3.75**
 - **Win Both Halves:** 1 **8.00**  ·  2 **10.00**
-- **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.00**  ·  Home/No **4.50**  ·  Draw/No **13.00**  ·  Away/No **5.50**
+- **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.00**  ·  Away/Yes **5.00**  ·  Home/No **4.50**  ·  Draw/No **13.00**  ·  Away/No **6.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.75**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.92**  ·  Menos de 4.5 **1.88**
 - **Anytime Goal Scorer:** Rasmus Schuller **9.00**  ·  Adam Vendelbo **3.75**  ·  Bilal Krubally **12.00**  ·  Hjalte Toftegaard **6.00**  ·  Hakim Sulemana **4.50**  ·  Emil Gronn Pedersen **2.40**  ·  Lasse Steffensen **3.10**  ·  Marcus Hannesbo **4.00**  ·  Saman Jalaei **3.25**  ·  Sebastian Larsen **8.00**  ·  Frederik Hogh **2.75**  ·  Mikkel Mouritz **4.50**  ·  Benjamin Clemmensen **12.00**  ·  Mads Houkjaer **12.00**  ·  Mads Lauritsen **12.00**  ·  Berzan Kucukylidiz **3.60**  ·  Nicklas Schmidt **4.00**  ·  Tobias Arndal **4.50**  ·  Jonathan Witt **6.00**  ·  Kasper Enghardt **12.00**  ·  Marcus Voigt **7.00**  ·  Niklas Wilmerskov **7.00**  ·  Oliver Lauritsen **10.00**  ·  Arni Atlason **6.00**  ·  Noah Kretzschmar **2.60**  ·  Lucas Andersen **4.00**  ·  Harald Tangen **4.75**  ·  Mads Julo **8.00**  ·  Jakob Sigurdsson **3.25**  ·  Simon Jorgensen **3.75**  ·  Andreas Hoyer **8.00**  ·  Danny Beshara **4.75**  ·  Jonathan Rosengaard **4.75**  ·  Kasper Kjellingbro **4.75**  ·  Ari Olsen **9.00**  ·  Jeppe Sommer **9.00**  ·  Malthe Holt **7.50**  ·  Precious Williams **2.75**  ·  Sebastian Lodberg **6.00**  ·  Stephen Michael **7.00**  ·  Steven Simpson **4.75**  ·  Mathias Andersen **9.00**  ·  Andreas Rise **4.75**  ·  Gustav Nohr **7.00**  ·  Hocine Derrar **7.00**  ·  Jacob Kronquist **4.50**  ·  Lucas Lundgren **10.00**  ·  Roma Wilfried **4.75**  ·  Albert Oppenhagen **8.00**  ·  Roma Seahet **7.00**  ·  Simon Levin **9.00**  ·  Poul Kallsberg **3.75**  ·  Frederik Mortensen **4.75**  ·  Rezan Corlu **4.00**  ·  Frederik Heiselberg **2.88**  ·  Magnus Munck **6.00**  ·  Hassan Ndam **12.00**  ·  Solomon Opoku **6.00**  ·  William Glindtvad **10.00**

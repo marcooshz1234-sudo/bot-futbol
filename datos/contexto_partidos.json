@@ -1,1 +1,332 @@
-{}
+{
+ "1651659": {
+  "local": {
+   "nombre": "Antequera",
+   "nivel": 3,
+   "liga": "Primera División RFEF - Group 2",
+   "ultimos": [
+    "V",
+    "V",
+    "D",
+    "V",
+    "D",
+    "V"
+   ]
+  },
+  "visitante": {
+   "nombre": "Levante",
+   "nivel": 1,
+   "liga": "La Liga",
+   "ultimos": [
+    "D",
+    "E",
+    "V",
+    "E",
+    "D",
+    "D"
+   ]
+  },
+  "sede": null,
+  "estadio_local": "Estadio El Maulí",
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
+  "aplazamientos": 1
+ },
+ "1651677": {
+  "local": {
+   "nombre": "Reddis",
+   "nivel": 4,
+   "liga": "Segunda División RFEF - Group 2",
+   "ultimos": [
+    "D",
+    "E",
+    "V",
+    "V",
+    "D",
+    "E"
+   ]
+  },
+  "visitante": {
+   "nombre": "Racing Santander",
+   "nivel": 1,
+   "liga": "La Liga",
+   "ultimos": [
+    "V",
+    "V",
+    "V",
+    "D",
+    "V",
+    "V"
+   ]
+  },
+  "sede": "Estadi Municipal de Reus",
+  "estadio_local": "Estadio Camp Nou Municipal",
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
+  "aplazamientos": 1
+ },
+ "1651669": {
+  "local": {
+   "nombre": "Huesca",
+   "nivel": 3,
+   "liga": "Primera División RFEF - Group 2",
+   "ultimos": [
+    "D",
+    "D",
+    "D",
+    "V",
+    "V",
+    "E"
+   ]
+  },
+  "visitante": {
+   "nombre": "Girona",
+   "nivel": 2,
+   "liga": "Segunda División",
+   "ultimos": [
+    "V",
+    "V",
+    "D",
+    "D",
+    "V",
+    "V"
+   ]
+  },
+  "sede": "Estadio El Alcoraz",
+  "estadio_local": "Estadio El Alcoraz",
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
+  "aplazamientos": 1
+ },
+ "1651656": {
+  "local": {
+   "nombre": "Albacete",
+   "nivel": 2,
+   "liga": "Segunda División",
+   "ultimos": [
+    "D",
+    "V",
+    "V",
+    "V",
+    "V",
+    "V"
+   ]
+  },
+  "visitante": {
+   "nombre": "Las Palmas",
+   "nivel": 2,
+   "liga": "Segunda División",
+   "ultimos": [
+    "V",
+    "D",
+    "V",
+    "V",
+    "V",
+    "V"
+   ]
+  },
+  "sede": "Estadio Carlos Belmonte",
+  "estadio_local": "Estadio Carlos Belmonte",
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
+  "aplazamientos": 1
+ },
+ "1651673": {
+  "local": {
+   "nombre": "Ponferradina",
+   "nivel": 3,
+   "liga": "Primera División RFEF - Group 1",
+   "ultimos": [
+    "V",
+    "D",
+    "E",
+    "E",
+    "E",
+    "E"
+   ]
+  },
+  "visitante": {
+   "nombre": "FC Andorra",
+   "nivel": 2,
+   "liga": "Segunda División",
+   "ultimos": [
+    "D",
+    "D",
+    "E",
+    "V",
+    "D",
+    "D"
+   ]
+  },
+  "sede": null,
+  "estadio_local": "Estadio El Toralín",
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
+  "aplazamientos": 1
+ },
+ "1651664": {
+  "local": {
+   "nombre": "Europa Fc",
+   "nivel": 3,
+   "liga": "Primera División RFEF - Group 2",
+   "ultimos": [
+    "V",
+    "D",
+    "V",
+    "D",
+    "V",
+    "D"
+   ]
+  },
+  "visitante": {
+   "nombre": "Rayo Vallecano",
+   "nivel": 1,
+   "liga": "La Liga",
+   "ultimos": [
+    "D",
+    "D",
+    "V",
+    "V",
+    "D",
+    "E"
+   ]
+  },
+  "sede": "Nou Sardenya Municipal Stadium",
+  "estadio_local": "Camp Municipal de Futbol Nou Sardenya",
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
+  "aplazamientos": 1
+ },
+ "1651672": {
+  "local": {
+   "nombre": "Numancia",
+   "nivel": 4,
+   "liga": "Segunda División RFEF - Group 5",
+   "ultimos": [
+    "V",
+    "E",
+    "V",
+    "V",
+    "E",
+    "D"
+   ]
+  },
+  "visitante": {
+   "nombre": "Athletic Club",
+   "nivel": 1,
+   "liga": "La Liga",
+   "ultimos": [
+    "D",
+    "E",
+    "V",
+    "V",
+    "V",
+    "D"
+   ]
+  },
+  "sede": "Nuevo Estadio Los Pajaritos",
+  "estadio_local": "Nuevo Estadio Los Pajaritos",
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
+  "aplazamientos": 1
+ },
+ "1651668": {
+  "local": {
+   "nombre": "FC Cartagena",
+   "nivel": 3,
+   "liga": "Primera División RFEF - Group 2",
+   "ultimos": [
+    "V",
+    "V",
+    "V",
+    "E",
+    "D",
+    "D"
+   ]
+  },
+  "visitante": {
+   "nombre": "Elche",
+   "nivel": 1,
+   "liga": "La Liga",
+   "ultimos": [
+    "E",
+    "D",
+    "D",
+    "V",
+    "V",
+    "E"
+   ]
+  },
+  "sede": "Estadio Municipal Cartagonova",
+  "estadio_local": "Estadio Municipal Cartagonova",
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
+  "aplazamientos": 1
+ },
+ "1651681": {
+  "local": {
+   "nombre": "Gimnástica Torrelavega",
+   "nivel": 4,
+   "liga": "Segunda División RFEF - Group 1",
+   "ultimos": [
+    "V",
+    "D",
+    "E",
+    "D",
+    "V",
+    "D"
+   ]
+  },
+  "visitante": {
+   "nombre": "Alaves",
+   "nivel": 1,
+   "liga": "La Liga",
+   "ultimos": [
+    "V",
+    "V",
+    "E",
+    "D",
+    "E",
+    "D"
+   ]
+  },
+  "sede": "Estadio El Malecon",
+  "estadio_local": "Estadio El Malecón",
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
+  "aplazamientos": 1
+ },
+ "1651663": {
+  "local": {
+   "nombre": "Extremadura 1924",
+   "nivel": 3,
+   "liga": "Primera División RFEF - Group 1",
+   "ultimos": [
+    "D",
+    "D",
+    "D",
+    "V",
+    "V",
+    "V"
+   ]
+  },
+  "visitante": {
+   "nombre": "Real Betis",
+   "nivel": 1,
+   "liga": "La Liga",
+   "ultimos": [
+    "V",
+    "E",
+    "V",
+    "V",
+    "D",
+    "V"
+   ]
+  },
+  "sede": "Estadio Francisco de la Hera",
+  "estadio_local": null,
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
+  "aplazamientos": 1
+ }
+}

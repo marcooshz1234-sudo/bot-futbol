@@ -1,10 +1,65 @@
 # Bayern München – Hertha BSC
 **DFB-Pokal** · Round of 16 · 01/12/2026 20:45 (hora España) · Allianz Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/11 08:44_
+
+- **1X2:** 1 **1.14**  ·  X **7.50**  ·  2 **12.00**
+- **Doble oportunidad:** 1X **1.05**  ·  12 **1.10**  ·  X2 **5.50**
+- **Ambos marcan:** Sí **1.50**  ·  No **2.50**
+- **Goles más/menos:**
+    - 2,5: más **1.14** · menos **5.50**
+    - 3,5: más **1.36** · menos **3.00**
+    - 4,5: más **1.83** · menos **1.83**
+    - 5,5: más **2.75** · menos **1.40**
+    - 6,5: más **4.50** · menos **1.18**
+    - 7,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 1,5: más **1.10** · menos **7.00**
+    - 2,5: más **1.33** · menos **3.25**
+    - 3,5: más **1.83** · menos **1.83**
+    - 4,5: más **2.75** · menos **1.40**
+    - 5,5: más **5.00** · menos **1.17**
+    - 6,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **1.50** · menos **2.50**
+    - 1,5: más **3.40** · menos **1.30**
+    - 2,5: más **10.00** · menos **1.06**
+- **Córners más/menos:**
+    - 10,5: más **1.91** · menos **1.80**
+- **Córners 1X2:** 1 **1.10**  ·  X **13.00**  ·  2 **7.50**
+- **1X2 descanso:** 1 **1.44**  ·  X **3.75**  ·  2 **8.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.30** · menos **3.40**
+    - 2,5: más **1.91** · menos **1.80**
+    - 3,5: más **3.50** · menos **1.28**
+    - 4,5: más **7.00** · menos **1.10**
+- **Both Teams Score - First Half:** Sí **3.25**  ·  No **1.33**
+- **Both Teams To Score - Second Half:** Sí **2.38**  ·  No **1.53**
+- **To Win Either Half:** 1 **1.08**  ·  2 **4.50**
+- **To Score In Both Halves By Teams:** 1 **1.36**  ·  2 **5.50**
+- **Win Both Halves:** 1 **2.00**  ·  2 **51.00**
+- **Results/Both Teams Score:** Home/Yes **1.91**  ·  Draw/Yes **8.00**  ·  Away/Yes **15.00**  ·  Home/No **2.62**  ·  Draw/No **34.00**  ·  Away/No **29.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.57**  ·  o/no 2.5 **3.50**  ·  u/yes 2.5 **19.00**  ·  u/no 2.5 **7.00**
+- **Home Corners Over/Under:**
+    - 7,5: más **1.91** · menos **1.80**
+- **Away Corners Over/Under:**
+    - 2,5: más **1.83** · menos **1.83**
+- **Total Corners (1st Half):**
+    - 5: más **1.98** · menos **1.82**
+- **Away Player Shots On Target Total:** Lennart Karl **8.00**  ·  Luis Diaz **7.00**  ·  David Daiber **26.00**  ·  Gustaf Nilsson **7.00**  ·  Josip Stanisic **17.00**  ·  Mads Pedersen **101.00**  ·  Bara Ndiaye **12.00**  ·  Tim Binder **13.00**  ·  Tom Bischof **29.00**  ·  Josip Brekalo **34.00**  ·  Aleksandar Pavlovic **29.00**  ·  Alphonso Davies **21.00**  ·  Dayot Upamecano **12.00**  ·  Jamal Musiala **9.50**  ·  Joshua Kimmich **13.00**  ·  Konrad Laimer **17.00**  ·  Michael Olise **15.00**  ·  Nathaniel Brown **17.00**  ·  Min-Jae Kim **13.00**  ·  Sacha Boey **41.00**  ·  Hiroki Ito **9.00**  ·  Jonathan Tah **7.50**
+- **Home Player Shots:** Nathaniel Brown - 1 **1.01**  ·  Bara Ndiaye - 1 **1.06**  ·  Aleksandar Pavlovic - 1 **1.11**  ·  Alphonso Davies - 1 **1.03**  ·  Konrad Laimer - 1 **1.01**  ·  Hiroki Ito - 1 **1.17**  ·  Joshua Kimmich - 1 **1.03**  ·  Jonathan Tah - 1 **1.20**  ·  Sacha Boey - 1 **1.20**  ·  Dayot Upamecano - 1 **1.40**  ·  Josip Stanisic - 1 **1.40**  ·  Min-Jae Kim - 1 **1.73**  ·  Michael Olise - 2 **1.01**  ·  Luis Diaz - 2 **1.02**  ·  Jamal Musiala - 2 **1.04**  ·  Lennart Karl - 2 **1.06**  ·  Nathaniel Brown - 2 **1.10**  ·  Bara Ndiaye - 2 **1.30**  ·  Aleksandar Pavlovic - 2 **1.50**  ·  Alphonso Davies - 2 **1.20**  ·  Konrad Laimer - 2 **1.08**  ·  Hiroki Ito - 2 **1.73**  ·  Joshua Kimmich - 2 **1.17**  ·  Jonathan Tah - 2 **1.83**  ·  Sacha Boey - 2 **1.83**  ·  Dayot Upamecano - 2 **2.62**  ·  Josip Stanisic - 2 **2.62**  ·  Min-Jae Kim - 2 **4.33**  ·  Michael Olise - 3 **1.06**  ·  Luis Diaz - 3 **1.10**  ·  Jamal Musiala - 3 **1.14**  ·  Lennart Karl - 3 **1.22**  ·  Nathaniel Brown - 3 **1.30**  ·  Bara Ndiaye - 3 **1.83**  ·  Aleksandar Pavlovic - 3 **2.50**  ·  Alphonso Davies - 3 **1.62**  ·  Konrad Laimer - 3 **1.25**  ·  Hiroki Ito - 3 **3.25**  ·  Joshua Kimmich - 3 **1.53**  ·  Jonathan Tah - 3 **3.50**  ·  Sacha Boey - 3 **3.50**  ·  Dayot Upamecano - 3 **6.00**  ·  Josip Stanisic - 3 **6.00**  ·  Min-Jae Kim - 3 **13.00**  ·  Michael Olise - 4 **1.18**  ·  Luis Diaz - 4 **1.25**  ·  Jamal Musiala - 4 **1.36**  ·  Lennart Karl - 4 **1.53**  ·  Nathaniel Brown - 4 **1.73**  ·  Bara Ndiaye - 4 **3.25**  ·  Aleksandar Pavlovic - 4 **4.50**  ·  Alphonso Davies - 4 **2.38**  ·  Konrad Laimer - 4 **1.62**  ·  Hiroki Ito - 4 **6.50**  ·  Joshua Kimmich - 4 **2.20**  ·  Jonathan Tah - 4 **8.00**  ·  Sacha Boey - 4 **8.00**  ·  Dayot Upamecano - 4 **15.00**  ·  Josip Stanisic - 4 **15.00**  ·  Michael Olise - 5 **1.40**  ·  Luis Diaz - 5 **1.57**  ·  Jamal Musiala - 5 **1.80**  ·  Lennart Karl - 5 **2.10**  ·  Nathaniel Brown - 5 **2.62**  ·  Bara Ndiaye - 5 **6.00**  ·  Aleksandar Pavlovic - 5 **10.00**  ·  Alphonso Davies - 5 **4.00**  ·  Konrad Laimer - 5 **2.38**  ·  Hiroki Ito - 5 **15.00**  ·  Joshua Kimmich - 5 **3.75**  ·  Jonathan Tah - 5 **17.00**  ·  Sacha Boey - 5 **17.00**  ·  Michael Olise - 6 **1.83**  ·  Luis Diaz - 6 **2.10**  ·  Jamal Musiala - 6 **2.62**  ·  Lennart Karl - 6 **3.25**  ·  Nathaniel Brown - 6 **4.00**  ·  Bara Ndiaye - 6 **11.00**  ·  Aleksandar Pavlovic - 6 **19.00**  ·  Alphonso Davies - 6 **8.00**  ·  Konrad Laimer - 6 **3.75**  ·  Michael Olise - 7 **2.50**  ·  Luis Diaz - 7 **3.25**  ·  Jamal Musiala - 7 **4.00**  ·  Lennart Karl - 7 **5.50**  ·  Nathaniel Brown - 7 **7.00**  ·  Bara Ndiaye - 7 **21.00**  ·  Michael Olise - 8 **3.75**  ·  Luis Diaz - 8 **5.00**  ·  Jamal Musiala - 8 **6.50**  ·  Lennart Karl - 8 **10.00**  ·  Michael Olise - 9 **6.00**  ·  Luis Diaz - 9 **8.00**  ·  Jamal Musiala - 9 **11.00**  ·  Lennart Karl - 9 **17.00**  ·  Michael Olise - 10 **10.00**  ·  Luis Diaz - 10 **13.00**  ·  Michael Olise - 11 **17.00**  ·  Min-Jae Kim - 4 **21.00**  ·  Tom Bischof - 1 **1.03**  ·  Tom Bischof - 2 **1.18**  ·  Tom Bischof - 3 **1.57**  ·  Tom Bischof - 4 **2.38**  ·  Tom Bischof - 5 **3.75**  ·  Tom Bischof - 6 **7.00**  ·  Jamal Musiala - 10 **19.00**  ·  Tom Bischof - 7 **13.00**  ·  Jamal Musiala - 11 **21.00**  ·  Tom Bischof - 8 **21.00**  ·  Hiroki Ito - 6 **21.00**  ·  Joshua Kimmich - 6 **6.50**  ·  Nathaniel Brown - 8 **13.00**  ·  Tim Binder - 1 **1.04**  ·  Tim Binder - 2 **1.22**  ·  Tim Binder - 3 **1.67**  ·  Tim Binder - 4 **2.62**  ·  Tim Binder - 5 **4.33**  ·  Alphonso Davies - 7 **15.00**  ·  David Daiber - 1 **1.11**  ·  David Daiber - 2 **1.53**  ·  David Daiber - 3 **2.50**  ·  David Daiber - 4 **4.50**  ·  David Daiber - 5 **10.00**  ·  Tim Binder - 6 **8.00**  ·  David Daiber - 6 **19.00**  ·  Tim Binder - 7 **17.00**  ·  Alphonso Davies - 8 **21.00**  ·  Joshua Kimmich - 7 **13.00**  ·  Joshua Kimmich - 8 **21.00**  ·  Konrad Laimer - 7 **6.00**  ·  Konrad Laimer - 8 **11.00**  ·  Konrad Laimer - 9 **19.00**  ·  Nathaniel Brown - 9 **21.00**  ·  Lennart Karl - 10 **21.00**  ·  Luis Diaz - 11 **21.00**  ·  Michael Olise - 12 **21.00**
+- **Away Player Shots:** Gustaf Nilsson - 1 **1.08**  ·  Gustaf Nilsson - 2 **1.40**  ·  Gustaf Nilsson - 3 **2.20**  ·  Gustaf Nilsson - 4 **3.75**  ·  Gustaf Nilsson - 5 **8.00**  ·  Gustaf Nilsson - 6 **15.00**  ·  Josip Brekalo - 1 **1.11**  ·  Farid Alfa-Ruprecht - 1 **1.17**  ·  Jan-Luca Schuler - 1 **1.20**  ·  Jelani Ndi - 1 **1.20**  ·  Jon Dagur Thorsteinsson - 1 **1.17**  ·  Niklas Hildebrandt - 1 **1.20**  ·  Oluwaseun Adewumi - 1 **1.20**  ·  Sebastian Gronning - 1 **1.17**  ·  Deyovaisio Zeefuik - 1 **1.40**  ·  Kevin Sessa - 1 **1.53**  ·  Soufian Gouram - 1 **1.40**  ·  Mads Pedersen - 1 **1.67**  ·  Paul Seguin - 1 **1.53**  ·  Selim Telib - 1 **1.53**  ·  Pascal Klemens - 1 **1.73**  ·  Julian Eitschberger - 1 **1.83**  ·  Mayson Grothe - 1 **1.83**  ·  Jerome Diallo - 1 **2.38**  ·  Marton Dardai - 1 **2.38**  ·  Linus Gechter - 1 **2.75**  ·  Niklas Kolbe - 1 **2.75**  ·  Josip Brekalo - 2 **1.53**  ·  Farid Alfa-Ruprecht - 2 **1.73**  ·  Jan-Luca Schuler - 2 **1.83**  ·  Jelani Ndi - 2 **1.83**  ·  Jon Dagur Thorsteinsson - 2 **1.73**  ·  Niklas Hildebrandt - 2 **1.83**  ·  Oluwaseun Adewumi - 2 **1.83**  ·  Sebastian Gronning - 2 **1.73**  ·  Deyovaisio Zeefuik - 2 **2.62**  ·  Kevin Sessa - 2 **3.40**  ·  Soufian Gouram - 2 **2.62**  ·  Mads Pedersen - 2 **3.75**  ·  Paul Seguin - 2 **3.40**  ·  Selim Telib - 2 **3.25**  ·  Pascal Klemens - 2 **4.33**  ·  Julian Eitschberger - 2 **5.00**  ·  Mayson Grothe - 2 **5.00**  ·  Jerome Diallo - 2 **8.00**  ·  Marton Dardai - 2 **8.00**  ·  Linus Gechter - 2 **10.00**  ·  Niklas Kolbe - 2 **10.00**  ·  Josip Brekalo - 3 **2.50**  ·  Farid Alfa-Ruprecht - 3 **3.00**  ·  Jan-Luca Schuler - 3 **3.50**  ·  Jelani Ndi - 3 **3.50**  ·  Jon Dagur Thorsteinsson - 3 **3.00**  ·  Niklas Hildebrandt - 3 **3.50**  ·  Oluwaseun Adewumi - 3 **3.50**  ·  Sebastian Gronning - 3 **3.00**  ·  Deyovaisio Zeefuik - 3 **6.00**  ·  Kevin Sessa - 3 **8.00**  ·  Soufian Gouram - 3 **6.00**  ·  Mads Pedersen - 3 **11.00**  ·  Paul Seguin - 3 **8.00**  ·  Selim Telib - 3 **8.00**  ·  Pascal Klemens - 3 **13.00**  ·  Julian Eitschberger - 3 **15.00**  ·  Mayson Grothe - 3 **15.00**  ·  Jerome Diallo - 3 **21.00**  ·  Marton Dardai - 3 **21.00**  ·  Josip Brekalo - 4 **4.50**  ·  Farid Alfa-Ruprecht - 4 **6.00**  ·  Jan-Luca Schuler - 4 **8.00**  ·  Jelani Ndi - 4 **8.00**  ·  Jon Dagur Thorsteinsson - 4 **6.00**  ·  Niklas Hildebrandt - 4 **8.00**  ·  Oluwaseun Adewumi - 4 **8.00**  ·  Sebastian Gronning - 4 **6.00**  ·  Deyovaisio Zeefuik - 4 **15.00**  ·  Kevin Sessa - 4 **21.00**  ·  Soufian Gouram - 4 **15.00**  ·  Mads Pedersen - 4 **21.00**  ·  Paul Seguin - 4 **21.00**  ·  Selim Telib - 4 **21.00**  ·  Josip Brekalo - 5 **10.00**  ·  Farid Alfa-Ruprecht - 5 **13.00**  ·  Jan-Luca Schuler - 5 **17.00**  ·  Jelani Ndi - 5 **17.00**  ·  Jon Dagur Thorsteinsson - 5 **13.00**  ·  Niklas Hildebrandt - 5 **17.00**  ·  Oluwaseun Adewumi - 5 **17.00**  ·  Sebastian Gronning - 5 **13.00**  ·  Josip Brekalo - 6 **19.00**  ·  Linus Gechter - 3 **21.00**  ·  Niklas Kolbe - 3 **21.00**  ·  Farid Alfa-Ruprecht - 6 **21.00**  ·  Jon Dagur Thorsteinsson - 6 **21.00**  ·  Sebastian Gronning - 6 **21.00**
+- **Anytime Goal Scorer:** Lennart Karl **1.73**  ·  Jelani Ndi **5.00**  ·  Selim Telib **7.50**  ·  Jon Dagur Thorsteinsson **4.50**  ·  Luis Diaz **1.57**  ·  David Daiber **4.00**  ·  Marton Dardai **15.00**  ·  Sebastian Gronning **4.50**  ·  Niklas Hildebrandt **5.00**  ·  Gustaf Nilsson **3.60**  ·  Jan-Luca Schuler **5.00**  ·  Josip Stanisic **6.50**  ·  Mads Pedersen **11.00**  ·  Kevin Sessa **7.50**  ·  Niklas Kolbe **19.00**  ·  Deyovaisio Zeefuik **6.50**  ·  Pascal Klemens **9.50**  ·  Julian Eitschberger **11.00**  ·  Linus Gechter **19.00**  ·  Oluwaseun Adewumi **5.00**  ·  Paul Seguin **7.50**  ·  Bara Ndiaye **3.20**  ·  Soufian Gouram **6.50**  ·  Mayson Grothe **11.00**  ·  Jerome Diallo **15.00**  ·  Tim Binder **2.75**  ·  Farid Alfa-Ruprecht **4.50**  ·  Tom Bischof **3.20**  ·  Josip Brekalo **4.00**  ·  Aleksandar Pavlovic **4.50**  ·  Alphonso Davies **2.75**  ·  Dayot Upamecano **6.50**  ·  Jamal Musiala **1.57**  ·  Joshua Kimmich **2.75**  ·  Konrad Laimer **1.83**  ·  Michael Olise **1.57**  ·  Nathaniel Brown **1.95**  ·  Min-Jae Kim **9.50**  ·  Sacha Boey **5.00**  ·  Hiroki Ito **5.00**  ·  Jonathan Tah **5.00**
 
 ## Estadísticas de equipo
 | | Bayern München (total) | Bayern München en casa | Hertha BSC (total) | Hertha BSC fuera |

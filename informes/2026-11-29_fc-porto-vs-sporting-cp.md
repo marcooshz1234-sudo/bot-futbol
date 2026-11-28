@@ -1,10 +1,10 @@
 # FC Porto – Sporting CP
 **Primeira Liga** · Regular Season - 12 · 29/11/2026 21:30 (hora España) · Estádio do Dragão
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 22:15_
+_Actualizadas: 28/11 08:44_
 
 - **1X2:** 1 **1.91**  ·  X **3.50**  ·  2 **3.90**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.83**
@@ -12,9 +12,9 @@ _Actualizadas: 27/11 22:15_
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.25** · menos **3.75**
-    - 2,5: más **1.85** · menos **1.95**
+    - 2,5: más **1.90** · menos **1.90**
     - 3,5: más **3.25** · menos **1.33**
-    - 4,5: más **6.00** · menos **1.12**
+    - 4,5: más **6.50** · menos **1.11**
     - 5,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
@@ -50,6 +50,8 @@ _Actualizadas: 27/11 22:15_
 - **Away Corners Over/Under:**
     - 3,5: más **1.83** · menos **1.83**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.92**  ·  Menos de 4 **1.88**
+- **Total ShotOnGoal:**
+    - 8,5: más **1.83** · menos **1.83**
 - **ShotOnTarget 1x2:** 1 **1.57**  ·  X **7.50**  ·  2 **2.88**
 - **Total Shots:**
     - 25,5: más **1.83** · menos **1.83**

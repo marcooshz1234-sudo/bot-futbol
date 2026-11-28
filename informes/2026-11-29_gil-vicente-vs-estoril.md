@@ -1,10 +1,10 @@
 # GIL Vicente – Estoril
 **Primeira Liga** · Regular Season - 12 · 29/11/2026 19:00 (hora España) · Estadio Cidade de Barcelos
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Actualizadas: 27/11 22:15_
+_Actualizadas: 28/11 08:44_
 
 - **1X2:** 1 **1.80**  ·  X **3.60**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.28**  ·  X2 **1.95**
@@ -15,6 +15,10 @@ _Actualizadas: 27/11 22:15_
     - 2,5: más **1.95** · menos **1.85**
     - 3,5: más **3.40** · menos **1.30**
     - 4,5: más **6.50** · menos **1.11**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
 - **Goles del local:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
@@ -27,6 +31,7 @@ _Actualizadas: 27/11 22:15_
 - **Córners más/menos:**
     - 9: más **1.85** · menos **1.95**
     - 9,5: más **2.10** · menos **1.67**
+- **Córners 1X2:** 1 **1.53**  ·  X **8.00**  ·  2 **2.88**
 - **1X2 descanso:** 1 **2.40**  ·  X **2.20**  ·  2 **4.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**

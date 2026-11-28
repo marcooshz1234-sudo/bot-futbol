@@ -1,7 +1,7 @@
 # Sabadell – Eibar
 **Segunda División** · Regular Season - 17 · 05/12/2026 16:15 (hora España) · Estadi de la Nova Creu Alta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,50 +9,50 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Sabadell (total) | Sabadell en casa | Eibar (total) | Eibar fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 7 | 15 | 8 |
-| Forma (últimos 5) | EVDED | EEEEV | DEVED | DVDDV |
-| Balance | 5V 7E 4D | 3V 4E 0D | 8V 3E 4D | 5V 0E 3D |
-| Goles a favor / partido | 1,00 | 1,29 | 1,73 | 1,88 |
-| Goles en contra / partido | 0,88 | 0,71 | 1,13 | 1,12 |
-| Goles a favor 1ª parte | 0,56 | 0,57 | 0,87 | 1,00 |
-| Goles a favor 2ª parte | 0,44 | 0,71 | 0,87 | 0,88 |
-| Goles en contra 1ª parte | 0,62 | 0,29 | 0,53 | 0,50 |
-| Goles en contra 2ª parte | 0,25 | 0,43 | 0,60 | 0,62 |
-| Más de 1,5 goles | 62% | 57% | 87% | 88% |
-| Más de 2,5 goles | 31% | 29% | 60% | 75% |
+| Partidos analizados | 17 | 7 | 15 | 8 |
+| Forma (últimos 5) | EEVDE | EEEEV | DEVED | DVDDV |
+| Balance | 5V 8E 4D | 3V 4E 0D | 8V 3E 4D | 5V 0E 3D |
+| Goles a favor / partido | 0,94 | 1,29 | 1,73 | 1,88 |
+| Goles en contra / partido | 0,82 | 0,71 | 1,13 | 1,12 |
+| Goles a favor 1ª parte | 0,53 | 0,57 | 0,87 | 1,00 |
+| Goles a favor 2ª parte | 0,41 | 0,71 | 0,87 | 0,88 |
+| Goles en contra 1ª parte | 0,59 | 0,29 | 0,53 | 0,50 |
+| Goles en contra 2ª parte | 0,24 | 0,43 | 0,60 | 0,62 |
+| Más de 1,5 goles | 59% | 57% | 87% | 88% |
+| Más de 2,5 goles | 29% | 29% | 60% | 75% |
 | Más de 3,5 goles | 12% | 29% | 33% | 38% |
-| Ambos marcan | 44% | 57% | 60% | 50% |
-| Portería a cero | 38% | 43% | 33% | 38% |
-| Se queda sin marcar | 44% | 29% | 7% | 12% |
-| xG a favor | 1,24 | 1,27 | 1,61 | 1,50 |
-| xG en contra | 0,98 | 1,04 | 1,33 | 1,77 |
-| Tiros / partido | 14,5 | 16,4 | 13,2 | 11,0 |
-| Tiros a puerta / partido | 3,7 | 5,3 | 5,2 | 4,6 |
-| Tiros recibidos | 10,1 | 9,9 | 16,7 | 21,4 |
+| Ambos marcan | 41% | 57% | 60% | 50% |
+| Portería a cero | 41% | 43% | 33% | 38% |
+| Se queda sin marcar | 47% | 29% | 7% | 12% |
+| xG a favor | 1,18 | 1,27 | 1,61 | 1,50 |
+| xG en contra | 1,00 | 1,04 | 1,33 | 1,77 |
+| Tiros / partido | 14,3 | 16,4 | 13,2 | 11,0 |
+| Tiros a puerta / partido | 3,6 | 5,3 | 5,2 | 4,6 |
+| Tiros recibidos | 10,0 | 9,9 | 16,7 | 21,4 |
 | Tiros a puerta recibidos | 3,1 | 2,1 | 5,4 | 6,7 |
 | Posesión media % | 45 | 49 | 46 | 42 |
-| Córners a favor | 5,3 | 5,9 | 3,3 | 1,9 |
-| Córners en contra | 3,4 | 2,7 | 5,8 | 7,9 |
-| Córners a favor 1ª parte | 2,7 | 3,3 | 2,4 | 1,7 |
+| Córners a favor | 5,6 | 5,9 | 3,3 | 1,9 |
+| Córners en contra | 3,5 | 2,7 | 5,8 | 7,9 |
+| Córners a favor 1ª parte | 3,0 | 3,3 | 2,4 | 1,7 |
 | Córners a favor 2ª parte | 2,6 | 2,6 | 0,9 | 0,1 |
-| Córners totales del partido | 8,7 | 8,6 | 9,1 | 9,7 |
-| Córners totales 1ª parte | 4,2 | 4,1 | 5,2 | 5,6 |
+| Córners totales del partido | 9,1 | 8,6 | 9,1 | 9,7 |
+| Córners totales 1ª parte | 4,6 | 4,1 | 5,2 | 5,6 |
 | Córners totales 2ª parte | 4,5 | 4,4 | 3,9 | 4,1 |
-| Más de 8,5 córners | 53% | 43% | 50% | 57% |
-| Más de 9,5 córners | 40% | 29% | 43% | 43% |
-| Más de 10,5 córners | 27% | 29% | 29% | 43% |
+| Más de 8,5 córners | 56% | 43% | 50% | 57% |
+| Más de 9,5 córners | 44% | 29% | 43% | 43% |
+| Más de 10,5 córners | 31% | 29% | 29% | 43% |
 | Faltas cometidas | 17,1 | 17,3 | 11,1 | 11,4 |
-| Faltas recibidas | 10,3 | 10,9 | 12,4 | 11,6 |
-| Amarillas propias | 3,0 | 3,1 | 2,0 | 2,4 |
-| Amarillas del rival | 2,4 | 3,3 | 3,3 | 3,0 |
-| Rojas / partido | 0,13 | 0,00 | 0,14 | 0,14 |
+| Faltas recibidas | 10,2 | 10,9 | 12,4 | 11,6 |
+| Amarillas propias | 2,9 | 3,1 | 2,0 | 2,4 |
+| Amarillas del rival | 2,5 | 3,3 | 3,3 | 3,0 |
+| Rojas / partido | 0,12 | 0,00 | 0,14 | 0,14 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Sabadell | Recibe Sabadell | Tarjetas Sabadell | Goles Eibar | Recibe Eibar | Tarjetas Eibar |
 |---|---|---|---|---|---|---|
-| 1-15' | 3 | 4 | 5 | 6 | 3 | 2 |
+| 1-15' | 3 | 4 | 6 | 6 | 3 | 2 |
 | 16-30' | 4 | 2 | 5 | 3 | 2 | 2 |
-| 31-45' | 2 | 4 | 11 | 4 | 3 | 6 |
+| 31-45' | 2 | 4 | 12 | 4 | 3 | 6 |
 | 46-60' | 2 | 1 | 10 | 4 | 4 | 5 |
 | 61-75' | 0 | 2 | 5 | 6 | 2 | 4 |
 | 76-90' | 5 | 1 | 12 | 3 | 3 | 12 |
@@ -68,36 +68,36 @@ _Sin precedentes recientes._
 ## Últimos partidos de Sabadell
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-27 | Segunda División | Leganes 0-0 Sabadell | fuera | 9-5 | 12 (3) - 9 (2) | 2-4 |
 | 2026-11-21 | Segunda División | Sabadell 1-1 Granada CF | casa | 10-2 | 13 (6) - 9 (3) | 4-5 |
 | 2026-11-18 | Copa del Rey | Utebo 0-3 Sabadell | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-15 | Segunda División | Eldense 2-0 Sabadell | fuera | 2-1 | 5 (0) - 14 (6) | 2-2 |
 | 2026-11-09 | Segunda División | Sabadell 0-0 Real Sociedad II | casa | 5-3 | 19 (3) - 10 (1) | 2-3 |
 | 2026-10-31 | Segunda División | Albacete 2-1 Sabadell | fuera | 6-7 | 25 (5) - 5 (2) | 3-1 |
-| 2026-10-25 | Segunda División | Sabadell 1-1 Tenerife | casa | 4-5 | 14 (4) - 11 (3) | 5-3 |
 
 ## Jugadores de Sabadell
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Diego Fuoli | G | 15 | 1350 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| J. Priego | D | 15 | 1218 | 0 | 1 | 23 | 1,5 | 8 | 0,5 | 11 | 4 | 0,3 | 2 | 0 |
-| Óscar Sanz | D | 14 | 1146 | 2 | 0 | 13 | 0,9 | 4 | 0,3 | 27 | 7 | 0,5 | 7 | 0 |
-| Ton Ripoll | D | 15 | 1141 | 0 | 4 | 9 | 0,6 | 3 | 0,2 | 16 | 10 | 0,7 | 1 | 0 |
+| Diego Fuoli | G | 16 | 1440 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| J. Priego | M | 16 | 1301 | 0 | 1 | 24 | 1,5 | 9 | 0,6 | 11 | 5 | 0,3 | 2 | 0 |
+| Ton Ripoll | M | 16 | 1231 | 0 | 4 | 11 | 0,7 | 3 | 0,2 | 17 | 10 | 0,6 | 1 | 0 |
+| Óscar Sanz | D | 15 | 1204 | 2 | 0 | 13 | 0,9 | 4 | 0,3 | 30 | 8 | 0,5 | 8 | 0 |
+| Edgar González | D | 13 | 1088 | 1 | 0 | 7 | 0,5 | 3 | 0,2 | 19 | 12 | 0,9 | 6 | 0 |
 | Urri | M | 12 | 1080 | 1 | 1 | 7 | 0,6 | 2 | 0,2 | 28 | 14 | 1,2 | 4 | 0 |
-| Edgar González | M | 12 | 998 | 1 | 0 | 7 | 0,6 | 3 | 0,2 | 17 | 12 | 1,0 | 6 | 0 |
+| Pere Pons | M | 16 | 1051 | 0 | 1 | 8 | 0,5 | 2 | 0,1 | 19 | 11 | 0,7 | 3 | 0 |
+| Ángel Baena | M | 13 | 982 | 3 | 1 | 17 | 1,3 | 6 | 0,5 | 14 | 21 | 1,6 | 1 | 0 |
 | Q. Liameed | M | 13 | 971 | 0 | 3 | 7 | 0,5 | 3 | 0,2 | 16 | 16 | 1,2 | 2 | 0 |
-| Pere Pons | M | 15 | 961 | 0 | 1 | 7 | 0,5 | 2 | 0,1 | 19 | 11 | 0,7 | 3 | 0 |
-| Ángel Baena | F | 12 | 892 | 3 | 1 | 17 | 1,4 | 6 | 0,5 | 13 | 19 | 1,6 | 1 | 0 |
-| Miki Codina | D | 10 | 657 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 9 | 6 | 0,6 | 2 | 0 |
-| José Luis Català | D | 14 | 651 | 0 | 0 | 4 | 0,3 | 1 | 0,1 | 11 | 5 | 0,4 | 2 | 1 |
-| Gastón Valles | F | 9 | 481 | 1 | 0 | 12 | 1,3 | 4 | 0,4 | 14 | 3 | 0,3 | 2 | 0 |
+| Miki Codina | M | 11 | 740 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 9 | 6 | 0,5 | 2 | 0 |
+| José Luis Català | D | 15 | 683 | 0 | 0 | 4 | 0,3 | 1 | 0,1 | 13 | 5 | 0,3 | 2 | 1 |
+| Y. Rahmani | M | 12 | 492 | 0 | 1 | 18 | 1,5 | 3 | 0,2 | 11 | 12 | 1,0 | 1 | 0 |
+| Gastón Valles | F | 10 | 488 | 1 | 0 | 12 | 1,2 | 4 | 0,4 | 16 | 3 | 0,3 | 2 | 0 |
 | Arthur Bonaldo |  | 7 | 457 | 0 | 0 | 7 | 1,0 | 0 | 0,0 | 11 | 2 | 0,3 | 2 | 0 |
-| Y. Rahmani | F | 11 | 429 | 0 | 1 | 15 | 1,4 | 3 | 0,3 | 9 | 8 | 0,7 | 0 | 0 |
-| Eneko Aguilar | M | 13 | 363 | 1 | 0 | 6 | 0,5 | 1 | 0,1 | 7 | 1 | 0,1 | 1 | 0 |
-| Javi López | M | 9 | 341 | 0 | 0 | 12 | 1,3 | 3 | 0,3 | 3 | 2 | 0,2 | 1 | 0 |
+| Eneko Aguilar | M | 14 | 390 | 1 | 0 | 7 | 0,5 | 2 | 0,1 | 8 | 1 | 0,1 | 1 | 0 |
+| Javi López | M | 10 | 368 | 0 | 0 | 13 | 1,3 | 4 | 0,4 | 3 | 2 | 0,2 | 1 | 0 |
 | Arthur Bonaldo | D | 4 | 316 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 6 | 2 | 0,5 | 1 | 0 |
 | Nicholas Gioacchini | F | 5 | 309 | 3 | 0 | 11 | 2,2 | 6 | 1,2 | 11 | 8 | 1,6 | 2 | 0 |
+| Alain Ribeiro | F | 9 | 257 | 1 | 0 | 9 | 1,0 | 2 | 0,2 | 7 | 0 | 0,0 | 0 | 0 |
 | N. Obolskiy | F | 11 | 255 | 0 | 0 | 6 | 0,5 | 2 | 0,2 | 12 | 6 | 0,5 | 2 | 0 |
-| Alain Ribeiro | M | 8 | 194 | 1 | 0 | 7 | 0,9 | 2 | 0,2 | 5 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de Eibar
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

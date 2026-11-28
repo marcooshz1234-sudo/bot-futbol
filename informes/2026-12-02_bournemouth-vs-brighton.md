@@ -1,10 +1,10 @@
 # Bournemouth – Brighton
 **Premier League** · Regular Season - 13 · 02/12/2026 21:15 (hora España) · Vitality Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Actualizadas: 26/11 23:04_
+_Actualizadas: 28/11 08:45_
 
 - **1X2:** 1 **2.40**  ·  X **3.50**  ·  2 **2.62**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.53**

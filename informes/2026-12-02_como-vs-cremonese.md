@@ -1,10 +1,58 @@
 # Como – Cremonese
 **Coppa Italia** · Round of 16 · 02/12/2026 21:00 (hora España) · Stadio Giuseppe Sinigaglia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 27/11 22:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 28/11 08:45_
+
+- **1X2:** 1 **1.18**  ·  X **7.00**  ·  2 **15.00**
+- **Doble oportunidad:** 1X **1.03**  ·  12 **1.10**  ·  X2 **4.50**
+- **Ambos marcan:** Sí **2.10**  ·  No **1.67**
+- **Goles más/menos:**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.44** · menos **2.70**
+    - 3,5: más **2.10** · menos **1.67**
+    - 4,5: más **3.50** · menos **1.28**
+    - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.80** · menos **1.91**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **2.00** · menos **1.73**
+    - 1,5: más **6.50** · menos **1.11**
+- **Córners más/menos:**
+    - 8,5: más **1.83** · menos **1.83**
+- **Córners 1X2:** 1 **1.06**  ·  X **13.00**  ·  2 **10.00**
+- **1X2 descanso:** 1 **1.50**  ·  X **3.00**  ·  2 **11.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **1.10**  ·  2 **5.50**
+- **To Score In Both Halves By Teams:** 1 **1.67**  ·  2 **11.00**
+- **Win Both Halves:** 1 **2.20**  ·  2 **67.00**
+- **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **8.50**  ·  Away/Yes **23.00**  ·  Home/No **1.83**  ·  Draw/No **19.00**  ·  Away/No **23.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **3.10**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **3.20**
+- **Home Corners Over/Under:**
+    - 6,5: más **1.80** · menos **1.91**
+- **Away Corners Over/Under:**
+    - 1,5: más **1.91** · menos **1.80**
+- **Total Corners (1st Half):**
+    - 4: más **1.80** · menos **2.00**
 
 ## Estadísticas de equipo
 | | Como (total) | Como en casa | Cremonese (total) | Cremonese fuera |
