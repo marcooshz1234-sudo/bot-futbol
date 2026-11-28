@@ -2473,5 +2473,27 @@
     "verde_de": "2026-11-28-pick-seguro-4",
     "enviado": "2026-11-28T17:08",
     "mensaje_id": 663
+  },
+  {
+    "id": "2026-11-28-verde-auto-2026-11-28-pick-extra-frosinone",
+    "fecha": "2026-11-28T17:18",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Frosinone\n\n📈 Cuota @1,48",
+    "foto": "publicaciones/media/2026-11-28-verde-auto-2026-11-28-pick-extra-frosinone.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-28-pick-extra-frosinone"
+  },
+  {
+    "id": "2026-11-28-verde-auto-2026-11-28-pick-seguro",
+    "fecha": "2026-11-28T17:28",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Malaga marca\n\n📈 Cuota @1,50\n\nSeguimos sumando 📈",
+    "foto": "publicaciones/media/2026-11-28-verde-auto-2026-11-28-pick-seguro.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-28-pick-seguro"
   }
 ]

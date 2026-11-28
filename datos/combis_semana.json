@@ -1,89 +1,11 @@
 {
  "dia": "2026-11-28",
- "generado": "2026-11-28T16:37+01:00",
+ "generado": "2026-11-28T17:10+01:00",
  "rango": [
   "2026-11-28",
   "2026-12-01"
  ],
  "combis": [
-  {
-   "liga": "Ligue 1",
-   "patas": [
-    {
-     "sel": "1552828|Away Player Shots|Andrija Bulatovic - 1",
-     "texto": "Andrija Bulatovic: 1+ remate",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,53 por 90' (2-1-2-0-1-3)",
-     "nota": 0.84,
-     "equipo": "Lens",
-     "lado": "V",
-     "partido": "Angers–Lens",
-     "hora": "2026-11-28T17:15",
-     "logo_l": "https://media.api-sports.io/football/teams/77.png",
-     "logo_v": "https://media.api-sports.io/football/teams/116.png"
-    },
-    {
-     "sel": "1552831|Away Player Shots|Dario Essugo - 1",
-     "texto": "Dario Essugo: 1+ remate",
-     "cuota": 1.5,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,67 por 90' (2-2-1-1-1)",
-     "nota": 1.04,
-     "equipo": "Strasbourg",
-     "lado": "V",
-     "partido": "Le Havre–Strasbourg",
-     "hora": "2026-11-28T20:45",
-     "logo_l": "https://media.api-sports.io/football/teams/111.png",
-     "logo_v": "https://media.api-sports.io/football/teams/95.png"
-    },
-    {
-     "sel": "1552835|Away Player Shots|Noah Cadiou - 1",
-     "texto": "Noah Cadiou: 1+ remate",
-     "cuota": 1.73,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,01 por 90' (1-1-1-2-0-1)",
-     "nota": 0.9460000000000001,
-     "equipo": "Lorient",
-     "lado": "V",
-     "partido": "Paris Saint Germain–Lorient",
-     "hora": "2026-11-28T20:45",
-     "logo_l": "https://media.api-sports.io/football/teams/85.png",
-     "logo_v": "https://media.api-sports.io/football/teams/97.png"
-    },
-    {
-     "sel": "1552834|Home Player Shots|Axel Witsel - 1",
-     "texto": "Axel Witsel: 1+ remate",
-     "cuota": 1.57,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,09 por 90' (0-2-1-1-1-1)",
-     "nota": 0.9140000000000001,
-     "equipo": "Nice",
-     "lado": "L",
-     "partido": "Nice–Estac Troyes",
-     "hora": "2026-11-28T20:45",
-     "logo_l": "https://media.api-sports.io/football/teams/84.png",
-     "logo_v": "https://media.api-sports.io/football/teams/110.png"
-    },
-    {
-     "sel": "1552832|Away Player Shots|Ayase Ueda - 3",
-     "texto": "Ayase Ueda: 3+ remates",
-     "cuota": 1.53,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 3,38 por 90' (3-4-1-3-4)",
-     "nota": 0.8429642857142858,
-     "equipo": "Lille",
-     "lado": "V",
-     "partido": "Le Mans–Lille",
-     "hora": "2026-11-28T20:45",
-     "logo_l": "https://media.api-sports.io/football/teams/1298.png",
-     "logo_v": "https://media.api-sports.io/football/teams/79.png"
-    }
-   ],
-   "cuota": 8.73,
-   "media": 0.9165928571428573,
-   "dia": "2026-11-28"
-  },
   {
    "liga": "Premier League",
    "patas": [
@@ -1245,20 +1167,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1552828|Both Teams Score|Yes",
-     "texto": "Ambos marcan (Angers–Lens)",
-     "cuota": 1.7,
-     "p": 0.563,
-     "dato": "marcan los dos en el 33% y el 75% de sus partidos",
-     "nota": 0.563,
-     "partido": "Angers–Lens",
-     "hora": "2026-11-28T17:15",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/77.png",
-     "logo_v": "https://media.api-sports.io/football/teams/116.png",
-     "solo_todo": true
-    },
-    {
      "sel": "1550214|Cards Over/Under|Over 2.5",
      "texto": "Más de 2,5 tarjetas (Torino–Lazio)",
      "cuota": 1.57,
@@ -1402,26 +1310,11 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 119.75,
-   "prob": 0.03
+   "cuota": 70.44,
+   "prob": 0.054
   },
   {
    "patas": [
-    {
-     "sel": "1552828|Away Player Shots|Andrija Bulatovic - 1",
-     "texto": "Andrija Bulatovic: 1+ remate",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,53 por 90' (2-1-2-0-1-3)",
-     "nota": 0.84,
-     "equipo": "Lens",
-     "lado": "V",
-     "partido": "Angers–Lens",
-     "hora": "2026-11-28T17:15",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/77.png",
-     "logo_v": "https://media.api-sports.io/football/teams/116.png"
-    },
     {
      "sel": "1550214|Player Fouls Committed|Gustav Isaksen - 1",
      "texto": "Gustav Isaksen: comete 1+ falta",
@@ -1431,6 +1324,21 @@
      "nota": 1.04,
      "equipo": "Lazio",
      "lado": "V",
+     "partido": "Torino–Lazio",
+     "hora": "2026-11-28T18:00",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/503.png",
+     "logo_v": "https://media.api-sports.io/football/teams/487.png"
+    },
+    {
+     "sel": "1550214|Player Fouls Committed|Alessio Cacciamani - 1",
+     "texto": "Alessio Cacciamani: comete 1+ falta",
+     "cuota": 1.44,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,02 por 90' (2-1-1-1-0)",
+     "nota": 0.8025714285714286,
+     "equipo": "Torino",
+     "lado": "L",
      "partido": "Torino–Lazio",
      "hora": "2026-11-28T18:00",
      "liga": "Serie A",
@@ -1541,8 +1449,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 36.47,
-   "prob": 0.132,
+   "cuota": 37.51,
+   "prob": 0.126,
    "clave": "dia-2026-11-28-a",
    "titulo": "📅 La del sábado · A",
    "expl": "@30-40 con patas de @1,40-1,60 (la B, otra distinta)",
@@ -1554,21 +1462,6 @@
    "expl": "Una pata de cada partido del sábado 28 (opción 2 de 3)",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1552828|Away Player Shots|Andrija Bulatovic - 1",
-     "texto": "Andrija Bulatovic: 1+ remate",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,53 por 90' (2-1-2-0-1-3)",
-     "nota": 0.84,
-     "equipo": "Lens",
-     "lado": "V",
-     "partido": "Angers–Lens",
-     "hora": "2026-11-28T17:15",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/77.png",
-     "logo_v": "https://media.api-sports.io/football/teams/116.png"
-    },
     {
      "sel": "1550214|Player Fouls Committed|Gustav Isaksen - 1",
      "texto": "Gustav Isaksen: comete 1+ falta",
@@ -1715,8 +1608,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 123.78,
-   "prob": 0.067
+   "cuota": 88.42,
+   "prob": 0.084
   },
   {
    "clave": "todo-2026-11-28-3",
@@ -1724,20 +1617,6 @@
    "expl": "Una pata de cada partido del sábado 28 (opción 3 de 3)",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1552828|Both Teams Score|Yes",
-     "texto": "Ambos marcan (Angers–Lens)",
-     "cuota": 1.7,
-     "p": 0.563,
-     "dato": "marcan los dos en el 33% y el 75% de sus partidos",
-     "nota": 0.563,
-     "partido": "Angers–Lens",
-     "hora": "2026-11-28T17:15",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/77.png",
-     "logo_v": "https://media.api-sports.io/football/teams/116.png",
-     "solo_todo": true
-    },
     {
      "sel": "1550214|Player Fouls Committed|Alessio Cacciamani - 1",
      "texto": "Alessio Cacciamani: comete 1+ falta",
@@ -1886,8 +1765,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 143.77,
-   "prob": 0.052
+   "cuota": 84.57,
+   "prob": 0.092
   },
   {
    "clave": "todo-2026-11-29",

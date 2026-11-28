@@ -17493,13 +17493,13 @@
     "cuotas": [
       2.0,
       2.25,
+      2.62,
       2.5,
-      2.4,
       2.62,
       2.0,
       2.0,
-      2.2,
-      2.0
+      2.05,
+      1.91
     ],
     "solo_en": [
       "threads"
@@ -17510,7 +17510,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-28T17:13"
   },
   {
     "id": "2026-11-28-loca-th-1900-x100",
