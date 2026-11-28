@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-28",
- "generado": "2026-11-28T15:35+01:00",
+ "generado": "2026-11-28T16:06+01:00",
  "rango": [
   "2026-11-28",
   "2026-12-01"
@@ -173,84 +173,6 @@
   }
  ],
  "equipos": [
-  {
-   "equipo": "Malaga",
-   "liga": "LaLiga",
-   "partido": "Malaga–Athletic Club",
-   "hora": "2026-11-28T16:15",
-   "logo": "https://media.api-sports.io/football/teams/535.png",
-   "patas": [
-    {
-     "sel": "1570469|Player Fouls Committed|Izan Merino - 1",
-     "texto": "Izan Merino: comete 1+ falta",
-     "cuota": 1.62,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,38 por 90' (1-1-2-1-1)",
-     "nota": 1.0688,
-     "equipo": "Malaga",
-     "lado": "L",
-     "partido": "Malaga–Athletic Club",
-     "hora": "2026-11-28T16:15"
-    },
-    {
-     "sel": "1570469|Home Corners Over/Under|Over 3.5",
-     "texto": "Malaga: más de 3,5 córners",
-     "cuota": 1.62,
-     "p": 0.768,
-     "dato": "Malaga saca 5,8 córners y el rival concede 4,7",
-     "nota": 0.8666777740817896,
-     "partido": "Malaga–Athletic Club",
-     "hora": "2026-11-28T16:15"
-    }
-   ],
-   "cuota": 2.62
-  },
-  {
-   "equipo": "Athletic Club",
-   "liga": "LaLiga",
-   "partido": "Malaga–Athletic Club",
-   "hora": "2026-11-28T16:15",
-   "logo": "https://media.api-sports.io/football/teams/531.png",
-   "patas": [
-    {
-     "sel": "1570469|Player Fouls Committed|Inigo Ruiz de Galarreta - 2",
-     "texto": "Inigo Ruiz de Galarreta: comete 2+ faltas",
-     "cuota": 1.73,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 2,89 por 90' (4-2-0-2-3)",
-     "nota": 0.8793928571428572,
-     "equipo": "Athletic Club",
-     "lado": "V",
-     "partido": "Malaga–Athletic Club",
-     "hora": "2026-11-28T16:15"
-    },
-    {
-     "sel": "1570469|Player Fouls Committed|Nico Williams - 1",
-     "texto": "Nico Williams: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,93 por 90' (1-4-2-2-0-2)",
-     "nota": 0.864,
-     "equipo": "Athletic Club",
-     "lado": "V",
-     "partido": "Malaga–Athletic Club",
-     "hora": "2026-11-28T16:15"
-    },
-    {
-     "sel": "1570469|Player Fouls Committed|Alex Berenguer - 1",
-     "texto": "Alex Berenguer: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,50 por 90' (0-3-1-3-1-1)",
-     "nota": 0.84,
-     "equipo": "Athletic Club",
-     "lado": "V",
-     "partido": "Malaga–Athletic Club",
-     "hora": "2026-11-28T16:15"
-    }
-   ],
-   "cuota": 3.49
-  },
   {
    "equipo": "Atletico Madrid",
    "liga": "LaLiga",
@@ -1323,20 +1245,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1570469|Away Team Total Cards|Over 1.5",
-     "texto": "Athletic Club ve 2 o más tarjetas",
-     "cuota": 1.57,
-     "p": 0.628,
-     "dato": "2,2 tarjetas de media para Athletic Club en este cruce",
-     "nota": 0.628,
-     "partido": "Malaga–Athletic Club",
-     "hora": "2026-11-28T16:15",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/535.png",
-     "logo_v": "https://media.api-sports.io/football/teams/531.png",
-     "solo_todo": true
-    },
-    {
      "sel": "1552828|Both Teams Score|Yes",
      "texto": "Ambos marcan (Angers–Lens)",
      "cuota": 1.7,
@@ -1351,19 +1259,18 @@
      "solo_todo": true
     },
     {
-     "sel": "1550214|Player Fouls Committed|Gustav Isaksen - 1",
-     "texto": "Gustav Isaksen: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.88,
-     "dato": "cumple 4/4 siendo titular · 1,65 por 90' (2-2-1-1)",
-     "nota": 1.04,
-     "equipo": "Lazio",
-     "lado": "V",
+     "sel": "1550214|Cards Over/Under|Over 2.5",
+     "texto": "Más de 2,5 tarjetas (Torino–Lazio)",
+     "cuota": 1.57,
+     "p": 0.599,
+     "dato": "3,1 tarjetas de media entre los dos",
+     "nota": 0.599,
      "partido": "Torino–Lazio",
      "hora": "2026-11-28T18:00",
      "liga": "Serie A",
      "logo_l": "https://media.api-sports.io/football/teams/503.png",
-     "logo_v": "https://media.api-sports.io/football/teams/487.png"
+     "logo_v": "https://media.api-sports.io/football/teams/487.png",
+     "solo_todo": true
     },
     {
      "sel": "1570466|Player Fouls Committed|Victor Chust - 1",
@@ -1480,12 +1387,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/110.png"
     },
     {
-     "sel": "1570470|Away Corners Over/Under|Over 2.5",
-     "texto": "Alaves: más de 2,5 córners",
-     "cuota": 1.62,
-     "p": 0.803,
-     "dato": "Alaves saca 4,3 córners y el rival concede 4,3",
-     "nota": 0.9287880095932427,
+     "sel": "1570470|Player Fouls Committed|Dean Huijsen - 1",
+     "texto": "Dean Huijsen: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,67 por 90' (2-2-3-1-2-0)",
+     "nota": 0.9000000000000001,
+     "equipo": "Real Madrid",
+     "lado": "L",
      "partido": "Real Madrid–Alaves",
      "hora": "2026-11-28T21:00",
      "liga": "LaLiga",
@@ -1493,26 +1402,11 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 193.99,
-   "prob": 0.028
+   "cuota": 119.75,
+   "prob": 0.03
   },
   {
    "patas": [
-    {
-     "sel": "1570469|Player Fouls Committed|Nico Williams - 1",
-     "texto": "Nico Williams: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,93 por 90' (1-4-2-2-0-2)",
-     "nota": 0.864,
-     "equipo": "Athletic Club",
-     "lado": "V",
-     "partido": "Malaga–Athletic Club",
-     "hora": "2026-11-28T16:15",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/535.png",
-     "logo_v": "https://media.api-sports.io/football/teams/531.png"
-    },
     {
      "sel": "1552828|Away Player Shots|Andrija Bulatovic - 1",
      "texto": "Andrija Bulatovic: 1+ remate",
@@ -1572,6 +1466,19 @@
      "liga": "Bundesliga",
      "logo_l": "https://media.api-sports.io/football/teams/172.png",
      "logo_v": "https://media.api-sports.io/football/teams/169.png"
+    },
+    {
+     "sel": "1557482|Away Team Total Cards|Over 1.5",
+     "texto": "Aston Villa ve más de 1,5 tarjetas",
+     "cuota": 1.53,
+     "p": 0.681,
+     "dato": "Aston Villa ve 2,4 amarillas por partido",
+     "nota": 0.695105986110009,
+     "partido": "Ipswich–Aston Villa",
+     "hora": "2026-11-28T18:30",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/57.png",
+     "logo_v": "https://media.api-sports.io/football/teams/66.png"
     },
     {
      "sel": "1552831|Away Player Shots|Dario Essugo - 1",
@@ -1634,8 +1541,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 34.32,
-   "prob": 0.155,
+   "cuota": 36.47,
+   "prob": 0.132,
    "clave": "dia-2026-11-28-a",
    "titulo": "📅 La del sábado · A",
    "expl": "@30-40 con patas de @1,40-1,60 (la B, otra distinta)",
@@ -1647,19 +1554,6 @@
    "expl": "Una pata de cada partido del sábado 28 (opción 2 de 3)",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1570469|Home Corners Over/Under|Over 3.5",
-     "texto": "Malaga: más de 3,5 córners",
-     "cuota": 1.62,
-     "p": 0.768,
-     "dato": "Malaga saca 5,8 córners y el rival concede 4,7",
-     "nota": 0.8666777740817896,
-     "partido": "Malaga–Athletic Club",
-     "hora": "2026-11-28T16:15",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/535.png",
-     "logo_v": "https://media.api-sports.io/football/teams/531.png"
-    },
     {
      "sel": "1552828|Away Player Shots|Andrija Bulatovic - 1",
      "texto": "Andrija Bulatovic: 1+ remate",
@@ -1676,14 +1570,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/116.png"
     },
     {
-     "sel": "1550214|Player Fouls Committed|Alessio Cacciamani - 1",
-     "texto": "Alessio Cacciamani: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 1,02 por 90' (2-1-1-1-0)",
-     "nota": 0.8025714285714286,
-     "equipo": "Torino",
-     "lado": "L",
+     "sel": "1550214|Player Fouls Committed|Gustav Isaksen - 1",
+     "texto": "Gustav Isaksen: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.88,
+     "dato": "cumple 4/4 siendo titular · 1,65 por 90' (2-2-1-1)",
+     "nota": 1.04,
+     "equipo": "Lazio",
+     "lado": "V",
      "partido": "Torino–Lazio",
      "hora": "2026-11-28T18:00",
      "liga": "Serie A",
@@ -1821,8 +1715,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 192.51,
-   "prob": 0.045
+   "cuota": 123.78,
+   "prob": 0.067
   },
   {
    "clave": "todo-2026-11-28-3",
@@ -1830,21 +1724,6 @@
    "expl": "Una pata de cada partido del sábado 28 (opción 3 de 3)",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1570469|Player Fouls Committed|Izan Merino - 1",
-     "texto": "Izan Merino: comete 1+ falta",
-     "cuota": 1.62,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,38 por 90' (1-1-2-1-1)",
-     "nota": 1.0688,
-     "equipo": "Malaga",
-     "lado": "L",
-     "partido": "Malaga–Athletic Club",
-     "hora": "2026-11-28T16:15",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/535.png",
-     "logo_v": "https://media.api-sports.io/football/teams/531.png"
-    },
     {
      "sel": "1552828|Both Teams Score|Yes",
      "texto": "Ambos marcan (Angers–Lens)",
@@ -1860,18 +1739,19 @@
      "solo_todo": true
     },
     {
-     "sel": "1550214|Cards Over/Under|Over 2.5",
-     "texto": "Más de 2,5 tarjetas (Torino–Lazio)",
-     "cuota": 1.57,
-     "p": 0.599,
-     "dato": "3,1 tarjetas de media entre los dos",
-     "nota": 0.599,
+     "sel": "1550214|Player Fouls Committed|Alessio Cacciamani - 1",
+     "texto": "Alessio Cacciamani: comete 1+ falta",
+     "cuota": 1.44,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,02 por 90' (2-1-1-1-0)",
+     "nota": 0.8025714285714286,
+     "equipo": "Torino",
+     "lado": "L",
      "partido": "Torino–Lazio",
      "hora": "2026-11-28T18:00",
      "liga": "Serie A",
      "logo_l": "https://media.api-sports.io/football/teams/503.png",
-     "logo_v": "https://media.api-sports.io/football/teams/487.png",
-     "solo_todo": true
+     "logo_v": "https://media.api-sports.io/football/teams/487.png"
     },
     {
      "sel": "1570466|Away Player Shots|Alex Baena - 2",
@@ -1991,12 +1871,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/110.png"
     },
     {
-     "sel": "1570470|Away Corners Over/Under|Over 2.5",
-     "texto": "Alaves: más de 2,5 córners",
-     "cuota": 1.62,
-     "p": 0.803,
-     "dato": "Alaves saca 4,3 córners y el rival concede 4,3",
-     "nota": 0.9287880095932427,
+     "sel": "1570470|Player Fouls Committed|Dean Huijsen - 1",
+     "texto": "Dean Huijsen: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,67 por 90' (2-2-3-1-2-0)",
+     "nota": 0.9000000000000001,
+     "equipo": "Real Madrid",
+     "lado": "L",
      "partido": "Real Madrid–Alaves",
      "hora": "2026-11-28T21:00",
      "liga": "LaLiga",
@@ -2004,8 +1886,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 274.24,
-   "prob": 0.036
+   "cuota": 143.77,
+   "prob": 0.052
   },
   {
    "clave": "todo-2026-11-29",
