@@ -17074,9 +17074,66 @@
     "tipo": "Questionable",
     "motivo": "Leg Injury"
    }
+  ],
+  "1570038": [],
+  "1570464": [
+   {
+    "equipo": 538,
+    "jugador": "H. Gonzalez",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 538,
+    "jugador": "Y. Lago",
+    "tipo": "Missing Fixture",
+    "motivo": "Yellow Cards"
+   },
+   {
+    "equipo": 538,
+    "jugador": "M. Roman",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 538,
+    "jugador": "B. Iglesias",
+    "tipo": "Questionable",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 533,
+    "jugador": "I. Akhomach",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 533,
+    "jugador": "A. Diatta",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 533,
+    "jugador": "P. Navarro",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
+   },
+   {
+    "equipo": 533,
+    "jugador": "N. Saliba",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 533,
+    "jugador": "J. Foyth",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   }
   ]
  },
- "ultima": "2026-11-28T12:16:51.911481+01:00",
+ "ultima": "2026-11-28T12:48:49.777846+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
