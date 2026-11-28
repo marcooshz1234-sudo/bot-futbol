@@ -17456,11 +17456,11 @@
       1.83,
       1.95,
       1.91,
-      2.25,
-      2.1,
-      2.5,
-      2.05,
+      2.38,
       2.0,
+      2.5,
+      2.1,
+      2.1,
       1.8
     ],
     "solo_en": [
@@ -17473,7 +17473,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-28T16:50"
+    "cuotas_revisadas": "2026-11-28T18:14"
   },
   {
     "id": "2026-11-28-loca-th-1840-x1000",
@@ -17492,13 +17492,13 @@
     ],
     "cuotas": [
       2.0,
-      2.25,
+      2.38,
       2.62,
       2.5,
       2.62,
       2.0,
-      2.0,
-      2.05,
+      2.1,
+      2.1,
       1.91
     ],
     "solo_en": [
@@ -17511,7 +17511,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": true,
-    "cuotas_revisadas": "2026-11-28T17:13"
+    "cuotas_revisadas": "2026-11-28T18:14"
   },
   {
     "id": "2026-11-28-loca-th-1900-x100",
@@ -17528,10 +17528,10 @@
     ],
     "cuotas": [
       2.4,
-      1.57,
+      1.53,
       2.62,
       2.62,
-      1.83,
+      1.91,
       1.62,
       1.62
     ],
@@ -17545,7 +17545,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-28T18:04"
+    "cuotas_revisadas": "2026-11-28T18:14"
   },
   {
     "id": "2026-11-28-loca-th-2000-x50",
