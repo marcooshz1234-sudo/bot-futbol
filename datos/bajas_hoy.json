@@ -17133,9 +17133,53 @@
    }
   ],
   "1575550": [],
-  "1565312": []
+  "1565312": [],
+  "1575230": [
+   {
+    "equipo": 165,
+    "jugador": "E. Can",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 165,
+    "jugador": "S. Inacio",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 165,
+    "jugador": "G. Konstantelias",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 165,
+    "jugador": "J. Lerma",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 168,
+    "jugador": "K. Eichhorn",
+    "tipo": "Missing Fixture",
+    "motivo": "Illness"
+   },
+   {
+    "equipo": 168,
+    "jugador": "M. Terrier",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 168,
+    "jugador": "L. Vazquez",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   }
+  ]
  },
- "ultima": "2026-11-28T13:23:29.113300+01:00",
+ "ultima": "2026-11-28T13:53:57.624981+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",

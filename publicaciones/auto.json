@@ -17186,14 +17186,14 @@
       "1570470|Both Teams Score|Yes"
     ],
     "cuotas": [
-      2.25,
+      2.1,
       2.05,
       2.1,
-      2.62,
+      2.25,
       2.0,
       2.25,
       2.0,
-      2.0
+      1.91
     ],
     "solo_en": [
       "threads"
@@ -17204,7 +17204,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-28T13:53"
   },
   {
     "id": "2026-11-28-loca-th-1540-tiros",
