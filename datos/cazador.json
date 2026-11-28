@@ -71,7 +71,7 @@
    "justa": 2.15,
    "ev": 0.025,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Ospitaletto",
@@ -82,7 +82,7 @@
    "justa": 1.78,
    "ev": 0.009,
    "fuente": "las otras casas",
-   "edad_h": 4.0
+   "edad_h": 4.3
   },
   {
    "local": "Arouca",
@@ -93,7 +93,7 @@
    "justa": 1.93,
    "ev": 0.009,
    "fuente": "las otras casas",
-   "edad_h": 4.0
+   "edad_h": 4.3
   },
   {
    "local": "West Brom",
@@ -104,18 +104,18 @@
    "justa": 1.58,
    "ev": -0.005,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
-   "local": "Preston",
-   "visitante": "Norwich",
-   "inicio": "2026-11-28T13:30",
-   "texto": "Preston o empate",
+   "local": "Frosinone",
+   "visitante": "Parma",
+   "inicio": "2026-11-28T15:00",
+   "texto": "Frosinone marca 3 o más",
    "cuota": 2.1,
-   "justa": 2.11,
-   "ev": -0.006,
+   "justa": 2.12,
+   "ev": -0.007,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Manchester United",
@@ -125,6 +125,17 @@
    "cuota": 1.67,
    "justa": 1.68,
    "ev": -0.008,
+   "fuente": "Pinnacle",
+   "edad_h": 0.4
+  },
+  {
+   "local": "Preston",
+   "visitante": "Norwich",
+   "inicio": "2026-11-28T13:30",
+   "texto": "Gana el Norwich",
+   "cuota": 1.83,
+   "justa": 1.85,
+   "ev": -0.009,
    "fuente": "Pinnacle",
    "edad_h": 0.0
   },
@@ -137,22 +148,11 @@
    "justa": 1.82,
    "ev": -0.013,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Elche",
-   "visitante": "Atletico Madrid",
-   "inicio": "2026-11-28T18:30",
-   "texto": "Ambos marcan en Elche–Atletico Madrid",
-   "cuota": 1.8,
-   "justa": 1.83,
-   "ev": -0.014,
-   "fuente": "las otras casas",
-   "edad_h": 4.0
+   "edad_h": 0.4
   }
  ],
  "ultima": {
-  "hora": "2026-11-28T12:42",
+  "hora": "2026-11-28T13:03",
   "revisadas": 0,
   "mejor": null
  },
