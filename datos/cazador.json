@@ -71,7 +71,7 @@
    "justa": 1.81,
    "ev": -0.005,
    "fuente": "las otras casas",
-   "edad_h": 4.9
+   "edad_h": 5.2
   },
   {
    "local": "Albacete",
@@ -82,7 +82,7 @@
    "justa": 1.82,
    "ev": -0.013,
    "fuente": "las otras casas",
-   "edad_h": 4.9
+   "edad_h": 5.2
   },
   {
    "local": "West Brom",
@@ -93,7 +93,7 @@
    "justa": 2.24,
    "ev": -0.017,
    "fuente": "las otras casas",
-   "edad_h": 4.9
+   "edad_h": 5.2
   },
   {
    "local": "Las Palmas",
@@ -104,7 +104,7 @@
    "justa": 2.04,
    "ev": -0.018,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Albacete",
@@ -115,7 +115,7 @@
    "justa": 1.53,
    "ev": -0.019,
    "fuente": "las otras casas",
-   "edad_h": 4.9
+   "edad_h": 5.2
   },
   {
    "local": "Arouca",
@@ -126,11 +126,11 @@
    "justa": 1.99,
    "ev": -0.02,
    "fuente": "las otras casas",
-   "edad_h": 4.9
+   "edad_h": 5.2
   }
  ],
  "ultima": {
-  "hora": "2026-11-28T03:07",
+  "hora": "2026-11-28T03:28",
   "revisadas": 0,
   "mejor": null
  },
