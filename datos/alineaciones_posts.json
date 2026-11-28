@@ -1,7 +1,5 @@
 {
  "avisados": [
-  "clave|2026-11-05-ganadores-europa|1636208|Match Winner|Home|C. Pulišić",
-  "clave|2026-11-05-ganadores-europa|1636208|Match Winner|Home|Diego Moreira",
   "clave|2026-11-05-ganadores-europa|1636229|Match Winner|Home|G. Prestianni",
   "clave|2026-11-05-ganadores-europa|1636229|Match Winner|Home|V. Pavlidis",
   "clave|2026-11-05-ganadores-europa|1636319|Match Winner|Home|Carlos Soler",
@@ -483,6 +481,8 @@
   "clave|2026-11-28-loca-th-noche-2100-x100|1575235|Away Player Shots|Dayot Upamecano - 1|M. Olise",
   "clave|2026-11-28-loca-th-noche-2230-duelo|1552828|Away Player Shots|Matthieu Udol - 2|R. Aguilar",
   "clave|2026-11-28-loca-th-noche-2230-duelo|1552828|Home Player Shots|Amine Sbai - 2|A. Sbaï",
+  "clave|2026-11-28-loca-th-noche-2330-escudos|1550214|Home Player Shots|Giovanni Simeone - 3|R. Belghali",
+  "clave|2026-11-28-loca-th-noche-2330-escudos|1550214|Total - Home|Over 0.5|R. Belghali",
   "clave|2026-11-28-pick-seguro-4|1557483|Match Winner|Home|A. Stach",
   "clave|2026-11-28-pick-seguro|1570469|Total - Home|Over 0.5|Carlos Dotor",
   "clave|2026-11-28-picks-manana|1570469|Away Player Shots|Nico Williams - 2|Robert Navarro",
@@ -8015,31 +8015,183 @@
    }
   },
   "1550214": {
-   "hora": "2026-11-28T17:18:21.301313+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-28T17:31:18.480564+01:00",
+   "xi": [
+    "Lucas Perri",
+    "N. Patterson",
+    "Saúl Coco",
+    "P. Comuzzo",
+    "A. Cacciamani",
+    "C. Casadei",
+    "R. Mandragora",
+    "G. Gineitis",
+    "N. Vlašić",
+    "C. Adams",
+    "G. Simeone",
+    "C. Mandas",
+    "R. Floriani Mussolini",
+    "D. Doekhi",
+    "O. Provstgaard",
+    "Pedraza",
+    "F. Dele-Bashiru",
+    "R. Belahyane",
+    "D. Frattesi",
+    "G. Isaksen",
+    "T. Noslin",
+    "M. Zaccagni"
+   ],
+   "banquillo": [
+    "Daniel Bragança",
+    "Z. Aboukhlal",
+    "C. Biraghi",
+    "Manuel Carrascosa",
+    "E. Cömert",
+    "K. Fitz-Jim",
+    "N. Fortini",
+    "E. İlkhan",
+    "S. Kulenović",
+    "D. Mascardi",
+    "G. Oristanio",
+    "P. Pellegri",
+    "L. Siviero",
+    "D. Zapata",
+    "A. Przyborek",
+    "D. Renzetti",
+    "N. Rovella",
+    "F. Serra",
+    "A. Pinamonti",
+    "L. Pellegrini",
+    "E. Motta",
+    "Diogo Leite",
+    "M. Lazzari",
+    "A. Guðmundsson",
+    "V. Farcomeni",
+    "D. Cataldi",
+    "Ricardo Bordon",
+    "Filipe Bordon",
+    "M. Cancellieri"
+   ],
+   "equipos": {
+    "503": [
+     {
+      "n": "Lucas Perri",
+      "pos": "G"
+     },
+     {
+      "n": "N. Patterson",
+      "pos": "D"
+     },
+     {
+      "n": "Saúl Coco",
+      "pos": "D"
+     },
+     {
+      "n": "P. Comuzzo",
+      "pos": "D"
+     },
+     {
+      "n": "A. Cacciamani",
+      "pos": "D"
+     },
+     {
+      "n": "C. Casadei",
+      "pos": "M"
+     },
+     {
+      "n": "R. Mandragora",
+      "pos": "M"
+     },
+     {
+      "n": "G. Gineitis",
+      "pos": "M"
+     },
+     {
+      "n": "N. Vlašić",
+      "pos": "M"
+     },
+     {
+      "n": "C. Adams",
+      "pos": "M"
+     },
+     {
+      "n": "G. Simeone",
+      "pos": "F"
+     }
+    ],
+    "487": [
+     {
+      "n": "C. Mandas",
+      "pos": "G"
+     },
+     {
+      "n": "R. Floriani Mussolini",
+      "pos": "D"
+     },
+     {
+      "n": "D. Doekhi",
+      "pos": "D"
+     },
+     {
+      "n": "O. Provstgaard",
+      "pos": "D"
+     },
+     {
+      "n": "Pedraza",
+      "pos": "D"
+     },
+     {
+      "n": "F. Dele-Bashiru",
+      "pos": "M"
+     },
+     {
+      "n": "R. Belahyane",
+      "pos": "M"
+     },
+     {
+      "n": "D. Frattesi",
+      "pos": "M"
+     },
+     {
+      "n": "G. Isaksen",
+      "pos": "F"
+     },
+     {
+      "n": "T. Noslin",
+      "pos": "F"
+     },
+     {
+      "n": "M. Zaccagni",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1575231": {
-   "hora": "2026-11-28T17:18:21.301313+01:00",
+   "hora": "2026-11-28T17:31:18.480564+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1557482": {
-   "hora": "2026-11-28T17:18:21.301313+01:00",
+   "hora": "2026-11-28T17:31:18.480564+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1570466": {
-   "hora": "2026-11-28T17:18:21.301313+01:00",
+   "hora": "2026-11-28T17:31:18.480564+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1570039": {
-   "hora": "2026-11-28T17:18:21.301313+01:00",
+   "hora": "2026-11-28T17:31:18.480564+01:00",
+   "xi": [],
+   "banquillo": [],
+   "equipos": {}
+  },
+  "1575545": {
+   "hora": "2026-11-28T17:31:18.480564+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
