@@ -63,39 +63,6 @@
  },
  "top": [
   {
-   "local": "Le Mans",
-   "visitante": "Lille",
-   "inicio": "2026-11-28T20:45",
-   "texto": "Lille marca 2 o más",
-   "cuota": 2.2,
-   "justa": 2.11,
-   "ev": 0.04,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Le Mans",
-   "visitante": "Lille",
-   "inicio": "2026-11-28T20:45",
-   "texto": "Ambos marcan en Le Mans–Lille",
-   "cuota": 1.95,
-   "justa": 1.91,
-   "ev": 0.019,
-   "fuente": "las otras casas",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Vitória SC",
-   "visitante": "Estrela",
-   "inicio": "2026-11-28T21:30",
-   "texto": "Estrela marca",
-   "cuota": 1.53,
-   "justa": 1.53,
-   "ev": 0.002,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
    "local": "FCSB",
    "visitante": "Csikszereda",
    "inicio": "2026-11-28T19:00",
@@ -126,33 +93,11 @@
    "justa": 1.75,
    "ev": -0.014,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Granada CF",
-   "visitante": "AD Ceuta FC",
-   "inicio": "2026-11-29T14:00",
-   "texto": "Ambos marcan en Granada CF–AD Ceuta FC",
-   "cuota": 1.8,
-   "justa": 1.83,
-   "ev": -0.016,
-   "fuente": "las otras casas",
-   "edad_h": 7.7
-  },
-  {
-   "local": "NEC Nijmegen",
-   "visitante": "Twente",
-   "inicio": "2026-11-29T20:00",
-   "texto": "Gana el Twente",
-   "cuota": 1.91,
-   "justa": 1.95,
-   "ev": -0.02,
-   "fuente": "las otras casas",
-   "edad_h": 7.7
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-28T16:24",
+  "hora": "2026-11-28T16:44",
   "revisadas": 0,
   "mejor": null
  },

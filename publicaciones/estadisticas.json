@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28 16:34",
+ "actualizado": "2026-11-28 16:44",
  "redes": {
   "instagram": {
    "seguidores": 59,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 553,
-   "hoy": 0,
+   "seguidores": 554,
+   "hoy": 1,
    "serie": [
     506,
     506,
@@ -50,17 +50,17 @@
     527,
     539,
     553,
-    553
+    554
    ]
   }
  },
- "total": 4924,
- "total_hoy": 18,
+ "total": 4925,
+ "total_hoy": 19,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:40",
+  "hora": "17:00",
   "dia": "2026-11-28",
-  "titulo": "Combi le havre – strasbourg"
+  "titulo": "Combi por 70,35"
  },
  "ayer": {
   "aciertos": 6,
@@ -290,17 +290,22 @@
    "instagram": 59,
    "threads": 4311,
    "facebook": 1,
-   "telegram": 553
+   "telegram": 554
   }
  },
  "tipos_instagram": {
+  "Cuota 3 (reel)": {
+   "posts": 3,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi de partido (reel)": {
    "posts": 7,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Otros (reel)": {
-   "posts": 45,
+   "posts": 44,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -316,11 +321,6 @@
   },
   "Combi loca (reel)": {
    "posts": 1,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Cuota 3 (reel)": {
-   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
