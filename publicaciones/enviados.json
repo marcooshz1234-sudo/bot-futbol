@@ -987,5 +987,9 @@
   },
   "2026-11-28-pick-seguro-5": {
     "caducada": "cancelado"
+  },
+  "2026-11-28-pick-seguro": {
+    "enviado": "2026-11-28T10:30",
+    "mensaje_id": 658
   }
 }
