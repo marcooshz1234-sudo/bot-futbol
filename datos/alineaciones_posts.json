@@ -6438,19 +6438,300 @@
    }
   },
   "1570463": {
-   "hora": "2026-11-28T13:28:33.835550+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-28T13:42:46.285418+01:00",
+   "xi": [
+    "Álvaro Vallés",
+    "Héctor Bellerín",
+    "Marc Bartra",
+    "Natan",
+    "Junior Firpo",
+    "Pablo Fornals",
+    "Marc Roca",
+    "Isco",
+    "Antony",
+    "C. Hernández",
+    "A. Ezzalzouli",
+    "E. Audero",
+    "A. Rațiu",
+    "F. Lejeune",
+    "P. Ciss",
+    "Adrià Pedrosa",
+    "Isi Palazón",
+    "G. Bouare",
+    "Unai López",
+    "Jorge de Frutos",
+    "Sergio Camello",
+    "Álvaro García"
+   ],
+   "banquillo": [
+    "Diego Conde",
+    "F. Bernal",
+    "N. Deossa",
+    "Álvaro Fidalgo",
+    "Fran García",
+    "V. Gómez",
+    "Diego Llorente",
+    "J. A. Morante",
+    "Ángel Ortiz",
+    "T. Parrott",
+    "Rodrigo Riquelme",
+    "Aitor Ruibal",
+    "Rayane Belid",
+    "Dani Cárdenas",
+    "Pedro Díaz",
+    "M. Kumbulla",
+    "R. Nteka",
+    "Fran Pérez",
+    "Mujaid Sadick",
+    "G. Tsitaishvili",
+    "Óscar Valentín",
+    "J. Vertrouwd",
+    "Alemão",
+    "I. Balliu"
+   ],
+   "equipos": {
+    "543": [
+     {
+      "n": "Álvaro Vallés",
+      "pos": "G"
+     },
+     {
+      "n": "Héctor Bellerín",
+      "pos": "D"
+     },
+     {
+      "n": "Marc Bartra",
+      "pos": "D"
+     },
+     {
+      "n": "Natan",
+      "pos": "D"
+     },
+     {
+      "n": "Junior Firpo",
+      "pos": "D"
+     },
+     {
+      "n": "Pablo Fornals",
+      "pos": "M"
+     },
+     {
+      "n": "Marc Roca",
+      "pos": "M"
+     },
+     {
+      "n": "Isco",
+      "pos": "M"
+     },
+     {
+      "n": "Antony",
+      "pos": "F"
+     },
+     {
+      "n": "C. Hernández",
+      "pos": "F"
+     },
+     {
+      "n": "A. Ezzalzouli",
+      "pos": "F"
+     }
+    ],
+    "728": [
+     {
+      "n": "E. Audero",
+      "pos": "G"
+     },
+     {
+      "n": "A. Rațiu",
+      "pos": "D"
+     },
+     {
+      "n": "F. Lejeune",
+      "pos": "D"
+     },
+     {
+      "n": "P. Ciss",
+      "pos": "D"
+     },
+     {
+      "n": "Adrià Pedrosa",
+      "pos": "D"
+     },
+     {
+      "n": "Isi Palazón",
+      "pos": "M"
+     },
+     {
+      "n": "G. Bouare",
+      "pos": "M"
+     },
+     {
+      "n": "Unai López",
+      "pos": "M"
+     },
+     {
+      "n": "Jorge de Frutos",
+      "pos": "F"
+     },
+     {
+      "n": "Sergio Camello",
+      "pos": "F"
+     },
+     {
+      "n": "Álvaro García",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1570042": {
-   "hora": "2026-11-28T13:28:33.835550+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-28T13:42:46.285418+01:00",
+   "xi": [
+    "José Caro",
+    "Valentín Pezzolesi",
+    "G. Bonfanti",
+    "Juan Herzog",
+    "Adrián Rodríguez del Rosario",
+    "T. Miyashiro",
+    "E. Loiodice",
+    "Kirian Rodríguez",
+    "Iván Jaime",
+    "Jesé",
+    "Manu Fuster",
+    "Pau López",
+    "Juan Serrano",
+    "Marc Bombardó",
+    "Gael Alonso",
+    "T. Olmedo",
+    "Marc Domènech",
+    "E. Akman",
+    "Hugo López",
+    "T. Carrique",
+    "L. de León",
+    "Moró Sidibe"
+   ],
+   "banquillo": [
+    "J. Valverde",
+    "Iñaki González Zambrano",
+    "Ale García",
+    "Jefté Betancor",
+    "Mateo Acimovic",
+    "I. Medina",
+    "J. Recoba",
+    "A. Rodriguez",
+    "Elías Romero",
+    "Sergio Ruiz",
+    "Adrián Suárez",
+    "Diego Alende",
+    "Jordi Cano",
+    "D. Diaz",
+    "S. Golubovic",
+    "Andoni López",
+    "Sergio Molina",
+    "Nacho Quintana",
+    "N. Ratti",
+    "Julian Dean Rijkhoff",
+    "E. Sali",
+    "R. Schneider",
+    "L. Spatz"
+   ],
+   "equipos": {
+    "534": [
+     {
+      "n": "José Caro",
+      "pos": "G"
+     },
+     {
+      "n": "Valentín Pezzolesi",
+      "pos": "D"
+     },
+     {
+      "n": "G. Bonfanti",
+      "pos": "D"
+     },
+     {
+      "n": "Juan Herzog",
+      "pos": "D"
+     },
+     {
+      "n": "Adrián Rodríguez del Rosario",
+      "pos": "D"
+     },
+     {
+      "n": "T. Miyashiro",
+      "pos": "M"
+     },
+     {
+      "n": "E. Loiodice",
+      "pos": "M"
+     },
+     {
+      "n": "Kirian Rodríguez",
+      "pos": "M"
+     },
+     {
+      "n": "Iván Jaime",
+      "pos": "M"
+     },
+     {
+      "n": "Jesé",
+      "pos": "F"
+     },
+     {
+      "n": "Manu Fuster",
+      "pos": "F"
+     }
+    ],
+    "8157": [
+     {
+      "n": "Pau López",
+      "pos": "G"
+     },
+     {
+      "n": "Juan Serrano",
+      "pos": "D"
+     },
+     {
+      "n": "Marc Bombardó",
+      "pos": "D"
+     },
+     {
+      "n": "Gael Alonso",
+      "pos": "D"
+     },
+     {
+      "n": "T. Olmedo",
+      "pos": "D"
+     },
+     {
+      "n": "Marc Domènech",
+      "pos": "M"
+     },
+     {
+      "n": "E. Akman",
+      "pos": "M"
+     },
+     {
+      "n": "Hugo López",
+      "pos": "M"
+     },
+     {
+      "n": "T. Carrique",
+      "pos": "F"
+     },
+     {
+      "n": "L. de León",
+      "pos": "F"
+     },
+     {
+      "n": "Moró Sidibe",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1550210": {
-   "hora": "2026-11-28T13:28:33.835550+01:00",
+   "hora": "2026-11-28T13:42:46.285418+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
