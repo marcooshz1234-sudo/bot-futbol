@@ -1,11 +1,5 @@
 {
  "avisados": [
-  "clave|2026-11-05-escalera|1636465|Match Winner|Home|Etienne Camara",
-  "clave|2026-11-05-ganadores-conference-bis|1636383|Match Winner|Home|C. De Ketelaere",
-  "clave|2026-11-05-ganadores-conference-bis|1636383|Match Winner|Home|N. Krstović",
-  "clave|2026-11-05-ganadores-conference-bis|1636383|Match Winner|Home|N. Zalewski",
-  "clave|2026-11-05-ganadores-conference-bis|1636408|Match Winner|Home|Robert",
-  "clave|2026-11-05-ganadores-conference-bis|1636456|Match Winner|Home|L. Camara",
   "clave|2026-11-05-ganadores-conference-bis|1636465|Match Winner|Home|Etienne Camara",
   "clave|2026-11-05-ganadores-conference|1636383|Match Winner|Home|C. De Ketelaere",
   "clave|2026-11-05-ganadores-conference|1636383|Match Winner|Home|N. Krstović",
@@ -469,11 +463,13 @@
   "clave|2026-11-27-loca-th-1630-escudos|1550216|To Win Either Half|Away|N. Cambiaghi",
   "clave|2026-11-27-loca-th-1630-escudos|1550216|Total - Away|Over 1.5|Juan Miranda",
   "clave|2026-11-27-loca-th-1630-escudos|1550216|Total - Away|Over 1.5|N. Cambiaghi",
+  "clave|2026-11-28-combi-tres|1570469|Total - Home|Over 0.5|Carlos Dotor",
   "clave|2026-11-28-estrella-1575235|1575235|Away Player Shots|Dayot Upamecano - 1|H. Kane",
   "clave|2026-11-28-estrella-1575235|1575235|Away Player Shots|Dayot Upamecano - 1|M. Olise",
   "clave|2026-11-28-estrella-1575235|1575235|Away Player Shots|Joshua Kimmich - 1|H. Kane",
   "clave|2026-11-28-estrella-1575235|1575235|Away Player Shots|Joshua Kimmich - 1|M. Olise",
   "clave|2026-11-28-estrella-1575235|1575235|Home Player Shots|Zakaria El Ouahdi - 1|M. Muheim",
+  "clave|2026-11-28-ganadores-laliga|1570469|Match Winner|Away|Robert Navarro",
   "clave|2026-11-28-ganadores-premier|1557483|Match Winner|Home|A. Stach",
   "clave|2026-11-28-ganadores-resto|1575234|Match Winner|Home|Lee Jae-Sung",
   "clave|2026-11-28-ganadores-resto|1575235|Match Winner|Away|H. Kane",
@@ -482,10 +478,14 @@
   "clave|2026-11-28-loca-th-0020-x100|1575235|Away Player Shots|Dayot Upamecano - 1|M. Olise",
   "clave|2026-11-28-loca-th-0500-x50|1550210|Away Player Shots|Enrico Del Prato - 1|E. Valeri",
   "clave|2026-11-28-loca-th-0500-x50|1575235|Total - Home|Over 0.5|M. Muheim",
+  "clave|2026-11-28-loca-th-1100-escudos|1570469|Total - Home|Over 0.5|Carlos Dotor",
+  "clave|2026-11-28-loca-th-1540-tiros|1570469|Away Player Shots|Alex Berenguer - 2|Robert Navarro",
   "clave|2026-11-28-loca-th-noche-2100-x100|1550210|Away Player Shots|Enrico Del Prato - 1|E. Valeri",
   "clave|2026-11-28-loca-th-noche-2100-x100|1575235|Away Player Shots|Dayot Upamecano - 1|H. Kane",
   "clave|2026-11-28-loca-th-noche-2100-x100|1575235|Away Player Shots|Dayot Upamecano - 1|M. Olise",
   "clave|2026-11-28-pick-seguro-4|1557483|Match Winner|Home|A. Stach",
+  "clave|2026-11-28-pick-seguro|1570469|Total - Home|Over 0.5|Carlos Dotor",
+  "clave|2026-11-28-picks-manana|1570469|Away Player Shots|Nico Williams - 2|Robert Navarro",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -7869,13 +7869,154 @@
    }
   },
   "1570469": {
-   "hora": "2026-11-28T15:37:41.406849+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-28T15:49:52.573289+01:00",
+   "xi": [
+    "Alfonso Herrero",
+    "Puga",
+    "Diego Murillo",
+    "Ángel Recio",
+    "José Salinas",
+    "David Larrubia",
+    "Izan Merino",
+    "Dani Lorenzo",
+    "Joaquín Muñoz",
+    "J. Cajuste",
+    "Adrián Niño Heredia",
+    "Unai Simón",
+    "Hugo Rincón",
+    "Aitor Paredes",
+    "Aymeric Laporte",
+    "Yuri",
+    "Ruíz de Galarreta",
+    "Beñat Gerenabarrena",
+    "Álex Berenguer",
+    "Oihan Sancet",
+    "Nico Williams",
+    "I. Williams"
+   ],
+   "banquillo": [
+    "Juan Berrocal",
+    "Adam Aznou Ben Cheikh",
+    "Rafa Rodríguez",
+    "Fernando Calero",
+    "Chupe",
+    "Carlos Dotor",
+    "Juan Cruz",
+    "Ramón Enríquez",
+    "Einar Galilea",
+    "Eneko Jauregi",
+    "Carlos López",
+    "Pablo Martínez",
+    "Jesús Areso",
+    "Peio Canales",
+    "Álvaro Djaló",
+    "Mikel Jauregizar",
+    "J. Louis-Jean",
+    "Robert Navarro",
+    "Álex Padilla",
+    "Beñat Prados",
+    "Alejandro Rego",
+    "Nico Serrano",
+    "Jesús Vizcay Hurtado",
+    "Yeray"
+   ],
+   "equipos": {
+    "535": [
+     {
+      "n": "Alfonso Herrero",
+      "pos": "G"
+     },
+     {
+      "n": "Puga",
+      "pos": "D"
+     },
+     {
+      "n": "Diego Murillo",
+      "pos": "D"
+     },
+     {
+      "n": "Ángel Recio",
+      "pos": "D"
+     },
+     {
+      "n": "José Salinas",
+      "pos": "D"
+     },
+     {
+      "n": "David Larrubia",
+      "pos": "M"
+     },
+     {
+      "n": "Izan Merino",
+      "pos": "M"
+     },
+     {
+      "n": "Dani Lorenzo",
+      "pos": "M"
+     },
+     {
+      "n": "Joaquín Muñoz",
+      "pos": "M"
+     },
+     {
+      "n": "J. Cajuste",
+      "pos": "F"
+     },
+     {
+      "n": "Adrián Niño Heredia",
+      "pos": "F"
+     }
+    ],
+    "531": [
+     {
+      "n": "Unai Simón",
+      "pos": "G"
+     },
+     {
+      "n": "Hugo Rincón",
+      "pos": "D"
+     },
+     {
+      "n": "Aitor Paredes",
+      "pos": "D"
+     },
+     {
+      "n": "Aymeric Laporte",
+      "pos": "D"
+     },
+     {
+      "n": "Yuri",
+      "pos": "D"
+     },
+     {
+      "n": "Ruíz de Galarreta",
+      "pos": "M"
+     },
+     {
+      "n": "Beñat Gerenabarrena",
+      "pos": "M"
+     },
+     {
+      "n": "Álex Berenguer",
+      "pos": "M"
+     },
+     {
+      "n": "Oihan Sancet",
+      "pos": "M"
+     },
+     {
+      "n": "Nico Williams",
+      "pos": "M"
+     },
+     {
+      "n": "I. Williams",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1552828": {
-   "hora": "2026-11-28T15:40:32.142321+01:00",
+   "hora": "2026-11-28T15:49:52.573289+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}

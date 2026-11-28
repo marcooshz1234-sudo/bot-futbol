@@ -16750,10 +16750,9 @@
   {
     "id": "2026-11-28-loca-th-0800-x500",
     "fecha": "2026-11-28T08:00",
-    "texto": "🤑💸 COMBI x94,98 🤑💸\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester United–Brentford 16:00\n🏆 Brentford gana una parte\n🇪🇸 Malaga–Athletic Club 16:15\n🦵 Peio Canales comete 1+ faltas\n🇩🇪 VfB Stuttgart–Eintracht Frankfurt 18:30\n🏆 Eintracht Frankfurt gana una parte\n🇮🇹 Inter–Genoa 20:45\n🔁 Ambos marcan\n🇫🇷 Le Havre–Strasbourg 20:45\n💣 +1,5 goles en la 2ª parte del Le Havre–Strasbourg\n🇫🇷 Le Mans–Lille 20:45\n🔁 Ambos marcan\n🇪🇸 Real Madrid–Alaves 21:00\n🚀 Alaves marca\n\n🎯 CUOTA 94,98 💎 10€ → 950€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🤑💸 COMBI x47,65 🤑💸\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester United–Brentford 16:00\n🏆 Brentford gana una parte\n🦵 Peio Canales comete 1+ faltas\n🇩🇪 VfB Stuttgart–Eintracht Frankfurt 18:30\n🏆 Eintracht Frankfurt gana una parte\n🇮🇹 Inter–Genoa 20:45\n🔁 Ambos marcan\n🇫🇷 Le Havre–Strasbourg 20:45\n💣 +1,5 goles en la 2ª parte del Le Havre–Strasbourg\n🇫🇷 Le Mans–Lille 20:45\n🔁 Ambos marcan\n🇪🇸 Real Madrid–Alaves 21:00\n🚀 Alaves marca\n\n🎯 CUOTA 47,65 💎 10€ → 950€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "sel": [
       "1557484|To Win Either Half|Away",
-      "1570469|Player Fouls Committed|Peio Canales - 1",
       "1575231|To Win Either Half|Away",
       "1550211|Both Teams Score|Yes",
       "1552831|Goals Over/Under - Second Half|Over 1.5",
@@ -16762,7 +16761,6 @@
     ],
     "cuotas": [
       1.83,
-      1.91,
       2.0,
       1.95,
       1.83,
@@ -16779,7 +16777,8 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": true,
-    "cuotas_revisadas": "2026-11-28T06:34"
+    "cuotas_revisadas": "2026-11-28T06:34",
+    "revisado_alineaciones": "2026-11-28T15:49"
   },
   {
     "id": "2026-11-28-loca-th-0900-lista-corners",
@@ -17209,15 +17208,13 @@
   {
     "id": "2026-11-28-loca-th-1540-tiros",
     "fecha": "2026-11-28T15:40",
-    "texto": "🎯 COMBI DE TIROS · MALAGA vs ATHLETIC CLUB 🎯\n\n⭐ Malaga – Athletic Club · 16:15\n✅ 🦵 Peio Canales comete 1+ faltas\n✅ 🦵 Alex Berenguer comete 1+ faltas\n✅ 🦵 Nico Williams comete 1+ faltas\n✅ 🎯 Alex Berenguer: 2+ tiros\n\n🎯 CUOTA 5,70 aprox. 💎 · 10€ → 57,00€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
+    "texto": "🎯 COMBI DE TIROS · MALAGA vs ATHLETIC CLUB 🎯\n\n⭐ Malaga – Athletic Club · 16:15\n✅ 🦵 Alex Berenguer comete 1+ faltas\n✅ 🦵 Nico Williams comete 1+ faltas\n✅ 🎯 Alex Berenguer: 2+ tiros\n\n🎯 CUOTA 2,78 aprox. 💎 · 10€ → 57,00€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
     "sel": [
-      "1570469|Player Fouls Committed|Peio Canales - 1",
       "1570469|Player Fouls Committed|Alex Berenguer - 1",
       "1570469|Player Fouls Committed|Nico Williams - 1",
       "1570469|Away Player Shots|Alex Berenguer - 2"
     ],
     "cuotas": [
-      1.91,
       1.4,
       1.44,
       1.44
@@ -17232,7 +17229,8 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-28T14:13"
+    "cuotas_revisadas": "2026-11-28T14:13",
+    "revisado_alineaciones": "2026-11-28T15:49"
   },
   {
     "id": "2026-11-28-loca-th-1600-lista-corners",
