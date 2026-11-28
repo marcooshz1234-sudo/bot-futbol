@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-28",
- "generado": "2026-11-28T14:28+01:00",
+ "generado": "2026-11-28T14:59+01:00",
  "rango": [
   "2026-11-28",
   "2026-12-01"
@@ -1357,21 +1357,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1550210|Player Fouls Committed|Patrizio Masini - 2",
-     "texto": "Patrizio Masini: comete 2+ faltas",
-     "cuota": 1.53,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 2,00 por 90' (2-3-0-3-2)",
-     "nota": 0.8429642857142858,
-     "equipo": "Frosinone",
-     "lado": "L",
-     "partido": "Frosinone–Parma",
-     "hora": "2026-11-28T15:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/512.png",
-     "logo_v": "https://media.api-sports.io/football/teams/523.png"
-    },
-    {
      "sel": "1575235|Player Fouls Committed|Albert Sambi Lokonga - 1",
      "texto": "Albert Sambi Lokonga: comete 1+ falta",
      "cuota": 1.44,
@@ -1398,6 +1383,19 @@
      "liga": "Bundesliga",
      "logo_l": "https://media.api-sports.io/football/teams/164.png",
      "logo_v": "https://media.api-sports.io/football/teams/182.png"
+    },
+    {
+     "sel": "1575238|Total ShotOnGoal|Over 8.5",
+     "texto": "Más de 8,5 remates a puerta en el partido",
+     "cuota": 1.67,
+     "p": 0.7,
+     "dato": "10,3 remates a puerta de media entre los dos",
+     "nota": 0.7503687278451368,
+     "partido": "SC Paderborn 07–FC Schalke 04",
+     "hora": "2026-11-28T15:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/185.png",
+     "logo_v": "https://media.api-sports.io/football/teams/174.png"
     },
     {
      "sel": "1557484|Player Fouls Committed|Jannik Schuster - 1",
@@ -1562,8 +1560,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 400.45,
-   "prob": 0.046
+   "cuota": 437.1,
+   "prob": 0.042
   },
   {
    "patas": [
@@ -1713,21 +1711,6 @@
   {
    "patas": [
     {
-     "sel": "1550210|Player Fouls Committed|Patrizio Masini - 2",
-     "texto": "Patrizio Masini: comete 2+ faltas",
-     "cuota": 1.53,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 2,00 por 90' (2-3-0-3-2)",
-     "nota": 0.8429642857142858,
-     "equipo": "Frosinone",
-     "lado": "L",
-     "partido": "Frosinone–Parma",
-     "hora": "2026-11-28T15:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/512.png",
-     "logo_v": "https://media.api-sports.io/football/teams/523.png"
-    },
-    {
      "sel": "1575235|Player Fouls Committed|Albert Sambi Lokonga - 1",
      "texto": "Albert Sambi Lokonga: comete 1+ falta",
      "cuota": 1.44,
@@ -1782,6 +1765,21 @@
      "logo_l": "https://media.api-sports.io/football/teams/63.png",
      "logo_v": "https://media.api-sports.io/football/teams/1346.png",
      "solo_todo": true
+    },
+    {
+     "sel": "1557484|Player Fouls Committed|Keane Lewis-Potter - 1",
+     "texto": "Keane Lewis-Potter: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,75 por 90' (1-4-2-1-1-0)",
+     "nota": 0.9000000000000001,
+     "equipo": "Brentford",
+     "lado": "V",
+     "partido": "Manchester United–Brentford",
+     "hora": "2026-11-28T16:00",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/33.png",
+     "logo_v": "https://media.api-sports.io/football/teams/55.png"
     },
     {
      "sel": "1570469|Player Fouls Committed|Alex Berenguer - 1",
@@ -1842,57 +1840,11 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 39.02,
-   "prob": 0.053,
+   "cuota": 38.26,
+   "prob": 0.055,
    "clave": "dia-2026-11-28-b",
    "titulo": "📅 La del sábado · B",
    "expl": "@30-40 con patas de @1,40-1,60 (la A, otra distinta)",
-   "liga": "Varias"
-  },
-  {
-   "patas": [
-    {
-     "sel": "1550210|Results/Both Teams Score|Home/Yes",
-     "texto": "Gana Frosinone y ambos marcan",
-     "cuota": 2.5,
-     "p": 0.357,
-     "dato": "Frosinone: VVVVV en sus últimos 5 · se esperan 2,3-1,0 goles",
-     "partido": "Frosinone–Parma",
-     "hora": "2026-11-28T15:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/512.png",
-     "logo_v": "https://media.api-sports.io/football/teams/523.png"
-    },
-    {
-     "sel": "1575235|Results/Both Teams Score|Away/Yes",
-     "texto": "Gana Bayern München y ambos marcan",
-     "cuota": 2.38,
-     "p": 0.353,
-     "dato": "Bayern München: DVVVE en sus últimos 5 · se esperan 1,3-2,1 goles",
-     "partido": "Hamburger SV–Bayern München",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/175.png",
-     "logo_v": "https://media.api-sports.io/football/teams/157.png"
-    },
-    {
-     "sel": "1570470|Results/Both Teams Score|Home/Yes",
-     "texto": "Gana Real Madrid y ambos marcan",
-     "cuota": 2.4,
-     "p": 0.384,
-     "dato": "Real Madrid: VVVVV en sus últimos 5 · se esperan 2,5-1,1 goles",
-     "partido": "Real Madrid–Alaves",
-     "hora": "2026-11-28T21:00",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/541.png",
-     "logo_v": "https://media.api-sports.io/football/teams/542.png"
-    }
-   ],
-   "cuota": 14.28,
-   "prob": 0.048,
-   "clave": "tema-2026-11-28-gana_btts",
-   "titulo": "⚽🏆 Gana y ambos marcan · sábado",
-   "expl": "El favorito gana y marcan los dos · @10-15",
    "liga": "Varias"
   },
   {

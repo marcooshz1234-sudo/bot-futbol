@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-28 14:49",
+ "actualizado": "2026-11-28 15:00",
  "redes": {
   "instagram": {
-   "seguidores": 58,
-   "hoy": 0,
+   "seguidores": 59,
+   "hoy": 1,
    "serie": [
     54,
     54,
@@ -11,7 +11,7 @@
     57,
     58,
     58,
-    58
+    59
    ]
   },
   "threads": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4925,
- "total_hoy": 19,
+ "total": 4926,
+ "total_hoy": 20,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "14:55",
+  "hora": "15:20",
   "dia": "2026-11-28",
-  "titulo": "Hoy hay partidazo hamburger sv bayern "
+  "titulo": "Reto de 1 a 482"
  },
  "ayer": {
   "aciertos": 6,
@@ -287,15 +287,20 @@
    "telegram": 553
   },
   "2026-11-28": {
-   "instagram": 58,
+   "instagram": 59,
    "threads": 4314,
    "facebook": 1,
    "telegram": 552
   }
  },
  "tipos_instagram": {
+  "Combi de partido (reel)": {
+   "posts": 7,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
-   "posts": 46,
+   "posts": 45,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -311,11 +316,6 @@
   },
   "Combi loca (reel)": {
    "posts": 1,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi de partido (reel)": {
-   "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },

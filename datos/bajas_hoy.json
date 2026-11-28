@@ -17215,9 +17215,157 @@
     "tipo": "Missing Fixture",
     "motivo": "Injury"
    }
+  ],
+  "1552833": [
+   {
+    "equipo": 80,
+    "jugador": "L. Diarra",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 80,
+    "jugador": "T. Morton",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 80,
+    "jugador": "M. Ouedraogo",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 80,
+    "jugador": "P. Sulc",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 80,
+    "jugador": "C. Mata",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 91,
+    "jugador": "M. Coulibaly",
+    "tipo": "Missing Fixture",
+    "motivo": "Suspended"
+   },
+   {
+    "equipo": 91,
+    "jugador": "A. Fati",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 91,
+    "jugador": "A. Golovin",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 91,
+    "jugador": "S. Idumbo",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 91,
+    "jugador": "P. Kohn",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 91,
+    "jugador": "P. Brunner",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 91,
+    "jugador": "E. Diop",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 91,
+    "jugador": "M. Salisu",
+    "tipo": "Questionable",
+    "motivo": "Knee Injury"
+   }
+  ],
+  "1550209": [
+   {
+    "equipo": 895,
+    "jugador": "M. Caqueret",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 895,
+    "jugador": "M. Kean",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 895,
+    "jugador": "J. Rodriguez",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 895,
+    "jugador": "J. Addai",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 895,
+    "jugador": "A. Diao",
+    "tipo": "Questionable",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 496,
+    "jugador": "K. Grabara",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 496,
+    "jugador": "M. Locatelli",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 496,
+    "jugador": "A. Milik",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 496,
+    "jugador": "K. Thuram",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 496,
+    "jugador": "K. Yildiz",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 496,
+    "jugador": "N. Gonzalez",
+    "tipo": "Questionable",
+    "motivo": "Calf Injury"
+   }
   ]
  },
- "ultima": "2026-11-28T14:24:01.157992+01:00",
+ "ultima": "2026-11-28T14:58:55.877360+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
