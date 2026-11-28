@@ -17458,11 +17458,11 @@
       1.95,
       1.91,
       2.25,
-      2.15,
-      2.4,
-      2.2,
+      2.1,
+      2.5,
+      2.05,
       2.0,
-      1.91
+      1.8
     ],
     "solo_en": [
       "threads"
@@ -17473,7 +17473,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-28T16:50"
   },
   {
     "id": "2026-11-28-loca-th-1840-x1000",
