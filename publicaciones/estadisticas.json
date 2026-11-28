@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28 13:29",
+ "actualizado": "2026-11-28 13:41",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4314,
-   "hoy": 20,
+   "seguidores": 4313,
+   "hoy": 19,
    "serie": [
     3714,
     3742,
@@ -24,7 +24,7 @@
     4020,
     4195,
     4294,
-    4314
+    4313
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4926,
- "total_hoy": 20,
+ "total": 4925,
+ "total_hoy": 19,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "14:00",
   "dia": "2026-11-28",
-  "titulo": "Pick que nos gusta mucho para hoy"
+  "titulo": "Combi angers – lens"
  },
  "ayer": {
   "aciertos": 6,
@@ -288,7 +288,7 @@
   },
   "2026-11-28": {
    "instagram": 58,
-   "threads": 4314,
+   "threads": 4313,
    "facebook": 1,
    "telegram": 553
   }
