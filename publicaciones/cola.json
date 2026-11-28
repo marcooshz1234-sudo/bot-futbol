@@ -2638,6 +2638,16 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-11-28-escalera"
+    "verde_de": "2026-11-28-escalera",
+    "enviado": "2026-11-28T22:00",
+    "mensaje_id": 668,
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18097194407690060",
+      "threads_enlace": "18497389594104554"
+    }
   }
 ]
