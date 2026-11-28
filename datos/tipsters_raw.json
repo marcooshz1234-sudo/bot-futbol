@@ -1245,14 +1245,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/47369",
-   "fecha": "2026-11-20T16:40",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-20T16:49",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47369.jpg"
-  },
-  {
    "id": "-1001468963672/47371",
    "fecha": "2026-11-20T16:57",
    "texto": "",
@@ -2733,6 +2725,14 @@
    "texto": "⚠️ ¡Se juega esta noche! \nSTAKE 10 + CUOTA @2.62. \n\n🛍️: https://tipsterperez.tipsterpage.com/HZbM8y63",
    "foto": false,
    "visto": "2026-11-28T00:06"
+  },
+  {
+   "id": "-1001468963672/47586",
+   "fecha": "2026-11-28T01:25",
+   "texto": "🔒 PLAZAS CERRADAS \n🍀 Resultados al finalizar.",
+   "foto": true,
+   "visto": "2026-11-28T01:35",
+   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47586.jpg"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
