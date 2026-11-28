@@ -2385,5 +2385,35 @@
       "threads": "17996686230058892",
       "instagram": "17925478761449288"
     }
+  },
+  {
+    "id": "2026-11-28-pick-tip-1",
+    "fecha": "2026-11-28T13:44",
+    "texto": "Otro pick que nos gusta mucho familia 🔥\n📈 De las que hemos estudiado bien\n\n🍀 Málaga más de 3 córners @1,61\n\n⚽ Málaga – Athletic Club · hoy 16:15\n\n👨‍💻 En casa el Málaga ha superado los tres córners en todos sus partidos de esta temporada\n👨‍💻 Promedia casi seis saques de esquina por partido como local, muy por encima de la línea\n👨‍💻 Con la línea en 3 exactos, si saca justo tres se devuelve la apuesta\n\n🧠 Stake 3/10",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": false,
+    "sel": [],
+    "cuotas": [],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true,
+    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
+  },
+  {
+    "id": "2026-11-28-combi-tip-1",
+    "fecha": "2026-11-28T13:44",
+    "texto": "Combinada para hoy, con cabeza ⚽\n\n🍀 Crear apuesta: Bayern o empate y más de 7,5 tiros a puerta @1,25\n🍀 Crear apuesta: más de 1,5 goles y marca el United @1,30\n\n📈 Cuota @1,62",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": true,
+    "sel": [],
+    "cuotas": [],
+    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true,
+    "aviso": "⚠️ El bot no puede seguir esta copia (es un «Crear apuesta» de varias condiciones): si sale, su verde y el resumen van a mano."
   }
 ]

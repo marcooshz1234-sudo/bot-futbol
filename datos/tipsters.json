@@ -5030,5 +5030,271 @@
    "cuota_bet365": 1.62,
    "prob_cuota": 0.617
   }
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "fuente": "-1001468963672/47588",
+  "dia": "2026-11-28",
+  "hora": "16:15",
+  "local": "Málaga",
+  "visitante": "Athletic Club",
+  "texto": "Málaga más de 3 córners",
+  "mercado": "Corners Over Under - Home",
+  "opcion": "Over 3.0",
+  "cuota": 1.61,
+  "stake": 3,
+  "argumento": [
+   "En casa el Málaga ha superado los tres córners en todos sus partidos de esta temporada",
+   "Promedia casi seis saques de esquina por partido como local, muy por encima de la línea",
+   "Con la línea en 3 exactos, si saca justo tres se devuelve la apuesta"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "TipsPro🤙",
+  "fuente": "-1001262785423/10232",
+  "dia": "2026-11-28",
+  "hora": "18:45",
+  "local": "PSV Eindhoven",
+  "visitante": "Go Ahead Eagles",
+  "texto": "Gana el PSV",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.19,
+  "stake": null,
+  "combinada": "tipspro-10232",
+  "argumento": [
+   "El PSV en casa es de lo más fiable de la Eredivisie",
+   "Go Ahead tiene bastante menos plantilla y suele sufrir fuera ante los grandes"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "TipsPro🤙",
+  "fuente": "-1001262785423/10232",
+  "dia": "2026-11-28",
+  "hora": "20:45",
+  "local": "Paris Saint-Germain",
+  "visitante": "Lorient",
+  "texto": "Crear apuesta: gana el PSG y el PSG marca más de 1,5 goles",
+  "mercado": "Crear apuesta",
+  "opcion": "PSG gana + PSG más de 1.5 goles",
+  "cuota": 1.28,
+  "stake": null,
+  "combinada": "tipspro-10232",
+  "argumento": [
+   "El PSG en el Parque es muy superior a un Lorient de la zona baja",
+   "Con su volumen de ocasiones, dos goles propios es lo habitual en casa"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "MAX ANALISTA",
+  "fuente": "-1002181392017/15625",
+  "dia": "2026-11-28",
+  "hora": "15:30",
+  "local": "Hamburger SV",
+  "visitante": "Bayern München",
+  "texto": "Crear apuesta: Bayern o empate y más de 7,5 tiros a puerta",
+  "mercado": "Crear apuesta",
+  "opcion": "Bayern/Empate + más de 7.5 tiros a puerta",
+  "cuota": 1.25,
+  "stake": null,
+  "combinada": "max-15625",
+  "argumento": [
+   "El Bayern no suele perder en Bundesliga y el doble resultado lo cubre casi todo",
+   "Solo el Bayern ya genera muchos tiros entre los tres palos, así que ocho en total es asumible"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "MAX ANALISTA",
+  "fuente": "-1002181392017/15625",
+  "dia": "2026-11-28",
+  "hora": "16:00",
+  "local": "Manchester United",
+  "visitante": "Brentford",
+  "texto": "Crear apuesta: más de 1,5 goles y marca el United",
+  "mercado": "Crear apuesta",
+  "opcion": "Más de 1.5 goles + United más de 0.5 goles",
+  "cuota": 1.3,
+  "stake": null,
+  "combinada": "max-15625",
+  "argumento": [
+   "Brentford juega abierto y sus partidos suelen tener goles",
+   "En Old Trafford el United casi siempre encuentra al menos un gol"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "Messi apuestas",
+  "fuente": "-1004443249454/1851",
+  "dia": "2026-11-28",
+  "hora": "15:30",
+  "local": "Paderborn",
+  "visitante": "Schalke 04",
+  "texto": "Crear apuesta: Aouchiche 3+ remates y Karaman 3+ remates",
+  "mercado": "Crear apuesta",
+  "opcion": "Aouchiche 3+ remates + Karaman 3+ remates",
+  "cuota": 6.75,
+  "stake": null,
+  "combinada": "messi-1851",
+  "argumento": [
+   "Son dos de los jugadores que más disparan del Schalke",
+   "Necesita que ambos jueguen casi todo el partido: mucho riesgo para una pata"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "Messi apuestas",
+  "fuente": "-1004443249454/1851",
+  "dia": "2026-11-28",
+  "hora": "15:30",
+  "local": "Mainz",
+  "visitante": "Union Berlin",
+  "texto": "Crear apuesta: Ilic 3+ remates y Burke 3+ remates",
+  "mercado": "Crear apuesta",
+  "opcion": "Ilic 3+ remates + Burke 3+ remates",
+  "cuota": 9.5,
+  "stake": null,
+  "combinada": "messi-1851",
+  "argumento": [
+   "Burke e Ilic son los que más tiran en el ataque del Union",
+   "Tres remates cada uno es una línea alta: apuesta de cuota grande"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "Messi apuestas",
+  "fuente": "-1004443249454/1849",
+  "dia": "2026-11-28",
+  "hora": "15:30",
+  "local": "Mainz",
+  "visitante": "Union Berlin",
+  "texto": "Crear apuesta: Burke 2+ remates a puerta e Ilic 2+ remates a puerta",
+  "mercado": "Crear apuesta",
+  "opcion": "Burke 2+ a puerta + Ilic 2+ a puerta",
+  "cuota": 24.0,
+  "stake": null,
+  "combinada": "messi-1849",
+  "argumento": [
+   "Misma idea que con remates totales pero exigiendo que vayan entre los tres palos",
+   "Dos a puerta cada uno es muy exigente fuera de casa: es una lotería"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "Messi apuestas",
+  "fuente": "-1004443249454/1849",
+  "dia": "2026-11-28",
+  "hora": "15:30",
+  "local": "Paderborn",
+  "visitante": "Schalke 04",
+  "texto": "Crear apuesta: Aouchiche 2+ remates a puerta y Karaman 2+ remates a puerta",
+  "mercado": "Crear apuesta",
+  "opcion": "Aouchiche 2+ a puerta + Karaman 2+ a puerta",
+  "cuota": 41.0,
+  "stake": null,
+  "combinada": "messi-1849",
+  "argumento": [
+   "Los dos llevan el peso ofensivo del Schalke",
+   "Que ambos acierten dos veces a puerta pasa en muy pocos partidos"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "Messi apuestas",
+  "fuente": "-1004443249454/1853",
+  "dia": "2026-11-28",
+  "hora": "15:30",
+  "local": "Paderborn",
+  "visitante": "Schalke 04",
+  "texto": "Crear apuesta: Aouchiche 3+ remates y Karaman 3+ remates",
+  "mercado": "Crear apuesta",
+  "opcion": "Aouchiche 3+ remates + Karaman 3+ remates",
+  "cuota": 6.75,
+  "stake": null,
+  "combinada": "messi-1853",
+  "argumento": [
+   "Son los dos que más disparan del Schalke",
+   "Depende de que ambos jueguen casi todo el partido"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "Messi apuestas",
+  "fuente": "-1004443249454/1853",
+  "dia": "2026-11-28",
+  "hora": "15:30",
+  "local": "Mainz",
+  "visitante": "Union Berlin",
+  "texto": "Crear apuesta: Ilic 3+ remates y Burke 3+ remates",
+  "mercado": "Crear apuesta",
+  "opcion": "Ilic 3+ remates + Burke 3+ remates",
+  "cuota": 9.5,
+  "stake": null,
+  "combinada": "messi-1853",
+  "argumento": [
+   "Burke e Ilic concentran los tiros del Union",
+   "Línea alta para los dos a la vez"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "Messi apuestas",
+  "fuente": "-1004443249454/1853",
+  "dia": "2026-11-28",
+  "hora": "15:30",
+  "local": "Hamburger SV",
+  "visitante": "Bayern München",
+  "texto": "Crear apuesta: Karl 3+ remates y Bischof 3+ remates",
+  "mercado": "Crear apuesta",
+  "opcion": "Karl 3+ remates + Bischof 3+ remates",
+  "cuota": 4.5,
+  "stake": null,
+  "combinada": "messi-1853",
+  "argumento": [
+   "El Bayern va a tener mucho balón y muchos tiros en Hamburgo",
+   "Karl y Bischof no siempre son titulares: si no juegan, se cae"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "Messi apuestas",
+  "fuente": "-1004443249454/1855",
+  "dia": "2026-11-28",
+  "hora": "15:30",
+  "local": "Hamburger SV",
+  "visitante": "Bayern München",
+  "texto": "Crear apuesta: Karl, Brown y Bischof 3+ remates cada uno",
+  "mercado": "Crear apuesta",
+  "opcion": "Karl 3+ remates + N. Brown 3+ remates + Bischof 3+ remates",
+  "cuota": 9.75,
+  "stake": null,
+  "combinada": "messi-1855",
+  "argumento": [
+   "Apuesta por un Bayern volcado en ataque durante todo el partido",
+   "Tres jugadores con tres tiros cada uno, y alguno puede no ser titular"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "Messi apuestas",
+  "fuente": "-1004443249454/1855",
+  "dia": "2026-11-28",
+  "hora": "15:30",
+  "local": "Paderborn",
+  "visitante": "Schalke 04",
+  "texto": "Crear apuesta: Aouchiche 3+ remates y Karaman 3+ remates",
+  "mercado": "Crear apuesta",
+  "opcion": "Aouchiche 3+ remates + Karaman 3+ remates",
+  "cuota": 6.75,
+  "stake": null,
+  "combinada": "messi-1855",
+  "argumento": [
+   "Los dos tiradores principales del Schalke",
+   "Riesgo alto si alguno sale del campo pronto"
+  ],
+  "argumento_propio": true
  }
 ]
