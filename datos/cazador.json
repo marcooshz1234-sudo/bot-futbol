@@ -71,7 +71,7 @@
    "justa": 2.11,
    "ev": 0.04,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Le Mans",
@@ -82,6 +82,17 @@
    "justa": 1.91,
    "ev": 0.019,
    "fuente": "las otras casas",
+   "edad_h": 0.4
+  },
+  {
+   "local": "Vitória SC",
+   "visitante": "Estrela",
+   "inicio": "2026-11-28T21:30",
+   "texto": "Estrela marca",
+   "cuota": 1.53,
+   "justa": 1.53,
+   "ev": 0.002,
+   "fuente": "Pinnacle",
    "edad_h": 0.0
   },
   {
@@ -93,7 +104,7 @@
    "justa": 1.73,
    "ev": -0.002,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "FCSB",
@@ -104,7 +115,7 @@
    "justa": 1.91,
    "ev": -0.002,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Inter",
@@ -115,11 +126,11 @@
    "justa": 1.99,
    "ev": -0.02,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.4
   }
  ],
  "ultima": {
-  "hora": "2026-11-28T17:29",
+  "hora": "2026-11-28T17:50",
   "revisadas": 0,
   "mejor": null
  },
