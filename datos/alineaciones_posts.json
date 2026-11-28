@@ -6287,10 +6287,151 @@
    }
   },
   "1575545": {
-   "hora": "2026-11-28T18:24:21.620097+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-28T18:34:35.089954+01:00",
+   "xi": [
+    "Ewerton",
+    "Robinho",
+    "A. Correia",
+    "N. Michelis",
+    "G. Costa",
+    "Luís Silva",
+    "S. Messeguem",
+    "Nils Mortimer",
+    "C. Kahraman",
+    "João Guilherme",
+    "André Clóvis",
+    "Matheus Mendes",
+    "Y. Bojang",
+    "Sergi Gómez",
+    "S. Baseya",
+    "Diogo Filipe Spencer Marques",
+    "Ian Luccas",
+    "D. Gui",
+    "I. James",
+    "Chiquinho",
+    "D. Camara",
+    "Figueiredo"
+   ],
+   "banquillo": [
+    "Valery",
+    "Á. Zamora",
+    "Pedro Barcelos",
+    "Paulinho",
+    "Alejandro Mestanza",
+    "Marcos Lavín",
+    "L. Gohi",
+    "H. Gambor",
+    "Tomás Domingos",
+    "André Ceitil",
+    "A. Babić",
+    "Juan Soriano",
+    "M. Jemide",
+    "André Vidigal",
+    "Z. Kassary",
+    "J. Martínez",
+    "Matheus França",
+    "Vasco Moreira",
+    "C. Nuozzi",
+    "N. Raveyre",
+    "Vivaldo Semedo",
+    "Toni Tamarit",
+    "Francisco Chissumba",
+    "S. Merheg"
+   ],
+   "equipos": {
+    "238": [
+     {
+      "n": "Ewerton",
+      "pos": "G"
+     },
+     {
+      "n": "Robinho",
+      "pos": "D"
+     },
+     {
+      "n": "A. Correia",
+      "pos": "D"
+     },
+     {
+      "n": "N. Michelis",
+      "pos": "D"
+     },
+     {
+      "n": "G. Costa",
+      "pos": "D"
+     },
+     {
+      "n": "Luís Silva",
+      "pos": "M"
+     },
+     {
+      "n": "S. Messeguem",
+      "pos": "M"
+     },
+     {
+      "n": "Nils Mortimer",
+      "pos": "M"
+     },
+     {
+      "n": "C. Kahraman",
+      "pos": "M"
+     },
+     {
+      "n": "João Guilherme",
+      "pos": "M"
+     },
+     {
+      "n": "André Clóvis",
+      "pos": "F"
+     }
+    ],
+    "4724": [
+     {
+      "n": "Matheus Mendes",
+      "pos": "G"
+     },
+     {
+      "n": "Y. Bojang",
+      "pos": "D"
+     },
+     {
+      "n": "Sergi Gómez",
+      "pos": "D"
+     },
+     {
+      "n": "S. Baseya",
+      "pos": "D"
+     },
+     {
+      "n": "Diogo Filipe Spencer Marques",
+      "pos": "M"
+     },
+     {
+      "n": "Ian Luccas",
+      "pos": "M"
+     },
+     {
+      "n": "D. Gui",
+      "pos": "M"
+     },
+     {
+      "n": "I. James",
+      "pos": "M"
+     },
+     {
+      "n": "Chiquinho",
+      "pos": "F"
+     },
+     {
+      "n": "D. Camara",
+      "pos": "F"
+     },
+     {
+      "n": "Figueiredo",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }

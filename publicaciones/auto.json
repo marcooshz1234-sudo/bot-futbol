@@ -17560,12 +17560,12 @@
       "1570470|Results/Both Teams Score|Home/Yes"
     ],
     "cuotas": [
-      1.73,
-      2.15,
-      2.4,
+      1.83,
+      2.0,
+      2.5,
       1.53,
-      1.67,
-      2.5
+      1.62,
+      2.38
     ],
     "solo_en": [
       "threads"
@@ -17576,7 +17576,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-28T18:34"
   },
   {
     "id": "2026-11-28-loca-th-2020-hora",
