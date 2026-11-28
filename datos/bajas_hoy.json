@@ -14242,6 +14242,12 @@
    },
    {
     "equipo": 67,
+    "jugador": "M. Jorgensen",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 67,
     "jugador": "L. Miller",
     "tipo": "Missing Fixture",
     "motivo": "Achilles Tendon Injury"
@@ -14254,9 +14260,9 @@
    },
    {
     "equipo": 67,
-    "jugador": "M. Jorgensen",
+    "jugador": "S. Morsy",
     "tipo": "Questionable",
-    "motivo": "Muscle Injury"
+    "motivo": "Knock"
    },
    {
     "equipo": 1335,
@@ -14272,27 +14278,27 @@
    },
    {
     "equipo": 1335,
-    "jugador": "W. Mannion",
+    "jugador": "M. Mbick",
     "tipo": "Missing Fixture",
-    "motivo": "Calf Injury"
-   },
-   {
-    "equipo": 1335,
-    "jugador": "Z. Mitchell",
-    "tipo": "Missing Fixture",
-    "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 1335,
-    "jugador": "K. Ramsay",
-    "tipo": "Missing Fixture",
-    "motivo": "Groin Injury"
+    "motivo": "Hamstring Injury"
    },
    {
     "equipo": 1335,
     "jugador": "C. Sichenje",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 1335,
+    "jugador": "K. Ramsay",
+    "tipo": "Questionable",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 1335,
+    "jugador": "J. Rankin-Costello",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
    }
   ],
   "1565314": [],
@@ -14353,6 +14359,12 @@
    },
    {
     "equipo": 71,
+    "jugador": "A. Crnac",
+    "tipo": "Missing Fixture",
+    "motivo": "Lacking Match Fitness"
+   },
+   {
+    "equipo": 71,
     "jugador": "P. A. Diallo",
     "tipo": "Missing Fixture",
     "motivo": "Hamstring Injury"
@@ -14360,6 +14372,12 @@
    {
     "equipo": 71,
     "jugador": "G. Forsyth",
+    "tipo": "Missing Fixture",
+    "motivo": "Lacking Match Fitness"
+   },
+   {
+    "equipo": 71,
+    "jugador": "M. Topic",
     "tipo": "Missing Fixture",
     "motivo": "Lacking Match Fitness"
    },
@@ -14511,12 +14529,6 @@
    },
    {
     "equipo": 69,
-    "jugador": "S. Szmodics",
-    "tipo": "Missing Fixture",
-    "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 69,
     "jugador": "C. Taylor",
     "tipo": "Missing Fixture",
     "motivo": "Hamstring Injury"
@@ -14532,6 +14544,12 @@
     "jugador": "R. Hedges",
     "tipo": "Questionable",
     "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "S. Szmodics",
+    "tipo": "Questionable",
+    "motivo": "Knee Injury"
    },
    {
     "equipo": 38,
@@ -14580,6 +14598,12 @@
     "jugador": "J. Zemura",
     "tipo": "Missing Fixture",
     "motivo": "Red Card"
+   },
+   {
+    "equipo": 38,
+    "jugador": "E. Bove",
+    "tipo": "Questionable",
+    "motivo": "Health Problems"
    }
   ],
   "1563287": [
@@ -14600,6 +14624,12 @@
     "jugador": "K. Lund",
     "tipo": "Missing Fixture",
     "motivo": "Inactive"
+   },
+   {
+    "equipo": 54,
+    "jugador": "E. Laird",
+    "tipo": "Questionable",
+    "motivo": "Injury"
    },
    {
     "equipo": 68,
@@ -14680,6 +14710,12 @@
     "jugador": "B. Arthur",
     "tipo": "Missing Fixture",
     "motivo": "Back Injury"
+   },
+   {
+    "equipo": 1355,
+    "jugador": "D. Bielica",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
    },
    {
     "equipo": 1355,
@@ -14936,6 +14972,12 @@
     "motivo": "Hamstring Injury"
    },
    {
+    "equipo": 58,
+    "jugador": "C. De Norre",
+    "tipo": "Questionable",
+    "motivo": "Health Problems"
+   },
+   {
     "equipo": 44,
     "jugador": "B. Amos",
     "tipo": "Missing Fixture",
@@ -15044,27 +15086,33 @@
     "jugador": "N. Eile",
     "tipo": "Missing Fixture",
     "motivo": "Illness"
+   },
+   {
+    "equipo": 56,
+    "jugador": "L. McNally",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
    }
   ],
   "1570040": [],
   "1563297": [
    {
     "equipo": 48,
+    "jugador": "K. Lamadrid",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 48,
     "jugador": "K. Walker-Peters",
     "tipo": "Missing Fixture",
-    "motivo": "Inactive"
+    "motivo": "Muscle Injury"
    },
    {
     "equipo": 48,
     "jugador": "A. Areola",
     "tipo": "Questionable",
-    "motivo": "Inactive"
-   },
-   {
-    "equipo": 48,
-    "jugador": "K. Lamadrid",
-    "tipo": "Questionable",
-    "motivo": "Knee Injury"
+    "motivo": "Muscle Injury"
    },
    {
     "equipo": 75,
@@ -15077,6 +15125,12 @@
     "jugador": "L. Cisse",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 75,
+    "jugador": "D. Soumare",
+    "tipo": "Questionable",
+    "motivo": "Injury"
    }
   ],
   "1575235": [
@@ -15197,12 +15251,6 @@
     "motivo": "Muscle Injury"
    },
    {
-    "equipo": 192,
-    "jugador": "M. Schwabe",
-    "tipo": "Questionable",
-    "motivo": "Back Injury"
-   },
-   {
     "equipo": 1660,
     "jugador": "N. Mickelson",
     "tipo": "Missing Fixture",
@@ -15219,18 +15267,6 @@
     "jugador": "N. Darvich",
     "tipo": "Questionable",
     "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 1660,
-    "jugador": "L. Gunther",
-    "tipo": "Questionable",
-    "motivo": "Illness"
-   },
-   {
-    "equipo": 1660,
-    "jugador": "N. Kristof",
-    "tipo": "Questionable",
-    "motivo": "Illness"
    }
   ],
   "1575234": [
@@ -15352,6 +15388,12 @@
    }
   ],
   "1552236": [
+   {
+    "equipo": 427,
+    "jugador": "R. Oudsten",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
    {
     "equipo": 427,
     "jugador": "J. Seedorf",
@@ -15569,6 +15611,18 @@
     "jugador": "J. Schouten",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 197,
+    "jugador": "I. Perisic",
+    "tipo": "Questionable",
+    "motivo": "Health Problems"
+   },
+   {
+    "equipo": 410,
+    "jugador": "R. Margaret",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
    },
    {
     "equipo": 410,
@@ -15821,8 +15875,14 @@
    {
     "equipo": 495,
     "jugador": "L. Ostigard",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Illness"
+   },
+   {
+    "equipo": 495,
+    "jugador": "T. Baldanzi",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
    }
   ],
   "1552234": [
@@ -16231,12 +16291,6 @@
     "jugador": "Emerson",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 81,
-    "jugador": "G. Kondogbia",
-    "tipo": "Questionable",
-    "motivo": "Tendon Injury"
    }
   ],
   "1552237": [
@@ -16773,16 +16827,72 @@
     "jugador": "M. Bernal",
     "tipo": "Questionable",
     "motivo": "Injury"
+   }
+  ],
+  "1552242": [
+   {
+    "equipo": 193,
+    "jugador": "F. Krastev",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Injury"
    },
    {
-    "equipo": 529,
-    "jugador": "Rodri",
-    "tipo": "Questionable",
-    "motivo": "Calf Injury"
+    "equipo": 193,
+    "jugador": "G. Rahajaan",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 193,
+    "jugador": "G. van der Wal",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 201,
+    "jugador": "E. Dijkstra",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 201,
+    "jugador": "J. Hornkamp",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 201,
+    "jugador": "M. Meerdink",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 201,
+    "jugador": "S. Resink",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 201,
+    "jugador": "L. Schouten",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 201,
+    "jugador": "K. Smit",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 201,
+    "jugador": "Weslley Patati",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
    }
   ]
  },
- "ultima": "2026-11-28T10:39:12.491943+01:00",
+ "ultima": "2026-11-28T11:09:29.157169+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
