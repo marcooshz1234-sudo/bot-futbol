@@ -15505,12 +15505,6 @@
     "jugador": "K. Taylor",
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
-   },
-   {
-    "equipo": 487,
-    "jugador": "T. Noslin",
-    "tipo": "Questionable",
-    "motivo": "Injury"
    }
   ],
   "1570466": [
@@ -17030,9 +17024,59 @@
     "tipo": "Missing Fixture",
     "motivo": "Injury"
    }
+  ],
+  "1550207": [
+   {
+    "equipo": 497,
+    "jugador": "L. Pellegrini",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 497,
+    "jugador": "D. Rensch",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 497,
+    "jugador": "D. S. Vasquez Llach",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 1579,
+    "jugador": "P. Ciurria",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 1579,
+    "jugador": "M. Folorunsho",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 1579,
+    "jugador": "Y. Maye",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 1579,
+    "jugador": "C. Ngonge",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 1579,
+    "jugador": "E. Akinsanmiro",
+    "tipo": "Questionable",
+    "motivo": "Leg Injury"
+   }
   ]
  },
- "ultima": "2026-11-28T11:45:18.260871+01:00",
+ "ultima": "2026-11-28T12:16:51.911481+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
