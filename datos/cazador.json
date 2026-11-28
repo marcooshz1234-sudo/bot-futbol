@@ -63,6 +63,17 @@
  },
  "top": [
   {
+   "local": "Excelsior",
+   "visitante": "Telstar",
+   "inicio": "2026-11-28T16:30",
+   "texto": "Telstar o empate",
+   "cuota": 1.8,
+   "justa": 1.78,
+   "ev": 0.013,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
    "local": "Moreirense",
    "visitante": "Santa Clara",
    "inicio": "2026-11-28T16:30",
@@ -71,51 +82,7 @@
    "justa": 1.43,
    "ev": 0.005,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
-  },
-  {
-   "local": "FCSB",
-   "visitante": "Csikszereda",
-   "inicio": "2026-11-28T19:00",
-   "texto": "Más de 1,5 goles en la 2ª parte del FCSB–Csikszereda",
-   "cuota": 1.73,
-   "justa": 1.73,
-   "ev": -0.002,
-   "fuente": "las otras casas",
    "edad_h": 0.0
-  },
-  {
-   "local": "FCSB",
-   "visitante": "Csikszereda",
-   "inicio": "2026-11-28T19:00",
-   "texto": "FCSB marca 3 o más",
-   "cuota": 1.91,
-   "justa": 1.91,
-   "ev": -0.002,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Elche",
-   "visitante": "Atletico Madrid",
-   "inicio": "2026-11-28T18:30",
-   "texto": "Ambos marcan en Elche–Atletico Madrid",
-   "cuota": 1.8,
-   "justa": 1.81,
-   "ev": -0.004,
-   "fuente": "las otras casas",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Albacete",
-   "visitante": "Tenerife",
-   "inicio": "2026-11-28T16:15",
-   "texto": "Tenerife o empate",
-   "cuota": 1.8,
-   "justa": 1.82,
-   "ev": -0.013,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
   },
   {
    "local": "Ospitaletto",
@@ -137,22 +104,33 @@
    "justa": 1.83,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 6.9
+   "edad_h": 7.3
   },
   {
-   "local": "West Brom",
-   "visitante": "Bristol City",
-   "inicio": "2026-11-28T16:00",
-   "texto": "Bristol City o empate",
-   "cuota": 2.2,
-   "justa": 2.24,
-   "ev": -0.018,
+   "local": "NEC Nijmegen",
+   "visitante": "Twente",
+   "inicio": "2026-11-29T20:00",
+   "texto": "Gana el Twente",
+   "cuota": 1.91,
+   "justa": 1.95,
+   "ev": -0.02,
+   "fuente": "las otras casas",
+   "edad_h": 7.3
+  },
+  {
+   "local": "Arouca",
+   "visitante": "Rio Ave",
+   "inicio": "2026-11-28T16:30",
+   "texto": "Rio Ave marca",
+   "cuota": 1.57,
+   "justa": 1.6,
+   "ev": -0.02,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-28T15:36",
+  "hora": "2026-11-28T16:03",
   "revisadas": 0,
   "mejor": null
  },
