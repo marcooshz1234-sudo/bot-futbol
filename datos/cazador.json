@@ -71,7 +71,7 @@
    "justa": 2.06,
    "ev": -0.005,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Vitória SC",
@@ -82,7 +82,7 @@
    "justa": 1.46,
    "ev": -0.011,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Vitória SC",
@@ -93,11 +93,11 @@
    "justa": 1.7,
    "ev": -0.019,
    "fuente": "las otras casas",
-   "edad_h": 0.3
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-28T20:29",
+  "hora": "2026-11-28T20:59",
   "revisadas": 0,
   "mejor": null
  },
