@@ -17756,14 +17756,6 @@
  ],
  "ENZO TIPSTER🇦🇷": [
   {
-   "id": "-1002819019921/6700",
-   "fecha": "2026-11-12T09:13",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-13T01:51",
-   "foto_ruta": "datos/tipsters_fotos/ENZO_TIPSTER__6700.jpg"
-  },
-  {
    "id": "-1002819019921/6699",
    "fecha": "2026-11-12T09:13",
    "texto": "",
@@ -19253,6 +19245,14 @@
    "texto": "🏀NBA | 🏀Pacers vs 76ers🏀",
    "foto": false,
    "visto": "2026-11-27T22:00"
+  },
+  {
+   "id": "-1002819019921/6913",
+   "fecha": "2026-11-28T02:49",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-28T02:52",
+   "foto_ruta": "datos/tipsters_fotos/ENZO_TIPSTER__6913.jpg"
   }
  ],
  "Rayan Stakes Daily": [
@@ -25413,6 +25413,13 @@
    "foto": true,
    "visto": "2026-11-28T02:31",
    "foto_ruta": "datos/tipsters_fotos/CRIMINALPICKS__11166.jpg"
+  },
+  {
+   "id": "-1002685171001/11167",
+   "fecha": "2026-11-28T02:46",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-28T02:52"
   }
  ]
 }
