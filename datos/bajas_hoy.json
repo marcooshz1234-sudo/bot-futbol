@@ -15907,9 +15907,54 @@
     "motivo": "Muscle Injury"
    }
   ],
-  "1575553": []
+  "1575553": [],
+  "1576545": [],
+  "1552235": [
+   {
+    "equipo": 198,
+    "jugador": "L. Reischl",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 198,
+    "jugador": "M. Waem",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
+   },
+   {
+    "equipo": 207,
+    "jugador": "A. Engwanda",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 207,
+    "jugador": "V. Jensen",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 207,
+    "jugador": "M. Jonathans",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 207,
+    "jugador": "N. Ohio",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 207,
+    "jugador": "K. Paredes",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   }
+  ]
  },
- "ultima": "2026-11-28T05:50:33.994257+01:00",
+ "ultima": "2026-11-28T06:24:16.953197+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
