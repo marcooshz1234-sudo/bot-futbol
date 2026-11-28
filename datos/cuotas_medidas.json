@@ -7537,5 +7537,69 @@
     0.99
    ]
   ]
+ },
+ {
+  "id": "2026-11-29-loca-th-noche-2230-duelo",
+  "fecha": "2026-11-28T22:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1552829|Home Player Shots|Romain Faivre - 2",
+   "1552829|Away Player Shots|Amine Gouiri - 3"
+  ],
+  "cuotas": [
+   1.62,
+   1.44
+  ],
+  "real": 2.38,
+  "multiplicando": 2.333,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-29-loca-th-noche-2330-escudos",
+  "fecha": "2026-11-28T23:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1575233|Player Fouls Committed|Yannick Engelhardt - 2",
+   "1575233|Home Player Shots|Igor Matanovic - 3",
+   "1575233|To Win Either Half|Away",
+   "1575233|Goals Over/Under - Second Half|Over 1.5"
+  ],
+  "cuotas": [
+   2.0,
+   1.44,
+   1.67,
+   1.67
+  ],
+  "real": 9.44,
+  "multiplicando": 8.032,
+  "aj": 0.9787701361678054,
+  "parejas": [
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ]
+  ]
  }
 ]
