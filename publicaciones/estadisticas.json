@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28 07:53",
+ "actualizado": "2026-11-28 08:03",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4306,
-   "hoy": 12,
+   "seguidores": 4307,
+   "hoy": 13,
    "serie": [
     3714,
     3742,
@@ -24,7 +24,7 @@
     4020,
     4195,
     4294,
-    4306
+    4307
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4916,
- "total_hoy": 10,
+ "total": 4917,
+ "total_hoy": 11,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "08:00",
+  "hora": "09:00",
   "dia": "2026-11-28",
-  "titulo": "Combi x94,98"
+  "titulo": "Córners del día"
  },
  "ayer": {
   "aciertos": 0,
@@ -288,7 +288,7 @@
   },
   "2026-11-28": {
    "instagram": 58,
-   "threads": 4306,
+   "threads": 4307,
    "facebook": 1,
    "telegram": 551
   }
