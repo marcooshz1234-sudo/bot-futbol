@@ -2230,7 +2230,14 @@
     "texto": "Vamos con otro pick, familia 👇\n\n🇩🇪 Hamburgo – Bayern Múnich · 15:30\n\n🍀 Más de 1,5 goles en la 2.ª parte @1,53\n\n👨‍💻 En 8 de los últimos 10 del Hamburgo hubo 2+ goles en la 2.ª parte.\n👨‍💻 Y en 9 de los últimos 10 del Bayern.\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
     "foto_tg": "publicaciones/media/2026-11-28-pick-extra-hamburgo.tg.jpg",
     "enviado": "2026-11-28T11:30",
-    "mensaje_id": 660
+    "mensaje_id": 660,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-28-pick-extra-angers",
@@ -2343,6 +2350,13 @@
     "sel": [],
     "cuotas": [],
     "excepcion_cuota": "combi larga diaria (Marcos 15/11)",
-    "nota": "patas: 1551385|Both Teams Score|Yes · 1563288|Double Chance|Home/Draw · 1565314|Both Teams Score|Yes · 1570463|Ambos tarjeta|Sí · 1608387|Goals Over/Under|Over 1.5 · 1550210|Both Teams Score|Yes · 1575234|Match Winner|Home · 1575238|Double Chance|Home/Draw · 1557484|Goals Over/Under|Over 2.5 · 1563297|Goals Over/Under|Over 1.5 · 1563291|Ambos tarjeta|Sí · 1563289|Goals Over/Under|Over 1.5"
+    "nota": "patas: 1551385|Both Teams Score|Yes · 1563288|Double Chance|Home/Draw · 1565314|Both Teams Score|Yes · 1570463|Ambos tarjeta|Sí · 1608387|Goals Over/Under|Over 1.5 · 1550210|Both Teams Score|Yes · 1575234|Match Winner|Home · 1575238|Double Chance|Home/Draw · 1557484|Goals Over/Under|Over 2.5 · 1563297|Goals Over/Under|Over 1.5 · 1563291|Ambos tarjeta|Sí · 1563289|Goals Over/Under|Over 1.5",
+    "redes": {
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "17915211468481976",
+      "instagram": "18610365862068389"
+    }
   }
 ]
