@@ -5076,13 +5076,6 @@
  ],
  "TRADER FOOTBALL || FREE👨🏼‍💻": [
   {
-   "id": "-1001550157115/101134",
-   "fecha": "2026-11-26T10:50",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-26T10:51"
-  },
-  {
    "id": "-1001550157115/101136",
    "fecha": "2026-11-26T10:51",
    "texto": "",
@@ -6574,6 +6567,13 @@
    "foto": true,
    "visto": "2026-11-28T22:25",
    "foto_ruta": "datos/tipsters_fotos/TRADER_FOOTBALL_FREE__101336.jpg"
+  },
+  {
+   "id": "-1001550157115/101339",
+   "fecha": "2026-11-28T22:36",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-28T22:37"
   }
  ],
  "MisterBasquet 🏀": [
@@ -26246,6 +26246,13 @@
    "texto": "SI NO LOS VEO ACTIVOS DESCANSAMOS PARA MAÑANA😴🤷🏻‍♂️",
    "foto": false,
    "visto": "2026-11-28T22:25"
+  },
+  {
+   "id": "-1002685171001/11202",
+   "fecha": "2026-11-28T22:35",
+   "texto": "EL 1º PARTIDO EMPIEZA YA⬆️⏰",
+   "foto": false,
+   "visto": "2026-11-28T22:37"
   }
  ]
 }
