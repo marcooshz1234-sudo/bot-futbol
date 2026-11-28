@@ -5387,5 +5387,25 @@
    "cuota_bet365": 1.28,
    "prob_cuota": 0.781
   }
+ },
+ {
+  "tipster": "MERIDIANPICKS 🌐",
+  "fuente": "-1003548284566/80",
+  "dia": "2026-11-28",
+  "local": "FSV Mainz 05",
+  "visitante": "Union Berlin",
+  "partido_id": 1575234,
+  "texto": "Gana el FSV Mainz 05",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": null,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "Bundesliga",
+   "cuota_bet365": 1.45,
+   "prob_cuota": 0.69
+  }
  }
 ]

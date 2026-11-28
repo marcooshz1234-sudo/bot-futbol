@@ -113,6 +113,15 @@
    "resueltos_con_cuota": 6,
    "prob_cuota": 4.52
   },
+  "MERIDIANPICKS 🌐": {
+   "n": 7,
+   "verdes": 2,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": 0.75,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 1.58
+  },
   "STAKE REAL | JB APUESTAS": {
    "n": 6,
    "verdes": 3,
@@ -130,15 +139,6 @@
    "unidades": 1.05,
    "resueltos_con_cuota": 3,
    "prob_cuota": 2.238
-  },
-  "MERIDIANPICKS 🌐": {
-   "n": 6,
-   "verdes": 2,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": 0.75,
-   "resueltos_con_cuota": 3,
-   "prob_cuota": 1.58
   },
   "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️": {
    "n": 5,
@@ -213,7 +213,7 @@
  },
  "mercado": {
   "Match Winner Home": {
-   "n": 32,
+   "n": 33,
    "verdes": 19,
    "rojos": 7,
    "nulos": 0,
@@ -1274,11 +1274,18 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "FSV Mainz 05": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
   "sin razón": {
-   "n": 119,
+   "n": 120,
    "verdes": 59,
    "rojos": 19,
    "nulos": 0,
@@ -1370,7 +1377,7 @@
    "prob_cuota": 22.703
   },
   "?": {
-   "n": 32,
+   "n": 33,
    "verdes": 16,
    "rojos": 5,
    "nulos": 0,
@@ -1424,7 +1431,7 @@
    "prob_cuota": 7.233
   },
   "Bundesliga": {
-   "n": 13,
+   "n": 14,
    "verdes": 0,
    "rojos": 2,
    "nulos": 0,
@@ -1530,7 +1537,7 @@
    "prob_cuota": 25.648
   },
   "local": {
-   "n": 54,
+   "n": 55,
    "verdes": 28,
    "rojos": 16,
    "nulos": 0,
@@ -1550,7 +1557,7 @@
  },
  "por_que": {
   "—": {
-   "n": 127,
+   "n": 128,
    "verdes": 40,
    "rojos": 27,
    "nulos": 0,
@@ -1624,7 +1631,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 197,
+   "n": 198,
    "verdes": 82,
    "rojos": 37,
    "nulos": 0,
