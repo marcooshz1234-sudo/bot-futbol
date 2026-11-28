@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-28",
- "generado": "2026-11-28T05:00+01:00",
+ "generado": "2026-11-28T05:31+01:00",
  "rango": [
   "2026-11-28",
   "2026-12-01"
@@ -1249,38 +1249,6 @@
    "cuota": 2.02
   },
   {
-   "equipo": "Hamburger SV",
-   "liga": "Bundesliga",
-   "partido": "Hamburger SV–Bayern München",
-   "hora": "2026-11-28T15:30",
-   "logo": "https://media.api-sports.io/football/teams/175.png",
-   "patas": [
-    {
-     "sel": "1575235|Total - Home|Over 0.5",
-     "texto": "Hamburger SV marca",
-     "cuota": 1.53,
-     "p": 0.765,
-     "dato": "marca 1,4 por partido y el rival encaja 1,2",
-     "nota": 0.8443838002405138,
-     "partido": "Hamburger SV–Bayern München",
-     "hora": "2026-11-28T15:30"
-    },
-    {
-     "sel": "1575235|Player Fouls Committed|Albert Sambi Lokonga - 1",
-     "texto": "Albert Sambi Lokonga: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 1,83 por 90' (0-2-1-1-4)",
-     "nota": 0.8025714285714286,
-     "equipo": "Hamburger SV",
-     "lado": "L",
-     "partido": "Hamburger SV–Bayern München",
-     "hora": "2026-11-28T15:30"
-    }
-   ],
-   "cuota": 2.2
-  },
-  {
    "equipo": "VfB Stuttgart",
    "liga": "Bundesliga",
    "partido": "VfB Stuttgart–Eintracht Frankfurt",
@@ -1612,12 +1580,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/182.png"
     },
     {
-     "sel": "1575235|Total - Home|Over 0.5",
-     "texto": "Hamburger SV marca",
-     "cuota": 1.53,
-     "p": 0.765,
-     "dato": "marca 1,4 por partido y el rival encaja 1,2",
-     "nota": 0.8443838002405138,
+     "sel": "1575235|Player Fouls Committed|Albert Sambi Lokonga - 1",
+     "texto": "Albert Sambi Lokonga: comete 1+ falta",
+     "cuota": 1.44,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,83 por 90' (0-2-1-1-4)",
+     "nota": 0.8025714285714286,
+     "equipo": "Hamburger SV",
+     "lado": "L",
      "partido": "Hamburger SV–Bayern München",
      "hora": "2026-11-28T15:30",
      "liga": "Bundesliga",
@@ -1698,19 +1668,18 @@
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
     },
     {
-     "sel": "1575231|Player Fouls Committed|Maximilian Mittelstadt - 1",
-     "texto": "Maximilian Mittelstadt: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,20 por 90' (1-1-1-0-2-2)",
-     "nota": 0.9000000000000001,
-     "equipo": "VfB Stuttgart",
-     "lado": "L",
+     "sel": "1575231|Both Teams Score|Yes",
+     "texto": "Ambos marcan (VfB Stuttgart–Eintracht Frankfurt)",
+     "cuota": 1.3,
+     "p": 0.705,
+     "dato": "marcan los dos en el 67% y el 57% de sus partidos",
+     "nota": 0.705,
      "partido": "VfB Stuttgart–Eintracht Frankfurt",
      "hora": "2026-11-28T18:30",
      "liga": "Bundesliga",
      "logo_l": "https://media.api-sports.io/football/teams/172.png",
-     "logo_v": "https://media.api-sports.io/football/teams/169.png"
+     "logo_v": "https://media.api-sports.io/football/teams/169.png",
+     "solo_todo": true
     },
     {
      "sel": "1552831|Away Player Shots|Dario Essugo - 1",
@@ -1770,8 +1739,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 417.68,
-   "prob": 0.05
+   "cuota": 340.69,
+   "prob": 0.044
   },
   {
    "patas": [
@@ -1951,12 +1920,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/523.png"
     },
     {
-     "sel": "1575235|Total - Home|Over 0.5",
-     "texto": "Hamburger SV marca",
-     "cuota": 1.53,
-     "p": 0.765,
-     "dato": "marca 1,4 por partido y el rival encaja 1,2",
-     "nota": 0.8443838002405138,
+     "sel": "1575235|Player Fouls Committed|Albert Sambi Lokonga - 1",
+     "texto": "Albert Sambi Lokonga: comete 1+ falta",
+     "cuota": 1.44,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,83 por 90' (0-2-1-1-4)",
+     "nota": 0.8025714285714286,
+     "equipo": "Hamburger SV",
+     "lado": "L",
      "partido": "Hamburger SV–Bayern München",
      "hora": "2026-11-28T15:30",
      "liga": "Bundesliga",
@@ -2065,7 +2036,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 39.61,
+   "cuota": 37.28,
    "prob": 0.062,
    "clave": "dia-2026-11-28-b",
    "titulo": "📅 La del sábado · B",
@@ -2320,12 +2291,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
     },
     {
-     "sel": "1575231|Player Fouls Committed|Finn Jeltsch - 1",
-     "texto": "Finn Jeltsch: comete 1+ falta",
-     "cuota": 1.62,
+     "sel": "1575231|Player Fouls Committed|Maximilian Mittelstadt - 1",
+     "texto": "Maximilian Mittelstadt: comete 1+ falta",
+     "cuota": 1.5,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,41 por 90' (1-1-1-0-2-3)",
-     "nota": 0.9240000000000002,
+     "dato": "cumple 5/6 siendo titular · 1,20 por 90' (1-1-1-0-2-2)",
+     "nota": 0.9000000000000001,
      "equipo": "VfB Stuttgart",
      "lado": "L",
      "partido": "VfB Stuttgart–Eintracht Frankfurt",
@@ -2404,7 +2375,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 574.77,
+   "cuota": 532.2,
    "prob": 0.027
   },
   {
@@ -2515,18 +2486,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
     },
     {
-     "sel": "1575231|Both Teams Score|Yes",
-     "texto": "Ambos marcan (VfB Stuttgart–Eintracht Frankfurt)",
-     "cuota": 1.3,
-     "p": 0.705,
-     "dato": "marcan los dos en el 67% y el 57% de sus partidos",
-     "nota": 0.705,
+     "sel": "1575231|Player Fouls Committed|Finn Jeltsch - 1",
+     "texto": "Finn Jeltsch: comete 1+ falta",
+     "cuota": 1.62,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,41 por 90' (1-1-1-0-2-3)",
+     "nota": 0.9240000000000002,
+     "equipo": "VfB Stuttgart",
+     "lado": "L",
      "partido": "VfB Stuttgart–Eintracht Frankfurt",
      "hora": "2026-11-28T18:30",
      "liga": "Bundesliga",
      "logo_l": "https://media.api-sports.io/football/teams/172.png",
-     "logo_v": "https://media.api-sports.io/football/teams/169.png",
-     "solo_todo": true
+     "logo_v": "https://media.api-sports.io/football/teams/169.png"
     },
     {
      "sel": "1557482|Away Team Total Cards|Over 1.5",
@@ -2615,8 +2587,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 290.92,
-   "prob": 0.027
+   "cuota": 362.54,
+   "prob": 0.031
   },
   {
    "clave": "todo-2026-11-29",
