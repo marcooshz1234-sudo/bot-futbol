@@ -3834,11 +3834,11 @@
     "total": 18,
     "cuentas": {
       "verde": 3,
-      "rojo": 13,
+      "rojo": 14,
       "pendiente": 1,
-      "sin_datos": 1,
+      "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 1
     },
     "combis": [
       {
@@ -3940,7 +3940,7 @@
       {
         "id": "2026-11-28-loca-th-noche-2230-duelo",
         "titulo": "⚔️ EL DUELO DE TIROS ⚔️",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 3.15
       },
       {
@@ -3951,22 +3951,22 @@
       }
     ],
     "picks": {
-      "verde": 23,
-      "rojo": 24,
+      "verde": 24,
+      "rojo": 26,
       "total": 61
     },
-    "texto": "📊 BALANCE DEL VIERNES: 3 DE 16 EN VERDE 📊\n\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 61,70\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🥊 EL DUELO DE TIROS 🥊 · 2,54\n❌ 🎰 COMBI x161 🎰\n❌ 💶 RETO: DE 1€ A 299€ 💶\n❌ 🎯 COMBI DE TIROS · NOTTINGHAM FOREST vs CHELSEA 🎯 · 3,99\n❌ 🪜 Reto escalera · Día 2/7\n✅ Más de 1,5 goles en la 2ª parte del Werder Bremen–Borussia Mönchengladbach · 1,73\n❌ 🤑💸 LA LOCURA DE x117 🤑💸\n❌ 🔥 COMBI VENEZIA – BOLOGNA 🔥 · 7,01\n✅ 🚨 COMBI LEVANTE – RACING SANTANDER 🚨 · 3,59\n❌ Hoy hay partidazo: Nottingham Forest 🆚 Chelsea 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n✅ Racing Santander o empate · 1,80\n❌ 🎰 COMBI POR 38,36 🎰 · 38,36\n❌ ⚽ AMBOS MARCAN MAÑANA ⚽\n❔ ⚔️ EL DUELO DE TIROS ⚔️ · 3,15 · faltan datos\n⏳ 🚨 COMBI TORINO – LAZIO 🚨 · 8,14 · pendiente\n\n✅ 3 acertadas · ❌ 13 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 3 DE 17 EN VERDE 📊\n\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 61,70\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🥊 EL DUELO DE TIROS 🥊 · 2,54\n❌ 🎰 COMBI x161 🎰\n❌ 💶 RETO: DE 1€ A 299€ 💶\n❌ 🎯 COMBI DE TIROS · NOTTINGHAM FOREST vs CHELSEA 🎯 · 3,99\n❌ 🪜 Reto escalera · Día 2/7\n✅ Más de 1,5 goles en la 2ª parte del Werder Bremen–Borussia Mönchengladbach · 1,73\n❌ 🤑💸 LA LOCURA DE x117 🤑💸\n❌ 🔥 COMBI VENEZIA – BOLOGNA 🔥 · 7,01\n✅ 🚨 COMBI LEVANTE – RACING SANTANDER 🚨 · 3,59\n❌ Hoy hay partidazo: Nottingham Forest 🆚 Chelsea 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n✅ Racing Santander o empate · 1,80\n❌ 🎰 COMBI POR 38,36 🎰 · 38,36\n❌ ⚽ AMBOS MARCAN MAÑANA ⚽\n❌ ⚔️ EL DUELO DE TIROS ⚔️ · 3,15\n⏳ 🚨 COMBI TORINO – LAZIO 🚨 · 8,14 · pendiente\n\n✅ 3 acertadas · ❌ 14 falladas · ⏳ 1 sin resolver"
   },
   "2026-11-28": {
     "dia": "2026-11-28",
     "total": 36,
     "cuentas": {
       "verde": 3,
-      "rojo": 15,
-      "pendiente": 14,
-      "sin_datos": 4,
+      "rojo": 17,
+      "pendiente": 16,
+      "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 18
+      "sin_resolver": 16
     },
     "combis": [
       {
@@ -3984,7 +3984,7 @@
       {
         "id": "2026-11-28-loca-th-0040-ganaambos",
         "titulo": "⚽🏆 GANA Y AMBOS MARCAN ⚽🏆",
-        "estado": "sin_datos",
+        "estado": "pendiente",
         "cuota": 32.5
       },
       {
@@ -4008,7 +4008,7 @@
       {
         "id": "2026-11-28-loca-th-0400-duelo",
         "titulo": "⚔️ EL DUELO DE TIROS ⚔️",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 3.15
       },
       {
@@ -4062,7 +4062,7 @@
       {
         "id": "2026-11-28-escalera",
         "titulo": "🪜 Reto escalera · Día 1/7",
-        "estado": "sin_datos",
+        "estado": "pendiente",
         "cuota": null
       },
       {
@@ -4098,7 +4098,7 @@
       {
         "id": "2026-11-28-loca-th-1400-escudos",
         "titulo": "💥 COMBI ANGERS – LENS 💥",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 4.35
       },
       {
@@ -4187,10 +4187,10 @@
       }
     ],
     "picks": {
-      "verde": 20,
-      "rojo": 21,
+      "verde": 23,
+      "rojo": 25,
       "total": 104
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 3 DE 18 EN VERDE 📊\n\n❌ 🏆 LALIGA - GANADORES\n❌ 🧨 COMBI POR 38,42 🧨 · 38,42\n❔ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 32,50 · faltan datos\n❌ 🏆 PREMIER LEAGUE - GANADORES\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❔ ⚔️ EL DUELO DE TIROS ⚔️ · 3,15 · faltan datos\n❌ 💰🚀 COMBI x45,75 💰🚀 · 45,75\n⏳ ⏳ TODO A LAS 20:45 ⏳ · 10,23 · pendiente\n❌ 🐶 LA DE LOS TAPADOS 🐶 · 11,55\n⏳ 🤑💸 COMBI x47,65 🤑💸 · 47,65 · pendiente\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 😮‍💨 LA COMBI DE LOS EMPATES 😮‍💨 · 40,84\n❌ ⚡ COMBI FSV MAINZ 05 – UNION BERLIN ⚡ · 2,73\n✅ Malaga marca · 1,50\n❔ 🪜 Reto escalera · Día 1/7 · faltan datos\n❌ Más de 1,5 goles en la 2.ª parte · 1,53\n❌ Vamos con la combi del día familia 🔥\n⏳ Le Mans marca · 1,50 · pendiente\n✅ Gana el Frosinone · 1,48\n✅ Gana el Leeds · 1,45\n❔ 💥 COMBI ANGERS – LENS 💥 · 4,35 · faltan datos\n⏳ 🔥 COMBI VFB STUTTGART – EINTRACHT FRANKFURT 🔥 · 4,91 · pendiente\n⏳ 🔥 COMBI IPSWICH – ASTON VILLA 🔥 · 8,39 · pendiente\n❌ Hoy hay partidazo: Hamburger SV 🆚 Bayern München 🇩🇪⭐\n❌ 💶 RETO: DE 1€ A 482€ 💶\n❌ 🎯 COMBI DE TIROS · MALAGA vs ATHLETIC CLUB 🎯 · 2,78\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 2,24 · pendiente\n⏳ 💥 COMBI LE HAVRE – STRASBOURG 💥 · 3,38 · pendiente\n⏳ 🧨 COMBI POR 70,35 🧨 · 70,35 · pendiente\n⏳ 🤑💸 COMBI x45,15 🤑💸 · 45,15 · pendiente\n⏳ Hoy hay partidazo: VfB Stuttgart 🆚 Eintracht Frankfurt 🇩🇪⭐ · pendiente\n⏳ Gana el Nice · 1,73 · pendiente\n⏳ 🎰 COMBI x561 🎰 · pendiente\n⏳ 🧨 COMBI x1.862 🧨 · 1,86 · pendiente\n⏳ 🤑 COMBI POR 245 🤑 · pendiente\n\n✅ 3 acertadas · ❌ 15 falladas · ⏳ 18 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 3 DE 20 EN VERDE 📊\n\n❌ 🏆 LALIGA - GANADORES\n❌ 🧨 COMBI POR 38,42 🧨 · 38,42\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 32,50 · pendiente\n❌ 🏆 PREMIER LEAGUE - GANADORES\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❌ ⚔️ EL DUELO DE TIROS ⚔️ · 3,15\n❌ 💰🚀 COMBI x45,75 💰🚀 · 45,75\n⏳ ⏳ TODO A LAS 20:45 ⏳ · 10,23 · pendiente\n❌ 🐶 LA DE LOS TAPADOS 🐶 · 11,55\n⏳ 🤑💸 COMBI x47,65 🤑💸 · 47,65 · pendiente\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 😮‍💨 LA COMBI DE LOS EMPATES 😮‍💨 · 40,84\n❌ ⚡ COMBI FSV MAINZ 05 – UNION BERLIN ⚡ · 2,73\n✅ Malaga marca · 1,50\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n❌ Más de 1,5 goles en la 2.ª parte · 1,53\n❌ Vamos con la combi del día familia 🔥\n⏳ Le Mans marca · 1,50 · pendiente\n✅ Gana el Frosinone · 1,48\n✅ Gana el Leeds · 1,45\n❌ 💥 COMBI ANGERS – LENS 💥 · 4,35\n⏳ 🔥 COMBI VFB STUTTGART – EINTRACHT FRANKFURT 🔥 · 4,91 · pendiente\n⏳ 🔥 COMBI IPSWICH – ASTON VILLA 🔥 · 8,39 · pendiente\n❌ Hoy hay partidazo: Hamburger SV 🆚 Bayern München 🇩🇪⭐\n❌ 💶 RETO: DE 1€ A 482€ 💶\n❌ 🎯 COMBI DE TIROS · MALAGA vs ATHLETIC CLUB 🎯 · 2,78\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 2,24 · pendiente\n⏳ 💥 COMBI LE HAVRE – STRASBOURG 💥 · 3,38 · pendiente\n⏳ 🧨 COMBI POR 70,35 🧨 · 70,35 · pendiente\n⏳ 🤑💸 COMBI x45,15 🤑💸 · 45,15 · pendiente\n⏳ Hoy hay partidazo: VfB Stuttgart 🆚 Eintracht Frankfurt 🇩🇪⭐ · pendiente\n⏳ Gana el Nice · 1,73 · pendiente\n⏳ 🎰 COMBI x561 🎰 · pendiente\n⏳ 🧨 COMBI x1.862 🧨 · 1,86 · pendiente\n⏳ 🤑 COMBI POR 245 🤑 · pendiente\n\n✅ 3 acertadas · ❌ 17 falladas · ⏳ 16 sin resolver"
   }
 }
