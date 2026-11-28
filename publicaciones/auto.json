@@ -16841,14 +16841,12 @@
   {
     "id": "2026-11-28-loca-th-1000-escudos",
     "fecha": "2026-11-28T10:00",
-    "texto": "⚡ COMBI FSV MAINZ 05 – UNION BERLIN ⚡\n\n⭐ FSV Mainz 05 vs Union Berlin · 15:30\n\n✅ 🔫 Phillip Tietz: 3+ tiros\n✅ 📈 +1,5 goles en la 2ª parte del FSV Mainz 05–Union Berlin\n✅ 📈 FSV Mainz 05 marca en las dos partes\n\n🎯 CUOTA 4,29 aprox. 💎 10€ → 42,90€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "⚡ COMBI FSV MAINZ 05 – UNION BERLIN ⚡\n\n⭐ FSV Mainz 05 vs Union Berlin · 15:30\n\n✅ 📈 +1,5 goles en la 2ª parte del FSV Mainz 05–Union Berlin\n✅ 📈 FSV Mainz 05 marca en las dos partes\n\n🎯 CUOTA 2,73 aprox. 💎 10€ → 42,90€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "sel": [
-      "1575234|Home Player Shots|Phillip Tietz - 3",
       "1575234|Goals Over/Under - Second Half|Over 1.5",
       "1575234|To Score In Both Halves By Teams|Home"
     ],
     "cuotas": [
-      1.4,
       1.73,
       2.0
     ],
@@ -16870,7 +16868,8 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-28T08:32"
+    "cuotas_revisadas": "2026-11-28T08:32",
+    "revisado_alineaciones": "2026-11-28T15:04"
   },
   {
     "id": "2026-11-28-pick-seguro",
