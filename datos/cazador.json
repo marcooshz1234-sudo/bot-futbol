@@ -85,17 +85,6 @@
    "edad_h": 0.0
   },
   {
-   "local": "Vitória SC",
-   "visitante": "Estrela",
-   "inicio": "2026-11-28T21:30",
-   "texto": "Estrela marca",
-   "cuota": 1.53,
-   "justa": 1.53,
-   "ev": 0.002,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
    "local": "FCSB",
    "visitante": "Csikszereda",
    "inicio": "2026-11-28T19:00",
@@ -104,7 +93,7 @@
    "justa": 1.73,
    "ev": -0.002,
    "fuente": "las otras casas",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "FCSB",
@@ -115,18 +104,7 @@
    "justa": 1.91,
    "ev": -0.002,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Ospitaletto",
-   "visitante": "Union Brescia",
-   "inicio": "2026-11-28T17:30",
-   "texto": "Ospitaletto o empate",
-   "cuota": 1.73,
-   "justa": 1.75,
-   "ev": -0.014,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Inter",
@@ -141,7 +119,7 @@
   }
  ],
  "ultima": {
-  "hora": "2026-11-28T17:05",
+  "hora": "2026-11-28T17:29",
   "revisadas": 0,
   "mejor": null
  },
