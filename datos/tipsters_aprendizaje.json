@@ -10,7 +10,7 @@
    "prob_cuota": 2.453
   },
   "Tipster Pérez": {
-   "n": 18,
+   "n": 19,
    "verdes": 6,
    "rojos": 5,
    "nulos": 0,
@@ -63,6 +63,15 @@
    "resueltos_con_cuota": 10,
    "prob_cuota": 4.813
   },
+  "TipsPro🤙": {
+   "n": 10,
+   "verdes": 7,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 2.46,
+   "resueltos_con_cuota": 5,
+   "prob_cuota": 3.366
+  },
   "OC TIPSTER": {
    "n": 9,
    "verdes": 2,
@@ -79,14 +88,12 @@
    "nulos": 0,
    "unidades": 0.0
   },
-  "TipsPro🤙": {
-   "n": 8,
-   "verdes": 7,
+  "Messi apuestas": {
+   "n": 9,
+   "verdes": 0,
    "rojos": 0,
    "nulos": 0,
-   "unidades": 2.46,
-   "resueltos_con_cuota": 5,
-   "prob_cuota": 3.366
+   "unidades": 0.0
   },
   "AllSportsPicks ⚽🏀🎾": {
    "n": 8,
@@ -115,6 +122,24 @@
    "resueltos_con_cuota": 3,
    "prob_cuota": 1.69
   },
+  "MAX ANALISTA": {
+   "n": 6,
+   "verdes": 3,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 1.05,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 2.238
+  },
+  "MERIDIANPICKS 🌐": {
+   "n": 6,
+   "verdes": 2,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": 0.75,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 1.58
+  },
   "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️": {
    "n": 5,
    "verdes": 3,
@@ -124,30 +149,12 @@
    "resueltos_con_cuota": 3,
    "prob_cuota": 2.249
   },
-  "MERIDIANPICKS 🌐": {
-   "n": 5,
-   "verdes": 2,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": 0.75,
-   "resueltos_con_cuota": 3,
-   "prob_cuota": 1.58
-  },
   "CRIMINALPICKS": {
    "n": 4,
    "verdes": 0,
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
-  },
-  "MAX ANALISTA": {
-   "n": 4,
-   "verdes": 3,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 1.05,
-   "resueltos_con_cuota": 3,
-   "prob_cuota": 2.238
   },
   "ENZO TIPSTER🇦🇷": {
    "n": 4,
@@ -206,7 +213,7 @@
  },
  "mercado": {
   "Match Winner Home": {
-   "n": 31,
+   "n": 32,
    "verdes": 19,
    "rojos": 7,
    "nulos": 0,
@@ -224,7 +231,7 @@
    "prob_cuota": 10.851
   },
   "Match Winner Away": {
-   "n": 12,
+   "n": 13,
    "verdes": 9,
    "rojos": 3,
    "nulos": 0,
@@ -327,6 +334,13 @@
    "nulos": 0,
    "unidades": 0.0
   },
+  "Crear apuesta Aouchiche 3+ remates + Karaman 3+ remates": {
+   "n": 3,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "To Qualify Away": {
    "n": 2,
    "verdes": 1,
@@ -378,6 +392,13 @@
    "unidades": 1.96,
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.011
+  },
+  "Crear apuesta Ilic 3+ remates + Burke 3+ remates": {
+   "n": 2,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   },
   "Asian Handicap Home -0.25": {
    "n": 1,
@@ -774,11 +795,67 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.581
+  },
+  "Corners Over Under - Home Over 3.0": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Crear apuesta PSG gana + PSG más de 1.5 goles": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Crear apuesta Bayern/Empate + más de 7.5 tiros a puerta": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Crear apuesta Más de 1.5 goles + United más de 0.5 goles": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Crear apuesta Burke 2+ a puerta + Ilic 2+ a puerta": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Crear apuesta Aouchiche 2+ a puerta + Karaman 2+ a puerta": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Crear apuesta Karl 3+ remates + Bischof 3+ remates": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Crear apuesta Karl 3+ remates + N. Brown 3+ remates + Bischof 3+ remates": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "equipo": {
   "—": {
-   "n": 118,
+   "n": 131,
    "verdes": 44,
    "rojos": 20,
    "nulos": 0,
@@ -803,6 +880,15 @@
    "unidades": 2.53,
    "resueltos_con_cuota": 3,
    "prob_cuota": 1.63
+  },
+  "Bayern München": {
+   "n": 4,
+   "verdes": 0,
+   "rojos": 3,
+   "nulos": 0,
+   "unidades": -2.0,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 0.841
   },
   "Real Betis": {
    "n": 3,
@@ -848,15 +934,6 @@
    "unidades": 2.25,
    "resueltos_con_cuota": 3,
    "prob_cuota": 1.719
-  },
-  "Bayern München": {
-   "n": 3,
-   "verdes": 0,
-   "rojos": 3,
-   "nulos": 0,
-   "unidades": -2.0,
-   "resueltos_con_cuota": 2,
-   "prob_cuota": 0.841
   },
   "Atletico Madrid": {
    "n": 2,
@@ -1190,11 +1267,18 @@
    "unidades": 0.8,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.556
+  },
+  "PSV Eindhoven": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
   "sin razón": {
-   "n": 111,
+   "n": 119,
    "verdes": 59,
    "rojos": 19,
    "nulos": 0,
@@ -1203,7 +1287,7 @@
    "prob_cuota": 37.292
   },
   "goles": {
-   "n": 48,
+   "n": 50,
    "verdes": 18,
    "rojos": 11,
    "nulos": 0,
@@ -1212,13 +1296,22 @@
    "prob_cuota": 20.502
   },
   "casa/fuera": {
-   "n": 38,
+   "n": 43,
    "verdes": 15,
    "rojos": 10,
    "nulos": 0,
    "unidades": -1.23,
    "resueltos_con_cuota": 22,
    "prob_cuota": 14.041
+  },
+  "motivación": {
+   "n": 17,
+   "verdes": 7,
+   "rojos": 5,
+   "nulos": 0,
+   "unidades": 0.73,
+   "resueltos_con_cuota": 11,
+   "prob_cuota": 6.779
   },
   "racha": {
    "n": 16,
@@ -1229,17 +1322,8 @@
    "resueltos_con_cuota": 10,
    "prob_cuota": 6.241
   },
-  "motivación": {
-   "n": 16,
-   "verdes": 7,
-   "rojos": 5,
-   "nulos": 0,
-   "unidades": 0.73,
-   "resueltos_con_cuota": 11,
-   "prob_cuota": 6.779
-  },
   "clasificación": {
-   "n": 14,
+   "n": 15,
    "verdes": 5,
    "rojos": 7,
    "nulos": 0,
@@ -1248,7 +1332,7 @@
    "prob_cuota": 5.714
   },
   "bajas": {
-   "n": 11,
+   "n": 12,
    "verdes": 2,
    "rojos": 6,
    "nulos": 0,
@@ -1268,7 +1352,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 78,
+   "n": 79,
    "verdes": 35,
    "rojos": 20,
    "nulos": 0,
@@ -1277,7 +1361,7 @@
    "prob_cuota": 34.746
   },
   "<1,50": {
-   "n": 37,
+   "n": 41,
    "verdes": 22,
    "rojos": 6,
    "nulos": 0,
@@ -1286,7 +1370,7 @@
    "prob_cuota": 22.703
   },
   "?": {
-   "n": 31,
+   "n": 32,
    "verdes": 16,
    "rojos": 5,
    "nulos": 0,
@@ -1302,7 +1386,7 @@
    "prob_cuota": 8.973
   },
   ">2,20": {
-   "n": 16,
+   "n": 25,
    "verdes": 4,
    "rojos": 3,
    "nulos": 0,
@@ -1339,8 +1423,17 @@
    "resueltos_con_cuota": 11,
    "prob_cuota": 7.233
   },
+  "Bundesliga": {
+   "n": 13,
+   "verdes": 0,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.621
+  },
   "La Liga": {
-   "n": 11,
+   "n": 12,
    "verdes": 3,
    "rojos": 2,
    "nulos": 0,
@@ -1384,15 +1477,6 @@
    "resueltos_con_cuota": 5,
    "prob_cuota": 3.596
   },
-  "Bundesliga": {
-   "n": 2,
-   "verdes": 0,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": -1.0,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.621
-  },
   "Serie A": {
    "n": 2,
    "verdes": 1,
@@ -1401,6 +1485,15 @@
    "unidades": 0.66,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.602
+  },
+  "Premier League": {
+   "n": 2,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.3,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.769
   },
   "Serie C - Girone A": {
    "n": 1,
@@ -1411,19 +1504,24 @@
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.5
   },
-  "Premier League": {
+  "Eredivisie": {
    "n": 1,
-   "verdes": 1,
+   "verdes": 0,
    "rojos": 0,
    "nulos": 0,
-   "unidades": 0.3,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.769
+   "unidades": 0.0
+  },
+  "Ligue 1": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "lado": {
   "partido": {
-   "n": 98,
+   "n": 111,
    "verdes": 33,
    "rojos": 14,
    "nulos": 0,
@@ -1432,7 +1530,7 @@
    "prob_cuota": 25.648
   },
   "local": {
-   "n": 53,
+   "n": 54,
    "verdes": 28,
    "rojos": 16,
    "nulos": 0,
@@ -1441,7 +1539,7 @@
    "prob_cuota": 22.538
   },
   "visitante": {
-   "n": 40,
+   "n": 41,
    "verdes": 28,
    "rojos": 9,
    "nulos": 0,
@@ -1452,7 +1550,7 @@
  },
  "por_que": {
   "—": {
-   "n": 112,
+   "n": 127,
    "verdes": 40,
    "rojos": 27,
    "nulos": 0,
@@ -1526,7 +1624,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 182,
+   "n": 197,
    "verdes": 82,
    "rojos": 37,
    "nulos": 0,

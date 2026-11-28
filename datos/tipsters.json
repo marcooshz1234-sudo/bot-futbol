@@ -5048,7 +5048,12 @@
    "Promedia casi seis saques de esquina por partido como local, muy por encima de la línea",
    "Con la línea en 3 exactos, si saca justo tres se devuelve la apuesta"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1570469,
+  "analisis": {
+   "liga": "La Liga",
+   "prob_cuota": 0.621
+  }
  },
  {
   "tipster": "TipsPro🤙",
@@ -5067,7 +5072,13 @@
    "El PSV en casa es de lo más fiable de la Eredivisie",
    "Go Ahead tiene bastante menos plantilla y suele sufrir fuera ante los grandes"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1552240,
+  "analisis": {
+   "liga": "Eredivisie",
+   "cuota_bet365": 1.22,
+   "prob_cuota": 0.84
+  }
  },
  {
   "tipster": "TipsPro🤙",
@@ -5086,7 +5097,12 @@
    "El PSG en el Parque es muy superior a un Lorient de la zona baja",
    "Con su volumen de ocasiones, dos goles propios es lo habitual en casa"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1552835,
+  "analisis": {
+   "liga": "Ligue 1",
+   "prob_cuota": 0.781
+  }
  },
  {
   "tipster": "MAX ANALISTA",
@@ -5105,7 +5121,12 @@
    "El Bayern no suele perder en Bundesliga y el doble resultado lo cubre casi todo",
    "Solo el Bayern ya genera muchos tiros entre los tres palos, así que ocho en total es asumible"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1575235,
+  "analisis": {
+   "liga": "Bundesliga",
+   "prob_cuota": 0.8
+  }
  },
  {
   "tipster": "MAX ANALISTA",
@@ -5124,7 +5145,12 @@
    "Brentford juega abierto y sus partidos suelen tener goles",
    "En Old Trafford el United casi siempre encuentra al menos un gol"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1557484,
+  "analisis": {
+   "liga": "Premier League",
+   "prob_cuota": 0.769
+  }
  },
  {
   "tipster": "Messi apuestas",
@@ -5143,7 +5169,12 @@
    "Son dos de los jugadores que más disparan del Schalke",
    "Necesita que ambos jueguen casi todo el partido: mucho riesgo para una pata"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1575238,
+  "analisis": {
+   "liga": "Bundesliga",
+   "prob_cuota": 0.148
+  }
  },
  {
   "tipster": "Messi apuestas",
@@ -5162,7 +5193,12 @@
    "Burke e Ilic son los que más tiran en el ataque del Union",
    "Tres remates cada uno es una línea alta: apuesta de cuota grande"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1575234,
+  "analisis": {
+   "liga": "Bundesliga",
+   "prob_cuota": 0.105
+  }
  },
  {
   "tipster": "Messi apuestas",
@@ -5181,7 +5217,12 @@
    "Misma idea que con remates totales pero exigiendo que vayan entre los tres palos",
    "Dos a puerta cada uno es muy exigente fuera de casa: es una lotería"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1575234,
+  "analisis": {
+   "liga": "Bundesliga",
+   "prob_cuota": 0.042
+  }
  },
  {
   "tipster": "Messi apuestas",
@@ -5200,7 +5241,12 @@
    "Los dos llevan el peso ofensivo del Schalke",
    "Que ambos acierten dos veces a puerta pasa en muy pocos partidos"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1575238,
+  "analisis": {
+   "liga": "Bundesliga",
+   "prob_cuota": 0.024
+  }
  },
  {
   "tipster": "Messi apuestas",
@@ -5219,7 +5265,12 @@
    "Son los dos que más disparan del Schalke",
    "Depende de que ambos jueguen casi todo el partido"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1575238,
+  "analisis": {
+   "liga": "Bundesliga",
+   "prob_cuota": 0.148
+  }
  },
  {
   "tipster": "Messi apuestas",
@@ -5238,7 +5289,12 @@
    "Burke e Ilic concentran los tiros del Union",
    "Línea alta para los dos a la vez"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1575234,
+  "analisis": {
+   "liga": "Bundesliga",
+   "prob_cuota": 0.105
+  }
  },
  {
   "tipster": "Messi apuestas",
@@ -5257,7 +5313,12 @@
    "El Bayern va a tener mucho balón y muchos tiros en Hamburgo",
    "Karl y Bischof no siempre son titulares: si no juegan, se cae"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1575235,
+  "analisis": {
+   "liga": "Bundesliga",
+   "prob_cuota": 0.222
+  }
  },
  {
   "tipster": "Messi apuestas",
@@ -5276,7 +5337,12 @@
    "Apuesta por un Bayern volcado en ataque durante todo el partido",
    "Tres jugadores con tres tiros cada uno, y alguno puede no ser titular"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1575235,
+  "analisis": {
+   "liga": "Bundesliga",
+   "prob_cuota": 0.103
+  }
  },
  {
   "tipster": "Messi apuestas",
@@ -5295,6 +5361,31 @@
    "Los dos tiradores principales del Schalke",
    "Riesgo alto si alguno sale del campo pronto"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1575238,
+  "analisis": {
+   "liga": "Bundesliga",
+   "prob_cuota": 0.148
+  }
+ },
+ {
+  "tipster": "MERIDIANPICKS 🌐",
+  "fuente": "-1003548284566/79",
+  "dia": "2026-11-28",
+  "local": "Hamburger SV",
+  "visitante": "Bayern München",
+  "partido_id": 1575235,
+  "texto": "Gana el Bayern München",
+  "mercado": "Match Winner",
+  "opcion": "Away",
+  "cuota": null,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "Bundesliga",
+   "cuota_bet365": 1.28,
+   "prob_cuota": 0.781
+  }
  }
 ]
