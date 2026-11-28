@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-28",
- "generado": "2026-11-28T05:31+01:00",
+ "generado": "2026-11-28T06:02+01:00",
  "rango": [
   "2026-11-28",
   "2026-12-01"
@@ -1565,21 +1565,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/523.png"
     },
     {
-     "sel": "1575234|Home Player Shots|Phillip Tietz - 3",
-     "texto": "Phillip Tietz: 3+ remates",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 3,17 por 90' (3-3-4-3-4-2)",
-     "nota": 0.84,
-     "equipo": "FSV Mainz 05",
-     "lado": "L",
-     "partido": "FSV Mainz 05–Union Berlin",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/164.png",
-     "logo_v": "https://media.api-sports.io/football/teams/182.png"
-    },
-    {
      "sel": "1575235|Player Fouls Committed|Albert Sambi Lokonga - 1",
      "texto": "Albert Sambi Lokonga: comete 1+ falta",
      "cuota": 1.44,
@@ -1593,6 +1578,19 @@
      "liga": "Bundesliga",
      "logo_l": "https://media.api-sports.io/football/teams/175.png",
      "logo_v": "https://media.api-sports.io/football/teams/157.png"
+    },
+    {
+     "sel": "1575234|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.57,
+     "p": 0.721,
+     "dato": "más de 2,5 goles en el 80% y el 67% de sus partidos",
+     "nota": 0.7723307181696056,
+     "partido": "FSV Mainz 05–Union Berlin",
+     "hora": "2026-11-28T15:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/164.png",
+     "logo_v": "https://media.api-sports.io/football/teams/182.png"
     },
     {
      "sel": "1575238|Total ShotOnGoal|Over 8.5",
@@ -1668,18 +1666,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
     },
     {
-     "sel": "1575231|Both Teams Score|Yes",
-     "texto": "Ambos marcan (VfB Stuttgart–Eintracht Frankfurt)",
-     "cuota": 1.3,
-     "p": 0.705,
-     "dato": "marcan los dos en el 67% y el 57% de sus partidos",
-     "nota": 0.705,
+     "sel": "1575231|Player Fouls Committed|Maximilian Mittelstadt - 1",
+     "texto": "Maximilian Mittelstadt: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,20 por 90' (1-1-1-0-2-2)",
+     "nota": 0.9000000000000001,
+     "equipo": "VfB Stuttgart",
+     "lado": "L",
      "partido": "VfB Stuttgart–Eintracht Frankfurt",
      "hora": "2026-11-28T18:30",
      "liga": "Bundesliga",
      "logo_l": "https://media.api-sports.io/football/teams/172.png",
-     "logo_v": "https://media.api-sports.io/football/teams/169.png",
-     "solo_todo": true
+     "logo_v": "https://media.api-sports.io/football/teams/169.png"
     },
     {
      "sel": "1552831|Away Player Shots|Dario Essugo - 1",
@@ -1739,8 +1738,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 340.69,
-   "prob": 0.044
+   "cuota": 440.84,
+   "prob": 0.045
   },
   {
    "patas": [
@@ -1905,6 +1904,21 @@
   {
    "patas": [
     {
+     "sel": "1570463|Player Fouls Committed|Pablo Fornals - 1",
+     "texto": "Pablo Fornals: comete 1+ falta",
+     "cuota": 1.44,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 0,91 por 90' (1-0-1-1-1-1)",
+     "nota": 0.864,
+     "equipo": "Real Betis",
+     "lado": "L",
+     "partido": "Real Betis–Rayo Vallecano",
+     "hora": "2026-11-28T14:00",
+     "liga": "LaLiga",
+     "logo_l": "https://media.api-sports.io/football/teams/543.png",
+     "logo_v": "https://media.api-sports.io/football/teams/728.png"
+    },
+    {
      "sel": "1550210|Player Fouls Committed|Patrizio Masini - 2",
      "texto": "Patrizio Masini: comete 2+ faltas",
      "cuota": 1.53,
@@ -1991,21 +2005,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/66.png"
     },
     {
-     "sel": "1552835|Home Player Shots|Achraf Hakimi - 2",
-     "texto": "Achraf Hakimi: 2+ remates",
-     "cuota": 1.53,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 2,22 por 90' (1-2-2-2-3)",
-     "nota": 0.8429642857142858,
-     "equipo": "Paris Saint Germain",
-     "lado": "L",
-     "partido": "Paris Saint Germain–Lorient",
-     "hora": "2026-11-28T20:45",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/85.png",
-     "logo_v": "https://media.api-sports.io/football/teams/97.png"
-    },
-    {
      "sel": "1552832|Away Player Shots|Ayase Ueda - 3",
      "texto": "Ayase Ueda: 3+ remates",
      "cuota": 1.53,
@@ -2036,8 +2035,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 37.28,
-   "prob": 0.062,
+   "cuota": 35.09,
+   "prob": 0.065,
    "clave": "dia-2026-11-28-b",
    "titulo": "📅 La del sábado · B",
    "expl": "@30-40 con patas de @1,40-1,60 (la A, otra distinta)",
@@ -2192,6 +2191,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/728.png"
     },
     {
+     "sel": "1575234|Home Player Shots|Phillip Tietz - 3",
+     "texto": "Phillip Tietz: 3+ remates",
+     "cuota": 1.4,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 3,17 por 90' (3-3-4-3-4-2)",
+     "nota": 0.84,
+     "equipo": "FSV Mainz 05",
+     "lado": "L",
+     "partido": "FSV Mainz 05–Union Berlin",
+     "hora": "2026-11-28T15:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/164.png",
+     "logo_v": "https://media.api-sports.io/football/teams/182.png"
+    },
+    {
      "sel": "1575238|Home Player Shots|Santiago Castaneda - 1",
      "texto": "Santiago Castaneda: 1+ remate",
      "cuota": 1.4,
@@ -2220,19 +2234,6 @@
      "liga": "Bundesliga",
      "logo_l": "https://media.api-sports.io/football/teams/175.png",
      "logo_v": "https://media.api-sports.io/football/teams/157.png"
-    },
-    {
-     "sel": "1575234|Goals Over/Under|Over 2.5",
-     "texto": "Más de 2,5 goles",
-     "cuota": 1.57,
-     "p": 0.721,
-     "dato": "más de 2,5 goles en el 80% y el 67% de sus partidos",
-     "nota": 0.7723307181696056,
-     "partido": "FSV Mainz 05–Union Berlin",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/164.png",
-     "logo_v": "https://media.api-sports.io/football/teams/182.png"
     },
     {
      "sel": "1557484|Player Fouls Committed|Matheus Cunha - 1",
@@ -2291,19 +2292,18 @@
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
     },
     {
-     "sel": "1575231|Player Fouls Committed|Maximilian Mittelstadt - 1",
-     "texto": "Maximilian Mittelstadt: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,20 por 90' (1-1-1-0-2-2)",
-     "nota": 0.9000000000000001,
-     "equipo": "VfB Stuttgart",
-     "lado": "L",
+     "sel": "1575231|Both Teams Score|Yes",
+     "texto": "Ambos marcan (VfB Stuttgart–Eintracht Frankfurt)",
+     "cuota": 1.3,
+     "p": 0.705,
+     "dato": "marcan los dos en el 67% y el 57% de sus partidos",
+     "nota": 0.705,
      "partido": "VfB Stuttgart–Eintracht Frankfurt",
      "hora": "2026-11-28T18:30",
      "liga": "Bundesliga",
      "logo_l": "https://media.api-sports.io/football/teams/172.png",
-     "logo_v": "https://media.api-sports.io/football/teams/169.png"
+     "logo_v": "https://media.api-sports.io/football/teams/169.png",
+     "solo_todo": true
     },
     {
      "sel": "1552835|Away Player Shots|Noah Cadiou - 1",
@@ -2334,12 +2334,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/95.png"
     },
     {
-     "sel": "1552832|Total - Home|Over 0.5",
-     "texto": "Le Mans marca",
-     "cuota": 1.44,
-     "p": 0.749,
-     "dato": "marca 1,4 por partido y el rival encaja 1,0",
-     "nota": 0.7769729777555061,
+     "sel": "1552832|Away Player Shots|Ayase Ueda - 3",
+     "texto": "Ayase Ueda: 3+ remates",
+     "cuota": 1.53,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 3,38 por 90' (3-4-1-3-4)",
+     "nota": 0.8429642857142858,
+     "equipo": "Lille",
+     "lado": "V",
      "partido": "Le Mans–Lille",
      "hora": "2026-11-28T20:45",
      "liga": "Ligue 1",
@@ -2375,7 +2377,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 532.2,
+   "cuota": 437.0,
    "prob": 0.027
   },
   {
@@ -2396,21 +2398,6 @@
      "liga": "LaLiga",
      "logo_l": "https://media.api-sports.io/football/teams/543.png",
      "logo_v": "https://media.api-sports.io/football/teams/728.png"
-    },
-    {
-     "sel": "1575238|Home Player Shots|Santiago Castaneda - 1",
-     "texto": "Santiago Castaneda: 1+ remate",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (0-1-2-2-1-1)",
-     "nota": 0.84,
-     "equipo": "SC Paderborn 07",
-     "lado": "L",
-     "partido": "SC Paderborn 07–FC Schalke 04",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/185.png",
-     "logo_v": "https://media.api-sports.io/football/teams/174.png"
     },
     {
      "sel": "1575235|Player Fouls Committed|Albert Sambi Lokonga - 1",
@@ -2439,6 +2426,19 @@
      "liga": "Bundesliga",
      "logo_l": "https://media.api-sports.io/football/teams/164.png",
      "logo_v": "https://media.api-sports.io/football/teams/182.png"
+    },
+    {
+     "sel": "1575238|Total ShotOnGoal|Over 8.5",
+     "texto": "Más de 8,5 remates a puerta en el partido",
+     "cuota": 1.67,
+     "p": 0.7,
+     "dato": "10,3 remates a puerta de media entre los dos",
+     "nota": 0.7503687278451368,
+     "partido": "SC Paderborn 07–FC Schalke 04",
+     "hora": "2026-11-28T15:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/185.png",
+     "logo_v": "https://media.api-sports.io/football/teams/174.png"
     },
     {
      "sel": "1557484|Player Fouls Committed|Keane Lewis-Potter - 1",
@@ -2544,14 +2544,13 @@
      "logo_v": "https://media.api-sports.io/football/teams/110.png"
     },
     {
-     "sel": "1552835|Home Player Shots|Achraf Hakimi - 2",
-     "texto": "Achraf Hakimi: 2+ remates",
-     "cuota": 1.53,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 2,22 por 90' (1-2-2-2-3)",
-     "nota": 0.8429642857142858,
-     "equipo": "Paris Saint Germain",
-     "lado": "L",
+     "sel": "1552835|Away Player Shots Total|Over 7.5",
+     "texto": "Lorient: más de 7,5 remates",
+     "cuota": 1.73,
+     "p": 0.8,
+     "dato": "ha superado la línea en 7 de sus últimos 8 (10-9-8-9-10-15-7-12)",
+     "nota": 0.9460000000000001,
+     "lado": "V",
      "partido": "Paris Saint Germain–Lorient",
      "hora": "2026-11-28T20:45",
      "liga": "Ligue 1",
@@ -2587,8 +2586,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 362.54,
-   "prob": 0.031
+   "cuota": 488.98,
+   "prob": 0.028
   },
   {
    "clave": "todo-2026-11-29",
