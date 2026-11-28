@@ -1,7 +1,5 @@
 {
  "avisados": [
-  "clave|2026-11-05-combi-partido-1636254|1636254|Away Player Shots|Wouter Burger - 1|B. Conté",
-  "clave|2026-11-05-combi-partido-1636383|1636383|Total - Away|Over 0.5|Oiva Jukkola",
   "clave|2026-11-05-escalera|1636465|Match Winner|Home|Etienne Camara",
   "clave|2026-11-05-ganadores-conference-bis|1636383|Match Winner|Home|C. De Ketelaere",
   "clave|2026-11-05-ganadores-conference-bis|1636383|Match Winner|Home|N. Krstović",
@@ -476,6 +474,7 @@
   "clave|2026-11-28-estrella-1575235|1575235|Away Player Shots|Joshua Kimmich - 1|H. Kane",
   "clave|2026-11-28-estrella-1575235|1575235|Away Player Shots|Joshua Kimmich - 1|M. Olise",
   "clave|2026-11-28-estrella-1575235|1575235|Home Player Shots|Zakaria El Ouahdi - 1|M. Muheim",
+  "clave|2026-11-28-ganadores-premier|1557483|Match Winner|Home|A. Stach",
   "clave|2026-11-28-ganadores-resto|1575234|Match Winner|Home|Lee Jae-Sung",
   "clave|2026-11-28-ganadores-resto|1575235|Match Winner|Away|H. Kane",
   "clave|2026-11-28-ganadores-resto|1575235|Match Winner|Away|M. Olise",
@@ -486,6 +485,7 @@
   "clave|2026-11-28-loca-th-noche-2100-x100|1550210|Away Player Shots|Enrico Del Prato - 1|E. Valeri",
   "clave|2026-11-28-loca-th-noche-2100-x100|1575235|Away Player Shots|Dayot Upamecano - 1|H. Kane",
   "clave|2026-11-28-loca-th-noche-2100-x100|1575235|Away Player Shots|Dayot Upamecano - 1|M. Olise",
+  "clave|2026-11-28-pick-seguro-4|1557483|Match Winner|Home|A. Stach",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -7446,25 +7446,430 @@
    }
   },
   "1557483": {
-   "hora": "2026-11-28T15:25:15.292631+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-28T15:37:41.406849+01:00",
+   "xi": [
+    "J. Trafford",
+    "J. Justin",
+    "N. Elvedi",
+    "T. Muharemović",
+    "J. Bogle",
+    "E. Ampadu",
+    "A. Tanaka",
+    "G. Gudmundsson",
+    "S. Longstaff",
+    "N. Okafor",
+    "D. Calvert-Lewin",
+    "C. Rushworth",
+    "B. Thomas",
+    "E. Pinnock",
+    "S. Mfuni",
+    "M. van Ewijk",
+    "F. Onyeka",
+    "G. Hamer",
+    "J. Dasilva",
+    "T. Sakamoto",
+    "J. Rudoni",
+    "S. Cherif"
+   ],
+   "banquillo": [
+    "L. Nmecha",
+    "B. Aaronson",
+    "H. Wilson",
+    "D. James",
+    "A. Stach",
+    "J. Bijol",
+    "J. Rodon",
+    "M. Bard",
+    "M. Zetterer",
+    "Y. Gboho",
+    "B. Thomas-Asante",
+    "E. Simms",
+    "V. Torp",
+    "E. Mason-Clark",
+    "M. Grimes",
+    "J. Latibeaudiere",
+    "K. Kesler-Hayden",
+    "D. Bentley"
+   ],
+   "equipos": {
+    "63": [
+     {
+      "n": "J. Trafford",
+      "pos": "G"
+     },
+     {
+      "n": "J. Justin",
+      "pos": "D"
+     },
+     {
+      "n": "N. Elvedi",
+      "pos": "D"
+     },
+     {
+      "n": "T. Muharemović",
+      "pos": "D"
+     },
+     {
+      "n": "J. Bogle",
+      "pos": "M"
+     },
+     {
+      "n": "E. Ampadu",
+      "pos": "M"
+     },
+     {
+      "n": "A. Tanaka",
+      "pos": "M"
+     },
+     {
+      "n": "G. Gudmundsson",
+      "pos": "M"
+     },
+     {
+      "n": "S. Longstaff",
+      "pos": "M"
+     },
+     {
+      "n": "N. Okafor",
+      "pos": "M"
+     },
+     {
+      "n": "D. Calvert-Lewin",
+      "pos": "F"
+     }
+    ],
+    "1346": [
+     {
+      "n": "C. Rushworth",
+      "pos": "G"
+     },
+     {
+      "n": "B. Thomas",
+      "pos": "D"
+     },
+     {
+      "n": "E. Pinnock",
+      "pos": "D"
+     },
+     {
+      "n": "S. Mfuni",
+      "pos": "D"
+     },
+     {
+      "n": "M. van Ewijk",
+      "pos": "M"
+     },
+     {
+      "n": "F. Onyeka",
+      "pos": "M"
+     },
+     {
+      "n": "G. Hamer",
+      "pos": "M"
+     },
+     {
+      "n": "J. Dasilva",
+      "pos": "M"
+     },
+     {
+      "n": "T. Sakamoto",
+      "pos": "M"
+     },
+     {
+      "n": "J. Rudoni",
+      "pos": "M"
+     },
+     {
+      "n": "S. Cherif",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1557484": {
-   "hora": "2026-11-28T15:25:15.292631+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-28T15:37:41.406849+01:00",
+   "xi": [
+    "S. Lammens",
+    "L. Yoro",
+    "H. Maguire",
+    "Lisandro Martínez",
+    "Diogo Dalot",
+    "Y. Tielemans",
+    "K. Mainoo",
+    "A. Diallo",
+    "Bruno Fernandes",
+    "P. Dorgu",
+    "J. Zirkzee",
+    "C. Kelleher",
+    "M. Kayode",
+    "K. Ajer",
+    "S. van den Berg",
+    "K. Lewis-Potter",
+    "M. Sangaré",
+    "V. Janelt",
+    "D. Ouattara",
+    "M. Damsgaard",
+    "J. Anthony",
+    "C. Wilson"
+   ],
+   "banquillo": [
+    "Matheus Cunha",
+    "L. Shaw",
+    "N. Mazraoui",
+    "M. de Ligt",
+    "K. Darlow",
+    "B. Mbeumo",
+    "Andrey Santos",
+    "M. Mount",
+    "S. Lacey",
+    "E. Diouf",
+    "Jannik Schuster",
+    "B. Fredrick",
+    "K. Schade",
+    "M. Jensen",
+    "J. Dasilva",
+    "Fábio Carvalho",
+    "H. Valdimarsson",
+    "Gustavo Gomes"
+   ],
+   "equipos": {
+    "33": [
+     {
+      "n": "S. Lammens",
+      "pos": "G"
+     },
+     {
+      "n": "L. Yoro",
+      "pos": "D"
+     },
+     {
+      "n": "H. Maguire",
+      "pos": "D"
+     },
+     {
+      "n": "Lisandro Martínez",
+      "pos": "D"
+     },
+     {
+      "n": "Diogo Dalot",
+      "pos": "D"
+     },
+     {
+      "n": "Y. Tielemans",
+      "pos": "M"
+     },
+     {
+      "n": "K. Mainoo",
+      "pos": "M"
+     },
+     {
+      "n": "A. Diallo",
+      "pos": "M"
+     },
+     {
+      "n": "Bruno Fernandes",
+      "pos": "M"
+     },
+     {
+      "n": "P. Dorgu",
+      "pos": "M"
+     },
+     {
+      "n": "J. Zirkzee",
+      "pos": "F"
+     }
+    ],
+    "55": [
+     {
+      "n": "C. Kelleher",
+      "pos": "G"
+     },
+     {
+      "n": "M. Kayode",
+      "pos": "D"
+     },
+     {
+      "n": "K. Ajer",
+      "pos": "D"
+     },
+     {
+      "n": "S. van den Berg",
+      "pos": "D"
+     },
+     {
+      "n": "K. Lewis-Potter",
+      "pos": "D"
+     },
+     {
+      "n": "M. Sangaré",
+      "pos": "M"
+     },
+     {
+      "n": "V. Janelt",
+      "pos": "M"
+     },
+     {
+      "n": "D. Ouattara",
+      "pos": "M"
+     },
+     {
+      "n": "M. Damsgaard",
+      "pos": "M"
+     },
+     {
+      "n": "J. Anthony",
+      "pos": "M"
+     },
+     {
+      "n": "C. Wilson",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1563297": {
-   "hora": "2026-11-28T15:25:15.292631+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-28T15:37:41.406849+01:00",
+   "xi": [
+    "M. Hermansen",
+    "E. Álvarez",
+    "K. Mavropanos",
+    "Morato",
+    "O. Scarles",
+    "D. Mukasa",
+    "J. Bowen",
+    "T. Souček",
+    "A. Engels",
+    "E. Austbö",
+    "V. Castellanos",
+    "V. Johansson",
+    "B. Wilmot",
+    "B. Lawal",
+    "L. Graham",
+    "B. Johnson",
+    "J. McGlynn",
+    "E. Galbraith",
+    "J. Devenny",
+    "L. Bombino",
+    "G. Hirst",
+    "Bae Jun-Ho"
+   ],
+   "banquillo": [
+    "F. Herrick",
+    "M. Kanté",
+    "M. Kilman",
+    "S. Magassa",
+    "Ezra Mayers",
+    "Pablo",
+    "J. Piroe",
+    "M. Solomon",
+    "A. Golambeckis",
+    "S. Gallagher",
+    "J. Griffiths",
+    "S. Ingelsson",
+    "M. Manhoef",
+    "T. Rigo",
+    "M. Talovierov",
+    "J. Tchamadeu",
+    "A. Cresswell",
+    "R. Boženík"
+   ],
+   "equipos": {
+    "48": [
+     {
+      "n": "M. Hermansen",
+      "pos": "G"
+     },
+     {
+      "n": "E. Álvarez",
+      "pos": "D"
+     },
+     {
+      "n": "K. Mavropanos",
+      "pos": "D"
+     },
+     {
+      "n": "Morato",
+      "pos": "D"
+     },
+     {
+      "n": "O. Scarles",
+      "pos": "D"
+     },
+     {
+      "n": "D. Mukasa",
+      "pos": "M"
+     },
+     {
+      "n": "J. Bowen",
+      "pos": "M"
+     },
+     {
+      "n": "T. Souček",
+      "pos": "M"
+     },
+     {
+      "n": "A. Engels",
+      "pos": "M"
+     },
+     {
+      "n": "E. Austbö",
+      "pos": "M"
+     },
+     {
+      "n": "V. Castellanos",
+      "pos": "F"
+     }
+    ],
+    "75": [
+     {
+      "n": "V. Johansson",
+      "pos": "G"
+     },
+     {
+      "n": "B. Wilmot",
+      "pos": "D"
+     },
+     {
+      "n": "B. Lawal",
+      "pos": "D"
+     },
+     {
+      "n": "L. Graham",
+      "pos": "D"
+     },
+     {
+      "n": "B. Johnson",
+      "pos": "M"
+     },
+     {
+      "n": "J. McGlynn",
+      "pos": "M"
+     },
+     {
+      "n": "E. Galbraith",
+      "pos": "M"
+     },
+     {
+      "n": "J. Devenny",
+      "pos": "M"
+     },
+     {
+      "n": "L. Bombino",
+      "pos": "F"
+     },
+     {
+      "n": "G. Hirst",
+      "pos": "F"
+     },
+     {
+      "n": "Bae Jun-Ho",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1570469": {
-   "hora": "2026-11-28T15:25:15.292631+01:00",
+   "hora": "2026-11-28T15:37:41.406849+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
