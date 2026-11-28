@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28 17:50",
+ "actualizado": "2026-11-28 18:00",
  "redes": {
   "instagram": {
    "seguidores": 59,
@@ -58,9 +58,9 @@
  "total_hoy": 18,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "17:55",
+  "hora": "18:20",
   "dia": "2026-11-28",
-  "titulo": "Hoy hay partidazo vfb stuttgart eintra"
+  "titulo": "Combi x561"
  },
  "ayer": {
   "aciertos": 6,
@@ -294,18 +294,18 @@
   }
  },
  "tipos_instagram": {
+  "Combi de partido (reel)": {
+   "posts": 8,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Cuota 3 (reel)": {
    "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi de partido (reel)": {
-   "posts": 7,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
   "Otros (reel)": {
-   "posts": 44,
+   "posts": 43,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },

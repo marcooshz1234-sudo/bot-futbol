@@ -2520,5 +2520,45 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-28-estrella-1575231",
+    "fecha": "2026-11-28T18:00",
+    "texto": "Hoy hay partidazo: VfB Stuttgart 🆚 Eintracht Frankfurt 🇩🇪⭐\n🤪 Para soñar un poco: con poquito dinero\n\nVamos con la combi del partido estrella (18:30) 🔥\n\n🍀 Robin Koch comete 1+ faltas\n🍀 Lilian Brassier comete 1+ faltas\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Fares Chaibi: 2+ tiros\n\n📈 Cuota @4,31 aprox.",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1575231|Player Fouls Committed|Robin Koch - 1",
+      "1575231|Player Fouls Committed|Lilian Brassier - 1",
+      "1575231|Goals Over/Under - Second Half|Over 1.5",
+      "1575231|Away Player Shots|Fares Chaibi - 2"
+    ],
+    "cuotas": [
+      1.44,
+      1.36,
+      1.44,
+      1.44
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "VfB Stuttgart",
+      "visitante": "Eintracht Frankfurt",
+      "id_l": 172,
+      "id_v": 169,
+      "logo_l": "https://media.api-sports.io/football/teams/172.png",
+      "logo_v": "https://media.api-sports.io/football/teams/169.png",
+      "fecha": "2026-11-28T18:30",
+      "liga": "Bundesliga"
+    },
+    "solo_redes": true,
+    "cuota_total": 4.31,
+    "cuota_calculada": true,
+    "alineacion_ok": true,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "ya-publicado",
+      "instagram": "ya-publicado"
+    }
   }
 ]
