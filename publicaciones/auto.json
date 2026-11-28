@@ -17338,11 +17338,11 @@
     "cuotas": [
       1.7,
       2.0,
-      1.57,
-      1.73,
+      1.44,
+      1.8,
       1.57,
       1.83,
-      2.2,
+      2.05,
       1.67
     ],
     "solo_en": [
@@ -17354,7 +17354,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-28T15:30"
   },
   {
     "id": "2026-11-28-loca-th-1740-x50",

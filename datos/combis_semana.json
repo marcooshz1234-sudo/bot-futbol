@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-28",
- "generado": "2026-11-28T14:59+01:00",
+ "generado": "2026-11-28T15:35+01:00",
  "rango": [
   "2026-11-28",
   "2026-12-01"
@@ -481,40 +481,6 @@
     }
    ],
    "cuota": 2.07
-  },
-  {
-   "equipo": "Brentford",
-   "liga": "Premier League",
-   "partido": "Manchester United–Brentford",
-   "hora": "2026-11-28T16:00",
-   "logo": "https://media.api-sports.io/football/teams/55.png",
-   "patas": [
-    {
-     "sel": "1557484|Player Fouls Committed|Jannik Schuster - 1",
-     "texto": "Jannik Schuster: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,66 por 90' (2-1-2-1-2)",
-     "nota": 1.0015999999999998,
-     "equipo": "Brentford",
-     "lado": "V",
-     "partido": "Manchester United–Brentford",
-     "hora": "2026-11-28T16:00"
-    },
-    {
-     "sel": "1557484|Player Fouls Committed|Keane Lewis-Potter - 1",
-     "texto": "Keane Lewis-Potter: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,75 por 90' (1-4-2-1-1-0)",
-     "nota": 0.9000000000000001,
-     "equipo": "Brentford",
-     "lado": "V",
-     "partido": "Manchester United–Brentford",
-     "hora": "2026-11-28T16:00"
-    }
-   ],
-   "cuota": 2.16
   },
   {
    "equipo": "Fulham",
@@ -1357,90 +1323,47 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1575235|Player Fouls Committed|Albert Sambi Lokonga - 1",
-     "texto": "Albert Sambi Lokonga: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 1,83 por 90' (0-2-1-1-4)",
-     "nota": 0.8025714285714286,
-     "equipo": "Hamburger SV",
-     "lado": "L",
-     "partido": "Hamburger SV–Bayern München",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/175.png",
-     "logo_v": "https://media.api-sports.io/football/teams/157.png"
-    },
-    {
-     "sel": "1575234|Goals Over/Under|Over 2.5",
-     "texto": "Más de 2,5 goles",
+     "sel": "1570469|Away Team Total Cards|Over 1.5",
+     "texto": "Athletic Club ve 2 o más tarjetas",
      "cuota": 1.57,
-     "p": 0.721,
-     "dato": "más de 2,5 goles en el 80% y el 67% de sus partidos",
-     "nota": 0.7723307181696056,
-     "partido": "FSV Mainz 05–Union Berlin",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/164.png",
-     "logo_v": "https://media.api-sports.io/football/teams/182.png"
-    },
-    {
-     "sel": "1575238|Total ShotOnGoal|Over 8.5",
-     "texto": "Más de 8,5 remates a puerta en el partido",
-     "cuota": 1.67,
-     "p": 0.7,
-     "dato": "10,3 remates a puerta de media entre los dos",
-     "nota": 0.7503687278451368,
-     "partido": "SC Paderborn 07–FC Schalke 04",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/185.png",
-     "logo_v": "https://media.api-sports.io/football/teams/174.png"
-    },
-    {
-     "sel": "1557484|Player Fouls Committed|Jannik Schuster - 1",
-     "texto": "Jannik Schuster: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,66 por 90' (2-1-2-1-2)",
-     "nota": 1.0015999999999998,
-     "equipo": "Brentford",
-     "lado": "V",
-     "partido": "Manchester United–Brentford",
-     "hora": "2026-11-28T16:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/33.png",
-     "logo_v": "https://media.api-sports.io/football/teams/55.png"
-    },
-    {
-     "sel": "1570469|Player Fouls Committed|Izan Merino - 1",
-     "texto": "Izan Merino: comete 1+ falta",
-     "cuota": 1.62,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,38 por 90' (1-1-2-1-1)",
-     "nota": 1.0688,
-     "equipo": "Malaga",
-     "lado": "L",
+     "p": 0.628,
+     "dato": "2,2 tarjetas de media para Athletic Club en este cruce",
+     "nota": 0.628,
      "partido": "Malaga–Athletic Club",
      "hora": "2026-11-28T16:15",
      "liga": "LaLiga",
      "logo_l": "https://media.api-sports.io/football/teams/535.png",
-     "logo_v": "https://media.api-sports.io/football/teams/531.png"
+     "logo_v": "https://media.api-sports.io/football/teams/531.png",
+     "solo_todo": true
     },
     {
-     "sel": "1552828|Away Player Shots|Andrija Bulatovic - 1",
-     "texto": "Andrija Bulatovic: 1+ remate",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,53 por 90' (2-1-2-0-1-3)",
-     "nota": 0.84,
-     "equipo": "Lens",
-     "lado": "V",
+     "sel": "1552828|Both Teams Score|Yes",
+     "texto": "Ambos marcan (Angers–Lens)",
+     "cuota": 1.7,
+     "p": 0.563,
+     "dato": "marcan los dos en el 33% y el 75% de sus partidos",
+     "nota": 0.563,
      "partido": "Angers–Lens",
      "hora": "2026-11-28T17:15",
      "liga": "Ligue 1",
      "logo_l": "https://media.api-sports.io/football/teams/77.png",
-     "logo_v": "https://media.api-sports.io/football/teams/116.png"
+     "logo_v": "https://media.api-sports.io/football/teams/116.png",
+     "solo_todo": true
+    },
+    {
+     "sel": "1550214|Player Fouls Committed|Gustav Isaksen - 1",
+     "texto": "Gustav Isaksen: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.88,
+     "dato": "cumple 4/4 siendo titular · 1,65 por 90' (2-2-1-1)",
+     "nota": 1.04,
+     "equipo": "Lazio",
+     "lado": "V",
+     "partido": "Torino–Lazio",
+     "hora": "2026-11-28T18:00",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/503.png",
+     "logo_v": "https://media.api-sports.io/football/teams/487.png"
     },
     {
      "sel": "1570466|Player Fouls Committed|Victor Chust - 1",
@@ -1458,34 +1381,31 @@
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
     },
     {
-     "sel": "1557482|Home Player Shots|Leif Davis - 1",
-     "texto": "Leif Davis: 1+ remate",
-     "cuota": 1.62,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (2-1-2-1-1-0)",
-     "nota": 0.9240000000000002,
-     "equipo": "Ipswich",
-     "lado": "L",
+     "sel": "1575231|Both Teams Score|Yes",
+     "texto": "Ambos marcan (VfB Stuttgart–Eintracht Frankfurt)",
+     "cuota": 1.3,
+     "p": 0.705,
+     "dato": "marcan los dos en el 67% y el 57% de sus partidos",
+     "nota": 0.705,
+     "partido": "VfB Stuttgart–Eintracht Frankfurt",
+     "hora": "2026-11-28T18:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/172.png",
+     "logo_v": "https://media.api-sports.io/football/teams/169.png",
+     "solo_todo": true
+    },
+    {
+     "sel": "1557482|Away Team Total Cards|Over 1.5",
+     "texto": "Aston Villa ve más de 1,5 tarjetas",
+     "cuota": 1.53,
+     "p": 0.681,
+     "dato": "Aston Villa ve 2,4 amarillas por partido",
+     "nota": 0.695105986110009,
      "partido": "Ipswich–Aston Villa",
      "hora": "2026-11-28T18:30",
      "liga": "Premier League",
      "logo_l": "https://media.api-sports.io/football/teams/57.png",
      "logo_v": "https://media.api-sports.io/football/teams/66.png"
-    },
-    {
-     "sel": "1575231|Player Fouls Committed|Maximilian Mittelstadt - 1",
-     "texto": "Maximilian Mittelstadt: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,20 por 90' (1-1-1-0-2-2)",
-     "nota": 0.9000000000000001,
-     "equipo": "VfB Stuttgart",
-     "lado": "L",
-     "partido": "VfB Stuttgart–Eintracht Frankfurt",
-     "hora": "2026-11-28T18:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/172.png",
-     "logo_v": "https://media.api-sports.io/football/teams/169.png"
     },
     {
      "sel": "1552831|Away Player Shots|Dario Essugo - 1",
@@ -1547,6 +1467,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/79.png"
     },
     {
+     "sel": "1552834|Away Corners Over/Under|Over 3.5",
+     "texto": "Estac Troyes: más de 3,5 córners",
+     "cuota": 1.67,
+     "p": 0.682,
+     "dato": "Estac Troyes saca 4,8 córners y el rival concede 4,5",
+     "nota": 0.7181602049172271,
+     "partido": "Nice–Estac Troyes",
+     "hora": "2026-11-28T20:45",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/84.png",
+     "logo_v": "https://media.api-sports.io/football/teams/110.png"
+    },
+    {
      "sel": "1570470|Away Corners Over/Under|Over 2.5",
      "texto": "Alaves: más de 2,5 córners",
      "cuota": 1.62,
@@ -1560,41 +1493,11 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 437.1,
-   "prob": 0.042
+   "cuota": 193.99,
+   "prob": 0.028
   },
   {
    "patas": [
-    {
-     "sel": "1575238|Home Player Shots|Santiago Castaneda - 1",
-     "texto": "Santiago Castaneda: 1+ remate",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (0-1-2-2-1-1)",
-     "nota": 0.84,
-     "equipo": "SC Paderborn 07",
-     "lado": "L",
-     "partido": "SC Paderborn 07–FC Schalke 04",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/185.png",
-     "logo_v": "https://media.api-sports.io/football/teams/174.png"
-    },
-    {
-     "sel": "1557484|Player Fouls Committed|Jannik Schuster - 1",
-     "texto": "Jannik Schuster: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,66 por 90' (2-1-2-1-2)",
-     "nota": 1.0015999999999998,
-     "equipo": "Brentford",
-     "lado": "V",
-     "partido": "Manchester United–Brentford",
-     "hora": "2026-11-28T16:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/33.png",
-     "logo_v": "https://media.api-sports.io/football/teams/55.png"
-    },
     {
      "sel": "1570469|Player Fouls Committed|Nico Williams - 1",
      "texto": "Nico Williams: comete 1+ falta",
@@ -1699,115 +1602,6 @@
      "liga": "Ligue 1",
      "logo_l": "https://media.api-sports.io/football/teams/84.png",
      "logo_v": "https://media.api-sports.io/football/teams/110.png"
-    }
-   ],
-   "cuota": 30.15,
-   "prob": 0.179,
-   "clave": "dia-2026-11-28-a",
-   "titulo": "📅 La del sábado · A",
-   "expl": "@30-40 con patas de @1,40-1,60 (la B, otra distinta)",
-   "liga": "Varias"
-  },
-  {
-   "patas": [
-    {
-     "sel": "1575235|Player Fouls Committed|Albert Sambi Lokonga - 1",
-     "texto": "Albert Sambi Lokonga: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 1,83 por 90' (0-2-1-1-4)",
-     "nota": 0.8025714285714286,
-     "equipo": "Hamburger SV",
-     "lado": "L",
-     "partido": "Hamburger SV–Bayern München",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/175.png",
-     "logo_v": "https://media.api-sports.io/football/teams/157.png"
-    },
-    {
-     "sel": "1575234|Goals Over/Under|Over 2.5",
-     "texto": "Más de 2,5 goles",
-     "cuota": 1.57,
-     "p": 0.721,
-     "dato": "más de 2,5 goles en el 80% y el 67% de sus partidos",
-     "nota": 0.7723307181696056,
-     "partido": "FSV Mainz 05–Union Berlin",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/164.png",
-     "logo_v": "https://media.api-sports.io/football/teams/182.png"
-    },
-    {
-     "sel": "1575236|Both Teams Score|Yes",
-     "texto": "Ambos marcan (1. FC Köln–SV Elversberg)",
-     "cuota": 1.53,
-     "p": 0.6,
-     "dato": "marcan los dos en el 67% y el 50% de sus partidos",
-     "nota": 0.6,
-     "partido": "1. FC Köln–SV Elversberg",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/192.png",
-     "logo_v": "https://media.api-sports.io/football/teams/1660.png",
-     "solo_todo": true
-    },
-    {
-     "sel": "1557483|Away Team Total Cards|Over 1.5",
-     "texto": "Coventry ve 2 o más tarjetas",
-     "cuota": 1.5,
-     "p": 0.63,
-     "dato": "2,1 tarjetas de media para Coventry en este cruce",
-     "nota": 0.63,
-     "partido": "Leeds–Coventry",
-     "hora": "2026-11-28T16:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/63.png",
-     "logo_v": "https://media.api-sports.io/football/teams/1346.png",
-     "solo_todo": true
-    },
-    {
-     "sel": "1557484|Player Fouls Committed|Keane Lewis-Potter - 1",
-     "texto": "Keane Lewis-Potter: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,75 por 90' (1-4-2-1-1-0)",
-     "nota": 0.9000000000000001,
-     "equipo": "Brentford",
-     "lado": "V",
-     "partido": "Manchester United–Brentford",
-     "hora": "2026-11-28T16:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/33.png",
-     "logo_v": "https://media.api-sports.io/football/teams/55.png"
-    },
-    {
-     "sel": "1570469|Player Fouls Committed|Alex Berenguer - 1",
-     "texto": "Alex Berenguer: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,50 por 90' (0-3-1-3-1-1)",
-     "nota": 0.84,
-     "equipo": "Athletic Club",
-     "lado": "V",
-     "partido": "Malaga–Athletic Club",
-     "hora": "2026-11-28T16:15",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/535.png",
-     "logo_v": "https://media.api-sports.io/football/teams/531.png"
-    },
-    {
-     "sel": "1557482|Away Team Total Cards|Over 1.5",
-     "texto": "Aston Villa ve más de 1,5 tarjetas",
-     "cuota": 1.53,
-     "p": 0.681,
-     "dato": "Aston Villa ve 2,4 amarillas por partido",
-     "nota": 0.695105986110009,
-     "partido": "Ipswich–Aston Villa",
-     "hora": "2026-11-28T18:30",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/57.png",
-     "logo_v": "https://media.api-sports.io/football/teams/66.png"
     },
     {
      "sel": "1552832|Away Player Shots|Ayase Ueda - 3",
@@ -1840,175 +1634,11 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 38.26,
-   "prob": 0.055,
-   "clave": "dia-2026-11-28-b",
-   "titulo": "📅 La del sábado · B",
-   "expl": "@30-40 con patas de @1,40-1,60 (la A, otra distinta)",
-   "liga": "Varias"
-  },
-  {
-   "patas": [
-    {
-     "sel": "1575235|Both Teams Score|Yes",
-     "texto": "Ambos marcan (Hamburger SV–Bayern München)",
-     "cuota": 1.67,
-     "p": 0.613,
-     "dato": "marcan los dos en el 60% y el 78% de sus partidos",
-     "partido": "Hamburger SV–Bayern München",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/175.png",
-     "logo_v": "https://media.api-sports.io/football/teams/157.png"
-    },
-    {
-     "sel": "1575234|Both Teams Score|Yes",
-     "texto": "Ambos marcan (FSV Mainz 05–Union Berlin)",
-     "cuota": 1.7,
-     "p": 0.601,
-     "dato": "marcan los dos en el 80% y el 33% de sus partidos",
-     "partido": "FSV Mainz 05–Union Berlin",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/164.png",
-     "logo_v": "https://media.api-sports.io/football/teams/182.png"
-    },
-    {
-     "sel": "1557484|Both Teams Score|Yes",
-     "texto": "Ambos marcan (Manchester United–Brentford)",
-     "cuota": 1.5,
-     "p": 0.688,
-     "dato": "marcan los dos en el 62% y el 88% de sus partidos",
-     "partido": "Manchester United–Brentford",
-     "hora": "2026-11-28T16:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/33.png",
-     "logo_v": "https://media.api-sports.io/football/teams/55.png"
-    },
-    {
-     "sel": "1575231|Both Teams Score|Yes",
-     "texto": "Ambos marcan (VfB Stuttgart–Eintracht Frankfurt)",
-     "cuota": 1.3,
-     "p": 0.705,
-     "dato": "marcan los dos en el 67% y el 57% de sus partidos",
-     "partido": "VfB Stuttgart–Eintracht Frankfurt",
-     "hora": "2026-11-28T18:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/172.png",
-     "logo_v": "https://media.api-sports.io/football/teams/169.png"
-    },
-    {
-     "sel": "1557482|Both Teams Score|Yes",
-     "texto": "Ambos marcan (Ipswich–Aston Villa)",
-     "cuota": 1.5,
-     "p": 0.635,
-     "dato": "marcan los dos en el 86% y el 40% de sus partidos",
-     "partido": "Ipswich–Aston Villa",
-     "hora": "2026-11-28T18:30",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/57.png",
-     "logo_v": "https://media.api-sports.io/football/teams/66.png"
-    },
-    {
-     "sel": "1552831|Both Teams Score|Yes",
-     "texto": "Ambos marcan (Le Havre–Strasbourg)",
-     "cuota": 1.57,
-     "p": 0.613,
-     "dato": "marcan los dos en el 50% y el 67% de sus partidos",
-     "partido": "Le Havre–Strasbourg",
-     "hora": "2026-11-28T20:45",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/111.png",
-     "logo_v": "https://media.api-sports.io/football/teams/95.png"
-    }
-   ],
-   "cuota": 13.04,
-   "prob": 0.07,
-   "clave": "tema-2026-11-28-btts",
-   "titulo": "⚽⚽ Ambos marcan · sábado",
-   "expl": "Partidos en los que marcan los dos · @10-15",
-   "liga": "Varias"
-  },
-  {
-   "patas": [
-    {
-     "sel": "1557483|Away Team Total Cards|Over 1.5",
-     "texto": "Coventry ve 2 o más tarjetas",
-     "cuota": 1.5,
-     "p": 0.63,
-     "dato": "2,1 tarjetas de media para Coventry en este cruce",
-     "partido": "Leeds–Coventry",
-     "hora": "2026-11-28T16:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/63.png",
-     "logo_v": "https://media.api-sports.io/football/teams/1346.png"
-    },
-    {
-     "sel": "1557484|Home Team Total Cards|Over 1.5",
-     "texto": "Manchester United ve 2 o más tarjetas",
-     "cuota": 1.5,
-     "p": 0.589,
-     "dato": "1,9 tarjetas de media para Manchester United en este cruce",
-     "partido": "Manchester United–Brentford",
-     "hora": "2026-11-28T16:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/33.png",
-     "logo_v": "https://media.api-sports.io/football/teams/55.png"
-    },
-    {
-     "sel": "1570469|Away Team Total Cards|Over 1.5",
-     "texto": "Athletic Club ve 2 o más tarjetas",
-     "cuota": 1.57,
-     "p": 0.628,
-     "dato": "2,2 tarjetas de media para Athletic Club en este cruce",
-     "partido": "Malaga–Athletic Club",
-     "hora": "2026-11-28T16:15",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/535.png",
-     "logo_v": "https://media.api-sports.io/football/teams/531.png"
-    },
-    {
-     "sel": "1550214|Cards Over/Under|Over 2.5",
-     "texto": "Más de 2,5 tarjetas (Torino–Lazio)",
-     "cuota": 1.57,
-     "p": 0.599,
-     "dato": "3,1 tarjetas de media entre los dos",
-     "partido": "Torino–Lazio",
-     "hora": "2026-11-28T18:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/503.png",
-     "logo_v": "https://media.api-sports.io/football/teams/487.png"
-    },
-    {
-     "sel": "1575231|Away Team Total Cards|Over 1.5",
-     "texto": "Eintracht Frankfurt ve 2 o más tarjetas",
-     "cuota": 1.53,
-     "p": 0.696,
-     "dato": "2,9 tarjetas de media para Eintracht Frankfurt en este cruce",
-     "partido": "VfB Stuttgart–Eintracht Frankfurt",
-     "hora": "2026-11-28T18:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/172.png",
-     "logo_v": "https://media.api-sports.io/football/teams/169.png"
-    },
-    {
-     "sel": "1557482|Away Team Total Cards|Over 1.5",
-     "texto": "Aston Villa ve 2 o más tarjetas",
-     "cuota": 1.53,
-     "p": 0.647,
-     "dato": "2,3 tarjetas de media para Aston Villa en este cruce",
-     "partido": "Ipswich–Aston Villa",
-     "hora": "2026-11-28T18:30",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/57.png",
-     "logo_v": "https://media.api-sports.io/football/teams/66.png"
-    }
-   ],
-   "cuota": 12.98,
-   "prob": 0.063,
-   "clave": "tema-2026-11-28-tarjetas",
-   "titulo": "🟨 Tarjetas · sábado",
-   "expl": "Equipos y partidos con tarjetas · @10-15",
+   "cuota": 34.32,
+   "prob": 0.155,
+   "clave": "dia-2026-11-28-a",
+   "titulo": "📅 La del sábado · A",
+   "expl": "@30-40 con patas de @1,40-1,60 (la B, otra distinta)",
    "liga": "Varias"
   },
   {
@@ -2017,64 +1647,6 @@
    "expl": "Una pata de cada partido del sábado 28 (opción 2 de 3)",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1575238|Home Player Shots|Santiago Castaneda - 1",
-     "texto": "Santiago Castaneda: 1+ remate",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (0-1-2-2-1-1)",
-     "nota": 0.84,
-     "equipo": "SC Paderborn 07",
-     "lado": "L",
-     "partido": "SC Paderborn 07–FC Schalke 04",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/185.png",
-     "logo_v": "https://media.api-sports.io/football/teams/174.png"
-    },
-    {
-     "sel": "1575235|Player Fouls Committed|Albert Sambi Lokonga - 1",
-     "texto": "Albert Sambi Lokonga: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 1,83 por 90' (0-2-1-1-4)",
-     "nota": 0.8025714285714286,
-     "equipo": "Hamburger SV",
-     "lado": "L",
-     "partido": "Hamburger SV–Bayern München",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/175.png",
-     "logo_v": "https://media.api-sports.io/football/teams/157.png"
-    },
-    {
-     "sel": "1575234|Total - Home|Over 1.5",
-     "texto": "FSV Mainz 05 marca 2 o más",
-     "cuota": 1.44,
-     "p": 0.702,
-     "dato": "marca 1,4 por partido y el rival encaja 3,5",
-     "nota": 0.6959338577127354,
-     "partido": "FSV Mainz 05–Union Berlin",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/164.png",
-     "logo_v": "https://media.api-sports.io/football/teams/182.png"
-    },
-    {
-     "sel": "1557484|Player Fouls Committed|Keane Lewis-Potter - 1",
-     "texto": "Keane Lewis-Potter: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,75 por 90' (1-4-2-1-1-0)",
-     "nota": 0.9000000000000001,
-     "equipo": "Brentford",
-     "lado": "V",
-     "partido": "Manchester United–Brentford",
-     "hora": "2026-11-28T16:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/33.png",
-     "logo_v": "https://media.api-sports.io/football/teams/55.png"
-    },
     {
      "sel": "1570469|Home Corners Over/Under|Over 3.5",
      "texto": "Malaga: más de 3,5 córners",
@@ -2087,6 +1659,36 @@
      "liga": "LaLiga",
      "logo_l": "https://media.api-sports.io/football/teams/535.png",
      "logo_v": "https://media.api-sports.io/football/teams/531.png"
+    },
+    {
+     "sel": "1552828|Away Player Shots|Andrija Bulatovic - 1",
+     "texto": "Andrija Bulatovic: 1+ remate",
+     "cuota": 1.4,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,53 por 90' (2-1-2-0-1-3)",
+     "nota": 0.84,
+     "equipo": "Lens",
+     "lado": "V",
+     "partido": "Angers–Lens",
+     "hora": "2026-11-28T17:15",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/77.png",
+     "logo_v": "https://media.api-sports.io/football/teams/116.png"
+    },
+    {
+     "sel": "1550214|Player Fouls Committed|Alessio Cacciamani - 1",
+     "texto": "Alessio Cacciamani: comete 1+ falta",
+     "cuota": 1.44,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,02 por 90' (2-1-1-1-0)",
+     "nota": 0.8025714285714286,
+     "equipo": "Torino",
+     "lado": "L",
+     "partido": "Torino–Lazio",
+     "hora": "2026-11-28T18:00",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/503.png",
+     "logo_v": "https://media.api-sports.io/football/teams/487.png"
     },
     {
      "sel": "1570466|Away Player Shots|David Hancko - 1",
@@ -2104,14 +1706,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
     },
     {
-     "sel": "1575231|Player Fouls Committed|Finn Jeltsch - 1",
-     "texto": "Finn Jeltsch: comete 1+ falta",
-     "cuota": 1.62,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,41 por 90' (1-1-1-0-2-3)",
-     "nota": 0.9240000000000002,
-     "equipo": "VfB Stuttgart",
-     "lado": "L",
+     "sel": "1575231|Away Team Total Cards|Over 1.5",
+     "texto": "Eintracht Frankfurt ve más de 1,5 tarjetas",
+     "cuota": 1.53,
+     "p": 0.777,
+     "dato": "Eintracht Frankfurt ve 2,7 amarillas por partido",
+     "nota": 0.8659333785752541,
      "partido": "VfB Stuttgart–Eintracht Frankfurt",
      "hora": "2026-11-28T18:30",
      "liga": "Bundesliga",
@@ -2119,17 +1719,18 @@
      "logo_v": "https://media.api-sports.io/football/teams/169.png"
     },
     {
-     "sel": "1557482|Away Team Total Cards|Over 1.5",
-     "texto": "Aston Villa ve más de 1,5 tarjetas",
-     "cuota": 1.53,
-     "p": 0.681,
-     "dato": "Aston Villa ve 2,4 amarillas por partido",
-     "nota": 0.695105986110009,
+     "sel": "1557482|Both Teams Score|Yes",
+     "texto": "Ambos marcan (Ipswich–Aston Villa)",
+     "cuota": 1.5,
+     "p": 0.635,
+     "dato": "marcan los dos en el 86% y el 40% de sus partidos",
+     "nota": 0.635,
      "partido": "Ipswich–Aston Villa",
      "hora": "2026-11-28T18:30",
      "liga": "Premier League",
      "logo_l": "https://media.api-sports.io/football/teams/57.png",
-     "logo_v": "https://media.api-sports.io/football/teams/66.png"
+     "logo_v": "https://media.api-sports.io/football/teams/66.png",
+     "solo_todo": true
     },
     {
      "sel": "1550211|Player Fouls Committed|Junior Messias - 1",
@@ -2145,6 +1746,21 @@
      "liga": "Serie A",
      "logo_l": "https://media.api-sports.io/football/teams/505.png",
      "logo_v": "https://media.api-sports.io/football/teams/495.png"
+    },
+    {
+     "sel": "1552834|Home Player Shots|Axel Witsel - 1",
+     "texto": "Axel Witsel: 1+ remate",
+     "cuota": 1.57,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,09 por 90' (0-2-1-1-1-1)",
+     "nota": 0.9140000000000001,
+     "equipo": "Nice",
+     "lado": "L",
+     "partido": "Nice–Estac Troyes",
+     "hora": "2026-11-28T20:45",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/84.png",
+     "logo_v": "https://media.api-sports.io/football/teams/110.png"
     },
     {
      "sel": "1552835|Away Player Shots|Noah Cadiou - 1",
@@ -2190,19 +1806,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/79.png"
     },
     {
-     "sel": "1552834|Away Corners Over/Under|Over 3.5",
-     "texto": "Estac Troyes: más de 3,5 córners",
-     "cuota": 1.67,
-     "p": 0.682,
-     "dato": "Estac Troyes saca 4,8 córners y el rival concede 4,5",
-     "nota": 0.7181602049172271,
-     "partido": "Nice–Estac Troyes",
-     "hora": "2026-11-28T20:45",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/84.png",
-     "logo_v": "https://media.api-sports.io/football/teams/110.png"
-    },
-    {
      "sel": "1570470|Player Fouls Committed|Dean Huijsen - 1",
      "texto": "Dean Huijsen: comete 1+ falta",
      "cuota": 1.5,
@@ -2218,8 +1821,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 477.68,
-   "prob": 0.024
+   "cuota": 192.51,
+   "prob": 0.045
   },
   {
    "clave": "todo-2026-11-28-3",
@@ -2228,76 +1831,47 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1575235|Player Fouls Committed|Albert Sambi Lokonga - 1",
-     "texto": "Albert Sambi Lokonga: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 1,83 por 90' (0-2-1-1-4)",
-     "nota": 0.8025714285714286,
-     "equipo": "Hamburger SV",
+     "sel": "1570469|Player Fouls Committed|Izan Merino - 1",
+     "texto": "Izan Merino: comete 1+ falta",
+     "cuota": 1.62,
+     "p": 0.88,
+     "dato": "cumple 5/5 siendo titular · 1,38 por 90' (1-1-2-1-1)",
+     "nota": 1.0688,
+     "equipo": "Malaga",
      "lado": "L",
-     "partido": "Hamburger SV–Bayern München",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/175.png",
-     "logo_v": "https://media.api-sports.io/football/teams/157.png"
-    },
-    {
-     "sel": "1575238|Total ShotOnGoal|Over 8.5",
-     "texto": "Más de 8,5 remates a puerta en el partido",
-     "cuota": 1.67,
-     "p": 0.7,
-     "dato": "10,3 remates a puerta de media entre los dos",
-     "nota": 0.7503687278451368,
-     "partido": "SC Paderborn 07–FC Schalke 04",
-     "hora": "2026-11-28T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/185.png",
-     "logo_v": "https://media.api-sports.io/football/teams/174.png"
-    },
-    {
-     "sel": "1557484|Player Fouls Committed|Lisandro Martinez - 1",
-     "texto": "Lisandro Martinez: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,75 por 90' (0-2-2-3-1-2)",
-     "nota": 0.9000000000000001,
-     "equipo": "Manchester United",
-     "lado": "L",
-     "partido": "Manchester United–Brentford",
-     "hora": "2026-11-28T16:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/33.png",
-     "logo_v": "https://media.api-sports.io/football/teams/55.png"
-    },
-    {
-     "sel": "1557483|Away Team Total Cards|Over 1.5",
-     "texto": "Coventry ve 2 o más tarjetas",
-     "cuota": 1.5,
-     "p": 0.63,
-     "dato": "2,1 tarjetas de media para Coventry en este cruce",
-     "nota": 0.63,
-     "partido": "Leeds–Coventry",
-     "hora": "2026-11-28T16:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/63.png",
-     "logo_v": "https://media.api-sports.io/football/teams/1346.png",
-     "solo_todo": true
-    },
-    {
-     "sel": "1570469|Player Fouls Committed|Nico Williams - 1",
-     "texto": "Nico Williams: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,93 por 90' (1-4-2-2-0-2)",
-     "nota": 0.864,
-     "equipo": "Athletic Club",
-     "lado": "V",
      "partido": "Malaga–Athletic Club",
      "hora": "2026-11-28T16:15",
      "liga": "LaLiga",
      "logo_l": "https://media.api-sports.io/football/teams/535.png",
      "logo_v": "https://media.api-sports.io/football/teams/531.png"
+    },
+    {
+     "sel": "1552828|Both Teams Score|Yes",
+     "texto": "Ambos marcan (Angers–Lens)",
+     "cuota": 1.7,
+     "p": 0.563,
+     "dato": "marcan los dos en el 33% y el 75% de sus partidos",
+     "nota": 0.563,
+     "partido": "Angers–Lens",
+     "hora": "2026-11-28T17:15",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/77.png",
+     "logo_v": "https://media.api-sports.io/football/teams/116.png",
+     "solo_todo": true
+    },
+    {
+     "sel": "1550214|Cards Over/Under|Over 2.5",
+     "texto": "Más de 2,5 tarjetas (Torino–Lazio)",
+     "cuota": 1.57,
+     "p": 0.599,
+     "dato": "3,1 tarjetas de media entre los dos",
+     "nota": 0.599,
+     "partido": "Torino–Lazio",
+     "hora": "2026-11-28T18:00",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/503.png",
+     "logo_v": "https://media.api-sports.io/football/teams/487.png",
+     "solo_todo": true
     },
     {
      "sel": "1570466|Away Player Shots|Alex Baena - 2",
@@ -2315,31 +1889,34 @@
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
     },
     {
-     "sel": "1575231|Away Team Total Cards|Over 1.5",
-     "texto": "Eintracht Frankfurt ve más de 1,5 tarjetas",
-     "cuota": 1.53,
-     "p": 0.777,
-     "dato": "Eintracht Frankfurt ve 2,7 amarillas por partido",
-     "nota": 0.8659333785752541,
+     "sel": "1557482|Home Player Shots|Leif Davis - 1",
+     "texto": "Leif Davis: 1+ remate",
+     "cuota": 1.62,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (2-1-2-1-1-0)",
+     "nota": 0.9240000000000002,
+     "equipo": "Ipswich",
+     "lado": "L",
+     "partido": "Ipswich–Aston Villa",
+     "hora": "2026-11-28T18:30",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/57.png",
+     "logo_v": "https://media.api-sports.io/football/teams/66.png"
+    },
+    {
+     "sel": "1575231|Player Fouls Committed|Maximilian Mittelstadt - 1",
+     "texto": "Maximilian Mittelstadt: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,20 por 90' (1-1-1-0-2-2)",
+     "nota": 0.9000000000000001,
+     "equipo": "VfB Stuttgart",
+     "lado": "L",
      "partido": "VfB Stuttgart–Eintracht Frankfurt",
      "hora": "2026-11-28T18:30",
      "liga": "Bundesliga",
      "logo_l": "https://media.api-sports.io/football/teams/172.png",
      "logo_v": "https://media.api-sports.io/football/teams/169.png"
-    },
-    {
-     "sel": "1557482|Both Teams Score|Yes",
-     "texto": "Ambos marcan (Ipswich–Aston Villa)",
-     "cuota": 1.5,
-     "p": 0.635,
-     "dato": "marcan los dos en el 86% y el 40% de sus partidos",
-     "nota": 0.635,
-     "partido": "Ipswich–Aston Villa",
-     "hora": "2026-11-28T18:30",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/57.png",
-     "logo_v": "https://media.api-sports.io/football/teams/66.png",
-     "solo_todo": true
     },
     {
      "sel": "1552831|Away Player Shots|Dario Essugo - 1",
@@ -2372,21 +1949,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/495.png"
     },
     {
-     "sel": "1552834|Home Player Shots|Axel Witsel - 1",
-     "texto": "Axel Witsel: 1+ remate",
-     "cuota": 1.57,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,09 por 90' (0-2-1-1-1-1)",
-     "nota": 0.9140000000000001,
-     "equipo": "Nice",
-     "lado": "L",
-     "partido": "Nice–Estac Troyes",
-     "hora": "2026-11-28T20:45",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/84.png",
-     "logo_v": "https://media.api-sports.io/football/teams/110.png"
-    },
-    {
      "sel": "1552835|Away Player Shots Total|Over 7.5",
      "texto": "Lorient: más de 7,5 remates",
      "cuota": 1.73,
@@ -2416,6 +1978,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/79.png"
     },
     {
+     "sel": "1552834|Away Corners Over/Under|Over 3.5",
+     "texto": "Estac Troyes: más de 3,5 córners",
+     "cuota": 1.67,
+     "p": 0.682,
+     "dato": "Estac Troyes saca 4,8 córners y el rival concede 4,5",
+     "nota": 0.7181602049172271,
+     "partido": "Nice–Estac Troyes",
+     "hora": "2026-11-28T20:45",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/84.png",
+     "logo_v": "https://media.api-sports.io/football/teams/110.png"
+    },
+    {
      "sel": "1570470|Away Corners Over/Under|Over 2.5",
      "texto": "Alaves: más de 2,5 córners",
      "cuota": 1.62,
@@ -2429,8 +2004,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/542.png"
     }
    ],
-   "cuota": 438.79,
-   "prob": 0.024
+   "cuota": 274.24,
+   "prob": 0.036
   },
   {
    "clave": "todo-2026-11-29",

@@ -17363,9 +17363,67 @@
     "tipo": "Questionable",
     "motivo": "Calf Injury"
    }
+  ],
+  "1570037": [],
+  "1575549": [],
+  "1570471": [
+   {
+    "equipo": 548,
+    "jugador": "J. Aramburu",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 548,
+    "jugador": "A. Barrenetxea",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 548,
+    "jugador": "Y. Herrera",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 548,
+    "jugador": "A. Odriozola",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 548,
+    "jugador": "L. Astiazaran",
+    "tipo": "Questionable",
+    "motivo": "Knock"
+   },
+   {
+    "equipo": 536,
+    "jugador": "J. A. Carmona",
+    "tipo": "Missing Fixture",
+    "motivo": "Broken Leg"
+   },
+   {
+    "equipo": 536,
+    "jugador": "A. Gonzalez",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 536,
+    "jugador": "Marcao",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 536,
+    "jugador": "M. Sierra",
+    "tipo": "Missing Fixture",
+    "motivo": "Shoulder Injury"
+   }
   ]
  },
- "ultima": "2026-11-28T14:58:55.877360+01:00",
+ "ultima": "2026-11-28T15:30:51.752266+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
