@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-28",
- "generado": "2026-11-28T10:12+01:00",
+ "generado": "2026-11-28T10:45+01:00",
  "rango": [
   "2026-11-28",
   "2026-12-01"
@@ -300,19 +300,9 @@
      "nota": 0.8666777740817896,
      "partido": "Malaga–Athletic Club",
      "hora": "2026-11-28T16:15"
-    },
-    {
-     "sel": "1570469|Total - Home|Over 0.5",
-     "texto": "Malaga marca",
-     "cuota": 1.5,
-     "p": 0.746,
-     "dato": "marca 1,0 por partido y el rival encaja 1,2",
-     "nota": 0.8055859373421261,
-     "partido": "Malaga–Athletic Club",
-     "hora": "2026-11-28T16:15"
     }
    ],
-   "cuota": 3.94
+   "cuota": 2.62
   },
   {
    "equipo": "Athletic Club",

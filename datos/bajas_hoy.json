@@ -15885,7 +15885,7 @@
    {
     "equipo": 85,
     "jugador": "N. Mendes",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
    },
    {
@@ -16729,9 +16729,60 @@
     "tipo": "Questionable",
     "motivo": "Illness"
    }
+  ],
+  "1570044": [],
+  "1570465": [
+   {
+    "equipo": 544,
+    "jugador": "B. Ede",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 529,
+    "jugador": "A. Balde",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 529,
+    "jugador": "R. Bardghji",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 529,
+    "jugador": "A. Christensen",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 529,
+    "jugador": "X. Espart",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 529,
+    "jugador": "F. Lopez",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
+   },
+   {
+    "equipo": 529,
+    "jugador": "M. Bernal",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 529,
+    "jugador": "Rodri",
+    "tipo": "Questionable",
+    "motivo": "Calf Injury"
+   }
   ]
  },
- "ultima": "2026-11-28T10:08:16.917595+01:00",
+ "ultima": "2026-11-28T10:39:12.491943+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
