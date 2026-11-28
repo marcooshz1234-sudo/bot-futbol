@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28 00:49",
+ "actualizado": "2026-11-28 01:02",
  "redes": {
   "instagram": {
    "seguidores": 58,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 4297,
-   "hoy": 3,
+   "seguidores": 4298,
+   "hoy": 4,
    "serie": [
     3714,
     3742,
@@ -24,7 +24,7 @@
     4020,
     4195,
     4294,
-    4297
+    4298
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4907,
- "total_hoy": 1,
+ "total": 4908,
+ "total_hoy": 2,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "01:00",
+  "hora": "02:00",
   "dia": "2026-11-28",
-  "titulo": "Premier league - ganadores"
+  "titulo": "Partidos de hoy - ganadores"
  },
  "ayer": {
   "aciertos": 0,
@@ -288,7 +288,7 @@
   },
   "2026-11-28": {
    "instagram": 58,
-   "threads": 4297,
+   "threads": 4298,
    "facebook": 1,
    "telegram": 551
   }
