@@ -2416,5 +2416,49 @@
     "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
     "requiere_ok": true,
     "aviso": "⚠️ El bot no puede seguir esta copia (es un «Crear apuesta» de varias condiciones): si sale, su verde y el resumen van a mano."
+  },
+  {
+    "id": "2026-11-28-estrella-1575235",
+    "fecha": "2026-11-28T15:01",
+    "texto": "Hoy hay partidazo: Hamburger SV 🆚 Bayern München 🇩🇪⭐\n🤪 Para soñar un poco: con poquito dinero\n\nVamos con la combi del partido estrella (15:30) 🔥\n\n🍀 David Wolfe comete 1+ faltas\n🍀 Tom Bischof comete 1+ faltas\n🍀 Zakaria El Ouahdi: 1+ tiros\n🍀 Joshua Kimmich: 1+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @5,38 aprox.\n\n🔔 Activad las notificaciones 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1575235|Player Fouls Committed|David Wolfe - 1",
+      "1575235|Player Fouls Committed|Tom Bischof - 1",
+      "1575235|Home Player Shots|Zakaria El Ouahdi - 1",
+      "1575235|Away Player Shots|Joshua Kimmich - 1",
+      "1575235|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.5,
+      1.25,
+      1.25,
+      1.4,
+      1.53
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Hamburger SV",
+      "visitante": "Bayern München",
+      "id_l": 175,
+      "id_v": 157,
+      "logo_l": "https://media.api-sports.io/football/teams/175.png",
+      "logo_v": "https://media.api-sports.io/football/teams/157.png",
+      "fecha": "2026-11-28T15:30",
+      "liga": "Bundesliga"
+    },
+    "solo_redes": true,
+    "cuota_total": 5.38,
+    "cuota_calculada": true,
+    "rehecho_bajas": true,
+    "forzar": false,
+    "alineacion_ok": true,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "ya-publicado",
+      "instagram": "ya-publicado"
+    }
   }
 ]
