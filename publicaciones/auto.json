@@ -17946,9 +17946,9 @@
     "cuotas": [
       1.5,
       1.44,
-      1.44,
-      2.15,
-      1.53
+      1.5,
+      2.1,
+      1.5
     ],
     "solo_en": [
       "threads"
@@ -17959,7 +17959,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-28T04:32"
   },
   {
     "id": "2026-11-28-loca-th-0700-tapados",
