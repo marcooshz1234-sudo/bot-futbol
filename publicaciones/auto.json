@@ -16822,7 +16822,7 @@
       "1552832|Match Winner|Draw"
     ],
     "cuotas": [
-      3.3,
+      3.4,
       3.75,
       3.3
     ],
@@ -16835,7 +16835,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-28T09:08"
   },
   {
     "id": "2026-11-28-loca-th-1000-escudos",
