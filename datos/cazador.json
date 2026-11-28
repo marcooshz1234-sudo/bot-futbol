@@ -63,41 +63,19 @@
  },
  "top": [
   {
-   "local": "Vitória SC",
-   "visitante": "Estrela",
-   "inicio": "2026-11-28T21:30",
-   "texto": "Estrela o empate",
-   "cuota": 2.05,
-   "justa": 2.06,
-   "ev": -0.005,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Vitória SC",
-   "visitante": "Estrela",
-   "inicio": "2026-11-28T21:30",
-   "texto": "Estrela marca",
-   "cuota": 1.44,
-   "justa": 1.46,
-   "ev": -0.011,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Vitória SC",
-   "visitante": "Estrela",
-   "inicio": "2026-11-28T21:30",
-   "texto": "Ambos marcan en Vitória SC–Estrela",
-   "cuota": 1.67,
-   "justa": 1.7,
+   "local": "Swansea",
+   "visitante": "Cardiff",
+   "inicio": "2026-11-29T13:00",
+   "texto": "Cardiff marca 2 o más",
+   "cuota": 2.2,
+   "justa": 2.24,
    "ev": -0.019,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.7
   }
  ],
  "ultima": {
-  "hora": "2026-11-28T20:59",
+  "hora": "2026-11-28T21:40",
   "revisadas": 0,
   "mejor": null
  },

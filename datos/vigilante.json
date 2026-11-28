@@ -144,7 +144,10 @@
   "foto-2026-11-28-verde-auto-2026-11-28-pick-seguro": "2026-11-28T17:16",
   "redes-2026-11-28-verde-auto-2026-11-28-pick-seguro-4-threads-instagram": "2026-11-28T17:29",
   "cuotamov-2026-11-28-loca-th-1900-x100-1552831|Anytime Goal Scorer|Josh Maja": "2026-11-28T18:11",
-  "api-2026-11-28": "2026-11-28T21:09"
+  "api-2026-11-28": "2026-11-28T21:09",
+  "prensa-1550207-GustavoVarela": "2026-11-28T21:40",
+  "prensa-1575232-2b2075e7": "2026-11-28T21:40",
+  "prensa-1552833-b702042b": "2026-11-28T21:40"
  },
  "abiertos": [
   {
@@ -176,16 +179,16 @@
    "t": "🔁 28/11: el mismo pronóstico en 4 posts (estrella-1575231, loca-th-1420-escudos, loca-th-1620-duelo, loca-th-1700-x100)"
   },
   {
+   "clave": "repe-2026-11-28-1557483|Total - Away|Over 0.5",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0020-x100, loca-th-0500-x50)"
+  },
+  {
    "clave": "repe-2026-11-28-1575235|Both Teams Score|Yes",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0020-x100)"
   },
   {
    "clave": "repe-2026-11-28-1570463|Both Teams Score|Yes",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-28-1557483|Total - Away|Over 0.5",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0020-x100, loca-th-0500-x50)"
   },
   {
    "clave": "repe-2026-11-28-1550211|Total - Away|Over 0.5",
@@ -204,12 +207,12 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-0800-x500)"
   },
   {
-   "clave": "repe-2026-11-28-1552831|Both Teams Score|Yes",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1640-escudos)"
-  },
-  {
    "clave": "repe-2026-11-28-1550211|Both Teams Score|Yes",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0800-x500, loca-th-1820-x500)"
+  },
+  {
+   "clave": "repe-2026-11-28-1552831|Both Teams Score|Yes",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0300-lista-ambos, loca-th-1640-escudos)"
   },
   {
    "clave": "repe-2026-11-28-1552828|Away Player Shots|Matthieu Udol - 2",
@@ -240,8 +243,8 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-1700-x100, loca-th-1900-x100)"
   },
   {
-   "clave": "repe-2026-11-28-1552834|Double Chance|Draw/Away",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1820-x500, loca-th-2000-x50)"
+   "clave": "repe-2026-11-28-1552831|Away Player Shots|Gessime Yassine - 2",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1640-escudos, loca-th-2020-hora)"
   },
   {
    "clave": "repe-2026-11-28-1552832|Total - Home|Over 0.5",
@@ -252,24 +255,20 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1740-x50, loca-th-2000-x50)"
   },
   {
-   "clave": "repe-2026-11-28-1552831|Away Player Shots|Gessime Yassine - 2",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1640-escudos, loca-th-2020-hora)"
+   "clave": "repe-2026-11-28-1552834|Double Chance|Draw/Away",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1820-x500, loca-th-2000-x50)"
   },
   {
    "clave": "repe-2026-11-28-1552832|Double Chance|Home/Draw",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0700-tapados, loca-th-1740-x50, loca-th-2000-x50)"
   },
   {
-   "clave": "repe-2026-11-28-1570470|Total - Away|Over 0.5",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0800-x500, loca-th-1740-x50, loca-th-1820-x500)"
-  },
-  {
    "clave": "repe-2026-11-28-1552831|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0800-x500, combi-500, loca-th-1640-escudos)"
   },
   {
-   "clave": "repe-2026-11-28-1570469|Total - Home|Over 0.5",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (pick-seguro, loca-th-1100-escudos, combi-tres)"
+   "clave": "repe-2026-11-28-1570470|Total - Away|Over 0.5",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0800-x500, loca-th-1740-x50, loca-th-1820-x500)"
   },
   {
    "clave": "repe-2026-11-28-1570470|Both Teams Score|Yes",
@@ -284,16 +283,16 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1520-reto, loca-th-1820-x500, loca-th-1840-x1000)"
   },
   {
-   "clave": "repe-2026-11-28-1552835|Anytime Goal Scorer|Senny Mayulu",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1700-x100, loca-th-1820-x500, loca-th-1840-x1000)"
-  },
-  {
    "clave": "repe-2026-11-28-1552835|Total - Away|Over 0.5",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1700-x100, loca-th-1740-x50, loca-th-1900-x100)"
   },
   {
    "clave": "repe-2026-11-28-1570470|Away Player Shots|Lucas Boye - 2",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1700-x100, loca-th-1900-x100, loca-th-2000-x50)"
+  },
+  {
+   "clave": "repe-2026-11-28-1552835|Anytime Goal Scorer|Senny Mayulu",
+   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1700-x100, loca-th-1820-x500, loca-th-1840-x1000)"
   },
   {
    "clave": "repe-2026-11-28-1552834|Anytime Goal Scorer|Elye Wahi",
@@ -304,12 +303,39 @@
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-1840-x1000, loca-th-1900-x100, loca-th-2020-hora)"
   },
   {
+   "clave": "prensa-1550207-GustavoVarela",
+   "t": "📰 AS Roma–Monza: «Gustavo Varela descarta la opción de dejar ahora el Monza» (Diario AS) · tenemos 3 post(s) de este partido: loca-th-noche-2200-lista-ambos, ganadores-resto, pick-seguro-4"
+  },
+  {
+   "clave": "prensa-1575232-2b2075e7",
+   "t": "📰 1899 Hoffenheim–FC Augsburg: «Hoffenheim-Augsburg: el Hoffenheim llega con seis bajas» (Tu Futbolero) · tenemos 1 post(s) de este partido: ganadores-resto"
+  },
+  {
+   "clave": "prensa-1552833-b702042b",
+   "t": "📰 Lyon–Monaco: «Monaco viaja a Lyon con bajas y dudas sobre Paris Brunner» (Tu Futbolero) · tenemos 1 post(s) de este partido: ganadores-resto"
+  },
+  {
    "clave": "api-2026-11-28",
-   "t": "📉 Quedan 495 de 7500 peticiones a la API de fútbol hoy: si se acaban, el bot no tendrá cuotas ni resultados hasta mañana"
+   "t": "📉 Quedan 316 de 7500 peticiones a la API de fútbol hoy: si se acaban, el bot no tendrá cuotas ni resultados hasta mañana"
   }
  ],
- "revisado": "2026-11-28T21:09",
+ "revisado": "2026-11-28T21:40",
  "historial": [
+  {
+   "hora": "2026-11-28T21:40",
+   "t": "📰 AS Roma–Monza: «Gustavo Varela descarta la opción de dejar ahora el Monza» (Diario AS) · tenemos 3 post(s) de este partido: loca-th-noche-2200-lista-ambos, ganadores-resto, pick-seguro-4",
+   "k": "prensa-1550207-GustavoVarela"
+  },
+  {
+   "hora": "2026-11-28T21:40",
+   "t": "📰 1899 Hoffenheim–FC Augsburg: «Hoffenheim-Augsburg: el Hoffenheim llega con seis bajas» (Tu Futbolero) · tenemos 1 post(s) de este partido: ganadores-resto",
+   "k": "prensa-1575232-2b2075e7"
+  },
+  {
+   "hora": "2026-11-28T21:40",
+   "t": "📰 Lyon–Monaco: «Monaco viaja a Lyon con bajas y dudas sobre Paris Brunner» (Tu Futbolero) · tenemos 1 post(s) de este partido: ganadores-resto",
+   "k": "prensa-1552833-b702042b"
+  },
   {
    "hora": "2026-11-28T21:09",
    "t": "📉 Quedan 495 de 7500 peticiones a la API de fútbol hoy: si se acaban, el bot no tendrá cuotas ni resultados hasta mañana",
@@ -594,21 +620,6 @@
    "hora": "2026-11-28T00:03",
    "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1740-x50, loca-th-2000-x50)",
    "k": "repe-2026-11-28-1552835|Home Player Shots|Achraf Hakimi - 2"
-  },
-  {
-   "hora": "2026-11-28T00:03",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1640-escudos, loca-th-2020-hora)",
-   "k": "repe-2026-11-28-1552831|Away Player Shots|Gessime Yassine - 2"
-  },
-  {
-   "hora": "2026-11-28T00:03",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0600-hora, loca-th-1820-x500, loca-th-2000-x50)",
-   "k": "repe-2026-11-28-1552834|Double Chance|Draw/Away"
-  },
-  {
-   "hora": "2026-11-28T00:03",
-   "t": "🔁 28/11: el mismo pronóstico en 3 posts (loca-th-0700-tapados, loca-th-1740-x50, loca-th-2000-x50)",
-   "k": "repe-2026-11-28-1552832|Double Chance|Home/Draw"
   }
  ]
 }

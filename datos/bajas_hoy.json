@@ -16725,12 +16725,6 @@
    },
    {
     "equipo": 746,
-    "jugador": "O. Alderete",
-    "tipo": "Questionable",
-    "motivo": "Illness"
-   },
-   {
-    "equipo": 746,
     "jugador": "D. Methalie",
     "tipo": "Questionable",
     "motivo": "Illness"
@@ -16894,9 +16888,9 @@
     "motivo": "Thigh Injury"
    },
    {
-    "equipo": 94,
-    "jugador": "M. Camara",
-    "tipo": "Missing Fixture",
+    "equipo": 96,
+    "jugador": "R. Nicolaisen",
+    "tipo": "Questionable",
     "motivo": "Injury"
    },
    {
@@ -16916,6 +16910,18 @@
     "jugador": "A. Thomasson",
     "tipo": "Missing Fixture",
     "motivo": "Red Card"
+   },
+   {
+    "equipo": 94,
+    "jugador": "M. Camara",
+    "tipo": "Questionable",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 94,
+    "jugador": "B. Samba",
+    "tipo": "Questionable",
+    "motivo": "Injury"
    }
   ],
   "1608381": [],
@@ -17055,16 +17061,16 @@
     "jugador": "C. Ngonge",
     "tipo": "Missing Fixture",
     "motivo": "Injury"
-   },
-   {
-    "equipo": 1579,
-    "jugador": "E. Akinsanmiro",
-    "tipo": "Questionable",
-    "motivo": "Leg Injury"
    }
   ],
   "1570038": [],
   "1570464": [
+   {
+    "equipo": 538,
+    "jugador": "A. Faye",
+    "tipo": "Missing Fixture",
+    "motivo": "Illness"
+   },
    {
     "equipo": 538,
     "jugador": "H. Gonzalez",
@@ -17082,12 +17088,6 @@
     "jugador": "M. Roman",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 538,
-    "jugador": "B. Iglesias",
-    "tipo": "Questionable",
-    "motivo": "Calf Injury"
    },
    {
     "equipo": 533,
@@ -17423,7 +17423,7 @@
    }
   ]
  },
- "ultima": "2026-11-28T20:58:02.212988+01:00",
+ "ultima": "2026-11-28T21:39:05.430335+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",

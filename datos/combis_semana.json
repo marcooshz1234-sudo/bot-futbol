@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-28",
- "generado": "2026-11-28T20:51+01:00",
+ "generado": "2026-11-28T21:39+01:00",
  "rango": [
   "2026-11-28",
   "2026-12-01"
@@ -670,9 +670,21 @@
      "lado": "V",
      "partido": "Arsenal–Manchester City",
      "hora": "2026-11-29T17:30"
+    },
+    {
+     "sel": "1557477|Goalkeeper Saves|Gianluigi Donnarumma - 2",
+     "texto": "Gianluigi Donnarumma: 2+ paradas",
+     "cuota": 1.5,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 4,06 por 90' (6-2-7-4-1)",
+     "nota": 0.8375000000000001,
+     "equipo": "Manchester City",
+     "lado": "V",
+     "partido": "Arsenal–Manchester City",
+     "hora": "2026-11-29T17:30"
     }
    ],
-   "cuota": 4.29
+   "cuota": 6.43
   },
   {
    "equipo": "Sassuolo",
@@ -1154,6 +1166,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/35.png"
     },
     {
+     "sel": "1557478|Goalkeeper Saves|Bart Verbruggen - 2",
+     "texto": "Bart Verbruggen: 2+ paradas",
+     "cuota": 1.44,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 3,23 por 90' (1-5-2-4-4)",
+     "nota": 0.8025714285714286,
+     "equipo": "Brighton",
+     "lado": "L",
+     "partido": "Brighton–Newcastle",
+     "hora": "2026-11-29T15:05",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/51.png",
+     "logo_v": "https://media.api-sports.io/football/teams/34.png"
+    },
+    {
      "sel": "1575233|Away Player Shots|Brajan Gruda - 2",
      "texto": "Brajan Gruda: 2+ remates",
      "cuota": 1.57,
@@ -1184,12 +1211,13 @@
      "logo_v": "https://media.api-sports.io/football/teams/529.png"
     },
     {
-     "sel": "1557477|Away Player Shots Total|Over 11.5",
-     "texto": "Manchester City: más de 11,5 remates",
-     "cuota": 1.73,
-     "p": 0.9,
-     "dato": "ha superado la línea en 8 de sus últimos 8 (17-15-13-21-12-12-15-14)",
-     "nota": 1.1325,
+     "sel": "1557477|Goalkeeper Saves|Gianluigi Donnarumma - 2",
+     "texto": "Gianluigi Donnarumma: 2+ paradas",
+     "cuota": 1.5,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 4,06 por 90' (6-2-7-4-1)",
+     "nota": 0.8375000000000001,
+     "equipo": "Manchester City",
      "lado": "V",
      "partido": "Arsenal–Manchester City",
      "hora": "2026-11-29T17:30",
@@ -1198,25 +1226,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/50.png"
     },
     {
-     "sel": "1575232|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte",
+     "sel": "1550207|Away Player Shots|Samuele Birindelli - 1",
+     "texto": "Samuele Birindelli: 1+ remate",
      "cuota": 1.5,
-     "p": 0.804,
-     "dato": "3,0 goles de media en las segundas partes de los dos",
-     "nota": 0.9066834288232388,
-     "partido": "1899 Hoffenheim–FC Augsburg",
-     "hora": "2026-11-29T17:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/167.png",
-     "logo_v": "https://media.api-sports.io/football/teams/170.png"
-    },
-    {
-     "sel": "1550207|Away Corners Over/Under|Over 2.5",
-     "texto": "Monza: más de 2,5 córners",
-     "cuota": 1.8,
-     "p": 0.769,
-     "dato": "Monza saca 4,6 córners y el rival concede 3,5",
-     "nota": 0.901350340310982,
+     "p": 0.88,
+     "dato": "cumple 6/6 siendo titular · 1,35 por 90' (1-1-1-1-2-2)",
+     "nota": 1.04,
+     "equipo": "Monza",
+     "lado": "V",
      "partido": "AS Roma–Monza",
      "hora": "2026-11-29T18:00",
      "liga": "Serie A",
@@ -1267,8 +1284,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/91.png"
     }
    ],
-   "cuota": 524.07,
-   "prob": 0.091
+   "cuota": 363.52,
+   "prob": 0.084
   },
   {
    "patas": [
@@ -1578,8 +1595,8 @@
     {
      "sel": "1550207|Results/Both Teams Score|Home/Yes",
      "texto": "Gana AS Roma y ambos marcan",
-     "cuota": 2.4,
-     "p": 0.397,
+     "cuota": 2.38,
+     "p": 0.399,
      "dato": "AS Roma: VVVVD en sus últimos 5 · se esperan 2,6-1,2 goles",
      "partido": "AS Roma–Monza",
      "hora": "2026-11-29T18:00",
@@ -1588,7 +1605,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/1579.png"
     }
    ],
-   "cuota": 12.6,
+   "cuota": 12.5,
    "prob": 0.059,
    "clave": "tema-2026-11-29-gana_btts",
    "titulo": "⚽🏆 Gana y ambos marcan · domingo",
@@ -1697,17 +1714,30 @@
      "logo_v": "https://media.api-sports.io/football/teams/502.png"
     },
     {
-     "sel": "1570472|Total - Away|Over 0.5",
-     "texto": "Osasuna marca",
-     "cuota": 1.5,
-     "p": 0.782,
-     "dato": "marca 1,9 por partido y el rival encaja 2,0",
-     "nota": 0.8692453263268294,
-     "partido": "Valencia–Osasuna",
-     "hora": "2026-11-29T14:00",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/532.png",
-     "logo_v": "https://media.api-sports.io/football/teams/727.png"
+     "sel": "1550213|Home Corners Over/Under|Over 3.5",
+     "texto": "Sassuolo: más de 3,5 córners",
+     "cuota": 1.73,
+     "p": 0.713,
+     "dato": "Sassuolo saca 4,0 córners y el rival concede 5,7",
+     "nota": 0.784273824618047,
+     "partido": "Sassuolo–Napoli",
+     "hora": "2026-11-29T15:00",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/488.png",
+     "logo_v": "https://media.api-sports.io/football/teams/492.png"
+    },
+    {
+     "sel": "1557478|Match Winner|Home",
+     "texto": "Gana Brighton",
+     "cuota": 1.57,
+     "p": 0.886,
+     "dato": "Brighton: VVVVV en sus últimos 5",
+     "nota": 1.0673103716238233,
+     "partido": "Brighton–Newcastle",
+     "hora": "2026-11-29T15:05",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/51.png",
+     "logo_v": "https://media.api-sports.io/football/teams/34.png"
     },
     {
      "sel": "1557479|Player Fouls Committed|Mohamed Belloumi - 1",
@@ -1755,21 +1785,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/35.png"
     },
     {
-     "sel": "1557478|Goalkeeper Saves|Bart Verbruggen - 2",
-     "texto": "Bart Verbruggen: 2+ paradas",
-     "cuota": 1.44,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 3,23 por 90' (1-5-2-4-4)",
-     "nota": 0.8025714285714286,
-     "equipo": "Brighton",
-     "lado": "L",
-     "partido": "Brighton–Newcastle",
-     "hora": "2026-11-29T15:05",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/51.png",
-     "logo_v": "https://media.api-sports.io/football/teams/34.png"
-    },
-    {
      "sel": "1575233|Player Fouls Committed|Willi Orban - 1",
      "texto": "Willi Orban: comete 1+ falta",
      "cuota": 1.67,
@@ -1815,26 +1830,13 @@
      "logo_v": "https://media.api-sports.io/football/teams/94.png"
     },
     {
-     "sel": "1575232|Both Teams Score|Yes",
-     "texto": "Ambos marcan (1899 Hoffenheim–FC Augsburg)",
-     "cuota": 1.33,
-     "p": 0.753,
-     "dato": "marcan los dos en el 75% y el 83% de sus partidos",
-     "nota": 0.753,
-     "partido": "1899 Hoffenheim–FC Augsburg",
-     "hora": "2026-11-29T17:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/167.png",
-     "logo_v": "https://media.api-sports.io/football/teams/170.png",
-     "solo_todo": true
-    },
-    {
-     "sel": "1557477|Shots.1x2|Home",
-     "texto": "Arsenal remata más que el rival",
-     "cuota": 1.8,
-     "p": 0.737,
-     "dato": "14,9 remates de Arsenal contra 11,2 del rival",
-     "nota": 0.8409505966755346,
+     "sel": "1557477|Away Player Shots Total|Over 11.5",
+     "texto": "Manchester City: más de 11,5 remates",
+     "cuota": 1.73,
+     "p": 0.9,
+     "dato": "ha superado la línea en 8 de sus últimos 8 (17-15-13-21-12-12-15-14)",
+     "nota": 1.1325,
+     "lado": "V",
      "partido": "Arsenal–Manchester City",
      "hora": "2026-11-29T17:30",
      "liga": "Premier League",
@@ -1842,14 +1844,25 @@
      "logo_v": "https://media.api-sports.io/football/teams/50.png"
     },
     {
-     "sel": "1550207|Away Player Shots|Samuele Birindelli - 1",
-     "texto": "Samuele Birindelli: 1+ remate",
+     "sel": "1575232|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte",
      "cuota": 1.5,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 1,35 por 90' (1-1-1-1-2-2)",
-     "nota": 1.04,
-     "equipo": "Monza",
-     "lado": "V",
+     "p": 0.804,
+     "dato": "3,0 goles de media en las segundas partes de los dos",
+     "nota": 0.9066834288232388,
+     "partido": "1899 Hoffenheim–FC Augsburg",
+     "hora": "2026-11-29T17:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/167.png",
+     "logo_v": "https://media.api-sports.io/football/teams/170.png"
+    },
+    {
+     "sel": "1550207|Total - Away|Over 0.5",
+     "texto": "Monza marca",
+     "cuota": 1.73,
+     "p": 0.85,
+     "dato": "marca 1,3 por partido y el rival encaja 1,1",
+     "nota": 1.0395372104538978,
      "partido": "AS Roma–Monza",
      "hora": "2026-11-29T18:00",
      "liga": "Serie A",
@@ -1885,8 +1898,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/91.png"
     }
    ],
-   "cuota": 367.82,
-   "prob": 0.042
+   "cuota": 578.22,
+   "prob": 0.056
   },
   {
    "clave": "todo-2026-11-29-3",
@@ -1908,30 +1921,17 @@
      "logo_v": "https://media.api-sports.io/football/teams/727.png"
     },
     {
-     "sel": "1550213|Home Corners Over/Under|Over 3.5",
-     "texto": "Sassuolo: más de 3,5 córners",
-     "cuota": 1.73,
-     "p": 0.713,
-     "dato": "Sassuolo saca 4,0 córners y el rival concede 5,7",
-     "nota": 0.784273824618047,
+     "sel": "1550213|Total - Home|Over 0.5",
+     "texto": "Sassuolo marca",
+     "cuota": 1.4,
+     "p": 0.859,
+     "dato": "marca 1,8 por partido y el rival encaja 1,9",
+     "nota": 0.9402781117062012,
      "partido": "Sassuolo–Napoli",
      "hora": "2026-11-29T15:00",
      "liga": "Serie A",
      "logo_l": "https://media.api-sports.io/football/teams/488.png",
      "logo_v": "https://media.api-sports.io/football/teams/492.png"
-    },
-    {
-     "sel": "1557478|Match Winner|Home",
-     "texto": "Gana Brighton",
-     "cuota": 1.57,
-     "p": 0.886,
-     "dato": "Brighton: VVVVV en sus últimos 5",
-     "nota": 1.0673103716238233,
-     "partido": "Brighton–Newcastle",
-     "hora": "2026-11-29T15:05",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/51.png",
-     "logo_v": "https://media.api-sports.io/football/teams/34.png"
     },
     {
      "sel": "1557479|Player Fouls Committed|Anan Khalaili - 1",
@@ -1947,6 +1947,21 @@
      "liga": "Premier League",
      "logo_l": "https://media.api-sports.io/football/teams/52.png",
      "logo_v": "https://media.api-sports.io/football/teams/64.png"
+    },
+    {
+     "sel": "1557478|Player Fouls Committed|Maxim De Cuyper - 1",
+     "texto": "Maxim De Cuyper: comete 1+ falta",
+     "cuota": 1.44,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,39 por 90' (1-1-1-1-0-4)",
+     "nota": 0.864,
+     "equipo": "Brighton",
+     "lado": "L",
+     "partido": "Brighton–Newcastle",
+     "hora": "2026-11-29T15:05",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/51.png",
+     "logo_v": "https://media.api-sports.io/football/teams/34.png"
     },
     {
      "sel": "1557481|Away Player Shots|Evanilson - 2",
@@ -2050,12 +2065,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/170.png"
     },
     {
-     "sel": "1550207|Total - Away|Over 0.5",
-     "texto": "Monza marca",
-     "cuota": 1.73,
-     "p": 0.85,
-     "dato": "marca 1,3 por partido y el rival encaja 1,1",
-     "nota": 1.0395372104538978,
+     "sel": "1550207|Player Fouls Committed|Andrea Carboni - 1",
+     "texto": "Andrea Carboni: comete 1+ falta",
+     "cuota": 1.44,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,19 por 90' (2-1-1-2-0-1)",
+     "nota": 0.864,
+     "equipo": "Monza",
+     "lado": "V",
      "partido": "AS Roma–Monza",
      "hora": "2026-11-29T18:00",
      "liga": "Serie A",
@@ -2092,8 +2109,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/496.png"
     }
    ],
-   "cuota": 705.29,
-   "prob": 0.032
+   "cuota": 435.74,
+   "prob": 0.033
   }
  ],
  "otras_ligas": false,

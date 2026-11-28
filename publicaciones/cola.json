@@ -2600,5 +2600,33 @@
     "requiere_ok": true,
     "aviso": "💚 ¡VERDE! Te lo paso porque lleva varias patas del mismo partido y su cuota no está confirmada. Sale cuando le des a Publicar.",
     "solo_redes": true
+  },
+  {
+    "id": "2026-11-28-info-top-1570038-a347a",
+    "fecha": "2026-11-28T21:39",
+    "texto": "⚠️ INFORMACIÓN TOP\n\n⚽ Cadiz – Cordoba · mañana 18:30\n\n🚨 Cadiz: sale con un once alternativo\n\n👨‍💻 Muere a los 51 años Paco Sauco, excapitán del filial y entrenador de los veteranos del Cádiz CF\n👨‍💻 Duelo de filiales en El Rosal: Cádiz CF Mirandilla-Betis C\n\n🍀 Gana Cordoba @2,20\n\n📉 Estas cuotas bajan rápido: entrad pronto 🔥",
+    "foto": null,
+    "origen": "info_top",
+    "directo": true,
+    "requiere_ok": true,
+    "aviso": "🕵️ Posible INFORMACIÓN TOP (2 medios):\n• lavozdelsur.es: Muere a los 51 años Paco Sauco, excapitán del filial y entrenador de los veteranos del Cádiz CF\n  https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOXNzSG52eFpRcGFxZ0UwTlEwWTJpWDZ0Si1uLXdyZEh1a3VOeEhHa3FHTG5JMGhuLVZaRUlsRVpxaUJaZmg0VWxpdkpTdVVLOUJQUmpPbGE5NnBhTlJpcU9FcldVaWtpNk51WDJHTTdXengzeWhZR2Y5a1huOUVfMWZsYVRlbnM1bnZhWU9kQll6XzdqcU94aTFlVS1vTXoxd0VMNDZfTG53U0pwb0JocGRDNnh2QVJpR3l6dkozRVpIaTlibTFXZHF2VERjM2JP?oc=5\n• Diario de Cádiz: Duelo de filiales en El Rosal: Cádiz CF Mirandilla-Betis C\n  https://news.google.com/rss/articles/CBMijAFBVV95cUxOM3RLUDBSdEJscXdPTEFCU254YVVfQmJqN25zY1d4MzRSVnNTaU93YW0xdFYyaEFtY1laaUFaTkMycEZWM0s2N1FPM2Y3TWRsUE52Q0xjQ3VlNnFaNWI5WHhqVnVfMDluNzh4OEhkdzQ1clJwRkktbE9vZnlBMGFHMmM4S2hPRFRmZkcyaw?oc=5\n\nRevisa que la noticia es buena y reescribe las líneas si hace falta (las 👨‍💻 son los titulares). Solo sale si le das a Publicar.",
+    "sel": [
+      "1570038|Match Winner|Away"
+    ],
+    "cuotas": [
+      2.2
+    ],
+    "partido_id": 1570038,
+    "tarjeta": {
+      "local": "Cadiz",
+      "visitante": "Cordoba",
+      "id_l": 724,
+      "id_v": 713,
+      "logo_l": "https://media.api-sports.io/football/teams/724.png",
+      "logo_v": "https://media.api-sports.io/football/teams/713.png",
+      "fecha": "2026-11-29T18:30",
+      "liga": "Segunda División"
+    },
+    "caducada": "fuera de las 5 grandes"
   }
 ]
