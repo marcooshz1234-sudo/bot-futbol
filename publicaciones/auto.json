@@ -17018,15 +17018,13 @@
   {
     "id": "2026-11-28-loca-th-1400-escudos",
     "fecha": "2026-11-28T14:00",
-    "texto": "💥 COMBI ANGERS – LENS 💥\n\n⭐ Angers vs Lens · 17:15\n\n✅ 🎳 Matthieu Udol: 2+ tiros\n✅ 🎳 Amine Sbai: 2+ tiros\n✅ 🛡️ Angers o empate\n\n🎯 CUOTA 7,39 aprox. 💎 10€ → 73,90€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "💥 COMBI ANGERS – LENS 💥\n\n⭐ Angers vs Lens · 17:15\n\n✅ 🎳 Matthieu Udol: 2+ tiros\n✅ 🛡️ Angers o empate\n\n🎯 CUOTA 4,35 aprox. 💎 10€ → 73,90€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "sel": [
       "1552828|Away Player Shots|Matthieu Udol - 2",
-      "1552828|Home Player Shots|Amine Sbai - 2",
       "1552828|Double Chance|Home/Draw"
     ],
     "cuotas": [
       1.91,
-      1.62,
       2.15
     ],
     "solo_redes": true,
@@ -17047,7 +17045,8 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-28T12:32"
+    "cuotas_revisadas": "2026-11-28T12:32",
+    "revisado_alineaciones": "2026-11-28T16:55"
   },
   {
     "id": "2026-11-28-loca-th-1420-escudos",

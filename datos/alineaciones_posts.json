@@ -1,12 +1,5 @@
 {
  "avisados": [
-  "clave|2026-11-05-ganadores-conference-bis|1636465|Match Winner|Home|Etienne Camara",
-  "clave|2026-11-05-ganadores-conference|1636383|Match Winner|Home|C. De Ketelaere",
-  "clave|2026-11-05-ganadores-conference|1636383|Match Winner|Home|N. Krstović",
-  "clave|2026-11-05-ganadores-conference|1636383|Match Winner|Home|N. Zalewski",
-  "clave|2026-11-05-ganadores-conference|1636408|Match Winner|Home|Robert",
-  "clave|2026-11-05-ganadores-conference|1636456|Match Winner|Home|L. Camara",
-  "clave|2026-11-05-ganadores-conference|1636465|Match Winner|Home|Etienne Camara",
   "clave|2026-11-05-ganadores-europa|1636208|Match Winner|Home|C. Pulišić",
   "clave|2026-11-05-ganadores-europa|1636208|Match Winner|Home|Diego Moreira",
   "clave|2026-11-05-ganadores-europa|1636229|Match Winner|Home|G. Prestianni",
@@ -464,6 +457,7 @@
   "clave|2026-11-27-loca-th-1630-escudos|1550216|Total - Away|Over 1.5|Juan Miranda",
   "clave|2026-11-27-loca-th-1630-escudos|1550216|Total - Away|Over 1.5|N. Cambiaghi",
   "clave|2026-11-28-combi-tres|1570469|Total - Home|Over 0.5|Carlos Dotor",
+  "clave|2026-11-28-escalera|1552828|Total - Home|Over 0.5|A. Sbaï",
   "clave|2026-11-28-estrella-1575235|1575235|Away Player Shots|Dayot Upamecano - 1|H. Kane",
   "clave|2026-11-28-estrella-1575235|1575235|Away Player Shots|Dayot Upamecano - 1|M. Olise",
   "clave|2026-11-28-estrella-1575235|1575235|Away Player Shots|Joshua Kimmich - 1|H. Kane",
@@ -471,18 +465,24 @@
   "clave|2026-11-28-estrella-1575235|1575235|Home Player Shots|Zakaria El Ouahdi - 1|M. Muheim",
   "clave|2026-11-28-ganadores-laliga|1570469|Match Winner|Away|Robert Navarro",
   "clave|2026-11-28-ganadores-premier|1557483|Match Winner|Home|A. Stach",
+  "clave|2026-11-28-ganadores-resto|1552828|Match Winner|Away|R. Aguilar",
   "clave|2026-11-28-ganadores-resto|1575234|Match Winner|Home|Lee Jae-Sung",
   "clave|2026-11-28-ganadores-resto|1575235|Match Winner|Away|H. Kane",
   "clave|2026-11-28-ganadores-resto|1575235|Match Winner|Away|M. Olise",
   "clave|2026-11-28-loca-th-0020-x100|1575235|Away Player Shots|Dayot Upamecano - 1|H. Kane",
   "clave|2026-11-28-loca-th-0020-x100|1575235|Away Player Shots|Dayot Upamecano - 1|M. Olise",
+  "clave|2026-11-28-loca-th-0400-duelo|1552828|Away Player Shots|Matthieu Udol - 2|R. Aguilar",
+  "clave|2026-11-28-loca-th-0400-duelo|1552828|Home Player Shots|Amine Sbai - 2|A. Sbaï",
   "clave|2026-11-28-loca-th-0500-x50|1550210|Away Player Shots|Enrico Del Prato - 1|E. Valeri",
   "clave|2026-11-28-loca-th-0500-x50|1575235|Total - Home|Over 0.5|M. Muheim",
   "clave|2026-11-28-loca-th-1100-escudos|1570469|Total - Home|Over 0.5|Carlos Dotor",
+  "clave|2026-11-28-loca-th-1400-escudos|1552828|Away Player Shots|Matthieu Udol - 2|R. Aguilar",
   "clave|2026-11-28-loca-th-1540-tiros|1570469|Away Player Shots|Alex Berenguer - 2|Robert Navarro",
   "clave|2026-11-28-loca-th-noche-2100-x100|1550210|Away Player Shots|Enrico Del Prato - 1|E. Valeri",
   "clave|2026-11-28-loca-th-noche-2100-x100|1575235|Away Player Shots|Dayot Upamecano - 1|H. Kane",
   "clave|2026-11-28-loca-th-noche-2100-x100|1575235|Away Player Shots|Dayot Upamecano - 1|M. Olise",
+  "clave|2026-11-28-loca-th-noche-2230-duelo|1552828|Away Player Shots|Matthieu Udol - 2|R. Aguilar",
+  "clave|2026-11-28-loca-th-noche-2230-duelo|1552828|Home Player Shots|Amine Sbai - 2|A. Sbaï",
   "clave|2026-11-28-pick-seguro-4|1557483|Match Winner|Home|A. Stach",
   "clave|2026-11-28-pick-seguro|1570469|Total - Home|Over 0.5|Carlos Dotor",
   "clave|2026-11-28-picks-manana|1570469|Away Player Shots|Nico Williams - 2|Robert Navarro",
@@ -7874,13 +7874,172 @@
    }
   },
   "1552828": {
-   "hora": "2026-11-28T16:44:10.846365+01:00",
+   "hora": "2026-11-28T16:55:55.954415+01:00",
+   "xi": [
+    "Anthony Lopes",
+    "L. Rao-Lisoa",
+    "E. Biumla",
+    "O. Camara",
+    "J. Lefort",
+    "J. Kalulu",
+    "Y. Belkhdim",
+    "H. Belkebla",
+    "B. van den Boomen",
+    "A. El Ouazzani",
+    "P. Peter",
+    "R. Risser",
+    "J. Chávez",
+    "S. Baidoo",
+    "J. Todibo",
+    "Saud Abdulhamid",
+    "M. Cuisance",
+    "A. Haidara",
+    "M. Udol",
+    "M. Soares",
+    "A. Sima",
+    "F. Thauvin"
+   ],
+   "banquillo": [
+    "J. Allevinah",
+    "C. Arcus",
+    "M. Gernigon",
+    "Marius Louër",
+    "L. Mouton",
+    "Oumar Pona",
+    "A. Sbaï",
+    "Djibirin Harouna",
+    "Mamadou Diallo",
+    "F. Ivanović",
+    "J. Kadile",
+    "M. Skóraś",
+    "F. Sotoca",
+    "Y. Titraoui",
+    "J. Gradit",
+    "M. Gorgelin",
+    "I. Ganiou",
+    "A. Bulatović"
+   ],
+   "equipos": {
+    "77": [
+     {
+      "n": "Anthony Lopes",
+      "pos": "G"
+     },
+     {
+      "n": "L. Rao-Lisoa",
+      "pos": "D"
+     },
+     {
+      "n": "E. Biumla",
+      "pos": "D"
+     },
+     {
+      "n": "O. Camara",
+      "pos": "D"
+     },
+     {
+      "n": "J. Lefort",
+      "pos": "D"
+     },
+     {
+      "n": "J. Kalulu",
+      "pos": "D"
+     },
+     {
+      "n": "Y. Belkhdim",
+      "pos": "M"
+     },
+     {
+      "n": "H. Belkebla",
+      "pos": "M"
+     },
+     {
+      "n": "B. van den Boomen",
+      "pos": "M"
+     },
+     {
+      "n": "A. El Ouazzani",
+      "pos": "F"
+     },
+     {
+      "n": "P. Peter",
+      "pos": "F"
+     }
+    ],
+    "116": [
+     {
+      "n": "R. Risser",
+      "pos": "G"
+     },
+     {
+      "n": "J. Chávez",
+      "pos": "D"
+     },
+     {
+      "n": "S. Baidoo",
+      "pos": "D"
+     },
+     {
+      "n": "J. Todibo",
+      "pos": "D"
+     },
+     {
+      "n": "Saud Abdulhamid",
+      "pos": "M"
+     },
+     {
+      "n": "M. Cuisance",
+      "pos": "M"
+     },
+     {
+      "n": "A. Haidara",
+      "pos": "M"
+     },
+     {
+      "n": "M. Udol",
+      "pos": "M"
+     },
+     {
+      "n": "M. Soares",
+      "pos": "M"
+     },
+     {
+      "n": "A. Sima",
+      "pos": "M"
+     },
+     {
+      "n": "F. Thauvin",
+      "pos": "F"
+     }
+    ]
+   }
+  },
+  "1550214": {
+   "hora": "2026-11-28T16:55:55.954415+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
-  "1550214": {
-   "hora": "2026-11-28T16:44:10.846365+01:00",
+  "1575231": {
+   "hora": "2026-11-28T16:55:55.954415+01:00",
+   "xi": [],
+   "banquillo": [],
+   "equipos": {}
+  },
+  "1557482": {
+   "hora": "2026-11-28T16:55:55.954415+01:00",
+   "xi": [],
+   "banquillo": [],
+   "equipos": {}
+  },
+  "1570466": {
+   "hora": "2026-11-28T16:55:55.954415+01:00",
+   "xi": [],
+   "banquillo": [],
+   "equipos": {}
+  },
+  "1570039": {
+   "hora": "2026-11-28T16:55:55.954415+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
