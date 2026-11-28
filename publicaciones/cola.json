@@ -2628,5 +2628,16 @@
       "liga": "Segunda División"
     },
     "caducada": "fuera de las 5 grandes"
+  },
+  {
+    "id": "2026-11-28-verde-auto-2026-11-28-escalera",
+    "fecha": "2026-11-28T21:59",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Angers marca\n✅ Le Mans marca\n\n📈 Cuota @2,16\n💶 20,00€ → 43,20€\n\nA cobrar señores 🤑",
+    "foto": "publicaciones/media/2026-11-28-verde-auto-2026-11-28-escalera.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-28-escalera"
   }
 ]
