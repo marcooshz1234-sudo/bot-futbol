@@ -18042,7 +18042,7 @@
       "1570470|Total - Away|Over 0.5"
     ],
     "cuotas": [
-      1.91,
+      1.83,
       1.91,
       2.0,
       1.95,
@@ -18059,7 +18059,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-28T06:34"
   },
   {
     "id": "2026-11-28-loca-th-0900-lista-corners",
