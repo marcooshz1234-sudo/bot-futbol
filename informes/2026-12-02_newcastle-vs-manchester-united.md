@@ -1,7 +1,7 @@
 # Newcastle – Manchester United
 **Premier League** · Regular Season - 13 · 02/12/2026 21:15 (hora España) · St. James' Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Actualizadas: 28/11 08:45_
@@ -53,53 +53,53 @@ _Actualizadas: 28/11 08:45_
 ## Estadísticas de equipo
 | | Newcastle (total) | Newcastle en casa | Manchester United (total) | Manchester United fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 7 | 17 | 9 |
-| Forma (últimos 5) | EEDDV | EDDVE | EDEVD | EDDDE |
-| Balance | 5V 4E 5D | 2V 3E 2D | 3V 6E 8D | 0V 4E 5D |
-| Goles a favor / partido | 1,43 | 1,57 | 1,53 | 0,78 |
-| Goles en contra / partido | 1,64 | 1,57 | 2,12 | 2,22 |
-| Goles a favor 1ª parte | 0,36 | 0,71 | 0,53 | 0,11 |
-| Goles a favor 2ª parte | 1,07 | 0,86 | 1,00 | 0,67 |
-| Goles en contra 1ª parte | 0,79 | 0,71 | 0,88 | 0,78 |
-| Goles en contra 2ª parte | 0,86 | 0,86 | 1,24 | 1,44 |
+| Partidos analizados | 14 | 7 | 18 | 9 |
+| Forma (últimos 5) | EEDDV | EDDVE | DEDEV | EDDDE |
+| Balance | 5V 4E 5D | 2V 3E 2D | 3V 6E 9D | 0V 4E 5D |
+| Goles a favor / partido | 1,43 | 1,57 | 1,44 | 0,78 |
+| Goles en contra / partido | 1,64 | 1,57 | 2,22 | 2,22 |
+| Goles a favor 1ª parte | 0,36 | 0,71 | 0,50 | 0,11 |
+| Goles a favor 2ª parte | 1,07 | 0,86 | 0,94 | 0,67 |
+| Goles en contra 1ª parte | 0,79 | 0,71 | 0,94 | 0,78 |
+| Goles en contra 2ª parte | 0,86 | 0,86 | 1,28 | 1,44 |
 | Más de 1,5 goles | 79% | 71% | 94% | 100% |
-| Más de 2,5 goles | 57% | 71% | 59% | 44% |
-| Más de 3,5 goles | 50% | 57% | 53% | 44% |
-| Ambos marcan | 64% | 71% | 59% | 56% |
+| Más de 2,5 goles | 57% | 71% | 61% | 44% |
+| Más de 3,5 goles | 50% | 57% | 56% | 44% |
+| Ambos marcan | 64% | 71% | 56% | 56% |
 | Portería a cero | 21% | 0% | 6% | 0% |
-| Se queda sin marcar | 14% | 29% | 35% | 44% |
-| xG a favor | 1,31 | 1,35 | 1,72 | 1,11 |
-| xG en contra | 1,69 | 1,88 | 1,93 | 2,05 |
-| Tiros / partido | 14,5 | 13,4 | 16,5 | 14,2 |
-| Tiros a puerta / partido | 4,2 | 3,4 | 5,1 | 3,9 |
+| Se queda sin marcar | 14% | 29% | 39% | 44% |
+| xG a favor | 1,31 | 1,35 | 1,76 | 1,11 |
+| xG en contra | 1,69 | 1,88 | 1,95 | 2,05 |
+| Tiros / partido | 14,5 | 13,4 | 16,9 | 14,2 |
+| Tiros a puerta / partido | 4,2 | 3,4 | 5,3 | 3,9 |
 | Tiros recibidos | 15,1 | 17,6 | 12,6 | 14,4 |
-| Tiros a puerta recibidos | 4,6 | 4,4 | 5,2 | 6,6 |
-| Posesión media % | 51 | 49 | 51 | 48 |
-| Córners a favor | 5,7 | 4,3 | 5,5 | 5,3 |
-| Córners en contra | 4,4 | 4,4 | 3,8 | 4,3 |
-| Córners a favor 1ª parte | 2,7 | 2,0 | 2,1 | 2,1 |
-| Córners a favor 2ª parte | 3,0 | 2,3 | 3,4 | 3,2 |
+| Tiros a puerta recibidos | 4,6 | 4,4 | 5,1 | 6,6 |
+| Posesión media % | 51 | 49 | 52 | 48 |
+| Córners a favor | 5,7 | 4,3 | 5,4 | 5,3 |
+| Córners en contra | 4,4 | 4,4 | 3,9 | 4,3 |
+| Córners a favor 1ª parte | 2,7 | 2,0 | 2,2 | 2,1 |
+| Córners a favor 2ª parte | 3,0 | 2,3 | 3,3 | 3,2 |
 | Córners totales del partido | 10,1 | 8,7 | 9,3 | 9,7 |
 | Córners totales 1ª parte | 4,7 | 3,9 | 4,0 | 3,8 |
 | Córners totales 2ª parte | 5,4 | 4,9 | 5,3 | 5,9 |
-| Más de 8,5 córners | 64% | 57% | 47% | 33% |
-| Más de 9,5 córners | 43% | 14% | 29% | 33% |
-| Más de 10,5 córners | 36% | 14% | 29% | 33% |
-| Faltas cometidas | 12,9 | 14,1 | 11,2 | 10,4 |
-| Faltas recibidas | 11,6 | 11,7 | 12,3 | 11,6 |
+| Más de 8,5 córners | 64% | 57% | 50% | 33% |
+| Más de 9,5 córners | 43% | 14% | 33% | 33% |
+| Más de 10,5 córners | 36% | 14% | 28% | 33% |
+| Faltas cometidas | 12,9 | 14,1 | 11,1 | 10,4 |
+| Faltas recibidas | 11,6 | 11,7 | 12,6 | 11,6 |
 | Amarillas propias | 2,5 | 3,0 | 1,9 | 1,9 |
-| Amarillas del rival | 2,4 | 2,9 | 2,0 | 1,8 |
-| Rojas / partido | 0,07 | 0,14 | 0,29 | 0,44 |
+| Amarillas del rival | 2,4 | 2,9 | 1,9 | 1,8 |
+| Rojas / partido | 0,07 | 0,14 | 0,28 | 0,44 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Newcastle | Recibe Newcastle | Tarjetas Newcastle | Goles Manchester United | Recibe Manchester United | Tarjetas Manchester United |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 2 | 1 | 2 | 7 | 1 |
-| 16-30' | 0 | 1 | 6 | 2 | 3 | 4 |
-| 31-45' | 2 | 8 | 5 | 5 | 5 | 6 |
-| 46-60' | 5 | 4 | 5 | 5 | 7 | 4 |
+| 16-30' | 0 | 1 | 6 | 2 | 4 | 4 |
+| 31-45' | 2 | 8 | 5 | 5 | 6 | 7 |
+| 46-60' | 5 | 4 | 5 | 5 | 7 | 5 |
 | 61-75' | 4 | 2 | 2 | 4 | 6 | 7 |
-| 76-90' | 6 | 6 | 19 | 8 | 8 | 16 |
+| 76-90' | 6 | 6 | 19 | 8 | 10 | 17 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -151,33 +151,33 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Manchester United
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Premier League | Manchester United 0-4 Brentford | casa | 5-5 | 25 (8) - 12 (4) | 3-1 |
 | 2026-11-25 | Champions League | Sporting CP 2-2 Manchester United | fuera | 2-3 | 7 (2) - 11 (4) | 3-2 |
 | 2026-11-22 | Premier League | Liverpool 4-0 Manchester United | fuera | 5-15 | 10 (3) - 28 (11) | 0-1 |
 | 2026-11-08 | Premier League | Manchester United 4-4 Aston Villa | casa | 8-1 | 26 (9) - 12 (6) | 1-1 |
 | 2026-11-03 | Champions League | Manchester United 3-2 AS Roma | casa | 3-1 | 15 (6) - 7 (4) | 3-3 |
 | 2026-10-31 | Premier League | Chelsea 2-0 Manchester United | fuera | 7-8 | 12 (5) - 19 (10) | 4-1 |
-| 2026-10-25 | Premier League | Manchester United 0-3 Bournemouth | casa | 5-4 | 17 (5) - 10 (4) | 4-1 |
 
 ## Jugadores de Manchester United
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| S. Lammens | G | 16 | 1440 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,1 | 1 | 0 |
-| B. Mbeumo | M | 17 | 1366 | 4 | 1 | 27 | 1,6 | 15 | 0,9 | 12 | 17 | 1,0 | 2 | 0 |
-| Bruno Fernandes | M | 16 | 1331 | 8 | 2 | 40 | 2,5 | 16 | 1,0 | 13 | 14 | 0,9 | 3 | 0 |
-| H. Maguire | D | 15 | 1201 | 0 | 0 | 11 | 0,7 | 2 | 0,1 | 10 | 14 | 0,9 | 5 | 0 |
-| Diogo Dalot | D | 16 | 1191 | 0 | 0 | 13 | 0,8 | 2 | 0,1 | 15 | 3 | 0,2 | 2 | 0 |
-| Y. Tielemans | M | 16 | 1143 | 1 | 3 | 14 | 0,9 | 5 | 0,3 | 13 | 29 | 1,8 | 1 | 1 |
-| Matheus Cunha | M | 16 | 996 | 4 | 2 | 25 | 1,6 | 15 | 0,9 | 19 | 23 | 1,4 | 0 | 1 |
-| Lisandro Martínez | D | 13 | 958 | 1 | 0 | 7 | 0,5 | 4 | 0,3 | 14 | 4 | 0,3 | 1 | 1 |
-| K. Mainoo | M | 13 | 924 | 0 | 1 | 4 | 0,3 | 2 | 0,2 | 10 | 8 | 0,6 | 1 | 0 |
-| L. Yoro | D | 13 | 890 | 0 | 0 | 3 | 0,2 | 0 | 0,0 | 9 | 4 | 0,3 | 0 | 2 |
+| S. Lammens | G | 17 | 1530 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,1 | 1 | 0 |
+| Bruno Fernandes | M | 17 | 1421 | 8 | 2 | 45 | 2,6 | 16 | 0,9 | 13 | 17 | 1,0 | 3 | 0 |
+| B. Mbeumo | F | 18 | 1411 | 4 | 1 | 29 | 1,6 | 15 | 0,8 | 12 | 18 | 1,0 | 2 | 0 |
+| H. Maguire | D | 16 | 1291 | 0 | 0 | 15 | 0,9 | 4 | 0,2 | 13 | 14 | 0,9 | 6 | 0 |
+| Diogo Dalot | D | 17 | 1281 | 0 | 0 | 13 | 0,8 | 2 | 0,1 | 15 | 3 | 0,2 | 2 | 0 |
+| Y. Tielemans | M | 17 | 1226 | 1 | 3 | 15 | 0,9 | 5 | 0,3 | 13 | 32 | 1,9 | 1 | 1 |
+| Matheus Cunha | F | 17 | 1023 | 4 | 2 | 27 | 1,6 | 16 | 0,9 | 19 | 25 | 1,5 | 0 | 1 |
+| K. Mainoo | M | 14 | 1014 | 0 | 1 | 6 | 0,4 | 2 | 0,1 | 10 | 10 | 0,7 | 1 | 0 |
+| Lisandro Martínez | D | 14 | 1003 | 1 | 0 | 8 | 0,6 | 4 | 0,3 | 15 | 4 | 0,3 | 2 | 1 |
+| L. Yoro | D | 14 | 980 | 0 | 0 | 3 | 0,2 | 0 | 0,0 | 10 | 5 | 0,4 | 1 | 2 |
+| A. Diallo | M | 10 | 636 | 0 | 2 | 18 | 1,8 | 7 | 0,7 | 4 | 10 | 1,0 | 0 | 0 |
 | N. Mazraoui | D | 10 | 592 | 0 | 1 | 4 | 0,4 | 0 | 0,0 | 8 | 6 | 0,6 | 0 | 0 |
-| A. Diallo | M | 9 | 591 | 0 | 2 | 17 | 1,9 | 6 | 0,7 | 4 | 10 | 1,1 | 0 | 0 |
 | Andrey Santos | M | 12 | 567 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 9 | 15 | 1,2 | 3 | 0 |
 | Marcus Rashford | M | 8 | 502 | 0 | 0 | 13 | 1,6 | 6 | 0,8 | 5 | 8 | 1,0 | 1 | 0 |
+| L. Shaw | D | 6 | 470 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 3 | 1 | 0,2 | 2 | 0 |
 | A. Heaven | D | 8 | 470 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 9 | 10 | 1,2 | 3 | 0 |
-| Luke Shaw | D | 5 | 425 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 3 | 1 | 0,2 | 2 | 0 |
-| M. Mount | M | 12 | 424 | 1 | 0 | 10 | 0,8 | 2 | 0,2 | 5 | 12 | 1,0 | 0 | 0 |
+| P. Dorgu | M | 10 | 432 | 1 | 3 | 10 | 1,0 | 3 | 0,3 | 12 | 8 | 0,8 | 2 | 0 |
+| M. Mount | M | 13 | 431 | 1 | 0 | 10 | 0,8 | 2 | 0,2 | 5 | 12 | 0,9 | 0 | 0 |
 | C. Baleba | M | 7 | 397 | 0 | 0 | 7 | 1,0 | 1 | 0,1 | 7 | 10 | 1,4 | 1 | 0 |
-| P. Dorgu | D | 9 | 362 | 1 | 3 | 7 | 0,8 | 2 | 0,2 | 11 | 5 | 0,6 | 2 | 0 |
-| J. Zirkzee | F | 12 | 301 | 2 | 0 | 12 | 1,0 | 5 | 0,4 | 6 | 2 | 0,2 | 1 | 0 |
+| J. Zirkzee | F | 13 | 364 | 2 | 0 | 14 | 1,1 | 6 | 0,5 | 9 | 2 | 0,2 | 1 | 0 |

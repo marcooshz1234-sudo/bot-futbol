@@ -1,7 +1,7 @@
 # Coventry – Ipswich
 **Premier League** · Regular Season - 13 · 01/12/2026 21:00 (hora España) · Coventry Building Society Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Actualizadas: 28/11 08:44_
@@ -51,53 +51,53 @@ _Actualizadas: 28/11 08:44_
 ## Estadísticas de equipo
 | | Coventry (total) | Coventry en casa | Ipswich (total) | Ipswich fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 7 | 13 | 6 |
-| Forma (últimos 5) | VDVDD | VVDVD | DDEED | DEDDV |
-| Balance | 5V 0E 8D | 3V 0E 4D | 4V 2E 7D | 1V 1E 4D |
-| Goles a favor / partido | 1,38 | 1,57 | 1,54 | 1,50 |
-| Goles en contra / partido | 2,00 | 2,00 | 2,08 | 2,50 |
-| Goles a favor 1ª parte | 0,62 | 0,86 | 0,54 | 0,83 |
-| Goles a favor 2ª parte | 0,77 | 0,71 | 1,00 | 0,67 |
-| Goles en contra 1ª parte | 0,77 | 0,71 | 1,00 | 1,00 |
-| Goles en contra 2ª parte | 1,23 | 1,29 | 1,08 | 1,50 |
-| Más de 1,5 goles | 69% | 71% | 92% | 83% |
-| Más de 2,5 goles | 69% | 71% | 69% | 67% |
-| Más de 3,5 goles | 62% | 71% | 46% | 67% |
-| Ambos marcan | 54% | 57% | 77% | 67% |
-| Portería a cero | 8% | 0% | 0% | 0% |
-| Se queda sin marcar | 38% | 43% | 23% | 33% |
-| xG a favor | 1,10 | 1,27 | 1,26 | 1,39 |
-| xG en contra | 1,62 | 1,58 | 2,01 | 2,40 |
-| Tiros / partido | 11,5 | 12,1 | 11,0 | 11,3 |
+| Partidos analizados | 14 | 7 | 14 | 6 |
+| Forma (últimos 5) | DVDVD | VVDVD | EDDEE | DEDDV |
+| Balance | 5V 0E 9D | 3V 0E 4D | 4V 3E 7D | 1V 1E 4D |
+| Goles a favor / partido | 1,29 | 1,57 | 1,57 | 1,50 |
+| Goles en contra / partido | 2,07 | 2,00 | 2,07 | 2,50 |
+| Goles a favor 1ª parte | 0,57 | 0,86 | 0,57 | 0,83 |
+| Goles a favor 2ª parte | 0,71 | 0,71 | 1,00 | 0,67 |
+| Goles en contra 1ª parte | 0,86 | 0,71 | 1,07 | 1,00 |
+| Goles en contra 2ª parte | 1,21 | 1,29 | 1,00 | 1,50 |
+| Más de 1,5 goles | 71% | 71% | 93% | 83% |
+| Más de 2,5 goles | 71% | 71% | 71% | 67% |
+| Más de 3,5 goles | 57% | 71% | 50% | 67% |
+| Ambos marcan | 50% | 57% | 79% | 67% |
+| Portería a cero | 7% | 0% | 0% | 0% |
+| Se queda sin marcar | 43% | 43% | 21% | 33% |
+| xG a favor | 1,05 | 1,27 | 1,24 | 1,39 |
+| xG en contra | 1,73 | 1,58 | 2,03 | 2,40 |
+| Tiros / partido | 11,3 | 12,1 | 11,2 | 11,3 |
 | Tiros a puerta / partido | 3,8 | 4,7 | 4,2 | 4,0 |
-| Tiros recibidos | 16,2 | 15,4 | 16,2 | 18,5 |
-| Tiros a puerta recibidos | 4,9 | 4,9 | 5,8 | 5,8 |
-| Posesión media % | 42 | 42 | 46 | 45 |
-| Córners a favor | 3,5 | 3,9 | 3,2 | 3,8 |
-| Córners en contra | 4,8 | 5,1 | 4,9 | 5,7 |
-| Córners a favor 1ª parte | 1,5 | 1,6 | 1,5 | 1,7 |
+| Tiros recibidos | 16,6 | 15,4 | 16,6 | 18,5 |
+| Tiros a puerta recibidos | 5,0 | 4,9 | 5,9 | 5,8 |
+| Posesión media % | 42 | 42 | 45 | 45 |
+| Córners a favor | 3,4 | 3,9 | 3,3 | 3,8 |
+| Córners en contra | 5,1 | 5,1 | 5,1 | 5,7 |
+| Córners a favor 1ª parte | 1,5 | 1,6 | 1,6 | 1,7 |
 | Córners a favor 2ª parte | 1,9 | 2,3 | 1,7 | 2,2 |
-| Córners totales del partido | 8,3 | 9,0 | 8,2 | 9,5 |
-| Córners totales 1ª parte | 3,8 | 3,9 | 4,2 | 4,7 |
-| Córners totales 2ª parte | 4,5 | 5,1 | 4,0 | 4,8 |
-| Más de 8,5 córners | 38% | 43% | 38% | 67% |
-| Más de 9,5 córners | 31% | 43% | 15% | 33% |
-| Más de 10,5 córners | 8% | 14% | 15% | 33% |
-| Faltas cometidas | 11,5 | 11,0 | 11,4 | 14,2 |
-| Faltas recibidas | 11,8 | 11,3 | 11,6 | 9,5 |
+| Córners totales del partido | 8,6 | 9,0 | 8,4 | 9,5 |
+| Córners totales 1ª parte | 4,1 | 3,9 | 4,2 | 4,7 |
+| Córners totales 2ª parte | 4,5 | 5,1 | 4,1 | 4,8 |
+| Más de 8,5 córners | 43% | 43% | 43% | 67% |
+| Más de 9,5 córners | 36% | 43% | 21% | 33% |
+| Más de 10,5 córners | 14% | 14% | 21% | 33% |
+| Faltas cometidas | 11,5 | 11,0 | 11,7 | 14,2 |
+| Faltas recibidas | 11,9 | 11,3 | 11,6 | 9,5 |
 | Amarillas propias | 1,3 | 1,1 | 2,0 | 2,5 |
-| Amarillas del rival | 1,5 | 1,7 | 2,2 | 2,0 |
-| Rojas / partido | 0,08 | 0,14 | 0,08 | 0,17 |
+| Amarillas del rival | 1,4 | 1,7 | 2,4 | 2,0 |
+| Rojas / partido | 0,07 | 0,14 | 0,07 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Coventry | Recibe Coventry | Tarjetas Coventry | Goles Ipswich | Recibe Ipswich | Tarjetas Ipswich |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 4 | 2 | 0 | 8 | 0 |
-| 16-30' | 3 | 3 | 4 | 5 | 2 | 2 |
-| 31-45' | 1 | 3 | 2 | 2 | 3 | 8 |
-| 46-60' | 5 | 6 | 3 | 0 | 7 | 5 |
-| 61-75' | 1 | 4 | 3 | 5 | 6 | 5 |
-| 76-90' | 4 | 6 | 5 | 8 | 1 | 8 |
+| 16-30' | 3 | 3 | 4 | 6 | 4 | 2 |
+| 31-45' | 1 | 5 | 2 | 2 | 3 | 8 |
+| 46-60' | 5 | 6 | 4 | 1 | 7 | 5 |
+| 61-75' | 1 | 5 | 3 | 5 | 6 | 6 |
+| 76-90' | 4 | 6 | 5 | 8 | 1 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -115,67 +115,67 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Coventry
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Premier League | Leeds 3-0 Coventry | fuera | 3-9 | 8 (3) - 22 (6) | 1-1 |
 | 2026-11-21 | Premier League | Coventry 3-2 Crystal Palace | casa | 4-6 | 11 (7) - 14 (5) | 1-2 |
 | 2026-11-06 | Premier League | Everton 3-1 Coventry | fuera | 2-2 | 15 (4) - 16 (7) | 1-1 |
 | 2026-10-31 | Premier League | Coventry 3-1 Sunderland | casa | 4-4 | 12 (4) - 17 (2) | 2-0 |
 | 2026-10-24 | Premier League | Coventry 0-1 Fulham | casa | 4-6 | 13 (2) - 12 (3) | 0-2 |
 | 2026-10-19 | Premier League | Tottenham 3-1 Coventry | fuera | 4-4 | 12 (1) - 16 (5) | 3-1 |
-| 2026-10-12 | Premier League | Coventry 4-1 Newcastle | casa | 2-6 | 9 (6) - 19 (6) | 1-1 |
 
 ## Jugadores de Coventry
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| C. Rushworth | G | 11 | 990 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| B. Thomas | D | 11 | 903 | 0 | 0 | 12 | 1,1 | 0 | 0,0 | 8 | 11 | 1,0 | 0 | 0 |
-| M. van Ewijk | D | 10 | 900 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 6 | 0,6 | 2 | 0 |
-| E. Pinnock | D | 11 | 900 | 0 | 0 | 5 | 0,5 | 0 | 0,0 | 2 | 3 | 0,3 | 1 | 0 |
-| J. Dasilva | D | 10 | 895 | 1 | 1 | 4 | 0,4 | 2 | 0,2 | 5 | 1 | 0,1 | 1 | 0 |
-| J. Rudoni | M | 12 | 889 | 4 | 2 | 19 | 1,6 | 8 | 0,7 | 13 | 16 | 1,3 | 1 | 0 |
+| C. Rushworth | G | 12 | 1080 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| B. Thomas | D | 12 | 993 | 0 | 0 | 12 | 1,0 | 0 | 0,0 | 10 | 12 | 1,0 | 0 | 0 |
+| E. Pinnock | D | 12 | 990 | 0 | 0 | 5 | 0,4 | 0 | 0,0 | 2 | 3 | 0,2 | 1 | 0 |
+| M. van Ewijk | M | 11 | 990 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 6 | 7 | 0,6 | 2 | 0 |
+| J. Dasilva | M | 11 | 985 | 1 | 1 | 4 | 0,4 | 2 | 0,2 | 6 | 1 | 0,1 | 2 | 0 |
+| J. Rudoni | M | 13 | 952 | 4 | 2 | 19 | 1,5 | 8 | 0,6 | 14 | 17 | 1,3 | 1 | 0 |
+| M. Grimes | M | 12 | 816 | 0 | 0 | 3 | 0,2 | 0 | 0,0 | 9 | 6 | 0,5 | 1 | 0 |
 | Caleb Marfo Yirenkyi | M | 12 | 794 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 27 | 13 | 1,1 | 4 | 0 |
-| M. Grimes | M | 11 | 789 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 8 | 6 | 0,5 | 1 | 0 |
-| T. Sakamoto | M | 9 | 637 | 2 | 0 | 7 | 0,8 | 3 | 0,3 | 13 | 12 | 1,3 | 1 | 0 |
+| T. Sakamoto | M | 10 | 701 | 2 | 0 | 7 | 0,7 | 3 | 0,3 | 13 | 13 | 1,3 | 1 | 0 |
+| S. Mfuni | D | 8 | 565 | 1 | 0 | 7 | 0,9 | 4 | 0,5 | 10 | 6 | 0,8 | 1 | 0 |
+| B. Thomas-Asante | F | 13 | 564 | 0 | 2 | 15 | 1,2 | 6 | 0,5 | 4 | 22 | 1,7 | 0 | 0 |
 | T. Awoniyi | F | 10 | 561 | 3 | 1 | 14 | 1,4 | 6 | 0,6 | 6 | 4 | 0,4 | 0 | 1 |
-| B. Thomas-Asante | F | 12 | 538 | 0 | 2 | 14 | 1,2 | 5 | 0,4 | 4 | 21 | 1,8 | 0 | 0 |
-| V. Torp | M | 9 | 492 | 2 | 2 | 11 | 1,2 | 5 | 0,6 | 5 | 3 | 0,3 | 1 | 0 |
-| S. Mfuni | D | 7 | 475 | 1 | 0 | 6 | 0,9 | 3 | 0,4 | 7 | 4 | 0,6 | 1 | 0 |
-| F. Onyeka | M | 9 | 417 | 0 | 0 | 2 | 0,2 | 2 | 0,2 | 10 | 10 | 1,1 | 1 | 0 |
+| V. Torp | M | 10 | 505 | 2 | 2 | 11 | 1,1 | 5 | 0,5 | 6 | 4 | 0,4 | 1 | 0 |
+| F. Onyeka | M | 10 | 480 | 0 | 0 | 2 | 0,2 | 2 | 0,2 | 10 | 12 | 1,2 | 1 | 0 |
+| S. Cherif | F | 10 | 442 | 1 | 0 | 10 | 1,0 | 3 | 0,3 | 1 | 8 | 0,8 | 0 | 0 |
 | A. Amenda | D | 6 | 417 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 7 | 0 | 0,0 | 1 | 0 |
-| S. Cherif | F | 9 | 379 | 1 | 0 | 9 | 1,0 | 3 | 0,3 | 1 | 8 | 0,9 | 0 | 0 |
 | E. Mason-Clark | M | 8 | 358 | 1 | 0 | 3 | 0,4 | 3 | 0,4 | 8 | 7 | 0,9 | 0 | 0 |
-| Y. Gboho | M | 4 | 305 | 1 | 0 | 8 | 2,0 | 4 | 1,0 | 5 | 8 | 2,0 | 0 | 0 |
+| Y. Gboho | F | 5 | 332 | 1 | 0 | 10 | 2,0 | 5 | 1,0 | 5 | 8 | 1,6 | 0 | 0 |
+| G. Hamer | M | 10 | 314 | 0 | 0 | 5 | 0,5 | 0 | 0,0 | 8 | 4 | 0,4 | 0 | 0 |
 | L. Tchaouna | F | 6 | 250 | 0 | 0 | 6 | 1,0 | 3 | 0,5 | 1 | 3 | 0,5 | 0 | 0 |
-| G. Hamer | M | 9 | 237 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 7 | 2 | 0,2 | 0 | 0 |
 
 ## Últimos partidos de Ipswich
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Premier League | Ipswich 2-2 Aston Villa | casa | 4-7 | 14 (5) - 21 (8) | 2-5 |
 | 2026-11-21 | Premier League | Tottenham 2-0 Ipswich | fuera | 6-8 | 11 (3) - 18 (9) | 1-4 |
 | 2026-11-08 | Premier League | Ipswich 1-2 Bournemouth | casa | 2-7 | 10 (2) - 15 (4) | 2-3 |
 | 2026-10-31 | Premier League | Hull City 2-2 Ipswich | fuera | 3-6 | 15 (3) - 9 (3) | 3-3 |
 | 2026-10-23 | Premier League | Ipswich 1-1 Nottingham Forest | casa | 0-5 | 7 (3) - 17 (5) | 1-1 |
 | 2026-10-17 | Premier League | Manchester City 3-2 Ipswich | fuera | 3-2 | 8 (3) - 19 (6) | 2-1 |
-| 2026-10-10 | Premier League | Ipswich 2-1 Fulham | casa | 2-5 | 11 (5) - 13 (5) | 2-4 |
 
 ## Jugadores de Ipswich
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| D. O&apos;Shea | D | 12 | 1080 | 1 | 0 | 3 | 0,2 | 2 | 0,2 | 8 | 9 | 0,8 | 0 | 0 |
-| L. Davis | D | 13 | 1032 | 2 | 2 | 7 | 0,5 | 3 | 0,2 | 8 | 8 | 0,6 | 2 | 0 |
-| I. Diop | D | 11 | 990 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 11 | 2 | 0,2 | 3 | 0 |
-| J. Enciso | M | 11 | 925 | 2 | 2 | 31 | 2,8 | 9 | 0,8 | 7 | 23 | 2,1 | 3 | 0 |
-| C. Walton | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,3 | 1 | 0 |
-| A. Ouattara | M | 13 | 774 | 1 | 2 | 5 | 0,4 | 3 | 0,2 | 5 | 4 | 0,3 | 1 | 0 |
-| E. Palacios | M | 10 | 720 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 10 | 13 | 1,3 | 1 | 0 |
-| Emersonn | F | 11 | 677 | 2 | 1 | 17 | 1,5 | 4 | 0,4 | 7 | 15 | 1,4 | 0 | 0 |
-| S. Lukić | M | 8 | 592 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 14 | 2 | 0,2 | 2 | 0 |
+| D. O&apos;Shea | D | 13 | 1170 | 1 | 0 | 3 | 0,2 | 2 | 0,2 | 9 | 9 | 0,7 | 0 | 0 |
+| L. Davis | D | 14 | 1122 | 3 | 2 | 10 | 0,7 | 4 | 0,3 | 8 | 8 | 0,6 | 2 | 0 |
+| I. Diop | D | 12 | 1080 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 13 | 2 | 0,2 | 3 | 0 |
+| J. Enciso | M | 12 | 1015 | 2 | 3 | 36 | 3,0 | 12 | 1,0 | 7 | 25 | 2,1 | 3 | 0 |
+| C. Walton | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,3 | 1 | 0 |
+| A. Ouattara | D | 14 | 864 | 1 | 2 | 5 | 0,4 | 3 | 0,2 | 8 | 4 | 0,3 | 1 | 0 |
+| E. Palacios | M | 11 | 788 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 10 | 13 | 1,2 | 1 | 0 |
+| Emersonn | F | 12 | 751 | 3 | 1 | 19 | 1,6 | 5 | 0,4 | 10 | 15 | 1,2 | 1 | 0 |
+| S. Lukić | M | 9 | 682 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 18 | 6 | 0,7 | 3 | 0 |
+| A. Fatawu | M | 11 | 668 | 0 | 1 | 10 | 0,9 | 1 | 0,1 | 14 | 13 | 1,2 | 4 | 1 |
 | D. Maeda | M | 12 | 581 | 1 | 0 | 6 | 0,5 | 3 | 0,2 | 11 | 6 | 0,5 | 0 | 0 |
-| A. Fatawu | F | 10 | 578 | 0 | 1 | 9 | 0,9 | 1 | 0,1 | 12 | 13 | 1,3 | 4 | 1 |
 | J. Greaves | D | 7 | 544 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 5 | 6 | 0,9 | 1 | 0 |
-| Florentino | M | 9 | 519 | 1 | 0 | 4 | 0,4 | 3 | 0,3 | 8 | 3 | 0,3 | 0 | 0 |
-| J. Clarke | F | 12 | 440 | 2 | 3 | 8 | 0,7 | 4 | 0,3 | 5 | 8 | 0,7 | 2 | 0 |
-| J. Philogene | M | 7 | 361 | 0 | 0 | 5 | 0,7 | 4 | 0,6 | 4 | 5 | 0,7 | 0 | 0 |
+| Florentino | M | 10 | 541 | 1 | 0 | 4 | 0,4 | 3 | 0,3 | 8 | 3 | 0,3 | 0 | 0 |
+| J. Clarke | M | 13 | 514 | 2 | 3 | 9 | 0,7 | 4 | 0,3 | 6 | 9 | 0,7 | 2 | 0 |
+| J. Philogene | F | 8 | 377 | 0 | 0 | 5 | 0,6 | 4 | 0,5 | 4 | 6 | 0,8 | 0 | 0 |
 | Kjell Scherpen | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
+| Z. Flemming | F | 11 | 321 | 2 | 0 | 12 | 1,1 | 6 | 0,5 | 12 | 10 | 0,9 | 2 | 0 |
 | M. Núñez | M | 4 | 321 | 2 | 0 | 3 | 0,8 | 2 | 0,5 | 4 | 0 | 0,0 | 1 | 0 |
-| Z. Flemming | F | 10 | 305 | 2 | 0 | 11 | 1,1 | 6 | 0,6 | 12 | 7 | 0,7 | 2 | 0 |
 | D. Furlong | D | 4 | 287 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
 | C. Akpom | F | 10 | 238 | 2 | 1 | 5 | 0,5 | 4 | 0,4 | 2 | 9 | 0,9 | 0 | 0 |

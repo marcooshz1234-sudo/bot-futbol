@@ -14196,7 +14196,8 @@
   "movimiento": null,
   "ventaja": 0.222,
   "prob_aprendida": 0.615,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-1"
  },
  "1557482|Goals Over/Under - Second Half|Over 1.5": {
   "partido_id": 1557482,
@@ -14218,7 +14219,8 @@
   "movimiento": null,
   "ventaja": 0.172,
   "prob_aprendida": 0.675,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-2"
  },
  "1575238|Home Player Shots|Santiago Castaneda - 1": {
   "partido_id": 1575238,
@@ -14240,7 +14242,8 @@
   "movimiento": -0.085,
   "ventaja": 0.286,
   "prob_aprendida": 0.565,
-  "acierto": null
+  "acierto": false,
+  "marcador": "8-1"
  },
  "1557482|Match Winner|Away": {
   "partido_id": 1557482,
@@ -14262,7 +14265,8 @@
   "movimiento": null,
   "ventaja": 0.1,
   "prob_aprendida": 0.536,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-2"
  },
  "1575226|Home Team Total Cards|Over 1.5": {
   "partido_id": 1575226,
@@ -14691,7 +14695,8 @@
   "movimiento": null,
   "ventaja": 0.044,
   "prob_aprendida": 0.685,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1563290|Away Player Shots|Rafiki Said - 2": {
   "partido_id": 1563290,
@@ -14713,7 +14718,8 @@
   "movimiento": null,
   "ventaja": 0.219,
   "prob_aprendida": 0.656,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-0"
  },
  "1636410|Away Player Shots|Daouda Weidmann - 2": {
   "partido_id": 1636410,
@@ -14780,7 +14786,7 @@
   "valor_mercado": 0.0,
   "movimiento": -0.027,
   "ventaja": 0.094,
-  "prob_aprendida": 0.648,
+  "prob_aprendida": 0.64,
   "acierto": null
  },
  "1552239|Away Player Shots|Daouda Weidmann - 2": {
@@ -14916,7 +14922,8 @@
   "movimiento": null,
   "ventaja": 0.279,
   "prob_aprendida": 0.472,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-2"
  },
  "1575231|Away Corners Over/Under|Over 3.5": {
   "partido_id": 1575231,
@@ -14938,7 +14945,8 @@
   "movimiento": -0.039,
   "ventaja": 0.222,
   "prob_aprendida": 0.412,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-2"
  },
  "1570465|Total - Home|Over 0.5": {
   "partido_id": 1570465,
@@ -15117,7 +15125,8 @@
   "movimiento": null,
   "ventaja": 0.086,
   "prob_aprendida": 0.449,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-5"
  },
  "1570041|To Win Either Half|Home": {
   "partido_id": 1570041,
@@ -15138,7 +15147,7 @@
   "valor_mercado": 0.0,
   "movimiento": 0.023,
   "ventaja": 0.148,
-  "prob_aprendida": 0.787,
+  "prob_aprendida": 0.779,
   "acierto": null
  },
  "1570038|Goals Over/Under - Second Half|Over 1.5": {
@@ -15160,7 +15169,7 @@
   "valor_mercado": 0.018,
   "movimiento": null,
   "ventaja": 0.172,
-  "prob_aprendida": 0.599,
+  "prob_aprendida": 0.59,
   "acierto": null
  },
  "1570045|Both Teams Score|Yes": {
@@ -15173,16 +15182,16 @@
   "opcion": "Yes",
   "tipo": "goles",
   "texto": "Ambos marcan en Oviedo–Celta de Vigo II",
-  "cuota": 1.8,
+  "cuota": 1.73,
   "frecuencia": 0.8,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.053,
-  "movimiento": 0.04,
-  "ventaja": 0.244,
-  "prob_aprendida": 0.578,
+  "valor_mercado": 0.012,
+  "movimiento": 0.0,
+  "ventaja": 0.222,
+  "prob_aprendida": 0.595,
   "acierto": null
  },
  "1552836|Away Player Shots|Sebastian Szymanski - 1": {
@@ -15223,10 +15232,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.006,
+  "valor_mercado": 0.018,
   "movimiento": null,
   "ventaja": 0.211,
-  "prob_aprendida": 0.477,
+  "prob_aprendida": 0.503,
   "acierto": null
  },
  "1575548|Corners 1x2|Away": {
@@ -15248,7 +15257,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.101,
-  "prob_aprendida": 0.488,
+  "prob_aprendida": 0.519,
   "acierto": null
  },
  "1563285|Double Chance|Home/Draw": {
@@ -15386,7 +15395,8 @@
   "movimiento": null,
   "ventaja": 0.194,
   "prob_aprendida": 0.619,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1563298|Away Team Total Cards|Over 1.5": {
   "partido_id": 1563298,
@@ -15408,7 +15418,8 @@
   "movimiento": null,
   "ventaja": 0.146,
   "prob_aprendida": 0.544,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1565316|Double Chance|Home/Draw": {
   "partido_id": 1565316,
@@ -15453,7 +15464,8 @@
   "movimiento": -0.071,
   "ventaja": 0.212,
   "prob_aprendida": 0.591,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-4"
  },
  "1570469|Away Player Shots|Nico Williams - 2": {
   "partido_id": 1570469,
@@ -15475,7 +15487,8 @@
   "movimiento": 0.123,
   "ventaja": 0.094,
   "prob_aprendida": 0.628,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-4"
  },
  "1563291|Away Player Shots|Largie Ramazani - 2": {
   "partido_id": 1563291,
@@ -15497,7 +15510,8 @@
   "movimiento": 0.0,
   "ventaja": 0.186,
   "prob_aprendida": 0.546,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-1"
  },
  "1565313|Away Corners Over/Under|Over 1.5": {
   "partido_id": 1565313,
@@ -15519,7 +15533,8 @@
   "movimiento": null,
   "ventaja": 0.146,
   "prob_aprendida": 0.407,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-0"
  },
  "1552836|Double Chance|Home/Draw": {
   "partido_id": 1552836,
@@ -15650,7 +15665,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.113,
-  "prob_aprendida": 0.417,
+  "prob_aprendida": 0.442,
   "acierto": null
  },
  "1550208|Total - Home|Over 0.5": {
@@ -15717,7 +15732,8 @@
   "movimiento": 0.062,
   "ventaja": 0.096,
   "prob_aprendida": 0.657,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-0"
  },
  "1557478|Home Team Total Cards|Over 1.5": {
   "partido_id": 1557478,
@@ -15738,7 +15754,7 @@
   "valor_mercado": 0.026,
   "movimiento": null,
   "ventaja": 0.113,
-  "prob_aprendida": 0.574,
+  "prob_aprendida": 0.559,
   "acierto": null
  },
  "1575235|Goals Over/Under - Second Half|Over 1.5": {
@@ -15761,7 +15777,8 @@
   "movimiento": 0.125,
   "ventaja": 0.196,
   "prob_aprendida": 0.655,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-0"
  },
  "1552829|Match Winner|Away": {
   "partido_id": 1552829,
@@ -15779,10 +15796,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.0,
+  "valor_mercado": -0.025,
   "movimiento": 0.066,
   "ventaja": 0.137,
-  "prob_aprendida": 0.514,
+  "prob_aprendida": 0.543,
   "acierto": null
  },
  "1552251|Total - Home|Over 0.5": {
@@ -15804,7 +15821,7 @@
   "valor_mercado": 0.048,
   "movimiento": null,
   "ventaja": 0.272,
-  "prob_aprendida": 0.639,
+  "prob_aprendida": 0.627,
   "acierto": null
  },
  "1575240|Match Winner|Home": {
@@ -15826,7 +15843,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.063,
-  "prob_aprendida": 0.657,
+  "prob_aprendida": 0.641,
   "acierto": null
  },
  "1575244|Home Player Shots|Anton Kade - 2": {
@@ -15915,7 +15932,8 @@
   "movimiento": null,
   "ventaja": 0.146,
   "prob_aprendida": 0.477,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-2"
  },
  "1557482|Offsides Away Total|Over 0.5": {
   "partido_id": 1557482,
@@ -15937,7 +15955,8 @@
   "movimiento": null,
   "ventaja": 0.106,
   "prob_aprendida": 0.463,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-2"
  },
  "1648352|Home Player Shots|Dayot Upamecano - 1": {
   "partido_id": 1648352,
@@ -15980,7 +15999,95 @@
   "valor_mercado": 0.031,
   "movimiento": null,
   "ventaja": 0.201,
-  "prob_aprendida": 0.416,
+  "prob_aprendida": 0.44,
+  "acierto": null
+ },
+ "1550223|To Win Either Half|Home": {
+  "partido_id": 1550223,
+  "fecha": "2026-12-06T15:00",
+  "competicion": "Serie A",
+  "local": "Lazio",
+  "visitante": "Atalanta",
+  "mercado": "To Win Either Half",
+  "opcion": "Home",
+  "tipo": "resultado",
+  "texto": "Lazio gana alguna de las dos partes",
+  "cuota": 1.44,
+  "frecuencia": 0.9,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": -0.007,
+  "movimiento": null,
+  "ventaja": 0.206,
+  "prob_aprendida": 0.731,
+  "acierto": null
+ },
+ "1550223|Match Winner|Home": {
+  "partido_id": 1550223,
+  "fecha": "2026-12-06T15:00",
+  "competicion": "Serie A",
+  "local": "Lazio",
+  "visitante": "Atalanta",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "tipo": "resultado",
+  "texto": "Gana el Lazio",
+  "cuota": 1.83,
+  "frecuencia": 0.7,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": -0.042,
+  "movimiento": null,
+  "ventaja": 0.154,
+  "prob_aprendida": 0.689,
+  "acierto": null
+ },
+ "1550223|Total - Home|Over 1.5": {
+  "partido_id": 1550223,
+  "fecha": "2026-12-06T15:00",
+  "competicion": "Serie A",
+  "local": "Lazio",
+  "visitante": "Atalanta",
+  "mercado": "Total - Home",
+  "opcion": "Over 1.5",
+  "tipo": "goles",
+  "texto": "Lazio marca 2 o más",
+  "cuota": 1.67,
+  "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.0,
+  "movimiento": null,
+  "ventaja": 0.201,
+  "prob_aprendida": 0.622,
+  "acierto": null
+ },
+ "1550223|Goals Over/Under - Second Half|Over 1.5": {
+  "partido_id": 1550223,
+  "fecha": "2026-12-06T15:00",
+  "competicion": "Serie A",
+  "local": "Lazio",
+  "visitante": "Atalanta",
+  "mercado": "Goals Over/Under - Second Half",
+  "opcion": "Over 1.5",
+  "tipo": "goles",
+  "texto": "Más de 1,5 goles en la 2ª parte del Lazio–Atalanta",
+  "cuota": 1.73,
+  "frecuencia": 0.75,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": -0.017,
+  "movimiento": null,
+  "ventaja": 0.172,
+  "prob_aprendida": 0.594,
   "acierto": null
  }
 }

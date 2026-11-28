@@ -1,7 +1,7 @@
 # Lens – Le Havre
 **Ligue 1** · Regular Season - 13 · 05/12/2026 20:45 (hora España) · Stade Bollaert-Delelis
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Actualizadas: 27/11 22:18_
@@ -51,41 +51,41 @@ _Actualizadas: 27/11 22:18_
 ## Estadísticas de equipo
 | | Lens (total) | Lens en casa | Le Havre (total) | Le Havre fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 8 | 11 | 5 |
-| Forma (últimos 5) | DEDDD | EDDVD | DDDDD | DDDDE |
-| Balance | 5V 2E 9D | 3V 1E 4D | 0V 2E 9D | 0V 1E 4D |
-| Goles a favor / partido | 1,44 | 1,50 | 0,91 | 1,40 |
-| Goles en contra / partido | 2,19 | 2,38 | 2,27 | 2,40 |
-| Goles a favor 1ª parte | 0,44 | 0,38 | 0,18 | 0,20 |
-| Goles a favor 2ª parte | 1,00 | 1,12 | 0,73 | 1,20 |
+| Partidos analizados | 17 | 8 | 11 | 5 |
+| Forma (últimos 5) | VDEDD | EDDVD | DDDDD | DDDDE |
+| Balance | 6V 2E 9D | 3V 1E 4D | 0V 2E 9D | 0V 1E 4D |
+| Goles a favor / partido | 1,65 | 1,50 | 0,91 | 1,40 |
+| Goles en contra / partido | 2,18 | 2,38 | 2,27 | 2,40 |
+| Goles a favor 1ª parte | 0,47 | 0,38 | 0,18 | 0,20 |
+| Goles a favor 2ª parte | 1,18 | 1,12 | 0,73 | 1,20 |
 | Goles en contra 1ª parte | 0,88 | 0,88 | 0,91 | 0,80 |
-| Goles en contra 2ª parte | 1,31 | 1,50 | 1,36 | 1,60 |
+| Goles en contra 2ª parte | 1,29 | 1,50 | 1,36 | 1,60 |
 | Más de 1,5 goles | 88% | 88% | 73% | 80% |
-| Más de 2,5 goles | 75% | 62% | 55% | 60% |
-| Más de 3,5 goles | 38% | 25% | 45% | 60% |
-| Ambos marcan | 75% | 75% | 64% | 80% |
+| Más de 2,5 goles | 76% | 62% | 55% | 60% |
+| Más de 3,5 goles | 41% | 25% | 45% | 60% |
+| Ambos marcan | 76% | 75% | 64% | 80% |
 | Portería a cero | 0% | 0% | 9% | 0% |
-| Se queda sin marcar | 25% | 25% | 36% | 20% |
-| xG a favor | 1,71 | 1,91 | 1,49 | 1,61 |
-| xG en contra | 1,79 | 1,74 | 2,00 | 1,85 |
-| Tiros / partido | 14,9 | 15,0 | 15,7 | 15,0 |
-| Tiros a puerta / partido | 5,6 | 6,0 | 4,7 | 4,4 |
+| Se queda sin marcar | 24% | 25% | 36% | 20% |
+| xG a favor | 1,74 | 1,91 | 1,49 | 1,61 |
+| xG en contra | 1,75 | 1,74 | 2,00 | 1,85 |
+| Tiros / partido | 15,4 | 15,0 | 15,7 | 15,0 |
+| Tiros a puerta / partido | 5,7 | 6,0 | 4,7 | 4,4 |
 | Tiros recibidos | 12,4 | 11,1 | 12,9 | 12,8 |
-| Tiros a puerta recibidos | 5,4 | 5,0 | 5,4 | 4,6 |
-| Posesión media % | 50 | 52 | 48 | 49 |
-| Córners a favor | 6,0 | 6,1 | 4,8 | 4,0 |
-| Córners en contra | 4,4 | 3,9 | 4,4 | 5,2 |
-| Córners a favor 1ª parte | 2,8 | 3,1 | 2,5 | 2,4 |
-| Córners a favor 2ª parte | 3,2 | 3,0 | 2,3 | 1,6 |
-| Córners totales del partido | 10,4 | 10,0 | 9,2 | 9,2 |
-| Córners totales 1ª parte | 5,0 | 5,1 | 4,3 | 4,0 |
-| Córners totales 2ª parte | 5,4 | 4,9 | 4,9 | 5,2 |
-| Más de 8,5 córners | 81% | 75% | 64% | 60% |
-| Más de 9,5 córners | 69% | 62% | 55% | 40% |
-| Más de 10,5 córners | 44% | 38% | 27% | 20% |
-| Faltas cometidas | 11,8 | 12,5 | 15,0 | 15,2 |
-| Faltas recibidas | 11,6 | 12,8 | 15,5 | 15,0 |
-| Amarillas propias | 2,0 | 2,0 | 1,6 | 2,2 |
+| Tiros a puerta recibidos | 5,3 | 5,0 | 5,4 | 4,6 |
+| Posesión media % | 51 | 52 | 48 | 49 |
+| Córners a favor | 5,8 | 6,1 | 4,8 | 4,0 |
+| Córners en contra | 4,3 | 3,9 | 4,4 | 5,2 |
+| Córners a favor 1ª parte | 2,7 | 3,1 | 2,5 | 2,4 |
+| Córners a favor 2ª parte | 3,1 | 3,0 | 2,3 | 1,6 |
+| Córners totales del partido | 10,1 | 10,0 | 9,2 | 9,2 |
+| Córners totales 1ª parte | 4,8 | 5,1 | 4,3 | 4,0 |
+| Córners totales 2ª parte | 5,2 | 4,9 | 4,9 | 5,2 |
+| Más de 8,5 córners | 76% | 75% | 64% | 60% |
+| Más de 9,5 córners | 65% | 62% | 55% | 40% |
+| Más de 10,5 córners | 41% | 38% | 27% | 20% |
+| Faltas cometidas | 11,9 | 12,5 | 15,0 | 15,2 |
+| Faltas recibidas | 11,5 | 12,8 | 15,5 | 15,0 |
+| Amarillas propias | 1,9 | 2,0 | 1,6 | 2,2 |
 | Amarillas del rival | 1,2 | 1,2 | 1,5 | 1,6 |
 | Rojas / partido | 0,12 | 0,25 | 0,27 | 0,40 |
 
@@ -93,11 +93,11 @@ _Actualizadas: 27/11 22:18_
 | Tramo | Goles Lens | Recibe Lens | Tarjetas Lens | Goles Le Havre | Recibe Le Havre | Tarjetas Le Havre |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 4 | 1 | 1 | 4 | 1 |
-| 16-30' | 1 | 2 | 2 | 1 | 4 | 1 |
-| 31-45' | 4 | 8 | 6 | 0 | 2 | 6 |
-| 46-60' | 7 | 7 | 4 | 0 | 6 | 1 |
-| 61-75' | 4 | 6 | 7 | 3 | 4 | 2 |
-| 76-90' | 5 | 8 | 15 | 5 | 5 | 10 |
+| 16-30' | 1 | 3 | 2 | 1 | 4 | 1 |
+| 31-45' | 5 | 8 | 7 | 0 | 2 | 6 |
+| 46-60' | 7 | 8 | 4 | 0 | 6 | 1 |
+| 61-75' | 6 | 6 | 7 | 3 | 4 | 2 |
+| 76-90' | 7 | 8 | 15 | 5 | 5 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -116,36 +116,36 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Lens
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Ligue 1 | Angers 2-5 Lens | fuera | 2-3 | 22 (8) - 11 (4) | 1-1 |
 | 2026-11-24 | Champions League | RB Leipzig 3-1 Lens | fuera | 4-8 | 11 (3) - 15 (6) | 4-1 |
 | 2026-11-21 | Ligue 1 | Lens 1-1 Toulouse | casa | 9-5 | 22 (8) - 9 (5) | 2-2 |
 | 2026-11-08 | Ligue 1 | Lens 1-2 Marseille | casa | 4-6 | 13 (6) - 16 (5) | 1-2 |
 | 2026-11-04 | Champions League | Lens 1-9 Como | casa | 5-5 | 11 (3) - 18 (12) | 2-0 |
 | 2026-10-30 | Ligue 1 | Lille 1-0 Lens | fuera | 2-10 | 5 (3) - 16 (7) | 1-0 |
-| 2026-10-24 | Ligue 1 | Lens 2-1 Paris FC | casa | 6-1 | 9 (3) - 4 (1) | 3-3 |
 
 ## Jugadores de Lens
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Robin Risser | G | 16 | 1434 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,1 | 0 | 0 |
-| Florian Thauvin | F | 16 | 1333 | 6 | 8 | 36 | 2,2 | 21 | 1,3 | 13 | 21 | 1,3 | 5 | 0 |
-| Matthieu Udol | M | 15 | 1272 | 3 | 0 | 24 | 1,6 | 9 | 0,6 | 12 | 13 | 0,9 | 2 | 1 |
+| R. Risser | G | 17 | 1524 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,1 | 0 | 0 |
+| F. Thauvin | M | 17 | 1423 | 6 | 9 | 38 | 2,2 | 22 | 1,3 | 14 | 21 | 1,2 | 5 | 0 |
+| M. Udol | M | 16 | 1362 | 3 | 1 | 25 | 1,6 | 9 | 0,6 | 13 | 15 | 0,9 | 2 | 1 |
+| A. Haidara | M | 16 | 969 | 0 | 0 | 11 | 0,7 | 3 | 0,2 | 14 | 8 | 0,5 | 3 | 0 |
+| M. Cuisance | M | 14 | 962 | 1 | 0 | 8 | 0,6 | 3 | 0,2 | 17 | 5 | 0,4 | 3 | 0 |
 | R. Aguilar | M | 14 | 916 | 3 | 1 | 8 | 0,6 | 3 | 0,2 | 17 | 7 | 0,5 | 1 | 0 |
-| M. Cuisance | M | 13 | 900 | 1 | 0 | 8 | 0,6 | 3 | 0,2 | 16 | 5 | 0,4 | 3 | 0 |
-| Amadou Haidara | M | 15 | 885 | 0 | 0 | 9 | 0,6 | 3 | 0,2 | 13 | 7 | 0,5 | 2 | 0 |
+| S. Baidoo | D | 11 | 794 | 0 | 0 | 5 | 0,5 | 3 | 0,3 | 3 | 4 | 0,4 | 3 | 0 |
 | K. Antonio | D | 11 | 785 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 8 | 16 | 1,5 | 0 | 0 |
-| Ismaelo Ganiou | D | 9 | 715 | 1 | 0 | 7 | 0,8 | 5 | 0,6 | 7 | 6 | 0,7 | 2 | 0 |
-| Samson Baidoo | D | 10 | 704 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 2 | 4 | 0,4 | 3 | 0 |
-| Yassine Titraoui | M | 12 | 695 | 0 | 0 | 5 | 0,4 | 2 | 0,2 | 11 | 13 | 1,1 | 2 | 0 |
-| Saud Abdulhamid | M | 10 | 650 | 1 | 0 | 5 | 0,5 | 2 | 0,2 | 10 | 11 | 1,1 | 1 | 0 |
+| Saud Abdulhamid | M | 11 | 740 | 1 | 1 | 5 | 0,5 | 2 | 0,2 | 11 | 11 | 1,0 | 1 | 0 |
+| I. Ganiou | D | 10 | 731 | 1 | 0 | 7 | 0,7 | 5 | 0,5 | 7 | 6 | 0,6 | 2 | 0 |
+| Y. Titraoui | M | 13 | 723 | 0 | 0 | 5 | 0,4 | 2 | 0,2 | 11 | 13 | 1,0 | 2 | 0 |
+| J. Todibo | D | 10 | 646 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 9 | 4 | 0,4 | 0 | 0 |
+| A. Sima | F | 9 | 638 | 7 | 1 | 19 | 2,1 | 10 | 1,1 | 10 | 11 | 1,2 | 0 | 0 |
+| F. Sotoca | F | 11 | 616 | 1 | 2 | 14 | 1,3 | 6 | 0,5 | 11 | 9 | 0,8 | 1 | 0 |
 | Michał Skóraś | F | 14 | 601 | 0 | 1 | 2 | 0,1 | 0 | 0,0 | 11 | 13 | 0,9 | 4 | 0 |
-| Florian Sotoca | F | 10 | 588 | 1 | 1 | 14 | 1,4 | 6 | 0,6 | 9 | 9 | 0,9 | 1 | 0 |
-| Jean-Clair Todibo | D | 9 | 572 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 8 | 3 | 0,3 | 0 | 0 |
-| Abdallah Sima | F | 8 | 554 | 2 | 1 | 11 | 1,4 | 5 | 0,6 | 9 | 10 | 1,2 | 0 | 0 |
-| F. Ivanović | F | 11 | 528 | 2 | 0 | 10 | 0,9 | 5 | 0,5 | 11 | 6 | 0,5 | 1 | 0 |
+| F. Ivanović | F | 12 | 534 | 2 | 0 | 10 | 0,8 | 5 | 0,4 | 12 | 8 | 0,7 | 1 | 0 |
 | T. Hazard | F | 10 | 475 | 1 | 1 | 13 | 1,3 | 4 | 0,4 | 7 | 9 | 0,9 | 0 | 0 |
-| A. Bulatović | M | 10 | 390 | 0 | 0 | 11 | 1,1 | 3 | 0,3 | 5 | 4 | 0,4 | 1 | 0 |
+| A. Bulatović | M | 11 | 396 | 0 | 0 | 12 | 1,1 | 3 | 0,3 | 5 | 4 | 0,4 | 1 | 0 |
+| M. Soares | M | 11 | 394 | 0 | 1 | 13 | 1,2 | 4 | 0,4 | 2 | 6 | 0,5 | 0 | 0 |
 | O. Édouard | F | 9 | 344 | 1 | 0 | 10 | 1,1 | 6 | 0,7 | 2 | 3 | 0,3 | 0 | 0 |
-| Junior Kadile | F | 10 | 341 | 0 | 0 | 9 | 0,9 | 4 | 0,4 | 3 | 5 | 0,5 | 0 | 0 |
 
 ## Últimos partidos de Le Havre
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

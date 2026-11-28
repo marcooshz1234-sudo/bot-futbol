@@ -1,7 +1,7 @@
 # AD Ceuta FC – Cadiz
 **Copa del Rey** · Round of 64 · 02/12/2026 18:30 (hora España) · Estadio Municipal Alfonso Murube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

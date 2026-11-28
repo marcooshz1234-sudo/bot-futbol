@@ -1,10 +1,10 @@
 # Brighton – Newcastle
 **Premier League** · Regular Season - 12 · 29/11/2026 15:05 (hora España) · American Express Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/11 08:43_
+_Actualizadas: 28/11 20:58_
 
 - **1X2:** 1 **1.57**  ·  X **4.50**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.18**  ·  X2 **2.30**

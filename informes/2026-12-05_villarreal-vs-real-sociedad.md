@@ -1,7 +1,7 @@
 # Villarreal – Real Sociedad
 **LaLiga** · Regular Season - 15 · 05/12/2026 18:30 (hora España) · Estadio de la Ceramica
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Actualizadas: 27/11 22:17_

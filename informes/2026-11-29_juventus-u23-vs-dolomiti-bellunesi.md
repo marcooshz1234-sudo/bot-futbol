@@ -1,17 +1,18 @@
 # Juventus U23 – Dolomiti Bellunesi
 **Serie C** · Girone A - 16 · 29/11/2026 14:30 (hora España) · Stadio Giuseppe Moccagatta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/11 08:43_
+_Actualizadas: 28/11 20:58_
 
-- **1X2:** 1 **1.55**  ·  X **3.50**  ·  2 **5.50**
+- **1X2:** 1 **1.57**  ·  X **3.50**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.11**  ·  12 **1.22**  ·  X2 **2.15**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
+    - 0,5: más **1.05** · menos **8.50**
     - 1,5: más **1.25** · menos **3.75**
-    - 2,5: más **1.85** · menos **1.95**
+    - 2,5: más **1.80** · menos **2.00**
     - 3,5: más **3.00** · menos **1.36**
     - 4,5: más **5.50** · menos **1.12**
     - 5,5: más **9.00** · menos **1.04**
@@ -28,6 +29,9 @@ _Actualizadas: 28/11 08:43_
     - 0,5: más **1.62** · menos **2.20**
     - 1,5: más **4.00** · menos **1.22**
     - 2,5: más **9.00** · menos **1.04**
+- **Córners más/menos:**
+    - 9: más **1.80** · menos **2.00**
+    - 9,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **2.10**  ·  X **2.25**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**

@@ -1,7 +1,7 @@
 # FC Augsburg – 1. FC Köln
 **Bundesliga** · Regular Season - 12 · 05/12/2026 15:30 (hora España) · WWK Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Actualizadas: 27/11 22:17_
@@ -53,52 +53,52 @@ _Actualizadas: 27/11 22:17_
 ## Estadísticas de equipo
 | | FC Augsburg (total) | FC Augsburg en casa | 1. FC Köln (total) | 1. FC Köln fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 12 | 6 |
-| Forma (últimos 5) | VDDVE | VDEEE | EDEVE | EEDDD |
-| Balance | 5V 3E 4D | 2V 3E 1D | 4V 4E 4D | 1V 2E 3D |
-| Goles a favor / partido | 2,42 | 2,00 | 1,50 | 1,00 |
-| Goles en contra / partido | 1,92 | 1,33 | 1,33 | 1,67 |
-| Goles a favor 1ª parte | 0,83 | 0,83 | 0,33 | 0,17 |
-| Goles a favor 2ª parte | 1,58 | 1,17 | 1,17 | 0,83 |
-| Goles en contra 1ª parte | 0,75 | 0,17 | 0,67 | 0,83 |
-| Goles en contra 2ª parte | 1,17 | 1,17 | 0,67 | 0,83 |
-| Más de 1,5 goles | 100% | 100% | 83% | 83% |
-| Más de 2,5 goles | 83% | 83% | 58% | 50% |
-| Más de 3,5 goles | 67% | 50% | 25% | 17% |
-| Ambos marcan | 83% | 83% | 75% | 83% |
-| Portería a cero | 17% | 17% | 17% | 0% |
-| Se queda sin marcar | 0% | 0% | 17% | 17% |
-| xG a favor | 2,17 | 2,37 | 1,74 | 1,66 |
-| xG en contra | 2,26 | 2,27 | 1,49 | 1,75 |
-| Tiros / partido | 17,6 | 17,7 | 14,3 | 13,3 |
-| Tiros a puerta / partido | 7,1 | 7,0 | 5,2 | 4,2 |
-| Tiros recibidos | 17,0 | 15,7 | 13,8 | 13,5 |
-| Tiros a puerta recibidos | 5,9 | 4,5 | 4,7 | 4,5 |
+| Partidos analizados | 12 | 6 | 13 | 6 |
+| Forma (últimos 5) | VDDVE | VDEEE | VEDEV | EEDDD |
+| Balance | 5V 3E 4D | 2V 3E 1D | 5V 4E 4D | 1V 2E 3D |
+| Goles a favor / partido | 2,42 | 2,00 | 1,77 | 1,00 |
+| Goles en contra / partido | 1,92 | 1,33 | 1,23 | 1,67 |
+| Goles a favor 1ª parte | 0,83 | 0,83 | 0,54 | 0,17 |
+| Goles a favor 2ª parte | 1,58 | 1,17 | 1,23 | 0,83 |
+| Goles en contra 1ª parte | 0,75 | 0,17 | 0,62 | 0,83 |
+| Goles en contra 2ª parte | 1,17 | 1,17 | 0,62 | 0,83 |
+| Más de 1,5 goles | 100% | 100% | 85% | 83% |
+| Más de 2,5 goles | 83% | 83% | 62% | 50% |
+| Más de 3,5 goles | 67% | 50% | 31% | 17% |
+| Ambos marcan | 83% | 83% | 69% | 83% |
+| Portería a cero | 17% | 17% | 23% | 0% |
+| Se queda sin marcar | 0% | 0% | 15% | 17% |
+| xG a favor | 2,17 | 2,37 | 1,80 | 1,66 |
+| xG en contra | 2,26 | 2,27 | 1,55 | 1,75 |
+| Tiros / partido | 17,6 | 17,7 | 14,7 | 13,3 |
+| Tiros a puerta / partido | 7,1 | 7,0 | 5,3 | 4,2 |
+| Tiros recibidos | 17,0 | 15,7 | 14,6 | 13,5 |
+| Tiros a puerta recibidos | 5,9 | 4,5 | 4,8 | 4,5 |
 | Posesión media % | 46 | 48 | 50 | 52 |
 | Córners a favor | 5,1 | 5,0 | 4,8 | 4,5 |
-| Córners en contra | 4,7 | 4,8 | 5,4 | 5,3 |
-| Córners a favor 1ª parte | 2,6 | 2,5 | 2,4 | 2,3 |
+| Córners en contra | 4,7 | 4,8 | 5,8 | 5,3 |
+| Córners a favor 1ª parte | 2,6 | 2,5 | 2,5 | 2,3 |
 | Córners a favor 2ª parte | 2,5 | 2,5 | 2,4 | 2,2 |
-| Córners totales del partido | 9,8 | 9,8 | 10,2 | 9,8 |
-| Córners totales 1ª parte | 4,8 | 5,0 | 5,0 | 5,0 |
-| Córners totales 2ª parte | 5,0 | 4,8 | 5,2 | 4,8 |
-| Más de 8,5 córners | 50% | 50% | 58% | 50% |
-| Más de 9,5 córners | 50% | 50% | 58% | 50% |
-| Más de 10,5 córners | 50% | 50% | 42% | 17% |
-| Faltas cometidas | 9,8 | 8,0 | 9,7 | 9,7 |
-| Faltas recibidas | 9,8 | 9,3 | 11,3 | 8,8 |
-| Amarillas propias | 1,5 | 1,0 | 2,2 | 2,3 |
+| Córners totales del partido | 9,8 | 9,8 | 10,6 | 9,8 |
+| Córners totales 1ª parte | 4,8 | 5,0 | 5,2 | 5,0 |
+| Córners totales 2ª parte | 5,0 | 4,8 | 5,4 | 4,8 |
+| Más de 8,5 córners | 50% | 50% | 62% | 50% |
+| Más de 9,5 córners | 50% | 50% | 62% | 50% |
+| Más de 10,5 córners | 50% | 50% | 46% | 17% |
+| Faltas cometidas | 9,8 | 8,0 | 9,3 | 9,7 |
+| Faltas recibidas | 9,8 | 9,3 | 11,2 | 8,8 |
+| Amarillas propias | 1,5 | 1,0 | 2,1 | 2,3 |
 | Amarillas del rival | 1,8 | 1,7 | 2,2 | 1,7 |
 | Rojas / partido | 0,08 | 0,17 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles FC Augsburg | Recibe FC Augsburg | Tarjetas FC Augsburg | Goles 1. FC Köln | Recibe 1. FC Köln | Tarjetas 1. FC Köln |
 |---|---|---|---|---|---|---|
-| 1-15' | 3 | 3 | 1 | 2 | 2 | 1 |
-| 16-30' | 5 | 3 | 3 | 1 | 2 | 0 |
-| 31-45' | 2 | 3 | 7 | 1 | 4 | 5 |
+| 1-15' | 3 | 3 | 1 | 3 | 2 | 1 |
+| 16-30' | 5 | 3 | 3 | 2 | 2 | 0 |
+| 31-45' | 2 | 3 | 7 | 2 | 4 | 5 |
 | 46-60' | 7 | 4 | 2 | 3 | 2 | 7 |
-| 61-75' | 5 | 4 | 4 | 3 | 3 | 3 |
+| 61-75' | 5 | 4 | 4 | 5 | 3 | 4 |
 | 76-90' | 8 | 6 | 3 | 8 | 3 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -151,33 +151,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de 1. FC Köln
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Bundesliga | 1. FC Köln 5-0 SV Elversberg | casa | 5-10 | 19 (6) - 24 (6) | 1-1 |
 | 2026-11-20 | Bundesliga | Bayern München 1-1 1. FC Köln | fuera | 0-5 | 7 (4) - 17 (1) | 2-1 |
 | 2026-11-08 | Bundesliga | 1. FC Köln 1-2 Bayer Leverkusen | casa | 2-6 | 12 (6) - 14 (8) | 6-5 |
 | 2026-11-01 | Bundesliga | Union Berlin 1-1 1. FC Köln | fuera | 6-2 | 14 (2) - 5 (2) | 3-4 |
 | 2026-10-27 | DFB-Pokal | 1. FC Köln 5-0 Union Berlin | casa | 3-4 | 14 (8) - 17 (4) | 1-3 |
 | 2026-10-24 | Bundesliga | 1. FC Köln 0-0 FC Schalke 04 | casa | 6-5 | 14 (5) - 9 (1) | 2-3 |
-| 2026-10-16 | Bundesliga | Eintracht Frankfurt 1-0 1. FC Köln | fuera | 3-7 | 9 (3) - 15 (7) | 2-2 |
 
 ## Jugadores de 1. FC Köln
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Jahmai Simpson-Pusey | D | 12 | 1080 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 5 | 12 | 1,0 | 3 | 0 |
-| M. Schwäbe | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| T. Krauß | M | 12 | 997 | 0 | 0 | 5 | 0,4 | 2 | 0,2 | 12 | 14 | 1,2 | 3 | 0 |
-| S. El Mala | F | 11 | 848 | 5 | 2 | 37 | 3,4 | 13 | 1,2 | 11 | 10 | 0,9 | 1 | 0 |
-| L. Maina | M | 12 | 802 | 2 | 4 | 9 | 0,8 | 7 | 0,6 | 4 | 16 | 1,3 | 2 | 0 |
-| L. Lochoshvili | D | 9 | 789 | 0 | 0 | 5 | 0,6 | 0 | 0,0 | 9 | 8 | 0,9 | 1 | 0 |
-| M. Bülter | F | 12 | 731 | 1 | 2 | 16 | 1,3 | 9 | 0,8 | 10 | 22 | 1,8 | 1 | 0 |
-| Í. Bergmann Jóhannesson | M | 12 | 674 | 4 | 0 | 7 | 0,6 | 6 | 0,5 | 8 | 2 | 0,2 | 2 | 0 |
-| M. Moore | M | 10 | 658 | 1 | 0 | 18 | 1,8 | 7 | 0,7 | 7 | 8 | 0,8 | 1 | 0 |
-| B. Sosa | M | 8 | 647 | 0 | 0 | 4 | 0,5 | 3 | 0,4 | 4 | 4 | 0,5 | 2 | 0 |
-| S. Sebulonsen | M | 8 | 546 | 1 | 0 | 6 | 0,8 | 3 | 0,4 | 4 | 2 | 0,2 | 1 | 0 |
+| M. Schwäbe | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| Jahmai Simpson-Pusey | D | 13 | 1170 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 5 | 13 | 1,0 | 3 | 0 |
+| T. Krauß | D | 13 | 1075 | 0 | 0 | 5 | 0,4 | 2 | 0,2 | 13 | 16 | 1,2 | 3 | 0 |
+| S. El Mala | F | 12 | 926 | 7 | 2 | 44 | 3,7 | 15 | 1,2 | 11 | 10 | 0,8 | 1 | 0 |
+| L. Maina | M | 13 | 892 | 2 | 4 | 11 | 0,8 | 7 | 0,5 | 5 | 17 | 1,3 | 3 | 0 |
+| M. Bülter | F | 13 | 804 | 4 | 2 | 19 | 1,5 | 12 | 0,9 | 10 | 25 | 1,9 | 1 | 0 |
+| L. Lochoshvili | D | 10 | 801 | 0 | 0 | 5 | 0,5 | 0 | 0,0 | 9 | 8 | 0,8 | 1 | 0 |
+| B. Sosa | M | 9 | 737 | 0 | 2 | 4 | 0,4 | 3 | 0,3 | 5 | 5 | 0,6 | 2 | 0 |
+| M. Moore | M | 11 | 723 | 1 | 1 | 21 | 1,9 | 7 | 0,6 | 7 | 9 | 0,8 | 1 | 0 |
+| Í. Bergmann Jóhannesson | M | 13 | 699 | 4 | 0 | 7 | 0,5 | 6 | 0,5 | 8 | 2 | 0,2 | 2 | 0 |
+| S. Sebulonsen | M | 9 | 619 | 1 | 0 | 7 | 0,8 | 4 | 0,4 | 5 | 3 | 0,3 | 1 | 0 |
+| Paul Michael Junior Okon-Engstler | M | 11 | 581 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 10 | 4 | 0,4 | 3 | 0 |
+| J. Schmied | D | 10 | 540 | 0 | 1 | 4 | 0,4 | 1 | 0,1 | 8 | 2 | 0,2 | 1 | 0 |
 | A. Castro-Montes | M | 10 | 526 | 0 | 1 | 4 | 0,4 | 0 | 0,0 | 3 | 2 | 0,2 | 1 | 0 |
-| Paul Michael Junior Okon-Engstler | M | 10 | 491 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 10 | 4 | 0,4 | 3 | 0 |
-| J. Schmied | D | 9 | 450 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 7 | 2 | 0,2 | 1 | 0 |
 | G. Mensah | D | 6 | 418 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 9 | 2 | 0,3 | 2 | 0 |
 | Ellyes Skhiri | M | 6 | 310 | 0 | 2 | 2 | 0,3 | 1 | 0,2 | 6 | 2 | 0,3 | 1 | 0 |
-| Ragnar Ache | F | 5 | 267 | 1 | 1 | 6 | 1,2 | 3 | 0,6 | 1 | 6 | 1,2 | 1 | 0 |
-| J. Thielmann | M | 7 | 255 | 0 | 0 | 4 | 0,6 | 1 | 0,1 | 0 | 3 | 0,4 | 0 | 0 |
+| R. Ache | F | 6 | 284 | 1 | 1 | 6 | 1,0 | 3 | 0,5 | 1 | 6 | 1,0 | 1 | 0 |
+| J. Thielmann | M | 8 | 272 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 0 | 3 | 0,4 | 0 | 0 |
 | Thijs Dallinga | F | 4 | 168 | 2 | 0 | 7 | 1,8 | 4 | 1,0 | 2 | 3 | 0,8 | 0 | 0 |
-| Reigan Heskey | F | 6 | 65 | 0 | 1 | 3 | 0,5 | 0 | 0,0 | 1 | 2 | 0,3 | 0 | 0 |
+| Reigan Heskey | F | 7 | 77 | 0 | 1 | 3 | 0,4 | 0 | 0,0 | 1 | 2 | 0,3 | 0 | 0 |

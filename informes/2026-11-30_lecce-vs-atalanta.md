@@ -1,10 +1,10 @@
 # Lecce – Atalanta
 **Serie A** · Regular Season - 13 · 30/11/2026 18:30 (hora España) · Stadio Via del Mare
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/11 08:44_
+_Actualizadas: 28/11 20:59_
 
 - **1X2:** 1 **4.20**  ·  X **3.60**  ·  2 **1.85**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.22**
@@ -30,7 +30,7 @@ _Actualizadas: 28/11 08:44_
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 9,5: más **1.80** · menos **2.00**
+    - 9,5: más **1.80** · menos **1.91**
 - **Córners 1X2:** 1 **2.20**  ·  X **8.00**  ·  2 **1.91**
 - **Tarjetas más/menos:**
     - 3,5: más **1.91** · menos **1.80**

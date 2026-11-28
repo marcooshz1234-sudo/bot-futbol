@@ -1,10 +1,10 @@
 # Fortuna Sittard – Heerenveen
 **Eredivisie** · Regular Season - 14 · 29/11/2026 14:30 (hora España) · Fortuna Sittard Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/11 08:43_
+_Actualizadas: 28/11 20:58_
 
 - **1X2:** 1 **4.00**  ·  X **3.60**  ·  2 **1.91**
 - **Doble oportunidad:** 1X **1.83**  ·  12 **1.28**  ·  X2 **1.22**
@@ -29,7 +29,7 @@ _Actualizadas: 28/11 08:43_
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 10,5: más **2.00** · menos **1.80**
+    - 10,5: más **1.91** · menos **1.80**
 - **Córners 1X2:** 1 **2.62**  ·  X **8.50**  ·  2 **1.62**
 - **1X2 descanso:** 1 **3.75**  ·  X **2.50**  ·  2 **2.40**
 - **Goals Over/Under - Second Half:**

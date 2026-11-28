@@ -1,10 +1,10 @@
 # Universitatea Craiova – Dinamo Bucuresti
 **Liga I** · Regular Season - 17 · 30/11/2026 19:00 (hora España) · Stadionul Ion Oblemenco
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/11 08:44_
+_Actualizadas: 28/11 20:59_
 
 - **1X2:** 1 **1.65**  ·  X **3.50**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.10**
@@ -12,10 +12,9 @@ _Actualizadas: 28/11 08:44_
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.28** · menos **3.50**
-    - 2,5: más **1.90** · menos **1.90**
+    - 2,5: más **1.95** · menos **1.85**
     - 3,5: más **3.25** · menos **1.33**
     - 4,5: más **6.50** · menos **1.11**
-    - 5,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.62** · menos **1.44**
@@ -30,7 +29,7 @@ _Actualizadas: 28/11 08:44_
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 8,5: más **1.85** · menos **1.95**
+    - 8,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **1.73**  ·  X **7.50**  ·  2 **2.50**
 - **1X2 descanso:** 1 **2.25**  ·  X **2.25**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
@@ -49,7 +48,7 @@ _Actualizadas: 28/11 08:44_
     - 4,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 3,5: más **1.80** · menos **1.91**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **1.85**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.20**
 
 ## Estadísticas de equipo
 | | Universitatea Craiova (total) | Universitatea Craiova en casa | Dinamo Bucuresti (total) | Dinamo Bucuresti fuera |

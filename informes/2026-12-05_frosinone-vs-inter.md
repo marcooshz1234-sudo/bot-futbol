@@ -1,7 +1,7 @@
 # Frosinone – Inter
 **Serie A** · Regular Season - 14 · 05/12/2026 18:00 (hora España) · Stadio Benito Stirpe
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Actualizadas: 27/11 22:17_
@@ -56,41 +56,41 @@ _Actualizadas: 27/11 22:17_
 ## Estadísticas de equipo
 | | Frosinone (total) | Frosinone en casa | Inter (total) | Inter fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 7 | 17 | 8 |
-| Forma (últimos 5) | DDVVE | VVVVV | VEVVD | EVDVV |
-| Balance | 7V 3E 4D | 6V 0E 1D | 12V 2E 3D | 4V 2E 2D |
-| Goles a favor / partido | 2,14 | 2,86 | 2,47 | 2,12 |
-| Goles en contra / partido | 1,57 | 1,00 | 1,35 | 1,50 |
-| Goles a favor 1ª parte | 1,36 | 1,71 | 0,94 | 0,88 |
-| Goles a favor 2ª parte | 0,79 | 1,14 | 1,53 | 1,25 |
-| Goles en contra 1ª parte | 0,86 | 0,43 | 0,76 | 1,12 |
-| Goles en contra 2ª parte | 0,71 | 0,57 | 0,59 | 0,38 |
-| Más de 1,5 goles | 86% | 86% | 88% | 88% |
-| Más de 2,5 goles | 57% | 57% | 71% | 75% |
-| Más de 3,5 goles | 43% | 57% | 47% | 50% |
-| Ambos marcan | 57% | 57% | 59% | 62% |
-| Portería a cero | 21% | 29% | 41% | 38% |
-| Se queda sin marcar | 21% | 14% | 0% | 0% |
-| xG a favor | 1,76 | 1,98 | 2,55 | 2,51 |
-| xG en contra | 2,09 | 1,75 | 1,39 | 1,52 |
-| Tiros / partido | 19,5 | 19,3 | 20,3 | 18,4 |
-| Tiros a puerta / partido | 6,6 | 7,1 | 6,9 | 6,1 |
-| Tiros recibidos | 16,9 | 17,1 | 11,4 | 12,5 |
-| Tiros a puerta recibidos | 5,7 | 5,6 | 4,1 | 4,5 |
-| Posesión media % | 48 | 45 | 58 | 59 |
-| Córners a favor | 6,8 | 5,9 | 6,4 | 6,5 |
+| Partidos analizados | 15 | 8 | 17 | 8 |
+| Forma (últimos 5) | VDDVV | VVVVV | VEVVD | EVDVV |
+| Balance | 8V 3E 4D | 7V 0E 1D | 12V 2E 3D | 4V 2E 2D |
+| Goles a favor / partido | 2,20 | 2,88 | 2,47 | 2,12 |
+| Goles en contra / partido | 1,47 | 0,88 | 1,35 | 1,50 |
+| Goles a favor 1ª parte | 1,27 | 1,50 | 0,94 | 0,88 |
+| Goles a favor 2ª parte | 0,93 | 1,38 | 1,53 | 1,25 |
+| Goles en contra 1ª parte | 0,80 | 0,38 | 0,76 | 1,12 |
+| Goles en contra 2ª parte | 0,67 | 0,50 | 0,59 | 0,38 |
+| Más de 1,5 goles | 87% | 88% | 88% | 88% |
+| Más de 2,5 goles | 60% | 62% | 71% | 75% |
+| Más de 3,5 goles | 40% | 50% | 47% | 50% |
+| Ambos marcan | 53% | 50% | 59% | 62% |
+| Portería a cero | 27% | 38% | 41% | 38% |
+| Se queda sin marcar | 20% | 12% | 0% | 0% |
+| xG a favor | 1,78 | 1,99 | 2,55 | 2,51 |
+| xG en contra | 1,98 | 1,60 | 1,39 | 1,52 |
+| Tiros / partido | 19,7 | 19,6 | 20,3 | 18,4 |
+| Tiros a puerta / partido | 6,8 | 7,5 | 6,9 | 6,1 |
+| Tiros recibidos | 16,7 | 16,8 | 11,4 | 12,5 |
+| Tiros a puerta recibidos | 5,6 | 5,4 | 4,1 | 4,5 |
+| Posesión media % | 49 | 46 | 58 | 59 |
+| Córners a favor | 7,0 | 6,4 | 6,4 | 6,5 |
 | Córners en contra | 5,6 | 5,4 | 3,6 | 4,2 |
-| Córners a favor 1ª parte | 2,6 | 2,3 | 3,0 | 3,1 |
-| Córners a favor 2ª parte | 4,1 | 3,6 | 3,4 | 3,4 |
-| Córners totales del partido | 12,4 | 11,3 | 9,9 | 10,8 |
-| Córners totales 1ª parte | 6,0 | 5,4 | 4,5 | 4,6 |
-| Córners totales 2ª parte | 6,4 | 5,9 | 5,4 | 6,1 |
-| Más de 8,5 córners | 86% | 71% | 59% | 75% |
-| Más de 9,5 córners | 79% | 57% | 41% | 50% |
-| Más de 10,5 córners | 71% | 57% | 41% | 50% |
-| Faltas cometidas | 15,6 | 16,0 | 9,6 | 9,9 |
-| Faltas recibidas | 11,7 | 13,0 | 9,4 | 8,5 |
-| Amarillas propias | 1,9 | 1,3 | 1,7 | 2,0 |
+| Córners a favor 1ª parte | 2,7 | 2,5 | 3,0 | 3,1 |
+| Córners a favor 2ª parte | 4,3 | 3,9 | 3,4 | 3,4 |
+| Córners totales del partido | 12,6 | 11,8 | 9,9 | 10,8 |
+| Córners totales 1ª parte | 6,1 | 5,8 | 4,5 | 4,6 |
+| Córners totales 2ª parte | 6,5 | 6,0 | 5,4 | 6,1 |
+| Más de 8,5 córners | 87% | 75% | 59% | 75% |
+| Más de 9,5 córners | 80% | 62% | 41% | 50% |
+| Más de 10,5 córners | 73% | 62% | 41% | 50% |
+| Faltas cometidas | 15,8 | 16,4 | 9,6 | 9,9 |
+| Faltas recibidas | 11,4 | 12,2 | 9,4 | 8,5 |
+| Amarillas propias | 1,9 | 1,2 | 1,7 | 2,0 |
 | Amarillas del rival | 2,4 | 2,6 | 1,8 | 1,9 |
 | Rojas / partido | 0,00 | 0,00 | 0,06 | 0,00 |
 
@@ -99,10 +99,10 @@ _Actualizadas: 27/11 22:17_
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 3 | 3 | 5 | 6 | 4 |
 | 16-30' | 9 | 3 | 3 | 5 | 4 | 2 |
-| 31-45' | 6 | 6 | 7 | 6 | 3 | 7 |
-| 46-60' | 4 | 5 | 4 | 8 | 2 | 4 |
-| 61-75' | 3 | 3 | 4 | 4 | 4 | 6 |
-| 76-90' | 4 | 2 | 6 | 14 | 4 | 6 |
+| 31-45' | 6 | 6 | 8 | 6 | 3 | 7 |
+| 46-60' | 5 | 5 | 4 | 8 | 2 | 4 |
+| 61-75' | 4 | 3 | 4 | 4 | 4 | 6 |
+| 76-90' | 5 | 2 | 6 | 14 | 4 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -120,36 +120,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Frosinone
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Serie A | Frosinone 3-0 Parma | casa | 10-5 | 22 (10) - 14 (4) | 1-3 |
 | 2026-11-22 | Serie A | AC Milan 5-1 Frosinone | fuera | 9-2 | 15 (3) - 12 (8) | 4-1 |
 | 2026-11-07 | Serie A | Cagliari 1-0 Frosinone | fuera | 13-3 | 29 (9) - 14 (4) | 3-3 |
 | 2026-11-01 | Serie A | Frosinone 2-0 Torino | casa | 7-7 | 20 (8) - 12 (3) | 1-3 |
 | 2026-10-29 | Serie A | Frosinone 5-1 Lecce | casa | 10-3 | 26 (9) - 15 (6) | 0-3 |
 | 2026-10-25 | Serie A | Atalanta 4-4 Frosinone | fuera | 9-8 | 24 (10) - 22 (9) | 4-1 |
-| 2026-10-16 | Serie A | Frosinone 4-2 Sassuolo | casa | 5-4 | 21 (10) - 14 (6) | 0-1 |
 
 ## Jugadores de Frosinone
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| L. Palmisani | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 4 | 0,3 | 0 | 0 |
-| G. Calò | M | 13 | 1099 | 5 | 1 | 29 | 2,2 | 14 | 1,1 | 17 | 25 | 1,9 | 1 | 0 |
-| G. Calvani | D | 12 | 1054 | 0 | 0 | 6 | 0,5 | 0 | 0,0 | 10 | 7 | 0,6 | 2 | 0 |
-| G. Kvernadze | F | 13 | 1053 | 5 | 5 | 28 | 2,2 | 10 | 0,8 | 14 | 17 | 1,3 | 2 | 0 |
-| A. Oyono | M | 12 | 983 | 0 | 1 | 9 | 0,8 | 2 | 0,2 | 10 | 18 | 1,5 | 3 | 0 |
-| R. Schmid | M | 13 | 967 | 2 | 4 | 13 | 1,0 | 5 | 0,4 | 11 | 8 | 0,6 | 3 | 0 |
+| L. Palmisani | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 6 | 0,4 | 0 | 0 |
+| G. Calò | M | 14 | 1177 | 5 | 1 | 33 | 2,4 | 14 | 1,0 | 17 | 27 | 1,9 | 1 | 0 |
+| G. Calvani | D | 13 | 1144 | 0 | 0 | 7 | 0,5 | 0 | 0,0 | 11 | 7 | 0,5 | 2 | 0 |
+| G. Kvernadze | M | 14 | 1127 | 5 | 5 | 29 | 2,1 | 11 | 0,8 | 15 | 18 | 1,3 | 2 | 0 |
+| A. Oyono | D | 13 | 1073 | 0 | 1 | 12 | 0,9 | 3 | 0,2 | 10 | 19 | 1,5 | 3 | 0 |
+| R. Schmid | M | 14 | 1057 | 2 | 4 | 15 | 1,1 | 7 | 0,5 | 14 | 8 | 0,6 | 3 | 0 |
+| F. Ghedjemis | M | 12 | 911 | 1 | 5 | 35 | 2,9 | 14 | 1,2 | 2 | 4 | 0,3 | 0 | 0 |
+| P. Masini | M | 13 | 871 | 1 | 2 | 9 | 0,7 | 2 | 0,2 | 24 | 9 | 0,7 | 2 | 0 |
+| G. Bracaglia | D | 12 | 868 | 1 | 1 | 6 | 0,5 | 5 | 0,4 | 12 | 8 | 0,7 | 5 | 0 |
+| I. Monterisi | D | 13 | 851 | 0 | 0 | 11 | 0,8 | 2 | 0,2 | 29 | 8 | 0,6 | 3 | 0 |
 | A. Raimondo | F | 11 | 851 | 9 | 1 | 31 | 2,8 | 12 | 1,1 | 17 | 12 | 1,1 | 3 | 0 |
-| F. Ghedjemis | F | 11 | 821 | 1 | 5 | 33 | 3,0 | 13 | 1,2 | 2 | 4 | 0,4 | 0 | 0 |
-| I. Monterisi | D | 12 | 806 | 0 | 0 | 10 | 0,8 | 2 | 0,2 | 28 | 7 | 0,6 | 2 | 0 |
-| G. Bracaglia | D | 11 | 789 | 1 | 1 | 6 | 0,5 | 5 | 0,5 | 11 | 8 | 0,7 | 5 | 0 |
-| P. Masini | M | 12 | 781 | 1 | 1 | 7 | 0,6 | 1 | 0,1 | 22 | 9 | 0,8 | 2 | 0 |
-| G. Cittadini | D | 10 | 594 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 16 | 7 | 0,7 | 2 | 0 |
-| Matteo Cichella | M | 11 | 466 | 2 | 0 | 10 | 0,9 | 7 | 0,6 | 8 | 2 | 0,2 | 0 | 0 |
-| A. Zerbin | F | 12 | 333 | 0 | 0 | 5 | 0,4 | 2 | 0,2 | 8 | 6 | 0,5 | 0 | 0 |
-| S. Fini | F | 8 | 325 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 4 | 8 | 1,0 | 0 | 0 |
-| A. Terzić | D | 7 | 300 | 2 | 0 | 8 | 1,1 | 2 | 0,3 | 6 | 2 | 0,3 | 1 | 0 |
+| G. Cittadini | D | 11 | 639 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 19 | 7 | 0,6 | 2 | 0 |
+| Matteo Cichella | M | 12 | 478 | 2 | 0 | 10 | 0,8 | 7 | 0,6 | 9 | 2 | 0,2 | 0 | 0 |
+| A. Zerbin | F | 13 | 349 | 0 | 1 | 5 | 0,4 | 2 | 0,2 | 8 | 6 | 0,5 | 0 | 0 |
+| S. Fini | F | 9 | 333 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 5 | 8 | 0,9 | 0 | 0 |
+| A. Terzić | D | 8 | 311 | 2 | 0 | 8 | 1,0 | 2 | 0,2 | 7 | 2 | 0,2 | 1 | 0 |
 | E. Tchato | M | 5 | 278 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 0 | 0,0 | 0 | 0 |
 | D. Bîrligea | F | 8 | 274 | 2 | 0 | 16 | 2,0 | 8 | 1,0 | 5 | 1 | 0,1 | 0 | 0 |
 | L. Hasa | M | 6 | 193 | 0 | 1 | 8 | 1,3 | 3 | 0,5 | 4 | 9 | 1,5 | 0 | 0 |
-| W. Amey | D | 6 | 173 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 4 | 4 | 0,7 | 0 | 0 |
+| T. Bobček | F | 5 | 174 | 3 | 0 | 12 | 2,4 | 6 | 1,2 | 5 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de Inter
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

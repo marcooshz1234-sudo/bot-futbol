@@ -1,7 +1,7 @@
 # Eintracht Frankfurt – Werder Bremen
 **Bundesliga** · Regular Season - 12 · 05/12/2026 18:30 (hora España) · Deutsche Bank Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Actualizadas: 27/11 22:18_
@@ -43,52 +43,52 @@ _Actualizadas: 27/11 22:18_
 ## Estadísticas de equipo
 | | Eintracht Frankfurt (total) | Eintracht Frankfurt en casa | Werder Bremen (total) | Werder Bremen fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 5 | 13 | 7 |
-| Forma (últimos 5) | VEVVD | VVVED | EVDVD | DDVEE |
-| Balance | 6V 3E 3D | 3V 1E 1D | 6V 4E 3D | 2V 2E 3D |
-| Goles a favor / partido | 2,50 | 1,60 | 2,23 | 1,71 |
-| Goles en contra / partido | 1,75 | 1,40 | 1,62 | 1,86 |
-| Goles a favor 1ª parte | 1,67 | 1,00 | 0,38 | 0,43 |
-| Goles a favor 2ª parte | 0,83 | 0,60 | 1,85 | 1,29 |
-| Goles en contra 1ª parte | 0,67 | 0,40 | 0,85 | 1,00 |
+| Partidos analizados | 13 | 5 | 13 | 7 |
+| Forma (últimos 5) | EVEVV | VVVED | EVDVD | DDVEE |
+| Balance | 6V 4E 3D | 3V 1E 1D | 6V 4E 3D | 2V 2E 3D |
+| Goles a favor / partido | 2,46 | 1,60 | 2,23 | 1,71 |
+| Goles en contra / partido | 1,77 | 1,40 | 1,62 | 1,86 |
+| Goles a favor 1ª parte | 1,62 | 1,00 | 0,38 | 0,43 |
+| Goles a favor 2ª parte | 0,85 | 0,60 | 1,85 | 1,29 |
+| Goles en contra 1ª parte | 0,69 | 0,40 | 0,85 | 1,00 |
 | Goles en contra 2ª parte | 1,08 | 1,00 | 0,77 | 0,86 |
-| Más de 1,5 goles | 75% | 60% | 92% | 86% |
-| Más de 2,5 goles | 75% | 60% | 77% | 71% |
-| Más de 3,5 goles | 75% | 60% | 69% | 57% |
-| Ambos marcan | 58% | 60% | 69% | 71% |
-| Portería a cero | 25% | 40% | 23% | 14% |
-| Se queda sin marcar | 17% | 0% | 8% | 14% |
-| xG a favor | 1,82 | 2,13 | 1,63 | 1,40 |
-| xG en contra | 2,13 | 1,69 | 1,62 | 1,73 |
-| Tiros / partido | 14,5 | 16,6 | 16,6 | 15,7 |
-| Tiros a puerta / partido | 5,6 | 6,8 | 6,7 | 5,6 |
-| Tiros recibidos | 16,1 | 15,2 | 14,6 | 14,3 |
+| Más de 1,5 goles | 77% | 60% | 92% | 86% |
+| Más de 2,5 goles | 77% | 60% | 77% | 71% |
+| Más de 3,5 goles | 77% | 60% | 69% | 57% |
+| Ambos marcan | 62% | 60% | 69% | 71% |
+| Portería a cero | 23% | 40% | 23% | 14% |
+| Se queda sin marcar | 15% | 0% | 8% | 14% |
+| xG a favor | 1,77 | 2,13 | 1,63 | 1,40 |
+| xG en contra | 2,14 | 1,69 | 1,62 | 1,73 |
+| Tiros / partido | 15,0 | 16,6 | 16,6 | 15,7 |
+| Tiros a puerta / partido | 5,8 | 6,8 | 6,7 | 5,6 |
+| Tiros recibidos | 16,3 | 15,2 | 14,6 | 14,3 |
 | Tiros a puerta recibidos | 5,7 | 4,8 | 4,6 | 5,3 |
-| Posesión media % | 49 | 50 | 50 | 49 |
-| Córners a favor | 5,2 | 6,8 | 4,8 | 5,3 |
-| Córners en contra | 5,0 | 4,6 | 5,1 | 5,4 |
-| Córners a favor 1ª parte | 2,7 | 3,4 | 1,3 | 1,4 |
-| Córners a favor 2ª parte | 2,5 | 3,4 | 3,5 | 3,9 |
-| Córners totales del partido | 10,2 | 11,4 | 9,8 | 10,7 |
-| Córners totales 1ª parte | 5,4 | 6,2 | 3,7 | 3,9 |
-| Córners totales 2ª parte | 4,8 | 5,2 | 6,2 | 6,9 |
-| Más de 8,5 córners | 64% | 80% | 69% | 71% |
-| Más de 9,5 córners | 45% | 80% | 54% | 71% |
-| Más de 10,5 córners | 36% | 60% | 54% | 71% |
-| Faltas cometidas | 11,2 | 10,2 | 10,4 | 9,7 |
-| Faltas recibidas | 11,9 | 12,6 | 10,5 | 10,0 |
-| Amarillas propias | 2,3 | 1,8 | 1,7 | 1,4 |
-| Amarillas del rival | 1,4 | 2,2 | 1,4 | 1,3 |
-| Rojas / partido | 0,09 | 0,00 | 0,00 | 0,00 |
+| Posesión media % | 50 | 50 | 50 | 49 |
+| Córners a favor | 5,4 | 6,8 | 4,8 | 5,3 |
+| Córners en contra | 5,1 | 4,6 | 5,1 | 5,4 |
+| Córners a favor 1ª parte | 3,1 | 3,4 | 1,3 | 1,4 |
+| Córners a favor 2ª parte | 2,3 | 3,4 | 3,5 | 3,9 |
+| Córners totales del partido | 10,5 | 11,4 | 9,8 | 10,7 |
+| Córners totales 1ª parte | 5,5 | 6,2 | 3,7 | 3,9 |
+| Córners totales 2ª parte | 5,0 | 5,2 | 6,2 | 6,9 |
+| Más de 8,5 córners | 67% | 80% | 69% | 71% |
+| Más de 9,5 córners | 50% | 80% | 54% | 71% |
+| Más de 10,5 córners | 42% | 60% | 54% | 71% |
+| Faltas cometidas | 11,0 | 10,2 | 10,4 | 9,7 |
+| Faltas recibidas | 12,0 | 12,6 | 10,5 | 10,0 |
+| Amarillas propias | 2,2 | 1,8 | 1,7 | 1,4 |
+| Amarillas del rival | 1,6 | 2,2 | 1,4 | 1,3 |
+| Rojas / partido | 0,08 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Eintracht Frankfurt | Recibe Eintracht Frankfurt | Tarjetas Eintracht Frankfurt | Goles Werder Bremen | Recibe Werder Bremen | Tarjetas Werder Bremen |
 |---|---|---|---|---|---|---|
 | 1-15' | 8 | 4 | 4 | 3 | 3 | 1 |
 | 16-30' | 4 | 0 | 2 | 1 | 6 | 4 |
-| 31-45' | 8 | 4 | 4 | 1 | 2 | 5 |
-| 46-60' | 3 | 4 | 3 | 4 | 4 | 7 |
-| 61-75' | 4 | 2 | 5 | 9 | 1 | 1 |
+| 31-45' | 9 | 5 | 4 | 1 | 2 | 5 |
+| 46-60' | 3 | 5 | 3 | 4 | 4 | 7 |
+| 61-75' | 5 | 2 | 6 | 9 | 1 | 1 |
 | 76-90' | 3 | 7 | 12 | 11 | 5 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -107,36 +107,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Eintracht Frankfurt
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Bundesliga | VfB Stuttgart 2-2 Eintracht Frankfurt | fuera | 8-6 | 20 (7) - 19 (5) | 1-4 |
 | 2026-11-21 | Bundesliga | Eintracht Frankfurt 1-0 1899 Hoffenheim | casa | 9-5 | 21 (6) - 16 (4) | 2-2 |
 | 2026-11-07 | Bundesliga | SC Paderborn 07 2-2 Eintracht Frankfurt | fuera | 6-2 | 16 (3) - 11 (3) | 1-1 |
 | 2026-11-01 | Bundesliga | Eintracht Frankfurt 3-1 Hamburger SV | casa | 6-6 | 15 (10) - 12 (3) | 2-4 |
 | 2026-10-27 | DFB-Pokal | Hamburger SV 1-3 Eintracht Frankfurt | fuera | 3-5 | 12 (5) - 15 (6) | 4-0 |
 | 2026-10-24 | Bundesliga | Borussia Dortmund 1-0 Eintracht Frankfurt | fuera | 1-13 | 8 (3) - 18 (5) | 2-0 |
-| 2026-10-16 | Bundesliga | Eintracht Frankfurt 1-0 1. FC Köln | casa | 7-3 | 15 (7) - 9 (3) | 2-2 |
 
 ## Jugadores de Eintracht Frankfurt
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| N. Atubolu | G | 11 | 990 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 0 | 2 | 0,2 | 1 | 0 |
-| R. Onyedika | M | 11 | 985 | 1 | 0 | 3 | 0,3 | 2 | 0,2 | 16 | 5 | 0,5 | 5 | 0 |
-| R. Koch | D | 11 | 945 | 1 | 1 | 9 | 0,8 | 6 | 0,5 | 11 | 4 | 0,4 | 1 | 0 |
-| J. Burkardt | F | 11 | 830 | 7 | 2 | 24 | 2,2 | 11 | 1,0 | 4 | 14 | 1,3 | 0 | 0 |
-| R. Dōan | M | 10 | 821 | 0 | 1 | 12 | 1,2 | 2 | 0,2 | 9 | 20 | 2,0 | 0 | 0 |
-| L. Brassier | D | 9 | 810 | 0 | 0 | 6 | 0,7 | 2 | 0,2 | 7 | 7 | 0,8 | 1 | 0 |
-| Elias Baum | D | 10 | 705 | 0 | 1 | 6 | 0,6 | 2 | 0,2 | 10 | 12 | 1,2 | 2 | 1 |
-| Y. Ebnoutalib | F | 11 | 695 | 7 | 1 | 25 | 2,3 | 13 | 1,2 | 4 | 9 | 0,8 | 1 | 0 |
+| N. Atubolu | G | 12 | 1080 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 0 | 2 | 0,2 | 1 | 0 |
+| R. Onyedika | M | 12 | 1075 | 1 | 0 | 3 | 0,2 | 2 | 0,2 | 18 | 6 | 0,5 | 5 | 0 |
+| R. Koch | D | 12 | 1035 | 1 | 2 | 9 | 0,8 | 6 | 0,5 | 12 | 5 | 0,4 | 2 | 0 |
+| J. Burkardt | F | 12 | 920 | 7 | 3 | 28 | 2,3 | 14 | 1,2 | 6 | 15 | 1,2 | 0 | 0 |
+| L. Brassier | D | 10 | 900 | 0 | 0 | 7 | 0,7 | 2 | 0,2 | 7 | 8 | 0,8 | 1 | 0 |
+| R. Dōan | M | 11 | 899 | 0 | 1 | 14 | 1,3 | 3 | 0,3 | 9 | 23 | 2,1 | 0 | 0 |
+| Elias Baum | D | 11 | 795 | 0 | 1 | 7 | 0,6 | 2 | 0,2 | 11 | 12 | 1,1 | 2 | 1 |
+| Y. Ebnoutalib | F | 12 | 773 | 8 | 1 | 28 | 2,3 | 14 | 1,2 | 5 | 11 | 0,9 | 1 | 0 |
+| F. Chaïbi | M | 10 | 752 | 0 | 2 | 26 | 2,6 | 12 | 1,2 | 3 | 4 | 0,4 | 1 | 0 |
 | K. Kosugi | D | 9 | 670 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 9 | 15 | 1,7 | 1 | 0 |
 | C. Uzun | M | 9 | 670 | 2 | 1 | 14 | 1,6 | 7 | 0,8 | 4 | 15 | 1,7 | 0 | 0 |
-| F. Chaïbi | M | 9 | 662 | 0 | 2 | 21 | 2,3 | 11 | 1,2 | 3 | 4 | 0,4 | 1 | 0 |
-| N. Aséko Nkili | M | 9 | 496 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 6 | 6 | 0,7 | 0 | 0 |
+| N. Aséko Nkili | M | 10 | 513 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 6 | 6 | 0,6 | 0 | 0 |
+| A. Knauff | D | 8 | 414 | 1 | 1 | 8 | 1,0 | 4 | 0,5 | 8 | 2 | 0,2 | 1 | 0 |
 | N. Collins | D | 7 | 382 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 9 | 0 | 0,0 | 3 | 0 |
-| A. Knauff | D | 7 | 324 | 0 | 1 | 5 | 0,7 | 3 | 0,4 | 8 | 1 | 0,1 | 1 | 0 |
+| M. Götze | M | 9 | 330 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 10 | 4 | 0,4 | 3 | 0 |
 | J. Maluze | D | 3 | 270 | 0 | 1 | 1 | 0,3 | 0 | 0,0 | 3 | 1 | 0,3 | 2 | 0 |
-| M. Götze | M | 8 | 257 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 8 | 3 | 0,4 | 3 | 0 |
 | O. HÃ¸jlund | M | 4 | 127 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,5 | 1 | 0 |
-| A. Amaimouni | F | 5 | 107 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 3 | 4 | 0,8 | 0 | 0 |
+| A. Amaimouni | F | 6 | 119 | 0 | 0 | 3 | 0,5 | 1 | 0,2 | 3 | 6 | 1,0 | 0 | 0 |
 | L. Arrhov | M | 5 | 40 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
-| M. Pimpong | F | 3 | 33 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
+| N. Ilicevic | M | 3 | 39 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 2 | 1 | 0,3 | 0 | 0 |
 
 ## Últimos partidos de Werder Bremen
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

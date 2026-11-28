@@ -1,7 +1,7 @@
 # AZ Alkmaar – PSV Eindhoven
 **Eredivisie** · Regular Season - 15 · 05/12/2026 20:00 (hora España) · AFAS Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Actualizadas: 27/11 22:18_
@@ -55,53 +55,53 @@ _Actualizadas: 27/11 22:18_
 ## Estadísticas de equipo
 | | AZ Alkmaar (total) | AZ Alkmaar en casa | PSV Eindhoven (total) | PSV Eindhoven fuera |
 |---|---|---|---|---|
-| Partidos analizados | 18 | 8 | 18 | 10 |
-| Forma (últimos 5) | VVVDD | VDDVV | DVVDV | DVVVD |
-| Balance | 11V 2E 5D | 5V 1E 2D | 10V 3E 5D | 6V 0E 4D |
-| Goles a favor / partido | 2,22 | 2,00 | 2,67 | 2,50 |
-| Goles en contra / partido | 1,28 | 1,38 | 1,39 | 1,70 |
-| Goles a favor 1ª parte | 0,61 | 0,62 | 1,33 | 1,50 |
-| Goles a favor 2ª parte | 1,61 | 1,38 | 1,33 | 1,00 |
-| Goles en contra 1ª parte | 0,72 | 0,50 | 0,50 | 0,40 |
-| Goles en contra 2ª parte | 0,56 | 0,88 | 0,89 | 1,30 |
+| Partidos analizados | 18 | 8 | 19 | 10 |
+| Forma (últimos 5) | VVVDD | VDDVV | VDVVD | DVVVD |
+| Balance | 11V 2E 5D | 5V 1E 2D | 11V 3E 5D | 6V 0E 4D |
+| Goles a favor / partido | 2,22 | 2,00 | 2,74 | 2,50 |
+| Goles en contra / partido | 1,28 | 1,38 | 1,32 | 1,70 |
+| Goles a favor 1ª parte | 0,61 | 0,62 | 1,37 | 1,50 |
+| Goles a favor 2ª parte | 1,61 | 1,38 | 1,37 | 1,00 |
+| Goles en contra 1ª parte | 0,72 | 0,50 | 0,47 | 0,40 |
+| Goles en contra 2ª parte | 0,56 | 0,88 | 0,84 | 1,30 |
 | Más de 1,5 goles | 83% | 88% | 89% | 80% |
-| Más de 2,5 goles | 56% | 50% | 72% | 80% |
-| Más de 3,5 goles | 44% | 25% | 56% | 60% |
-| Ambos marcan | 56% | 62% | 78% | 80% |
-| Portería a cero | 22% | 25% | 17% | 10% |
-| Se queda sin marcar | 22% | 12% | 6% | 10% |
+| Más de 2,5 goles | 56% | 50% | 74% | 80% |
+| Más de 3,5 goles | 44% | 25% | 58% | 60% |
+| Ambos marcan | 56% | 62% | 74% | 80% |
+| Portería a cero | 22% | 25% | 21% | 10% |
+| Se queda sin marcar | 22% | 12% | 5% | 10% |
 | xG a favor | 2,08 | 2,52 | 2,32 | 2,09 |
-| xG en contra | 1,30 | 1,20 | 1,48 | 1,57 |
-| Tiros / partido | 16,7 | 17,1 | 18,1 | 16,0 |
+| xG en contra | 1,30 | 1,20 | 1,49 | 1,57 |
+| Tiros / partido | 16,7 | 17,1 | 18,3 | 16,0 |
 | Tiros a puerta / partido | 6,1 | 5,6 | 6,2 | 5,5 |
-| Tiros recibidos | 10,6 | 8,9 | 11,7 | 13,8 |
-| Tiros a puerta recibidos | 3,4 | 3,0 | 4,5 | 4,5 |
-| Posesión media % | 58 | 57 | 58 | 55 |
+| Tiros recibidos | 10,6 | 8,9 | 12,2 | 13,8 |
+| Tiros a puerta recibidos | 3,4 | 3,0 | 4,8 | 4,5 |
+| Posesión media % | 58 | 57 | 59 | 55 |
 | Córners a favor | 6,3 | 6,5 | 5,9 | 4,8 |
-| Córners en contra | 3,7 | 3,0 | 3,2 | 2,9 |
-| Córners a favor 1ª parte | 2,4 | 2,5 | 2,8 | 2,2 |
-| Córners a favor 2ª parte | 3,9 | 4,0 | 3,2 | 2,6 |
-| Córners totales del partido | 10,1 | 9,5 | 9,2 | 7,7 |
+| Córners en contra | 3,7 | 3,0 | 3,5 | 2,9 |
+| Córners a favor 1ª parte | 2,4 | 2,5 | 2,7 | 2,2 |
+| Córners a favor 2ª parte | 3,9 | 4,0 | 3,3 | 2,6 |
+| Córners totales del partido | 10,1 | 9,5 | 9,4 | 7,7 |
 | Córners totales 1ª parte | 4,1 | 3,8 | 3,9 | 3,2 |
-| Córners totales 2ª parte | 6,0 | 5,8 | 5,2 | 4,5 |
-| Más de 8,5 córners | 67% | 50% | 56% | 30% |
-| Más de 9,5 córners | 44% | 38% | 50% | 30% |
-| Más de 10,5 córners | 44% | 38% | 44% | 30% |
-| Faltas cometidas | 12,2 | 11,9 | 10,6 | 10,7 |
-| Faltas recibidas | 12,9 | 13,2 | 9,6 | 11,0 |
-| Amarillas propias | 1,6 | 1,2 | 1,7 | 2,0 |
-| Amarillas del rival | 1,7 | 1,6 | 2,3 | 2,3 |
-| Rojas / partido | 0,00 | 0,00 | 0,06 | 0,10 |
+| Córners totales 2ª parte | 6,0 | 5,8 | 5,5 | 4,5 |
+| Más de 8,5 córners | 67% | 50% | 58% | 30% |
+| Más de 9,5 córners | 44% | 38% | 53% | 30% |
+| Más de 10,5 córners | 44% | 38% | 47% | 30% |
+| Faltas cometidas | 12,2 | 11,9 | 10,5 | 10,7 |
+| Faltas recibidas | 12,9 | 13,2 | 9,3 | 11,0 |
+| Amarillas propias | 1,6 | 1,2 | 1,6 | 2,0 |
+| Amarillas del rival | 1,7 | 1,6 | 2,2 | 2,3 |
+| Rojas / partido | 0,00 | 0,00 | 0,05 | 0,10 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles AZ Alkmaar | Recibe AZ Alkmaar | Tarjetas AZ Alkmaar | Goles PSV Eindhoven | Recibe PSV Eindhoven | Tarjetas PSV Eindhoven |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 6 | 3 | 7 | 4 | 2 |
-| 16-30' | 5 | 5 | 4 | 9 | 2 | 3 |
-| 31-45' | 3 | 2 | 3 | 8 | 3 | 8 |
+| 16-30' | 5 | 5 | 4 | 10 | 2 | 3 |
+| 31-45' | 3 | 2 | 3 | 9 | 3 | 8 |
 | 46-60' | 8 | 4 | 5 | 9 | 5 | 4 |
 | 61-75' | 8 | 2 | 5 | 5 | 4 | 10 |
-| 76-90' | 13 | 4 | 8 | 10 | 7 | 5 |
+| 76-90' | 13 | 4 | 8 | 12 | 7 | 5 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -153,33 +153,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de PSV Eindhoven
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Eredivisie | PSV Eindhoven 4-0 GO Ahead Eagles | casa | 6-8 | 22 (7) - 21 (10) | 0-0 |
 | 2026-11-24 | Champions League | Real Madrid 5-1 PSV Eindhoven | fuera | 1-4 | 10 (1) - 20 (7) | 1-3 |
 | 2026-11-21 | Eredivisie | NEC Nijmegen 1-4 PSV Eindhoven | fuera | 3-5 | 16 (4) - 13 (8) | 3-2 |
 | 2026-11-08 | Eredivisie | Cambuur 2-5 PSV Eindhoven | fuera | 1-1 | 16 (7) - 10 (3) | 2-3 |
 | 2026-11-04 | Champions League | PSV Eindhoven 1-2 Club Brugge KV | casa | 8-5 | 27 (9) - 10 (3) | 0-3 |
 | 2026-10-31 | Eredivisie | PSV Eindhoven 7-0 Willem II | casa | 11-1 | 20 (9) - 4 (1) | 0-2 |
-| 2026-10-25 | Eredivisie | PSV Eindhoven 1-1 Feyenoord | casa | 6-5 | 19 (6) - 13 (9) | 4-3 |
 
 ## Jugadores de PSV Eindhoven
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Matěj Kovář | G | 18 | 1612 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| M. Kovář | G | 19 | 1702 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| S. Dest | D | 18 | 1532 | 3 | 3 | 23 | 1,3 | 12 | 0,7 | 14 | 35 | 1,9 | 3 | 0 |
+| K. Sano | M | 18 | 1531 | 3 | 1 | 22 | 1,2 | 8 | 0,4 | 19 | 15 | 0,8 | 2 | 0 |
 | Armando Obispo | D | 18 | 1500 | 0 | 2 | 10 | 0,6 | 0 | 0,0 | 24 | 9 | 0,5 | 5 | 0 |
-| Guus Til | F | 18 | 1456 | 8 | 2 | 29 | 1,6 | 14 | 0,8 | 17 | 14 | 0,8 | 2 | 0 |
-| Sergiño Dest | D | 17 | 1442 | 3 | 3 | 23 | 1,4 | 12 | 0,7 | 12 | 35 | 2,1 | 3 | 0 |
-| Kodai Sano | M | 17 | 1441 | 3 | 1 | 19 | 1,1 | 7 | 0,4 | 19 | 15 | 0,9 | 2 | 0 |
+| G. Til | M | 19 | 1473 | 8 | 2 | 31 | 1,6 | 14 | 0,7 | 18 | 14 | 0,7 | 2 | 0 |
 | Mauro Júnior | M | 16 | 1291 | 2 | 2 | 13 | 0,8 | 6 | 0,4 | 9 | 19 | 1,2 | 2 | 0 |
-| Lutsharel Geertruida | D | 14 | 1137 | 1 | 2 | 6 | 0,4 | 2 | 0,1 | 14 | 11 | 0,8 | 2 | 0 |
-| Ruben van Bommel | M | 16 | 1134 | 5 | 3 | 30 | 1,9 | 11 | 0,7 | 26 | 9 | 0,6 | 4 | 0 |
+| L. Geertruida | D | 15 | 1227 | 1 | 2 | 8 | 0,5 | 2 | 0,1 | 14 | 11 | 0,7 | 2 | 0 |
+| R. van Bommel | M | 17 | 1217 | 7 | 3 | 33 | 1,9 | 13 | 0,8 | 26 | 10 | 0,6 | 4 | 0 |
 | Ivan Perišić | M | 16 | 1129 | 4 | 1 | 24 | 1,5 | 9 | 0,6 | 10 | 3 | 0,2 | 2 | 0 |
-| Sven Mijnans | F | 16 | 1047 | 9 | 4 | 39 | 2,4 | 18 | 1,1 | 15 | 10 | 0,6 | 1 | 1 |
-| Filip Kostić | D | 12 | 804 | 1 | 0 | 7 | 0,6 | 3 | 0,2 | 8 | 5 | 0,4 | 4 | 0 |
-| R. Pepi | F | 12 | 611 | 4 | 1 | 22 | 1,8 | 8 | 0,7 | 3 | 1 | 0,1 | 0 | 0 |
+| S. Mijnans | M | 17 | 1120 | 9 | 5 | 40 | 2,4 | 19 | 1,1 | 16 | 11 | 0,6 | 1 | 1 |
+| F. Kostić | D | 13 | 885 | 2 | 0 | 8 | 0,6 | 4 | 0,3 | 9 | 6 | 0,5 | 4 | 0 |
+| R. Pepi | F | 13 | 691 | 4 | 1 | 26 | 2,0 | 8 | 0,6 | 4 | 1 | 0,1 | 0 | 0 |
+| P. Wanner | M | 10 | 643 | 0 | 2 | 8 | 0,8 | 5 | 0,5 | 7 | 8 | 0,8 | 0 | 0 |
+| E. Bajraktarevic | M | 13 | 619 | 1 | 5 | 17 | 1,3 | 5 | 0,4 | 5 | 3 | 0,2 | 0 | 0 |
 | Ryan Flamingo | D | 13 | 567 | 1 | 0 | 6 | 0,5 | 2 | 0,2 | 5 | 3 | 0,2 | 0 | 0 |
-| Paul Wanner | M | 9 | 562 | 0 | 2 | 7 | 0,8 | 5 | 0,6 | 6 | 8 | 0,9 | 0 | 0 |
-| Esmir Bajraktarević | F | 12 | 529 | 1 | 5 | 15 | 1,2 | 4 | 0,3 | 5 | 2 | 0,2 | 0 | 0 |
-| Noah Fernandez | M | 10 | 446 | 1 | 0 | 7 | 0,7 | 3 | 0,3 | 4 | 4 | 0,4 | 2 | 0 |
-| Yarek Gasiorowski | D | 7 | 234 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,1 | 0 | 0 |
+| N. Fernandez | M | 11 | 455 | 1 | 0 | 7 | 0,6 | 3 | 0,3 | 4 | 4 | 0,4 | 2 | 0 |
+| Yarek Gasiorowski | D | 8 | 324 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 1 | 0,1 | 0 | 0 |
 | A. Bouhamdi | F | 7 | 200 | 0 | 2 | 6 | 0,9 | 1 | 0,1 | 3 | 1 | 0,1 | 0 | 0 |
-| A. Santos | M | 7 | 146 | 1 | 0 | 5 | 0,7 | 1 | 0,1 | 2 | 6 | 0,9 | 0 | 0 |
+| A. Santos | M | 8 | 153 | 1 | 1 | 7 | 0,9 | 1 | 0,1 | 2 | 6 | 0,8 | 0 | 0 |
 | D. Man | F | 7 | 118 | 0 | 0 | 8 | 1,1 | 2 | 0,3 | 6 | 1 | 0,1 | 1 | 0 |

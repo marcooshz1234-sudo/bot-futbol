@@ -1,49 +1,50 @@
 # Cittadella – PRO Vercelli
 **Serie C** · Girone A - 16 · 29/11/2026 14:30 (hora España) · Stadio Pier Cesare Tombolato
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/11 08:43_
+_Actualizadas: 28/11 20:58_
 
 - **1X2:** 1 **1.33**  ·  X **4.33**  ·  2 **7.50**
 - **Doble oportunidad:** 1X **1.06**  ·  12 **1.14**  ·  X2 **2.88**
-- **Ambos marcan:** Sí **1.91**  ·  No **1.80**
+- **Ambos marcan:** Sí **2.00**  ·  No **1.73**
 - **Goles más/menos:**
-    - 1,5: más **1.20** · menos **4.33**
-    - 2,5: más **1.65** · menos **2.20**
+    - 0,5: más **1.04** · menos **9.00**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.70** · menos **2.10**
     - 3,5: más **2.62** · menos **1.44**
     - 4,5: más **4.50** · menos **1.17**
-    - 5,5: más **8.00** · menos **1.06**
+    - 5,5: más **8.50** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.30** · menos **3.40**
-    - 1,5: más **2.38** · menos **1.53**
-    - 2,5: más **5.00** · menos **1.14**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **5.50** · menos **1.12**
 - **Goles del local:**
-    - 0,5: más **1.10** · menos **6.50**
+    - 0,5: más **1.08** · menos **7.00**
     - 1,5: más **1.50** · menos **2.50**
-    - 2,5: más **2.62** · menos **1.44**
+    - 2,5: más **2.50** · menos **1.50**
     - 3,5: más **4.50** · menos **1.17**
     - 4,5: más **8.50** · menos **1.05**
 - **Goles del visitante:**
-    - 0,5: más **1.80** · menos **1.91**
-    - 1,5: más **4.50** · menos **1.17**
+    - 0,5: más **1.83** · menos **1.83**
+    - 1,5: más **5.00** · menos **1.14**
 - **Córners más/menos:**
-    - 8,5: más **1.82** · menos **1.98**
-- **1X2 descanso:** 1 **1.80**  ·  X **2.50**  ·  2 **6.50**
+    - 8,5: más **1.73** · menos **2.00**
+- **1X2 descanso:** 1 **1.80**  ·  X **2.40**  ·  2 **7.00**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **9.00** · menos **1.07**
-- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
-- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
 - **To Win Either Half:** 1 **1.22**  ·  2 **3.75**
-- **To Score In Both Halves By Teams:** 1 **2.10**  ·  2 **8.00**
-- **Win Both Halves:** 1 **3.25**  ·  2 **29.00**
-- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **6.00**  ·  Away/Yes **13.00**  ·  Home/No **2.20**  ·  Draw/No **13.00**  ·  Away/No **15.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **4.75**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **2.75**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.85**  ·  Menos de 4 **1.95**
+- **To Score In Both Halves By Teams:** 1 **2.10**  ·  2 **10.00**
+- **Win Both Halves:** 1 **3.25**  ·  2 **34.00**
+- **Results/Both Teams Score:** Home/Yes **3.25**  ·  Draw/Yes **6.50**  ·  Away/Yes **13.00**  ·  Home/No **2.10**  ·  Draw/No **12.00**  ·  Away/No **15.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **4.50**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **2.50**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.20**  ·  Menos de 4 **2.30**
 
 ## Estadísticas de equipo
 | | Cittadella (total) | Cittadella en casa | PRO Vercelli (total) | PRO Vercelli fuera |

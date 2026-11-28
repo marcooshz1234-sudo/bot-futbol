@@ -1,7 +1,7 @@
 # Telstar – Groningen
 **Eredivisie** · Regular Season - 15 · 04/12/2026 20:00 (hora España) · BUKO Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Actualizadas: 28/11 08:45_
@@ -43,42 +43,42 @@ _Actualizadas: 28/11 08:45_
 ## Estadísticas de equipo
 | | Telstar (total) | Telstar en casa | Groningen (total) | Groningen fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 8 | 15 | 6 |
-| Forma (últimos 5) | DEVDD | DVDDE | EDDDD | DEVED |
-| Balance | 2V 4E 8D | 1V 2E 5D | 4V 4E 7D | 2V 2E 2D |
-| Goles a favor / partido | 1,36 | 1,62 | 2,07 | 2,67 |
-| Goles en contra / partido | 2,14 | 2,75 | 2,27 | 2,33 |
-| Goles a favor 1ª parte | 0,86 | 1,00 | 1,20 | 1,67 |
-| Goles a favor 2ª parte | 0,50 | 0,62 | 0,87 | 1,00 |
-| Goles en contra 1ª parte | 1,07 | 1,25 | 1,07 | 0,83 |
+| Partidos analizados | 15 | 8 | 15 | 6 |
+| Forma (últimos 5) | DDEVD | DVDDE | EDDDD | DEVED |
+| Balance | 2V 4E 9D | 1V 2E 5D | 4V 4E 7D | 2V 2E 2D |
+| Goles a favor / partido | 1,27 | 1,62 | 2,07 | 2,67 |
+| Goles en contra / partido | 2,07 | 2,75 | 2,27 | 2,33 |
+| Goles a favor 1ª parte | 0,80 | 1,00 | 1,20 | 1,67 |
+| Goles a favor 2ª parte | 0,47 | 0,62 | 0,87 | 1,00 |
+| Goles en contra 1ª parte | 1,00 | 1,25 | 1,07 | 0,83 |
 | Goles en contra 2ª parte | 1,07 | 1,50 | 1,20 | 1,50 |
-| Más de 1,5 goles | 79% | 100% | 100% | 100% |
-| Más de 2,5 goles | 71% | 88% | 80% | 83% |
-| Más de 3,5 goles | 64% | 88% | 67% | 83% |
-| Ambos marcan | 64% | 75% | 87% | 100% |
+| Más de 1,5 goles | 73% | 100% | 100% | 100% |
+| Más de 2,5 goles | 67% | 88% | 80% | 83% |
+| Más de 3,5 goles | 60% | 88% | 67% | 83% |
+| Ambos marcan | 60% | 75% | 87% | 100% |
 | Portería a cero | 7% | 0% | 7% | 0% |
-| Se queda sin marcar | 36% | 25% | 7% | 0% |
-| xG a favor | 1,40 | 1,94 | 1,84 | 1,82 |
-| xG en contra | 1,91 | 1,87 | 2,05 | 2,54 |
-| Tiros / partido | 13,1 | 16,5 | 16,1 | 10,0 |
-| Tiros a puerta / partido | 3,8 | 4,2 | 6,3 | 6,2 |
-| Tiros recibidos | 15,1 | 12,1 | 13,9 | 19,2 |
-| Tiros a puerta recibidos | 6,0 | 5,9 | 5,5 | 6,3 |
+| Se queda sin marcar | 40% | 25% | 7% | 0% |
+| xG a favor | 1,35 | 1,94 | 1,84 | 1,82 |
+| xG en contra | 1,95 | 1,87 | 2,05 | 2,54 |
+| Tiros / partido | 12,7 | 16,5 | 16,1 | 10,0 |
+| Tiros a puerta / partido | 3,7 | 4,2 | 6,3 | 6,2 |
+| Tiros recibidos | 15,4 | 12,1 | 13,9 | 19,2 |
+| Tiros a puerta recibidos | 5,9 | 5,9 | 5,5 | 6,3 |
 | Posesión media % | 48 | 54 | 52 | 43 |
-| Córners a favor | 5,1 | 6,5 | 4,5 | 2,3 |
-| Córners en contra | 5,9 | 5,0 | 4,9 | 7,3 |
+| Córners a favor | 5,0 | 6,5 | 4,5 | 2,3 |
+| Córners en contra | 6,3 | 5,0 | 4,9 | 7,3 |
 | Córners a favor 1ª parte | 2,1 | 2,6 | 1,9 | 1,3 |
 | Córners a favor 2ª parte | 2,9 | 3,9 | 2,5 | 1,0 |
-| Córners totales del partido | 11,0 | 11,5 | 9,3 | 9,7 |
-| Córners totales 1ª parte | 4,9 | 5,5 | 3,9 | 4,5 |
-| Córners totales 2ª parte | 6,1 | 6,0 | 5,4 | 5,2 |
-| Más de 8,5 córners | 64% | 75% | 67% | 67% |
-| Más de 9,5 córners | 57% | 62% | 40% | 33% |
-| Más de 10,5 córners | 57% | 62% | 33% | 33% |
-| Faltas cometidas | 10,1 | 9,5 | 10,1 | 10,3 |
-| Faltas recibidas | 13,7 | 13,9 | 11,3 | 9,8 |
+| Córners totales del partido | 11,3 | 11,5 | 9,3 | 9,7 |
+| Córners totales 1ª parte | 5,1 | 5,5 | 3,9 | 4,5 |
+| Córners totales 2ª parte | 6,2 | 6,0 | 5,4 | 5,2 |
+| Más de 8,5 córners | 67% | 75% | 67% | 67% |
+| Más de 9,5 córners | 60% | 62% | 40% | 33% |
+| Más de 10,5 córners | 60% | 62% | 33% | 33% |
+| Faltas cometidas | 9,9 | 9,5 | 10,1 | 10,3 |
+| Faltas recibidas | 13,3 | 13,9 | 11,3 | 9,8 |
 | Amarillas propias | 1,2 | 0,9 | 1,2 | 1,5 |
-| Amarillas del rival | 1,6 | 1,6 | 1,7 | 0,5 |
+| Amarillas del rival | 1,5 | 1,6 | 1,7 | 0,5 |
 | Rojas / partido | 0,07 | 0,12 | 0,13 | 0,33 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -87,9 +87,9 @@ _Actualizadas: 28/11 08:45_
 | 1-15' | 3 | 4 | 0 | 7 | 6 | 2 |
 | 16-30' | 4 | 5 | 4 | 6 | 3 | 3 |
 | 31-45' | 5 | 6 | 3 | 5 | 7 | 3 |
-| 46-60' | 2 | 8 | 3 | 5 | 6 | 3 |
+| 46-60' | 2 | 8 | 4 | 5 | 6 | 3 |
 | 61-75' | 2 | 3 | 3 | 3 | 6 | 2 |
-| 76-90' | 3 | 4 | 5 | 5 | 6 | 8 |
+| 76-90' | 3 | 5 | 5 | 5 | 6 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -105,36 +105,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Telstar
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Eredivisie | Excelsior 1-0 Telstar | fuera | 4-12 | 7 (2) - 19 (4) | 1-0 |
 | 2026-11-21 | Eredivisie | Telstar 1-3 PEC Zwolle | casa | 11-7 | 20 (6) - 12 (4) | 0-1 |
 | 2026-11-07 | Eredivisie | Fortuna Sittard 2-2 Telstar | fuera | 4-4 | 14 (8) - 10 (4) | 3-2 |
 | 2026-11-01 | Eredivisie | Telstar 4-2 Utrecht | casa | 3-9 | 16 (7) - 15 (5) | 0-2 |
 | 2026-10-27 | KNVB Beker | Telstar 0-2 Almere City FC | casa | 7-5 | 15 (1) - 10 (4) | –-– |
 | 2026-10-23 | Eredivisie | GO Ahead Eagles 3-2 Telstar | fuera | 2-4 | 12 (3) - 16 (7) | 1-1 |
-| 2026-10-17 | Eredivisie | Telstar 3-4 Feyenoord | casa | 7-8 | 23 (9) - 21 (11) | 1-4 |
 
 ## Jugadores de Telstar
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| R. Koeman | G | 14 | 1260 | 2 | 0 | 2 | 0,1 | 2 | 0,1 | 0 | 3 | 0,2 | 2 | 0 |
-| A. Soualhia | D | 14 | 1260 | 3 | 1 | 14 | 1,0 | 3 | 0,2 | 21 | 30 | 2,1 | 3 | 0 |
+| R. Koeman | G | 15 | 1350 | 2 | 0 | 2 | 0,1 | 2 | 0,1 | 0 | 3 | 0,2 | 2 | 0 |
+| A. Soualhia | D | 15 | 1350 | 3 | 1 | 14 | 0,9 | 3 | 0,2 | 22 | 33 | 2,2 | 3 | 0 |
+| N. Rossen | M | 15 | 1277 | 0 | 0 | 6 | 0,4 | 3 | 0,2 | 6 | 14 | 0,9 | 0 | 0 |
+| M. Peersman | D | 15 | 1276 | 0 | 0 | 10 | 0,7 | 4 | 0,3 | 17 | 28 | 1,9 | 2 | 0 |
+| P. Brouwer | M | 14 | 1218 | 3 | 3 | 13 | 0,9 | 4 | 0,3 | 11 | 16 | 1,1 | 0 | 0 |
 | T. Owusu | M | 14 | 1203 | 5 | 1 | 22 | 1,6 | 7 | 0,5 | 8 | 14 | 1,0 | 1 | 0 |
-| N. Rossen | M | 14 | 1187 | 0 | 0 | 6 | 0,4 | 3 | 0,2 | 5 | 12 | 0,9 | 0 | 0 |
-| M. Peersman | D | 14 | 1186 | 0 | 0 | 10 | 0,7 | 4 | 0,3 | 15 | 27 | 1,9 | 2 | 0 |
-| P. Brouwer | F | 13 | 1128 | 3 | 3 | 13 | 1,0 | 4 | 0,3 | 11 | 16 | 1,2 | 0 | 0 |
-| S. Valk | D | 12 | 1080 | 1 | 1 | 8 | 0,7 | 2 | 0,2 | 7 | 9 | 0,8 | 1 | 0 |
-| Gerald Alders | D | 9 | 629 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 9 | 8 | 0,9 | 2 | 0 |
-| N. Þórisson | F | 10 | 608 | 1 | 1 | 22 | 2,2 | 9 | 0,9 | 8 | 4 | 0,4 | 1 | 1 |
-| J. Hardeveld | D | 11 | 591 | 0 | 0 | 6 | 0,5 | 2 | 0,2 | 7 | 6 | 0,5 | 0 | 0 |
-| Rui Mendes | F | 10 | 567 | 1 | 0 | 13 | 1,3 | 5 | 0,5 | 2 | 1 | 0,1 | 1 | 0 |
+| S. Valk | D | 13 | 1170 | 1 | 1 | 8 | 0,6 | 2 | 0,2 | 8 | 9 | 0,7 | 1 | 0 |
+| Gerald Alders | D | 10 | 712 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 9 | 8 | 0,8 | 2 | 0 |
+| N. Þórisson | F | 11 | 677 | 1 | 1 | 24 | 2,2 | 10 | 0,9 | 8 | 4 | 0,4 | 1 | 1 |
+| J. Hardeveld | D | 12 | 592 | 0 | 0 | 6 | 0,5 | 2 | 0,2 | 7 | 6 | 0,5 | 0 | 0 |
+| Rui Mendes | F | 11 | 588 | 1 | 0 | 13 | 1,2 | 5 | 0,5 | 2 | 1 | 0,1 | 1 | 0 |
+| A. Martha | M | 9 | 547 | 1 | 1 | 13 | 1,4 | 5 | 0,6 | 9 | 5 | 0,6 | 0 | 0 |
 | Jelani Seedorf | F | 12 | 519 | 0 | 0 | 11 | 0,9 | 1 | 0,1 | 6 | 4 | 0,3 | 1 | 0 |
-| A. Martha | M | 8 | 457 | 1 | 1 | 11 | 1,4 | 5 | 0,6 | 9 | 5 | 0,6 | 0 | 0 |
-| G. Caschili | D | 8 | 429 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 9 | 6 | 0,8 | 0 | 0 |
+| G. Caschili | D | 9 | 436 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 9 | 6 | 0,7 | 0 | 0 |
+| N. Shenkman | M | 10 | 410 | 1 | 2 | 6 | 0,6 | 1 | 0,1 | 1 | 2 | 0,2 | 0 | 0 |
 | Isaiah Ahmed | M | 7 | 402 | 0 | 0 | 6 | 0,9 | 1 | 0,1 | 10 | 8 | 1,1 | 2 | 0 |
-| N. Shenkman | M | 9 | 327 | 1 | 2 | 5 | 0,6 | 1 | 0,1 | 0 | 2 | 0,2 | 0 | 0 |
-| E. Demircan | M | 10 | 309 | 0 | 0 | 5 | 0,5 | 0 | 0,0 | 3 | 8 | 0,8 | 0 | 0 |
+| E. Demircan | M | 11 | 398 | 0 | 0 | 6 | 0,5 | 1 | 0,1 | 4 | 10 | 0,9 | 1 | 0 |
 | R. Oudsten | D | 7 | 190 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 3 | 0,4 | 0 | 0 |
 | Soufiane Hetli | M | 2 | 153 | 0 | 0 | 4 | 2,0 | 1 | 0,5 | 2 | 5 | 2,5 | 0 | 0 |
-| H. Kuster | M | 7 | 145 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 7 | 1,0 | 1 | 0 |
+| H. Kuster | M | 8 | 152 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 7 | 0,9 | 1 | 0 |
 
 ## Últimos partidos de Groningen
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

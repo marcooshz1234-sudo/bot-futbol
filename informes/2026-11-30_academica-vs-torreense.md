@@ -1,10 +1,10 @@
 # Academica – Torreense
 **Segunda Liga** · Regular Season - 12 · 30/11/2026 19:00 (hora España) · Estádio Cidade de Coimbra
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/11 08:44_
+_Actualizadas: 28/11 20:59_
 
 - **1X2:** 1 **2.55**  ·  X **3.10**  ·  2 **2.55**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.33**  ·  X2 **1.44**

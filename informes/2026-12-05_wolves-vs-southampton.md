@@ -1,7 +1,7 @@
 # Wolves – Southampton
 **Championship** · Regular Season - 19 · 05/12/2026 16:00 (hora España) · Molineux Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,39 +9,39 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Wolves (total) | Wolves en casa | Southampton (total) | Southampton fuera |
 |---|---|---|---|---|
-| Partidos analizados | 20 | 10 | 20 | 10 |
-| Forma (últimos 5) | VVEVV | VVVVE | VEVDE | EDEVV |
-| Balance | 12V 4E 4D | 7V 2E 1D | 11V 5E 4D | 3V 4E 3D |
-| Goles a favor / partido | 1,80 | 2,10 | 1,85 | 1,20 |
-| Goles en contra / partido | 1,00 | 0,80 | 1,00 | 1,10 |
-| Goles a favor 1ª parte | 0,90 | 1,00 | 0,75 | 0,60 |
-| Goles a favor 2ª parte | 0,90 | 1,10 | 1,10 | 0,60 |
-| Goles en contra 1ª parte | 0,50 | 0,30 | 0,45 | 0,60 |
-| Goles en contra 2ª parte | 0,50 | 0,50 | 0,55 | 0,50 |
-| Más de 1,5 goles | 75% | 80% | 80% | 80% |
-| Más de 2,5 goles | 60% | 70% | 45% | 30% |
-| Más de 3,5 goles | 30% | 30% | 35% | 10% |
-| Ambos marcan | 55% | 50% | 65% | 70% |
-| Portería a cero | 35% | 50% | 30% | 20% |
-| Se queda sin marcar | 10% | 0% | 10% | 10% |
-| xG a favor | 1,87 | 2,10 | 1,77 | 1,47 |
+| Partidos analizados | 21 | 10 | 20 | 10 |
+| Forma (últimos 5) | EVVEV | VVVVE | VEVDE | EDEVV |
+| Balance | 12V 5E 4D | 7V 2E 1D | 11V 5E 4D | 3V 4E 3D |
+| Goles a favor / partido | 1,71 | 2,10 | 1,85 | 1,20 |
+| Goles en contra / partido | 0,95 | 0,80 | 1,00 | 1,10 |
+| Goles a favor 1ª parte | 0,86 | 1,00 | 0,75 | 0,60 |
+| Goles a favor 2ª parte | 0,86 | 1,10 | 1,10 | 0,60 |
+| Goles en contra 1ª parte | 0,48 | 0,30 | 0,45 | 0,60 |
+| Goles en contra 2ª parte | 0,48 | 0,50 | 0,55 | 0,50 |
+| Más de 1,5 goles | 71% | 80% | 80% | 80% |
+| Más de 2,5 goles | 57% | 70% | 45% | 30% |
+| Más de 3,5 goles | 29% | 30% | 35% | 10% |
+| Ambos marcan | 52% | 50% | 65% | 70% |
+| Portería a cero | 38% | 50% | 30% | 20% |
+| Se queda sin marcar | 14% | 0% | 10% | 10% |
+| xG a favor | 1,82 | 2,10 | 1,77 | 1,47 |
 | xG en contra | 0,89 | 0,73 | 1,35 | 1,47 |
-| Tiros / partido | 17,3 | 19,6 | 15,6 | 16,3 |
-| Tiros a puerta / partido | 4,6 | 4,9 | 4,9 | 4,8 |
-| Tiros recibidos | 9,8 | 8,2 | 15,6 | 16,3 |
-| Tiros a puerta recibidos | 3,6 | 3,2 | 4,3 | 5,0 |
+| Tiros / partido | 17,4 | 19,6 | 15,6 | 16,3 |
+| Tiros a puerta / partido | 4,5 | 4,9 | 4,9 | 4,8 |
+| Tiros recibidos | 9,7 | 8,2 | 15,6 | 16,3 |
+| Tiros a puerta recibidos | 3,5 | 3,2 | 4,3 | 5,0 |
 | Posesión media % | 55 | 56 | 57 | 59 |
-| Córners a favor | 6,8 | 7,9 | 5,7 | 5,6 |
-| Córners en contra | 3,8 | 3,7 | 4,8 | 4,8 |
-| Córners a favor 1ª parte | 3,1 | 3,9 | 2,4 | 1,6 |
-| Córners a favor 2ª parte | 3,6 | 4,0 | 3,3 | 4,0 |
-| Córners totales del partido | 10,5 | 11,6 | 10,4 | 10,4 |
-| Córners totales 1ª parte | 4,8 | 5,1 | 4,6 | 3,9 |
-| Córners totales 2ª parte | 5,8 | 6,5 | 5,8 | 6,5 |
-| Más de 8,5 córners | 70% | 70% | 50% | 50% |
-| Más de 9,5 córners | 50% | 70% | 50% | 50% |
-| Más de 10,5 córners | 40% | 60% | 45% | 40% |
-| Faltas cometidas | 11,9 | 12,6 | 8,3 | 7,9 |
+| Córners a favor | 6,9 | 7,9 | 5,7 | 5,6 |
+| Córners en contra | 3,7 | 3,7 | 4,8 | 4,8 |
+| Córners a favor 1ª parte | 3,0 | 3,9 | 2,4 | 1,6 |
+| Córners a favor 2ª parte | 3,8 | 4,0 | 3,3 | 4,0 |
+| Córners totales del partido | 10,6 | 11,6 | 10,4 | 10,4 |
+| Córners totales 1ª parte | 4,6 | 5,1 | 4,6 | 3,9 |
+| Córners totales 2ª parte | 6,0 | 6,5 | 5,8 | 6,5 |
+| Más de 8,5 córners | 71% | 70% | 50% | 50% |
+| Más de 9,5 córners | 52% | 70% | 50% | 50% |
+| Más de 10,5 córners | 43% | 60% | 45% | 40% |
+| Faltas cometidas | 12,0 | 12,6 | 8,3 | 7,9 |
 | Faltas recibidas | 10,8 | 10,4 | 12,9 | 13,3 |
 | Amarillas propias | 1,8 | 2,2 | 1,9 | 1,7 |
 | Amarillas del rival | 2,1 | 2,2 | 2,6 | 2,6 |
@@ -53,8 +53,8 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | 1-15' | 6 | 1 | 2 | 7 | 2 | 4 |
 | 16-30' | 5 | 5 | 6 | 2 | 4 | 5 |
 | 31-45' | 7 | 4 | 5 | 6 | 3 | 5 |
-| 46-60' | 6 | 3 | 5 | 8 | 3 | 6 |
-| 61-75' | 5 | 2 | 8 | 4 | 3 | 8 |
+| 46-60' | 6 | 3 | 6 | 8 | 3 | 6 |
+| 61-75' | 5 | 2 | 9 | 4 | 3 | 8 |
 | 76-90' | 7 | 5 | 11 | 10 | 5 | 11 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -73,36 +73,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Wolves
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Championship | Lincoln 0-0 Wolves | fuera | 9-3 | 19 (2) - 9 (2) | 2-2 |
 | 2026-11-24 | Championship | Wolves 3-0 Derby | casa | 11-1 | 39 (9) - 6 (1) | 2-0 |
 | 2026-11-21 | Championship | Wolves 2-1 Charlton | casa | 7-6 | 19 (4) - 3 (2) | 2-2 |
 | 2026-11-07 | Championship | Wrexham 1-1 Wolves | fuera | 7-2 | 22 (5) - 6 (3) | 2-2 |
 | 2026-11-04 | Championship | Bristol City 1-2 Wolves | fuera | 5-2 | 17 (8) - 5 (3) | 1-2 |
 | 2026-10-31 | Championship | Wolves 3-0 Cardiff | casa | 3-5 | 13 (4) - 13 (9) | 4-2 |
-| 2026-10-24 | Championship | Wolves 1-0 Watford | casa | 14-2 | 24 (3) - 4 (0) | 4-3 |
 
 ## Jugadores de Wolves
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| André | M | 18 | 1550 | 1 | 2 | 13 | 0,7 | 2 | 0,1 | 22 | 13 | 0,7 | 2 | 0 |
-| José Sá | G | 17 | 1530 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 12 | 0,7 | 1 | 0 |
+| André | M | 19 | 1635 | 1 | 2 | 14 | 0,7 | 2 | 0,1 | 22 | 14 | 0,7 | 2 | 0 |
+| José Sá | G | 18 | 1620 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 13 | 0,7 | 1 | 0 |
+| A. Armstrong | F | 19 | 1419 | 8 | 0 | 35 | 1,8 | 17 | 0,9 | 17 | 2 | 0,1 | 1 | 0 |
+| Fer López | M | 19 | 1409 | 7 | 3 | 42 | 2,2 | 17 | 0,9 | 22 | 27 | 1,4 | 2 | 0 |
 | Hugo Bueno | D | 18 | 1370 | 0 | 1 | 12 | 0,7 | 1 | 0,1 | 9 | 11 | 0,6 | 2 | 0 |
-| Fer López | M | 18 | 1339 | 7 | 3 | 40 | 2,2 | 17 | 0,9 | 20 | 26 | 1,4 | 2 | 0 |
-| A. Armstrong | F | 18 | 1329 | 8 | 0 | 33 | 1,8 | 16 | 0,9 | 17 | 2 | 0,1 | 1 | 0 |
-| N. Djiga | D | 15 | 1214 | 0 | 1 | 8 | 0,5 | 1 | 0,1 | 5 | 5 | 0,3 | 1 | 0 |
-| M. Munetsi | M | 19 | 1171 | 2 | 0 | 24 | 1,3 | 8 | 0,4 | 23 | 9 | 0,5 | 3 | 0 |
-| M. Mane | M | 19 | 1147 | 1 | 3 | 31 | 1,6 | 9 | 0,5 | 15 | 30 | 1,6 | 4 | 0 |
-| L. Krejčí | D | 13 | 959 | 2 | 2 | 13 | 1,0 | 5 | 0,4 | 8 | 2 | 0,2 | 1 | 0 |
-| K. Trippier | D | 12 | 903 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 11 | 8 | 0,7 | 3 | 0 |
-| Toti Gomes | D | 13 | 897 | 0 | 0 | 4 | 0,3 | 0 | 0,0 | 4 | 9 | 0,7 | 1 | 0 |
+| N. Djiga | D | 16 | 1256 | 0 | 1 | 8 | 0,5 | 1 | 0,1 | 6 | 5 | 0,3 | 1 | 0 |
+| M. Munetsi | M | 20 | 1241 | 2 | 0 | 26 | 1,3 | 9 | 0,5 | 25 | 9 | 0,5 | 3 | 0 |
+| M. Mane | M | 20 | 1237 | 1 | 3 | 33 | 1,6 | 9 | 0,5 | 17 | 30 | 1,5 | 4 | 0 |
+| L. Krejčí | D | 14 | 1049 | 2 | 2 | 14 | 1,0 | 5 | 0,4 | 8 | 3 | 0,2 | 1 | 0 |
+| K. Trippier | D | 13 | 993 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 12 | 8 | 0,6 | 3 | 0 |
+| Toti Gomes | D | 14 | 987 | 0 | 0 | 5 | 0,4 | 0 | 0,0 | 6 | 12 | 0,9 | 2 | 0 |
+| Rodrigo Gomes | M | 15 | 861 | 2 | 3 | 17 | 1,1 | 6 | 0,4 | 12 | 16 | 1,1 | 0 | 0 |
 | J. Tchatchoua | D | 12 | 818 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 6 | 5 | 0,4 | 2 | 0 |
-| Rodrigo Gomes | F | 14 | 816 | 2 | 3 | 16 | 1,1 | 6 | 0,4 | 12 | 15 | 1,1 | 0 | 0 |
-| T. Doyle | M | 19 | 640 | 0 | 3 | 16 | 0,8 | 5 | 0,3 | 13 | 3 | 0,2 | 3 | 0 |
-| R. Saïd | M | 10 | 592 | 1 | 1 | 29 | 2,9 | 6 | 0,6 | 10 | 6 | 0,6 | 1 | 0 |
-| J. James | M | 15 | 541 | 2 | 0 | 11 | 0,7 | 2 | 0,1 | 10 | 5 | 0,3 | 1 | 0 |
-| Y. Mosquera | D | 7 | 535 | 0 | 1 | 5 | 0,7 | 1 | 0,1 | 7 | 2 | 0,3 | 0 | 0 |
+| T. Doyle | M | 20 | 660 | 0 | 3 | 18 | 0,9 | 5 | 0,2 | 13 | 3 | 0,1 | 3 | 0 |
+| R. Saïd | F | 11 | 612 | 1 | 1 | 31 | 2,8 | 6 | 0,5 | 10 | 6 | 0,5 | 1 | 0 |
+| J. James | M | 16 | 586 | 2 | 0 | 13 | 0,8 | 2 | 0,1 | 13 | 5 | 0,3 | 2 | 0 |
+| Y. Mosquera | D | 8 | 583 | 0 | 1 | 5 | 0,6 | 1 | 0,1 | 8 | 6 | 0,8 | 0 | 0 |
 | J. Bellegarde | M | 10 | 460 | 1 | 0 | 8 | 0,8 | 1 | 0,1 | 12 | 22 | 2,2 | 4 | 0 |
 | R. Jiménez | F | 9 | 435 | 3 | 1 | 16 | 1,8 | 5 | 0,6 | 7 | 11 | 1,2 | 0 | 0 |
-| S. Neave | F | 11 | 277 | 2 | 1 | 6 | 0,5 | 2 | 0,2 | 6 | 5 | 0,5 | 3 | 0 |
+| S. Neave | F | 12 | 282 | 2 | 1 | 7 | 0,6 | 2 | 0,2 | 6 | 5 | 0,4 | 3 | 0 |
 
 ## Últimos partidos de Southampton
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

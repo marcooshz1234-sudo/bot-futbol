@@ -1,10 +1,10 @@
 # Benfica – Famalicao
 **Primeira Liga** · Regular Season - 12 · 30/11/2026 21:15 (hora España) · Estádio da Luz
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/11 08:44_
+_Actualizadas: 28/11 20:59_
 
 - **1X2:** 1 **1.18**  ·  X **7.00**  ·  2 **13.00**
 - **Doble oportunidad:** 1X **1.04**  ·  12 **1.10**  ·  X2 **4.50**

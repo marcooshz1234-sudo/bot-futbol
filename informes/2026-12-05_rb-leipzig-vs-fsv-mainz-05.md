@@ -1,7 +1,7 @@
 # RB Leipzig – FSV Mainz 05
 **Bundesliga** · Regular Season - 12 · 05/12/2026 15:30 (hora España) · Red Bull Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Actualizadas: 27/11 22:17_
@@ -54,40 +54,40 @@ _Actualizadas: 27/11 22:17_
 ## Estadísticas de equipo
 | | RB Leipzig (total) | RB Leipzig en casa | FSV Mainz 05 (total) | FSV Mainz 05 fuera |
 |---|---|---|---|---|
-| Partidos analizados | 17 | 8 | 12 | 7 |
-| Forma (últimos 5) | VVVDV | VVDVV | DDDDD | DDDVV |
-| Balance | 11V 0E 6D | 7V 0E 1D | 4V 1E 7D | 4V 0E 3D |
-| Goles a favor / partido | 2,82 | 3,62 | 2,33 | 3,00 |
-| Goles en contra / partido | 1,59 | 0,75 | 2,00 | 1,71 |
-| Goles a favor 1ª parte | 1,00 | 1,50 | 1,08 | 1,43 |
-| Goles a favor 2ª parte | 1,82 | 2,12 | 1,25 | 1,57 |
+| Partidos analizados | 17 | 8 | 13 | 7 |
+| Forma (últimos 5) | VVVDV | VVDVV | VDDDD | DDDVV |
+| Balance | 11V 0E 6D | 7V 0E 1D | 5V 1E 7D | 4V 0E 3D |
+| Goles a favor / partido | 2,82 | 3,62 | 2,31 | 3,00 |
+| Goles en contra / partido | 1,59 | 0,75 | 1,92 | 1,71 |
+| Goles a favor 1ª parte | 1,00 | 1,50 | 1,00 | 1,43 |
+| Goles a favor 2ª parte | 1,82 | 2,12 | 1,31 | 1,57 |
 | Goles en contra 1ª parte | 0,71 | 0,25 | 1,08 | 0,86 |
-| Goles en contra 2ª parte | 0,88 | 0,50 | 0,92 | 0,86 |
-| Más de 1,5 goles | 94% | 88% | 83% | 86% |
-| Más de 2,5 goles | 82% | 88% | 75% | 71% |
-| Más de 3,5 goles | 71% | 75% | 67% | 71% |
-| Ambos marcan | 53% | 38% | 58% | 43% |
-| Portería a cero | 41% | 62% | 33% | 43% |
-| Se queda sin marcar | 6% | 0% | 17% | 14% |
-| xG a favor | 2,31 | 2,37 | 1,76 | 1,75 |
-| xG en contra | 1,65 | 1,32 | 1,82 | 1,65 |
-| Tiros / partido | 17,6 | 17,8 | 15,9 | 14,3 |
+| Goles en contra 2ª parte | 0,88 | 0,50 | 0,85 | 0,86 |
+| Más de 1,5 goles | 94% | 88% | 85% | 86% |
+| Más de 2,5 goles | 82% | 88% | 77% | 71% |
+| Más de 3,5 goles | 71% | 75% | 62% | 71% |
+| Ambos marcan | 53% | 38% | 62% | 43% |
+| Portería a cero | 41% | 62% | 31% | 43% |
+| Se queda sin marcar | 6% | 0% | 15% | 14% |
+| xG a favor | 2,31 | 2,37 | 1,74 | 1,75 |
+| xG en contra | 1,65 | 1,32 | 1,72 | 1,65 |
+| Tiros / partido | 17,6 | 17,8 | 16,0 | 14,3 |
 | Tiros a puerta / partido | 6,7 | 7,4 | 5,7 | 6,4 |
-| Tiros recibidos | 13,0 | 11,9 | 14,2 | 13,0 |
-| Tiros a puerta recibidos | 5,8 | 4,9 | 5,0 | 4,4 |
+| Tiros recibidos | 13,0 | 11,9 | 13,9 | 13,0 |
+| Tiros a puerta recibidos | 5,8 | 4,9 | 4,9 | 4,4 |
 | Posesión media % | 54 | 52 | 51 | 53 |
 | Córners a favor | 5,7 | 5,2 | 5,7 | 5,1 |
 | Córners en contra | 5,3 | 5,8 | 4,8 | 4,7 |
 | Córners a favor 1ª parte | 2,4 | 2,1 | 3,0 | 3,0 |
 | Córners a favor 2ª parte | 3,3 | 3,1 | 2,7 | 2,1 |
 | Córners totales del partido | 11,0 | 11,0 | 10,5 | 9,9 |
-| Córners totales 1ª parte | 4,6 | 5,0 | 5,4 | 5,4 |
-| Córners totales 2ª parte | 6,4 | 6,0 | 5,1 | 4,4 |
-| Más de 8,5 córners | 76% | 75% | 75% | 71% |
-| Más de 9,5 córners | 65% | 62% | 58% | 57% |
-| Más de 10,5 córners | 53% | 50% | 50% | 43% |
-| Faltas cometidas | 11,0 | 12,0 | 12,2 | 14,6 |
-| Faltas recibidas | 12,1 | 11,9 | 9,8 | 10,7 |
+| Córners totales 1ª parte | 4,6 | 5,0 | 5,5 | 5,4 |
+| Córners totales 2ª parte | 6,4 | 6,0 | 5,0 | 4,4 |
+| Más de 8,5 córners | 76% | 75% | 77% | 71% |
+| Más de 9,5 córners | 65% | 62% | 62% | 57% |
+| Más de 10,5 córners | 53% | 50% | 46% | 43% |
+| Faltas cometidas | 11,0 | 12,0 | 12,1 | 14,6 |
+| Faltas recibidas | 12,1 | 11,9 | 9,9 | 10,7 |
 | Amarillas propias | 1,4 | 1,4 | 2,0 | 2,6 |
 | Amarillas del rival | 1,8 | 2,0 | 1,5 | 1,6 |
 | Rojas / partido | 0,06 | 0,00 | 0,08 | 0,14 |
@@ -97,10 +97,10 @@ _Actualizadas: 27/11 22:17_
 |---|---|---|---|---|---|---|
 | 1-15' | 6 | 5 | 4 | 0 | 7 | 2 |
 | 16-30' | 4 | 1 | 4 | 5 | 3 | 2 |
-| 31-45' | 7 | 6 | 3 | 8 | 3 | 6 |
+| 31-45' | 7 | 6 | 3 | 8 | 4 | 8 |
 | 46-60' | 7 | 7 | 4 | 4 | 6 | 1 |
 | 61-75' | 8 | 2 | 6 | 2 | 3 | 5 |
-| 76-90' | 16 | 6 | 7 | 9 | 2 | 10 |
+| 76-90' | 16 | 6 | 7 | 11 | 2 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -152,33 +152,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de FSV Mainz 05
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Bundesliga | FSV Mainz 05 2-1 Union Berlin | casa | 6-4 | 17 (6) - 10 (4) | 2-1 |
 | 2026-11-22 | Bundesliga | FC Augsburg 3-1 FSV Mainz 05 | fuera | 0-6 | 7 (4) - 22 (9) | 3-1 |
 | 2026-11-07 | Bundesliga | FSV Mainz 05 1-2 Bayern München | casa | 7-8 | 11 (1) - 26 (9) | 0-1 |
 | 2026-10-30 | Bundesliga | SV Elversberg 4-1 FSV Mainz 05 | fuera | 11-5 | 10 (2) - 13 (6) | 3-0 |
 | 2026-10-27 | DFB-Pokal | VfL Bochum 2-0 FSV Mainz 05 | fuera | 6-5 | 9 (5) - 8 (3) | 1-3 |
 | 2026-10-24 | Bundesliga | FSV Mainz 05 2-3 Werder Bremen | casa | 6-7 | 18 (8) - 17 (8) | 2-1 |
-| 2026-10-17 | Bundesliga | FC Schalke 04 0-1 FSV Mainz 05 | fuera | 1-4 | 10 (6) - 9 (3) | 2-0 |
 
 ## Jugadores de FSV Mainz 05
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| K. Sano | M | 12 | 1065 | 0 | 2 | 4 | 0,3 | 0 | 0,0 | 7 | 18 | 1,5 | 1 | 0 |
-| N. Amiri | M | 11 | 953 | 2 | 3 | 18 | 1,6 | 7 | 0,6 | 5 | 13 | 1,2 | 2 | 0 |
-| P. Tietz | F | 12 | 947 | 10 | 0 | 33 | 2,8 | 18 | 1,5 | 16 | 8 | 0,7 | 1 | 0 |
+| K. Sano | M | 13 | 1155 | 0 | 2 | 4 | 0,3 | 0 | 0,0 | 7 | 20 | 1,5 | 1 | 0 |
+| N. Amiri | M | 12 | 1043 | 2 | 5 | 21 | 1,8 | 7 | 0,6 | 5 | 14 | 1,2 | 2 | 0 |
+| P. Tietz | F | 13 | 971 | 11 | 0 | 35 | 2,7 | 20 | 1,5 | 17 | 8 | 0,6 | 1 | 0 |
+| S. Becker | F | 13 | 968 | 3 | 4 | 22 | 1,7 | 14 | 1,1 | 13 | 5 | 0,4 | 3 | 0 |
+| K. Potulski | D | 13 | 962 | 0 | 0 | 9 | 0,7 | 1 | 0,1 | 19 | 7 | 0,5 | 1 | 0 |
+| A. Caci | M | 13 | 947 | 4 | 4 | 7 | 0,5 | 5 | 0,4 | 14 | 7 | 0,5 | 2 | 0 |
 | P. Mwene | M | 11 | 942 | 1 | 3 | 8 | 0,7 | 3 | 0,3 | 9 | 14 | 1,3 | 5 | 0 |
-| K. Potulski | D | 12 | 918 | 0 | 0 | 9 | 0,8 | 1 | 0,1 | 19 | 6 | 0,5 | 1 | 0 |
-| S. Becker | F | 12 | 902 | 3 | 4 | 22 | 1,8 | 14 | 1,2 | 10 | 5 | 0,4 | 3 | 0 |
-| A. Caci | M | 12 | 857 | 3 | 4 | 6 | 0,5 | 4 | 0,3 | 13 | 6 | 0,5 | 1 | 0 |
-| S. Posch | D | 9 | 808 | 0 | 0 | 6 | 0,7 | 3 | 0,3 | 17 | 7 | 0,8 | 2 | 1 |
-| D. da Costa | D | 12 | 754 | 1 | 1 | 6 | 0,5 | 1 | 0,1 | 8 | 3 | 0,2 | 1 | 0 |
-| F. Gruber | D | 7 | 630 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 10 | 0 | 0,0 | 0 | 0 |
-| Lee Jae-Sung | M | 10 | 625 | 1 | 2 | 11 | 1,1 | 3 | 0,3 | 5 | 9 | 0,9 | 1 | 0 |
-| R. Zentner | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,5 | 0 | 0 |
+| S. Posch | D | 10 | 898 | 0 | 0 | 7 | 0,7 | 4 | 0,4 | 17 | 7 | 0,7 | 2 | 1 |
+| D. da Costa | D | 13 | 800 | 1 | 1 | 6 | 0,5 | 1 | 0,1 | 8 | 4 | 0,3 | 1 | 0 |
+| F. Gruber | D | 8 | 720 | 0 | 0 | 4 | 0,5 | 0 | 0,0 | 10 | 2 | 0,2 | 0 | 0 |
+| Lee Jae-Sung | M | 11 | 637 | 1 | 2 | 11 | 1,0 | 3 | 0,3 | 5 | 9 | 0,8 | 1 | 0 |
+| R. Zentner | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,6 | 0 | 0 |
 | A. Schwolow | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 2 | 0 |
-| R. Königsdörffer | F | 12 | 342 | 3 | 0 | 14 | 1,2 | 5 | 0,4 | 9 | 6 | 0,5 | 3 | 0 |
-| P. Nebel | M | 6 | 238 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 1 | 0,2 | 0 | 0 |
-| S. Widmer | D | 8 | 229 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 3 | 4 | 0,5 | 1 | 0 |
+| R. Königsdörffer | F | 13 | 420 | 3 | 0 | 16 | 1,2 | 5 | 0,4 | 12 | 7 | 0,5 | 4 | 0 |
+| S. Widmer | M | 9 | 307 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 4 | 4 | 0,4 | 1 | 0 |
+| P. Nebel | M | 7 | 250 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 4 | 1 | 0,1 | 0 | 0 |
+| E. Martel | M | 9 | 218 | 1 | 0 | 5 | 0,6 | 3 | 0,3 | 5 | 5 | 0,6 | 0 | 0 |
 | Dominik Kohr | D | 2 | 170 | 0 | 1 | 3 | 1,5 | 1 | 0,5 | 2 | 2 | 1,0 | 0 | 0 |
-| E. Martel | M | 8 | 152 | 1 | 0 | 5 | 0,6 | 3 | 0,4 | 4 | 4 | 0,5 | 0 | 0 |
-| B. Hollerbach | F | 7 | 111 | 2 | 1 | 5 | 0,7 | 2 | 0,3 | 2 | 2 | 0,3 | 0 | 0 |
+| B. Hollerbach | F | 8 | 135 | 2 | 1 | 8 | 1,0 | 3 | 0,4 | 2 | 3 | 0,4 | 0 | 0 |
 | Otto Ruoppi | M | 4 | 61 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |

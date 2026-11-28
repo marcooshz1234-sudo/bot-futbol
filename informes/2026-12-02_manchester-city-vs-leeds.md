@@ -1,7 +1,7 @@
 # Manchester City – Leeds
 **Premier League** · Regular Season - 13 · 02/12/2026 20:30 (hora España) · Etihad Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Actualizadas: 28/11 08:44_
@@ -51,42 +51,42 @@ _Actualizadas: 28/11 08:44_
 ## Estadísticas de equipo
 | | Manchester City (total) | Manchester City en casa | Leeds (total) | Leeds fuera |
 |---|---|---|---|---|
-| Partidos analizados | 18 | 11 | 13 | 8 |
-| Forma (últimos 5) | EEDVD | EEDEV | VVDEE | VDEDD |
-| Balance | 11V 3E 4D | 6V 3E 2D | 5V 5E 3D | 3V 2E 3D |
-| Goles a favor / partido | 2,39 | 2,55 | 1,46 | 1,50 |
-| Goles en contra / partido | 1,39 | 1,55 | 1,15 | 1,50 |
-| Goles a favor 1ª parte | 0,72 | 1,00 | 0,46 | 0,38 |
+| Partidos analizados | 18 | 11 | 14 | 8 |
+| Forma (últimos 5) | EEDVD | EEDEV | VVVDE | VDEDD |
+| Balance | 11V 3E 4D | 6V 3E 2D | 6V 5E 3D | 3V 2E 3D |
+| Goles a favor / partido | 2,39 | 2,55 | 1,57 | 1,50 |
+| Goles en contra / partido | 1,39 | 1,55 | 1,07 | 1,50 |
+| Goles a favor 1ª parte | 0,72 | 1,00 | 0,57 | 0,38 |
 | Goles a favor 2ª parte | 1,67 | 1,55 | 1,00 | 1,12 |
-| Goles en contra 1ª parte | 0,72 | 0,91 | 0,31 | 0,25 |
-| Goles en contra 2ª parte | 0,67 | 0,64 | 0,85 | 1,25 |
-| Más de 1,5 goles | 83% | 82% | 69% | 75% |
-| Más de 2,5 goles | 72% | 73% | 31% | 38% |
-| Más de 3,5 goles | 56% | 64% | 23% | 25% |
-| Ambos marcan | 67% | 73% | 54% | 50% |
-| Portería a cero | 28% | 18% | 38% | 38% |
-| Se queda sin marcar | 6% | 9% | 23% | 25% |
-| xG a favor | 2,05 | 2,20 | 1,57 | 1,49 |
-| xG en contra | 1,19 | 1,48 | 1,22 | 1,33 |
-| Tiros / partido | 15,7 | 16,7 | 13,2 | 13,1 |
-| Tiros a puerta / partido | 5,7 | 5,5 | 4,3 | 4,6 |
-| Tiros recibidos | 10,3 | 9,9 | 13,1 | 13,6 |
-| Tiros a puerta recibidos | 3,9 | 4,4 | 4,4 | 4,5 |
-| Posesión media % | 64 | 63 | 48 | 48 |
-| Córners a favor | 6,1 | 6,2 | 4,0 | 3,8 |
+| Goles en contra 1ª parte | 0,72 | 0,91 | 0,29 | 0,25 |
+| Goles en contra 2ª parte | 0,67 | 0,64 | 0,79 | 1,25 |
+| Más de 1,5 goles | 83% | 82% | 71% | 75% |
+| Más de 2,5 goles | 72% | 73% | 36% | 38% |
+| Más de 3,5 goles | 56% | 64% | 21% | 25% |
+| Ambos marcan | 67% | 73% | 50% | 50% |
+| Portería a cero | 28% | 18% | 43% | 38% |
+| Se queda sin marcar | 6% | 9% | 21% | 25% |
+| xG a favor | 2,05 | 2,20 | 1,67 | 1,49 |
+| xG en contra | 1,19 | 1,48 | 1,17 | 1,33 |
+| Tiros / partido | 15,7 | 16,7 | 13,9 | 13,1 |
+| Tiros a puerta / partido | 5,7 | 5,5 | 4,4 | 4,6 |
+| Tiros recibidos | 10,3 | 9,9 | 12,7 | 13,6 |
+| Tiros a puerta recibidos | 3,9 | 4,4 | 4,3 | 4,5 |
+| Posesión media % | 64 | 63 | 49 | 48 |
+| Córners a favor | 6,1 | 6,2 | 4,4 | 3,8 |
 | Córners en contra | 3,8 | 3,7 | 3,8 | 3,6 |
-| Córners a favor 1ª parte | 3,1 | 3,4 | 1,7 | 1,8 |
+| Córners a favor 1ª parte | 3,1 | 3,4 | 2,1 | 1,8 |
 | Córners a favor 2ª parte | 2,9 | 2,8 | 2,3 | 2,0 |
-| Córners totales del partido | 9,8 | 9,9 | 7,8 | 7,4 |
-| Córners totales 1ª parte | 4,7 | 4,6 | 3,2 | 3,0 |
+| Córners totales del partido | 9,8 | 9,9 | 8,1 | 7,4 |
+| Córners totales 1ª parte | 4,7 | 4,6 | 3,6 | 3,0 |
 | Córners totales 2ª parte | 5,2 | 5,3 | 4,6 | 4,4 |
-| Más de 8,5 córners | 72% | 82% | 38% | 25% |
-| Más de 9,5 córners | 67% | 73% | 31% | 12% |
-| Más de 10,5 córners | 44% | 45% | 15% | 12% |
+| Más de 8,5 córners | 72% | 82% | 43% | 25% |
+| Más de 9,5 córners | 67% | 73% | 36% | 12% |
+| Más de 10,5 córners | 44% | 45% | 21% | 12% |
 | Faltas cometidas | 9,7 | 8,3 | 12,8 | 14,6 |
 | Faltas recibidas | 13,6 | 12,5 | 11,3 | 11,1 |
 | Amarillas propias | 1,3 | 0,7 | 1,9 | 2,2 |
-| Amarillas del rival | 2,1 | 1,6 | 2,2 | 1,9 |
+| Amarillas del rival | 2,1 | 1,6 | 2,1 | 1,9 |
 | Rojas / partido | 0,06 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -94,9 +94,9 @@ _Actualizadas: 28/11 08:44_
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 6 | 0 | 1 | 0 | 1 |
 | 16-30' | 5 | 5 | 1 | 2 | 1 | 4 |
-| 31-45' | 6 | 2 | 5 | 3 | 3 | 8 |
-| 46-60' | 13 | 7 | 4 | 7 | 3 | 1 |
-| 61-75' | 7 | 3 | 2 | 2 | 4 | 6 |
+| 31-45' | 6 | 2 | 5 | 5 | 3 | 8 |
+| 46-60' | 13 | 7 | 4 | 7 | 3 | 2 |
+| 61-75' | 7 | 3 | 2 | 3 | 4 | 6 |
 | 76-90' | 10 | 2 | 13 | 4 | 4 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -149,33 +149,33 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Leeds
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Premier League | Leeds 3-0 Coventry | casa | 9-3 | 22 (6) - 8 (3) | 1-1 |
 | 2026-11-21 | Premier League | Chelsea 1-4 Leeds | fuera | 2-3 | 21 (8) - 14 (3) | 3-1 |
 | 2026-11-07 | Premier League | Leeds 1-0 Tottenham | casa | 6-4 | 16 (4) - 7 (4) | 2-3 |
 | 2026-10-31 | Premier League | Bournemouth 2-0 Leeds | fuera | 4-4 | 10 (1) - 11 (5) | 2-2 |
 | 2026-10-25 | Premier League | Sunderland 0-0 Leeds | fuera | 5-4 | 11 (4) - 15 (4) | 2-1 |
 | 2026-10-18 | Premier League | Leeds 1-1 Manchester United | casa | 2-3 | 12 (5) - 13 (3) | 2-2 |
-| 2026-10-10 | Premier League | Arsenal 2-1 Leeds | fuera | 4-2 | 11 (5) - 13 (6) | 4-1 |
 
 ## Jugadores de Leeds
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| E. Ampadu | M | 13 | 1170 | 0 | 0 | 6 | 0,5 | 1 | 0,1 | 22 | 12 | 0,9 | 5 | 0 |
-| T. Muharemović | D | 13 | 1170 | 1 | 2 | 8 | 0,6 | 4 | 0,3 | 7 | 9 | 0,7 | 1 | 0 |
-| J. Justin | D | 13 | 1153 | 2 | 0 | 9 | 0,7 | 4 | 0,3 | 12 | 14 | 1,1 | 1 | 0 |
-| J. Trafford | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| D. Calvert-Lewin | F | 13 | 994 | 5 | 2 | 24 | 1,8 | 14 | 1,1 | 22 | 10 | 0,8 | 3 | 0 |
-| J. Bogle | M | 12 | 919 | 2 | 0 | 14 | 1,2 | 6 | 0,5 | 19 | 17 | 1,4 | 4 | 0 |
-| N. Elvedi | D | 10 | 862 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 6 | 5 | 0,5 | 1 | 0 |
-| A. Tanaka | M | 12 | 818 | 0 | 1 | 18 | 1,5 | 4 | 0,3 | 17 | 9 | 0,8 | 3 | 0 |
-| G. Gudmundsson | M | 10 | 732 | 0 | 1 | 6 | 0,6 | 1 | 0,1 | 10 | 13 | 1,3 | 2 | 0 |
-| A. Stach | M | 12 | 727 | 1 | 0 | 12 | 1,0 | 3 | 0,2 | 14 | 11 | 0,9 | 0 | 0 |
-| N. Okafor | M | 12 | 649 | 4 | 1 | 10 | 0,8 | 4 | 0,3 | 4 | 9 | 0,8 | 1 | 0 |
-| H. Wilson | F | 11 | 442 | 0 | 2 | 3 | 0,3 | 0 | 0,0 | 5 | 5 | 0,5 | 1 | 0 |
-| B. Aaronson | M | 11 | 392 | 2 | 0 | 5 | 0,5 | 4 | 0,4 | 5 | 9 | 0,8 | 0 | 0 |
-| S. Longstaff | M | 9 | 357 | 0 | 1 | 7 | 0,8 | 5 | 0,6 | 4 | 2 | 0,2 | 3 | 0 |
+| E. Ampadu | M | 14 | 1260 | 0 | 1 | 9 | 0,6 | 1 | 0,1 | 24 | 13 | 0,9 | 5 | 0 |
+| T. Muharemović | D | 14 | 1260 | 1 | 2 | 10 | 0,7 | 4 | 0,3 | 8 | 10 | 0,7 | 1 | 0 |
+| J. Justin | D | 14 | 1243 | 2 | 0 | 11 | 0,8 | 4 | 0,3 | 14 | 15 | 1,1 | 1 | 0 |
+| J. Trafford | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| D. Calvert-Lewin | F | 14 | 1071 | 6 | 2 | 26 | 1,9 | 16 | 1,1 | 22 | 13 | 0,9 | 3 | 0 |
+| J. Bogle | M | 13 | 1009 | 2 | 0 | 17 | 1,3 | 7 | 0,5 | 21 | 18 | 1,4 | 5 | 0 |
+| N. Elvedi | D | 11 | 952 | 0 | 0 | 6 | 0,5 | 2 | 0,2 | 6 | 5 | 0,5 | 1 | 0 |
+| A. Tanaka | M | 13 | 888 | 0 | 1 | 19 | 1,5 | 4 | 0,3 | 17 | 9 | 0,7 | 3 | 0 |
+| G. Gudmundsson | M | 11 | 815 | 0 | 2 | 6 | 0,5 | 1 | 0,1 | 10 | 13 | 1,2 | 2 | 0 |
+| A. Stach | M | 13 | 747 | 1 | 0 | 12 | 0,9 | 3 | 0,2 | 15 | 11 | 0,8 | 0 | 0 |
+| N. Okafor | M | 13 | 719 | 4 | 1 | 14 | 1,1 | 5 | 0,4 | 4 | 11 | 0,8 | 1 | 0 |
+| H. Wilson | F | 12 | 462 | 0 | 2 | 4 | 0,3 | 0 | 0,0 | 6 | 6 | 0,5 | 1 | 0 |
+| S. Longstaff | M | 10 | 427 | 2 | 2 | 9 | 0,9 | 7 | 0,7 | 6 | 3 | 0,3 | 3 | 0 |
+| B. Aaronson | M | 12 | 412 | 2 | 0 | 5 | 0,4 | 4 | 0,3 | 5 | 9 | 0,8 | 0 | 0 |
+| L. Nmecha | F | 12 | 360 | 0 | 2 | 10 | 0,8 | 1 | 0,1 | 2 | 11 | 0,9 | 0 | 0 |
 | J. Bijol | D | 6 | 354 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 2 | 1 | 0,2 | 0 | 0 |
-| L. Nmecha | M | 11 | 347 | 0 | 2 | 9 | 0,8 | 1 | 0,1 | 2 | 11 | 1,0 | 0 | 0 |
 | D. James | M | 6 | 259 | 1 | 0 | 6 | 1,0 | 2 | 0,3 | 7 | 2 | 0,3 | 0 | 0 |
 | J. Rodon | D | 5 | 219 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 2 | 0,4 | 0 | 0 |
-| M. Bard | D | 4 | 142 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 0 | 0,0 | 0 | 0 |
+| M. Bard | D | 5 | 149 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 0 | 0,0 | 0 | 0 |
 | M. Zetterer | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 1,0 | 0 | 0 |

@@ -1,10 +1,10 @@
 # PEC Zwolle – AZ Alkmaar
 **Eredivisie** · Regular Season - 14 · 29/11/2026 16:45 (hora España) · MAC³PARK Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/11 08:43_
+_Actualizadas: 28/11 20:58_
 
 - **1X2:** 1 **5.50**  ·  X **4.50**  ·  2 **1.55**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.18**  ·  X2 **1.14**
@@ -31,7 +31,7 @@ _Actualizadas: 28/11 08:43_
     - 3,5: más **4.50** · menos **1.18**
     - 4,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 10,5: más **2.00** · menos **1.73**
+    - 10,5: más **2.02** · menos **1.78**
 - **Córners 1X2:** 1 **3.75**  ·  X **9.50**  ·  2 **1.33**
 - **1X2 descanso:** 1 **5.00**  ·  X **2.62**  ·  2 **2.00**
 - **Goals Over/Under - Second Half:**

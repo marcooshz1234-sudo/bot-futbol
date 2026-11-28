@@ -1,7 +1,7 @@
 # Aston Villa – Crystal Palace
 **Premier League** · Regular Season - 14 · 05/12/2026 16:00 (hora España) · Villa Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Aston Villa (total) | Aston Villa en casa | Crystal Palace (total) | Crystal Palace fuera |
 |---|---|---|---|---|
-| Partidos analizados | 18 | 8 | 18 | 9 |
-| Forma (últimos 5) | DEEDE | EEVVV | VDDED | DDVED |
-| Balance | 7V 5E 6D | 3V 3E 2D | 6V 3E 9D | 2V 2E 5D |
-| Goles a favor / partido | 1,61 | 1,88 | 1,50 | 1,11 |
-| Goles en contra / partido | 1,56 | 1,00 | 1,89 | 2,11 |
-| Goles a favor 1ª parte | 0,94 | 1,00 | 0,61 | 0,44 |
-| Goles a favor 2ª parte | 0,67 | 0,88 | 0,89 | 0,67 |
-| Goles en contra 1ª parte | 0,61 | 0,12 | 1,00 | 1,33 |
-| Goles en contra 2ª parte | 0,94 | 0,88 | 0,89 | 0,78 |
-| Más de 1,5 goles | 72% | 75% | 89% | 78% |
-| Más de 2,5 goles | 67% | 62% | 67% | 56% |
-| Más de 3,5 goles | 44% | 38% | 56% | 56% |
-| Ambos marcan | 50% | 62% | 56% | 44% |
-| Portería a cero | 22% | 25% | 22% | 22% |
-| Se queda sin marcar | 39% | 25% | 28% | 44% |
-| xG a favor | 1,59 | 1,60 | 1,50 | 1,15 |
-| xG en contra | 1,69 | 1,41 | 2,02 | 1,93 |
-| Tiros / partido | 13,8 | 14,8 | 11,1 | 8,7 |
-| Tiros a puerta / partido | 4,7 | 5,6 | 4,1 | 3,3 |
-| Tiros recibidos | 15,1 | 13,0 | 16,5 | 16,2 |
+| Partidos analizados | 19 | 8 | 18 | 9 |
+| Forma (últimos 5) | EDEED | EEVVV | VDDED | DDVED |
+| Balance | 7V 6E 6D | 3V 3E 2D | 6V 3E 9D | 2V 2E 5D |
+| Goles a favor / partido | 1,63 | 1,88 | 1,50 | 1,11 |
+| Goles en contra / partido | 1,58 | 1,00 | 1,89 | 2,11 |
+| Goles a favor 1ª parte | 1,00 | 1,00 | 0,61 | 0,44 |
+| Goles a favor 2ª parte | 0,63 | 0,88 | 0,89 | 0,67 |
+| Goles en contra 1ª parte | 0,63 | 0,12 | 1,00 | 1,33 |
+| Goles en contra 2ª parte | 0,95 | 0,88 | 0,89 | 0,78 |
+| Más de 1,5 goles | 74% | 75% | 89% | 78% |
+| Más de 2,5 goles | 68% | 62% | 67% | 56% |
+| Más de 3,5 goles | 47% | 38% | 56% | 56% |
+| Ambos marcan | 53% | 62% | 56% | 44% |
+| Portería a cero | 21% | 25% | 22% | 22% |
+| Se queda sin marcar | 37% | 25% | 28% | 44% |
+| xG a favor | 1,63 | 1,60 | 1,50 | 1,15 |
+| xG en contra | 1,65 | 1,41 | 2,02 | 1,93 |
+| Tiros / partido | 14,2 | 14,8 | 11,1 | 8,7 |
+| Tiros a puerta / partido | 4,9 | 5,6 | 4,1 | 3,3 |
+| Tiros recibidos | 15,0 | 13,0 | 16,5 | 16,2 |
 | Tiros a puerta recibidos | 4,9 | 4,1 | 5,6 | 5,3 |
-| Posesión media % | 48 | 50 | 45 | 42 |
-| Córners a favor | 4,6 | 5,6 | 3,3 | 2,3 |
-| Córners en contra | 4,9 | 4,5 | 6,2 | 6,8 |
+| Posesión media % | 49 | 50 | 45 | 42 |
+| Córners a favor | 4,7 | 5,6 | 3,3 | 2,3 |
+| Córners en contra | 4,8 | 4,5 | 6,2 | 6,8 |
 | Córners a favor 1ª parte | 2,9 | 3,9 | 1,5 | 0,8 |
-| Córners a favor 2ª parte | 1,7 | 1,8 | 1,8 | 1,6 |
-| Córners totales del partido | 9,5 | 10,1 | 9,5 | 9,1 |
+| Córners a favor 2ª parte | 1,8 | 1,8 | 1,8 | 1,6 |
+| Córners totales del partido | 9,6 | 10,1 | 9,5 | 9,1 |
 | Córners totales 1ª parte | 5,1 | 5,8 | 3,8 | 3,6 |
-| Córners totales 2ª parte | 4,4 | 4,4 | 5,7 | 5,6 |
-| Más de 8,5 córners | 61% | 62% | 61% | 44% |
-| Más de 9,5 córners | 39% | 50% | 44% | 33% |
-| Más de 10,5 córners | 39% | 50% | 33% | 22% |
-| Faltas cometidas | 11,6 | 12,1 | 10,9 | 11,7 |
-| Faltas recibidas | 14,0 | 14,4 | 10,4 | 8,9 |
-| Amarillas propias | 2,1 | 1,8 | 1,7 | 1,6 |
-| Amarillas del rival | 2,6 | 2,8 | 1,8 | 1,1 |
-| Rojas / partido | 0,06 | 0,00 | 0,17 | 0,11 |
+| Córners totales 2ª parte | 4,5 | 4,4 | 5,7 | 5,6 |
+| Más de 8,5 córners | 63% | 62% | 61% | 44% |
+| Más de 9,5 córners | 42% | 50% | 44% | 33% |
+| Más de 10,5 córners | 42% | 50% | 33% | 22% |
+| Faltas cometidas | 11,5 | 12,1 | 10,9 | 11,7 |
+| Faltas recibidas | 14,1 | 14,4 | 10,4 | 8,9 |
+| Amarillas propias | 2,3 | 1,8 | 1,7 | 1,6 |
+| Amarillas del rival | 2,5 | 2,8 | 1,8 | 1,1 |
+| Rojas / partido | 0,05 | 0,00 | 0,17 | 0,11 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Aston Villa | Recibe Aston Villa | Tarjetas Aston Villa | Goles Crystal Palace | Recibe Crystal Palace | Tarjetas Crystal Palace |
 |---|---|---|---|---|---|---|
-| 1-15' | 7 | 4 | 4 | 3 | 8 | 1 |
-| 16-30' | 2 | 5 | 3 | 1 | 4 | 2 |
-| 31-45' | 8 | 2 | 9 | 7 | 6 | 6 |
-| 46-60' | 4 | 6 | 7 | 7 | 7 | 7 |
+| 1-15' | 7 | 4 | 6 | 3 | 8 | 1 |
+| 16-30' | 4 | 6 | 3 | 1 | 4 | 2 |
+| 31-45' | 8 | 2 | 10 | 7 | 6 | 6 |
+| 46-60' | 4 | 7 | 8 | 7 | 7 | 7 |
 | 61-75' | 5 | 4 | 2 | 3 | 3 | 9 |
-| 76-90' | 3 | 8 | 15 | 6 | 6 | 8 |
+| 76-90' | 3 | 8 | 16 | 6 | 6 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -74,35 +74,35 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Aston Villa
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Premier League | Ipswich 2-2 Aston Villa | fuera | 7-4 | 21 (8) - 14 (5) | 5-2 |
 | 2026-11-24 | Champions League | Galatasaray 1-0 Aston Villa | fuera | 1-5 | 4 (0) - 9 (2) | 4-2 |
 | 2026-11-21 | Premier League | Aston Villa 0-0 Sunderland | casa | 7-2 | 19 (7) - 7 (1) | 2-2 |
 | 2026-11-08 | Premier League | Manchester United 4-4 Aston Villa | fuera | 1-8 | 12 (6) - 26 (9) | 1-1 |
 | 2026-11-03 | Champions League | Barcelona 3-0 Aston Villa | fuera | 8-4 | 9 (1) - 16 (8) | 3-1 |
 | 2026-10-31 | Premier League | Aston Villa 1-1 Fulham | casa | 7-7 | 16 (3) - 14 (5) | 1-3 |
-| 2026-10-28 | Carabao Cup | Bournemouth 3-0 Aston Villa | fuera | 2-6 | 17 (5) - 19 (7) | 3-3 |
 
 ## Jugadores de Aston Villa
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Zion Suzuki | G | 16 | 1395 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,2 | 1 | 0 |
-| Victor Lindelöf | D | 15 | 1350 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 5 | 1 | 0,1 | 0 | 0 |
-| John McGinn | M | 18 | 1330 | 3 | 4 | 19 | 1,1 | 8 | 0,4 | 20 | 38 | 2,1 | 4 | 0 |
-| Boubacar Kamara | M | 15 | 1286 | 0 | 2 | 4 | 0,3 | 1 | 0,1 | 28 | 34 | 2,3 | 0 | 0 |
-| Nicolas Jackson | F | 16 | 1217 | 9 | 1 | 36 | 2,2 | 19 | 1,2 | 8 | 11 | 0,7 | 4 | 0 |
-| Ian Maatsen | D | 12 | 1050 | 0 | 0 | 11 | 0,9 | 2 | 0,2 | 13 | 11 | 0,9 | 4 | 0 |
+| Z. Suzuki | G | 17 | 1485 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,2 | 1 | 0 |
+| V. Lindelöf | D | 16 | 1440 | 0 | 0 | 2 | 0,1 | 1 | 0,1 | 7 | 1 | 0,1 | 0 | 0 |
+| J.  McGinn | M | 19 | 1408 | 3 | 4 | 21 | 1,1 | 9 | 0,5 | 23 | 41 | 2,2 | 5 | 0 |
+| B. Kamara | M | 16 | 1376 | 0 | 2 | 6 | 0,4 | 1 | 0,1 | 30 | 35 | 2,2 | 1 | 0 |
+| N. Jackson | F | 17 | 1300 | 9 | 1 | 39 | 2,3 | 21 | 1,2 | 8 | 12 | 0,7 | 4 | 0 |
+| I. Maatsen | D | 13 | 1140 | 0 | 0 | 12 | 0,9 | 2 | 0,2 | 13 | 12 | 0,9 | 4 | 0 |
+| Pau Torres | D | 13 | 1012 | 0 | 3 | 8 | 0,6 | 2 | 0,2 | 4 | 6 | 0,5 | 0 | 0 |
 | Emiliano Buendía | M | 16 | 972 | 3 | 0 | 31 | 1,9 | 9 | 0,6 | 17 | 22 | 1,4 | 5 | 0 |
-| Pau Torres | D | 12 | 922 | 0 | 2 | 6 | 0,5 | 0 | 0,0 | 4 | 5 | 0,4 | 0 | 0 |
-| M. Cash | D | 11 | 858 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 19 | 12 | 1,1 | 5 | 0 |
+| M. Cash | D | 12 | 880 | 0 | 0 | 5 | 0,4 | 1 | 0,1 | 20 | 13 | 1,1 | 6 | 0 |
+| João Gomes | M | 14 | 879 | 1 | 2 | 3 | 0,2 | 2 | 0,1 | 21 | 20 | 1,4 | 6 | 1 |
+| J. Manzambi | M | 13 | 852 | 3 | 4 | 25 | 1,9 | 10 | 0,8 | 1 | 26 | 2,0 | 1 | 0 |
 | Tyrone Mings | D | 10 | 801 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 5 | 4 | 0,4 | 1 | 0 |
-| João Gomes | M | 13 | 801 | 0 | 2 | 2 | 0,2 | 1 | 0,1 | 20 | 18 | 1,4 | 5 | 1 |
-| Johan Manzambi | M | 12 | 762 | 3 | 3 | 20 | 1,7 | 9 | 0,8 | 1 | 22 | 1,8 | 1 | 0 |
-| Ross Barkley | M | 18 | 749 | 4 | 2 | 18 | 1,0 | 9 | 0,5 | 14 | 9 | 0,5 | 2 | 0 |
-| Alysson | M | 17 | 665 | 2 | 1 | 15 | 0,9 | 5 | 0,3 | 13 | 11 | 0,6 | 2 | 0 |
+| R. Barkley | M | 19 | 761 | 4 | 2 | 18 | 0,9 | 9 | 0,5 | 15 | 9 | 0,5 | 2 | 0 |
+| Alysson Edward | M | 18 | 733 | 3 | 1 | 17 | 0,9 | 6 | 0,3 | 14 | 11 | 0,6 | 3 | 0 |
 | A. Wan-Bissaka | D | 10 | 616 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 3 | 0,3 | 1 | 0 |
 | George Hemmings | M | 11 | 576 | 0 | 1 | 9 | 0,8 | 2 | 0,2 | 13 | 7 | 0,6 | 0 | 0 |
-| Ibrahim Mbaye | F | 14 | 508 | 0 | 4 | 15 | 1,1 | 7 | 0,5 | 5 | 7 | 0,5 | 0 | 0 |
-| Taylor Harwood-Bellis | D | 5 | 450 | 0 | 0 | 4 | 0,8 | 2 | 0,4 | 2 | 7 | 1,4 | 0 | 0 |
-| Leon Goretzka | M | 10 | 392 | 1 | 0 | 9 | 0,9 | 1 | 0,1 | 10 | 8 | 0,8 | 1 | 0 |
+| I. Mbaye | F | 15 | 530 | 0 | 4 | 15 | 1,0 | 7 | 0,5 | 5 | 7 | 0,5 | 0 | 0 |
+| T. Harwood-Bellis | D | 6 | 518 | 0 | 0 | 5 | 0,8 | 2 | 0,3 | 2 | 7 | 1,2 | 0 | 0 |
+| L. Goretzka | M | 11 | 404 | 1 | 0 | 10 | 0,9 | 1 | 0,1 | 10 | 8 | 0,7 | 1 | 0 |
 | Matteo Ruggeri | D | 5 | 248 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
 
 ## Últimos partidos de Crystal Palace

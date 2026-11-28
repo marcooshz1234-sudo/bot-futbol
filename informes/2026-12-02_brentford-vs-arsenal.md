@@ -1,7 +1,7 @@
 # Brentford – Arsenal
 **Premier League** · Regular Season - 13 · 02/12/2026 21:15 (hora España) · Brentford Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Actualizadas: 28/11 08:45_
@@ -51,53 +51,53 @@ _Actualizadas: 28/11 08:45_
 ## Estadísticas de equipo
 | | Brentford (total) | Brentford en casa | Arsenal (total) | Arsenal fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 6 | 18 | 11 |
-| Forma (últimos 5) | VDVDE | VVDVE | EEVVV | EVVEE |
-| Balance | 6V 5E 3D | 4V 1E 1D | 13V 4E 1D | 7V 3E 1D |
-| Goles a favor / partido | 2,14 | 2,33 | 1,72 | 1,55 |
-| Goles en contra / partido | 1,14 | 0,50 | 0,78 | 1,00 |
-| Goles a favor 1ª parte | 1,07 | 1,00 | 0,67 | 0,64 |
-| Goles a favor 2ª parte | 1,07 | 1,33 | 1,06 | 0,91 |
-| Goles en contra 1ª parte | 0,64 | 0,00 | 0,28 | 0,36 |
-| Goles en contra 2ª parte | 0,50 | 0,50 | 0,50 | 0,64 |
+| Partidos analizados | 15 | 6 | 18 | 11 |
+| Forma (últimos 5) | VVDVD | VVDVE | EEVVV | EVVEE |
+| Balance | 7V 5E 3D | 4V 1E 1D | 13V 4E 1D | 7V 3E 1D |
+| Goles a favor / partido | 2,27 | 2,33 | 1,72 | 1,55 |
+| Goles en contra / partido | 1,07 | 0,50 | 0,78 | 1,00 |
+| Goles a favor 1ª parte | 1,13 | 1,00 | 0,67 | 0,64 |
+| Goles a favor 2ª parte | 1,13 | 1,33 | 1,06 | 0,91 |
+| Goles en contra 1ª parte | 0,60 | 0,00 | 0,28 | 0,36 |
+| Goles en contra 2ª parte | 0,47 | 0,50 | 0,50 | 0,64 |
 | Más de 1,5 goles | 100% | 100% | 72% | 64% |
-| Más de 2,5 goles | 64% | 67% | 50% | 45% |
-| Más de 3,5 goles | 36% | 17% | 17% | 27% |
-| Ambos marcan | 64% | 33% | 44% | 45% |
-| Portería a cero | 29% | 67% | 50% | 45% |
+| Más de 2,5 goles | 67% | 67% | 50% | 45% |
+| Más de 3,5 goles | 40% | 17% | 17% | 27% |
+| Ambos marcan | 60% | 33% | 44% | 45% |
+| Portería a cero | 33% | 67% | 50% | 45% |
 | Se queda sin marcar | 7% | 0% | 6% | 9% |
-| xG a favor | 1,74 | 1,99 | 1,80 | 1,78 |
-| xG en contra | 1,43 | 0,98 | 0,94 | 1,27 |
-| Tiros / partido | 15,0 | 14,8 | 15,8 | 13,7 |
+| xG a favor | 1,78 | 1,99 | 1,80 | 1,78 |
+| xG en contra | 1,50 | 0,98 | 0,94 | 1,27 |
+| Tiros / partido | 14,8 | 14,8 | 15,8 | 13,7 |
 | Tiros a puerta / partido | 4,7 | 4,3 | 5,3 | 4,4 |
-| Tiros recibidos | 13,6 | 12,5 | 10,3 | 11,5 |
-| Tiros a puerta recibidos | 3,9 | 3,2 | 2,9 | 2,9 |
-| Posesión media % | 50 | 47 | 59 | 59 |
+| Tiros recibidos | 14,4 | 12,5 | 10,3 | 11,5 |
+| Tiros a puerta recibidos | 4,2 | 3,2 | 2,9 | 2,9 |
+| Posesión media % | 49 | 47 | 59 | 59 |
 | Córners a favor | 4,6 | 4,5 | 5,1 | 4,1 |
 | Córners en contra | 4,6 | 5,7 | 3,6 | 4,0 |
-| Córners a favor 1ª parte | 2,3 | 2,5 | 2,4 | 1,7 |
-| Córners a favor 2ª parte | 2,3 | 2,0 | 2,7 | 2,4 |
-| Córners totales del partido | 9,1 | 10,2 | 8,7 | 8,1 |
+| Córners a favor 1ª parte | 2,2 | 2,5 | 2,4 | 1,7 |
+| Córners a favor 2ª parte | 2,4 | 2,0 | 2,7 | 2,4 |
+| Córners totales del partido | 9,2 | 10,2 | 8,7 | 8,1 |
 | Córners totales 1ª parte | 4,1 | 4,8 | 4,1 | 3,4 |
 | Córners totales 2ª parte | 5,1 | 5,3 | 4,6 | 4,7 |
-| Más de 8,5 córners | 64% | 67% | 44% | 36% |
-| Más de 9,5 córners | 57% | 50% | 39% | 27% |
-| Más de 10,5 córners | 43% | 33% | 33% | 27% |
-| Faltas cometidas | 12,4 | 11,2 | 9,3 | 8,9 |
-| Faltas recibidas | 9,8 | 11,5 | 14,7 | 15,1 |
-| Amarillas propias | 2,0 | 1,8 | 1,3 | 1,5 |
-| Amarillas del rival | 1,7 | 1,7 | 2,6 | 2,6 |
-| Rojas / partido | 0,21 | 0,33 | 0,06 | 0,09 |
+| Más de 8,5 córners | 67% | 67% | 44% | 36% |
+| Más de 9,5 córners | 60% | 50% | 39% | 27% |
+| Más de 10,5 córners | 40% | 33% | 33% | 27% |
+| Faltas cometidas | 12,7 | 11,2 | 9,3 | 8,9 |
+| Faltas recibidas | 9,7 | 11,5 | 14,7 | 15,1 |
+| Amarillas propias | 1,9 | 1,8 | 1,3 | 1,5 |
+| Amarillas del rival | 1,8 | 1,7 | 2,6 | 2,6 |
+| Rojas / partido | 0,20 | 0,33 | 0,06 | 0,09 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Brentford | Recibe Brentford | Tarjetas Brentford | Goles Arsenal | Recibe Arsenal | Tarjetas Arsenal |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 2 | 1 | 5 | 1 | 1 |
-| 16-30' | 3 | 4 | 5 | 5 | 1 | 2 |
-| 31-45' | 8 | 4 | 3 | 2 | 3 | 2 |
+| 16-30' | 4 | 4 | 5 | 5 | 1 | 2 |
+| 31-45' | 9 | 4 | 3 | 2 | 3 | 2 |
 | 46-60' | 3 | 1 | 2 | 8 | 4 | 6 |
 | 61-75' | 5 | 3 | 8 | 8 | 3 | 3 |
-| 76-90' | 7 | 3 | 12 | 4 | 2 | 12 |
+| 76-90' | 9 | 3 | 13 | 4 | 2 | 12 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -115,35 +115,35 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Brentford
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Premier League | Manchester United 0-4 Brentford | fuera | 5-5 | 12 (4) - 25 (8) | 1-3 |
 | 2026-11-23 | Premier League | Brentford 4-0 Everton | casa | 6-3 | 21 (7) - 4 (2) | 0-1 |
 | 2026-11-08 | Premier League | Brighton 2-0 Brentford | fuera | 3-7 | 5 (0) - 20 (6) | 2-4 |
 | 2026-10-31 | Premier League | Brentford 2-0 Nottingham Forest | casa | 3-4 | 7 (1) - 15 (1) | 1-3 |
 | 2026-10-28 | Carabao Cup | Sunderland 3-2 Brentford | fuera | 5-0 | 16 (7) - 7 (4) | 3-1 |
 | 2026-10-25 | Premier League | Hull City 1-1 Brentford | fuera | 6-5 | 14 (6) - 12 (2) | 1-0 |
-| 2026-10-17 | Premier League | Brentford 1-2 Liverpool | casa | 3-9 | 10 (2) - 21 (5) | 4-3 |
 
 ## Jugadores de Brentford
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| K. Ajer | D | 13 | 1099 | 1 | 0 | 4 | 0,3 | 2 | 0,2 | 7 | 6 | 0,5 | 3 | 0 |
-| V. Janelt | M | 12 | 1053 | 3 | 1 | 6 | 0,5 | 4 | 0,3 | 19 | 9 | 0,8 | 7 | 1 |
-| M. Kayode | D | 14 | 1005 | 1 | 0 | 7 | 0,5 | 1 | 0,1 | 12 | 11 | 0,8 | 2 | 0 |
-| C. Kelleher | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| K. Lewis-Potter | D | 13 | 963 | 4 | 1 | 17 | 1,3 | 6 | 0,5 | 14 | 9 | 0,7 | 0 | 0 |
+| K. Ajer | D | 14 | 1189 | 2 | 0 | 5 | 0,4 | 3 | 0,2 | 8 | 6 | 0,4 | 3 | 0 |
+| V. Janelt | M | 13 | 1143 | 3 | 1 | 6 | 0,5 | 4 | 0,3 | 19 | 9 | 0,7 | 7 | 1 |
+| M. Kayode | D | 15 | 1095 | 1 | 1 | 7 | 0,5 | 1 | 0,1 | 15 | 11 | 0,7 | 2 | 0 |
+| C. Kelleher | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| K. Lewis-Potter | D | 14 | 1053 | 4 | 1 | 19 | 1,4 | 6 | 0,4 | 15 | 9 | 0,6 | 0 | 0 |
 | Thiago | F | 13 | 957 | 4 | 2 | 25 | 1,9 | 10 | 0,8 | 17 | 10 | 0,8 | 4 | 1 |
-| K. Schade | M | 13 | 869 | 3 | 0 | 17 | 1,3 | 7 | 0,5 | 9 | 16 | 1,2 | 3 | 0 |
-| M. Sangaré | M | 14 | 773 | 0 | 2 | 10 | 0,7 | 2 | 0,1 | 13 | 8 | 0,6 | 2 | 0 |
-| J. Anthony | M | 13 | 733 | 1 | 7 | 12 | 0,9 | 4 | 0,3 | 11 | 7 | 0,5 | 1 | 0 |
-| M. Damsgaard | M | 12 | 715 | 1 | 0 | 13 | 1,1 | 4 | 0,3 | 4 | 5 | 0,4 | 0 | 0 |
-| D. Ouattara | M | 14 | 662 | 1 | 2 | 14 | 1,0 | 4 | 0,3 | 6 | 9 | 0,6 | 0 | 0 |
+| K. Schade | M | 14 | 906 | 4 | 0 | 19 | 1,4 | 8 | 0,6 | 11 | 17 | 1,2 | 3 | 0 |
+| M. Sangaré | M | 15 | 863 | 0 | 2 | 11 | 0,7 | 2 | 0,1 | 19 | 9 | 0,6 | 2 | 0 |
+| J. Anthony | M | 14 | 820 | 1 | 7 | 15 | 1,1 | 4 | 0,3 | 13 | 7 | 0,5 | 1 | 0 |
+| M. Damsgaard | M | 13 | 785 | 1 | 0 | 13 | 1,0 | 4 | 0,3 | 4 | 5 | 0,4 | 0 | 0 |
+| D. Ouattara | M | 15 | 749 | 1 | 5 | 15 | 1,0 | 4 | 0,3 | 6 | 14 | 0,9 | 0 | 0 |
 | Y. Yarmolyuk | M | 11 | 547 | 1 | 2 | 5 | 0,5 | 2 | 0,2 | 10 | 5 | 0,5 | 1 | 1 |
 | Jannik Schuster | D | 7 | 507 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 11 | 4 | 0,6 | 2 | 0 |
+| S. van den Berg | D | 6 | 501 | 0 | 0 | 2 | 0,3 | 2 | 0,3 | 4 | 4 | 0,7 | 0 | 0 |
 | A. Hickey | D | 13 | 486 | 1 | 0 | 5 | 0,4 | 2 | 0,2 | 9 | 10 | 0,8 | 1 | 0 |
-| S. van den Berg | D | 5 | 411 | 0 | 0 | 2 | 0,4 | 2 | 0,4 | 3 | 3 | 0,6 | 0 | 0 |
+| C. Wilson | F | 12 | 416 | 5 | 0 | 13 | 1,1 | 8 | 0,7 | 8 | 6 | 0,5 | 1 | 0 |
 | N. Collins | D | 6 | 403 | 2 | 0 | 7 | 1,2 | 5 | 0,8 | 5 | 6 | 1,0 | 1 | 0 |
-| M. Jensen | M | 8 | 365 | 0 | 2 | 5 | 0,6 | 1 | 0,1 | 5 | 4 | 0,5 | 0 | 0 |
-| C. Wilson | F | 11 | 363 | 3 | 0 | 11 | 1,0 | 6 | 0,5 | 8 | 5 | 0,5 | 1 | 0 |
-| E. Diouf | D | 9 | 352 | 0 | 0 | 5 | 0,6 | 0 | 0,0 | 7 | 5 | 0,6 | 0 | 0 |
+| M. Jensen | M | 9 | 385 | 0 | 2 | 5 | 0,6 | 1 | 0,1 | 6 | 4 | 0,4 | 0 | 0 |
+| E. Diouf | D | 10 | 355 | 0 | 0 | 5 | 0,5 | 0 | 0,0 | 7 | 5 | 0,5 | 0 | 0 |
 | H. Valdimarsson | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Últimos partidos de Arsenal

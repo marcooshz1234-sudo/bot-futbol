@@ -1,7 +1,7 @@
 # Leixoes – Feirense
 **Segunda Liga** · Regular Season - 13 · 04/12/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Leixoes (total) | Leixoes en casa | Feirense (total) | Feirense fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 6 | 13 | 7 |
-| Forma (últimos 5) | VEDDD | VDDVD | DEVDE | EDDDD |
-| Balance | 5V 2E 6D | 3V 0E 3D | 1V 3E 9D | 0V 1E 6D |
-| Goles a favor / partido | 1,46 | 1,67 | 0,46 | 0,43 |
-| Goles en contra / partido | 1,38 | 1,50 | 1,23 | 1,43 |
-| Goles a favor 1ª parte | 0,77 | 0,67 | 0,31 | 0,29 |
-| Goles a favor 2ª parte | 0,69 | 1,00 | 0,15 | 0,14 |
-| Goles en contra 1ª parte | 0,62 | 0,50 | 0,46 | 0,43 |
-| Goles en contra 2ª parte | 0,77 | 1,00 | 0,77 | 1,00 |
-| Más de 1,5 goles | 69% | 83% | 38% | 43% |
-| Más de 2,5 goles | 54% | 67% | 31% | 29% |
-| Más de 3,5 goles | 38% | 33% | 15% | 14% |
-| Ambos marcan | 38% | 67% | 31% | 29% |
-| Portería a cero | 38% | 33% | 23% | 0% |
-| Se queda sin marcar | 31% | 0% | 62% | 71% |
+| Partidos analizados | 14 | 6 | 13 | 7 |
+| Forma (últimos 5) | EVEDD | VDDVD | DEVDE | EDDDD |
+| Balance | 5V 3E 6D | 3V 0E 3D | 1V 3E 9D | 0V 1E 6D |
+| Goles a favor / partido | 1,57 | 1,67 | 0,46 | 0,43 |
+| Goles en contra / partido | 1,50 | 1,50 | 1,23 | 1,43 |
+| Goles a favor 1ª parte | 0,71 | 0,67 | 0,31 | 0,29 |
+| Goles a favor 2ª parte | 0,86 | 1,00 | 0,15 | 0,14 |
+| Goles en contra 1ª parte | 0,71 | 0,50 | 0,46 | 0,43 |
+| Goles en contra 2ª parte | 0,79 | 1,00 | 0,77 | 1,00 |
+| Más de 1,5 goles | 71% | 83% | 38% | 43% |
+| Más de 2,5 goles | 57% | 67% | 31% | 29% |
+| Más de 3,5 goles | 43% | 33% | 15% | 14% |
+| Ambos marcan | 43% | 67% | 31% | 29% |
+| Portería a cero | 36% | 33% | 23% | 0% |
+| Se queda sin marcar | 29% | 0% | 62% | 71% |
 | xG a favor | – | – | – | – |
 | xG en contra | – | – | – | – |
-| Tiros / partido | 14,7 | 17,0 | 8,2 | 9,3 |
-| Tiros a puerta / partido | 5,3 | 5,8 | 2,2 | 2,3 |
-| Tiros recibidos | 7,4 | 7,5 | 14,0 | 13,7 |
+| Tiros / partido | 15,6 | 17,0 | 8,2 | 9,3 |
+| Tiros a puerta / partido | 6,0 | 5,8 | 2,2 | 2,3 |
+| Tiros recibidos | 7,5 | 7,5 | 14,0 | 13,7 |
 | Tiros a puerta recibidos | 4,0 | 4,8 | 5,2 | 6,0 |
-| Posesión media % | 56 | 58 | 42 | 42 |
-| Córners a favor | 4,4 | 4,8 | 1,6 | 1,7 |
-| Córners en contra | 2,9 | 2,8 | 3,8 | 4,3 |
+| Posesión media % | 57 | 58 | 42 | 42 |
+| Córners a favor | 4,8 | 4,8 | 1,6 | 1,7 |
+| Córners en contra | 2,8 | 2,8 | 3,8 | 4,3 |
 | Córners a favor 1ª parte | 2,5 | 2,6 | 0,8 | 0,7 |
-| Córners a favor 2ª parte | 1,9 | 2,2 | 0,8 | 1,0 |
-| Córners totales del partido | 7,3 | 7,6 | 5,5 | 6,0 |
+| Córners a favor 2ª parte | 2,3 | 2,2 | 0,8 | 1,0 |
+| Córners totales del partido | 7,6 | 7,6 | 5,5 | 6,0 |
 | Córners totales 1ª parte | 3,9 | 4,4 | 2,6 | 2,8 |
-| Córners totales 2ª parte | 3,4 | 3,2 | 2,8 | 3,2 |
-| Más de 8,5 córners | 60% | 60% | 27% | 33% |
-| Más de 9,5 córners | 50% | 40% | 27% | 33% |
-| Más de 10,5 córners | 40% | 40% | 27% | 33% |
+| Córners totales 2ª parte | 3,7 | 3,2 | 2,8 | 3,2 |
+| Más de 8,5 córners | 64% | 60% | 27% | 33% |
+| Más de 9,5 córners | 55% | 40% | 27% | 33% |
+| Más de 10,5 córners | 45% | 40% | 27% | 33% |
 | Faltas cometidas | – | – | 13,0 | 13,0 |
 | Faltas recibidas | – | – | 15,0 | 15,0 |
-| Amarillas propias | 3,1 | 3,2 | 2,5 | 2,5 |
-| Amarillas del rival | 2,8 | 2,8 | 2,5 | 2,5 |
-| Rojas / partido | 0,20 | 0,20 | 0,00 | 0,00 |
+| Amarillas propias | 3,0 | 3,2 | 2,5 | 2,5 |
+| Amarillas del rival | 3,0 | 2,8 | 2,5 | 2,5 |
+| Rojas / partido | 0,18 | 0,20 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Leixoes | Recibe Leixoes | Tarjetas Leixoes | Goles Feirense | Recibe Feirense | Tarjetas Feirense |
 |---|---|---|---|---|---|---|
-| 1-15' | 3 | 6 | 3 | 1 | 0 | 3 |
+| 1-15' | 3 | 7 | 4 | 1 | 0 | 3 |
 | 16-30' | 1 | 1 | 4 | 1 | 3 | 4 |
-| 31-45' | 6 | 1 | 5 | 2 | 3 | 5 |
-| 46-60' | 2 | 4 | 5 | 1 | 3 | 1 |
+| 31-45' | 6 | 2 | 5 | 2 | 3 | 5 |
+| 46-60' | 4 | 5 | 5 | 1 | 3 | 1 |
 | 61-75' | 1 | 3 | 6 | 0 | 2 | 7 |
-| 76-90' | 6 | 3 | 20 | 1 | 5 | 10 |
+| 76-90' | 7 | 3 | 21 | 1 | 5 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -73,12 +73,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Leixoes
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Segunda Liga | AVS 3-3 Leixoes | fuera | 9-2 | 22 (11) - 8 (4) | 2-5 |
 | 2026-11-15 | Segunda Liga | Leixoes 2-0 Chaves | casa | 7-2 | 20 (6) - 3 (2) | 1-5 |
 | 2026-11-07 | Segunda Liga | Felgueiras 1932 3-3 Leixoes | fuera | 10-4 | 13 (5) - 10 (4) | 3-4 |
 | 2026-10-31 | Segunda Liga | Leixoes 1-2 Sporting CP B | casa | 6-6 | 20 (4) - 15 (9) | 3-1 |
 | 2026-10-24 | Segunda Liga | Academica 4-0 Leixoes | fuera | –-– | – (–) - – (–) | 2-2 |
 | 2026-10-17 | Taça de Portugal | Vianense 1-0 Leixoes | fuera | –-– | – (–) - – (–) | –-– |
-| 2026-10-10 | Segunda Liga | Leixoes 1-2 FC Porto B | casa | 10-1 | 16 (5) - 6 (6) | 6-1 |
 
 ## Jugadores de Leixoes
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

@@ -1,7 +1,7 @@
 # Union Berlin – Hamburger SV
 **Bundesliga** · Regular Season - 12 · 05/12/2026 15:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Actualizadas: 27/11 22:17_
@@ -52,42 +52,42 @@ _Actualizadas: 27/11 22:17_
 ## Estadísticas de equipo
 | | Union Berlin (total) | Union Berlin en casa | Hamburger SV (total) | Hamburger SV fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 12 | 7 |
-| Forma (últimos 5) | DDEDE | DEEVD | DVDDD | DDDVD |
-| Balance | 2V 4E 6D | 1V 3E 2D | 5V 0E 7D | 2V 0E 5D |
-| Goles a favor / partido | 1,00 | 1,17 | 1,17 | 1,00 |
-| Goles en contra / partido | 2,75 | 2,00 | 2,25 | 2,43 |
-| Goles a favor 1ª parte | 0,33 | 0,50 | 0,42 | 0,43 |
-| Goles a favor 2ª parte | 0,67 | 0,67 | 0,75 | 0,57 |
-| Goles en contra 1ª parte | 0,92 | 0,67 | 0,75 | 0,86 |
-| Goles en contra 2ª parte | 1,83 | 1,33 | 1,50 | 1,57 |
-| Más de 1,5 goles | 83% | 67% | 83% | 86% |
-| Más de 2,5 goles | 58% | 50% | 75% | 71% |
-| Más de 3,5 goles | 58% | 50% | 58% | 57% |
-| Ambos marcan | 50% | 67% | 42% | 29% |
-| Portería a cero | 17% | 33% | 17% | 14% |
-| Se queda sin marcar | 42% | 17% | 42% | 57% |
-| xG a favor | 1,01 | 1,28 | 1,35 | 1,06 |
-| xG en contra | 2,44 | 2,13 | 1,83 | 1,61 |
-| Tiros / partido | 11,6 | 14,5 | 12,2 | 11,4 |
-| Tiros a puerta / partido | 4,2 | 5,7 | 4,1 | 3,3 |
-| Tiros recibidos | 17,8 | 15,7 | 17,3 | 16,9 |
-| Tiros a puerta recibidos | 6,8 | 4,8 | 6,0 | 6,1 |
-| Posesión media % | 41 | 44 | 44 | 42 |
+| Partidos analizados | 13 | 6 | 13 | 7 |
+| Forma (últimos 5) | DDDED | DEEVD | EDVDD | DDDVD |
+| Balance | 2V 4E 7D | 1V 3E 2D | 5V 1E 7D | 2V 0E 5D |
+| Goles a favor / partido | 1,00 | 1,17 | 1,08 | 1,00 |
+| Goles en contra / partido | 2,69 | 2,00 | 2,08 | 2,43 |
+| Goles a favor 1ª parte | 0,38 | 0,50 | 0,38 | 0,43 |
+| Goles a favor 2ª parte | 0,62 | 0,67 | 0,69 | 0,57 |
+| Goles en contra 1ª parte | 0,85 | 0,67 | 0,69 | 0,86 |
+| Goles en contra 2ª parte | 1,85 | 1,33 | 1,38 | 1,57 |
+| Más de 1,5 goles | 85% | 67% | 77% | 86% |
+| Más de 2,5 goles | 62% | 50% | 69% | 71% |
+| Más de 3,5 goles | 54% | 50% | 54% | 57% |
+| Ambos marcan | 54% | 67% | 38% | 29% |
+| Portería a cero | 15% | 33% | 23% | 14% |
+| Se queda sin marcar | 38% | 17% | 46% | 57% |
+| xG a favor | 0,98 | 1,28 | 1,30 | 1,06 |
+| xG en contra | 2,37 | 2,13 | 1,72 | 1,61 |
+| Tiros / partido | 11,5 | 14,5 | 12,0 | 11,4 |
+| Tiros a puerta / partido | 4,2 | 5,7 | 4,0 | 3,3 |
+| Tiros recibidos | 17,7 | 15,7 | 16,8 | 16,9 |
+| Tiros a puerta recibidos | 6,8 | 4,8 | 5,5 | 6,1 |
+| Posesión media % | 41 | 44 | 42 | 42 |
 | Córners a favor | 3,8 | 4,5 | 4,2 | 4,1 |
-| Córners en contra | 5,8 | 4,8 | 4,8 | 4,6 |
-| Córners a favor 1ª parte | 1,3 | 1,7 | 1,8 | 1,6 |
-| Córners a favor 2ª parte | 2,4 | 2,8 | 2,4 | 2,6 |
-| Córners totales del partido | 9,5 | 9,3 | 9,0 | 8,7 |
-| Córners totales 1ª parte | 4,2 | 4,0 | 4,5 | 4,1 |
-| Córners totales 2ª parte | 5,3 | 5,3 | 4,5 | 4,6 |
-| Más de 8,5 córners | 58% | 67% | 58% | 71% |
-| Más de 9,5 córners | 50% | 50% | 33% | 43% |
-| Más de 10,5 córners | 33% | 17% | 25% | 29% |
-| Faltas cometidas | 12,6 | 11,7 | 12,3 | 13,6 |
-| Faltas recibidas | 10,1 | 10,7 | 12,5 | 11,0 |
-| Amarillas propias | 2,7 | 2,7 | 1,6 | 1,9 |
-| Amarillas del rival | 1,8 | 2,3 | 2,0 | 1,9 |
+| Córners en contra | 5,8 | 4,8 | 4,7 | 4,6 |
+| Córners a favor 1ª parte | 1,5 | 1,7 | 1,8 | 1,6 |
+| Córners a favor 2ª parte | 2,3 | 2,8 | 2,5 | 2,6 |
+| Córners totales del partido | 9,5 | 9,3 | 8,9 | 8,7 |
+| Córners totales 1ª parte | 4,3 | 4,0 | 4,5 | 4,1 |
+| Córners totales 2ª parte | 5,2 | 5,3 | 4,5 | 4,6 |
+| Más de 8,5 córners | 62% | 67% | 54% | 71% |
+| Más de 9,5 córners | 54% | 50% | 31% | 43% |
+| Más de 10,5 córners | 31% | 17% | 23% | 29% |
+| Faltas cometidas | 12,5 | 11,7 | 12,5 | 13,6 |
+| Faltas recibidas | 10,1 | 10,7 | 12,2 | 11,0 |
+| Amarillas propias | 2,5 | 2,7 | 1,7 | 1,9 |
+| Amarillas del rival | 1,8 | 2,3 | 1,8 | 1,9 |
 | Rojas / partido | 0,08 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -95,10 +95,10 @@ _Actualizadas: 27/11 22:17_
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 4 | 3 | 3 | 2 | 2 |
 | 16-30' | 0 | 4 | 5 | 0 | 3 | 2 |
-| 31-45' | 2 | 3 | 8 | 2 | 4 | 2 |
-| 46-60' | 0 | 8 | 4 | 4 | 5 | 3 |
-| 61-75' | 3 | 7 | 2 | 1 | 7 | 3 |
-| 76-90' | 5 | 7 | 11 | 4 | 6 | 8 |
+| 31-45' | 3 | 3 | 8 | 2 | 4 | 3 |
+| 46-60' | 0 | 8 | 4 | 4 | 5 | 4 |
+| 61-75' | 3 | 7 | 3 | 1 | 7 | 3 |
+| 76-90' | 5 | 9 | 11 | 4 | 6 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -114,67 +114,67 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Union Berlin
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Bundesliga | FSV Mainz 05 2-1 Union Berlin | fuera | 4-6 | 10 (4) - 17 (6) | 1-2 |
 | 2026-11-21 | Bundesliga | Union Berlin 1-5 RB Leipzig | casa | 4-8 | 13 (8) - 32 (10) | 2-2 |
 | 2026-11-08 | Bundesliga | SC Freiburg 2-0 Union Berlin | fuera | 1-5 | 4 (0) - 20 (9) | 2-2 |
 | 2026-11-01 | Bundesliga | Union Berlin 1-1 1. FC Köln | casa | 2-6 | 5 (2) - 14 (2) | 4-3 |
 | 2026-10-27 | DFB-Pokal | 1. FC Köln 5-0 Union Berlin | fuera | 4-3 | 17 (4) - 14 (8) | 3-1 |
 | 2026-10-24 | Bundesliga | FC Augsburg 1-1 Union Berlin | fuera | 1-5 | 6 (1) - 25 (5) | 3-0 |
-| 2026-10-17 | Bundesliga | Union Berlin 0-0 Borussia Dortmund | casa | 5-5 | 11 (0) - 10 (2) | 3-3 |
 
 ## Jugadores de Union Berlin
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | R. Khedira | M | 12 | 1080 | 0 | 0 | 4 | 0,3 | 1 | 0,1 | 22 | 6 | 0,5 | 1 | 0 |
+| M. Aebischer | M | 13 | 996 | 1 | 0 | 5 | 0,4 | 1 | 0,1 | 9 | 7 | 0,5 | 2 | 0 |
 | Z. Van Den Bosch | D | 11 | 919 | 1 | 0 | 7 | 0,6 | 3 | 0,3 | 15 | 8 | 0,7 | 6 | 0 |
-| M. Aebischer | M | 12 | 906 | 1 | 0 | 5 | 0,4 | 1 | 0,1 | 9 | 5 | 0,4 | 2 | 0 |
-| F. Rønnow | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| A. Schäfer | M | 12 | 803 | 0 | 0 | 7 | 0,6 | 3 | 0,2 | 11 | 17 | 1,4 | 1 | 0 |
+| F. Rønnow | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 1 | 0 |
+| A. Schäfer | M | 13 | 893 | 0 | 0 | 9 | 0,7 | 3 | 0,2 | 15 | 19 | 1,5 | 1 | 0 |
+| J. Haberer | D | 12 | 810 | 3 | 0 | 9 | 0,8 | 5 | 0,4 | 9 | 9 | 0,8 | 3 | 0 |
 | T. Rothe | D | 10 | 770 | 1 | 1 | 7 | 0,7 | 4 | 0,4 | 13 | 5 | 0,5 | 1 | 0 |
-| J. Haberer | D | 11 | 721 | 2 | 0 | 8 | 0,7 | 4 | 0,4 | 8 | 8 | 0,7 | 3 | 0 |
-| Jeong Woo-Yeong | M | 12 | 675 | 0 | 0 | 7 | 0,6 | 1 | 0,1 | 6 | 10 | 0,8 | 1 | 0 |
-| L. Querfeld | D | 6 | 515 | 1 | 1 | 4 | 0,7 | 2 | 0,3 | 6 | 1 | 0,2 | 2 | 0 |
+| Jeong Woo-Yeong | M | 13 | 758 | 0 | 0 | 8 | 0,6 | 2 | 0,2 | 7 | 11 | 0,8 | 1 | 0 |
+| L. Querfeld | D | 7 | 605 | 1 | 1 | 7 | 1,0 | 2 | 0,3 | 7 | 2 | 0,3 | 2 | 0 |
+| T. Skarke | M | 12 | 495 | 2 | 1 | 14 | 1,2 | 8 | 0,7 | 10 | 11 | 0,9 | 2 | 0 |
 | Livan Burcu | F | 10 | 489 | 1 | 0 | 7 | 0,7 | 4 | 0,4 | 7 | 11 | 1,1 | 2 | 0 |
-| T. Skarke | M | 11 | 488 | 2 | 1 | 14 | 1,3 | 8 | 0,7 | 10 | 11 | 1,0 | 2 | 0 |
 | F. Uduokhai | D | 6 | 469 | 0 | 0 | 5 | 0,8 | 1 | 0,2 | 7 | 6 | 1,0 | 3 | 1 |
+| D. Köhn | D | 7 | 416 | 0 | 0 | 6 | 0,9 | 3 | 0,4 | 5 | 5 | 0,7 | 1 | 0 |
+| A. Kemlein | M | 12 | 401 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 10 | 0 | 0,0 | 3 | 0 |
 | E. Latte Lath | F | 8 | 390 | 1 | 0 | 6 | 0,8 | 2 | 0,2 | 4 | 2 | 0,2 | 0 | 0 |
-| A. Kemlein | M | 11 | 387 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 9 | 0 | 0,0 | 3 | 0 |
+| M. Friedrich | D | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 3 | 0,8 | 0 | 0 |
+| K. Imeri | M | 6 | 346 | 0 | 1 | 4 | 0,7 | 2 | 0,3 | 2 | 2 | 0,3 | 1 | 0 |
 | Josip Juranović | D | 4 | 328 | 0 | 3 | 3 | 0,8 | 2 | 0,5 | 1 | 0 | 0,0 | 0 | 0 |
-| D. Köhn | D | 6 | 326 | 0 | 0 | 4 | 0,7 | 2 | 0,3 | 4 | 5 | 0,8 | 1 | 0 |
-| M. Friedrich | D | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,7 | 0 | 0 |
-| K. Imeri | M | 5 | 270 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 2 | 2 | 0,4 | 1 | 0 |
 | M. Raab | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| M. LjubiÄiÄ | F | 5 | 260 | 2 | 1 | 7 | 1,4 | 5 | 1,0 | 8 | 2 | 0,4 | 2 | 0 |
+| M. LjubiÄiÄ | F | 6 | 261 | 2 | 1 | 7 | 1,2 | 5 | 0,8 | 8 | 2 | 0,3 | 2 | 0 |
 
 ## Últimos partidos de Hamburger SV
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Bundesliga | Hamburger SV 0-0 Bayern München | casa | 4-4 | 9 (3) - 11 (0) | 3-0 |
 | 2026-11-22 | Bundesliga | Werder Bremen 4-0 Hamburger SV | fuera | 8-1 | 17 (2) - 18 (7) | 3-3 |
 | 2026-11-06 | Bundesliga | Hamburger SV 3-1 Borussia Mönchengladbach | casa | 5-3 | 18 (9) - 19 (6) | 1-1 |
 | 2026-11-01 | Bundesliga | Eintracht Frankfurt 3-1 Hamburger SV | fuera | 6-6 | 12 (3) - 15 (10) | 4-2 |
 | 2026-10-27 | DFB-Pokal | Hamburger SV 1-3 Eintracht Frankfurt | casa | 5-3 | 15 (6) - 12 (5) | 0-4 |
 | 2026-10-24 | Bundesliga | SC Paderborn 07 1-0 Hamburger SV | fuera | 3-6 | 8 (1) - 16 (6) | 2-1 |
-| 2026-10-17 | Bundesliga | Hamburger SV 1-0 VfB Stuttgart | casa | 5-9 | 14 (3) - 24 (5) | 3-0 |
 
 ## Jugadores de Hamburger SV
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Daniel Heuer Fernandes | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| D. Møller Wolfe | M | 10 | 881 | 0 | 0 | 6 | 0,6 | 4 | 0,4 | 11 | 12 | 1,2 | 0 | 0 |
-| M. Adeline | M | 11 | 768 | 0 | 0 | 6 | 0,5 | 1 | 0,1 | 15 | 3 | 0,3 | 1 | 0 |
-| S. Bornauw | D | 9 | 764 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 7 | 1 | 0,1 | 0 | 0 |
-| A. Grønbæk | M | 11 | 759 | 3 | 4 | 14 | 1,3 | 7 | 0,6 | 7 | 17 | 1,5 | 3 | 0 |
-| W. Omari | D | 9 | 737 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 4 | 8 | 0,9 | 4 | 0 |
+| Daniel Heuer Fernandes | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| D. Møller Wolfe | D | 11 | 971 | 0 | 0 | 6 | 0,5 | 4 | 0,4 | 11 | 12 | 1,1 | 1 | 0 |
+| M. Adeline | M | 12 | 858 | 0 | 0 | 7 | 0,6 | 1 | 0,1 | 20 | 3 | 0,2 | 1 | 0 |
+| S. Bornauw | D | 10 | 854 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 7 | 2 | 0,2 | 0 | 0 |
+| A. Grønbæk | F | 12 | 849 | 3 | 4 | 16 | 1,3 | 8 | 0,7 | 8 | 17 | 1,4 | 3 | 0 |
+| W. Omari | D | 10 | 827 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 8 | 0,8 | 4 | 0 |
+| Z. El Ouahdi | D | 10 | 719 | 0 | 1 | 10 | 1,0 | 3 | 0,3 | 5 | 9 | 0,9 | 2 | 0 |
 | N. Capaldo | D | 8 | 705 | 1 | 0 | 7 | 0,9 | 2 | 0,2 | 15 | 16 | 2,0 | 3 | 0 |
-| Z. El Ouahdi | M | 9 | 655 | 0 | 1 | 9 | 1,0 | 3 | 0,3 | 5 | 8 | 0,9 | 1 | 0 |
 | A. Sambi Lokonga | M | 9 | 645 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 11 | 10 | 1,1 | 2 | 0 |
+| P. Daka | F | 10 | 579 | 0 | 1 | 16 | 1,6 | 4 | 0,4 | 6 | 11 | 1,1 | 0 | 0 |
 | S. Nandja | D | 7 | 541 | 1 | 0 | 5 | 0,7 | 1 | 0,1 | 6 | 1 | 0,1 | 3 | 0 |
-| P. Daka | F | 9 | 503 | 0 | 1 | 15 | 1,7 | 4 | 0,4 | 5 | 11 | 1,2 | 0 | 0 |
 | Nicolai Remberg | M | 6 | 491 | 0 | 1 | 4 | 0,7 | 1 | 0,2 | 6 | 5 | 0,8 | 0 | 0 |
 | M. Muheim | M | 7 | 483 | 3 | 1 | 8 | 1,1 | 4 | 0,6 | 7 | 6 | 0,9 | 0 | 0 |
-| T. Moffi | F | 11 | 438 | 3 | 0 | 9 | 0,8 | 5 | 0,5 | 6 | 0 | 0,0 | 0 | 0 |
-| L. Lemke | M | 7 | 403 | 1 | 1 | 1 | 0,1 | 1 | 0,1 | 8 | 2 | 0,3 | 0 | 0 |
+| L. Lemke | M | 8 | 467 | 1 | 1 | 1 | 0,1 | 1 | 0,1 | 8 | 3 | 0,4 | 0 | 0 |
+| T. Moffi | F | 12 | 452 | 3 | 0 | 9 | 0,8 | 5 | 0,4 | 6 | 0 | 0,0 | 0 | 0 |
 | J. Torunarigha | D | 5 | 397 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 7 | 1 | 0,2 | 0 | 0 |
-| Fábio Vieira | M | 7 | 351 | 0 | 0 | 13 | 1,9 | 7 | 1,0 | 4 | 12 | 1,7 | 0 | 0 |
+| Fábio Vieira | M | 8 | 377 | 0 | 0 | 13 | 1,6 | 7 | 0,9 | 4 | 12 | 1,5 | 0 | 0 |
+| Otto Emerson Stange | F | 11 | 289 | 0 | 0 | 7 | 0,6 | 3 | 0,3 | 15 | 15 | 1,4 | 2 | 0 |
 | Y. Poulsen | F | 8 | 288 | 2 | 0 | 8 | 1,0 | 3 | 0,4 | 5 | 6 | 0,8 | 0 | 0 |
-| Otto Emerson Stange | F | 10 | 264 | 0 | 0 | 7 | 0,7 | 3 | 0,3 | 12 | 13 | 1,3 | 2 | 0 |
 | B. Nadir | M | 5 | 238 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 0 | 4 | 0,8 | 0 | 0 |

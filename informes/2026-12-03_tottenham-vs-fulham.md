@@ -1,7 +1,7 @@
 # Tottenham – Fulham
 **Premier League** · Regular Season - 13 · 03/12/2026 21:00 (hora España) · Tottenham Hotspur Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Actualizadas: 28/11 08:45_

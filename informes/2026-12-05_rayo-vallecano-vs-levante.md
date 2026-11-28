@@ -1,7 +1,7 @@
 # Rayo Vallecano – Levante
 **LaLiga** · Regular Season - 15 · 05/12/2026 16:15 (hora España) · Campo de Futbol de Vallecas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Actualizadas: 27/11 22:17_
@@ -42,52 +42,52 @@ _Actualizadas: 27/11 22:17_
 ## Estadísticas de equipo
 | | Rayo Vallecano (total) | Rayo Vallecano en casa | Levante (total) | Levante fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 6 | 15 | 8 |
-| Forma (últimos 5) | DDVVD | DVDVV | DEVED | VEDED |
-| Balance | 4V 3E 6D | 3V 1E 2D | 3V 6E 6D | 1V 4E 3D |
-| Goles a favor / partido | 1,38 | 1,50 | 1,33 | 0,62 |
-| Goles en contra / partido | 1,85 | 1,33 | 1,73 | 1,25 |
-| Goles a favor 1ª parte | 0,69 | 0,83 | 0,47 | 0,25 |
-| Goles a favor 2ª parte | 0,69 | 0,67 | 0,87 | 0,38 |
-| Goles en contra 1ª parte | 0,92 | 0,83 | 0,73 | 0,62 |
-| Goles en contra 2ª parte | 0,92 | 0,50 | 1,00 | 0,62 |
-| Más de 1,5 goles | 85% | 83% | 80% | 62% |
-| Más de 2,5 goles | 62% | 67% | 60% | 50% |
-| Más de 3,5 goles | 31% | 17% | 40% | 12% |
-| Ambos marcan | 69% | 50% | 67% | 50% |
-| Portería a cero | 8% | 17% | 20% | 38% |
-| Se queda sin marcar | 23% | 33% | 33% | 50% |
-| xG a favor | 1,33 | 1,17 | 1,24 | 0,66 |
-| xG en contra | 1,59 | 1,44 | 1,87 | 2,11 |
-| Tiros / partido | 16,5 | 15,5 | 12,9 | 7,9 |
-| Tiros a puerta / partido | 5,1 | 5,5 | 3,7 | 1,6 |
-| Tiros recibidos | 15,0 | 13,5 | 15,2 | 16,0 |
-| Tiros a puerta recibidos | 4,8 | 3,8 | 5,4 | 5,6 |
-| Posesión media % | 54 | 54 | 44 | 44 |
-| Córners a favor | 6,2 | 6,0 | 3,9 | 2,7 |
-| Córners en contra | 5,3 | 4,8 | 4,7 | 4,7 |
-| Córners a favor 1ª parte | 2,8 | 3,2 | 1,9 | 1,1 |
-| Córners a favor 2ª parte | 3,4 | 2,8 | 1,9 | 1,6 |
+| Partidos analizados | 14 | 6 | 15 | 8 |
+| Forma (últimos 5) | VDDVV | DVDVV | DEVED | VEDED |
+| Balance | 5V 3E 6D | 3V 1E 2D | 3V 6E 6D | 1V 4E 3D |
+| Goles a favor / partido | 1,36 | 1,50 | 1,33 | 0,62 |
+| Goles en contra / partido | 1,71 | 1,33 | 1,73 | 1,25 |
+| Goles a favor 1ª parte | 0,64 | 0,83 | 0,47 | 0,25 |
+| Goles a favor 2ª parte | 0,71 | 0,67 | 0,87 | 0,38 |
+| Goles en contra 1ª parte | 0,86 | 0,83 | 0,73 | 0,62 |
+| Goles en contra 2ª parte | 0,86 | 0,50 | 1,00 | 0,62 |
+| Más de 1,5 goles | 79% | 83% | 80% | 62% |
+| Más de 2,5 goles | 57% | 67% | 60% | 50% |
+| Más de 3,5 goles | 29% | 17% | 40% | 12% |
+| Ambos marcan | 64% | 50% | 67% | 50% |
+| Portería a cero | 14% | 17% | 20% | 38% |
+| Se queda sin marcar | 21% | 33% | 33% | 50% |
+| xG a favor | 1,30 | 1,17 | 1,24 | 0,66 |
+| xG en contra | 1,54 | 1,44 | 1,87 | 2,11 |
+| Tiros / partido | 16,2 | 15,5 | 12,9 | 7,9 |
+| Tiros a puerta / partido | 5,0 | 5,5 | 3,7 | 1,6 |
+| Tiros recibidos | 14,9 | 13,5 | 15,2 | 16,0 |
+| Tiros a puerta recibidos | 4,9 | 3,8 | 5,4 | 5,6 |
+| Posesión media % | 53 | 54 | 44 | 44 |
+| Córners a favor | 5,9 | 6,0 | 3,9 | 2,7 |
+| Córners en contra | 5,6 | 4,8 | 4,7 | 4,7 |
+| Córners a favor 1ª parte | 2,6 | 3,2 | 1,9 | 1,1 |
+| Córners a favor 2ª parte | 3,3 | 2,8 | 1,9 | 1,6 |
 | Córners totales del partido | 11,5 | 10,8 | 8,6 | 7,4 |
-| Córners totales 1ª parte | 5,5 | 5,0 | 4,6 | 3,9 |
-| Córners totales 2ª parte | 6,0 | 5,8 | 4,0 | 3,6 |
-| Más de 8,5 córners | 62% | 50% | 36% | 29% |
-| Más de 9,5 córners | 62% | 50% | 36% | 29% |
-| Más de 10,5 córners | 62% | 50% | 29% | 14% |
-| Faltas cometidas | 12,8 | 12,8 | 10,8 | 10,6 |
-| Faltas recibidas | 13,3 | 14,0 | 11,9 | 12,7 |
+| Córners totales 1ª parte | 5,3 | 5,0 | 4,6 | 3,9 |
+| Córners totales 2ª parte | 6,1 | 5,8 | 4,0 | 3,6 |
+| Más de 8,5 córners | 64% | 50% | 36% | 29% |
+| Más de 9,5 córners | 64% | 50% | 36% | 29% |
+| Más de 10,5 córners | 64% | 50% | 29% | 14% |
+| Faltas cometidas | 12,9 | 12,8 | 10,8 | 10,6 |
+| Faltas recibidas | 13,1 | 14,0 | 11,9 | 12,7 |
 | Amarillas propias | 2,5 | 2,7 | 1,6 | 1,6 |
-| Amarillas del rival | 2,2 | 1,7 | 1,9 | 2,1 |
-| Rojas / partido | 0,23 | 0,33 | 0,00 | 0,00 |
+| Amarillas del rival | 2,4 | 1,7 | 1,9 | 2,1 |
+| Rojas / partido | 0,21 | 0,33 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Rayo Vallecano | Recibe Rayo Vallecano | Tarjetas Rayo Vallecano | Goles Levante | Recibe Levante | Tarjetas Levante |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 2 | 2 | 0 | 4 | 2 |
-| 16-30' | 2 | 7 | 3 | 4 | 2 | 2 |
+| 16-30' | 2 | 7 | 4 | 4 | 2 | 2 |
 | 31-45' | 3 | 3 | 6 | 3 | 5 | 6 |
 | 46-60' | 6 | 4 | 1 | 2 | 4 | 2 |
-| 61-75' | 1 | 3 | 9 | 1 | 5 | 5 |
+| 61-75' | 2 | 3 | 10 | 1 | 5 | 5 |
 | 76-90' | 2 | 5 | 15 | 9 | 6 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -106,35 +106,35 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Rayo Vallecano
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | LaLiga | Real Betis 0-1 Rayo Vallecano | fuera | 2-9 | 13 (4) - 14 (5) | 2-4 |
 | 2026-11-21 | LaLiga | Rayo Vallecano 0-1 Valencia | casa | 8-5 | 21 (5) - 11 (2) | 2-1 |
 | 2026-11-08 | LaLiga | Real Sociedad 1-0 Rayo Vallecano | fuera | 6-7 | 11 (3) - 17 (3) | 2-2 |
 | 2026-10-31 | LaLiga | Rayo Vallecano 3-0 Celta Vigo | casa | 4-3 | 14 (8) - 11 (0) | 2-1 |
 | 2026-10-27 | Copa del Rey | Recreativo Huelva 2-3 Rayo Vallecano | fuera | 15-0 | 35 (8) - 12 (6) | 4-4 |
 | 2026-10-24 | LaLiga | Rayo Vallecano 0-3 Elche | casa | 3-3 | 18 (5) - 16 (9) | 3-3 |
-| 2026-10-19 | LaLiga | Getafe 1-1 Rayo Vallecano | fuera | 8-8 | 21 (5) - 12 (4) | 3-6 |
 
 ## Jugadores de Rayo Vallecano
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| F. Lejeune | D | 13 | 1086 | 0 | 0 | 21 | 1,6 | 5 | 0,4 | 16 | 13 | 1,0 | 1 | 1 |
-| P. Ciss | M | 11 | 990 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 14 | 8 | 0,7 | 6 | 0 |
-| Unai López | M | 12 | 964 | 1 | 3 | 11 | 0,9 | 4 | 0,3 | 11 | 12 | 1,0 | 3 | 0 |
-| Sergio Camello | M | 13 | 881 | 7 | 2 | 28 | 2,2 | 14 | 1,1 | 16 | 18 | 1,4 | 4 | 0 |
-| Álvaro García | M | 12 | 828 | 3 | 4 | 12 | 1,0 | 5 | 0,4 | 6 | 3 | 0,2 | 3 | 0 |
-| Jorge de Frutos | M | 11 | 816 | 3 | 2 | 14 | 1,3 | 10 | 0,9 | 15 | 11 | 1,0 | 1 | 1 |
-| A. Rațiu | D | 9 | 810 | 1 | 1 | 7 | 0,8 | 2 | 0,2 | 5 | 12 | 1,3 | 0 | 0 |
-| E. Audero | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Adrià Pedrosa | D | 10 | 717 | 1 | 1 | 9 | 0,9 | 3 | 0,3 | 11 | 9 | 0,9 | 2 | 0 |
-| Pedro Díaz | M | 11 | 621 | 0 | 0 | 24 | 2,2 | 5 | 0,5 | 5 | 11 | 1,0 | 0 | 0 |
-| G. Tsitaishvili | D | 10 | 587 | 0 | 0 | 17 | 1,7 | 4 | 0,4 | 4 | 10 | 1,0 | 3 | 0 |
-| Óscar Valentín | M | 10 | 587 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 11 | 9 | 0,9 | 1 | 0 |
+| F. Lejeune | D | 14 | 1176 | 0 | 0 | 21 | 1,5 | 5 | 0,4 | 17 | 14 | 1,0 | 1 | 1 |
+| P. Ciss | D | 12 | 1080 | 0 | 0 | 3 | 0,2 | 0 | 0,0 | 15 | 9 | 0,8 | 6 | 0 |
+| Unai López | M | 13 | 1054 | 1 | 3 | 11 | 0,8 | 4 | 0,3 | 13 | 12 | 0,9 | 4 | 0 |
+| Sergio Camello | F | 14 | 954 | 7 | 2 | 34 | 2,4 | 16 | 1,1 | 17 | 19 | 1,4 | 5 | 0 |
+| Jorge de Frutos | M | 12 | 906 | 4 | 2 | 16 | 1,3 | 11 | 0,9 | 18 | 14 | 1,2 | 1 | 1 |
+| A. Rațiu | D | 10 | 900 | 1 | 1 | 7 | 0,7 | 2 | 0,2 | 6 | 12 | 1,2 | 0 | 0 |
+| Álvaro García | M | 13 | 893 | 3 | 4 | 13 | 1,0 | 5 | 0,4 | 6 | 3 | 0,2 | 3 | 0 |
+| E. Audero | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Adrià Pedrosa | D | 11 | 807 | 1 | 1 | 9 | 0,8 | 3 | 0,3 | 13 | 9 | 0,8 | 2 | 0 |
+| Pedro Díaz | M | 12 | 638 | 0 | 0 | 25 | 2,1 | 5 | 0,4 | 5 | 11 | 0,9 | 0 | 0 |
+| G. Tsitaishvili | F | 11 | 612 | 0 | 0 | 18 | 1,6 | 5 | 0,5 | 4 | 11 | 1,0 | 3 | 0 |
+| Óscar Valentín | M | 11 | 591 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 11 | 9 | 0,8 | 1 | 0 |
 | Mujaid Sadick | D | 8 | 585 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 2 | 1 | 0,1 | 0 | 0 |
+| G. Bouare | M | 11 | 463 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 8 | 6 | 0,5 | 3 | 0 |
 | Iván Balliu | D | 9 | 438 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 4 | 0,4 | 1 | 0 |
-| G. Bouare | M | 10 | 377 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 7 | 6 | 0,6 | 3 | 0 |
+| Isi Palazón | M | 8 | 353 | 0 | 1 | 9 | 1,1 | 2 | 0,2 | 5 | 7 | 0,9 | 0 | 0 |
 | Dani Cárdenas | G | 4 | 330 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
 | Alemão | F | 12 | 328 | 2 | 0 | 10 | 0,8 | 5 | 0,4 | 10 | 11 | 0,9 | 3 | 0 |
-| Isi Palazón | M | 7 | 280 | 0 | 0 | 8 | 1,1 | 2 | 0,3 | 5 | 6 | 0,9 | 0 | 0 |
-| R. Nteka | F | 6 | 265 | 0 | 0 | 5 | 0,8 | 2 | 0,3 | 4 | 6 | 1,0 | 0 | 0 |
+| R. Nteka | M | 7 | 282 | 0 | 0 | 5 | 0,7 | 2 | 0,3 | 6 | 6 | 0,9 | 0 | 0 |
 | J. Vertrouwd | D | 6 | 248 | 0 | 0 | 3 | 0,5 | 1 | 0,2 | 6 | 2 | 0,3 | 0 | 0 |
 
 ## Últimos partidos de Levante

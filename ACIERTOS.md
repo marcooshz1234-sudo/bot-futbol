@@ -1,18 +1,18 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 652 · aciertos: 405 (62%) · beneficio a 1 € por pick: -69.27 €
+Picks ya jugados: 671 · aciertos: 416 (62%) · beneficio a 1 € por pick: -71.23 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| goles | 156 | 239 | 65% | -18.90 € |
-| jugador | 137 | 212 | 65% | -22.53 € |
-| resultado | 82 | 132 | 62% | -7.71 € |
-| tarjetas | 17 | 28 | 61% | -1.11 € |
-| tiros | 6 | 12 | 50% | -1.47 € |
-| corners | 7 | 22 | 32% | -10.55 € |
-| fueras de juego | 0 | 5 | 0% | -5.00 € |
+| jugador | 140 | 216 | 65% | -22.57 € |
+| goles | 157 | 243 | 65% | -21.17 € |
+| resultado | 84 | 135 | 62% | -7.21 € |
+| tarjetas | 17 | 31 | 55% | -4.11 € |
+| tiros | 7 | 13 | 54% | -1.07 € |
+| corners | 10 | 25 | 40% | -8.54 € |
+| fueras de juego | 1 | 6 | 17% | -4.56 € |
 | tiros a puerta | 0 | 2 | 0% | -2.00 € |
 
 ## Por mercado (mín. 3 picks)
@@ -23,35 +23,57 @@ Picks ya jugados: 652 · aciertos: 405 (62%) · beneficio a 1 € por pick: -69.
 | Player Fouls Committed · James Hill - 1 | 3 | 3 | 100% |
 | To Win Either Half · Home | 10 | 12 | 83% |
 | Goals Over/Under · Over 1.5 | 33 | 42 | 79% |
-| Goals Over/Under - Second Half · Over 1.5 | 10 | 13 | 77% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
-| Home Team Total Cards · Over 1.5 | 12 | 16 | 75% |
 | Double Chance · Home/Draw | 13 | 18 | 72% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
+| Home Team Total Cards · Over 1.5 | 12 | 17 | 71% |
 | Goals Over/Under First Half · Over 0.5 | 31 | 45 | 69% |
-| Match Winner · Away | 10 | 15 | 67% |
+| Goals Over/Under - Second Half · Over 1.5 | 11 | 16 | 69% |
 | Total - Home · Over 1.5 | 4 | 6 | 67% |
 | Away Player Shots · Nicolo Barella - 1 | 2 | 3 | 67% |
 | Player Fouls Committed · Radu Dragusin - 1 | 2 | 3 | 67% |
 | Player Fouls Committed · Evanilson - 1 | 2 | 3 | 67% |
-| Total - Home · Over 0.5 | 11 | 17 | 65% |
-| Match Winner · Home | 14 | 22 | 64% |
+| Match Winner · Home | 15 | 23 | 65% |
+| Match Winner · Away | 10 | 16 | 62% |
+| Total - Home · Over 0.5 | 11 | 18 | 61% |
 | Goals Over/Under - Second Half · Over 0.5 | 6 | 10 | 60% |
+| Shots.1x2 · Away | 4 | 7 | 57% |
+| Away Corners Over/Under · Over 3.5 | 4 | 7 | 57% |
 | Total - Away · Over 0.5 | 28 | 50 | 56% |
 | Both Teams Score · Yes | 12 | 23 | 52% |
-| Shots.1x2 · Away | 3 | 6 | 50% |
-| Away Team Total Cards · Over 1.5 | 2 | 4 | 50% |
-| Away Corners Over/Under · Over 3.5 | 3 | 6 | 50% |
 | Total - Away · Over 1.5 | 2 | 4 | 50% |
 | To Win Either Half · Away | 6 | 13 | 46% |
-| Double Chance · Draw/Away | 12 | 28 | 43% |
+| Double Chance · Draw/Away | 13 | 29 | 45% |
 | Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 8 | 38% |
+| Away Team Total Cards · Over 1.5 | 2 | 6 | 33% |
 | Total Shots · Over 26.5 | 1 | 3 | 33% |
 | Player Fouls Committed · Koki Machida - 1 | 1 | 3 | 33% |
+| Offsides Away Total · Over 0.5 | 1 | 3 | 33% |
 | Away Corners Over/Under · Over 2.5 | 2 | 7 | 29% |
 | Home Team Total Cards · Over 0.5 | 1 | 4 | 25% |
 
 ## Últimos días
+
+### 2026-11-28 · 11/19
+- ✅ Gana el Blackburn · 1.80 (1-0)
+- ✅ Rafiki Said: 2+ tiros · 1.28 (0-0)
+- ✅ Más de 1,5 goles en la 2ª parte del FSV Mainz 05–Union Berlin · 1.73 (2-1)
+- ❌ Santiago Castaneda: 1+ tiros · 1.40 (8-1)
+- ❌ Más de 1,5 goles en la 2ª parte del Hamburger SV–Bayern München · 1.53 (0-0)
+- ❌ West Ham ve más de 1,5 tarjetas · 1.80 (1-0)
+- ❌ Portsmouth ve más de 1,5 tarjetas · 1.53 (1-0)
+- ✅ Brentford o empate · 1.70 (0-4)
+- ✅ Largie Ramazani: 2+ tiros · 1.40 (0-1)
+- ✅ Nico Williams: 2+ tiros · 1.28 (3-4)
+- ✅ Lens hace más tiros · 1.40 (2-5)
+- ❌ Ospitaletto marca · 1.53 (0-0)
+- ❌ Más de 1,5 goles en la 2ª parte del Ipswich–Aston Villa · 1.73 (2-2)
+- ❌ Gana el Aston Villa · 2.00 (2-2)
+- ✅ Más de 4,5 córners en la 1ª parte en VfB Stuttgart–Eintracht Frankfurt · 1.75 (2-2)
+- ✅ Eintracht Frankfurt hace más de 3,5 córners · 1.73 (2-2)
+- ❌ Eintracht Frankfurt ve más de 1,5 tarjetas · 1.53 (2-2)
+- ✅ Aston Villa hace más de 0,5 fueras de juego · 1.44 (2-2)
+- ✅ Csikszereda hace más de 1,5 córners · 1.53 (2-0)
 
 ### 2026-11-27 · 6/12
 - ❌ Gana el Petrolul Ploiesti · 2.10 (0-1)
@@ -112,27 +134,4 @@ Picks ya jugados: 652 · aciertos: 405 (62%) · beneficio a 1 € por pick: -69.
 - ✅ Más de 1,5 goles en la 2ª parte del Werder Bremen–Hamburger SV · 1.73 (4-0)
 - ❌ AC Milan ve más de 1,5 tarjetas · 1.73 (5-1)
 - ✅ Osasuna ve más de 1,5 tarjetas · 1.62 (1-0)
-
-### 2026-11-21 · 12/21
-- ✅ Ruben Alcaraz: 1+ tiros · 1.53 (1-1)
-- ✅ Gana el Lazio · 1.33 (3-0)
-- ❌ Cagliari marca · 1.73 (2-0)
-- ❌ Como ve más de 0,5 tarjetas · 1.44 (2-0)
-- ✅ Lazio gana alguna de las dos partes · 1.25 (3-0)
-- ✅ Fares Chaibi: 1+ tiros a puerta · 1.67 (1-0)
-- ✅ Gana el SC Freiburg · 1.95 (0-1)
-- ✅ SC Paderborn 07 hace más de 2,5 córners · 1.67 (4-0)
-- ❌ Alexander Prass: 1+ tiros · 1.25 (1-0)
-- ✅ Fisnik Asllani: 2+ tiros · 1.28 (1-0)
-- ✅ Borussia Mönchengladbach ve más de 1,5 tarjetas · 1.50 (0-1)
-- ✅ Gana el Bournemouth · 1.91 (2-0)
-- ❌ Sunderland hace más de 3,5 córners · 1.67 (0-0)
-- ❌ Preston hace más de 2,5 córners · 1.57 (1-1)
-- ❌ Giana Erminio o empate · 1.44 (1-3)
-- ❌ Petrolul Ploiesti hace más de 2,5 córners · 1.62 (0-1)
-- ❌ Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29 · 1.80 (0-1)
-- ✅ Noa Lang: 1+ tiros a puerta · 1.36 (1-0)
-- ✅ Ambos marcan en Monaco–Auxerre · 1.80 (1-1)
-- ✅ Thom van Bergen: 1+ tiros a puerta · 1.25 (1-3)
-- ❌ Tenerife marca · 1.50 (0-0)
 

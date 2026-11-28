@@ -1,7 +1,7 @@
 # FC Porto B – Academica
 **Segunda Liga** · Regular Season - 13 · 05/12/2026 12:00 (hora España) · Estadio Luis Filipe Menezes
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

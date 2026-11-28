@@ -1,7 +1,7 @@
 # Inter – Genoa
 **Coppa Italia** · Round of 16 · 01/12/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Actualizadas: 28/11 08:44_

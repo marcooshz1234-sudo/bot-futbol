@@ -65,12 +65,12 @@
   },
   "TipsPro🤙": {
    "n": 10,
-   "verdes": 7,
+   "verdes": 8,
    "rojos": 0,
    "nulos": 0,
-   "unidades": 2.46,
-   "resueltos_con_cuota": 5,
-   "prob_cuota": 3.366
+   "unidades": 2.65,
+   "resueltos_con_cuota": 6,
+   "prob_cuota": 4.206
   },
   "OC TIPSTER": {
    "n": 9,
@@ -214,12 +214,12 @@
  "mercado": {
   "Match Winner Home": {
    "n": 33,
-   "verdes": 20,
+   "verdes": 21,
    "rojos": 8,
    "nulos": 0,
-   "unidades": 4.32,
-   "resueltos_con_cuota": 22,
-   "prob_cuota": 13.771
+   "unidades": 4.51,
+   "resueltos_con_cuota": 23,
+   "prob_cuota": 14.611
   },
   "Goals Over/Under Over 2.5": {
    "n": 22,
@@ -1270,10 +1270,12 @@
   },
   "PSV Eindhoven": {
    "n": 1,
-   "verdes": 0,
+   "verdes": 1,
    "rojos": 0,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": 0.19,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.84
   },
   "FSV Mainz 05": {
    "n": 1,
@@ -1304,12 +1306,12 @@
   },
   "casa/fuera": {
    "n": 43,
-   "verdes": 15,
+   "verdes": 16,
    "rojos": 10,
    "nulos": 0,
-   "unidades": -1.23,
-   "resueltos_con_cuota": 22,
-   "prob_cuota": 14.041
+   "unidades": -1.04,
+   "resueltos_con_cuota": 23,
+   "prob_cuota": 14.881
   },
   "motivación": {
    "n": 17,
@@ -1369,12 +1371,12 @@
   },
   "<1,50": {
    "n": 41,
-   "verdes": 22,
+   "verdes": 23,
    "rojos": 6,
    "nulos": 0,
-   "unidades": -0.78,
-   "resueltos_con_cuota": 28,
-   "prob_cuota": 22.703
+   "unidades": -0.59,
+   "resueltos_con_cuota": 29,
+   "prob_cuota": 23.543
   },
   "?": {
    "n": 33,
@@ -1513,10 +1515,12 @@
   },
   "Eredivisie": {
    "n": 1,
-   "verdes": 0,
+   "verdes": 1,
    "rojos": 0,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": 0.19,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.84
   },
   "Ligue 1": {
    "n": 1,
@@ -1538,12 +1542,12 @@
   },
   "local": {
    "n": 55,
-   "verdes": 29,
+   "verdes": 30,
    "rojos": 17,
    "nulos": 0,
-   "unidades": 2.54,
-   "resueltos_con_cuota": 35,
-   "prob_cuota": 22.538
+   "unidades": 2.73,
+   "resueltos_con_cuota": 36,
+   "prob_cuota": 23.378
   },
   "visitante": {
    "n": 41,
@@ -1558,12 +1562,12 @@
  "por_que": {
   "—": {
    "n": 129,
-   "verdes": 42,
+   "verdes": 43,
    "rojos": 29,
    "nulos": 0,
-   "unidades": 2.26,
-   "resueltos_con_cuota": 59,
-   "prob_cuota": 35.724
+   "unidades": 2.45,
+   "resueltos_con_cuota": 60,
+   "prob_cuota": 36.564
   },
   "goles": {
    "n": 43,
@@ -1632,12 +1636,12 @@
  "valor_pinnacle": {
   "?": {
    "n": 199,
-   "verdes": 84,
+   "verdes": 85,
    "rojos": 39,
    "nulos": 0,
-   "unidades": 7.43,
-   "resueltos_con_cuota": 100,
-   "prob_cuota": 64.627
+   "unidades": 7.62,
+   "resueltos_con_cuota": 101,
+   "prob_cuota": 65.467
   },
   "sin valor": {
    "n": 7,

@@ -1,10 +1,10 @@
 # Hobro – FC Fredericia
 **1. Division** · Regular Season - 16 · 29/11/2026 14:00 (hora España) · DS Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/11 08:43_
+_Actualizadas: 28/11 20:58_
 
 - **1X2:** 1 **6.50**  ·  X **4.75**  ·  2 **1.42**
 - **Doble oportunidad:** 1X **2.62**  ·  12 **1.18**  ·  X2 **1.12**
@@ -25,10 +25,10 @@ _Actualizadas: 28/11 08:43_
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
-    - 0,5: más **1.07** · menos **9.00**
-    - 1,5: más **1.40** · menos **2.75**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.44** · menos **2.62**
     - 2,5: más **2.25** · menos **1.57**
-    - 3,5: más **4.33** · menos **1.20**
+    - 3,5: más **4.50** · menos **1.18**
     - 4,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
     - 10: más **1.80** · menos **2.00**

@@ -1,19 +1,19 @@
 # Rapid – FC Botosani
 **Liga I** · Regular Season - 17 · 29/11/2026 19:00 (hora España) · Superbet Arena - Giulesti
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/11 08:44_
+_Actualizadas: 28/11 20:59_
 
-- **1X2:** 1 **1.50**  ·  X **3.80**  ·  2 **5.50**
-- **Doble oportunidad:** 1X **1.12**  ·  12 **1.22**  ·  X2 **2.38**
+- **1X2:** 1 **1.53**  ·  X **3.80**  ·  2 **5.25**
+- **Doble oportunidad:** 1X **1.14**  ·  12 **1.22**  ·  X2 **2.25**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 1,5: más **1.18** · menos **4.50**
     - 2,5: más **1.62** · menos **2.25**
     - 3,5: más **2.50** · menos **1.50**
-    - 4,5: más **4.33** · menos **1.20**
+    - 4,5: más **4.50** · menos **1.18**
     - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.30** · menos **3.40**
@@ -26,14 +26,14 @@ _Actualizadas: 28/11 08:44_
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
-    - 0,5: más **1.53** · menos **2.38**
-    - 1,5: más **3.75** · menos **1.25**
+    - 0,5: más **1.50** · menos **2.50**
+    - 1,5: más **3.50** · menos **1.28**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **2.00** · menos **1.80**
-- **Córners 1X2:** 1 **1.30**  ·  X **9.50**  ·  2 **4.00**
-- **1X2 descanso:** 1 **2.00**  ·  X **2.50**  ·  2 **5.50**
+- **Córners 1X2:** 1 **1.36**  ·  X **9.50**  ·  2 **3.75**
+- **1X2 descanso:** 1 **2.05**  ·  X **2.50**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
@@ -41,15 +41,16 @@ _Actualizadas: 28/11 08:44_
     - 3,5: más **9.00** · menos **1.07**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **1.28**  ·  2 **3.00**
-- **To Score In Both Halves By Teams:** 1 **2.20**  ·  2 **6.50**
-- **Win Both Halves:** 1 **3.75**  ·  2 **23.00**
-- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **5.00**  ·  Away/Yes **10.00**  ·  Home/No **2.62**  ·  Draw/No **15.00**  ·  Away/No **11.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.75**
+- **To Win Either Half:** 1 **1.30**  ·  2 **2.75**
+- **To Score In Both Halves By Teams:** 1 **2.25**  ·  2 **6.00**
+- **Win Both Halves:** 1 **3.75**  ·  2 **21.00**
+- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **5.00**  ·  Away/Yes **9.50**  ·  Home/No **2.75**  ·  Draw/No **15.00**  ·  Away/No **11.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.88**
 - **Home Corners Over/Under:**
+    - 5,5: más **1.67** · menos **2.10**
     - 6,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
-    - 3,5: más **2.00** · menos **1.73**
+    - 3,5: más **1.83** · menos **1.83**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.85**  ·  Menos de 4.5 **1.95**
 
 ## Estadísticas de equipo

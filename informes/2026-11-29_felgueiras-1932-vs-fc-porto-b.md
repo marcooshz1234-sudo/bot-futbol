@@ -1,16 +1,16 @@
 # Felgueiras 1932 – FC Porto B
 **Segunda Liga** · Regular Season - 12 · 29/11/2026 15:00 (hora España) · Estadio Dr. Machado de Matos
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
-_Actualizadas: 28/11 08:43_
+_Actualizadas: 28/11 20:58_
 
-- **1X2:** 1 **1.90**  ·  X **3.20**  ·  2 **3.75**
-- **Doble oportunidad:** 1X **1.22**  ·  12 **1.33**  ·  X2 **1.80**
+- **1X2:** 1 **1.80**  ·  X **3.25**  ·  2 **4.00**
+- **Doble oportunidad:** 1X **1.20**  ·  12 **1.30**  ·  X2 **1.83**
 - **Ambos marcan:** Sí **1.91**  ·  No **1.80**
 - **Goles más/menos:**
-    - 0,5: más **1.07** · menos **9.00**
+    - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.33** · menos **3.25**
     - 2,5: más **2.10** · menos **1.70**
     - 3,5: más **3.75** · menos **1.25**
@@ -21,27 +21,27 @@ _Actualizadas: 28/11 08:43_
     - 2,5: más **9.00** · menos **1.07**
 - **Goles del local:**
     - 0,5: más **1.22** · menos **4.00**
-    - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **4.50** · menos **1.18**
-    - 3,5: más **13.00** · menos **1.04**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
-    - 0,5: más **1.53** · menos **2.38**
+    - 0,5: más **1.57** · menos **2.25**
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **1.82** · menos **1.98**
+    - 9,5: más **1.80** · menos **1.91**
 - **Córners 1X2:** 1 **1.40**  ·  X **9.00**  ·  2 **3.50**
-- **1X2 descanso:** 1 **2.60**  ·  X **2.10**  ·  2 **4.75**
+- **1X2 descanso:** 1 **2.50**  ·  X **2.10**  ·  2 **4.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **1.53**  ·  2 **2.50**
-- **To Score In Both Halves By Teams:** 1 **3.40**  ·  2 **6.00**
+- **To Win Either Half:** 1 **1.50**  ·  2 **2.50**
+- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **6.50**
 - **Win Both Halves:** 1 **6.00**  ·  2 **17.00**
-- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **9.00**  ·  Home/No **3.00**  ·  Draw/No **8.50**  ·  Away/No **6.50**
+- **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.75**  ·  Away/Yes **9.00**  ·  Home/No **3.00**  ·  Draw/No **8.50**  ·  Away/No **7.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.60**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.10**
 - **Home Corners Over/Under:**
     - 5,5: más **1.73** · menos **2.00**

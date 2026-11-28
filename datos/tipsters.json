@@ -5088,7 +5088,12 @@
    "liga": "Eredivisie",
    "cuota_bet365": 1.22,
    "prob_cuota": 0.84
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   4,
+   0
+  ]
  },
  {
   "tipster": "TipsPro🤙",

@@ -1,7 +1,7 @@
 # Monaco – Angers
 **Ligue 1** · Regular Season - 13 · 05/12/2026 20:45 (hora España) · Stade Louis II
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 08:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 28/11 21:02._
 
 ## Cuotas Bet365
 _Actualizadas: 27/11 22:18_
@@ -51,53 +51,53 @@ _Actualizadas: 27/11 22:18_
 ## Estadísticas de equipo
 | | Monaco (total) | Monaco en casa | Angers (total) | Angers fuera |
 |---|---|---|---|---|
-| Partidos analizados | 17 | 8 | 11 | 5 |
-| Forma (últimos 5) | VEEVD | EVEVE | DDDED | DDDEV |
-| Balance | 10V 5E 2D | 5V 3E 0D | 2V 2E 7D | 1V 1E 3D |
-| Goles a favor / partido | 1,82 | 2,12 | 0,82 | 0,80 |
-| Goles en contra / partido | 1,06 | 0,75 | 2,09 | 2,40 |
-| Goles a favor 1ª parte | 0,88 | 1,00 | 0,36 | 0,20 |
-| Goles a favor 2ª parte | 0,94 | 1,12 | 0,45 | 0,60 |
-| Goles en contra 1ª parte | 0,41 | 0,25 | 1,18 | 1,20 |
-| Goles en contra 2ª parte | 0,65 | 0,50 | 0,91 | 1,20 |
-| Más de 1,5 goles | 88% | 100% | 82% | 80% |
-| Más de 2,5 goles | 53% | 50% | 45% | 60% |
-| Más de 3,5 goles | 29% | 25% | 36% | 60% |
-| Ambos marcan | 71% | 62% | 36% | 40% |
-| Portería a cero | 24% | 38% | 27% | 20% |
-| Se queda sin marcar | 6% | 0% | 55% | 60% |
-| xG a favor | 1,42 | 1,82 | 1,23 | 0,87 |
-| xG en contra | 1,15 | 0,84 | 1,96 | 2,53 |
-| Tiros / partido | 12,3 | 13,6 | 12,0 | 10,0 |
-| Tiros a puerta / partido | 4,8 | 5,4 | 3,0 | 2,6 |
-| Tiros recibidos | 12,7 | 8,1 | 17,0 | 18,6 |
-| Tiros a puerta recibidos | 4,3 | 2,6 | 6,3 | 7,2 |
-| Posesión media % | 53 | 56 | 47 | 42 |
-| Córners a favor | 4,2 | 4,4 | 5,6 | 5,2 |
-| Córners en contra | 5,2 | 4,5 | 5,9 | 5,8 |
-| Córners a favor 1ª parte | 1,7 | 1,9 | 2,4 | 2,8 |
-| Córners a favor 2ª parte | 2,5 | 2,5 | 3,3 | 2,4 |
-| Córners totales del partido | 9,4 | 8,9 | 11,5 | 11,0 |
-| Córners totales 1ª parte | 3,8 | 3,4 | 5,9 | 6,2 |
-| Córners totales 2ª parte | 5,6 | 5,5 | 5,6 | 4,8 |
-| Más de 8,5 córners | 53% | 38% | 82% | 80% |
-| Más de 9,5 córners | 47% | 38% | 73% | 60% |
-| Más de 10,5 córners | 41% | 25% | 55% | 40% |
+| Partidos analizados | 17 | 8 | 12 | 5 |
+| Forma (últimos 5) | VEEVD | EVEVE | DDDDE | DDDEV |
+| Balance | 10V 5E 2D | 5V 3E 0D | 2V 2E 8D | 1V 1E 3D |
+| Goles a favor / partido | 1,82 | 2,12 | 0,92 | 0,80 |
+| Goles en contra / partido | 1,06 | 0,75 | 2,33 | 2,40 |
+| Goles a favor 1ª parte | 0,88 | 1,00 | 0,42 | 0,20 |
+| Goles a favor 2ª parte | 0,94 | 1,12 | 0,50 | 0,60 |
+| Goles en contra 1ª parte | 0,41 | 0,25 | 1,17 | 1,20 |
+| Goles en contra 2ª parte | 0,65 | 0,50 | 1,17 | 1,20 |
+| Más de 1,5 goles | 88% | 100% | 83% | 80% |
+| Más de 2,5 goles | 53% | 50% | 50% | 60% |
+| Más de 3,5 goles | 29% | 25% | 42% | 60% |
+| Ambos marcan | 71% | 62% | 42% | 40% |
+| Portería a cero | 24% | 38% | 25% | 20% |
+| Se queda sin marcar | 6% | 0% | 50% | 60% |
+| xG a favor | 1,42 | 1,82 | 1,21 | 0,87 |
+| xG en contra | 1,15 | 0,84 | 1,99 | 2,53 |
+| Tiros / partido | 12,3 | 13,6 | 11,9 | 10,0 |
+| Tiros a puerta / partido | 4,8 | 5,4 | 3,1 | 2,6 |
+| Tiros recibidos | 12,7 | 8,1 | 17,4 | 18,6 |
+| Tiros a puerta recibidos | 4,3 | 2,6 | 6,4 | 7,2 |
+| Posesión media % | 53 | 56 | 46 | 42 |
+| Córners a favor | 4,2 | 4,4 | 5,4 | 5,2 |
+| Córners en contra | 5,2 | 4,5 | 5,6 | 5,8 |
+| Córners a favor 1ª parte | 1,7 | 1,9 | 2,2 | 2,8 |
+| Córners a favor 2ª parte | 2,5 | 2,5 | 3,2 | 2,4 |
+| Córners totales del partido | 9,4 | 8,9 | 11,0 | 11,0 |
+| Córners totales 1ª parte | 3,8 | 3,4 | 5,6 | 6,2 |
+| Córners totales 2ª parte | 5,6 | 5,5 | 5,4 | 4,8 |
+| Más de 8,5 córners | 53% | 38% | 75% | 80% |
+| Más de 9,5 córners | 47% | 38% | 67% | 60% |
+| Más de 10,5 córners | 41% | 25% | 50% | 40% |
 | Faltas cometidas | 12,1 | 11,6 | 10,6 | 9,6 |
-| Faltas recibidas | 11,5 | 11,5 | 12,6 | 13,8 |
+| Faltas recibidas | 11,5 | 11,5 | 12,8 | 13,8 |
 | Amarillas propias | 1,8 | 1,8 | 1,5 | 1,2 |
-| Amarillas del rival | 1,7 | 1,6 | 1,3 | 1,2 |
-| Rojas / partido | 0,00 | 0,00 | 0,09 | 0,20 |
+| Amarillas del rival | 1,7 | 1,6 | 1,2 | 1,2 |
+| Rojas / partido | 0,00 | 0,00 | 0,08 | 0,20 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Monaco | Recibe Monaco | Tarjetas Monaco | Goles Angers | Recibe Angers | Tarjetas Angers |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 1 | 0 | 2 | 4 | 0 |
-| 16-30' | 3 | 2 | 2 | 0 | 3 | 3 |
-| 31-45' | 8 | 4 | 5 | 2 | 6 | 3 |
-| 46-60' | 5 | 5 | 8 | 2 | 4 | 1 |
-| 61-75' | 4 | 3 | 8 | 2 | 2 | 4 |
-| 76-90' | 7 | 3 | 9 | 1 | 4 | 7 |
+| 16-30' | 3 | 2 | 2 | 1 | 3 | 3 |
+| 31-45' | 8 | 4 | 5 | 2 | 7 | 3 |
+| 46-60' | 5 | 5 | 8 | 3 | 4 | 2 |
+| 61-75' | 4 | 3 | 8 | 2 | 4 | 4 |
+| 76-90' | 7 | 3 | 9 | 1 | 6 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -149,33 +149,33 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Angers
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-28 | Ligue 1 | Angers 2-5 Lens | casa | 3-2 | 11 (4) - 22 (8) | 1-1 |
 | 2026-11-22 | Ligue 1 | Paris FC 4-0 Angers | fuera | 2-10 | 9 (1) - 18 (9) | 1-1 |
 | 2026-11-08 | Ligue 1 | Angers 0-2 Nice | casa | 6-4 | 12 (4) - 16 (8) | 3-1 |
 | 2026-11-01 | Ligue 1 | Lyon 2-0 Angers | fuera | 3-4 | 8 (2) - 21 (5) | 1-0 |
 | 2026-10-25 | Ligue 1 | Angers 0-0 Lorient | casa | 6-7 | 8 (5) - 10 (1) | 1-1 |
 | 2026-10-18 | Ligue 1 | Angers 2-5 Marseille | casa | 2-5 | 11 (3) - 21 (8) | 1-1 |
-| 2026-10-10 | Ligue 1 | Stade Brestois 29 5-1 Angers | fuera | 5-4 | 9 (3) - 19 (9) | 1-1 |
 
 ## Jugadores de Angers
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Anthony Lopes | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| B. van den Boomen | M | 11 | 977 | 1 | 1 | 4 | 0,4 | 2 | 0,2 | 16 | 6 | 0,5 | 3 | 0 |
-| A. Sbaï | M | 11 | 940 | 1 | 1 | 20 | 1,8 | 5 | 0,5 | 9 | 15 | 1,4 | 0 | 0 |
-| Y. Belkhdim | M | 11 | 904 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 17 | 8 | 0,7 | 2 | 0 |
-| O. Camara | D | 10 | 844 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 5 | 2 | 0,2 | 2 | 0 |
-| J. Kalulu | D | 10 | 828 | 0 | 1 | 3 | 0,3 | 2 | 0,2 | 3 | 12 | 1,2 | 1 | 0 |
-| J. Lefort | D | 9 | 779 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 11 | 8 | 0,9 | 2 | 1 |
-| C. Arcus | D | 10 | 746 | 1 | 0 | 3 | 0,3 | 2 | 0,2 | 4 | 3 | 0,3 | 1 | 0 |
-| J. Allevinah | F | 11 | 694 | 0 | 0 | 12 | 1,1 | 5 | 0,5 | 9 | 17 | 1,5 | 2 | 0 |
-| A. El Ouazzani | F | 9 | 562 | 2 | 2 | 10 | 1,1 | 4 | 0,4 | 6 | 10 | 1,1 | 0 | 0 |
-| P. Peter | F | 10 | 488 | 2 | 0 | 12 | 1,2 | 6 | 0,6 | 5 | 14 | 1,4 | 1 | 0 |
-| L. Rao-Lisoa | D | 10 | 470 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 1 | 6 | 0,6 | 0 | 0 |
-| H. Belkebla | M | 6 | 392 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 7 | 5 | 0,8 | 0 | 0 |
+| Anthony Lopes | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| B. van den Boomen | M | 12 | 1059 | 1 | 2 | 7 | 0,6 | 3 | 0,2 | 16 | 6 | 0,5 | 3 | 0 |
+| Y. Belkhdim | M | 12 | 994 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 18 | 10 | 0,8 | 2 | 0 |
+| A. Sbaï | F | 12 | 957 | 1 | 1 | 20 | 1,7 | 5 | 0,4 | 9 | 15 | 1,2 | 0 | 0 |
+| O. Camara | D | 11 | 934 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 6 | 3 | 0,3 | 2 | 0 |
+| J. Kalulu | D | 11 | 911 | 0 | 1 | 3 | 0,3 | 2 | 0,2 | 3 | 12 | 1,1 | 1 | 0 |
+| J. Lefort | D | 10 | 869 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 12 | 8 | 0,8 | 2 | 1 |
+| C. Arcus | D | 11 | 753 | 1 | 0 | 3 | 0,3 | 2 | 0,2 | 4 | 3 | 0,3 | 1 | 0 |
+| J. Allevinah | F | 12 | 695 | 0 | 0 | 12 | 1,0 | 5 | 0,4 | 9 | 17 | 1,4 | 2 | 0 |
+| A. El Ouazzani | F | 10 | 644 | 4 | 2 | 13 | 1,3 | 6 | 0,6 | 8 | 14 | 1,4 | 0 | 0 |
+| P. Peter | F | 11 | 577 | 2 | 0 | 16 | 1,5 | 7 | 0,6 | 5 | 15 | 1,4 | 1 | 0 |
+| L. Rao-Lisoa | D | 11 | 560 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 3 | 7 | 0,6 | 0 | 0 |
+| H. Belkebla | M | 7 | 482 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 8 | 6 | 0,9 | 1 | 0 |
 | A. Bermont | M | 8 | 255 | 0 | 0 | 4 | 0,5 | 0 | 0,0 | 7 | 6 | 0,8 | 1 | 0 |
+| E. Biumla | D | 4 | 215 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 3 | 5 | 1,2 | 1 | 0 |
 | M. Gernigon | D | 3 | 208 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| Djibirin Harouna | F | 10 | 168 | 1 | 0 | 6 | 0,6 | 2 | 0,2 | 4 | 5 | 0,5 | 0 | 0 |
 | U. Simbakoli | F | 9 | 163 | 0 | 0 | 10 | 1,1 | 2 | 0,2 | 5 | 5 | 0,6 | 1 | 0 |
-| Djibirin Harouna | F | 9 | 160 | 1 | 0 | 6 | 0,7 | 2 | 0,2 | 3 | 5 | 0,6 | 0 | 0 |
-| E. Biumla | M | 3 | 142 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 2 | 2 | 0,7 | 1 | 0 |
 | Bané Diatta | M | 5 | 140 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 5 | 1,0 | 0 | 0 |
-| Jacques Ekomié | D | 1 | 90 | 0 | 0 | 2 | 2,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
+| L. Mouton | M | 6 | 96 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
