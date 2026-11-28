@@ -17098,7 +17098,7 @@
     "cuotas": [
       1.62,
       1.73,
-      1.95,
+      2.0,
       2.3
     ],
     "solo_redes": true,
@@ -17118,7 +17118,8 @@
     "cuota_bet365": 8.39,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-28T13:12"
   },
   {
     "id": "2026-11-28-estrella-1575235",
