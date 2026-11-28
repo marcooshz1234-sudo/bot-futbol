@@ -71,6 +71,39 @@
    "justa": 2.12,
    "ev": -0.01,
    "fuente": "Pinnacle",
+   "edad_h": 0.5
+  },
+  {
+   "local": "QPR",
+   "visitante": "Sheffield Utd",
+   "inicio": "2026-11-28T16:00",
+   "texto": "Gana el QPR",
+   "cuota": 2.0,
+   "justa": 2.03,
+   "ev": -0.013,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Manchester United",
+   "visitante": "Brentford",
+   "inicio": "2026-11-28T16:00",
+   "texto": "Brentford marca 2 o más",
+   "cuota": 2.2,
+   "justa": 2.23,
+   "ev": -0.013,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Birmingham",
+   "visitante": "Bolton",
+   "inicio": "2026-11-28T16:00",
+   "texto": "Birmingham marca 2 o más",
+   "cuota": 1.5,
+   "justa": 1.52,
+   "ev": -0.015,
+   "fuente": "Pinnacle",
    "edad_h": 0.0
   },
   {
@@ -82,11 +115,33 @@
    "justa": 1.83,
    "ev": -0.015,
    "fuente": "Pinnacle",
+   "edad_h": 0.5
+  },
+  {
+   "local": "Albacete",
+   "visitante": "Tenerife",
+   "inicio": "2026-11-28T16:15",
+   "texto": "Tenerife o empate",
+   "cuota": 1.8,
+   "justa": 1.83,
+   "ev": -0.016,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
+   "local": "West Ham",
+   "visitante": "Stoke City",
+   "inicio": "2026-11-28T16:00",
+   "texto": "Ambos marcan en West Ham–Stoke City",
+   "cuota": 1.8,
+   "justa": 1.83,
+   "ev": -0.018,
+   "fuente": "las otras casas",
    "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-28T08:04",
+  "hora": "2026-11-28T08:34",
   "revisadas": 0,
   "mejor": null
  },
